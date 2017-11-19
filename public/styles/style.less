@@ -1,3 +1,67 @@
-.greeting {
-    padding: 20px;
+
+.overview {
+    margin-bottom: 20px;
 }
+
+.article-page {
+    .scrollable {
+        position: absolute;
+        bottom: 20px;
+        top: 145px;
+        display: flex;
+        .article-list {
+            flex-basis: 50%;
+            overflow-y: auto;
+            ul {
+                list-style: none;
+                padding-left: 10px;
+                .year-divider {
+                    font-size: 78px;
+                    line-height: 1;
+                    color: gray;
+                    padding: 20px 0;
+                }
+                li {
+                    margin-right: 10px;
+                    .selected {
+                        background: #ddf0f7;
+                        padding: 10px;
+                        border-radius: 4px;
+                    }
+                    .selectable {
+                        cursor: pointer;
+                        padding: 10px;
+                    }
+                    .article-title {
+                        font-size: 120%;
+                    }
+                    .article-publication {
+                        color: grey;
+                        font-style: italic;
+                    }
+                    .article-date {
+                        color: grey;
+                        font-style: italic;
+                    }
+                    .article-summary {
+
+                    }
+                }
+            }
+        }
+        .preview-panel {
+            flex-basis: 50%;
+            overflow-y: auto;
+        }
+    }
+    .preview-selection {
+        text-align: center;
+        a {
+            margin: 0 5px;
+        }
+    }
+    .preview-image {
+        width: 100%;
+    }
+}
+

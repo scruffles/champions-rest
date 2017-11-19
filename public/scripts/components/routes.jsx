@@ -1,10 +1,10 @@
 import React from 'react';
-import {BrowserRouter, Route} from 'react-router-dom';
-import Hello from './Hello';
+import {BrowserRouter} from 'react-router-dom';
+import Articles from './Articles';
 
 const routes = (
     <BrowserRouter>
-        <Route exact path="/tom-allen" component={Hello}/>
+        <Articles/>
     </BrowserRouter>
 );
 

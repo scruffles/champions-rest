@@ -38,6 +38,7 @@ if ( process.env.NODE_ENV !== 'production' ) {
 
 app.use(`${appBaseUrl}/styles`, express.static('./public/styles'));
 app.use(`${appBaseUrl}/scripts`, express.static('./public/scripts'));
+app.use(`${appBaseUrl}/images`, express.static('./public/images'));
 
 app.get('/*', (req, res) => {
     res.send(generateHtml(appBaseUrl));
