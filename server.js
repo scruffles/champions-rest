@@ -5,7 +5,7 @@
 const express = require('express');
 const compression = require('compression');
 
-const appBaseUrl = '/tom-allen';
+const appBaseUrl = '';
 
 const app = express();
 app.use(compression());
@@ -40,29 +40,10 @@ app.use(`${appBaseUrl}/styles`, express.static('./public/styles'));
 app.use(`${appBaseUrl}/scripts`, express.static('./public/scripts'));
 app.use(`${appBaseUrl}/images`, express.static('./public/images'));
 
+const indexFile = require('fs').readFileSync('./public/index.html', {encoding: 'UTF-8'})
 app.get('/*', (req, res) => {
-    res.send(generateHtml(appBaseUrl));
+    res.send(indexFile);
 });
-
-const generateHtml = (baseUrl) => {
-    return `
-    <!DOCTYPE html>
-    <html>
-    <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>tom-allen</title>
-    <link rel="stylesheet" href="//static-assets.velocity.ag/styles/1.0.1/velocity.css">
-    <link rel="stylesheet" href="${baseUrl}/styles/style.css">
-    </head>
-            <body>
-                <div class="nav"></div>
-                <div class="contents"></div>
-                <script type="text/javascript" src="${baseUrl}/service-bindings"></script>
-                <script type="text/javascript" src="${baseUrl}/scripts/bundle.js"></script>
-            </body>
-    </html>
-    `
-};
 
 app.use('/*', (err, req, res, next) => {
     console.error(err); // handle uncaught errors

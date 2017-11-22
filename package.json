@@ -18,12 +18,13 @@
     "url": ""
   },
   "dependencies": {
-    "@monsantoit/velocity-service-bindings": "~3.2.1",
     "@monsantoit/ping-page": "~2.0.4",
+    "@monsantoit/velocity-service-bindings": "~3.2.1",
+    "bootstrap": "~4.0.0-beta.2",
     "compression": "~1.6.2",
     "express": "~4.15.2",
-    "underscore": "~1.8.3",
-    "moment": "^2.18.1"
+    "moment": "^2.18.1",
+    "underscore": "~1.8.3"
   },
   "devDependencies": {
     "@monsantoit/preferences-client": "~3.1.3",

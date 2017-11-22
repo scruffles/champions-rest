@@ -42,9 +42,9 @@ class PreviewPanel extends React.Component {
                 {
                     this.props.article ?
                     this.state.previewType === 'small-pic' ?
-                        <img src={`/tom-allen/${this.props.article.localCopyEdited}`} className='preview-image'/> :
+                        <img src={`/${this.props.article.localCopyEdited}`} className='preview-image'/> :
                     this.state.previewType === 'large-pic' ?
-                        <img src={`/tom-allen/${this.props.article.localCopyFull}`} className='preview-image'/> :
+                        <img src={`/${this.props.article.localCopyFull}`} className='preview-image'/> :
                     this.state.previewType === 'text' ?
                         <div>no text</div>
                     : null : null
@@ -57,11 +57,13 @@ class PreviewPanel extends React.Component {
 class Articles extends React.Component {
 
     setSelectedArticle(selectedArticle) {
-        this.props.history.push({pathname: `/tom-allen/articles/${selectedArticle.id}`})
+        this.props.history.push({pathname: `/articles/${selectedArticle.id}`})
     }
 
     componentDidMount() {
-        document.querySelector(`.article-${this.props.match.params.id}`).scrollIntoView({behavior: "instant", block: "center", inline: "center"})
+        if (this.props.match.params.id)
+            document.querySelector(`.article-${this.props.match.params.id}`)
+            .scrollIntoView({behavior: "instant", block: "center", inline: "center"})
     }
 
     render() {
@@ -104,7 +106,11 @@ class Articles extends React.Component {
     }
 }
 
-export default () => <Route path="/tom-allen/articles/:id" component={Articles} />
+export default () =>
+    <div>
+        <Route path="/articles/:id" exact={true} component={Articles} />
+        <Route path="/articles" exact={true} component={Articles} />
+    </div>
 
 // "publication": "St. Louis Post-Dispatch",
 // "sourceDate": "1936-06-21",

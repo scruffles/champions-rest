@@ -1,10 +1,22 @@
 import React from 'react';
 import {BrowserRouter} from 'react-router-dom';
+import Navbar from './Navbar';
+import Home from './Home';
 import Articles from './Articles';
+import Biography from './Biography';
+import Record from './Record';
+import About from './About';
 
 const routes = (
     <BrowserRouter>
-        <Articles/>
+        <div>
+            <Navbar/>
+            <Home/>
+            <Biography/>
+            <Record/>
+            <Articles/>
+            <About/>
+        </div>
     </BrowserRouter>
 );
 

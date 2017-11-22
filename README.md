@@ -1,9 +1,15 @@
-# tom-allen
+# champions-rest.com
+
+This is the source for champions-rest.com which documents the life of Tom Allen: world heavyweight champion pugilist of the 1870s.
 
 
 
-Keywords:
-
+## TODO
+* remove all monsanto shit
+* replace font
+* alias www.champions-rest.com to champtions-rest.com
+* write some upload scripts
+* put everything on github
 
 
 Setup:
@@ -14,7 +20,7 @@ Please navigate to your project folder and run the following to start your proje
 
 `npm run dev`
 
-Then navigate to the following url to see your project in action: `http://localhost:3000/tom-allen`
+Then navigate to the following url to see your project in action: `http://localhost:3000/`
 
 Use the following command to run your tests once: `npm test`
 
