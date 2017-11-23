@@ -8,16 +8,18 @@ import Record from './Record';
 import About from './About';
 
 const routes = (
-    <BrowserRouter>
-        <div>
-            <Navbar/>
-            <Home/>
-            <Biography/>
-            <Record/>
-            <Articles/>
-            <About/>
-        </div>
-    </BrowserRouter>
+    <div className='container content no-pad'>
+        <BrowserRouter>
+            <div>
+                <Navbar/>
+                <Home/>
+                <Biography/>
+                <Record/>
+                <Articles/>
+                <About/>
+            </div>
+        </BrowserRouter>
+    </div>
 );
 
 export default routes;

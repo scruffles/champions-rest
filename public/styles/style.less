@@ -1,5 +1,59 @@
 @import (inline) "../../node_modules/bootstrap/dist/css/bootstrap.css";
 
+@color1: #D9CAB6;
+@color2: #99805F;
+@color3: #B7A388;
+@color4: #FFF6EA;
+@color5: #D9CAB6;
+@highlight-color: #734d2a;
+
+body {
+    background-color: @color2;
+    .content {
+        background-color: @color4;
+        min-height: 800px;
+        padding-left: 0;
+        padding-right: 0;
+        .container {
+            padding: 25px 87px;
+        }
+    }
+    .navbar {
+        background-color: @color1;
+        overflow-y: hidden;
+        align-items: flex-end;
+        padding: 0;
+        .navbar-brand {
+            color: @highlight-color;
+            padding: 15px;
+            img {
+                margin: -27px 10px -27px -15px;
+                width: 100px;
+                height: auto;
+                float: left;
+            }
+            .title {
+                line-height: 1;
+                font-size: 29px;
+            }
+            .subtitle {
+                font-size: 14px;
+                color: #a57943;
+            }
+        }
+        .navbar-nav {
+            padding-right: 25px;
+            .nav-link {
+                padding: 10px 15px;
+                &.active {
+                    border-bottom: 3px solid;
+                }
+                color: white;
+            }
+        }
+    }
+}
+
 .overview {
     margin-bottom: 20px;
 }
