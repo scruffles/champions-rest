@@ -123,14 +123,27 @@ body {
             .preview-panel {
                 flex-basis: 60%;
                 padding: 10px;
-                overflow-y: auto;
+                .scrollable-preview {
+                    overflow-y: auto;
+                    position: fixed;
+                    bottom: 12px;
+                    top: 140px;
+                    max-width: 660px;
+                }
             }
         }
     }
     .preview-selection {
         text-align: center;
         a {
-            margin: 0 5px;
+            margin: 0px;
+            padding: 5px 18px;
+            color: #98805f;
+            &.selected {
+                background: #997f5f;
+                color: white;
+                border-radius: 3px;
+            }
         }
     }
     .preview-image {

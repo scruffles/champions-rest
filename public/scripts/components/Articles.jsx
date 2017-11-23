@@ -35,10 +35,14 @@ class PreviewPanel extends React.Component {
         return (
             <div className='preview-panel'>
                 <div className='preview-selection'>
-                    <a href='#' onClick={(e) => this.setPreviewType(e, 'small-pic')}>edited</a>
-                    <a href='#' onClick={(e) => this.setPreviewType(e, 'large-pic')}>full</a>
-                    <a href='#' onClick={(e) => this.setPreviewType(e, 'text')}>text</a>
+                    <a href='#' className={this.state.previewType === 'small-pic' ? 'selected' : ''}
+                       onClick={(e) => this.setPreviewType(e, 'small-pic')}>article</a>
+                    <a href='#' className={this.state.previewType === 'large-pic' ? 'selected' : ''}
+                       onClick={(e) => this.setPreviewType(e, 'large-pic')}>full page</a>
+                    <a href='#' className={this.state.previewType === 'text' ? 'selected' : ''}
+                       onClick={(e) => this.setPreviewType(e, 'text')}>text</a>
                 </div>
+                <div className='scrollable-preview'>
                 {
                     this.props.article ?
                     this.state.previewType === 'small-pic' ?
@@ -49,6 +53,7 @@ class PreviewPanel extends React.Component {
                         <div>no text</div>
                     : null : null
                 }
+                </div>
             </div>
         )
     }
