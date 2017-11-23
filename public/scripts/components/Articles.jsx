@@ -33,7 +33,7 @@ class PreviewPanel extends React.Component {
 
     render() {
         return (
-            <div className='preview-panel' style={{flexBasis: '50%'}}>
+            <div className='preview-panel'>
                 <div className='preview-selection'>
                     <a href='#' onClick={(e) => this.setPreviewType(e, 'small-pic')}>edited</a>
                     <a href='#' onClick={(e) => this.setPreviewType(e, 'large-pic')}>full</a>
@@ -79,7 +79,6 @@ class Articles extends React.Component {
         return (
             <div className='article-page'>
                 <div className='container'>
-                    <h1>Articles</h1>
                     <div className='overview'>
                         {db.length} Articles
                     </div>
