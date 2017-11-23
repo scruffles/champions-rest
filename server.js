@@ -5,8 +5,6 @@
 const express = require('express');
 const compression = require('compression');
 
-const appBaseUrl = '';
-
 const app = express();
 app.use(compression());
 
@@ -16,17 +14,17 @@ if ( process.env.NODE_ENV !== 'production' ) {
     const middlewareOptions = {
         stats: { colors: true },
         noInfo: true,  // Comment this out for more verbose webpack information
-        publicPath: `${appBaseUrl}/scripts/`
+        publicPath: `/`
     };
     app.use(webpackDevMiddleware(webpack(require('./webpack.dev.config')), middlewareOptions));
 
     const lessMiddleware = require('less-middleware');
-    app.use(`${appBaseUrl}/styles`, lessMiddleware('./public/styles'));
+    app.use(lessMiddleware('./public/styles', {
+        dest: './public'
+    }))
 }
 
-app.use(`${appBaseUrl}/styles`, express.static('./public/styles'));
-app.use(`${appBaseUrl}/scripts`, express.static('./public/scripts'));
-app.use(`${appBaseUrl}/images`, express.static('./public/images'));
+app.use(`/`, express.static('./public'));
 
 const indexFile = require('fs').readFileSync('./public/index.html', {encoding: 'UTF-8'})
 app.get('/*', (req, res) => {
@@ -44,5 +42,5 @@ const hostname = process.env.NODE_ENV === 'production' ? undefined : '127.0.0.1'
 const server = app.listen(port, hostname, () => {
     const address = server.address();
     const url = `http://${address.host || 'localhost'}:${port}`;
-    console.info(`Listening at ${url}${appBaseUrl}/`);
+    console.info(`Listening at ${url}/`);
 });

@@ -32,7 +32,8 @@ benchmarks/graphs
 *.tgz
 
 
-/public/scripts/bundle.js
-/public/scripts/bundle.js.map
-/public/styles/style.css
+/public/bundle.js
+/public/bundle.js.map
+/public/style.css
 env.sh
+/public/images

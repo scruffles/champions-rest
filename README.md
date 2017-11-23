@@ -5,7 +5,6 @@ This is the source for champions-rest.com which documents the life of Tom Allen:
 
 
 ## TODO
-* remove all monsanto shit
 * replace font
 * alias www.champions-rest.com to champtions-rest.com
 * write some upload scripts

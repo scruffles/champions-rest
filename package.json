@@ -6,7 +6,7 @@
     "start": "NODE_ENV=production node ./bin/www",
     "dev": "cross-env NODE_ENV=development node ./bin/www",
     "clean": "rimraf public/styles/style.css public/scripts/bundle.js public/scripts/bundle.js.map",
-    "lessc": "cross-env lessc ./public/styles/style.less ./public/styles/style.css",
+    "lessc": "cross-env lessc ./public/styles/style.less ./public/style.css",
     "package": "cross-env NODE_ENV=production npm run lessc && webpack",
     "test": "mocha test",
     "test:dev": "mocha --watch test",
