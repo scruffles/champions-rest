@@ -3,10 +3,8 @@
 // tested with node 4.4.3
 // this file is not transpiled using babel
 const express = require('express');
-const compression = require('compression');
 
 const app = express();
-app.use(compression());
 
 if ( process.env.NODE_ENV !== 'production' ) {
     const webpackDevMiddleware = require('webpack-dev-middleware');
