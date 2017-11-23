@@ -1,8 +1,7 @@
 import React from 'react';
 import {Route} from 'react-router-dom';
-import db from '../../../database'
+import db from '../../../data/database'
 import moment from 'moment'
-import scrollToElement from 'scroll-to-element'
 
 const ArticleSummary = ({article, date, yearTitle, onClick, isSelected}) =>
     <li key={article.id} className={`article-${article.id}`}>

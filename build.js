@@ -1,5 +1,5 @@
 const _ = require('underscore')
-const db = require('./database')
+const db = require('./data/database')
 const moment = require('moment')
 
 const byDate = _(db).sortBy((rec) => {
