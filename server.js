@@ -10,18 +10,6 @@ const appBaseUrl = '';
 const app = express();
 app.use(compression());
 
-const addPingPage = () => {
-    const createPingPage = require('@monsantoit/ping-page');
-    const pingPage = createPingPage(require('./package.json'));
-    app.get('/ping', pingPage); // for cf-deploy smoke test
-    app.get(`${appBaseUrl}/ping`, pingPage); // for accessing through ocelot
-};
-
-addPingPage();
-
-const serviceBindingsRouter = require('@monsantoit/velocity-service-bindings')();
-app.use(`${appBaseUrl}/service-bindings`, serviceBindingsRouter);
-
 if ( process.env.NODE_ENV !== 'production' ) {
     const webpackDevMiddleware = require('webpack-dev-middleware');
     const webpack = require('webpack');
