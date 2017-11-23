@@ -6,6 +6,7 @@
 @color4: #FFF6EA;
 @color5: #D9CAB6;
 @highlight-color: #734d2a;
+@red-highlight: #903;
 
 body {
     background-color: @color2;
@@ -20,6 +21,18 @@ body {
         padding: 110px 87px;
     }
 }
+
+.drop-cap:first-letter {
+    color: @red-highlight;
+    float: left;
+    font-family: Georgia, serif;
+    font-size: 75px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
+}
+
 .navbar {
     background-color: @color1;
     overflow-y: hidden;
@@ -51,7 +64,7 @@ body {
         .nav-link {
             padding: 10px 15px;
             &.active {
-                border-bottom: 3px solid;
+                border-bottom: 3px solid @red-highlight;
             }
             color: white;
         }
@@ -151,3 +164,21 @@ body {
     }
 }
 
+.about {
+    img {
+        float: right;
+        border: 5px double #997f5f;
+        margin-left: 35px;
+        width: 300px;
+    }
+}
+
+.home {
+    min-height: 600px;
+    img {
+        float: left;
+        border: 5px double #997f5f;
+        margin-right: 35px;
+        width: 300px;
+    }
+}
