@@ -5,7 +5,7 @@ export default class Biography extends React.Component {
 
     render() {
         return (
-            <nav className="navbar navbar-expand-lg navbar-dark">
+            <nav className="navbar navbar-expand-sm navbar-dark">
                 <NavLink to="/" exact={true} className='navbar-brand nav-link'>
                     <img src='/images/logo.png'/>
                     <div className='title'>Champion's Rest</div>

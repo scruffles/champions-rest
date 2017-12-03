@@ -904,8 +904,8 @@ module.exports =
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1876-05-04",
             "title": "Tom Kelly’s Benefit",
-            "localCopyEdited": "images/articles/image-078.jpg",
-            "localCopyFull": "images/articles/image-078b.jpg",
+            "localCopyEdited": "images/articles/image-078b.jpg",
+            "localCopyFull": "images/articles/image-078.jpg",
             "id": "078"
         },
         {
@@ -1093,8 +1093,8 @@ module.exports =
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1882-02-08",
             "title": "The Gladiators",
-            "localCopyEdited": "images/articles/image-096.jpg",
-            "localCopyFull": "post-dispatch/St__Louis_Post_Dispatch_Wed__Feb_8__1882_ (1).jpg",
+            "localCopyEdited": "images/articles/image-096b.jpg",
+            "localCopyFull": "images/articles/image-096.jpg",
             "id": "096"
         },
         {
