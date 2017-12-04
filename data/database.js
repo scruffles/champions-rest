@@ -1357,7 +1357,7 @@ module.exports =
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1888-05-19",
             "title": "Allen arrested in connection to a fight",
-            "localCopyEdited": "images/articles/image-128.jpg",
+            "localCopyEdited": "missing",
             "localCopyFull": "post-dispatch/St__Louis_Post_Dispatch_Sat__May_19__1888_ (1).jpg",
             "id": "128"
         },

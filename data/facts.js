@@ -4,10 +4,11 @@ module.exports =
         {fact: 'Allen claims English championship title', articles: ['009']},
         {fact: 'Mace claims Allen lost the title to him in 1870, but Allen was still claiming the Championship of America until at least 1874', articles: ['059']},
         {fact: `Allen has saloon called "Concert Saloon" between O'Fallon and Biddle`, articles: ['016', '020']},
-        {fact: `Allen lived at 417 Washington Ave in 1870 & 1874 & 1875 & 1976`, articles: ['037', '050', '051', '052', '053', '054', '055', '258', '067', '068']},
+        {fact: `Allen lived at 417 Washington Ave (between 4th & 5th Streets) in 1870 & 1874 & 1875 & 1976`, articles: ['037', '050', '051', '052', '053', '054', '055', '258', '067', '068', '139']},
         {fact: `Closed down Free and Easy at 417 Washington in April 1876 to open a new place at 611 Fifth St.  He lost his lease and the building was being tore down.`, articles: ['068', '069']},
         {fact: `Allen opened a concert hall at 417 Washington Ave on March 4th 1871`, articles: ['041']},
         {fact: `Presented American championship belt April 29, 1870`, articles: ['032', '033', '034']},
+        {fact: `Bar owned in 1880s is on Market near 7th Street`, articles: ['138']},
         {fact: `Still claimed Championship of America in 1874`, articles: ['050']},
         {fact: `Still claimed Championship of America in 1877`, articles: ['090']},
         {fact: `Credited as rightful champion from 1869-1873`, articles: ['093']},
@@ -24,9 +25,20 @@ module.exports =
         {fact: `after losing to Goss in 1876, he says he will quit because of corruption involved in fights`, articles: ['087']},
         {fact: `1877 trip to Canada may be related to staying away from legal troubles in US`, articles: ['089']},
         {fact: `1877 trip to England`, articles: ['090']},
+        {fact: `1882 returns from England`, articles: ['097']},
+        {fact: `Dec 1882 returns to St Louis for good to setup a saloon with John C Gropper`, articles: ['100']},
         {fact: `St Louis was once known as the boxing center of America`, articles: ['093']},
         {fact: `Mike McCoole ended up losing his wealth and working in New Orleans doing manual labor`, articles: ['093']},
         {fact: 'sometime 1879 or earlier, Allen was set to fight [Ben?] Hogan.  Hogans supporters ensured the riverboat made it to the Illinios shore where police were waiting to arrest some prominent Allen supporters', articles: ['094']},
+        {fact: 'Allen prosecuted in Oct 1883 for a series of disruptions at his saloon.  Judge let him off.', articles: ['107']},
+        {fact: 'Allen Wrestles William Richards for $50/side on Dec 31 1883. he lost', articles: ['107']},
+        {fact: 'A man was shot in front of Allens Salloon in 1884', articles: ['113']},
+        {fact: '1886 Referred to as a bachelor.  There are hints that he was going to join the matrimonial ranks', articles: ['117']},
+        {fact: 'Allen seconds and manages other boxers & wrestlers', articles: ['117', '120', '127', '134']},
+        {fact: 'Allen manages a sword fighter', articles: ['121', '122']},
+        {fact: 'Spars with Hugh McManus in 1888', articles: ['125']},
+        {fact: 'Street fight between Allen and Dan Daly in Jun 1888.  Both sides fined.', articles: ['130', '131', '132']},
+        {fact: 'Allen arrested for managing a fight in Forisant', articles: ['135']},
     ]
 
 // good description of how people got to the fight on riverboat: 007
@@ -35,3 +47,5 @@ module.exports =
 // Tom and Jerry - https://www.reddit.com/r/todayilearned/comments/2fd17j/til_tom_and_jerry_was_a_british_slang_term_from/
 //   The original Tom and Jerry were characters in a story published by Pierce Egan, called Life in London or, the Day and Night Scenes of Jerry Hawthorn, esq., and his elegant friend, Corinthian Tom. This story was later adapted into a play called Tom and Jerry, or Life in London. The titular characters apparently got drunk and fought and caused trouble a lot, and their names ended up becoming synonymous with fighting and troublemaking.
 //   British were called Tommies and Germans, you guessed it, Jerries
+
+// 106 reference to later bar as 'free and easy' suggests the name refers to a type of saloon and not the name of the bar
