@@ -1522,8 +1522,8 @@ module.exports =
             "sourceDate": "1892-09-18",
             "title": "Local Pugilists",
             "summary": "Knights of the Five Who Have Lived in This City",
-            "localCopyEdited": "images/articles/image-148.jpg",
-            "localCopyFull": "post-dispatch/St__Louis_Post_Dispatch_Sun__Sep_18__1892_ (1).jpg",
+            "localCopyEdited": "images/articles/image-148b.jpg",
+            "localCopyFull": "images/articles/image-148.jpg",
             "id": "148"
         },
         {

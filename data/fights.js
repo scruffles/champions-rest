@@ -57,3 +57,5 @@ module.exports =
         {date: '?', opponent: 'Charley Davis', result: '?', articles: ['091'], details: ['Fought with gloves, Queesbury Rules', 'Allen weights 14 stone (196 lbs)'], location: 'England', stakes: '200£ and the championship'},
         {date: '1882', opponent: 'John L. Sullivan', plannedOnly: true, result: '?', articles: ['097', '098', '099', '102', '103'], details: ['Allen sick, fight called off', 'another article says Allens backer canceled when he saw how far Allen had been from his prime'], location: 'to fight near Kansas City'},
     ]
+
+// todo left off at 140

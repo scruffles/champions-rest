@@ -1,5 +1,7 @@
 module.exports =
     [
+        {fact: 'Born April 23', articles: ['141']},
+        {fact: 'Two daughters, both married. One in England, one in St Louis', articles: ['141']},
         {fact: 'Immigrated July 1867', articles: ['001', '007', '082']},
         {fact: 'Allen claims English championship title', articles: ['009']},
         {fact: 'Mace claims Allen lost the title to him in 1870, but Allen was still claiming the Championship of America until at least 1874', articles: ['059']},
@@ -8,7 +10,7 @@ module.exports =
         {fact: `Closed down Free and Easy at 417 Washington in April 1876 to open a new place at 611 Fifth St.  He lost his lease and the building was being tore down.`, articles: ['068', '069']},
         {fact: `Allen opened a concert hall at 417 Washington Ave on March 4th 1871`, articles: ['041']},
         {fact: `Presented American championship belt April 29, 1870`, articles: ['032', '033', '034']},
-        {fact: `Bar owned in 1880s is on Market near 7th Street`, articles: ['138']},
+        {fact: `Bar owned in 1880s - 1890s is on Market near 7th Street`, articles: ['138', '140', '141', '143']},
         {fact: `Still claimed Championship of America in 1874`, articles: ['050']},
         {fact: `Still claimed Championship of America in 1877`, articles: ['090']},
         {fact: `Credited as rightful champion from 1869-1873`, articles: ['093']},
