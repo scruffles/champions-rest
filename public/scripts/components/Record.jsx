@@ -18,7 +18,7 @@ class Record extends React.Component {
                     <tbody>
                     {
                         fights.map((fight) =>
-                            <tr className={`outer ${fight.plannedOnly ? 'planned-only' : ''}`} key={`${fight.date} ${fight.opponent}`}>
+                            <tr className={`outer ${fight.plannedOnly ? 'planned-only' : ''} ${fight.questionable ? 'questionable' : ''}`} key={`${fight.date} ${fight.opponent}`}>
                                 <td className='date'>{reformatDate(fight.date)}</td>
                                 <td className='result'>{fight.result}</td>
                                 <td className='opponent'>{fight.opponent}</td>
@@ -26,6 +26,7 @@ class Record extends React.Component {
                                     <table>
                                         <tbody>
                                             {fight.plannedOnly ? <tr><td colSpan={2} className='planned-only'>No Fight - Planned Only</td></tr> : null}
+                                            {fight.questionable ? <tr><td colSpan={2} className='questionable'>Questionable Sources</td></tr> : null}
                                             <tr><td>Stakes</td><td>{fight.stakes}</td></tr>
                                             <tr><td>Rounds</td><td>{fight.rounds}</td></tr>
                                             <tr><td>Fight Time</td><td>{fight.time}</td></tr>

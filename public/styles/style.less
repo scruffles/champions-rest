@@ -192,10 +192,15 @@ body {
                 background-color: #f3ebe1;
             }
         }
-        tr.planned-only {
+        tr.planned-only, tr.questionable {
             color: #b9b9b9;
-            td.planned-only {
-                color: black;
+            td.planned-only, td.questionable {
+                color: #90897f;
+                position: absolute;
+                margin-top: 53px;
+                margin-left: -40px;
+                font-size: 150%;
+                transform: rotate(-20deg);
             }
         }
         td {

@@ -1543,10 +1543,21 @@ module.exports =
             "id": "150"
         },
         {
+            "publication": "Annie Bronson King",
+            "sourceDate": "1892-01-01",
+            "title": "Our Children of the Slums",
+            "summary": "Book with one excerpt taking place in Allen's Saloon",
+            "link": "https://play.google.com/store/books/details?id=emoXAAAAYAAJ&rdid=book-emoXAAAAYAAJ",
+            "localCopyEdited": "images/articles/our-children-of-the-slums.jpg",
+            "localCopyFull": "images/articles/our-children-of-the-slums.jpg",
+            "id": "book"
+        },
+        {
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1893-02-05",
-            "title": "a review of a book, part of which takes place in Tom Allen’s bar",
-            "summary": "The book:\nhttps://books.google.com/books?id=emoXAAAAYAAJ&vq=tom%20allen&pg=PA34-IA2#v=snippet&q=tom%20allen&f=false\npgs 34-38",
+            "title": "The Book Table",
+            "summary": "a review of a book, part of which takes place in Tom Allen’s bar (above)",
+            "link": "The book:\nhttps://books.google.com/books?id=emoXAAAAYAAJ&vq=tom%20allen&pg=PA34-IA2#v=snippet&q=tom%20allen&f=false\npgs 34-38",
             "localCopyEdited": "images/articles/image-151b.jpg",
             "localCopyFull": "images/articles/image-151.jpg",
             "id": "151"
@@ -1555,24 +1566,24 @@ module.exports =
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1893-03-02",
             "title": "Tom Allen at New Orleans",
-            "localCopyEdited": "images/articles/image-152.jpg",
-            "localCopyFull": "post-dispatch/St__Louis_Post_Dispatch_Thu__Mar_2__1893_ (1).jpg",
+            "localCopyEdited": "images/articles/image-152b.jpg",
+            "localCopyFull": "images/articles/image-152.jpg",
             "id": "152"
         },
         {
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1893-03-07",
             "title": "Tom Allen weighs in on a fight",
-            "localCopyEdited": "images/articles/image-153.jpg",
-            "localCopyFull": "post-dispatch/St__Louis_Post_Dispatch_Tue__Mar_7__1893_ (1).jpg",
+            "localCopyEdited": "images/articles/image-153b.jpg",
+            "localCopyFull": "images/articles/image-153.jpg",
             "id": "153"
         },
         {
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1893-10-21",
             "title": "Tom Allen thinks Birmingham Fighers the best in the world",
-            "localCopyEdited": "images/articles/image-154.jpg",
-            "localCopyFull": "post-dispatch/St__Louis_Post_Dispatch_Sat__Oct_21__1893_ (1).jpg",
+            "localCopyEdited": "images/articles/image-154b.jpg",
+            "localCopyFull": "images/articles/image-154.jpg",
             "id": "154"
         },
         {
@@ -1580,8 +1591,8 @@ module.exports =
             "sourceDate": "1893-12-29",
             "title": "Corbett’s Stomach",
             "summary": "Where Tom Allen thinks Mitchell will direct his blows",
-            "localCopyEdited": "images/articles/image-155.jpg",
-            "localCopyFull": "post-dispatch/St__Louis_Post_Dispatch_Fri__Dec_29__1893_ (1).jpg",
+            "localCopyEdited": "images/articles/image-155b.jpg",
+            "localCopyFull": "images/articles/image-155.jpg",
             "id": "155"
         },
         {
@@ -1596,24 +1607,24 @@ module.exports =
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1894-01-15",
             "title": "Gov Mitchell and Bowden will fight to a finish",
-            "localCopyEdited": "images/articles/image-157.jpg",
-            "localCopyFull": "post-dispatch/St__Louis_Post_Dispatch_Mon__Jan_15__1894_ (1).jpg",
+            "localCopyEdited": "images/articles/image-157b.jpg",
+            "localCopyFull": "images/articles/image-157.jpg",
             "id": "157"
         },
         {
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1894-01-19",
             "title": "Tom Allen’s little joke",
-            "localCopyEdited": "images/articles/image-158.jpg",
-            "localCopyFull": "post-dispatch/St__Louis_Post_Dispatch_Fri__Jan_19__1894_ (1).jpg",
+            "localCopyEdited": "images/articles/image-158b.jpg",
+            "localCopyFull": "images/articles/image-158.jpg",
             "id": "158"
         },
         {
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1894-01-22",
             "title": "Tom Allen finds a Porpoise",
-            "localCopyEdited": "images/articles/image-159.jpg",
-            "localCopyFull": "post-dispatch/St__Louis_Post_Dispatch_Mon__Jan_22__1894_ (1).jpg",
+            "localCopyEdited": "images/articles/image-159b.jpg",
+            "localCopyFull": "images/articles/image-159.jpg",
             "id": "159"
         },
         {
@@ -1647,8 +1658,8 @@ module.exports =
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1894-03-08",
             "title": "Robber found at Tom Allen’s saloon",
-            "localCopyEdited": "images/articles/image-163.jpg",
-            "localCopyFull": "post-dispatch/St__Louis_Post_Dispatch_Thu__Mar_8__1894_ (1).jpg",
+            "localCopyEdited": "images/articles/image-163b.jpg",
+            "localCopyFull": "images/articles/image-163.jpg",
             "id": "163"
         },
         {
