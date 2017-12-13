@@ -1897,7 +1897,7 @@ module.exports =
         {
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1901-03-04",
-            "title": "Man falls (pushed?) down stairs at Allen’s Saloon and dies",
+            "title": "Tom Allen Discharged",
             "localCopyEdited": "images/articles/image-192.jpg",
             "id": "192"
         },
@@ -2100,9 +2100,11 @@ module.exports =
             "publication": "St. Louis Post-Dispatch",
             "sourceDate": "1903-06-20",
             "title": "Uneasy Spirit at Champion’s Rest",
+            "summary": "Changes at Champions Rest wake the Spirit of Allen?",
             "localCopyEdited": "images/articles/image-216b.jpg",
             "localCopyFull": "images/articles/image-216.jpg",
-            "id": "216"
+            "id": "216",
+            "featuredArticle": true,
         },
         {
             "publication": "St. Louis Post-Dispatch",
@@ -2165,9 +2167,10 @@ module.exports =
         {
             "publication": "The St. Louis Star and Times",
             "sourceDate": "1910-04-24",
-            "title": "alcoholism",
-            "localCopyEdited": "images/articles/image-224.jpg",
-            "localCopyFull": "star-and-times/The_St__Louis_Star_and_Times_Sun__Apr_24__1910_ (1).jpg",
+            "title": "Deaths 'Policy' Game",
+            "summary": "a story about alcoholism calling out Champion's Rest",
+            "localCopyEdited": "images/articles/image-224b.jpg",
+            "localCopyFull": "images/articles/image-224.jpg",
             "id": "224"
         },
         {
