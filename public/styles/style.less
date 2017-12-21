@@ -227,3 +227,103 @@ body {
         }
     }
 }
+
+.biography {
+    .captioned-image {
+        display: table;
+        img {
+            border: 5px double #997f5f;
+        }
+        .caption {
+            display: table-caption;
+            caption-side: bottom;
+            text-align: center;
+            font-size: 80%;
+            margin-top: 8px;
+        }
+    }
+    .reference {
+        cursor: pointer;
+        &:hover {
+            color: #997f5f;
+        }
+        .superscript {
+            font-variant: small-caps;
+            vertical-align: super;
+            margin-left: 2px;
+            line-height: 0.5;
+        }
+    }
+
+    .foot-note {
+        position: fixed;
+        bottom: 0;
+        background: white;
+        width: 1000px;
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        padding: 12px 25px 0;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border: 1px solid #716556;
+        border-bottom: none;
+        max-height: 300px;
+        overflow-y: auto;
+        .fact {
+            font-style: italic;
+        }
+        .article-publication {
+            margin-left: 5px;
+            color: grey;
+            font-style: italic;
+        }
+        .close {
+            font-family: sans-serif;
+            font-size: 15pt;
+        }
+    }
+
+    h2 {
+        text-align: center;
+        font-variant: all-small-caps;
+        color: gray;
+        font-size: 18pt;
+    }
+
+    .quote {
+        display: block;
+        font-style: italic;
+        margin: 10px 20px;
+        .attribution {
+            display: block;
+            .speaker {
+                margin-left: 40px;
+            }
+            .quote-source {
+                margin-left: 5px;
+                font-size: 80%;
+            }
+        }
+    }
+
+    .pull-right {
+        float: right;
+        margin-left: 40px;
+    }
+
+    .pull-left {
+        float: left;
+        margin-right: 40px;
+    }
+
+    .inline {
+        display: inline-table;
+        margin: 0 20px 50px;
+    }
+
+    .misc-photos {
+        text-align: center;
+    }
+}
+

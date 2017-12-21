@@ -3,8 +3,9 @@
 This is the source for champions-rest.com which documents the life of Tom Allen: world heavyweight champion pugilist of the 1870s.
 
 ## TODO
-* replace font
-
+* TLS
+* Google maps of bar locations
+* Google maps of fight locations
 
 ## Running Locally
 

@@ -452,7 +452,7 @@ module.exports =
             id: "040"
         },
         {
-            title: "Untitled",
+            title: "Grand Opening",
             publication: "St. Louis Republican",
             details: "pg 3, col 8",
             sourceDate: "1871-03-03",
@@ -1430,7 +1430,7 @@ module.exports =
             link: "https://play.google.com/store/books/details?id=emoXAAAAYAAJ&rdid=book-emoXAAAAYAAJ",
             localCopyEdited: "images/articles/our-children-of-the-slums.jpg",
             localCopyFull: "images/articles/our-children-of-the-slums.jpg",
-            id: "book"
+            id: "265"
         },
         {
             publication: "St. Louis Post-Dispatch",
@@ -1816,7 +1816,8 @@ module.exports =
         {
             publication: "St. Louis Post-Dispatch",
             sourceDate: "1903-03-27",
-            title: "Allen (64) will mary his 21 year old nurse when he recovers (he doesn’t)",
+            title: 'Tom Allen will Wed his Nurse',
+            summary: "Allen (64) will mary his 21 year old nurse when he recovers (he doesn’t)",
             localCopyEdited: "images/articles/image-197b.jpg",
             localCopyFull: "images/articles/image-197.jpg",
             id: "197"
