@@ -42,14 +42,19 @@ body {
     position: fixed;
     width: 1140px;
     z-index: 10;
+    .mr-auto {
+        padding: 0;
+    }
     .navbar-brand {
         color: @highlight-color;
-        padding: 15px;
+        padding: 15px 0 0x 15px;
+        margin-right: 0;
         img {
             margin: -27px 10px -27px -15px;
-            width: 100px;
-            height: auto;
+            width: 90px;
+            height: 90px;
             float: left;
+            max-width: none;
         }
         .title {
             line-height: 1;
@@ -327,3 +332,71 @@ body {
     }
 }
 
+@media (min-width: 576px) {
+    .container {
+        max-width: 100%;
+    }
+    .navbar {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 100%;
+    }
+    .navbar {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .navbar {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
+    .navbar {
+        max-width: 1140px;
+    }
+}
+
+@media (max-width: 750px) {
+    .content {
+        .container {
+            padding: 110px 10px;
+            max-width: 100%;
+        }
+    }
+    img {
+        max-width: 90%;
+    }
+    .navbar {
+        width: 100%;
+        flex-flow: row nowrap;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        .title {
+            display: none;
+        }
+        .subtitle {
+            display: none;
+        }
+        .navbar-nav {
+            font-size: 68%;
+            flex-direction: row;
+        }
+    }
+    table {
+        overflow: auto;
+        display: block;
+    }
+    .biography .foot-note {
+        width: 100%;
+    }
+}

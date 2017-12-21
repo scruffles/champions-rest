@@ -83,10 +83,7 @@ class Articles extends React.Component {
         return (
             <div className='article-page'>
                 <div className='container'>
-                    <div className='overview'>
-                        {db.length} Articles
-                    </div>
-                    <div className='container scrollable'>
+                    <div className='scrollable'>
                         <div className='article-list'>
                             <ul>
                                 {
