@@ -314,15 +314,36 @@ class Biography extends React.Component {
                         Allen 10 years post-retirement
                     </CaptionedImage>
 
-                    <CaptionedImage src='/images/pictures/image-117b.jpg' align='inline' article='117'/>
+                    <CaptionedImage src='/images/pictures/image-117b.jpg' align='inline' article='117'>
+                        Songs being sung in Champion's Rest
+                    </CaptionedImage>
 
-                    <CaptionedImage src='/images/pictures/image-171a.jpg' align='inline' article='171'/>
-                    <CaptionedImage src='/images/pictures/image-203c.jpg' align='inline' article='203'/>
-                    <CaptionedImage src='/images/pictures/image-209a.jpg' align='inline' article='209'/>
-                    <CaptionedImage src='/images/pictures/image-220b.jpg' align='inline' article='220'/>
+                    <CaptionedImage src='/images/pictures/image-171a.jpg' align='inline' article='171'>
+                        Allen (end) and Tom Kelly assessing Jim Corbett before a fight
+                    </CaptionedImage>
+
+                    <CaptionedImage src='/images/pictures/image-203c.jpg' align='inline' article='203'>
+                        The Market Street intrance of Champion's Rest near the turn of the century
+                    </CaptionedImage>
+
+                    <CaptionedImage src='/images/pictures/image-209a.jpg' align='inline' article='209'>
+                        Inside the concert room of the Champion's Rest near the turn of the century
+                    </CaptionedImage>
+
+                    <CaptionedImage src='/images/pictures/image-220b.jpg' align='inline' article='220'>
+                        After Allen's death the concert room had a moving picture machine installed
+                    </CaptionedImage>
+
                     <CaptionedImage src='/images/pictures/image-242b.jpg' align='inline' article='242'/>
-                    <CaptionedImage src='/images/pictures/image-247a.jpg' align='inline' article='247'/>
-                    <CaptionedImage src='/images/pictures/image-255b.jpg' align='inline' article='255'/>
+
+                    <CaptionedImage src='/images/pictures/image-247a.jpg' align='inline' article='247'>
+                        Allen (in white) with 'Denver' Ed Smith in 1893
+                    </CaptionedImage>
+
+                    <CaptionedImage src='/images/pictures/image-255b.jpg' align='inline' article='255'>
+                        An impromptu fight between patrons at the Champion's Rest
+                    </CaptionedImage>
+
                     <CaptionedImage src='/images/pictures/tom-allen2.jpg' align='inline'/>
 
                 </div>
