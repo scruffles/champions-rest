@@ -55,7 +55,7 @@ class CaptionedImage extends React.Component {
                         <div>
                             <a href={`/articles/${source.id}`}>
                                 <span className='source'>{source.publication}</span>
-                                {' • '}
+                                {` ${String.fromCharCode(183)} `}
                                 <span className='source'>{moment(source.sourceDate, 'YYYY-MM-DD').format('MMM Do YYYY')}</span>
                             </a>
                             {/*<div className='source'>{source.title}</div>*/}
@@ -76,7 +76,7 @@ class Quote extends React.Component {
                 <span className='attribution'>
                     <span className='speaker'> - {this.props.speaker}</span>
                     <span className='quote-source'>
-                        (<a href={`/articles/${article.id}/`}><span className='source'>{article.publication}</span>{' • '}<span className='source'>{moment(article.sourceDate, 'YYYY-MM-DD').format('MMM Do YYYY')}</span></a>)
+                        (<a href={`/articles/${article.id}/`}><span className='source'>{article.publication}</span>{` ${String.fromCharCode(183)} `}<span className='source'>{moment(article.sourceDate, 'YYYY-MM-DD').format('MMM Do YYYY')}</span></a>)
                     </span>
                 </span>
             </span>
@@ -138,7 +138,7 @@ class Biography extends React.Component {
                 </p>
 
                 <h2>Early Life</h2>
-                <p className='drop-cap'>
+                <p>
                     Tom Allen was born in <Ref id='001'>Birmingham England on April 23, 1839.</Ref> Not much is known
                     about his early life and family. <Ref id='002'>He learned the trade of gun making as a youth</Ref>,
                     and went into the <Ref id='003'>English Army to fight in the Crimean War.</Ref> <Ref id='004'>It was
@@ -159,7 +159,7 @@ class Biography extends React.Component {
                 <h2>Fights in America</h2>
                 <CaptionedImage src='/images/pictures/image-180a.jpg' align='left' article='180'/>
 
-                <p>
+                <p className='drop-cap'>
                     <Ref id='006'>In July of 1867, Allen immigrated to the United States</Ref> where he settled in Cleveland Ohio.  His first fight was against <Fight id='002'>Bill Davis in January 1869</Fight>.  They fought on Chouteau Island near St Louis for $1,000/side.  After winning the fight, Allen declared himself Champion of America (despite Davis not having the title to pass along).  This bold declaration got attention from other fighters.
                 </p>
                 <p>
@@ -211,7 +211,7 @@ class Biography extends React.Component {
 
                 <h2>Return to St Louis</h2>
 
-                <p>
+                <p className='drop-cap'>
                     Having waited out the statute of limitations on his crimes in Kentucky, <Ref id=''>Allen returned to St Louis in 1882.</Ref>  He imediatly tried setting up a fight with the current champion John Sullivan, but the fight never came together:
                 </p>
 
@@ -233,7 +233,7 @@ class Biography extends React.Component {
 
                 <h2>Champion's Rest</h2>
 
-                <p>
+                <p className='drop-cap'>
                     Throughout Allen's life in America he ran what he would call a Concert Saloon.  <Ref id='007'>He ran one in Cleveland</Ref> during his brief stay there.  When he moved to St Louis in 1869, he <Ref id='008'>opened one on 5th Street (now North Broadway) between O'Fallon and Biddle</Ref>.  <Ref id='009'>In 1871 he moved to 417 Washington Ave,</Ref> <Ref id='017'>where he stayed</Ref> until his lease ended in 1876.  <Ref id='010'>He moved into a new building at 611 Fifth St until his legal troubles in Kentucky drove him back to England.</Ref>  <Ref id='011'>Six years later he returned and opened a saloon on Market Street near 7th where he would spend his retirement.</Ref>  He named it <em>Champion's Rest</em>.
                 </p>
 
@@ -265,7 +265,7 @@ class Biography extends React.Component {
 
                 <h2>On 'Boxing'</h2>
 
-                <p>
+                <p className='drop-cap'>
                     Allen's fighting career wound down just as the sport was moving from the bare knuckle days to the sport we know today - from the London Prize Ring rules to the Queensburry rules.  Allen wasn't shy about his opinions of the new direction:
                 </p>
 
@@ -290,7 +290,7 @@ class Biography extends React.Component {
 
 
                 <h2>Death</h2>
-                <p>
+                <p className='drop-cap'>
                     In early 1903 Allen had a cold that had him confined to bed by January 31st.  This in itself wouldn't have been newsworthy, but it was from that bed that Allen (64) announced his engagement to his housekeeper Tilly Hartgrove (age 21).  Both Allen and Hartgrove were still married to others.  Allen was taken to <Ref id='042'>Baptist Hospital at Garrison and Franklin</Ref> as his cold <Ref id='043'>turned to pneumonia.</Ref>  <Ref id='044'>Allen's daughter (and only local family) was refused access to him</Ref>.  Allen had his will changed to give Hartgrove <Ref id='045'>power of attorney</Ref> and the <Ref id='046'>inheritance of nearly all Allen's possessions.</Ref>
                 </p>
 
@@ -304,7 +304,9 @@ class Biography extends React.Component {
 
                 <h2>Allen's Place in History</h2>
 
-                <p>induction into hall of fame</p>
+                <p>
+                    In 2014 Tom Allen was inducted into the <a href="http://www.ibhof.com/pages/about/inductees/pioneer/allen.html">Boxing Hall of Fame</a>.
+                </p>
 
                 <div className='misc-photos'>
 
