@@ -310,6 +310,10 @@ class Biography extends React.Component {
 
                 <div className='misc-photos'>
 
+                    <CaptionedImage src='/images/pictures/image-267.jpg' align='inline' article='117'>
+                        Allen in 1865
+                    </CaptionedImage>
+
                     <CaptionedImage src='/images/pictures/image-117a.jpg' align='inline' article='117'>
                         Allen 10 years post-retirement
                     </CaptionedImage>

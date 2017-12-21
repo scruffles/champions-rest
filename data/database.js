@@ -1,6 +1,14 @@
 module.exports =
     [
         {
+            publication: 'The Illustrated Sporting News',
+            sourceDate: '1865-01-21',
+            title: 'Tom Allen, the Birmingham Pugilist',
+            localCopyEdited: "images/articles/image-267.jpg",
+            localCopyFull: "images/articles/image-267.jpg",
+            id: '267',
+        },
+        {
             title: "Pugilistic Display for the Benefit of the Poor",
             publication: "St. Louis Republican",
             details: "pg 3, col 7",
@@ -1474,6 +1482,15 @@ module.exports =
             localCopyEdited: "images/articles/image-155b.jpg",
             localCopyFull: "images/articles/image-155.jpg",
             id: "155"
+        },
+        {
+            publication: 'Pugilistic Publishing Co.',
+            sourceDate: '1894',
+            title: 'Portrait Gallery Of Pugilists Of America',
+            summary: 'book by Billy Edwards',
+            localCopyEdited: "images/articles/image-266.jpg",
+            localCopyFull: "images/articles/image-266.jpg",
+            id: '266',
         },
         {
             publication: "The St. Joseph Weekly Gazette",
