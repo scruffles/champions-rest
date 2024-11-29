@@ -100,6 +100,7 @@ const Articles = () => {
         return prevYear !== year ? <div className='year-divider'>{year}</div> : null
     }
 
+    let selectedArticle = db.find((article) => article.id === match?.params?.id);
     return (
         <div className='article-page'>
             <div className='container'>
@@ -118,7 +119,9 @@ const Articles = () => {
                             }
                         </ul>
                     </div>
-                    <PreviewPanel article={db.find((article) => article.id === match?.params?.id)} selection={match?.params?.selection}/>
+                    <PreviewPanel
+                        article={selectedArticle}
+                        selection={match?.params?.selection || (selectedArticle.text ? 'text' : 'scan')}/>
                 </div>
             </div>
         </div>
