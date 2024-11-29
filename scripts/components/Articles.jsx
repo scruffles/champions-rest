@@ -1,6 +1,6 @@
 import React from 'react';
 import {Route} from 'react-router-dom';
-import db from '../../../data/database'
+import db from '../../data/database'
 import moment from 'moment'
 
 const ArticleSummary = ({article, date, yearTitle, onClick, isSelected}) =>

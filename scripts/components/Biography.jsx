@@ -1,8 +1,8 @@
 import React from 'react'
 import {Route} from 'react-router-dom'
-import facts from './../../../data/facts'
-import fights from './../../../data/fights'
-import articles from './../../../data/database'
+import facts from '../../data/facts'
+import fights from '../../data/fights'
+import articles from '../../data/database'
 import moment from 'moment'
 
 const createRef = (parent, refType) => (props) => {

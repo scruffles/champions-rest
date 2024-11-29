@@ -6,7 +6,7 @@
     "start": "NODE_ENV=development node ./start",
     "dev": "NODE_ENV=development node ./start",
     "clean": "rimraf public/style.css public/bundle.js public/bundle.js.map",
-    "lessc": "lessc ./public/styles/style.less ./public/style.css",
+    "lessc": "lessc scripts/styles/style.less ./public/style.css",
     "package": "NODE_ENV=production npm run lessc && webpack"
   },
   "description": "",

@@ -4,7 +4,7 @@ module.exports = {
   devtool: 'source-map',
   entry: [
     'babel-polyfill',
-    './public/scripts/main',
+    './scripts/main',
   ],
   module: {
     loaders: [
