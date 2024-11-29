@@ -54,18 +54,20 @@ class PreviewPanel extends React.Component {
         return (
             <div className='preview-panel'>
                 <div className='preview-selection'>
+                    {this.props.article.text &&
+                        <a href='#' className={this.state.previewType === 'text' ? 'selected' : ''}
+                           onClick={(e) => this.setPreviewType(e, 'text')}>text</a>
+                    }
                     <a href='#' className={this.state.previewType === 'small-pic' ? 'selected' : ''}
                        onClick={(e) => this.setPreviewType(e, 'small-pic')}>article</a>
                     <a href='#' className={this.state.previewType === 'large-pic' ? 'selected' : ''}
                        onClick={(e) => this.setPreviewType(e, 'large-pic')}>full page</a>
-                    <a href='#' className={this.state.previewType === 'text' ? 'selected' : ''}
-                       onClick={(e) => this.setPreviewType(e, 'text')}>text</a>
                 </div>
                 <div className='scrollable-preview'>
-                {
-                    this.props.article ?
-                    this.state.previewType === 'small-pic' ?
-                        <img src={`/${this.props.article.localCopyEdited}`} className='preview-image'/> :
+                    {
+                        this.props.article ?
+                            this.state.previewType === 'small-pic' ?
+                                <img src={`/${this.props.article.localCopyEdited}`} className='preview-image'/> :
                     this.state.previewType === 'large-pic' ?
                         <img src={`/${this.props.article.localCopyFull}`} className='preview-image'/> :
                     this.state.previewType === 'text' ?
