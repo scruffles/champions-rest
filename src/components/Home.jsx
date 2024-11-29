@@ -15,4 +15,4 @@ class Home extends React.Component {
     }
 }
 
-export default () => <Route path="/" exact={true} component={Home} />
+export default Home

@@ -1,4 +1,4 @@
-module.exports =
+export const db =
     [
         {
             publication: 'The Illustrated Sporting News',

@@ -1,7 +1,7 @@
 import React from 'react';
-import {Route} from 'react-router-dom';
-import db from '../../data/database'
+import {db} from '../../data/database'
 import moment from 'moment'
+import {useMatch, useNavigate} from 'react-router-dom'
 
 const ArticleSummary = ({article, date, yearTitle, onClick, isSelected}) =>
     <li key={article.id} className={`article-${article.id}`}>
@@ -58,59 +58,54 @@ class PreviewPanel extends React.Component {
     }
 }
 
-class Articles extends React.Component {
-
-    setSelectedArticle(selectedArticle) {
-        this.props.history.push({pathname: `/articles/${selectedArticle.id}`})
-    }
-
-    componentDidMount() {
-        if (this.props.match.params.id)
-            document.querySelector(`.article-${this.props.match.params.id}`)
-            .scrollIntoView({behavior: "instant", block: "center", inline: "center"})
-    }
-
-    render() {
-
-        let currentYear = null
-
-        const getYearTitleIfChange = (year) => {
-            const prevYear = currentYear
-            currentYear = year
-            return prevYear !== year ? <div className='year-divider'>{year}</div> : null
+const Articles = () => {
+    const navigate = useNavigate()
+    const match = useMatch('/articles/:id')
+    React.useEffect(() => {
+        if (match?.params?.id) {
+            document.querySelector(`.article-${match?.params?.id}`)
+                .scrollIntoView({behavior: "instant", block: "center", inline: "center"})
         }
+    }, [match?.params?.id])
 
-        return (
-            <div className='article-page'>
-                <div className='container'>
-                    <div className='scrollable'>
-                        <div className='article-list'>
-                            <ul>
-                                {
-                                    db.map((article) => {
-                                        const isSelected = article.id === this.props.match.params.id
-                                        const date = moment(article.sourceDate, 'YYYY-MM-DD')
-                                        return <ArticleSummary key={article.id} article={article} date={date}
-                                                               yearTitle={getYearTitleIfChange(date.get('year'))}
-                                                                onClick={() => this.setSelectedArticle(article)}
-                                                                isSelected={isSelected}/>
-                                    })
-                                }
-                            </ul>
-                        </div>
-                        <PreviewPanel article={db.find((article) => article.id === this.props.match.params.id)} />
+    const setSelectedArticle = (selectedArticle) => {
+        navigate(`/articles/${selectedArticle.id}`)
+    }
+
+    let currentYear = null
+
+    const getYearTitleIfChange = (year) => {
+        const prevYear = currentYear
+        currentYear = year
+        return prevYear !== year ? <div className='year-divider'>{year}</div> : null
+    }
+
+    return (
+        <div className='article-page'>
+            <div className='container'>
+                <div className='scrollable'>
+                    <div className='article-list'>
+                        <ul>
+                            {
+                                db.map((article) => {
+                                    const isSelected = article.id === match?.id
+                                    const date = moment(article.sourceDate, 'YYYY-MM-DD')
+                                    return <ArticleSummary key={article.id} article={article} date={date}
+                                                           yearTitle={getYearTitleIfChange(date.get('year'))}
+                                                           onClick={() => setSelectedArticle(article)}
+                                                           isSelected={isSelected}/>
+                                })
+                            }
+                        </ul>
                     </div>
+                    <PreviewPanel article={db.find((article) => article.id === match?.params?.id)}/>
                 </div>
             </div>
-        )
-    }
+        </div>
+    )
 }
 
-export default () =>
-    <div>
-        <Route path="/articles/:id" exact={true} component={Articles} />
-        <Route path="/articles" exact={true} component={Articles} />
-    </div>
+export default Articles
 
 // "publication": "St. Louis Post-Dispatch",
 // "sourceDate": "1936-06-21",

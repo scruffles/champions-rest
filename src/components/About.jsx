@@ -18,4 +18,4 @@ class About extends React.Component {
     }
 }
 
-export default () => <Route path="/about" exact={true} component={About} />
+export default About

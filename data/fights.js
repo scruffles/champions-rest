@@ -1,4 +1,4 @@
-module.exports =
+export const fights =
     [
         {date: '1860-04-20', opponent: 'Jack White', result: 'win', articles: ['084', '148', '203'], stakes: '5£/side', rounds: '10', details: ['first fight', 'before emigrating', '5£/side'], location: 'England'},
         {date: '1860-09-17', opponent: 'Nobby Hall', result: 'loss or draw', articles: ['084', '148'], details: ['before emigrating'], stakes: '5£/side or 25£/side', time: '40 or 42 min', rounds: '15', location: 'England'},

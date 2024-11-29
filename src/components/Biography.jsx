@@ -1,9 +1,8 @@
 import React from 'react'
-import {Route} from 'react-router-dom'
-import facts from '../../data/facts'
-import fights from '../../data/fights'
-import articles from '../../data/database'
+import {facts} from '../../data/facts'
+import {fights} from '../../data/fights'
 import moment from 'moment'
+import {db} from "../../data/database";
 
 const createRef = (parent, refType) => (props) => {
         return (
@@ -24,7 +23,7 @@ class FootNote extends React.Component {
                 <ul>
                 {
                     this.props.articles.map((id) => {
-                        const article = articles.find((a) => a.id === id)
+                        const article = db.find((a) => a.id === id)
                         const date = moment(article.sourceDate, 'YYYY-MM-DD')
                         return (
                             <li key={article.id}>
@@ -44,7 +43,7 @@ class FootNote extends React.Component {
 class CaptionedImage extends React.Component {
 
     render() {
-        const source = this.props.article ? articles.find(a => a.id === this.props.article) : null
+        const source = this.props.article ? db.find(a => a.id === this.props.article) : null
         const alignment = this.props.align === 'right' ? 'pull-right' : this.props.align === 'left' ? 'pull-left' : 'inline'
         return (
             <div className={`captioned-image ${alignment}`}>
@@ -69,7 +68,7 @@ class CaptionedImage extends React.Component {
 
 class Quote extends React.Component {
     render() {
-        const article = articles.find(a => a.id === this.props.article)
+        const article = db.find(a => a.id === this.props.article)
         return (
             <span className='quote'>
                 "{this.props.children}"
@@ -362,4 +361,4 @@ class Biography extends React.Component {
     }
 }
 
-export default () => <Route path="/biography" exact={true} component={Biography} />
+export default Biography

@@ -1,6 +1,6 @@
 import React from 'react';
 import {Route} from 'react-router-dom';
-import fights from '../../data/fights'
+import {fights} from '../../data/fights'
 import moment from 'moment'
 
 const reformatDate = (string) => {
@@ -51,4 +51,4 @@ class Record extends React.Component {
     }
 }
 
-export default () => <Route path="/record" exact={true} component={Record} />
+export default Record

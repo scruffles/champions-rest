@@ -1,4 +1,4 @@
-module.exports =
+export const facts =
     [
         // personal history
         {id: '001', fact: 'Born April 23 1839 in Birmingham England', articles: ['141', '148', '194', '203', '259', '084']},
