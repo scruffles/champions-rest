@@ -4,12 +4,6 @@ This is the source for champions-rest.com which documents the life of Tom Allen:
 
 ## TODO
 * OCR article text using AI
-* document all the scripts here
-  * start
-  * temp-reformat-summaries
-  * verifyImages
-  * moveImages
-  * build
 * Google maps of bar locations (maybe use a historic St Louis map?)
 * Google maps of fight locations
 * finish going over articles for references (stopped at 221)
