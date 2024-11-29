@@ -17,6 +17,15 @@ export const db =
             link: "http://statehistoricalsocietyofmissouri.org/cdm/ref/collection/dmr1/id/5178",
             localCopyEdited: "images/articles/image-000.jpg",
             localCopyFull: "images/articles/image-000b.jpg",
+            text: `
+                PUGILISTIC DISPLAY FOR THE BENEFIT OF THE PooR. 
+                
+                Two distinguished pugilists from England,
+                named Bill Ryall and Tom Allen, will have a "set-
+                to" at Prof. Heury's hall on Saturday night, for the
+                benefit of the poor. Mike MeCoole will also appear
+                the same evening.
+            `,
             id: "000"
         },
         {
@@ -259,7 +268,14 @@ export const db =
             link: "http://statehistoricalsocietyofmissouri.org/cdm/ref/collection/dmr3/id/1237",
             localCopyEdited: "images/articles/image-022.jpg",
             localCopyFull: "images/articles/image-022b.jpg",
-            id: "022"
+            id: "022",
+            text: `
+            # Pugilistic. 
+            
+            Jem Mace, the champion of England, arrived in New York on Monday last. Last night Tom Allen and Jim Coyne 
+            gave a sparring Exhibition in Rochester, New York. They will be joined by Mace in a day or two, and it is 
+            expected the party will be in St. Louis on Saturday next.
+            `
         },
         {
             title: "M'Coole - A visit to his Training Quarters",
@@ -270,7 +286,93 @@ export const db =
             link: "http://statehistoricalsocietyofmissouri.org/cdm/ref/collection/dmr3/id/1434",
             localCopyEdited: "images/articles/image-023.jpg",
             localCopyFull: "images/articles/image-023b.jpg",
-            id: "023"
+            id: "023",
+            text: `
+            # M'COOLE.
+            
+            ## A Visit to his Training Quarters.
+            ### How the Giant Looks, Acts and Feeis. 
+            
+            The approaching fight between Mike McCoole and Tom Allen, to come off within fifty miles of Cincinnati, 
+            on the l0th of next month, is already attract- ing the usual amount of conjectures, surmises and
+            attention at the hands of the devotees of the P.R. Judging from the tone of the Cincinnati press Allen has 
+            numerous friends there, but concerning the fistic giant McCoole but little has been said. Being an advocate 
+            of fair play, we yesterday paid a visit to the chieftain at his headquarters at the Fairfield House, about 
+            four miles out on Grand avenue, near the Fair Ground, arriving in time to find him just emerging from his 
+            customary bath after his morn- ing's exercise. The Fairfield House, by the way, is somewhat noted as the 
+            rendezvous of professional shoulder bitters, and is kept by Mr. Frank Curry. It was here McCoole trained 
+            for the Ooburn "mill," and its remoteness from the bustle of the city and healthy location are admirably 
+            adapted to the work of developing muscle for the contests of the ring.
+            
+            ### THE INTERVIEW.
+             
+            Approaching from Grand avenue we had no trouble in finding the place, for above it floated a large American 
+            flag, and across it in ample letters was painted " McCoole"s Headquarters-Training Ground." We walked into 
+            the bar and sitting- room, and made known our business to a consumptive looking gentleman, and were 
+            informed that McCoole was just closing his morning's exercises at the bath and would soon be in. While 
+            waiting, Thomas Kelly, one of his trainers and seconds, a light built, active, pleasant fellow by the way, 
+            came in, and we had just commenced that pumping process for which reporters are proverbial, when Mike "put 
+            in an appearance," looking more like a sturdy, hearty farmer than the noted bruiser whose fame in that 
+            line is familiar in both hemispheres. Of course we introduced ourself, commenced business, and found bim 
+            by to means backward in answering questions and giving all information possible upon the subject of 
+            training, health, &c. He is evideutly used to answering questions, and the replies come out directly 
+            and to the point.
+            
+            ### HIS TRAINING.
+            
+            McCoole Is in charge, 80 to speak, of James Haley, a somewhat formidable knight of the P. R. by the one of 
+            the and considered best trainers the country, and Mr. Thomas Kelly, mentioned before. McCoole
+            has now been in preparatory exercise for the "mill" some two months. When he commenced his weight was 248% 
+            pounds, and, as he stands full eix feet in his stockings, the reader who never saw Lim can form some 
+            adequate idea of his appearance. His weight now, of course, is a secret, probably known to none but 
+            himself. He admits, however, that it is very hard work to reduce himself to the requisite point for work 
+            in the ring, but he is being reduced, and yesterday he looked in admirable condition. His skin has that 
+            healthy rosiness about it which betokens excellent health and no dissipation. Indeed, he informed us 
+            that when he got ready to fight Coburn he was in as good condition as he ever was in his life, and now 
+            he felt full as well as then. His trainers told us also that he was in splendid plight and daily improving. 
+            
+            He sleeps on a good mattress, with plenty of warm covering, rises promptly at five o'clock in the morning, 
+            rain or shine, and immediately proceeds to a shed room on the rear of the lot, about 10x12, where he 
+            exercises with the dumb-bells, a suspended sand bag weighing about four hundred pounds, cannon balls and 
+            two heavy bags attached to cords running over a pully. This exercise is continued for about a half hour, 
+            and is done to develop the muscles of the arm, the flesh on which now feels like buckskin stretched over 
+            marble. After this he wraps himself up as warm as possible, and muffles up his face so as to be hardly 
+            discernible-for the purpose of producing profuse perspiration, and starts out on his four mile walk-two 
+            in and two out. Returning he takes a salt water bath, and undergoes a pretty severe scrubbing and rubbing 
+            process, sufficiently rough, indeed, to take the skin off almost any other man but him. After the bath he 
+            dresses warmly again and rests a while, and then breakfasts moderately on beef or mutton, with a little 
+            trimmings-the meat, of course, always rare. His diet is substantial, and varies but little from that of a 
+            laboring man, although, probably, he does not eat as much. After breakfast comes a rest of an hour or so, 
+            or until one o'clock, when he dons his walking shoes, each weighing about five pounds, and, accompanied 
+            by one or both of his trainers, and well muffled up, be starts out on a walk of from thirteen to sixteen 
+            miles-and as a walkist he is a decided success. A day or so ago, when the Natural Bridge road, and, indeed, 
+            all the roads about the suburbs of the city were in a muddy, slippery condition, he walked fourteen miles 
+            in one hour and fifty-five minutes, loaded down as he was with the heaviest of clothing, and said he felt so 
+            little fatigued that he could have repeated it in the same time. His powers of endurance are astonishing. 
+            On his return from the walk he enjoys a short rest, then eats supper, and a short time after supper comes 
+            another walk of two or three miles. He never ventures out after the dampness of evening sets in, and is in 
+            bed promptly at 8 o'clock. These are his every-day exercises, rain or shine.
+            
+            ### MEMORANDA. 
+            
+            For a short time after he went out to the Fairfield House the training was pretty severe for him. It was 
+            hard to get used to the systematized work of reducing weight, and at the same time develop the muscles; 
+            besides, it was a difficult matter to wean himself from the inactivity of a city life; but he soon "came 
+            down to the work," so to speak, and when we saw him be was the personification of health and strength. 
+            McCoole of the city, and MeCoole of the ring, are two different individuals. He speaks confidently of 
+            "getting away" with Allen, but alluded to his antagonist in complimentary terms. There is, however, in 
+            the coming mill, on the part of both these pugilists, an earnest determination to come out victorious. 
+            Pride and ambition are doing more toward making it one of the hottest contested fights ever known on the 
+            continent than the amount of money now up; and with no intervening sickness - nothing as a drawback on 
+            McCoole, he will mak lively work for Allen. As we parted with the fistic giant he was about starting on a 
+            fifteen mile walk, and kindly invited us to accompany him-we declined. Couldn't make the time in two hours 
+            as he proposed doing. Our pedal extremities [were not intended for such time. We are not training for the 
+            P.R. The last we saw of McCoole he was swinging off at a lively pace towards the Natural Bridge. he 
+            remains but about three weeks more at his pre- ent quarters, his friends are improving the tire in 
+            occasional calls. Our visit was a pleasant one, but was paid only to satisfy the taste of mary of our 
+            readers who are anxious to know exactly how McCoole looks and how he progresses in getting ready fer the 
+            fight.
+`
         },
         {
             title: "The Prize Ring - The Allen-McCoole Mill - Difficulties Arranged",

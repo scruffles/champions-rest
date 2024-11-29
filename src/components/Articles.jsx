@@ -2,6 +2,25 @@ import React from 'react';
 import {db} from '../../data/database'
 import moment from 'moment'
 import {useMatch, useNavigate} from 'react-router-dom'
+import {marked} from 'marked'
+// import dedent from 'dedent-js'
+
+const dedent = (str) => {
+    const lines = str.split('\n')
+    const nonEmptyLines = lines.slice(lines.findIndex(line => line.trim() !== ''));
+
+    // Calculate the minimum indent level
+    const indentLevel = nonEmptyLines.reduce((minIndent, line) => {
+        const leadingWhitespace = line.match(/^[ \t]*/)[0].length;
+        return !line.trim() ? minIndent : Math.min(minIndent, leadingWhitespace);
+    }, Infinity);
+
+    // Remove the determined indent from each line
+    const dedentedLines = nonEmptyLines.map(line => line.substring(indentLevel));
+
+    // Join the lines back to a single string
+    return dedentedLines.join('\n');
+}
 
 const ArticleSummary = ({article, date, yearTitle, onClick, isSelected}) =>
     <li key={article.id} className={`article-${article.id}`}>
@@ -31,6 +50,7 @@ class PreviewPanel extends React.Component {
     }
 
     render() {
+        let markdown = this.props.article.text ? marked.parse(dedent(this.props.article.text)) : 'no text available';
         return (
             <div className='preview-panel'>
                 <div className='preview-selection'>
@@ -49,7 +69,7 @@ class PreviewPanel extends React.Component {
                     this.state.previewType === 'large-pic' ?
                         <img src={`/${this.props.article.localCopyFull}`} className='preview-image'/> :
                     this.state.previewType === 'text' ?
-                        <div>no text</div>
+                        <div className={'article-text'} dangerouslySetInnerHTML={{__html: markdown}}></div>
                     : null : null
                 }
                 </div>
