@@ -59,7 +59,7 @@ class PreviewPanel extends React.Component {
                            onClick={(e) => this.setPreviewType(e, 'text')}>text</a>
                     }
                     <a href='#' className={this.state.previewType === 'small-pic' ? 'selected' : ''}
-                       onClick={(e) => this.setPreviewType(e, 'small-pic')}>article</a>
+                       onClick={(e) => this.setPreviewType(e, 'small-pic')}>scan</a>
                     <a href='#' className={this.state.previewType === 'large-pic' ? 'selected' : ''}
                        onClick={(e) => this.setPreviewType(e, 'large-pic')}>full page</a>
                 </div>
@@ -110,7 +110,7 @@ const Articles = () => {
                         <ul>
                             {
                                 db.map((article) => {
-                                    const isSelected = article.id === match?.id
+                                    const isSelected = article.id === match?.params?.id
                                     const date = moment(article.sourceDate, 'YYYY-MM-DD')
                                     return <ArticleSummary key={article.id} article={article} date={date}
                                                            yearTitle={getYearTitleIfChange(date.get('year'))}
