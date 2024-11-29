@@ -3,7 +3,9 @@ name: Pack and Upload to S3
 on:
   push:
     branches:
-      - main  # Adjust this to your release branch
+      - main
+  workflow_dispatch:  # This allows the workflow to be manually triggered
+
 
 jobs:
   build-and-deploy:
