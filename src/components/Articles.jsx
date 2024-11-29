@@ -37,52 +37,50 @@ const ArticleSummary = ({article, date, yearTitle, onClick, isSelected}) =>
     </li>
 
 
-class PreviewPanel extends React.Component {
+const PreviewPanel = ({article, selection}) => {
+    const navigate = useNavigate()
+    let markdown = article.text ? marked.parse(dedent(article.text)) : 'no text available';
 
-    constructor(props) {
-        super(props);
-        this.state = {previewType: 'small-pic'};
-    }
-
-    setPreviewType(e, previewType) {
-        e.preventDefault()
-        this.setState({previewType})
-    }
-
-    render() {
-        let markdown = this.props.article.text ? marked.parse(dedent(this.props.article.text)) : 'no text available';
-        return (
-            <div className='preview-panel'>
-                <div className='preview-selection'>
-                    {this.props.article.text &&
-                        <a href='#' className={this.state.previewType === 'text' ? 'selected' : ''}
-                           onClick={(e) => this.setPreviewType(e, 'text')}>text</a>
-                    }
-                    <a href='#' className={this.state.previewType === 'small-pic' ? 'selected' : ''}
-                       onClick={(e) => this.setPreviewType(e, 'small-pic')}>scan</a>
-                    <a href='#' className={this.state.previewType === 'large-pic' ? 'selected' : ''}
-                       onClick={(e) => this.setPreviewType(e, 'large-pic')}>full page</a>
-                </div>
-                <div className='scrollable-preview'>
-                    {
-                        this.props.article ?
-                            this.state.previewType === 'small-pic' ?
-                                <img src={`/${this.props.article.localCopyEdited}`} className='preview-image'/> :
-                    this.state.previewType === 'large-pic' ?
-                        <img src={`/${this.props.article.localCopyFull}`} className='preview-image'/> :
-                    this.state.previewType === 'text' ?
-                        <div className={'article-text'} dangerouslySetInnerHTML={{__html: markdown}}></div>
-                    : null : null
+    return (
+        <div className='preview-panel'>
+            <div className='preview-selection'>
+                {article.text &&
+                    <a href='#' className={selection === 'text' ? 'selected' : ''}
+                       onClick={(e) => {
+                           e.preventDefault()
+                           navigate(`/articles/${article.id}/text`)
+                       }}>text</a>
                 }
-                </div>
+                <a href='#' className={selection === 'scan' ? 'selected' : ''}
+                   onClick={(e) => {
+                       e.preventDefault()
+                       navigate(`/articles/${article.id}/scan`)
+                   }}>scan</a>
+                <a href='#' className={selection === 'page' ? 'selected' : ''}
+                   onClick={(e) => {
+                       e.preventDefault()
+                       navigate(`/articles/${article.id}/page`)
+                   }}>full page</a>
             </div>
-        )
-    }
+            <div className='scrollable-preview'>
+                {
+                    article ?
+                        selection === 'scan' ?
+                            <img src={`/${article.localCopyEdited}`} className='preview-image'/> :
+                            selection === 'page' ?
+                                <img src={`/${article.localCopyFull}`} className='preview-image'/> :
+                                selection === 'text' ?
+                                    <div className={'article-text'} dangerouslySetInnerHTML={{__html: markdown}}></div>
+                                    : null : null
+                }
+            </div>
+        </div>
+    )
 }
 
 const Articles = () => {
     const navigate = useNavigate()
-    const match = useMatch('/articles/:id')
+    const match = useMatch('/articles/:id/:selection?')
     React.useEffect(() => {
         if (match?.params?.id) {
             document.querySelector(`.article-${match?.params?.id}`)
@@ -120,7 +118,7 @@ const Articles = () => {
                             }
                         </ul>
                     </div>
-                    <PreviewPanel article={db.find((article) => article.id === match?.params?.id)}/>
+                    <PreviewPanel article={db.find((article) => article.id === match?.params?.id)} selection={match?.params?.selection}/>
                 </div>
             </div>
         </div>

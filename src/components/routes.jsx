@@ -15,8 +15,7 @@ const routes = () =>  (
                 <Route path="/" Component={Home} />
                 <Route path="/biography" Component={Biography}/>
                 <Route path="/record" Component={Record}/>
-                <Route path="/articles/:id" Component={Articles}/>
-                <Route path="/articles" Component={Articles}/>
+                <Route path="/articles/:id?/:selection?" Component={Articles}/>
                 <Route path="/about" Component={About}/>
             </Routes>
         </BrowserRouter>
