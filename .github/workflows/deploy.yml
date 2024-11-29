@@ -1,4 +1,4 @@
-name: Node.js Package and Upload to S3
+name: Pack and Upload to S3
 
 on:
   push:
