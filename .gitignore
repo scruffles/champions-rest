@@ -37,3 +37,4 @@ benchmarks/graphs
 /public/style.css
 env.sh
 /public/images
+/dist
