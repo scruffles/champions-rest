@@ -5,7 +5,7 @@ export default class Navbar extends React.Component {
 
     render() {
         return (
-            <nav className="navbar navbar-expand-sm navbar-dark">
+            <nav className="navbar fixed-top navbar-expand-sm navbar-dark">
                 <NavLink to="/" className='navbar-brand nav-link'>
                     <img src='/images/logo.png'/>
                     <div className='title'>Champion's Rest</div>

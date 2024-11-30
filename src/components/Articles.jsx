@@ -39,12 +39,12 @@ const ArticleSummary = ({article, date, yearTitle, onClick, isSelected}) =>
 
 const PreviewPanel = ({article, selection}) => {
     const navigate = useNavigate()
-    let markdown = article.text ? marked.parse(dedent(article.text)) : 'no text available';
+    let markdown = article?.text ? marked.parse(dedent(article.text)) : 'no text available';
 
     return (
         <div className='preview-panel'>
             <div className='preview-selection'>
-                {article.text &&
+                {article?.text &&
                     <a href='#' className={selection === 'text' ? 'selected' : ''}
                        onClick={(e) => {
                            e.preventDefault()
@@ -121,7 +121,7 @@ const Articles = () => {
                     </div>
                     <PreviewPanel
                         article={selectedArticle}
-                        selection={match?.params?.selection || (selectedArticle.text ? 'text' : 'scan')}/>
+                        selection={match?.params?.selection || (selectedArticle?.text ? 'text' : 'scan')}/>
                 </div>
             </div>
         </div>
