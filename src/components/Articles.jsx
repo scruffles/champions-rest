@@ -37,9 +37,8 @@ const ArticleSummary = ({article, date, yearTitle, onClick, isSelected}) =>
 
 const zoomStepSize = 80 // percent to zoom for each button press
 
-function ZoomableImage({image}) {
+function ZoomableImage({image, fullScreen = false, setFullScreen}) {
     const [width, setWidth] = React.useState(100)
-    // const [fullScreen, setFullScreen] = React.useState(false)
 
     return (<div style={{position: 'relative'}}>
         <div className={'zoom-controls'}>
@@ -58,7 +57,6 @@ function ZoomableImage({image}) {
                        style={{opacity: width <= 100 ? 0.5 : 1}}/>
                 </a>
             </div>
-{/*
             <div>
                 <a href={'#'} onClick={(e) => {
                     e.preventDefault()
@@ -67,7 +65,6 @@ function ZoomableImage({image}) {
                     <i className={`fa-solid ${fullScreen ? 'fa-compress' : 'fa-expand'}`}/>
                 </a>
             </div>
-*/}
         </div>
         <div className='scrollable-preview'>
             <img src={`${image}`} style={{width: `${width}%`}}/>
@@ -75,7 +72,7 @@ function ZoomableImage({image}) {
     </div>)
 }
 
-const PreviewPanel = ({article, selection}) => {
+const PreviewPanel = ({article, selection, fullScreen, setFullScreen}) => {
     const navigate = useNavigate()
     let markdown = article?.text ? marked.parse(dedent(article.text)) : 'no text available';
 
@@ -108,7 +105,7 @@ const PreviewPanel = ({article, selection}) => {
                                 <img src={`/${article.localCopyEdited}`} className='preview-image'/>
                             </div> :
                             selection === 'page' ?
-                                <ZoomableImage image={`/${article.localCopyFull}`} /> :
+                                <ZoomableImage image={`/${article.localCopyFull}`} fullScreen={fullScreen} setFullScreen={setFullScreen} /> :
                         selection === 'text' ?
                             <div className={'article-text'} dangerouslySetInnerHTML={{__html: markdown}}></div>
                                     : null : null
@@ -127,6 +124,7 @@ const Articles = () => {
                 .scrollIntoView({behavior: "instant", block: "center", inline: "center"})
         }
     }, [match?.params?.id])
+    const [fullScreen, setFullScreen] = React.useState(false)
 
     const setSelectedArticle = (selectedArticle) => {
         navigate(`/articles/${selectedArticle.id}`)
@@ -143,6 +141,11 @@ const Articles = () => {
     let selectedArticle = db.find((article) => article.id === match?.params?.id);
     return (
         <div className='article-page'>
+            {fullScreen &&
+                <div className={'full-screen-image-container'}>
+                    <ZoomableImage image={`/${selectedArticle.localCopyFull}`} fullScreen={fullScreen} setFullScreen={setFullScreen} />
+                </div>
+            }
             <div className='container'>
                 <div className='scrollable'>
                     <div className='article-list'>
@@ -161,7 +164,10 @@ const Articles = () => {
                     </div>
                     <PreviewPanel
                         article={selectedArticle}
-                        selection={match?.params?.selection || (selectedArticle?.text ? 'text' : 'scan')}/>
+                        selection={match?.params?.selection || (selectedArticle?.text ? 'text' : 'scan')}
+                        fullScreen={fullScreen}
+                        setFullScreen={setFullScreen}
+                    />
                 </div>
             </div>
         </div>
