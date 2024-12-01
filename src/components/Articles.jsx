@@ -35,6 +35,45 @@ const ArticleSummary = ({article, date, yearTitle, onClick, isSelected}) =>
         </div>
     </li>
 
+const zoomStepSize = 80 // percent to zoom for each button press
+
+function ZoomableImage({image}) {
+    const [width, setWidth] = React.useState(100)
+    // const [fullScreen, setFullScreen] = React.useState(false)
+
+    return (<div style={{position: 'relative'}}>
+        <div className={'zoom-controls'}>
+            <div><a href={'#'} onClick={(e) => {
+                e.preventDefault()
+                setWidth(width + zoomStepSize)
+            }}><i className="fa-solid fa-magnifying-glass-plus"></i></a></div>
+            <div>
+                <a href={'#'} onClick={(e) => {
+                    e.preventDefault()
+                    if (width > 100) {
+                        setWidth(Math.max(width - zoomStepSize, 100))
+                    }
+                }}>
+                    <i className="fa-solid fa-magnifying-glass-minus"
+                       style={{opacity: width <= 100 ? 0.5 : 1}}/>
+                </a>
+            </div>
+{/*
+            <div>
+                <a href={'#'} onClick={(e) => {
+                    e.preventDefault()
+                    setFullScreen(!fullScreen)
+                }}>
+                    <i className={`fa-solid ${fullScreen ? 'fa-compress' : 'fa-expand'}`}/>
+                </a>
+            </div>
+*/}
+        </div>
+        <div className='scrollable-preview'>
+            <img src={`${image}`} style={{width: `${width}%`}}/>
+        </div>
+    </div>)
+}
 
 const PreviewPanel = ({article, selection}) => {
     const navigate = useNavigate()
@@ -61,15 +100,17 @@ const PreviewPanel = ({article, selection}) => {
                        navigate(`/articles/${article.id}/page`)
                    }}>full page</a>
             </div>
-            <div className='scrollable-preview'>
+            <div>
                 {
                     article ?
                         selection === 'scan' ?
-                            <img src={`/${article.localCopyEdited}`} className='preview-image'/> :
+                            <div className='scrollable-preview'>
+                                <img src={`/${article.localCopyEdited}`} className='preview-image'/>
+                            </div> :
                             selection === 'page' ?
-                                <img src={`/${article.localCopyFull}`} className='preview-image'/> :
-                                selection === 'text' ?
-                                    <div className={'article-text'} dangerouslySetInnerHTML={{__html: markdown}}></div>
+                                <ZoomableImage image={`/${article.localCopyFull}`} /> :
+                        selection === 'text' ?
+                            <div className={'article-text'} dangerouslySetInnerHTML={{__html: markdown}}></div>
                                     : null : null
                 }
             </div>

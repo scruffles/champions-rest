@@ -1,5 +1,6 @@
 @import (inline) "../node_modules/bootstrap/dist/css/bootstrap.css";
 @import url('https://fonts.googleapis.com/css?family=Marcellus');
+@import '@fortawesome/fontawesome-free/css/all.min.css';
 
 @headerColor: #D9CAB6;
 @pageBackground: #FFF6EA;
@@ -435,6 +436,26 @@ body {
         .inline {
             float: none;
             margin: 20px auto;
+        }
+    }
+}
+
+.zoom-controls {
+    background: white;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #716556;
+    z-index: 100;
+    .fa-solid {
+        font-size: 150%;
+        color: @navbarText;
+        padding: 10px;
+        cursor: pointer;
+        &:hover {
+            color: @highlightColor;
         }
     }
 }
