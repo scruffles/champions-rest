@@ -67,7 +67,10 @@ function ZoomableImage({image, fullScreen = false, setFullScreen}) {
             </div>
         </div>
         <div className='scrollable-preview'>
-            <img src={`${image}`} style={{width: `${width}%`}}/>
+            <img src={`${image}`} style={{width: `${width}%`}} onClick={(e) => {
+                e.preventDefault()
+                setWidth(width + zoomStepSize)
+            }}/>
         </div>
     </div>)
 }
@@ -178,7 +181,7 @@ export default Articles
 
 // "publication": "St. Louis Post-Dispatch",
 // "sourceDate": "1936-06-21",
-// "title": "Tom Allen called out as the only champion to ever loose and regain his championship",
+// "title": "Tom Allen called out as the only champion to ever lose and regain his championship",
 // "localCopyEdited": "public/images/articles/image-251.jpg",
 // "localCopyFull": "public/images/articles/image-251b.jpg",
 // "id": "251"
