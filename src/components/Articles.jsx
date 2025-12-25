@@ -177,13 +177,11 @@ const Articles = () => {
   const match = useMatch("/articles/:id/:selection?");
   React.useEffect(() => {
     if (match?.params?.id) {
-      document
-        .querySelector(`.article-${match?.params?.id}`)
-        .scrollIntoView({
-          behavior: "instant",
-          block: "center",
-          inline: "center",
-        });
+      document.querySelector(`.article-${match?.params?.id}`).scrollIntoView({
+        behavior: "instant",
+        block: "center",
+        inline: "center",
+      });
     }
   }, [match?.params?.id]);
   const [fullScreen, setFullScreen] = React.useState(false);
