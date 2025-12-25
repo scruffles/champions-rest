@@ -161,10 +161,12 @@ const PreviewPanel = ({ article, selection, fullScreen, setFullScreen }) => {
               setFullScreen={setFullScreen}
             />
           ) : selection === "text" ? (
-            <div
-              className={"article-text"}
-              dangerouslySetInnerHTML={{ __html: markdown }}
-            ></div>
+            <div className="scrollable-preview" style={{border: 'none'}}>
+              <div
+                className={"article-text"}
+                dangerouslySetInnerHTML={{ __html: markdown }}
+              ></div>
+            </div>
           ) : null
         ) : null}
       </div>
