@@ -5,6 +5,11 @@ import { createWorker } from "tesseract.js";
 const databasePath = path.resolve("data/database.js");
 const imagesDir = path.resolve("public");
 
+function formatJS(obj) {
+  const json = JSON.stringify(obj, null, 2);
+  return json.replace(/^(\s+)"(\w+)":/gm, "$1$2:");
+}
+
 async function processArticles() {
   console.log("Reading database...");
   let content = fs.readFileSync(databasePath, "utf8");
@@ -17,11 +22,7 @@ async function processArticles() {
     return;
   }
 
-  // We need to evaluate the array. Since it's in a JS file, we can't just JSON.parse it easily
-  // because it might have trailing commas, template literals, etc.
-  // For safety in this environment, we might want to use a more robust way to update it.
-
-  // Let's try to parse it using a trick: wrap it in a temporary file and import it
+  // Use the established import trick for safety
   const tmpFile = path.resolve("data/tmp_db.mjs");
   fs.writeFileSync(tmpFile, content);
 
@@ -32,7 +33,7 @@ async function processArticles() {
 
   let count = 0;
   // LIMIT can be set to Infinity to process all remaining articles
-  const LIMIT = Infinity; 
+  const LIMIT = Infinity;
 
   for (let article of db) {
     if (article.localCopyEdited && !article.text) {
@@ -51,7 +52,7 @@ async function processArticles() {
           console.log(`OCR complete for ${article.id} (${count}/${LIMIT})`);
 
           // Save progress after each successful OCR to avoid data loss on timeout
-          const newDbContent = `export const db = ${JSON.stringify(db, null, 2)};\n`;
+          const newDbContent = `export const db = ${formatJS(db)};\n`;
           fs.writeFileSync(databasePath, newDbContent);
         } catch (err) {
           console.error(`Error processing ${imagePath}:`, err);
