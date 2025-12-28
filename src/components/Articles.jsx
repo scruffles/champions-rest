@@ -3,6 +3,7 @@ import { db } from "../../data/database";
 import moment from "moment";
 import { useMatch, useNavigate } from "react-router-dom";
 import { marked } from "marked";
+import Fuse from "fuse.js";
 
 const dedent = (str) => {
   const lines = str.split("\n");
@@ -25,6 +26,15 @@ const dedent = (str) => {
   return dedentedLines.join("\n");
 };
 
+const getSummary = (article) => {
+  if (article.summary) return article.summary;
+  if (!article.text) return "";
+
+  const cleanText = dedent(article.text).replace(/\n/g, " ");
+  if (cleanText.length <= 150) return cleanText;
+  return cleanText.substring(0, 150).trim() + "...";
+};
+
 const ArticleSummary = ({ article, date, yearTitle, onClick, isSelected }) => (
   <li key={article.id} className={`article-${article.id}`}>
     {yearTitle}
@@ -35,7 +45,7 @@ const ArticleSummary = ({ article, date, yearTitle, onClick, isSelected }) => (
         {" - "}
         <span className="article-date">{date.format("MMMM Do YYYY")}</span>
       </div>
-      <div>{article.summary}</div>
+      <div>{getSummary(article)}</div>
     </div>
   </li>
 );
@@ -177,6 +187,54 @@ const PreviewPanel = ({ article, selection, fullScreen, setFullScreen }) => {
 const Articles = () => {
   const navigate = useNavigate();
   const match = useMatch("/articles/:id/:selection?");
+  const [showSearch, setShowSearch] = React.useState(false);
+  const [searchQuery, setSearchQuery] = React.useState("");
+  const [searchResults, setSearchResults] = React.useState([]);
+  const [activeIndex, setActiveIndex] = React.useState(-1);
+
+  const fuse = React.useMemo(() => {
+    return new Fuse(db, {
+      keys: ["title", "publication", "summary", "text"],
+      threshold: 0.3,
+      includeMatches: true,
+    });
+  }, []);
+
+  React.useEffect(() => {
+    if (searchQuery.trim().length > 2) {
+      const results = fuse.search(searchQuery);
+      setSearchResults(results.map((r) => r.item));
+      setActiveIndex(0);
+    } else {
+      setSearchResults([]);
+      setActiveIndex(-1);
+    }
+  }, [searchQuery, fuse]);
+
+  React.useEffect(() => {
+    const handleGlobalKeyDown = (e) => {
+      // Check if 'S' or 's' is pressed
+      if (e.key.toLowerCase() === "s") {
+        // Don't open search if the user is typing in an input or textarea
+        const activeElement = document.activeElement;
+        const isTyping =
+          activeElement.tagName === "INPUT" ||
+          activeElement.tagName === "TEXTAREA" ||
+          activeElement.isContentEditable;
+
+        if (!isTyping && !showSearch) {
+          e.preventDefault();
+          setShowSearch(true);
+        }
+      }
+    };
+
+    window.addEventListener("keydown", handleGlobalKeyDown);
+    return () => {
+      window.removeEventListener("keydown", handleGlobalKeyDown);
+    };
+  }, [showSearch]);
+
   React.useEffect(() => {
     if (match?.params?.id) {
       document.querySelector(`.article-${match?.params?.id}`).scrollIntoView({
@@ -187,6 +245,39 @@ const Articles = () => {
     }
   }, [match?.params?.id]);
   const [fullScreen, setFullScreen] = React.useState(false);
+
+  React.useEffect(() => {
+    if (activeIndex >= 0) {
+      const activeElement = document.querySelector(
+        "#search-results-list li.active",
+      );
+      if (activeElement) {
+        activeElement.scrollIntoView({
+          behavior: "smooth",
+          block: "nearest",
+        });
+      }
+    }
+  }, [activeIndex]);
+
+  const handleKeyDown = (e) => {
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      setActiveIndex((prev) =>
+        prev < searchResults.length - 1 ? prev + 1 : prev,
+      );
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      setActiveIndex((prev) => (prev > 0 ? prev - 1 : prev));
+    } else if (e.key === "Enter") {
+      if (activeIndex >= 0 && activeIndex < searchResults.length) {
+        setSelectedArticle(searchResults[activeIndex]);
+        setShowSearch(false);
+      }
+    } else if (e.key === "Escape") {
+      setShowSearch(false);
+    }
+  };
 
   const setSelectedArticle = (selectedArticle) => {
     navigate(`/articles/${selectedArticle.id}`);
@@ -205,6 +296,56 @@ const Articles = () => {
   let selectedArticle = db.find((article) => article.id === match?.params?.id);
   return (
     <div className="article-page">
+      <div
+        className="floating-search-button"
+        onClick={() => setShowSearch(true)}
+      >
+        <i className="fa-solid fa-magnifying-glass"></i>
+      </div>
+      {showSearch && (
+        <div className="search-overlay" onClick={() => setShowSearch(false)}>
+          <div className="search-modal" onClick={(e) => e.stopPropagation()}>
+            <div className="search-input-container">
+              <input
+                type="text"
+                autoFocus
+                placeholder="Search articles..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                onKeyDown={handleKeyDown}
+              />
+              <button
+                className="close-search"
+                onClick={() => setShowSearch(false)}
+              >
+                &times;
+              </button>
+            </div>
+            <div className="search-results">
+              {searchResults.length > 0 ? (
+                <ul id="search-results-list">
+                  {searchResults.map((article, index) => (
+                    <li
+                      key={article.id}
+                      className={index === activeIndex ? "active" : ""}
+                      onClick={() => {
+                        setSelectedArticle(article);
+                        setShowSearch(false);
+                      }}
+                      onMouseEnter={() => setActiveIndex(index)}
+                    >
+                      <div className="result-title">{article.title}</div>
+                      <div className="result-summary">{getSummary(article)}</div>
+                    </li>
+                  ))}
+                </ul>
+              ) : searchQuery.length > 2 ? (
+                <div className="no-results">No results found</div>
+              ) : null}
+            </div>
+          </div>
+        </div>
+      )}
       {fullScreen && (
         <div className={"full-screen-image-container"}>
           <ZoomableImage
