@@ -35,6 +35,16 @@ async function generateSummaries() {
   });
   console.log(`Found ${articlesToSummarize.length} articles to summarize.`);
 
+  // Clean text for all articles
+  db.forEach(article => {
+    if (article.text) {
+      article.text = article.text
+        .replace(/\|/g, '') // Remove pipes
+        .replace(/\n\s*\n\s*\n+/g, '\n\n') // Consolidate 3+ newlines to 2
+        .trim();
+    }
+  });
+
   if (articlesToSummarize.length === 0) {
     console.log('No articles to summarize.');
     return;
