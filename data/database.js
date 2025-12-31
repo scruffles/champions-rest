@@ -2747,7 +2747,7 @@ export const db = [
     text: "We would like to finish a story which began on the special sports page in the weekend edition of The Globe-Democrat. Because of space problems, the finishing touches to the life of Tom Allen, one of the last of the bare-knuckle heavyweight champions of the world, were left untold.\n\nHe had been a saloon keeper in St. Louis, had operated the Sportsmen’s Rest at Sixth and Market, had defeated Bill McCoole for the championship on Chouteau Island in the Mississippi in September of 1871. He defended against all comers until 1876 when he lost the title on a foul to Joe Goss. Two years later he returned to his native England for a visit, was presented with a huge silver cup by his friends and admirers.\n\nAllen lost interest in boxing when the Marquis of Queensberry, appalled by the bloody carnage he had witnessed in the bare knuckle brawls, refined the rules of the game. Fighters wore skin-tight gloves, gouging and kneeing and tripping were barred — and Allen retired. “They've made it a sissy sport,” he said. “I want no part of it.”\n\nHis daughter Mary, who also was called Polly, returned to the United States with him and she subsequently married Edward Taylor of St. Louis. They are the grandparents of Thomas Allen Taylor, chairman of the Board of the Seven Up Company, who has the famed cup in his possession and who in his spare time has tried to find out more about his great grandfather without too much success.\n\n“All I know is what I've read in old newspaper accounts,” says Tom Taylor, “plus some family memories.” When Allen died in 1903, it was assumed he left some money. After all, his saloon had been prosperous, he had made a fair amount of money selling whiskey to the spectators who gathered for the fights on the islands. In addition, the side bets on several of the fights were substantial, amounting in at least one instance to $25,000.\n\nHis will left everything to his daughter, Polly Allen Taylor, and to a friend. When the will was submitted to probate, however, it was discovered that the will amounted to $278.35. “I have learned,” said Tom Taylor, “that the silver cup went to Miss Hargrove — but where it was from 1903 when Tom Allen died until my father retrieved it from a Market Street pawn shop in 1938, I have no idea.”\n\nThere has been a story in the family, too, that Tom Allen came into possession of a diamond belt, emblematic of the World championship. “Various of my relatives have talked about it,” Taylor said, “but no one can verify that it ever existed or where it is today.” He plans to offer the silver cup, the lone remaining memento of his great grandfather's reign as champion, to the Missouri Historical Society.\n\nAs the foregoing suggests and as the following substantiates, boxing always has lived in a world all its own. There is nothing like it really. To those on the outside, it is inexplicable and perhaps repugnant. To those who have been a part of it, the sport borders on a religion."
   },
   {
-    title: "The Times Leader",
+    title: "His Friends Disappointed",
     publication: "The Times Leader",
     sourceDate: "1882-12-01",
     localCopyEdited: "images/articles/image-268.jpg",
@@ -2757,7 +2757,7 @@ export const db = [
     summary: "Amid controversy, Richard K. Fox faced pressure to withdraw support for Tom Allen following Allen's disappointing boxing appearance, complicating a potential fight with John L. Sullivan."
   },
   {
-    title: "The Cleveland Leader",
+    title: "Tom Allen and his Programme",
     publication: "The Cleveland Leader",
     sourceDate: "1882-11-01",
     localCopyEdited: "images/articles/image-269.jpg",
@@ -2767,7 +2767,7 @@ export const db = [
     summary: "Tom Allen, an esteemed English pugilist, rests in Boston before heading to New York, reflecting on Tug Wilson and admiring John L. Sullivan during his U.S. visit."
   },
   {
-    title: "The Cincinnati Enquirer",
+    title: "What Tom Allen Will Do",
     publication: "The Cincinnati Enquirer",
     sourceDate: "1882-10-31",
     localCopyEdited: "images/articles/image-270.jpg",
@@ -2777,7 +2777,7 @@ export const db = [
     summary: "Tom Allen, a prominent 19th-century pugilist, plans exhibitions in New York. Meanwhile, Richard K. Fox challenges for a match against John L. Sullivan under London Prize Ring rules."
   },
   {
-    title: "The Evening Herald",
+    title: "Prospective Prize Fight",
     publication: "The Evening Herald",
     sourceDate: "1882-11-02",
     localCopyEdited: "images/articles/image-271.jpg",
@@ -2787,7 +2787,7 @@ export const db = [
     summary: "Tom Allen, an English pugilist visiting Boston, praised John L. Sullivan as the best boxer globally. Reflecting on pugilism's cultural shift in the 1870s, Allen emphasized his own career achievements."
   },
   {
-    title: "St. Louis Globe-Democrat",
+    title: "Tom Allen and his Trophies",
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1882-11-03",
     localCopyEdited: "images/articles/image-272.jpg",
@@ -2797,7 +2797,7 @@ export const db = [
     summary: "Tom Allen, a celebrated English boxer, showcased his elegant silver cup trophy in St. Louis, highlighting his achievements and status during an 1878 visit to the United States."
   },
   {
-    title: "The Washington Post",
+    title: "Foul Tactics Ruled",
     publication: "The Washington Post",
     sourceDate: "1896-12-09",
     localCopyEdited: "images/articles/image-273.jpg",
@@ -2807,7 +2807,7 @@ export const db = [
     summary: "In the 19th-century, American boxer John C. Heenan faced alleged foul play against British opponents Tom Sayers and Tom King, sparking international controversy and highlighting endemic corruption in boxing."
   },
   {
-    title: "Buffalo Courier Express",
+    title: "john Heenan was Twice Cheated in England",
     publication: "Buffalo Courier Express",
     sourceDate: "1896-12-11",
     localCopyEdited: "images/articles/image-274.jpg",
@@ -2817,7 +2817,7 @@ export const db = [
     summary: "In 1860, American boxer John C. Heenan controversially lost to England's champion, Tom Sayers, prompting public outrage. This event highlighted 19th-century boxing's contentious nature."
   },
   {
-    title: "The New York Times",
+    title: "Mr. Harding Not There",
     publication: "The New York Times",
     sourceDate: "1882-11-29",
     localCopyEdited: "images/articles/image-275.jpg",
@@ -2827,7 +2827,7 @@ export const db = [
     summary: "Tom Allen's boxing performance at Madison Square Garden disappointed fans, prompting Richard K. Fox to reconsider his wager against John L. Sullivan, sparking debate in sporting circles."
   },
   {
-    title: "The Kansas City Times",
+    title: "The Bully Boxer",
     publication: "The Kansas City Times",
     sourceDate: "1873-11-04",
     localCopyEdited: "images/articles/image-276.jpg",
@@ -2837,7 +2837,7 @@ export const db = [
     summary: "Tom Allen, a prominent 19th-century boxer, criticizes opponent Hogan for avoiding their Omaha match. Allen's readiness contrasts with Hogan's alleged lack of fighting intent."
   },
   {
-    title: "Washington Chronicle",
+    title: "Allen’s Benefit",
     publication: "Washington Chronicle",
     sourceDate: "1876-06-10",
     localCopyEdited: "images/articles/image-277.jpg",
@@ -2847,7 +2847,7 @@ export const db = [
     summary: "Tom Allen's benefit event features sparring and performances at Avenue Theater, highlighting his boxing skills with trainer Jack Madden, amid 19th-century pugilism's growing popularity."
   },
   {
-    title: "Daily National Intelligencer and Washington Express",
+    title: "The Proposed Match Between McCoole and Allen a Fizzle",
     publication: "Daily National Intelligencer and Washington Express",
     sourceDate: "1869-03-20",
     localCopyEdited: "images/articles/image-278.jpg",
@@ -2857,7 +2857,7 @@ export const db = [
     summary: "The article describes a failed negotiation for a prizefight between American champion Mike McCoole and English boxer Tom Allen, reflecting the challenges in 19th-century boxing."
   },
   {
-    title: "The Saint Paul Globe",
+    title: "Pugilist Worth a Fortune",
     publication: "The Saint Paul Globe",
     sourceDate: "1900-03-18",
     localCopyEdited: "images/articles/image-279.jpg",
@@ -2867,7 +2867,7 @@ export const db = [
     summary: "The article highlights boxers Tom Sharkey and Tom Allen, focusing on Sharkey's filial support and Allen's devoted daughter, underscoring personal stories beyond the ring's brutality."
   },
   {
-    title: "The Washington Post",
+    title: "Gossip of the Boxers",
     publication: "The Washington Post",
     sourceDate: "1898-02-01",
     localCopyEdited: "images/articles/image-280.jpg",
@@ -2877,7 +2877,7 @@ export const db = [
     summary: "Charley Mitchell's introduction of the left hook in America, influenced by Tom Allen, impacted boxing styles across generations, influencing fighters like Dempsey and Corbett."
   },
   {
-    title: "St. Joseph Gazette",
+    title: "The Last Triumph of Jem Mace",
     publication: "St. Joseph Gazette",
     sourceDate: "1910-05-08",
     localCopyEdited: "images/articles/image-281.jpg",

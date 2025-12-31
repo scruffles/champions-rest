@@ -95,6 +95,38 @@ async function correctOcrText(text, apiKey) {
   return data.choices[0].message.content.trim();
 }
 
+async function generateTitle(text, apiKey) {
+  console.log("Generating title using LLM...");
+  const response = await fetch("https://api.openai.com/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${apiKey}`,
+    },
+    body: JSON.stringify({
+      model: "gpt-4o",
+      messages: [
+        {
+          role: "system",
+          content:
+            "You are a transcription assistant specializing in 19th-century sports news. Based on the provided article text, generate a concise, descriptive title for the article. The title should be brief (ideally 3-8 words) and capture the main subject of the article. Do not use markdown, quotes, or any extra commentary. Just provide the title text.",
+        },
+        {
+          role: "user",
+          content: text,
+        },
+      ],
+      max_tokens: 50,
+    }),
+  });
+
+  const data = await response.json();
+  if (data.error) {
+    throw new Error(data.error.message);
+  }
+  return data.choices[0].message.content.trim().replace(/^"|"$/g, "");
+}
+
 async function generateSummary(article, apiKey) {
   console.log(`Generating summary for: ${article.title}...`);
   const response = await fetch("https://api.openai.com/v1/chat/completions", {
@@ -202,8 +234,14 @@ async function importArticles() {
       try {
         entry.text = await correctOcrText(entry.text, apiKey);
         console.log("OCR text corrected.");
+
+        // Generate title if it's missing or generic (like 'untitled')
+        if (!entry.title || entry.title.toLowerCase() === "untitled" || entry.title === newArticle.publication) {
+          entry.title = await generateTitle(entry.text, apiKey);
+          console.log(`Title generated: ${entry.title}`);
+        }
       } catch (err) {
-        console.error("Error correcting OCR text:", err.message);
+        console.error("Error correcting OCR text or generating title:", err.message);
       }
     }
 
