@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-03
+
+### Changed
+- Replaced Fuse.js with MiniSearch for full-text article search
+- Search index is now built at build time and lazy-loaded (~960KB gzipped) on first search open
+- Full OCR text of all 1,017 articles is searchable with fuzzy matching and prefix search
+
 ## 2026-11-02
 
 ### Added
@@ -19,9 +26,6 @@
 ### Article Viewer
 - Better zoom for full-page newspaper images (pinch/scroll zoom, not just fullscreen)
 - Cite sources in existing biography and fact pages using the new articles as references
-
-### Search
-- Full-text search performance: current approach loads all OCR text into Fuse.js index (~2MB); explore lazy-loading or a separate search index
 
 ### Record Page
 - Re-calculate Tom Allen's match history (wins/losses/opponents) by cross-referencing all 1,017 articles - current record page may be incomplete or inaccurate

@@ -3,7 +3,7 @@ import { db } from "../../data/database";
 import moment from "moment";
 import { useMatch, useNavigate } from "react-router-dom";
 import { marked } from "marked";
-import Fuse from "fuse.js";
+import MiniSearch from "minisearch";
 
 const dedent = (str) => {
   const lines = str.split("\n");
@@ -192,24 +192,43 @@ const Articles = () => {
   const [searchResults, setSearchResults] = React.useState([]);
   const [activeIndex, setActiveIndex] = React.useState(-1);
 
-  const fuse = React.useMemo(() => {
-    return new Fuse(db, {
-      keys: ["title", "publication", "summary", "text"],
-      threshold: 0.3,
-      includeMatches: true,
+  const [searchIndex, setSearchIndex] = React.useState(null);
+
+  const loadSearchIndex = React.useCallback(async () => {
+    if (searchIndex) return;
+    const res = await fetch("/search-index.json");
+    const json = await res.json();
+    const ms = MiniSearch.loadJSON(JSON.stringify(json), {
+      fields: ["title", "summary", "publication", "text"],
+      storeFields: ["id"],
+      searchOptions: {
+        boost: { title: 3, summary: 2, publication: 1, text: 1 },
+        fuzzy: 0.2,
+        prefix: true,
+      },
     });
-  }, []);
+    setSearchIndex(ms);
+  }, [searchIndex]);
 
   React.useEffect(() => {
+    if (showSearch) loadSearchIndex();
+  }, [showSearch, loadSearchIndex]);
+
+  React.useEffect(() => {
+    if (!searchIndex) return;
     if (searchQuery.trim().length > 2) {
-      const results = fuse.search(searchQuery);
-      setSearchResults(results.map((r) => r.item));
+      const results = searchIndex.search(searchQuery, { fuzzy: 0.2, prefix: true });
+      const articles = results
+        .slice(0, 50)
+        .map((r) => db.find((a) => a.id === r.id))
+        .filter(Boolean);
+      setSearchResults(articles);
       setActiveIndex(0);
     } else {
       setSearchResults([]);
       setActiveIndex(-1);
     }
-  }, [searchQuery, fuse]);
+  }, [searchQuery, searchIndex]);
 
   React.useEffect(() => {
     const handleGlobalKeyDown = (e) => {
