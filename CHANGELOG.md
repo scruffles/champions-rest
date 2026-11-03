@@ -31,6 +31,25 @@
 - Extract new facts from the 736 new articles (dates, opponents, locations, results, quotes)
 - Build a new, more complete biography grounded in primary sources
 
+### Timeline
+- Redesign the articles page as a timeline or more scalable presentation - the current list doesn't scale to 1,017 articles
+- Visual chronological timeline of Tom Allen's life (fights, bar openings, legal troubles, death) as a standalone page or section
+
+### People Network
+- Page per notable figure in Tom Allen's life (Jem Mace, Joe Goss, John L. Sullivan, Mike McCoole, etc.)
+- Each person page shows their relationship to Allen through linked articles, mini-bio, and links to external resources
+
+### Champion's Rest Saloon
+- Dedicated page for his Market Street saloon if the articles provide enough content (legal incidents, patrons, entertainment, closure)
+
+### "On This Day"
+- Surface articles by calendar date to connect visitors to what was happening on today's date in Tom Allen's life
+
+### Interactive Map
+- Map of fight locations, bar locations, and other significant places pulled from the articles
+- Visual links from map locations to the relevant articles
+- Consider historic St. Louis map overlay for the city locations
+
 ### Maps
 - Google maps of bar locations (maybe use a historic St. Louis map)
 - Google maps of fight locations
