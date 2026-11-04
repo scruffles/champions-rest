@@ -1,39 +1,42 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
+import Search from "./Search";
+import { InkFilter } from "./shared";
+import { ARTICLES, todayLabel } from "../lib/articles";
 
-export default class Navbar extends React.Component {
-  render() {
-    return (
-      <nav className="navbar fixed-top navbar-expand-sm navbar-dark">
-        <NavLink to="/" className="navbar-brand nav-link">
-          <img src="/images/logo.png" />
-          <div className="title">Champion's Rest</div>
-          <div className="subtitle">The life of champion boxer Tom Allen</div>
-        </NavLink>
-        <ul className="navbar-nav mr-auto" />
-        <ul className="navbar-nav">
-          <li className="nav-item">
-            <NavLink to="/biography" className="nav-link">
-              Biography
+const NAV = [
+  ["/", "Front page"],
+  ["/biography", "Biography"],
+  ["/articles", "Articles"],
+  ["/record", "Record"],
+  ["/about", "About"],
+];
+
+export default function Navbar() {
+  return (
+    <header className="masthead">
+      <div className="dateline">
+        <span>Vol. I · {ARTICLES.length.toLocaleString()} articles</span>
+        <span>St. Louis · {todayLabel()}</span>
+        <span>The life of Tom Allen 1839–1903</span>
+      </div>
+      <div className="nameplate">
+        <InkFilter />
+        <Link to="/" className="nameplate-title">
+          Champion's Rest
+        </Link>
+        <div className="nameplate-sub">The life and times of Tom Allen, champion pugilist of the world</div>
+      </div>
+      <div className="navrow">
+        <nav aria-label="Main">
+          {NAV.map(([to, label]) => (
+            <NavLink key={to} to={to} end={to === "/"}>
+              {label}
             </NavLink>
-          </li>
-          <li className="nav-item">
-            <NavLink to="/articles" className="nav-link">
-              Articles
-            </NavLink>
-          </li>
-          <li className="nav-item">
-            <NavLink to="/record" className="nav-link">
-              Record
-            </NavLink>
-          </li>
-          <li className="nav-item">
-            <NavLink to="/about" className="nav-link">
-              About
-            </NavLink>
-          </li>
-        </ul>
-      </nav>
-    );
-  }
+          ))}
+        </nav>
+        <Search />
+      </div>
+    </header>
+  );
 }

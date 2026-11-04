@@ -152,7 +152,13 @@ class Biography extends React.Component {
           : null;
 
     return (
-      <div className="container biography">
+      <div className="biography">
+        <div className="page-head">
+          <div className="kicker">Biography</div>
+          <h1>The Life of Tom Allen</h1>
+          <div className="deck">Gunsmith, soldier, prize fighter and saloon keeper, 1839–1903</div>
+          <div className="byline-strip">Drawn from hundreds of newspaper reports · Click any underlined passage to see its sources</div>
+        </div>
         <CaptionedImage src="/images/pictures/tom-allen.jpg" align="right">
           Tom Allen in fighting shape circa early 1870s
         </CaptionedImage>

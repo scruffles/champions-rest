@@ -30,3 +30,12 @@ Upload:
 ```
 aws s3 sync ~/projects/claude-ancestry/staging/images/articles/ s3://champions-rest.com/images/articles/
 ```
+
+## Article Thumbnails
+
+The article lists use small thumbnails from `/images/thumbs/` (they fall back to the full clipping if a thumbnail is missing). Rebuild them after adding articles, then upload:
+
+```
+npm run build-thumbnails
+aws s3 sync public/images/thumbs/ s3://champions-rest.com/images/thumbs/
+```

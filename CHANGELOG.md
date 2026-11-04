@@ -2,7 +2,21 @@
 
 ## 2026-11-03
 
+### Added
+- Broadsheet redesign of the whole site: aged newsprint texture, worn blackletter masthead, blackletter drop caps, column rules
+- New front page with lead story, "At a glance" facts, "On this day" and section teasers
+- Articles split into a highlights page (article of the day / on this day hero, featured row, curated shelves) and an archive page
+- Archive timeline by chapter of his life and year, with key/everything toggle and topic filters kept in the URL
+- Article detail page with clipping, transcript (full OCR text for new articles) and full page views, zoom, earlier/later navigation, citation and related articles
+- Fight record regrouped by period with filters, a results tally and expandable rows linking to sources
+- Header search across all articles
+- Thumbnail build script (`npm run build-thumbnails`) and curated collections in `data/collections.js`
+
 ### Changed
+- Article totals and year ranges are calculated from the data instead of hard-coded
+- Biography keeps its full text and source footnotes, restyled to match
+- Articles flagged `not_tom` are hidden
+- Removed Bootstrap and Font Awesome
 - Replaced Fuse.js with MiniSearch for full-text article search
 - Search index is now built at build time and lazy-loaded (~960KB gzipped) on first search open
 - Full OCR text of all 1,017 articles is searchable with fuzzy matching and prefix search
@@ -19,9 +33,10 @@
 ## Backlog
 
 ### Filtering & Navigation
-- Filter articles by tier (default show tier 1, button to show all)
-- Filter/hide articles where Tom Allen is only mentioned in passing (`focus: passing`)
-- Review 39 articles flagged `not_tom` (different Tom Allen or unrelated content) - decide whether to hide or remove
+- Review 39 articles flagged `not_tom` (different Tom Allen or unrelated content) - currently hidden; decide whether to remove
+- Replace keyword-guessed topics with real per-article tags
+- Upload thumbnails to S3 (`s3://champions-rest.com/images/thumbs/`) before deploying the redesign
+- Fix automatic crops that cut off multi-column headlines (e.g. article 1000)
 
 ### Article Viewer
 - Better zoom for full-page newspaper images (pinch/scroll zoom, not just fullscreen)
@@ -36,7 +51,6 @@
 - Build a new, more complete biography grounded in primary sources
 
 ### Timeline
-- Redesign the articles page as a timeline or more scalable presentation - the current list doesn't scale to 1,017 articles
 - Visual chronological timeline of Tom Allen's life (fights, bar openings, legal troubles, death) as a standalone page or section
 
 ### People Network
@@ -45,9 +59,6 @@
 
 ### Champion's Rest Saloon
 - Dedicated page for his Market Street saloon if the articles provide enough content (legal incidents, patrons, entertainment, closure)
-
-### "On This Day"
-- Surface articles by calendar date to connect visitors to what was happening on today's date in Tom Allen's life
 
 ### Interactive Map
 - Map of fight locations, bar locations, and other significant places pulled from the articles
