@@ -1,0 +1,232 @@
+{
+  "id": "488",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The whole Allen interview is in the crop. The closing 'Ben's Benefit' section about Ben Hogan ends mid-sentence ('if he behaves as well in the ring as he') and continues at the top of the next column, which is not in the crop."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Readable and mostly right; scattered errors such as 'REPUPLICAN', 'Hegan', 'EIGHUT-MILE HOUSE', 'lvish-Americans', 'Tdidu't'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican visited Tom Allen in training at the Eight-Mile House, where he said Irish-Americans had hounded him back into the ring and offered to fight Joe Coburn or any man of that nationality for any money."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Profiles",
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads THE MISSOURI REPUBLICAN, ST. LOUIS, SATURDAY, OCTOBER 25, 1873, page 5. The paper was the Missouri Republican, the predecessor of the St. Louis Republic; the site lists 'The St Louis Republic'."
+  },
+  "facts": [
+    {
+      "fact": "Allen was training at the Eight-Mile House outside St. Louis with his trainer Madden and Arthur Chambers, the light-weight champion of the world, who was his second",
+      "date": "1873-10-24",
+      "people": [
+        "Madden",
+        "Arthur Chambers"
+      ],
+      "places": [
+        "Eight-Mile House, near St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen confronted the reporter about the Coburn interview",
+      "date": "1873-10-24",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [],
+      "quote": "Who's the bloody reporter that put that talk in the REPUBLICAN about Coburn and me?",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had lived in St. Louis a number of years and had always paid his debts",
+      "date": "1873-10-24",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "I've lived in St. Louis a number of years, and 'cept as I've broke the peace, as they call it, by fightin', I've never done anything out of the way. I defy any man to say that I ever wronged him in any way or gave him any game. I've always paid my debts and had a civil word for everybody.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said that after his fight with Mace he retired from the ring, having made a little money and having a way to make a living without fighting",
+      "date": "1873-10-24",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [],
+      "quote": "After my fight with Mace I wanted to leave the ring. I didn't want to fight any more. I wanted to live the balance of my life in quiet. I had made a little money and had a way to get a living without fighting and I retired from the ring.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Irish-Americans as a class hated him because he was an Englishman and wanted him beaten",
+      "date": "1873-10-24",
+      "people": [],
+      "places": [],
+      "quote": "But I am an Englishman and the Irish-Americans, as a nationality, hate me. There are some exceptions, of course, and I have a good many friends among them. But as a class they hate me.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he agreed to fight McCoole after friends told him McCoole's backers were talking of McCoole whipping him on the street if he would not fight in the ring",
+      "date": "1873",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "That made me a little mad, and I says: 'Here, now, I'll fight So-and-so, and we'll have an end of this chatter.'",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had recently beaten Mike McCoole",
+      "date": "1873",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After beating McCoole, Allen wrote to the New York Herald offering to fight Joe Coburn anywhere for any sum between $500 and $5,000 and to put up a forfeit; he said Coburn had agreed in the papers but had put up no money",
+      "date": "1873",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [],
+      "quote": "I wrote a letter to the New York Herald, offering to fight Coburn anywhere for any money between $500 and $5,000, and proposed to plank a forfeit right down.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had been hounded back into the ring and offered a standing bet of any or all of his money and property, and to fight any Irish-American anywhere for any money enough to cover training expenses",
+      "date": "1873-10-24",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [],
+      "quote": "I've retired once from the ring, this nationality of Irish-Americans has hounded me back into it again, and I'm goin' to stay now till they are satisfied. I've got some money and some property. And I'll make a standing bet of any part, or all of it, that they can't bring any man, Joe Coburn, or whoever else they can get, that can win a cent of it from me in any ring. I'll put it shorter and blunter. I'll fight any man of that nationality anywhere, for any money, so it's enough to cover expenses of training and the like.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Told his challenge was a broad proposition, Allen replied",
+      "date": "1873-10-24",
+      "people": [],
+      "places": [],
+      "quote": "My shoulders are broad enough to back it,",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen called Joe Coburn a ruffian, a criminal and a brute who whipped his wife",
+      "date": "1873-10-24",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [],
+      "quote": "Nobody can beat him in a newspaper fight. That's his best holt. But he is a ruffian, Joe is. He is swell, flash, bad. He is a criminal. He is a brute; the meanest kind of a brute. He whips his wife, and I can whip any man that's got enough of the cur in him to strike a woman.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen answered the Globe, which had called him a brute",
+      "date": "1873-10-24",
+      "people": [],
+      "places": [],
+      "quote": "I'm not a criminal, beyond prize-fighting, and that's only a misdemeanor. I'm not capable of striking a woman; and I'm not a brute, though the Globe says I am. But see: I only blacken peoples' eyes sometimes. The Globe blackens their characters! Which is the brutalest? I leave it to you.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Told that Gov. Beveridge would have a boat-load of militia follow the fight excursion and arrest everyone when they reached the Illinois shore, Allen dismissed the threat",
+      "date": "1873-10-24",
+      "people": [
+        "Gov. Beveridge"
+      ],
+      "places": [
+        "Illinois shore"
+      ],
+      "quote": "Blast the militia, where will he get them?",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had been a soldier and served under Sir Henry Havelock through the Sepoy mutiny (Indian rebellion), and told the reporter stories of it",
+      "date": "",
+      "people": [
+        "Sir Henry Havelock"
+      ],
+      "places": [
+        "India"
+      ],
+      "quote": "I used to be a soldier. I served under Sir Henry Havelock all through the Sepoy mutiny. Had a good deal of rough work too.",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he would have a benefit at Deagle's theatre on the evening of the fight, where he would give a sparring exhibition",
+      "date": "1873-10",
+      "people": [],
+      "places": [
+        "Deagle's theatre, St. Louis"
+      ],
+      "quote": "I'm a going to have a benefit at Deagle's On the evening of the fight, when I will give a sparring exhibition.",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The headline 'Tom and Ben' and the remark that Hogan 'may not be as handsome next Tuesday night' suggest Allen's fight with Ben Hogan was then expected the following Tuesday (October 28, 1873)",
+      "date": "1873-10-28",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's claim to have served under Havelock in the Sepoy mutiny (1857) differs from indexed fact 003 (enlisted during the Crimean War); the owner may want to reconcile them. The Illinois militia and riverboat threat may relate to the unnumbered index item about the Hogan fight and police on the Illinois shore. Quotes were taken from the image; the 'Blast the militia' quote leaves out the narration between its two parts."
+}

@@ -1,0 +1,64 @@
+{
+  "id": "008",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full item, from headline 'THE ALLEN-GALLAGHER FIGHT. It Takes Place To-day.' to the end."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Transcript matches the image; the subhead 'It Takes Place To-day' is omitted."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen's prize fight with Gallagher would take place that day at a secret spot within sixty miles of St. Louis, with Patsy Reardon, newly arrived from Ireland, seconding Allen."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, February 23, 1869' (Tuesday), so it is the same paper as the St. Louis Republican. The item is in a middle column, near the bottom. The paper was called the Missouri Republican on that date, so it is filed under that name rather than 'St. Louis Republican'."
+  },
+  "facts": [
+    {
+      "fact": "Allen's prize fight with Gallagher was to take place on Feb. 23, 1869, at a point within sixty miles of St. Louis; the exact spot was kept secret",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "within sixty miles of St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Patsy Reardon, 'the hero of sixteen victories', recently arrived from Ireland, was to second Allen against Gallagher",
+      "date": "1869-02-23",
+      "people": [
+        "Patsy Reardon"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary calls the opponent 'Felix Gallagher'. The article gives no first name; this was the Charley Gallagher fight of Feb. 23, 1869. The Bill Ryall line is about a different person and is left out of the facts."
+}

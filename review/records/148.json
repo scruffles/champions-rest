@@ -1,0 +1,495 @@
+{
+  "id": "148",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole feature captured across 19 pieces, from the 'LOCAL PUGILISTS' headline through 'The Lesser Lights' ending ('knocked into the middle of the audience'). Covers Kelly, Allen, McCoole, Dan Daly, Farrell, Clark, Charley Daly."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Transcript is only about the first third: it stops mid-record at the George Iles fight and omits the rest of Allen's record (Goss 1867, all American fights, 1877-78 England trip, retirement, 1892 accident) and every other profile. Errors in what is there: 'punster' for 'youngster', 'ten minutes' for 'ten rounds', Nobby Hall date missing year 1860, Posh Price 1862 listed as a win (image: 'Beaten by'), Bob Smith '59m' (image: '2h. and 59m'), Gould and Rose round counts dropped, 'backed for' should be 'backed against'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "St. Louis Pugilists, With Tom Allen's Ring Record"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch profiled the prize fighters who made St. Louis their home, with a sketch of Tom Allen giving his ring record from 1860 to his retirement and noting he kept the Champion's Rest saloon."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Profiles",
+    "Fights",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Post-Dispatch, Sunday, September 18, 1892, page 11. article.json has no focus field."
+  },
+  "facts": [
+    {
+      "fact": "Allen was born at Birmingham, England, on April 23, 1840 (this article gives 1840, not 1839)",
+      "date": "1840-04-23",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "medium",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen began fighting when only twenty years of age",
+      "date": "1860",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "005"
+    },
+    {
+      "fact": "Allen keeps a saloon in St. Louis called the Champion's Rest, a resort for lovers of the fighter's art",
+      "date": "1892",
+      "people": [],
+      "places": [
+        "Champion's Rest, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "The championship cap of England is one of the most revered ornaments of the Champion's Rest",
+      "date": "1892",
+      "people": [],
+      "places": [
+        "Champion's Rest, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "018"
+    },
+    {
+      "fact": "Allen's first battle was with a youngster named White on April 20, 1860, for £5 a side; Allen won after ten rounds",
+      "date": "1860-04-20",
+      "people": [
+        "White"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought a draw with Nobby Hall on Sept. 17, 1860, £5 a side; 40 minutes, fifteen rounds",
+      "date": "1860-09-17",
+      "people": [
+        "Nobby Hall"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Morris Conner on March 20, 1861, £10 a side; 1h. 10m., sixteen rounds",
+      "date": "1861-03-20",
+      "people": [
+        "Morris Conner"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Jack Gould on June 8, 1861, £15 a side; 50 minutes, eleven rounds",
+      "date": "1861-06-08",
+      "people": [
+        "Jack Gould"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was beaten by Posh Price on July 28, 1862, £10 a side; 50 minutes, thirty-five rounds",
+      "date": "1862-07-28",
+      "people": [
+        "Posh Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Bingy Rose on Jan. 28, 1864, £25 a side; 20 minutes, ten rounds",
+      "date": "1864-01-28",
+      "people": [
+        "Bingy Rose"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was beaten by Bob Smith on June 2, 1864, £5 a side; 2h. 59m., fifty rounds",
+      "date": "1864-06-02",
+      "people": [
+        "Bob Smith"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Jack Parkinson on June 13, 1865, £25 a side; 23 minutes, eleven rounds",
+      "date": "1865-06-13",
+      "people": [
+        "Jack Parkinson"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Posh Price on Nov. 28, 1865, £25 a side; 2h. 5m., forty-one rounds",
+      "date": "1865-11-28",
+      "people": [
+        "Posh Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat George Iles on June 13, 1866, £25 a side; 1h. 2m., seventeen rounds",
+      "date": "1866-06-13",
+      "people": [
+        "George Iles"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Joe Goss on March 5, 1867, for £100 a side and the middleweight championship; a draw after 1h. 52m., thirty-four rounds",
+      "date": "1867-03-05",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's first fight in America was on Jan. 12, 1869, when he beat Bill Davis in forty-three rounds for $1,000 a side",
+      "date": "1869-01-12",
+      "people": [
+        "Bill Davis"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was beaten by Charlie Gallagher on Feb. 23, 1869, in two rounds",
+      "date": "1869-02-23",
+      "people": [
+        "Charlie Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Mike McCoole for the championship of America on June 15, 1869, at Bridgewater's Island, about 26 miles down the river; after nine rounds McCoole's friends broke into the ring and cut the ropes, and the fight was declared a draw",
+      "date": "1869-06-15",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "Bridgewater's Island, Mississippi River below St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "About two months after the first McCoole fight, Allen beat Charlie Gallagher in eleven rounds",
+      "date": "1869-08",
+      "people": [
+        "Charlie Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Jem Mace on May 10, 1870, for $5,000 a side and the championship of the world, and was defeated in ten rounds",
+      "date": "1870-05-10",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was matched on June 2, 1870, to fight Mike McCoole for the heavyweight championship of America and $2,500, but McCoole forfeited $1,000 and the fight did not come off",
+      "date": "1870-06-02",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In November 1870 Allen defeated Jem Gallagher in fourteen rounds, staking $1,000 to $500",
+      "date": "1870-11",
+      "people": [
+        "Jem Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On Sept. 23, 1873, several miles above St. Louis, Allen beat Mike McCoole for $2,000 and the championship; McCoole's second Tom Kelly threw up the sponge after the seventh round. It was McCoole's last appearance in the ring",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCoole",
+        "Tom Kelly"
+      ],
+      "places": [
+        "Mississippi River, several miles above St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The month after the 1873 McCoole fight Allen beat Ben Hogan in three rounds; Hogan's friends broke into the ring and pointed their pistols at Allen's head, perhaps the most exciting battle of his career",
+      "date": "1873",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Joe Goss on Sept. 7, 1876, for $2,500 a side; after thirty-seven rounds the paper says Allen won the fight but was swindled out of the money on an alleged foul",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen returned to England on May 6, 1877",
+      "date": "1877-05-06",
+      "people": [],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "015"
+    },
+    {
+      "fact": "In November 1877 Allen defeated Tompkin Gilbert in five rounds for £100 a side",
+      "date": "1877-11",
+      "people": [
+        "Tompkin Gilbert"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On April 17, 1878, Allen fought Charlie Davis for the championship of England and won easily in five rounds",
+      "date": "1878-04-17",
+      "people": [
+        "Charlie Davis"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's last fight was with Jim Stuart, whom he defeated in sixteen rounds",
+      "date": "",
+      "people": [
+        "Jim Stuart"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In his 39th year, feeling his age, Allen retired holding the championship honors of England and America; the paper described him as heavyweight champion of the world at his retirement",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After returning to America Allen came back to St. Louis and stayed, leaving only from time to time to attend great pugilistic events",
+      "date": "",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A day or two after returning from the big fight in New Orleans, where he was lionized, Allen was thrown against a post while out driving and was seriously ill from the shock",
+      "date": "1892-09",
+      "people": [],
+      "places": [
+        "New Orleans",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen seconded Fred Bussey in his fight with Tom Kelly in St. Louis, which Kelly won in twenty-seven rounds",
+      "date": "",
+      "people": [
+        "Fred Bussey",
+        "Tom Kelly"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Harry Allen, described as 'a brother of Tom's', fought Tom Kelly at Flouch on Sept. 28, 1866, for £50 a side and beat him after thirty-six rounds (it is unclear whether 'Tom' means Tom Allen)",
+      "date": "1866-09-28",
+      "people": [
+        "Harry Allen",
+        "Tom Kelly"
+      ],
+      "places": [
+        "Flouch, England"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mike McCoole, Allen's old rival, died in absolute poverty in a New Orleans hospital",
+      "date": "",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "023"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Owner check: (1) birth year given as 1840, versus 1839 in the index. (2) 'Harry Allen, a brother of Tom's' appears in Tom Kelly's section; it may mean Tom Allen had a brother Harry who also fought. (3) The 1876 Goss fight is described as an Allen win he was swindled out of, which is the opposite of the usual account (Goss given the fight on a foul). (4) The Bob Farrell section says Farrell beat 'young Tom Allen in seven rounds at Mike Clary's place in the Bowery'. That is probably a different, lightweight Tom Allen, so it is left out of the facts. Several matching index facts have id 000 (settled ~1869, world champion at retirement, Sept 1892 accident, Kelly/second story), so existing_fact is left blank for those."
+}

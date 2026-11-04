@@ -38,3 +38,5 @@ benchmarks/graphs
 env.sh
 /public/images
 /dist
+# article review scratch inputs (rebuilt by npm run review -- prep)
+/review/work

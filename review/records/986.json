@@ -1,0 +1,110 @@
+{
+  "id": "986",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The headline is missing. On the page it reads 'SHOT IN A SALOON ROW. Tim Confoy Fatally Wounded by Tom Allen in the Latter's Resort', with a deck about five shots fired at a victim who could not return fire and the police rounding up everyone in the saloon. The end is also cut off mid-sentence ('while he lay on the operating table he made'); the article continues at the top of the next column with Confoy's statement and more about Spencer and Allen. The bottom of the clipping is Ryan-Clarkson dry goods advertising."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "The first half is mostly right (e.g. 'Havith's' for Havlin's, 'ge! Lyons' for Harry Lyons, 'top sane A blow' for 'too bloody slow'). The second half gets steadily worse, and the end of the transcript is advertisement text."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen shot and fatally wounded Tim Confoy, a stage hand, in his saloon at 619 Market Street after Confoy, by bartender Harry Lyons' account, reached as if for a revolver."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Sunday Morning, February 26, 1899', page 11. The shooting happened early that morning ('this morning')."
+  },
+  "facts": [
+    {
+      "fact": "Just after 2 a.m., in a fight in his saloon, Allen shot and fatally wounded Tim Confoy, a stage hand employed at Havlin's Theater",
+      "date": "1899-02-26",
+      "people": [
+        "Tim Confoy"
+      ],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "028"
+    },
+    {
+      "fact": "Allen's saloon was at 619 Market Street in 1899",
+      "date": "1899-02",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Lyons said Confoy, who had had words with the bartender earlier that week, came in with John Spencer and announced he was there looking for trouble, and Allen warned him",
+      "date": "1899-02-26",
+      "people": [
+        "Tim Confoy",
+        "Harry Lyons",
+        "John Spencer"
+      ],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "You must be a tough mug. Now, I want to tell you not to start anything here.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Lyons said Confoy moved as if to draw a revolver from his hip pocket; Allen drew a revolver in each hand and fired from behind the bar until Confoy fell at the fifth shot",
+      "date": "1899-02-26",
+      "people": [
+        "Tim Confoy",
+        "Harry Lyons"
+      ],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "Oh, no, you're too bloody slow,",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen walked out to the pavement, fired two shots in the air, gave his revolvers to Officer Clifford and surrendered; he was held at the Chestnut Street police station",
+      "date": "1899-02-26",
+      "people": [
+        "Officer Clifford"
+      ],
+      "places": [
+        "619 Market Street, St. Louis",
+        "Chestnut Street police station, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Recrop to take in the headline and the continuation at the top of the next column, which has Confoy's statement on the operating table and more of the story. The current summary credits Allen's 'claim' for the account, but the account in the clipping comes from bartender Harry Lyons."
+}

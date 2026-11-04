@@ -1,0 +1,264 @@
+{
+  "id": "167",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full letter present from headline to signature 'THOS. ALLEN.', including portrait. The clipping also carries an unrelated item below it ('Dan's Departure', about Dan Creedon going to Galveston), which can be ignored."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Transcript is mostly readable but paraphrases and garbles in places: drops 'remind' in the first sentence; 'Shan of Jupiter' (image: 'champion of Jupiter'); 'heavy and not able to move' (image: 'vomiting and not able to move'); 'three years of froin' (image: 'three years of acting'); the reach passage is wrong ('three inches' vs image '10 inches'); the ending is garbled and omits most of the 'Fitz's Favorite Blow' section (Maher and Jem Hall fights, Corbett remarks) and the signature."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch printed a letter from Tom Allen contrasting bare-knuckle prize fighters with modern glove boxers, whom he called bum pugs, and recalling how he was swindled in his 1876 fight with Joe Goss."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Profiles",
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: Sunday Morning, St. Louis Post-Dispatch, January 13, 1895, page 11."
+  },
+  "facts": [
+    {
+      "fact": "Allen wrote a letter to the editor of the Post-Dispatch, headed \"The Only Champion's Rest\" and signed \"Thos. Allen,\" setting out his views on the prize ring versus modern boxing",
+      "date": "1895-01-13",
+      "people": [],
+      "places": [
+        "The Champion's Rest, St. Louis"
+      ],
+      "quote": "I regard it as a duty to enlighten the young and likewise remind the old about the prize ring.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen defined a prize fighter as one who fights with bare knuckles in the open air on the turf in any weather, and a glove fighter as one with feather pillows on his hands in a warm room",
+      "date": "1895",
+      "people": [],
+      "places": [],
+      "quote": "A prize-fighter is a fighter who battles with bare knuckles in the open air and on the turf, regardless of hail, rain, sunshine or snow. A boxing champion, or glove-fighter, is one who has feather pillows on his hands when he enters the ring, which must be in a warm, comfortable room. In my time we had prize fights; now there are boxing matches with top-heavy purses hung up.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After his fight with Joe Goss in 1876 Allen went to Chicago to box for a week at one of the theaters, where Mike McDonald told him Jem Mace was going to answer his challenge; Allen offered to fight Mace for $10 or as much more as Mace could raise, knowing Mace was broke",
+      "date": "1876",
+      "people": [
+        "Mike McDonald",
+        "Jem Mace",
+        "Joe Goss"
+      ],
+      "places": [
+        "Chicago"
+      ],
+      "quote": "I told Mike I would fight Mace for $10 or as much more as Jem could raise. I knew Mace was broke, and I did not want to bluff him by naming a figure he could not get. I wanted to have another go at him.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he and Mace then traveled together all over the country, with Allen billed and acknowledged as champion of the world and Mace as the ex-champion",
+      "date": "1876",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [],
+      "quote": "The upshot of it was that Mace and I traveled together all over the country. I was billed and acknowledged as the champion of the world, and Mace is the ex-champion.",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen claimed he was the only pugilist who ever left America open to fight any man living, and that on reaching England he beat all the best men there and retired at age 39 after nineteen years in the ring",
+      "date": "1877",
+      "people": [],
+      "places": [
+        "England"
+      ],
+      "quote": "I am the only pugilist who ever left this country, open to fight any man living. On my arrival in England I beat all the best men of that country and retired. I was then 39 years of age, and had been in the ring nineteen years.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen claimed to have fought more battles than Jem Mace, Joe Coburn, John C. Heenan and John Morrissey combined",
+      "date": "",
+      "people": [
+        "Jem Mace",
+        "Joe Coburn",
+        "John C. Heenan",
+        "John Morrissey"
+      ],
+      "places": [],
+      "quote": "I have fought more battles than Jem Mace, Joe Coburn, John C. Heenan and John Morrissey all put together.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen called his fight with Joe Goss the dirtiest deal he ever got, saying he was robbed out of the fight",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "The dirtiest deal I ever got, and I have had some pretty hard ones, was in my fight with Joe Goss.",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Back in Cincinnati after the Goss fight, Johnny Dyer, one of Goss's seconds, offered to fight Allen for $1,000; they put up a $250 forfeit to fight in four weeks, but Dyer forfeited (elsewhere Allen says Dyer forfeited the $250 to him at Cincinnati three days after the Goss fight)",
+      "date": "1876",
+      "people": [
+        "Johnny Dyer",
+        "Joe Goss"
+      ],
+      "places": [
+        "Cincinnati"
+      ],
+      "quote": "Johnny Dyer, one of Goss' seconds, said he would fight me for $1,000. He was just what I wanted, as he had done me a great lot of dirt when I was fighting Goss. We put up a $250 forfeit to fight in four weeks, but he forfeited.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Dave Kendal, Eph. Holland (the referee), Black Edwards (a Cincinnati newspaper man) and Red Leary got about $10,000 out of his fight with Goss, which he was swindled out of on a claim of foul",
+      "date": "1876",
+      "people": [
+        "Dave Kendal",
+        "Eph. Holland",
+        "Black Edwards",
+        "Red Leary",
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "Dave Kendal, Eph. Holland, the referee, Black Edwards, a Cincinnati newspaper man, and Red Leary, got about $10,000 out of my fight with Goss, which I was swindled out of on a claim of foul.",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said the Goss fight was the first fight ever seen by J. B. McCormack (\"Macon\"), then on the Cincinnati Enquirer, whom he criticized for comparing old prize fighters with modern boxers",
+      "date": "1876",
+      "people": [
+        "J. B. McCormack"
+      ],
+      "places": [],
+      "quote": "That was the first fight this man \"Macon,\" as J. B. McCormack calls himself, ever saw. He was on the Enquirer then.",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen described Billy Madden, later John L. Sullivan's manager, as \"an old beer-slinger of mine\" (a former bartender for Allen)",
+      "date": "",
+      "people": [
+        "Billy Madden",
+        "John L. Sullivan"
+      ],
+      "places": [],
+      "quote": "Billy Madden, an old beer-slinger of mine, took Jack Sullivan to New York, and matched him against a big dock-walloper named Flood.",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Alf Greenfield was working on a canal near Birmingham, England, when Allen took him in hand and taught him to box, and that Allen got Greenfield to fight Tug Wilson with bare knuckles at Lord Lonsdale's estate before the Prince of Wales",
+      "date": "",
+      "people": [
+        "Alf Greenfield",
+        "Tug Wilson",
+        "Lord Lonsdale",
+        "Prince of Wales"
+      ],
+      "places": [
+        "Birmingham, England",
+        "Lord Lonsdale's estate"
+      ],
+      "quote": "This man Greenfield was working on a canal near Birmingham, England, when I took him in hand. I showed him how to box, but I could not learn him how to fight. I got Greenfield to fight at Lord Lonsdale's estate. Tug Wilson was the other fellow.",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen spoke of his thirty-four years' experience in the prize ring and called the Sullivan–Kilrain fight the biggest farce he ever saw",
+      "date": "1895",
+      "people": [
+        "John L. Sullivan",
+        "Jake Kilrain",
+        "Mike Donovan"
+      ],
+      "places": [],
+      "quote": "Then comes the biggest farce I ever saw in my thirty-four years' experience in the prize ring.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen called Jim Corbett without doubt the greatest boxer of the day but disputed Corbett's claim that the men of 25 years earlier were not as clever",
+      "date": "1895",
+      "people": [
+        "James J. Corbett",
+        "Bob Fitzsimmons"
+      ],
+      "places": [],
+      "quote": "I, for myself, think that Jim Corbett is without doubt the greatest boxer of the day, but the way he acts don't show that he is very willing to take the gaff, or he would have taken on Fitzsimmons and boxed in three months for $35,000.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said boxing and prize fighting were two different trades, a prize fighter having to learn to strike straight",
+      "date": "1895",
+      "people": [],
+      "places": [],
+      "quote": "Boxing of to-day and prize-fighting are two different trades. A man to be a prize-fighter must learn to strike straight. He cannot stop a blow with his arms, like a man can with boxing gloves on.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had seen Bob Fitzsimmons fight twice, against Peter Maher and Jem Hall, and that Fitzsimmons won both with his right hand",
+      "date": "",
+      "people": [
+        "Bob Fitzsimmons",
+        "Peter Maher",
+        "Jem Hall"
+      ],
+      "places": [],
+      "quote": "I have seen Fitzsimmons fight twice and he won both fights with his favorite right hand.",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen called Fitzsimmons one of the luckiest men in the world and blamed the public for going to the boxers' shows",
+      "date": "1895",
+      "people": [
+        "Bob Fitzsimmons"
+      ],
+      "places": [],
+      "quote": "The public is to blame for going to their shows. They would box oftener if their houses were smaller.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's ages and years here (retired at 39 after nineteen years in the ring; 34 years' experience by 1895) fit an 1839 birth and a ring start around 1858–1861. Allen's dates for the Johnny Dyer forfeit are inconsistent within the letter (four weeks vs three days). The Fitzsimmons fights he saw (Maher, Hall) were both in New Orleans (1892, 1893), which may relate to the index note about his 1892 New Orleans trip — not stated in the article."
+}

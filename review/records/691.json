@@ -1,0 +1,53 @@
+{
+  "id": "691",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The Allen item 'Three in a Row' is complete. The crop also takes in the unrelated item below it, 'Went Up for Fifteen Years' (John Emory, highway robbery)."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors ('Jucik Looney', 'opeved', 'ottriends'); the transcript also includes the unrelated Emory item."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen, the ex-champion pugilist, had opened a saloon on Market Street between Sixth and Seventh, next door to Tom Kelly's and near Jack Looney's; the three were the best of friends."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads THE REPUBLICAN: ST. LOUIS, SUNDAY MORNING, MARCH 4, 1883, page 16. The paper was then the (Missouri) Republican, not yet the St. Louis Republic."
+  },
+  "facts": [
+    {
+      "fact": "Allen opened a saloon on Market Street between Sixth and Seventh, next door to Tom Kelly's saloon, which was two doors from Jack Looney's; the three were described as the best of friends",
+      "date": "1883-03",
+      "people": [
+        "Tom Kelly",
+        "Jack Looney"
+      ],
+      "places": [
+        "Market Street between Sixth and Seventh, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "This dates the opening of Allen's Market Street saloon to about early March 1883 (compare the unnumbered index item on his December 1882 return to St. Louis to set up a saloon with John C. Gropper)."
+}

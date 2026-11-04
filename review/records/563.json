@@ -1,0 +1,52 @@
+{
+  "id": "563",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The clipping starts with an unrelated item, 'The International Yacht Race'. The relevant item is 'An Hour With Joe Goss' below it, which is complete: it begins at the foot of column 3 and continues at the top of column 4, and the two pieces are joined in the crop. Also on the page, in column 4 just below, is a separate Allen-related item: 'Jem Mace—The Object of His Visit to America—His Opinion of Tom Allen and of Other Pugilists' (from the Buffalo News). It is not clipped here and may deserve its own entry."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Readable gist with scattered errors: '219pounds' should be 213, 'abi nae somes e@' should be 'a big horse-sponge', and Goss's quote is garbled ('It'salean dog that's best forahard road, and if anybod Te thae Tom Allen is nota')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reprinted a Cincinnati Enquirer visit to Joe Goss in training at Forest Home, near Cincinnati, for his coming fight with Tom Allen; Goss had come down from about 213 to 174 pounds."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Friday Morning, July 28, 1876', page 8."
+  },
+  "facts": [
+    {
+      "fact": "In July 1876, Joe Goss was in training at Forest Home, a suburban resort near Cincinnati, for his coming fight with Allen, with Jim Cusick looking after him",
+      "date": "1876-07-26",
+      "people": [
+        "Joe Goss",
+        "Jim Cusick"
+      ],
+      "places": [
+        "Forest Home, near Cincinnati"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary says 'championship contest', which the clipping doesn't say, so the suggestion is a small correction. The fight itself, Allen's loss to Goss in 1876, is fact 031; this clipping only covers the training. The Mace interview about Allen on the same page is worth clipping separately."
+}

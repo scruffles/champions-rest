@@ -1,0 +1,80 @@
+{
+  "id": "400",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The clipping is only one section (the preliminaries and 'The Ring—Appearance of the Men') of a long report headed 'THE MACE-ALLEN FIGHT' that starts at the bottom of column 2 on the page and continues into column 3. The headline, the opening (travel, crowd, ground) and the round-by-round account of the fight are not in the crop."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist and most names are there but many garbled words ('Ss time of his stepping', 'superfiuous a:d actrimeutal', 'neem' for spangles, missing '167 pounds' for Mace's weight)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Preliminaries of the Mace–Allen Fight"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat described the preliminaries of Tom Allen's May 10, 1870 championship fight with Jem Mace, with Joe Coburn seconding Allen, who was said to weigh over 190 pounds to Mace's 167."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "Masthead reads 'Daily Democrat. Friday Morning, May 13, 1870' — the Missouri Democrat, which became the Globe-Democrat only in 1875. Date is correct."
+  },
+  "facts": [
+    {
+      "fact": "Rufus Hunt of New Orleans was chosen referee for the Allen–Mace fight",
+      "date": "1870-05-10",
+      "people": [
+        "Rufus Hunt",
+        "John C. Heenan",
+        "Billy Carroll",
+        "Jem Mace"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Joe Coburn and Sherman Thurston of St. Louis seconded Allen against Mace; Mace's seconds were Jerry Donovan of Chicago and Jim Cusick of New York",
+      "date": "1870-05-10",
+      "people": [
+        "Joe Coburn",
+        "Sherman Thurston",
+        "Jerry Donovan",
+        "Jim Cusick"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen looked healthy and cheerful but had a large, flabby neck and excess fat; his best fighting weight was 175 pounds but he was said not to have got below 190. Mace weighed about 167 pounds",
+      "date": "1870-05-10",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Crop should be redone to include the full 'THE MACE-ALLEN FIGHT' report (headline at the bottom of column 2, continuing into column 3); the fight itself and its result are not in the current clipping. Current summary describes content that is not in the clipping. Publication is the (Daily Missouri) Democrat, not yet the Globe-Democrat in 1870."
+}

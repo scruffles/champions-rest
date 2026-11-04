@@ -1,0 +1,144 @@
+{
+  "id": "1000",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The two-column headline is cut off on the right: the clipping shows only 'Champion Tom All… / After Long…'; the full headline on the page is 'Champion Tom Allen and \"Apple Mary\" Choose Mates After Long Years of Waiting for the Right Spouse.' The text is also cut off at the bottom ('the fight an-'): the Allen story continues in the next column below the 'Apple Mary' drawing (police stopping the McCool fight, a chartered steamer to Gabaret Island, and his illness and removal to the Baptist Hospital). The rest of that column is the unrelated 'Apple Mary's Wedding' story."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Opening paragraphs readable with scattered errors ('MHart-grove', 'test eon for the championship' for 'five rounds'); the headline is garbled and the end is noise. The continuation in the next column is not transcribed."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen would marry Mrs. Tillie Hartgrove, 21, the English-born nurse who had attended him through months of illness, on April 23, his 65th birthday."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Personal life",
+    "Fights",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, March 28, 1903, page 3. The story shares its headline with an unrelated wedding ('Apple Mary', Jennie Cella)."
+  },
+  "facts": [
+    {
+      "fact": "Allen announced on March 27, 1903 that he would marry Mrs. Tillie Hartgrove, 21, a trained nurse who had been attending him in an illness of several months, on April 23, his 65th birthday",
+      "date": "1903-03-27",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "041"
+    },
+    {
+      "fact": "Allen conducted the \"Champions' Rest,\" a combined saloon and concert hall, where the news of his engagement was celebrated",
+      "date": "1903-03-27",
+      "people": [],
+      "places": [
+        "The Champion's Rest, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mrs. Hartgrove, like Allen a native of England, was born in Manchester and came to St. Louis at the age of 9",
+      "date": "",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [
+        "Manchester, England",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper said Allen had been a widower for thirty years and that Mrs. Hartgrove had been a widow for about two years",
+      "date": "1903",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "family",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Charlie Davis in five rounds on April 17, 1878, for the championship of England (the paper wrongly calls it his first battle)",
+      "date": "1878-04-17",
+      "people": [
+        "Charlie Davis"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "For Allen's fight with Mike McCool for the American championship, remembered by old-time St. Louis sports, a purse of $2,000 was raised",
+      "date": "",
+      "people": [
+        "Mike McCool"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "From the continuation on the page (not in the clipping, read at low resolution): the McCool fight was announced to take place in the city but was prevented by police, so the party chartered a steamer and went a few miles up the Mississippi to Gabaret Island, where the bout was held out of doors",
+      "date": "",
+      "people": [
+        "Mike McCool"
+      ],
+      "places": [
+        "Gabaret Island, Mississippi River"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "From the continuation on the page (low resolution): Allen had been confined at home since the previous Christmas with a chronic malady and was to be removed to the Baptist Hospital, Garrison and Franklin avenues",
+      "date": "1902-12",
+      "people": [],
+      "places": [
+        "Baptist Hospital, Garrison and Franklin avenues, St. Louis"
+      ],
+      "quote": "",
+      "kind": "health",
+      "confidence": "low",
+      "existing_fact": "043"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Recrop needed: include the full two-column headline and the continuation of the Allen text in the second column (below the 'Apple Mary' drawing, above 'Apple Mary's Wedding'); the last two facts were read from the scaled-down page and should be checked. Contradictions with other sources: 'widower for thirty years' vs 203's 'still had a wife living in Birmingham' (index 040); Hartgrove 'a widow' vs reports she was still married and seeking a divorce; '65th birthday' implies an 1838 birth, while the index has 1839 (64th)."
+}

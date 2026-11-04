@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04
+
+### Added
+- Article review pipeline (`npm run review`): a restartable checklist of all 1,010 articles, a review rubric, per-article review records, a generated issues list and a findings file
+- Pilot review of 20 key articles (crop, OCR, title, summary, importance, tags, paper name and extracted facts)
+
 ## 2026-11-03
 
 ### Added

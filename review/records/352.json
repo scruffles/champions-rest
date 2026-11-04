@@ -1,0 +1,403 @@
+{
+  "id": "352",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The clipping is only the first column of the article (headlines, both fighters' biographies, start of 'The Trip Down'). On the page the story runs on through the whole next column and the top of the column after that, so the round-by-round account of the fight and the result are not in the clipping."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Most of the text is readable, but names and numbers are often garbled: 'Bill Goes' for Bill Ryall/Joe Goss, 'Spenet-e-aslon' for 'opened a saloon', '1962' for 1862, '3864' for 1864, '1;1%' for 1:17, and the 'third match' sentence (Elliott, $150 forfeit) is missing. The transcript stops where the crop stops."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen-Gallagher Fight at Foster Island Declared a Draw"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat reported Tom Allen's eleven-round fight with Charley Gallagher at Foster Island, below St. Louis; headlines called Allen the winner, though it was declared a draw. It also gave Allen's ring record."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "The masthead reads 'Daily Democrat, Wednesday Morning, Aug. 18, 1869', so the date is right. The paper was the Missouri Democrat, which did not become the Globe-Democrat until 1875."
+  },
+  "facts": [
+    {
+      "fact": "Allen fought Charley Gallagher at Foster Island, about 30 miles below St. Louis: eleven rounds in twenty-six minutes. The headlines called Allen the winner, but the fight was decided a draw",
+      "date": "1869-08-17",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "Foster Island, about 30 miles below St. Louis",
+        "Foster Island"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen came over from England with Bill Ryall about two years before (c. 1867)",
+      "date": "1867",
+      "people": [
+        "Bill Ryall"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "Before coming to America, both Allen and Ryall had fought Joe Goss, champion of England, to a draw",
+      "date": "",
+      "people": [
+        "Bill Ryall",
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Ryall gave sparring exhibitions together in all the large cities of the country, then stayed a long time in St. Louis, where they made many friends",
+      "date": "",
+      "people": [
+        "Bill Ryall"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen went to Cleveland, where he opened a saloon that was liberally patronized",
+      "date": "",
+      "people": [],
+      "places": [
+        "Cleveland, Ohio"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "007"
+    },
+    {
+      "fact": "While Mike McCoole was training for his fight with Coburn, he and Allen did not get along, and McCoole challenged Allen; McCoole's friends and backers prevented the match, and Allen went back to Cleveland. The paper said reports of a set-to in which McCoole was roughly handled were wrong",
+      "date": "",
+      "people": [
+        "Mike McCoole",
+        "Joe Coburn"
+      ],
+      "places": [
+        "St. Louis",
+        "Cleveland"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Bill Davis, the Californian, came to St. Louis wanting to fight Ryall; Ryall had grown fat and passed the match to Allen, who was telegraphed in Cleveland",
+      "date": "",
+      "people": [
+        "Bill Davis",
+        "Bill Ryall"
+      ],
+      "places": [
+        "Cleveland",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Bill Davis in forty rounds lasting forty minutes at Chouteau Island, midway between St. Louis and Alton; Ryall was his second, assisted by Tom Kelly",
+      "date": "",
+      "people": [
+        "Bill Davis",
+        "Bill Ryall",
+        "Tom Kelly"
+      ],
+      "places": [
+        "Chouteau Island, between St. Louis and Alton"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At the Davis fight, Gallagher said from ringside that 'he could lick any Englishman in Allen's corner'; Allen wanted to fight him in the same ring right afterwards, but his friends stopped it",
+      "date": "",
+      "people": [
+        "Charley Gallagher",
+        "Tom Kelly"
+      ],
+      "places": [
+        "Chouteau Island"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On the boat back from the Davis fight, a match was made between Allen and Gallagher to fight within three months for $1,000 a side",
+      "date": "",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Gallagher beat Allen at Carroll's Island near St. Louis: in the second round a light blow to the left side of the neck, behind the ear, paralyzed Allen and knocked him out of time. The paper called it a chance blow; Allen was in fine condition and confident",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "Carroll's Island, near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After losing to Gallagher, Allen challenged him again, but instead articles were signed for Allen to fight Mike McCoole on June 15 for $1,000 a side",
+      "date": "1869-06-15",
+      "people": [
+        "Charley Gallagher",
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper said Allen turned twenty-nine in April 1869, which would make his birth year 1840 rather than 1839",
+      "date": "1840-04",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "medium",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen had fought thirteen hard battles in England, beginning in 1861",
+      "date": "1861",
+      "people": [],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "005"
+    },
+    {
+      "fact": "Allen beat 'Wagner', alias Morris Conner, in twelve rounds lasting twenty minutes, for £20 a side",
+      "date": "1861",
+      "people": [
+        "Morris Conner ('Wagner')"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat 'White' in eight rounds and fifteen minutes, for £5 a side",
+      "date": "1861",
+      "people": [
+        "'White'"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Gould in thirty-one rounds and fifty-five minutes, for £15 a side",
+      "date": "1862",
+      "people": [
+        "Gould"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost to 'Posh Price' after forty rounds in fifty-five minutes, for £20 a side",
+      "date": "1862",
+      "people": [
+        "'Posh' Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat 'Bingy Rose' in ten rounds and fifteen minutes, for £50 a side",
+      "date": "1864",
+      "people": [
+        "'Bingy' Rose"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was beaten by 'Bob Smith, the black' after three hours and twenty minutes, for £5 a side",
+      "date": "1864",
+      "people": [
+        "Bob Smith"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Jack Parkinson in fifteen rounds and twenty-two minutes, for £50 a side",
+      "date": "1865",
+      "people": [
+        "Jack Parkinson"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat George Iles, 'the Giant', in eighteen rounds and fifty-five minutes, for £100 a side",
+      "date": "1865",
+      "people": [
+        "George Iles"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In a rematch, Allen beat Posh Price in fifty-eight rounds lasting two hours and five minutes, for £50 a side",
+      "date": "1866",
+      "people": [
+        "'Posh' Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Joe Goss for £400 a side and the championship; after one hour and fifty-seven minutes it was declared a draw",
+      "date": "1867-03",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Blacksmith Dan were seconds for Jim Elliott against Gallagher at Peach Island, seven miles from Detroit. The crowd broke up the fight after 21 rounds, Gallagher was cut with a knife and had to run for his life, and Elliott had three ribs broken",
+      "date": "",
+      "people": [
+        "Jim Elliott",
+        "Blacksmith Dan",
+        "Charley Gallagher"
+      ],
+      "places": [
+        "Peach Island, near Detroit"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "It was said that some time before, Gallagher gave Allen a severe pounding in a rough-and-tumble fight in Cleveland",
+      "date": "",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "Cleveland, Ohio"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "The clipping misses the account of the fight itself, which continues on the page in the next column and at the top of the one after, and the page image is too small to read it. A new crop of those columns would add the round-by-round account and the referee's decision. The article gives Allen's age as 29 in April 1869 (born 1840), against 1839 in fact 001. The fight date of Aug 17 comes from the paper date and the words 'took place, as announced'; the clipping itself doesn't state it."
+}

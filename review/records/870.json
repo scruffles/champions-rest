@@ -1,0 +1,61 @@
+{
+  "id": "870",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "A 'Sporting Notes' column of five short items; only the second item (a one-line notice for Allen's saloon) is about Allen. The others concern Mitchell and Corbett, Fred Watkins, Pat Downey and Jack McAuliffe."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "The Allen line is fine apart from 'fom ALLEN'; the Downey paragraph is garbled and figures are dropped ('$230' for $250, ',000' for $15,000)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's sporting notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only the best singers engaged."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead reads St. Louis Daily Globe-Democrat, Saturday Morning, November 5, 1892, page 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen's saloon was at 619 Market Street, where he advertised himself as retired champion pugilist of the world",
+      "date": "1892-11",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen's saloon offered a free concert every evening, advertising that only the best singers were engaged",
+      "date": "1892-11",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "019"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Allen line reads like a paid reading notice placed among the sporting news, not a news item."
+}

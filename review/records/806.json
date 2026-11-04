@@ -1,0 +1,56 @@
+{
+  "id": "806",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "'The Ring' column with three items: Lem McGregor's letter to the Police Gazette, the Dacey-Campbell bout, and 'Going to the Fight'. Only the last paragraph mentions Allen; it is complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors ('Tem McGregor', 'pugeome firmament', 'Lome od', 'Overin St. Lonis')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": true,
+    "suggested": ""
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead reads THE POST-DISPATCH, ST. LOUIS, THURSDAY EVENING, JANUARY 8, 1891, pages 9 and 10."
+  },
+  "facts": [
+    {
+      "fact": "Allen was among the St. Louis sporting men, with Tom Kelly, the Daly brothers, the McManus brothers and Bob Farrell, preparing to travel to New Orleans for the Dempsey-Fitzsimmons fight the following Wednesday night",
+      "date": "1891-01-14",
+      "people": [
+        "Tom Kelly",
+        "Daly brothers",
+        "McManus brothers",
+        "Bob Farrell",
+        "Jack Dempsey",
+        "Bob Fitzsimmons"
+      ],
+      "places": [
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article only says the fight takes place 'next Wednesday night'; from a Thursday, January 8, 1891 paper that is January 14, 1891."
+}

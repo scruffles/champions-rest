@@ -1,0 +1,96 @@
+{
+  "id": "308",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The clipping holds only the last sections of a long article: 'The Return', 'The Feeling', 'A Challenge' and 'Another Challenge'. On the page, the headline ('THE PRIZE RING. FIGHT BETWEEN CHARLEY GALLAGHER AND TOM ALLEN. Ireland Against England. Two Short Rounds. Allen Knocked Out of Time by A Blow Behind the Ear. Carroll's Island the Battle Ground. Two Boat Loads of Roughs.') and the account of the trip and the fight fill most of columns 2 and 3 above this piece."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "The gist is there, but names are garbled: 'Charles A. Fong, Sad' for 'Charles H. Gallagher', 'atlaeac Campbel!'s' for 'at Isaac Campbell's', 'Jreen' for Green, '15#' for 1869, '31000 to $301 0' for '$1000 to $3000', and 'Ailes' and 'Looner' for Allen and Looney."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat reported that Tom Allen blamed a chance blow for his loss to Charley Gallagher at Carroll's Island, and printed his challenge to Gallagher for a rematch within a week at $1,000 a side."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "The masthead reads 'Daily Democrat, Wednesday Morning, Feb. 24, 1869', so the date is right. The paper was the Missouri Democrat, which became the Globe-Democrat only in 1875."
+  },
+  "facts": [
+    {
+      "fact": "Allen lost to Charley Gallagher at Carroll's Island, knocked out of time by a blow behind the ear in two short rounds (from the page headline); Allen's party claimed the defeat was purely accidental",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher",
+        "Jack Looney"
+      ],
+      "places": [
+        "Carroll's Island, near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was chagrined and mortified at the chance blow that lost him the fight, and said he had all his money up on it",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [],
+      "quote": "It occurs but once in a lifetime, and 's just my luck now when I have all my money up on the fight.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen challenged Charles H. Gallagher to a fair stand-up fight under the new rules of the London Prize Ring, one week from the date, for $1,000 a side, leaving $250 at Isaac Campbell's saloon, corner of Fifth and Green, as a first deposit",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher",
+        "Isaac Campbell"
+      ],
+      "places": [
+        "Isaac Campbell's saloon, Fifth and Green, St. Louis"
+      ],
+      "quote": "I hereby challenge Mr. Charles H. Gallagher to fight me a fair stand-up fight, according to the new rules of the London Prize Ring, in one week from to-day, for $1000 aside. $250 are left by me, this date, at Isaac Campbell's saloon, corner of Fifth and Green, as a first deposit in the match, and I hope, Mr. Gallagher, or his friends, will have game enough to cover it.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jack Looney, for Allen, tried at Hennessey's saloon to make a new match with Gallagher for $1,000 to $3,000 a side, at a day's or a month's notice, but Gallagher refused",
+      "date": "1869-02-23",
+      "people": [
+        "Jack Looney",
+        "Charley Gallagher"
+      ],
+      "places": [
+        "Hennessey's saloon, St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Worth a recrop or a second clipping: this page has the full report of the first Allen-Gallagher fight (headline, the trip, the round-by-round account), but only the ending was clipped. In Allen's quote, the gap before ''s' is in the print (probably 'it's')."
+}

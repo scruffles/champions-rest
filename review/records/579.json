@@ -1,0 +1,127 @@
+{
+  "id": "579",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole article from 'THE BIG FIGHT' headline through the 'Tom Allen's Disgust' dispatch; ends at the next heading 'THE COURTS'."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right, with scattered garbled words (e.g. 'Keb Holland', 'Theovaud Bauer', 'Ben K. sleet', 'Round 18' printed twice where the image reads 19)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Goss Awarded Fight Over Allen on a Foul in Kentucky"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported the Goss-Allen championship fight in Boone County, Kentucky, where referee Eph Holland gave the fight to Goss on a foul in the 21st round, though Allen had the better of the fighting."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead reads St. Louis Daily Globe-Democrat, Saturday Morning, September 9, 1876. The article itself does not give the fight date; it took place on the Thursday before (September 7, 1876)."
+  },
+  "facts": [
+    {
+      "fact": "Allen fought Joe Goss for the championship of America near Walton, Boone County, Kentucky; in the 21st round Allen struck Goss as he went down and referee Eph Holland gave the fight to Goss on a foul. The whole fight lasted 1 hour 50 minutes",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss",
+        "Eph Holland"
+      ],
+      "places": [
+        "near Walton, Boone County, Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen weighed 174 pounds to Goss' 165, was the taller man with the longer reach, and was four years younger than Goss; both were described as bald-headed with gray hair",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Kentucky militia under Acting Adjutant General W. G. Lobben stopped the fight in the seventh round (35 minutes); the crowd moved by train about eight miles to the farm of P. Lane, about a mile from Walton in Boone County, where the fight resumed at 11 a.m.",
+      "date": "1876-09-07",
+      "people": [
+        "W. G. Lobben",
+        "P. Lane"
+      ],
+      "places": [
+        "farm of P. Lane, near Walton, Boone County, Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the decision Red Leary offered to let the fight go on for a fresh $1,000 a side, but Allen declined, saying he could not have fair play",
+      "date": "1876-09-07",
+      "people": [
+        "Red Leary"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen laughed and answered Goss in the ninth round",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "That will be all right, Joe.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "When O'Leary said Allen didn't like the gaff, Allen replied",
+      "date": "1876-09-07",
+      "people": [
+        "O'Leary"
+      ],
+      "places": [],
+      "quote": "I'd like to know who does, if he can avoid it.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen published a card in the Cincinnati evening papers saying it was impossible to get fair play in this country and announcing his withdrawal from the ring",
+      "date": "1876-09-08",
+      "people": [],
+      "places": [
+        "Cincinnati"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "031"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title says the fight ended in a draw, which is wrong: Goss was awarded it on a foul. The current summary's 'alleged foul' is softer than the article, which calls the last blow clearly a foul while saying Allen had the best of the fight."
+}

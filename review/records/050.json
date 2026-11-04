@@ -1,0 +1,220 @@
+{
+  "id": "050",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "This is a real single-column clipping, not the full page (crop_is_page is false). It is the 'ALLEN--MACE.' column, the fourth from the left on the front page, and holds the whole article from headline to end. Slivers of the neighbouring columns show at the edges."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The transcript is clean and appears to have been corrected by hand. It is missing the deck headlines and the article's last clause, 'and that all Allen wanted was his \"bit\" out of the excursion money.'"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen Challenges Coburn and Mace, Attacks the Clipper"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Evening Dispatch printed Tom Allen's letter claiming the American championship and challenging Joe Coburn for $2,500 a side, and his later offer to fight Jem Mace, who wrote that he would accept if Allen posted a deposit."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges",
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Evening Dispatch",
+    "notes": "The masthead reads 'THE DISPATCH, WEDNESDAY EVENING, MARCH 11, 1874', so the date is right. Before the 1878 merger the paper is filed as the St. Louis Evening Dispatch, not the Post-Dispatch. The current summary's 'circa 1870' is wrong."
+  },
+  "facts": [
+    {
+      "fact": "After his fight with Ben Hogan ('the Pittsburg fraud'), Allen sent Billy Harding of the New York News a letter challenging Joe Coburn, because he could not get fair play in the New York sporting press",
+      "date": "1874",
+      "people": [
+        "Ben Hogan",
+        "Billy Harding",
+        "Joe Coburn"
+      ],
+      "places": [
+        "New York"
+      ],
+      "quote": "Not being able to receive fair play through the New York sporting press, I solicit space in the sporting column of your valuable paper to present this card to the public.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen challenged Joe Coburn to fight for $2,500 a side or more, in Canada within fifty miles of Detroit, with no excursion, twenty men per side, three months from signing articles; he offered to meet Coburn's friends at Pittsburgh to arrange it",
+      "date": "1874",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [
+        "Canada, within fifty miles of Detroit",
+        "Pittsburgh"
+      ],
+      "quote": "I wish to inform Mr. Joe Coburn that I will fight him for $2,500 a side, or as much more as he can raise, the fight to take place in Canada, within fifty miles of Detroit, Michigan; to have no excursion but to fight for the money up, the number of men to accompany each party to be limited to twenty.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen claimed to be champion of America in 1874",
+      "date": "1874",
+      "people": [],
+      "places": [],
+      "quote": "I claim to be champion of America, and I am ready to back it up.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said the Clipper recognized him as champion of America at his 1869 fight with McCoole, but later called him 'The Englishman' to cast a slur on him",
+      "date": "1869",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "To show the prejudice the Clipper has against me, I will here state that in my fight with McCoole in 1869, the Clipper recognized me as champion of America. They knew what my name was then. They called me Tom Allen, but in my late fights they have tried to cast a slur on me by calling me \"The Englishman.\"",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Clipper claimed Allen struck Ben Hogan below the belt in their last fight; Allen said he hit him in the pit of the stomach, and that a foul in the second round could not be claimed in the third",
+      "date": "1873",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "Omaha"
+      ],
+      "quote": "In my last fight with Ben Hogan they claimed that I struck Hogan below the belt. If hitting a man in the pit of the stomach is \"below the belt,\" why then they go against all rules of Fistiana.",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said a gang from Council Bluffs and Cheyenne tried to force him, at gunpoint and knifepoint, to lose the fight at Omaha",
+      "date": "1873",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "Omaha",
+        "Council Bluffs",
+        "Cheyenne"
+      ],
+      "quote": "A murderous gang of cut-throats from Council Bluffs and Cheyenne tried to force me to lose the fight at Omaha with revolvers and bowie knives at my head.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "If Coburn would not accept, Allen offered to fight Jem Mace or any man in the world for $1,000 to $5,000 a side",
+      "date": "1874",
+      "people": [
+        "Jem Mace",
+        "Joe Coburn"
+      ],
+      "places": [],
+      "quote": "In conclusion, I would say, if Joe Coburn does not accept my challenge, I will fight Jem Mace, or any man in the world, for from $1,000 to $5,000 a side.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen signed the letter 'Tom Allen, Champion of America, 417 Washington avenue, St. Louis'",
+      "date": "1874",
+      "people": [],
+      "places": [
+        "417 Washington Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    },
+    {
+      "fact": "Coburn was ill and did not reply, and was said to have promised his wife he would not fight again, so a match with him was abandoned",
+      "date": "1874",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mace replied from London, through a New York sporting man, that he would return to America and make the match if Allen meant business; about a week before the article he wrote privately that he would accept if Allen posted a deposit at the Clipper office or Wilkes' Spirit",
+      "date": "1874",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "London",
+        "New York",
+        "England"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen wrote to a friend in New York offering Mace a stand-up fight under the new London prize ring rules, two to four months from signing, for $2,000 to $5,000 a side, in Kansas, New Orleans or Canada, with articles to be signed at Pittsburgh or Cincinnati on a $500 deposit",
+      "date": "1874",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "Kansas",
+        "New Orleans",
+        "Canada",
+        "Pittsburgh",
+        "Cincinnati"
+      ],
+      "quote": "I am surprised that Jem Mace thinks I do not mean business. He knows that I never backed out of fighting men.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "As alternatives to Mace, Allen offered to fight Coburn, wagering $2,500 to Coburn's $1,500, or Ben Hogan for $1,000 to $5,000 with as much training time as Hogan wanted",
+      "date": "1874",
+      "people": [
+        "Joe Coburn",
+        "Ben Hogan"
+      ],
+      "places": [],
+      "quote": "I mean business, and hope Mace, Coburn and Hogan will not refuse to meet me.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The New York News said Mace beat Allen easily in ten rounds near New Orleans without getting a black eye",
+      "date": "1870",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "near New Orleans"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Several facts match index entries that have no number (id 000): 'Still claimed Championship of America in 1874', 'Lost and regained the title - lost it to Mace May 1870', and 'Mace claims Allen lost the title to him in 1870, but Allen was still claiming the Championship of America until at least 1874'. existing_fact is left blank for those because 000 isn't a unique id."
+}

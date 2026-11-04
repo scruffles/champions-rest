@@ -1,0 +1,103 @@
+{
+  "id": "259",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full item from 'TOM ALLEN IS DEAD.' headline to the end."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image; the transcript omits the subhead and the 'St. Louis:' dateline."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic reported that Tom Allen, retired champion pugilist of the world, had died at the Baptist Hospital on Sunday morning, and recalled his birth at Birmingham in 1839 and his last fight, with Jim Stewart in 1879."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Personal life",
+    "Fights",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Republic",
+    "notes": "The page has no masthead. The item carries a 'St. Louis:' dateline among wire items from Illinois, Kansas, Ohio and Missouri towns, which suggests an out-of-town paper or wire roundup rather than the St. Louis Republican itself. The date can't be checked, but April 10, 1903 fits a death on Sunday, April 5. Filed as the St. Louis Republic, the name the Republican had carried since 1888; unconfirmed, since there is no masthead and the page may be from another paper."
+  },
+  "facts": [
+    {
+      "fact": "Allen died at the Baptist Hospital, Garrison and Franklin avenues, at 7:35 o'clock Sunday morning after being very low for several days",
+      "date": "1903-04-05",
+      "people": [],
+      "places": [
+        "Baptist Hospital, Garrison and Franklin avenues, St. Louis"
+      ],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": "042"
+    },
+    {
+      "fact": "Allen was born at Birmingham, England, on April 23, 1839",
+      "date": "1839-04-23",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "high",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen fought 14 prize ring matches in England and ten in America",
+      "date": "",
+      "people": [],
+      "places": [
+        "England",
+        "America"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "According to his own official record, Allen's last fight was with Jim Stewart in England on March 10, 1879, for 50 pounds a side; Allen won in 16 rounds lasting 55 minutes",
+      "date": "1879-03-10",
+      "people": [
+        "Jim Stewart"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen opened a saloon near the present home of the Boatmen's Bank, at Fourth Street and Washington Avenue, in 1863",
+      "date": "1863",
+      "people": [],
+      "places": [
+        "Fourth Street and Washington Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "The 1863 saloon date is clearly printed, but Allen did not come to America until 1867 (index 006), so it is probably an error for 1869 or 1870; it is likely the saloon at 417 Washington Avenue (index 009/017). Owner should also check which paper this page is from. The current summary mentions McCoole and Mace, who are not in this article."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "055",
+  "reviewed": "2026-11-03",
+  "crop": { "status": "no_crop", "notes": "There are no crop pieces or page image in the work folder, and the files named in localCopyEdited/localCopyFull (post-dispatch/St__Louis_Post_Dispatch_Sat__Nov_14__1874_.jpg and '... (1).jpg') were not found anywhere in the project." },
+  "ocr": { "status": "missing", "notes": "No transcript." },
+  "about_tom": "unsure",
+  "title": { "ok": false, "suggested": "" },
+  "summary": { "ok": false, "suggested": "" },
+  "focus": { "current": "", "suggested": "" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": false, "publication_ok": false, "notes": "Can't be checked without an image. 1874-11-14 was a Saturday, which matches the filename. The St. Louis Post-Dispatch did not exist until December 1878 (when the Post and the Dispatch merged), so the paper is more likely the St. Louis Dispatch." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Nothing to review: there are no images and no text. Going by the current title, this is an advertisement for Allen's free-and-easy, which in Nov. 1874 would have been at 417 Washington Ave (index 017). The owner needs to find the source image and run prep again. The title 'ad for free and easy' is lowercase and vague; once the image is available, something like 'Advertisement for Tom Allen's Free and Easy' would suit. No summary exists yet."
+}

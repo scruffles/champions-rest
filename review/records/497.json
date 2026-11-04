@@ -1,0 +1,54 @@
+{
+  "id": "497",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full short item, 'Requisition for the Pugilists.'"
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable but many errors ('Beguisition', 'Town Allen', 'Miko McCoole', 'prizo-iicuc', 'Liiimois'), plus a trailing garbage line."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Illinois Governor Seeks Arrest of Allen and McCoole"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Gov. Beveridge of Illinois had issued requisitions for Tom Allen, Mike McCoole and others involved in the September prize fight, as part of an effort to stop prize fighting in Illinois."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal",
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead: 'The Missouri Republican, St. Louis, Sunday, November 2, 1873', page 8. This is the same paper later called the St. Louis Republic. The item is in column 4, near the bottom."
+  },
+  "facts": [
+    {
+      "fact": "Gov. Beveridge of Illinois issued requisitions for Allen, Mike McCoole and others involved in the September 1873 prize fight, aiming to stop prize fighting in Illinois",
+      "date": "1873-11",
+      "people": [
+        "Gov. John L. Beveridge",
+        "Mike McCoole"
+      ],
+      "places": [
+        "Illinois"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper calls its source 'a special dispatch ... from a reliable source', so the fact is secondhand and set to medium confidence. The September prize fight is the Allen-McCoole fight of Sept. 23, 1873 (see 148)."
+}

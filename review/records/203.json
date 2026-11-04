@@ -1,0 +1,694 @@
+{
+  "id": "203",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole obituary present: headline, saloon interior/exterior drawings, portrait, main text, 'Tom Kelly Talks About the Champion's Career' sidebar and the boxed 'Tom Allen's Most Important Fights' table. Crop pieces reassemble the column order correctly."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Hand transcription, readable but with several errors against the image: birth given as April 22, 1835 (image: April 23, 1839); first fight omits 'defeated a man by the name of White'; 'came to America as the champion of England in 1868' (image: 1869); safety deposit box '$39' (image: $500); Stewart fight 'March 19' (image: March 10); Kelly quote 'palmy days' (image: 'fighting days'). The Ben Hogan paragraph, the Jim Stewart paragraph, the 'Picked Sullivan to Win' section and the whole fights table are missing from the transcript."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic reported that Tom Allen, retired heavyweight champion and keeper of the Champion's Rest at 615 Market Street, died at the Baptist Hospital on April 5, 1903, amid disputes over his saloon and estate."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Profiles",
+    "Fights",
+    "Saloon",
+    "Personal life",
+    "Legal",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: THE REPUBLIC: MONDAY, APRIL 6, 1903, page 5."
+  },
+  "facts": [
+    {
+      "fact": "Allen died early in the morning of April 5, 1903, at the Baptist Hospital",
+      "date": "1903-04-05",
+      "people": [],
+      "places": [
+        "Baptist Hospital, St. Louis"
+      ],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": "042"
+    },
+    {
+      "fact": "Allen was proprietor of \"The Champion's Rest\" at No. 615 Market Street; he was known as the \"champion\" and any man who called him the \"ex-champion\" had him to settle with",
+      "date": "1903",
+      "people": [],
+      "places": [
+        "The Champion's Rest, 615 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "The paper called Allen the only man in the bare-knuckle era to lose the championship and regain it: beaten by Jem Mace in ten rounds on May 10, 1870, and regaining the belt from Jem Gallagher in fourteen rounds on November 5, 1870",
+      "date": "1870",
+      "people": [
+        "Jem Mace",
+        "Jem Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "During his final illness Allen was nursed by a woman who claimed he was to marry her after he recovered; she was not yet divorced from her husband",
+      "date": "1903",
+      "people": [
+        "Tillie Hartgraven"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "041"
+    },
+    {
+      "fact": "Allen still had a wife living in Birmingham, England",
+      "date": "1903",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "040"
+    },
+    {
+      "fact": "The Champion's Rest was the headquarters of the \"Albion Social Club\" and was known as the resting place of many of the city's unfortunates who had no other place to rest",
+      "date": "1903",
+      "people": [],
+      "places": [
+        "The Champion's Rest, Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "027"
+    },
+    {
+      "fact": "For years \"Old Tom,\" as his patrons called him, personally ran the Champion's Rest, presiding at the piano and directing the concert held nightly",
+      "date": "",
+      "people": [],
+      "places": [
+        "The Champion's Rest, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "019"
+    },
+    {
+      "fact": "Allen took to his bed about six weeks before his death, was moved to the Baptist Hospital when his condition became serious, and was comatose there until he died, rarely recognizing anybody",
+      "date": "1903-02",
+      "people": [],
+      "places": [
+        "Baptist Hospital, St. Louis"
+      ],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": "043"
+    },
+    {
+      "fact": "According to his friends, efforts to get a statement from Allen or induce him to make a will were fruitless (headed 'Made No Will')",
+      "date": "1903",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Before going to the hospital Allen lived in rooms over the saloon at 615 Market Street",
+      "date": "1903",
+      "people": [],
+      "places": [
+        "615 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's daughter, Mrs. Mary Taylor of No. 3427 Clark Avenue, discredited the report that her father was to marry his nurse, Mrs. Tillie Hartgraven",
+      "date": "1903",
+      "people": [
+        "Mary Taylor",
+        "Tillie Hartgraven"
+      ],
+      "places": [
+        "3427 Clark Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mrs. Taylor tried to see her father in the hospital but was refused because he was said to be in no condition to receive visitors",
+      "date": "1903",
+      "people": [
+        "Mary Taylor"
+      ],
+      "places": [
+        "Baptist Hospital, St. Louis"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "044"
+    },
+    {
+      "fact": "J. W. L. Gillespie appeared at the Rest and tried to take possession, claiming Allen had given him a bill of sale; John Murphy, a faithful employee of many years, knowing Allen was unconscious, refused to surrender the place and ordered Gillespie away",
+      "date": "1903",
+      "people": [
+        "J. W. L. Gillespie",
+        "John Murphy"
+      ],
+      "places": [
+        "The Champion's Rest, 615 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the Gillespie incident a safety deposit box Allen kept was reportedly broken into and $500 stolen, along with a watch and chain given him years earlier by an admiring friend",
+      "date": "1903",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mrs. Taylor declared she would apply to the courts on April 6, 1903 to protect her father's property; litigation over the estate was expected before the funeral",
+      "date": "1903-04-06",
+      "people": [
+        "Mary Taylor"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The funeral was expected to take place Wednesday morning (April 8, 1903) from his home over No. 615 Market Street",
+      "date": "1903-04-08",
+      "people": [],
+      "places": [
+        "615 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "death",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was born at Birmingham, England, April 23, 1839",
+      "date": "1839-04-23",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "high",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen's first fight of consequence was on April 20, 1860, when he beat a man named White in England in ten rounds (table: £5 a side, forty minutes)",
+      "date": "1860-04-20",
+      "people": [
+        "White"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought a draw with Nobby Hall on September 17, 1860; £5 a side, forty minutes, fifteen rounds",
+      "date": "1860-09-17",
+      "people": [
+        "Nobby Hall"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Morris Connor on March 20, 1861; £10 a side, one hour and ten minutes, sixteen rounds",
+      "date": "1861-03-20",
+      "people": [
+        "Morris Connor"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Jack Gould on June 8, 1861; £15 a side, fifty minutes, eleven rounds",
+      "date": "1861-06-08",
+      "people": [
+        "Jack Gould"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was beaten by Posh Price on July 28, 1862; £10 a side, fifty minutes, thirty-five rounds",
+      "date": "1862-07-28",
+      "people": [
+        "Posh Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Bingy Rose on January 28, 1864; £25 a side, twenty minutes, ten rounds",
+      "date": "1864-01-28",
+      "people": [
+        "Bingy Rose"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's longest fight was fifty rounds with Bob Smith on June 2, 1864, which he lost; table: £5 a side, two hours and fifty-nine minutes",
+      "date": "1864-06-02",
+      "people": [
+        "Bob Smith"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Jack Parkinson on June 13, 1865; £25 a side, twenty-three minutes, eleven rounds",
+      "date": "1865-06-13",
+      "people": [
+        "Jack Parkinson"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Posh Price on November 28, 1865; £25 a side, two hours and five minutes, forty-one rounds",
+      "date": "1865-11-28",
+      "people": [
+        "Posh Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat George Iles on June 13, 1866; £25 a side, one hour and two minutes, seventeen rounds",
+      "date": "1866-06-13",
+      "people": [
+        "George Iles"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Joe Goss on March 5, 1867 for £100 a side and the middleweight championship; one hour and fifty-two minutes, thirty-four rounds, a draw (the text elsewhere says Allen had 'previously defeated' Goss in England)",
+      "date": "1867-03-05",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen came to America as the champion of England in 1869; Tom Kelly was here when he arrived",
+      "date": "1869",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "Allen came directly to St. Louis and his first American fight was near the city, against Bill Davis, under London prize ring rules; Allen won in the forty-third round, the fight lasted forty minutes, the side bet was $1,000, and Thomas Kelly seconded Allen (table: January 12, 1869)",
+      "date": "1869-01-12",
+      "people": [
+        "Bill Davis",
+        "Tom Kelly"
+      ],
+      "places": [
+        "near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was beaten by Charlie Gallagher on February 23, 1869; $1,000 a side, three minutes, two rounds",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen drew with Mike McCool on June 15, 1869, for $1,000 a side and the championship of America; twelve minutes, nine rounds; the McCool party broke into the ring",
+      "date": "1869-06-15",
+      "people": [
+        "Mike McCool"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Charlie Gallagher on August 17, 1869; $1,000 a side, twenty-one minutes, eleven rounds",
+      "date": "1869-08-17",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Tom Kelly seconded Allen's opponents in his fights with Charles and Jem Gallagher, and seconded Allen in his 1876 battle with Joe Goss",
+      "date": "",
+      "people": [
+        "Tom Kelly",
+        "Charley Gallagher",
+        "Jem Gallagher",
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was beaten by Jem Mace on May 10, 1870, for $5,000 and the championship of the world; fifty minutes, ten rounds",
+      "date": "1870-05-10",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was matched with Mike McCool on June 2, 1870, for $2,500 a side and the championship; McCool forfeited $1,000",
+      "date": "1870-06-02",
+      "people": [
+        "Mike McCool"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Jem Gallagher on November 5, 1870; Allen staked $1,000 to $500; twenty-one minutes, fourteen rounds",
+      "date": "1870-11-05",
+      "people": [
+        "Jem Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen defeated Mike McCool on September 23, 1873, in seven rounds, for $2,000 a side and the championship; nineteen minutes. The text says this is when he regained the title (contradicting the November 1870 claim earlier in the article)",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCool"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Ben Hogan on November 18, 1873, called his most noteworthy battle: Allen floored Hogan in the third round and Hogan could not rise; Hogan's friends rushed the ring, demanded the decision and pointed pistols at Allen's head, threatening to kill him. The table records it as a win for Allen in seven minutes and three rounds",
+      "date": "1873-11-18",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought several battles in which he was robbed of the money or the decision; on two occasions his opponents' friends broke into the ring and forced him to give in under threat of revolvers and other weapons",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's last fight in the United States was with Joe Goss near St. Louis in 1876 (table: September 7, 1876) for $2,500 a side, called the largest amount ever wagered on a prize fight to that time; in the thirty-seventh round Allen knocked Goss down, Goss's friends rushed the ring and claimed a foul, and the referee, a friend of Goss, allowed it. The fight lasted one hour and fifty minutes; the table says Allen was 'swindled out of the money by alleged foul'",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper said recognized sporting authorities admitted Allen had fairly won the Goss fight and that he retained the heavyweight championship of the world",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A silver cup presented to Allen in England, known as the \"Champion Boxing Cup of England,\" adorned the back bar of the Rest; Allen regarded it as the greatest treasure he possessed",
+      "date": "1903",
+      "people": [],
+      "places": [
+        "The Champion's Rest, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "022"
+    },
+    {
+      "fact": "Allen returned to England on May 6, 1877",
+      "date": "1877-05-06",
+      "people": [],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "015"
+    },
+    {
+      "fact": "Allen beat Tompkin Gilbert on November 18, 1877; £100 a side, sixteen minutes, five rounds",
+      "date": "1877-11-18",
+      "people": [
+        "Tompkin Gilbert"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Charlie Davis for the championship of England in five rounds (table: April 17, 1878; £100 a side; seventeen minutes)",
+      "date": "1878-04-17",
+      "people": [
+        "Charlie Davis"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's last fight was on March 10, 1879, when he beat Jim Stewart in England; £50 a side, fifty-five minutes; the text says fifteen rounds, the table sixteen",
+      "date": "1879-03-10",
+      "people": [
+        "Jim Stewart"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After his last fight Allen came to America, settled in St. Louis and opened a saloon he named \"The Champion's Rest\"",
+      "date": "",
+      "people": [],
+      "places": [
+        "The Champion's Rest, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Tom Kelly, a former pugilist who ran a saloon on Market Street, was a warm friend of Allen; Kelly had fought many times in England and was once defeated by a brother of Allen",
+      "date": "",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In later years Allen was a well-known pugilistic prognosticator whom followers of the ring consulted before championship battles",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In 1889, asked about the Sullivan–Kilrain championship fight, Allen gave a reply that was quoted all over the United States",
+      "date": "1889",
+      "people": [
+        "John L. Sullivan",
+        "Jake Kilrain"
+      ],
+      "places": [],
+      "quote": "Kilrain couldn't whip Sullivan with a baseball bat.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The obituary contradicts itself on when Allen regained the title (Nov 5, 1870 vs Sept 23, 1873) and on the Goss 1867 result (draw in table, 'previously defeated' in text). It says friends reported he made no will, which conflicts with index 046 (revised will). Index 006 note says '203 says 1979'; the image says he came to America in 1869. Several facts match index lines with unassigned id 000 (lost/regained title, Gillespie/Murphy, safety deposit box, Mary Taylor at 3427 Clark, Hogan); existing_fact was left blank for those. The nurse's name is printed 'Hartgraven' here. New family fact: Allen had a brother who was also a fighter (he once beat Tom Kelly)."
+}
