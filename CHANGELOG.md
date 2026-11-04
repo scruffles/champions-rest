@@ -11,6 +11,7 @@
 - Fight record regrouped by period with filters, a results tally and expandable rows linking to sources
 - Header search across all articles
 - Thumbnail build script (`npm run build-thumbnails`) and curated collections in `data/collections.js`
+- `npm run upload-images` checks AWS sign-in, builds missing thumbnails and uploads articles and thumbnails to S3
 
 ### Changed
 - Article totals and year ranges are calculated from the data instead of hard-coded
@@ -35,7 +36,6 @@
 ### Filtering & Navigation
 - Review 39 articles flagged `not_tom` (different Tom Allen or unrelated content) - currently hidden; decide whether to remove
 - Replace keyword-guessed topics with real per-article tags
-- Upload thumbnails to S3 (`s3://champions-rest.com/images/thumbs/`) before deploying the redesign
 - Fix automatic crops that cut off multi-column headlines (e.g. article 1000)
 
 ### Article Viewer

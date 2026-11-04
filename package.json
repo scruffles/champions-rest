@@ -6,6 +6,7 @@
     "dev": "vite",
     "build-search": "node scripts/build-search-index.cjs",
     "build-thumbnails": "node scripts/build-thumbnails.cjs",
+    "upload-images": "node scripts/upload-images.cjs",
     "package": "npm run build-search && vite build",
     "lint": "eslint .",
     "format": "prettier --write ."
