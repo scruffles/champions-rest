@@ -178,31 +178,49 @@ h3 {
 
 .search {
   position: relative;
-  width: 300px;
+  width: 320px;
   max-width: 100%;
 }
 
+// A printed form's fill-in-the-blank line: label on the left, entry on a single rule.
 .search-box {
   display: flex;
-  align-items: center;
-  gap: 8px;
-  border: 1px solid @ink;
-  padding: 0 10px;
-  height: 40px;
+  align-items: baseline;
+  gap: 10px;
+  min-height: 44px;
+  padding-top: 10px;
+  .search-label {
+    flex: none;
+    font-size: 13px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
   input {
-    border: 0;
-    outline: none;
     flex: 1;
     min-width: 0;
+    border: 0;
+    border-bottom: 1px solid @ink;
+    border-radius: 0;
+    outline: none;
     background: transparent;
     font: inherit;
     font-style: italic;
-    font-size: 15px;
+    font-size: 16px;
     color: @ink;
-  }
-  &:focus-within {
-    outline: 2px solid @red;
-    outline-offset: 1px;
+    padding: 0 2px 2px;
+    appearance: none;
+    &::placeholder {
+      color: #6b645a;
+      opacity: 1;
+    }
+    &::-webkit-search-cancel-button {
+      display: none;
+    }
+    &:focus {
+      border-bottom: 2px solid @red;
+      padding-bottom: 1px;
+    }
   }
 }
 

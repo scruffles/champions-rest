@@ -65,14 +65,11 @@ export default function Search() {
   return (
     <div className="search" ref={boxRef}>
       <label className="search-box">
-        <svg aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <circle cx="11" cy="11" r="7" />
-          <path d="M20 20l-3.5-3.5" />
-        </svg>
-        <span className="sr">Search articles</span>
+        <span className="search-label">Search</span>
         <input
           type="search"
-          placeholder="Search the archive"
+          aria-label="Search the archive"
+          placeholder="the archive…"
           value={query}
           onFocus={() => {
             loadIndex().then(setIndex);
