@@ -22,6 +22,7 @@
 - Compact header (small nameplate, nav and search) slides in at the top once the full masthead scrolls away
 - Deploy workflow updated to current GitHub Actions (checkout v7, setup-node v7, configure-aws-credentials v6)
 - Node 24 for local development and the deploy build, set once in `.nvmrc`
+- Deploys set cache headers so CloudFront picks up new versions: `index.html` is never cached, hashed build files are cached for a year, other files for five minutes
 - Replaced Fuse.js with MiniSearch for full-text article search
 - Search index is now built at build time and lazy-loaded (~960KB gzipped) on first search open
 - Full OCR text of all 1,017 articles is searchable with fuzzy matching and prefix search

@@ -34,6 +34,11 @@ jobs:
 
       - name: Upload to S3
         run: |
-          aws s3 cp ./dist s3://champions-rest.com/ --recursive
+          # Build files have content hashes in their names, so they never change and can be kept for a year.
+          aws s3 cp ./dist/assets s3://champions-rest.com/assets --recursive --cache-control "public,max-age=31536000,immutable"
+          # Other files (search index, textures) keep their names between builds, so cache them briefly.
+          aws s3 cp ./dist s3://champions-rest.com/ --recursive --exclude "assets/*" --exclude "index.html" --cache-control "public,max-age=300"
+          # index.html points at the current build files, so CloudFront and browsers must check it every time.
+          aws s3 cp ./dist/index.html s3://champions-rest.com/index.html --cache-control "no-cache" --content-type "text/html; charset=utf-8"
         env:
           S3_BUCKET: champions-rest.com
