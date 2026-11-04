@@ -19,6 +19,7 @@
 - Articles flagged `not_tom` are hidden
 - Removed Bootstrap and Font Awesome
 - Deploy workflow updated to current GitHub Actions (checkout v7, setup-node v7, configure-aws-credentials v6)
+- Node 24 for local development and the deploy build, set once in `.nvmrc`
 - Replaced Fuse.js with MiniSearch for full-text article search
 - Search index is now built at build time and lazy-loaded (~960KB gzipped) on first search open
 - Full OCR text of all 1,017 articles is searchable with fuzzy matching and prefix search

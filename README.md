@@ -6,6 +6,8 @@ This is the source for champions-rest.com which documents the life of Tom Allen:
 
 copy images from s3 and add them under /public/images
 
+run `nvm use` to switch to the Node version in `.nvmrc` (24)
+
 run `npm run dev`
 
 open the browser to `http://localhost:3000/`
