@@ -176,6 +176,81 @@ h3 {
   }
 }
 
+// Compact header that slides in once the full masthead scrolls away
+
+.compact-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 40;
+  background-color: @paper;
+  // The same aged stain as the top of the page, squeezed so it fades within the bar.
+  background-image: url(/ui/edge-top.webp), url(/ui/paper.jpg);
+  background-size: 100% 150px, auto;
+  background-repeat: no-repeat, repeat;
+  background-blend-mode: multiply, normal;
+  border-bottom: 3px double @ink;
+  box-shadow: 0 4px 14px rgba(20, 18, 16, 0.14);
+  transform: translateY(-110%);
+  transition: transform 0.22s ease;
+  &.shown {
+    transform: translateY(0);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+}
+
+.compact-inner {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  align-items: center;
+  gap: 8px 24px;
+  min-height: 56px;
+  nav {
+    display: flex;
+    flex: 1;
+    font-size: 13px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    a {
+      padding: 10px 12px;
+      text-decoration: none;
+      &.active {
+        background: @ink;
+        color: @paper;
+      }
+    }
+  }
+  .search {
+    width: 280px;
+  }
+  .search-box {
+    min-height: 40px;
+    padding-top: 6px;
+  }
+  .search-results {
+    top: 44px;
+  }
+}
+
+.compact-title {
+  flex: none;
+  font-family: @blackletter;
+  font-size: 30px;
+  line-height: 1;
+  color: @ink-warm;
+  text-decoration: none;
+  filter: url(#inkwear);
+  text-shadow: 1px 1px 0 rgba(110, 56, 38, 0.28);
+  &:hover {
+    color: @ink-warm;
+  }
+}
+
 .search {
   position: relative;
   width: 320px;
@@ -1708,6 +1783,22 @@ button.record-row {
   }
   .search {
     width: 100%;
+  }
+  .compact-inner {
+    padding: 0 16px;
+    nav {
+      overflow-x: auto;
+      a {
+        padding: 10px 8px;
+        white-space: nowrap;
+      }
+    }
+    .search {
+      display: none;
+    }
+  }
+  .compact-title {
+    font-size: 24px;
   }
   .record-row {
     grid-template-columns: 1fr 1fr;

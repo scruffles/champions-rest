@@ -19,6 +19,7 @@
 - Articles flagged `not_tom` are hidden
 - Removed Bootstrap and Font Awesome
 - Header search restyled as a printed form's fill-in-the-blank line
+- Compact header (small nameplate, nav and search) slides in at the top once the full masthead scrolls away
 - Deploy workflow updated to current GitHub Actions (checkout v7, setup-node v7, configure-aws-credentials v6)
 - Node 24 for local development and the deploy build, set once in `.nvmrc`
 - Replaced Fuse.js with MiniSearch for full-text article search
@@ -35,9 +36,6 @@
 - `visual-redesign` branch with dark navbar and updated color system (not yet shipped)
 
 ## Backlog
-
-### Header
-- Sticky compact header: once the full masthead scrolls away, keep a small version pinned to the top (small nameplate, nav and search)
 
 ### Filtering & Navigation
 - Review 39 articles flagged `not_tom` (different Tom Allen or unrelated content) - currently hidden; decide whether to remove
