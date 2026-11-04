@@ -3019,15 +3019,16 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1867-04-08",
-    title: "Fight Between Joe Gloss and O'Baldwin",
+    title: "Goss and Allen Fight to a Draw Near Cardiff",
     localCopyEdited: "images/articles/image-292.jpg",
     localCopyFull: "images/articles/image-292b.jpg",
     id: "292",
     text: "ee a ee 8 ee ee\nPUGILAgM@.\n\nBattle Hetween Joe Goss and Tom Al-\njen of my pt rename bee erg fSe-\nVere Hounds and a Drawn Fight.\n\nthe Dublin 8 March 19.)\n| WA batthe ‘Was fought CF gl Br Cardin,\nin pe ristol distrgt, on riday, pessreng Bee Gos\n\n(who has heen named by Mace to fight O' Baldwin,\n\nthe frieh glows.) end Tom Allen oF Birmingharn\n\nAllen ia twenty-seven years old, five feet ten\ninches fn hight, and wetene leven stone seven\npounds when in Agbting tri. He bes been ie the\nMorris Connor, Jack Gould, Bingey ious and Jeo\n\norrie, Connor n\nan¢ ‘oh Pr a 5 bu » havin\npraia by b experience he met ted defeated\n\n\"rice in a tough contest, which lasted two hours and\nAs Ps utes. He nas also beaten Iolex, with whom\nOe are sear ie SO cE\n\nie o are we\nknown, He defeated Price ta 1903, en fraght Mare\nfor £009 to £400 in 1ag6 when he wae A after\n\nA rl yin a = bis i.\n\n. © Was & se00\ntime beaten noe — year A tniriy\"ome minutes,\nGoes ia thirty y oa five feet eight and »\nquarter nigh, Weighs leven stone #ix\npounds, Some lithe time was lost in the prelimina-\nFee, but at 10:54 the men threw their Gaps into the\n\nana were Warmly reéeived by their respective\n\nGow, in consequence of hia recent incarceration,\nbreathing st Raviek Ze, HarsSnealeh \"unt\n\nn ammeram unt\ntion, wae phy gh A Le\non, fi A s ex\n\ngin dtertngcn gAllen, We, way enor\nrm ington, was remarkably\n\nfit, cae the tapton with which he\n\ncomand ~, sore teotmony ie ie Saitet\nn 5 stood somewhat over\n\nGora for hea not the broad rhoulders and...",
-    summary: "St. Louis Globe-Democrat reprinted Dublin Freeman's Journal account of a fight near Cardiff.",
-    focus: "passing",
+    summary: "The St. Louis Globe-Democrat reprinted a Dublin report of Tom Allen's fight with Joe Goss near Cardiff, Wales. It described Allen's build and earlier fights, and the 34 rounds, twice moved to escape the police, that ended in a draw after one hour and fifty-three minutes.",
+    focus: "primary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights", "Profiles"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -3227,15 +3228,16 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1869-02-24",
-    title: "Article does not mention Tom Allen",
+    title: "Allen Challenges Gallagher to a Rematch After His Loss",
     localCopyEdited: "images/articles/image-308.jpg",
     localCopyFull: "images/articles/image-308b.jpg",
     id: "308",
     text: "_—--~ FRx RETURY.\n\nThe cbéifing wind andthe long delay inthe ring\npaused arush for the boats immediately after the\nOcht was decided. Gallacher and friends boarded\njhe Gem, aod Allen and friends repaired to the Gal-\nalee, xpd both crafts were soon under headway up\nstrezm. The Galates landed at Jefferson Barracks,\nand moet of her passengers deserted her for the par-\npose of taking the train f r St. Louis, but they were\ncompelled to wait over two hours until a telegram\ncould be sentto the depot and an accommodation\ntruly sécund. The passengers on the Gem, who\nlandei at Carondelet, were equally discomfited,\naad were compelled to remain in that burgh until the\ntrain from fhe barracks should arrive anid (ake them\non board. The pa-ty, however, was orderly aod\nsober, apd nothing ocoarred to disiarb the peace of\nether culizen or railroad employee. a\n\nTHE FEELING.\n\nAllen was quite chagrined and mortified at the\nchence blow which lost him the fight. Said he,\n“It occurs but once in a lifetime, and ‘3 just my\ninck pow wien I have ali my money up on the\nfight.’’ His only anxiety and de-tre was to meet\nGallagher again, and his friends—maov ef them\nmade from witnessing th first round—offered to\nwake him to any amount. Therefore, if Gallagher\nwill firht him again, there wil! be another mill be-\nfore te blood cools over (his one.\n\nA CHALLENGE.\n\nIbereby cballenge Mr. Charles A. Fong, Sad to\night me a fair stand-up fight, according to the new\ntiles of Lhe London Prize Ring, in one week...",
-    summary: "St. Louis Globe-Democrat article that does not mention Tom Allen.",
-    focus: "passing",
+    summary: "The St. Louis Globe-Democrat described the crowds returning from the Allen-Gallagher fight and Allen's disappointment at the chance blow that lost it. It printed Allen's challenge to Charley Gallagher for a rematch at $1,000 a side, with $250 left at Campbell's saloon as a first deposit.",
+    focus: "primary",
     tier: "1",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights", "Challenges"]
   },
   {
     publication: "The St. Louis Republic",
@@ -4187,19 +4189,6 @@ export const db = [
     not_tom: false
   },
   {
-    publication: "St. Louis Globe-Democrat",
-    sourceDate: "1870-01-19",
-    title: "Seddone and Lafferty Engagement",
-    localCopyEdited: "images/articles/image-382.jpg",
-    localCopyFull: "images/articles/image-382b.jpg",
-    id: "382",
-    text: "Cee, Be el peel\nPRrserrecion or Colom —Our, readers have been\napprized of the polite engagement of “Mr. George Sed-\nHone of Boston, with Mr. Lafferty of St. Louis, fo be\nfulfilied on the 25th instant, at some point within fifty\npifles of St. Lowis. On to-night Seddonsis to be bon-\nora with the preventation of his colers by bis friends,\na fetween eight and ten o'clock st Tom\nAven’s esloun for that purpose La sae ee\nAvother polite engagement, an 6g y_strik\nev ure, Las been entered into between James Gallagher\nof Albeny, New York, aud Georze Carey of Hartford,\nt ul, to be fulfiled in the tame ring with that\nes ae Jaferty, and for u purse to be made up.\nAli S\n; ber iN e y\nTe PS lel «Ag :",
-    summary: "St. Louis Globe-Democrat announcement of an engagement between George Seddone of Boston and Lafferty of St. Louis.",
-    focus: "passing",
-    tier: "2",
-    not_tom: true
-  },
-  {
     publication: "The St. Louis Republic",
     sourceDate: "1870-01-20",
     title: "Tom Allen presents colors to George Seddons",
@@ -4358,15 +4347,16 @@ export const db = [
   {
     publication: "The St. Louis Republic",
     sourceDate: "1870-04-26",
-    title: "Article does not mention Tom Allen",
+    title: "Allen Spars With Coburn at Mozart Hall Benefit",
     localCopyEdited: "images/articles/image-395.jpg",
     localCopyFull: "images/articles/image-395b.jpg",
     id: "395",
     text: "Sparring Exhibition at Mozart Hall.\n\nThere was a large turnout at Mozart Hall last\nnight, some 800 being present on the occasion ofa\nsparring exhibition for the benefit of Joe Coburn:\nAll the noted sports in the city were present, in-\ncluding Coburn, Allen, McCoole, Sherman Thurs-\nton, Billy Carrol, Jack Looney, and any number o\nthe lesser lights among the fancy.\n\nThe entertainment was varied by a violin solo;\nthe carpet antics of an Indian boy—and a succession\nof sparring bouts between Punch Morris and young\nGallagher; Charley Collins, the ‘‘cast tron man,”\nand Gallagher, together with such heavy weights as\nMike McCoocle and Tom. Kelly; Joe. Coburn and\nTom. Alen. The sparring generally was lively and\nsatisfactory tothe spectators. At one time Miley\nGibbons jumped upon the stage and dared any one\nto come forward, but be was speedily rushed off\nThe episode afforded amusement, however. A\nbenefit for Tom. Allen was announced for Saturday\nnight, when the much-talked-of belt will be pre-\nsented.",
-    summary: "The St. Louis Republic article that does not mention Tom Allen.",
-    focus: "passing",
+    summary: "The St. Louis Republic reported on a sparring exhibition for Joe Coburn at Mozart Hall, attended by about 800 people, where Tom Allen sparred with Coburn. A benefit for Allen was announced for Saturday night, when his championship belt would be presented.",
+    focus: "secondary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Exhibitions"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -4670,15 +4660,16 @@ export const db = [
   {
     publication: "The St Louis Republic",
     sourceDate: "1870-08-22",
-    title: "Horse Breeding and Premiums",
+    title: "Fair Speaker Suggests Allen or McCoole Could Be Hired for a Prize Fight",
     localCopyEdited: "images/articles/image-419.jpg",
     localCopyFull: "images/articles/image-419b.jpg",
     id: "419",
     text: "ur Murtfeldh cos 8. paper per oe agricultaral fairs, §\nther intent Management. Agricult 1\nfalts as held im the United States were, ees —u 5\ntuted to stimulate pov tcreeg rca eae vane The\noffer by a state or cuvunty of & premium for the\none © the ahaa: wheat. corn, cutee ex ‘\nany ot! crop im contemplates that these\ncr ps +Lall be town or planted with a special view to\nSiobte date cf the manner of sowing. Vicinity, and\neo data manner ity, and\nvariety of seed and the mode of caltfeatoa akan\nhept, 50 that if snecestul the meatus operands shall be\nmade known am! published in the proceedings of the\nt s ore! . the\nbreeding of fine cate, sep, ewine, poalry, aud the\npreducuion of checse honey. To make these\naie ee eee of every kind are\ninvited to exbibit wares, especially manufie-\nturers of agricultural implements. The studenta of\npoms Some various branches, snology.\ngeology, cuagmoleny botany, are also\nenrieh the fair with their contributions, pen\nnothing should be omitted, domestic economy was\nulinasy ee aS Sy $F wa\n©\nductfons of deft finge « with the needle or ae\nis trae that agricaltaral fairs — mach of\nthe festivities of the “hawest watie tngooent\npay wen por gg or ge harvest were termed\nin the country. But the of ev\nstate, uistrict or county fair should be held cane\nDie for the kind of amusements which they furnish\ntheir visitors on these occasions. What oaght faire\nnet to ber They onght oo be the means, pri-\nina making mone it Stock corporations.\nwet leae nat te ud xian of...",
-    summary: "OCR-garbled article about horse breeding and premiums.",
+    summary: "In a debate over horse racing at agricultural fairs reported by The St. Louis Republic, Dr. Morse said a thousand-dollar premium might bring Tom Allen, Mike McCoole or another famous pugilist to stage a prize fight.",
     focus: "passing",
     tier: "1",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -4917,15 +4908,16 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1871-07-03",
-    title: "Church Dedication and Community News Items",
+    title: "Allen to Train and Back Mace Against O'Baldwin",
     localCopyEdited: "images/articles/image-438.jpg",
     localCopyFull: "images/articles/image-438b.jpg",
     id: "438",
     text: "a\n\n‘Tue Plattaburg Pree byterian church approacix\n- A Post orricz has been established at Henrietts\n| frre corner stone of the Old School Presbyteris\n_ Cijurch will be laid-at Memphis July 6th=\n\n| A rew days ago Franklin’s store, at “Allenville\n\n; was completely destroyed by fire,\n\n_ James Conwar, who resided near Pleasant Hil\nwas accidentally dro dd last Monday while bath\ning im Grand river. + 3\n' people of Lewis county, Mo., by a very larg\n\n ™ ty, have voted against the proposition ¢\nb id a’ court house. ~\n\n- On Wednesday evening, Mr. T. Euan, of Ne’\nBuffalo, Mich., died suddenly at the Norman Hous\n\nin anus i | H\n\n_ Tix Springfield Patrfot says: A.vacancy’ exist\nin the office of Circuit Attorney of the Thirteent\n\n‘Judicial District, Mr. Page haying resigned and le!\ntheState. The vacancy will be filled by appoint\n\n‘ment of Gov. Brown.\n\nMason Josern H. McGee, late Register of Land\nvat Peony, pespecite to write ahistery of Da\n-viess county extending over the last thirty-fiv\n\nAr a especial term of the Dallas County Coart, hel\ndast_ week, Dr. Z. L. Slavens was appointed finan\ncial:agent of that county-to the Luciede and For\nScott railroad company. ’\n\nTue old jail at Mayville, De Kalb: county, ha\n‘been torn down, Tae good people of the place in\nnocently hope there will be no necessity to build\nnew jail. , ;\n_ THe counterfeiters spoken of a week or two since,\na8 being lodged in the Osceola jail, awaiting thei\ntrial, baye been tarned over to the United Sfate\nsuthorities and taken...",
-    summary: "St. Louis Globe-Democrat published community notices including church dedications.",
-    focus: "passing",
+    summary: "Among Missouri news items, the St. Louis Globe-Democrat reprinted a Kansas City Times dispatch that Ned O'Baldwin had challenged Jem Mace, and that Tom Allen would train Mace and back him for $200.",
+    focus: "secondary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Challenges"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -4969,15 +4961,16 @@ export const db = [
   {
     publication: "The St. Louis Republic",
     sourceDate: "1871-12-02",
-    title: "Special Train for Mace and Coburn Excursion",
+    title: "Allen Seconds Mace in His Fight With Coburn",
     localCopyEdited: "images/articles/image-442.jpg",
     localCopyFull: "images/articles/image-442b.jpg",
     id: "442",
     text: "SPORTING.\n\nContest Between a Couple of Curs,\nWhe Mace-Coburn Exbibition—Trotting\nin New Vork, &c.\n\nTHE START.\n\n. Ricoretts, La., Nov. 30.—The special train en-\ngaged forthe Mace and Coburn excursion started\nfrom the Mobile railway depot, foot of Canal street,\nat ten minates past 7 this serees The initiated\nhad been instructed to be on punetually at 6\n-. a= me the — mesg make Saale ween =\nan hour later. Att jepot some etropoli-\ntans were detailed for the preservation of order, but\nbeyond preventing parties witbont tickets entering\nthe cars, their services were not called into requisi-\n\ntion, as the crowd was very orderly.\n\nThe police accompanied the excursion to Gentilly\nstation, about four miles out from the city, where\nthe tickets were examined. The train consisted of\nten passenger coaches, containing some five bun-\ndred persons, the majority of whom were what are\ntermed “ better classes,” weet representatives\nof the bench and bar, medical profession and bank-\ning, cotton and mercantile establishments. The\nsporting fraternity were out in force, with repre-\nsentatives from all the principal cities.\n\nAmong the notables of the prize ring present were\nTom. Allen, Ned. O Baldwin, the [rish Giant, Tom.\nKelly, Sherman Therston, Jim. Cusick, Jim. Co-\nburn and Pooley Mace.\n\nTHE GEOUNDS.\n\nMonTGOMERY STATION, Mis., 40 miles from New\nOrleans, me 4 den. inahiae a has\njust arrived at this point. Ni of special inte-\nrest has occurred during the trip, and everything is\nconducted in the...",
-    summary: "Report of the special train departure for the Jem Mace and Joe Coburn excursion from Mobile.",
-    focus: "passing",
+    summary: "The St. Louis Republic reported on the special train to the Mace-Coburn fight at Montgomery Station, Mississippi. Tom Allen was among the noted pugilists present and served as one of Jem Mace's seconds.",
+    focus: "secondary",
     tier: "1",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -5138,15 +5131,16 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1873-07-13",
-    title: "Domestic Story Garbled",
+    title: "McCoole's Trainer Talks About the Coming Fight With Allen",
     localCopyEdited: "images/articles/image-455.jpg",
     localCopyFull: "images/articles/image-455b.jpg",
     id: "455",
     text: "E sT. LOUIS DEMO(\na\nwas so bullheaded and determined to have hi-\nown 7h (But yer needn't say anysiing about\nthat.) ut this time he’s just-as minsudtul as a\nbaaby. Why, he 1s upin the morning just 28 5909\nas lam, and just as anxious to do everything a3\ncan be. We goes along, and te’s singing and hop-\n>ping from ene- side of the road to tne other, just)\nes hyely as @ cricket, Why, there’s men come to\nhim with »ropositions, but-he bo “*No, I think)\nfama better man thanihe is, an i am going to\n| wily Se on: hie merit. Phere ain’t.agoing t) be\n\nnos inenigap. about it whatsumdeyer.”, _- ~\n| pirmydow: path oe think his chances are? What\nare his * A i\n-~ Dubbn Tritks. T can’t tell you’ what his points\n_are. They will show fer themselves in the ring.\n¥ think his chancés are good—better than they ever\nwere before. 1 trained him when he fought Colo- .\nrado Davis, and when he fouzht Aaron Jones, and\nwhen he was. going to fight. Coburn, and he is in\nbetter trim than he was with cither of them. When-.\never Lhave trained a man Pye been successful; f\nnever lestyet. LItrained Charley Gallagher when\nhe fought * ere and be whipped Alen in twe\nrounds, and Tom. Allen am’t got no liging for me.\ni’vye come wp from Shreveport, and e lett’ my:\nplace down:there for three months, and -¥ ain’t\nagoing to dé it for nothing, if I can put up anything\n- on the fight, and P’ve got some money. |\nHere the interview etosed, Dabiin fricks asking\nthe reporter, in conclusion; to :\nDEXY THE RUMOE, Le\nwhich he said...",
-    summary: "Heavily OCR-garbled story fragment with no clear topic.",
-    focus: "passing",
+    summary: "The St. Louis Globe-Democrat interviewed Dublin Tricks, Mike McCoole's trainer, before McCoole's fight with Tom Allen. Tricks said he had trained Charley Gallagher when Gallagher beat Allen, and denied a rumor from Allen's camp that McCoole had avoided him.",
+    focus: "secondary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -5567,15 +5561,16 @@ export const db = [
   {
     publication: "The St Louis Republic",
     sourceDate: "1873-10-25",
-    title: "Conversation About Military Service",
+    title: "A Chat With the Champion: Allen on Coburn",
     localCopyEdited: "images/articles/image-488.jpg",
     localCopyFull: "images/articles/image-488b.jpg",
     id: "488",
     text: "TOM AND BEN.\n| 2 a} .\nA Chat With the Champion.\n| oe wa ited\n| What Mr. Allen Has To Say About\n| Mr. Coburn.\n| —————E EE\n| Hogan's Sparring Exhibition Last Night.\n| nb mle\n|\n| The appetite of the REPUPLICAN’s sporting re-\nporter for his breakfast yesterday morning was\nfeeble, Mis mind was ina perturbed state and\n| the intimate fmeudcship which bas always sub-\nsisted between his brain and his epigastrium\n| caused a sympathetic action resulting in the\n| wforesaid loss of appetite. The imeutal\ndisquietude and the cousequent epigastric de-\n| tangement were caused by the presence. in the\ncolumns of asomewhat obscure morning paper,\n| of a card which suggested disturbance and bore\natits base, 50 to speak, the ominous signature\n| of Tom Alien. Thejsperting reporter's pusgilistic\n| experience having been in the mein contined to\n| the chronicling of other men's fights aud the\ncompromising of His own, and, moreover. being\nthe possessor of an admirable facial contour\nwhich could not possibly receive any embellisi_\nment from an unpleasentness with Mr. Thomas\n| Alien, he did not bunger nor thirst\n| for the opportunity which seemed to\nbe faintly suggested by the champion’s cerd.\n| The more he pondered upon this distressing sit-\nuation the more, the 8. R. became convinced\n| thatit was best to take the bull by the horns,\n| which, being interpreted, means that it was\n| epnsidered best to visit the champion at his\nheadquarters and have the matter definitely aa-\n| jusied at onee. The matter...",
-    summary: "Story containing a character named Tom discussing military service under Sir Henry Havelock, not about Tom Allen the boxer.",
-    focus: "passing",
+    summary: "A sporting reporter visited Tom Allen at the Eight-Mile House, where he was training, after Allen objected in a card to an interview that belittled his chances against Joe Coburn. Allen gave his side, and the reporter described him at 172 pounds and in good condition. The article also covered Ben Hogan's sparring exhibition.",
+    focus: "primary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Profiles", "Challenges"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -5632,28 +5627,30 @@ export const db = [
   {
     publication: "The St Louis Republic",
     sourceDate: "1873-10-29",
-    title: "Theatre Benefit Programs",
+    title: "Indictments and Warrants Over Allen's Prize Fights",
     localCopyEdited: "images/articles/image-493.jpg",
     localCopyFull: "images/articles/image-493b.jpg",
     id: "493",
     text: "Following to this point of attraction, we found\nthe head of the De Looueys sitting coolly by the\nsnie of Seymour Voulaire, his counsel, di-\nrece from st. Louis, as well us some\nother frieuds, and the question of bail was un-\nder discussion. ‘*One hundred tnousend dol-\nlars,” said the sheriff; and ‘‘one hundred thou-\nsand dollars,” said somebody else of East St.\nLouis, end the case jot the count began to look\nuncommonly shady. At leagth, however,\nmerey Was tempered with instive, and bail was\ntaken on the two cuses of &,0v0 cach. ‘he fol-\nlowing are\n\nTHY CASES.\n\nThey wiil be found interesting to ‘‘all evil-\ndisposed persons” who have a hankering after a\nprize Msbt:\n\nThe Peopie of the State of Mlinois te the Sheriff\nof the County of Madison, sreeting. ;\n\nWe commend you that you take the bodies of\nThoinas Allen, Michael MeCoole, Patsey Shep-\npard, Arthur Chambers, Wm. Biake, alias Dub-\nlin ‘Yricks, Jolin Looney, ‘Thos. Kelly, and John\nW. Seott, and safely them seep, 50 that you\nhave tieit bodies forthwith wefore the cireuit\ncourt of said county ab EKdwardsvilie, to answer\nnote the peopic of the state of Lilineis for and\nconcerning the crime of prize-fighting, with.\nwhich they are charged 1a certain bill of in-\ndictmeut now preferred aguitst them. q\n\nJOHN D. HELZEL, Clerk.\n\nThis, it willbe seen, refers to the Ailen-Mc-\nCoote tight, and itis isade retiurmable on next\nMonday, Nov. 3,at which time Looney will have\nto repair Tacreanto gud stand his trial, and way\nthe circuit court...",
-    summary: "Listings of theatre performances and benefits, not related to Tom Allen.",
-    focus: "passing",
+    summary: "The St. Louis Republic printed the Madison County indictment of Thomas Allen, Mike McCoole and others for the Allen-McCoole fight, and an affidavit seeking warrants to stop the planned Allen-Hogan fight in Illinois. It also described the crowd at Allen's place and a reporter's meeting with him on the street.",
+    focus: "primary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Legal", "Fights"]
   },
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1873-10-30",
-    title: "Article does not mention Tom Allen",
+    title: "Quips About the Prize Fight That Did Not Come Off",
     localCopyEdited: "images/articles/image-494.jpg",
     localCopyFull: "images/articles/image-494b.jpg",
     id: "494",
     text: "hale Przestight Facts.\nNota toe “aa came to the scratch on Chouteau\nIsland, |\n\nTHE ontinental couldn’t spar off, and that put\nthe spar off.\n\nTHERE was no credit given for these excursion\ntickets, Jacki is no Looney-tick,\n\nTHOSE who seid that nobody fit, were not pres-\nént when Tom Allen’s benfit, at night.\n\nTHE well-known phrase, ‘‘A Contineatal\nd—n,\" has acquired|a uew signification.\n| ST. Louis pugs prefer lager beer to the binding\n\nBeveridge that is furnished across the river.\n\n| JOHN Har will attend the next prize fight, to\n| Write up the *'Little Breaches” of the peace.\n\nTHE chimneys of the Continental have a most -\nSggravating way of falling down and hurting no-\nbody.\n\nWHEN the Continental began to steam” up\nstream, the band played **Qver the water to the\n| Charizes.” i\n\nTHE authorities of East St. Louis are not accuss-\ntomed to being talked to in the style that was used\non Tuesday. | |\n\nTHE pugs were unable to put up their hands in\nthe:roped arena, because the hands were put up\non them beforethey @ot there.\n\nEast St, Louis Officials say that the law is very\nStringent, and the pugs want to know whether it\nis stringent cacaat to string gents up. -\n\nTHE feather weight champion escaped as easily\nvant gently ‘ :\n\nf fAs a feather is watted dewaward\n* From an eagle in his flight.”",
-    summary: "St. Louis Globe-Democrat article that does not mention Tom Allen.",
+    summary: "A column of jokes in the St. Louis Globe-Democrat about the abandoned Allen-Hogan fight on Chouteau Island, including a mention of Tom Allen's benefit that night.",
     focus: "passing",
     tier: "1",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -5944,15 +5941,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1875-03-23",
-    title: "Eads Banquet Features General Thomas Allen Speaking",
+    title: "A Card From Tom Allen",
     localCopyEdited: "images/articles/image-517.jpg",
     localCopyFull: "images/articles/image-517b.jpg",
     id: "517",
-    text: "THE EADS BANQUET, |\nIt Promises to be in Every Respect a Grand\n\nTribute to the Coming Solution of the\n\nTransportation ProBiem. . |\n\nes. Sp, Soh |\n\nThe committee of arrangements who.\nhave in charge the banquet to Capt. Eads,\nheld a meeting atthe Southern hote! last\nevening, and completed the programme of\nexercises. Jt is understood that a number\nof distinguished citizens trom adjoining\n\nstates will te present, and the occasion\n- promises to be one of unusual interest.\n\n| His honor, Mayor Brown, Hon, Erastus\nWells, Gen. Sherman, Governor Bever-\n/idge, of Illinois, Hon. J. B. Henderson,\n| Hon. E.O. Stonard, Hon. Taos. Allen,\n| Hen. Hi. T. Blow, BW. P. Rowland, have\nbeen selected to furnish the intellectual\n| feast, and the proprietors of the Southern\n| sean determined tbat the occasion shall be\n| in ether respects unsurpassed. It has been\n| impossible for the committee to visit ali the\n| friends of Capt. Eads who will no doubt de-\nsire to be present, and those who have not\nbeen called upon can precure tickets at the\n| ofiee of the Southern hotel,\n\n| ‘Phe banquet will eommence at § o'clock\nend the committee of reception are request-\n\ned to meet at 7 o'clock in parlor No. 5.\n\nThe committee of arrangements and all\nother committees for the Euds banquet are\nrequested to meet at the seeretary’s office of\nihe Merchants Exchinge at 12 M, to-day.\nPronspt attendance is requested.\n\n5 D.P. Rownanp, Ciarman,\n\nA. MCKINLEY, Secretary.\n\nThe fclicwing 1s the pregramme:\n\nALI'SIC.\n\n1. Address of...",
-    summary: "The St. Louis Post-Dispatch announced a banquet for Captain James Eads with General Thomas Allen listed as a speaker on Trans-Continental Transportation. A separate note mentioned Tom Allen had sporting commentary prepared.",
-    focus: "passing",
+    text: "A CARD FROM TOM ALLEN.\n\nSome Interesting Reminiscences of the Prize Ring, and a Little Gratuitous Information for the Duffer who Writes Sporting Notes for the Republican.\n\nSt. Louis, March 23, 1875.\n\nTo the Editor—My attention has been called to an article in the Republican, about which I wish to make a few remarks.\n\nThe person who wrote the article must surely be a stranger to the history of prize fighters. I have fought some of the longest battles of any man in the world, as my record will show. I will here mention a few fights. Charlie Gallagher and Bill Davis fought one hour and fifty minutes. Gallagher and Elliott fought one hour and thirty minutes and both men were strong at the finish. McCoole and Coburn fought sixty-seven rounds in one hour and twenty minutes. Now these men did not last above twenty minutes when they met me, and I suppose that is why I cannot stand a long fight.\n\nAnd as regards my fights in England, my records will show that I stand unrivaled as champion of the middle weights. I have fought nineteen battles in the ring, and I have fought for more money than any man living. My last five fights in England were with Posh Price and George Iles, the former lasting two hours and five minutes and the latter two hours. And my fight with Bob Smith (the black) lasted three hours, and my last fight with Joe Goss was one hour and fifty-seven minutes, when darkness came on; the next morning the doctors advised us to agree to a draw which we did. I have merely...",
+    summary: "In a letter to the St. Louis Post-Dispatch, Tom Allen answered a Republican reporter who said he could not stand a long fight. He listed his long English battles with Posh Price, George Iles, Bob Smith and Joe Goss, called himself champion of the middleweights, and disputed the paper's account of the Rocky Moore and Rooke fight.",
+    focus: "primary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights", "Profiles"]
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -6477,15 +6475,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1876-05-31",
-    title: "Taylor and George Rooke Have Street Altercation",
+    title: "Taylor and Rooke Match a Fight in the Goss-Allen Ring",
     localCopyEdited: "images/articles/image-558.jpg",
     localCopyFull: "images/articles/image-558b.jpg",
     id: "558",
     text: "| Don’t Balance.\n\n| Boston, May 31.—Ata meeting of the\n\n_ creditors of the suspended clothing house\n\nof Beard, Moulton & Co., the liabilities\n\n| were announced as $221,357, and the as-\n\n| sets as $213,742, with endorsed Liabili-\n\n' ties amounting to $13,974. c\n——— st\nAnother Prize Fight.\n\nFrom the N. Y. Sun of Yesterday. ]\n\n“Steve” Taylor and George Rooke\nhave not, since their recent encounter\nwithout gloves, been on the best of\nterms, and, meeting in East Houston\nstreet yesterday, they had an exchange\nof blows. Then they made a match to\nfight for $1,000 a side in the same ring\nin which Joe Goss and Tom Allen will\nmeet.",
-    summary: "St. Louis Post-Dispatch reported that Steve Taylor and George Rooke had an exchange of blows on East Houston street.",
+    summary: "The St. Louis Post-Dispatch reprinted a New York Sun item that Steve Taylor and George Rooke had traded blows on East Houston Street, then made a match for $1,000 a side in the same ring where Joe Goss and Tom Allen would meet.",
     focus: "passing",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -6997,15 +6996,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1877-09-28",
-    title: "Life in St. Louis Police and Local News",
+    title: "Stakes Posted for Allen's Fight With Tompkins Gilbert",
     localCopyEdited: "images/articles/image-598.jpg",
     localCopyFull: "images/articles/image-598b.jpg",
     id: "598",
     text: "LIFE IN ST. LOUIS.\nDashes Here and There by Dispatch\nReporters.\n\n—H.H.\n\n—Police pay-day looms up.\n\n—This is the 271st day of the year.\n\n—Twice 40 is 80 and twice 41 is 80 too.\n\n—The slop contract investigation drags.\n\n—Old Sol warmed up to his work to-day.\n\n—It ia time to thing of gobbling tur-\nkeys.\n\n— Hart’s helmets.\n\n—Mushrooums are on the fashionable bills\not fare now.\n\n—The Chinese question—You habee\nshortee washee?\n\n—Another talk last night over the Acad-\nemy of Music project.\n\n—Hart, hatter, Fifth and Chestnut.\n\nWren g coy Norton will be the star next\nweek at the Opera-house.\n\n— Business brisk, items scarce and cock-\ntails fifteen cents as usual.\n\n_—Night watchmen are having beautiful\nnights for their lonely walks.\n\n_—Another meeting of the Board of Pub-\nlic lmprovements on Monday.\n\n—The sight of a pie wagon makes the\nheart of a school boy ‘‘paip.’’\n\n—Mrs. Brigham Young—one section of\nher will lecture here this winter.\n\n—Good nights for tired nature’s sweet\nrestorer, balmy sleep, so called.\n\n—Giving a bootblack twenty-five cents\nfor a ‘*shine’’ is one way to exercise char-\nity.\n\n—One of the advantages in being a negro\nis, that the color of your nose doesn’t give\nyou away.\n\n—Tice says that if it does not rain next\nSunday there’ll be good weather during\nFair week.\n\n—Elegant new designs in solid silver\ncombs. Mermod, Jaccard & Co., Fourth\nand Locust.\n\n—An excursion party of 400 St. Joeites\nwill reach here next Tuesday murning to\ndo the Fair.\n\n—The doctors are ‘‘kicking”’...",
-    summary: "St. Louis Post-Dispatch published dispatches covering local police and community news.",
-    focus: "passing",
+    summary: "The St. Louis Post-Dispatch reported that all \u00a3100 of stakes had been posted for the fight between Tompkins Gilbert, champion of England, and Tom Allen, champion of America, to be fought in the London district on October 29 under the new London Prize Ring rules.",
+    focus: "primary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights", "Challenges"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -7062,15 +7062,16 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1877-12-09",
-    title: "National League Baseball Blunders",
+    title: "Sporting Column Headed \"Tom Allen Again Matched\"",
     localCopyEdited: "images/articles/image-603.jpg",
     localCopyFull: "images/articles/image-603b.jpg",
     id: "603",
     text: "”\n* PLAYED,\n. o\nThe National League of Professional\nBase Ball Clubs.\nOne or Two of the Many Blunders Com-\nmitted at Cleveland.\nWhy the St. Louis Club Dropped Out of the\nRanks.\nThe Wonderful Sagacity of Chesapeake\nBay Dogs.\nTom Allen Again Matched—The Turf—_\nSporting Sundries,\n1\nThe third annual meeting of the Nationa\nLeague of professional base ball clubs is over,\nand the work accomplished has been fully de- |\ntaued inthe telegraph. coiumnsof the GLoBpE-\nDeMOvRAT. Summarized it was as fellows: Bos-\nton was awarded the championsiip; ali games\nplayed by the Cifcinnatis during the past season\nwere thrown cut of the championship record;\nthe formal resignation of its membership in the\nLeague bythe St. Louis Clob was aecepted; the\nCincinnati, Milwaukee and Indianapolis Clubs\nwere admitted to membership; League clubs\nand players were prevented from playing\nball on Sunday under penalty of expulsion ;\nthe championship season was fixed at 8jx\nmo.ths, from May 1 to November], and clubs will\nnot be allowed to play exhibition games before the\nBeRSOD upens; the expulsion vi Hall, Devlia,\nNicholls and Oraver by the Louisville club was\nconfirmed ; in scoring, the obnoxious section pro-\nViding for tolal buses, was stricken out and an\nequally nonsensical section iaseried, providing\nfoc times reached rst base; slight\nchanges were made in the playing rules; a new\nTule was adcpted for the selection of umpires,\nand the powersand duues ef these geniiemen\nwere dened. Afew masters of trivial im...",
-    summary: "St. Louis Globe-Democrat article about baseball errors and the St. Louis Club, not related to Tom Allen.",
+    summary: "A St. Louis Globe-Democrat sporting column on the National League baseball meeting and the turf, whose headings announced \"Tom Allen Again Matched.\"",
     focus: "passing",
     tier: "1",
-    not_tom: true
+    not_tom: false,
+    tags: ["Challenges"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -7101,15 +7102,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1878-03-05",
-    title: "Miscellaneous Sporting Notes",
+    title: "Stakes Down for Allen's Glove Match With Charley Davis",
     localCopyEdited: "images/articles/image-606.jpg",
     localCopyFull: "images/articles/image-606b.jpg",
     id: "606",
     text: "Miscellancous.\n\nSteve O’Rielly, alias ‘‘Seddons Mouse’’ will\nbe *‘off for Boston’’ shortly.\n\nProf. Woods had reached Omaha, Neb., en\nroute to San Francisco, Cal., Feb. 21.\n\nGeo. Murray won first place in the Montreal\nSnowshoe Club's annual steeplechase.\n\nBilly Edwards and John Cash, Mike Coburn\nand Ned Mallahan, Gallagher and Jordan box-\ned at Gilmore's Garden, Feb. 23.\n\n_ Will. U. Lake was refused the privilege of at-\n_ tempting to walk 500 miles in 500 hours by the\nauthorities of Memphis, Tennessee.\n\nAt last advices, February 13, £50 a side was\ndown for the glove match for £100 a side and\nthe championship, between Tom Allen and\nCharley Davis.\n\nThe lifting match between Capt. A. I. Bo-\nsardus and Prof. William Miller, for $250 a\nside, isto take place at Gilmore’s Garden on\nMonday evening.\n\nDan McCarthy and Henry Fleming put on the\ngloves, in the East London Gymnasium, on\nFeb. 11. MeCarthy won in 2 hours 2 minutes\n2% seconds;31 rounds.\n\nChas. G. McPherson, of Leavenworth, Kan-\nsas, and Robert Watson, of Denver, Colorado,\nran 100 yards at the latter place February 23,\nMcPherson winning by a foot in 10% seconds.\n\nA grand pigion tournee will open at Wood-\nstock, Ont., 27th, and continue two days;\n$500 in gold will be offered in prizes, first day\nut lu rise; second day at 12 rise; exch entry to\nfurnish twenty-five birds; entrance $10, to\ncover both matches.\n\nA cocking main between New York and Con-\nnecticut birds was fought at a well-known spot\nin Westchester County, N. Y., on...",
-    summary: "St. Louis Post-Dispatch miscellaneous notes about various athletes.",
-    focus: "passing",
+    summary: "The St. Louis Post-Dispatch's sporting notes reported that \u00a350 a side was down for the glove match between Tom Allen and Charley Davis, for \u00a3100 a side and the championship.",
+    focus: "primary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights", "Challenges"]
   },
   {
     publication: "The St. Louis Republic",
@@ -7231,15 +7233,16 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1878-05-19",
-    title: "Professional Prizefighters Donovan and McClellan",
+    title: "Donovan and McClellan Fight in New York",
     localCopyEdited: "images/articles/image-616.jpg",
     localCopyFull: "images/articles/image-616b.jpg",
     id: "616",
     text: "THE FIGHT\nwas finally fixed for to-night, and tickets were\nsold at $10 each. About 200 brokers, aldermen\nand sporting men gathered in Monstrey’s sport-\ning establishment. There were three rows of\nbenches. Neura stage about fifteen by twenty\nfeet, at sides and rear of the stage, were foils,\nmasks, armor, boxing-gloves, etc. On the left\nof the room was a row of closets, and on top of\nthem was a single row of benches. There were\nbut two professional fighters in the audience,\nand they were adenitted with regular $10 tickets.\n| THR PRINCIPALS APPEAR.\n-— At 8:25 the applause was begun, and MeClel-\nIan and Donovan stepped on the stage. Johnny\n| Dwyer, who-is soon to fight Ryan, of Troy,\nfor the championship of the “world, and\nNed Mallahan, one of Joe Colburn's old-\ntime friends, were seconds for McClellan. Joe\nGoss, who fought Tom Allen in Kentucky, and\nwho won the fight through a foul invented by\nhimself, and Jerry Donovan were seconds for\nDonovan. Jim Coburn, Joe's brother, was\numpire for McClellan, and Andy Sheehan, for\nwhom .\nJOHN MORRISSEY\nhad a hearty dislike, was umpire for Don-\novan. Billy Borst, the horseman, was chosen\nreferee. All things being in readiness, time\nwas called, and the principals and seconds ad-\nvanced to the center of the stage and shook\nhands. Donovan was unquestionably in better\ncondition than McClellan, but the odds\nin the betting were in favor of the latter; the\nsudience were hushed for a moment, and then\nbang! bang! bang! and McClellan, driven...",
-    summary: "The St. Louis Globe-Democrat reported on professional prizefighters Michael Donovan and McClellan in a bout watched by New Yorkers.",
+    summary: "The St. Louis Globe-Democrat reported on a New York fight between Mike Donovan and McClellan. Among Donovan's seconds was Joe Goss, \"who fought Tom Allen in Kentucky, and who won the fight through a foul invented by himself.\"",
     focus: "passing",
     tier: "1",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -7946,15 +7949,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1882-12-12",
-    title: "Prize Ring News",
+    title: "Allen Fails to Appear for Elliott Match",
     localCopyEdited: "images/articles/image-671.jpg",
     localCopyFull: "images/articles/image-671b.jpg",
     id: "671",
     text: "CITY NEWS.\n\nTHE brilliant gala hohday store of the city\nthese days is D. Crawford & Co.’s, who show more\nChristmas novelties to the squire foot than all the\nother stores put together. buy your toys now,\nand on the second floor of this house, before the\nassortments get much broken.\n\nFOR A GOOD HAVANA CIGAR, RETAIL\nOr Wholesaie, go to P. Roddy, 422 Washington ave.\n\nSHE has the complexion of a peach. Pozzoni’s\n\nBiedicated Complexion Powder did it.\nDr. E. C. Chase,\ne2e Olive street. Set of teeth $8%\n\nDr. DINSrPEER removed to 814 Pine street.\nwhere he will dispense safe medicines, skillful\ntreatment and speedy cures for chronic disease.\n\nDr. WHITTIER. a reguiar graduate, 617 St.\nCharies street, as for twenty-five years, treats with\ninparalicied success, bleod impurities, impedi-\n\"oqnimtoe marriage, nervous prostration, debility—\ndiseast= from indiscretion, excesses, exposure, In-\ndulgenceX\\ Moderate eharges; safely, confiden-\ntially; advice free. MARRIAGE GUIDE, 260 pp.,\npealed, by mail 25 cts.; pamphietfree. Treatment\n\ny mail, express or boat.\nSporting Sundries.\n\nThe arrangement of the championship\nschedule of games is causing considerable\nfiscussion among the clubs of the American\nAssociation. Many are in favor\nof playing ‘sixteen games with\npach of the other seven clubs, or 119\n\names for each club during the season.\nfiorace B. Phillips, manager of the Colum-\n\nus team, has a new Feng be which he bas\nas completed, and which he will submit to\n\nhe association, at its annual...",
-    summary: "The St. Louis Post-Dispatch mentioned Tom Allen in connection with boxing matters.",
-    focus: "passing",
+    summary: "The St. Louis Post-Dispatch reported that Tom Allen failed to appear in Chicago to make preliminary arrangements for a championship prize fight with James Elliott, though Elliott and his backer were on hand.",
+    focus: "primary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Challenges"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -7972,15 +7976,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1882-12-15",
-    title: "Article does not mention Tom Allen",
+    title: "Allen Will Fight the Winner of Sullivan and Elliott",
     localCopyEdited: "images/articles/image-673.jpg",
     localCopyFull: "images/articles/image-673b.jpg",
     id: "673",
     text: "| SPORTING SUNDRIES.\n\nBase Ball Association—Contracts—Gen-\n\neral News and Gossip.\n\n_ The meeting of the American Base Ball\nAssociatiou closed at New York yesterday.\nThe vote declining to confer with the League\ncommittee was reconsidered yesterday, Cin-\neinnati and St. Louis still voting\n‘against it. A committee was ap-\n‘pointed and a conference will soon\ntake piace. A report from the St. Louis club\nexpelling Denny, Radbeurne, Whitney and\nRowen for breaking their contracts with the\nSt. Louis team, was considered, and the ex-\npulsions aftirmed, save in the case of Rowen,\nwho was saved by a technicality. The bids of\nseveral ball makers were received and the\naward made to A. J. Reach, of Philadelphia.\nJohn 7 was reinstated to the\nranks 0 the asscciation and the\nbames of Galvin, Bennett and Williamson\nWere placed upon the black list. It was also\nagreed that each club visiting St. Louis\nwould have to play one Sunday game each\ntrip. The convention finally adjourned to\nmeetin St. Louis next March to average a\nschedule, :\n\nThe members of the Purcell Combination\nat New Orleans are leaving for home. Far-\nrel and Purceil ieft Tuesday evening, and\nFoley, MeGinnis, of St. Louis, and Brouthers\nleft by boat Wednesday evening, and will\naccordingly arrive inthis city about next\nTuesday. Flint, Gore, Williamson and Kelly\nwill remain in New Orleans for some time.\n\nAtelesram was received from Dubuque,\nIowa, last evening, announcing the fact that\nthe late right fielder of the Chieage Club...",
-    summary: "St. Louis Post-Dispatch article that does not mention Tom Allen.",
-    focus: "passing",
+    summary: "The St. Louis Post-Dispatch reported that Tom Allen did not appear at Charles E. Davies' place in Chicago to sign articles with Jimmy Elliott. Allen now said he would make no match until after the Sullivan-Elliott fight, then fight the winner with bare knuckles or gloves.",
+    focus: "primary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Challenges"]
   },
   {
     publication: "The St. Louis Republic",
@@ -8349,15 +8354,16 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1883-11-04",
-    title: "John L. Sullivan Arrives With Company",
+    title: "Sullivan Visits Allen's Saloon",
     localCopyEdited: "images/articles/image-702.jpg",
     localCopyFull: "images/articles/image-702b.jpg",
     id: "702",
     text: "Sullivan, the Pr'ze-Fighter, Exhibits\nHis Powers.\nEas 28 Ee\nAn East St. Louis Boxer Made an Example\n' Of—Sullivan as a Base Ball\nPlayer—Sporting Notes.\n\nJohn Lawrence Sullivan, the tamous pugil-\nist, with his company of siuggers, arrived at\nthe Southern yesterday morning. The party\nconsists of John L. Sullivan and wife, Herbert\nA. Slude, ‘‘the Maori,’’ Steve Taylor, Peter\nMcCoy, Mike Gijiespie, Frank Moran, J. Men-\nZin er. i ‘ {\n\nSullivan and Slade were of course the center\nof attruction, and hundreds of people gather-\ned around them wherever they went. Slade\nspent most of the duyin the hotel, but Sulli-\nvan with his manager, Al. Smith, and two or\nthree of his company visited several resorts of\nhe St. Louis sporting fraternity, Some time\nwas spent in Tom Kelly's and Ton Allen’:\nsaloons, on Market’ street, where a\nlarge crowd assembied to gaze admiringly\nupon the noted prize f| .-hter, who seemed en-\n‘irely indifferent to the attention he was re-\n-eiving. In Tom Allen’s place the party, with\n1 highly favored few, retired to a room and in-\ndulged in champagne, but Sullivan drank\nnothing. Acconipunied by President Von der\nAhe, the pugili8ts puid a visit to the bull park,\nwhere Suilivan will pitch in a game this ufter-\nnoon. The great slugger is iooking remark-\nably well and sxys be never felt better in his\nlife.\n\nHe still persists that he will never engage in\nAring fiviit, asthe risk of the Penitentiary is\n(oO grent, und he doesn’t want to be locked up\ntour or five years...",
-    summary: "The St. Louis Globe-Democrat reported that boxer John L. Sullivan arrived at the Southern hotel with his company.",
-    focus: "passing",
+    summary: "The St. Louis Globe-Democrat reported on John L. Sullivan's visit to St. Louis with his company. Sullivan spent time at Tom Kelly's and Tom Allen's saloons on Market Street, and at Allen's place the party retired to a private room for champagne, though Sullivan drank nothing.",
+    focus: "secondary",
     tier: "1",
-    not_tom: true
+    not_tom: false,
+    tags: ["Saloon"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -8594,19 +8600,6 @@ export const db = [
     not_tom: false
   },
   {
-    publication: "St. Louis Post-Dispatch",
-    sourceDate: "1884-07-03",
-    title: "Union Club Cup Race Entries",
-    localCopyEdited: "images/articles/image-721.jpg",
-    localCopyFull: "images/articles/image-721b.jpg",
-    id: "721",
-    text: "Se I a Rn i ee el\nA Tempting Layout of Picnics and Excur-\nsions—Enjoyabie Entertainments\n\nAdapted to all Sorts of Tastes\n\n—Complete List of the\nDay’s Doings at Home\nand Abroad. ;\n\nPatriotism pyrotechnics and picnics, promise to\nabound upon to-merrow, the one hundred and\neighth anniversary of the declaration of the coun-\ntry’s anility to paddie her own canoe withont as-\nsistance from the mother country or any other of\nthe effete monarchies of transatlantic lands. At\npresent all things promise to conspire im\nthe production a properly glorious\ncelebration of the great national anniversary.\nThere seemed to be but little fear that the coldness\nof the weather will cast a chill over the day's en-\njoyments. The state of the temperature will in ail\nlikelihood, be of the kind faverable to the produc-\ntion of giows of enthusiasm. Abundant prepara-\ntion has been made by the rising generation of\nvoters to do the day dne honor. At\n3 clock this afternoon there bo dene: A two\nboys who had failed to take out City ——,.\nive permits. Oneof them a — little Sunday-\nschool boy in Caronéelet, has decided to = his\nfirecracker money imto the missionary box; the\nother a ba-a-a-d, big boy on Biddie street who's “a\n\n* ter sot of all de crackers he wants ter, ’n dern\nde rmit ‘n the perleece too, an’ donchee fergit it.”\nPerhaps one of the great advantages to\nbe erived from attending “&  ficnic\nis the fact that when the suppiy of fire-crackers on\nhand gives out the main stock is sofar distant...",
-    summary: "St. Louis Post-Dispatch notice of race entries for the Union Club cup.",
-    focus: "passing",
-    tier: "1",
-    not_tom: true
-  },
-  {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1884-07-04",
     title: "Tom Allen and Kelly perform at Fourth of July celebration",
@@ -8631,19 +8624,6 @@ export const db = [
     focus: "secondary",
     tier: "2",
     not_tom: false
-  },
-  {
-    publication: "St. Louis Globe-Democrat",
-    sourceDate: "1884-07-05",
-    title: "Article does not mention Tom Allen",
-    localCopyEdited: "images/articles/image-724.jpg",
-    localCopyFull: "images/articles/image-724b.jpg",
-    id: "724",
-    text: "THE HURDLE RACE.\n\nFred Ward, nine yards; M. J. Murray,\ntweive yurce,. aoe A.B, Dyer, three yards,\nstarted t yards JTace. 1. Ward,\ntook the lead at the fire Maraten ornare Len\nmeusured his length on the track, carrying the\nbarrier with him. Murruy was closeto Wuard’s\nheels until the seventh hurdle, which he\nknoakéed down. Ward tmen siowed up, and\nOnished ab easy winner by two yards. Time\nnot taken.\n\nPOLE-LEAPING.\n\nWilliam Miller won the poie-leaping prize,\nclearing ten feet six inches. Sinclair, who was\nthe oniy competitor, could not raise over the\nlowest INark. :\n\nLIGHT- WEIGHTS.\n\n- John Roach and Tom O’Dornell were the\nfirst pair to uppexr in the ring, It was a bam-\nmer and tongs affair, in whici)Q’ Dounsil was\nfinished in less than a round. . After being\ntorced ugainst the ropes twice he asked to have\nhis gloves taken off.\n\nThe second pair were Charles Hughes and\nDan Russell. The latter wore a yreen beit\nfrom which dangled a set of colors and his an-\ntics were of sucha grotesque character that\nthe crowd fuirly roared while he wus in the\nring. He posed first with one guurd and\nthen with another, stood =  struight as\nan arrow and manifested a high idea of\nstyie, He was un @sthetic boxer. Hughes,\n@ well-built fellow, without much style or\nscience, was a business-like boxer, and di-\nrected his attention to Rassell’s ribs. In two\nrounds he. knocked ail the sys out of that\ngentleman, and in the third @ him at his\nmergy. While the bout, De eprom Aller.,\nwith um umbrella over his...",
-    summary: "St. Louis Globe-Democrat article that does not mention Tom Allen.",
-    focus: "passing",
-    tier: "2",
-    not_tom: true
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -8679,10 +8659,11 @@ export const db = [
     localCopyFull: "images/articles/image-727b.jpg",
     id: "727",
     text: "A Promising Fighter.\n\n_ Jimmy Carroll, who disputes the light weight\nchampionship of New England with Billy Frazier,\nhas whipped a two hundred pounder named Mike\nScully,in a bare knuckle fight near Chicopee,\nMass. A Holyoke, Mass., eye-witness of the *‘mili”\nwrites: “You set it down that Carroll is a fighter,\nI saw Joe Goss and Tom Allen do battie and was at\nFarnsborough and saw Heenan fight Sayers and\nhave seen some of the best ones. I never have\nseena little man however, that with the bare\nknuckles could fight cooler or punish quicker than\nCarroll. I have seen hiny with the gloves on but he\nis a hundred per cent better with the bare knuck-\nles. A gamerandcleverer man than he proved\nhimeeif against Scully I have never seen. To\nwhip him you’ve got to send him to sleep.’\nCarroll is a Londoner by birth, thirty\n\nears cf age, and in condition weighs 130 pounds.\n\nHe bas an old country record of four winning prize\nring fights, one of them of 102 rounds avainst Ned\nMoore of Sheffield, England,}in August, 1875. Moore\nweighed 176 pounds and Carroll 122 pounds. Moore\nfought till his eyes closed and he couldn't see. Car-\nroll landed in this country July 22, 1877. He has had\ntwo glove fights with Bil:y Frazier—one of eigat\nrounds at FE» omwdy Mass., and another, a six-round\ndraw, atthe Cribb Club, Boston. He claims that\nFrazier stopped in the Amherst contest, but Frazier\ndenies this, but when Carroil posted $100 for. a con-\ntest to be decisive of the New Englaud champuion-\nship. Frazier...",
-    summary: "St. Louis Post-Dispatch reported on Jimmy Carroll's bare knuckle victory over Mike Scully in Massachusetts.",
+    summary: "The St. Louis Post-Dispatch reported on Jimmy Carroll's bare-knuckle win over Mike Scully in Massachusetts. An eyewitness who had seen Joe Goss and Tom Allen fight said he had never seen a little man fight cooler or punish quicker.",
     focus: "passing",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights"]
   },
   {
     publication: "The St. Louis Republic",
@@ -8699,29 +8680,17 @@ export const db = [
   },
   {
     publication: "St. Louis Globe-Democrat",
-    sourceDate: "1885-10-06",
-    title: "Tom Allen wins harness horse gelding competition at fair",
-    localCopyEdited: "images/articles/image-729.jpg",
-    localCopyFull: "images/articles/image-729b.jpg",
-    id: "729",
-    text: "a ;\n\nlargest of fowls ever shown in this\n\ncountry. . at\nAMPHITHEATER.\n\nFirst Day—Monday, October 5, 1885.\n\nThis department is under the management\nof Messrs. Julius S.\\Waish and ape gat\ntin, The first day of the Fair is always re-\ngarded as children’sday, and the seats were\n-well filled with young America. The pro-\ngramme consisted of saddle horses, style,\naction and speed considered; riding by boys\nunder 4 years of age, om ponies under 14\nhands; Nght-harness horses and a saddle-mule\nrace. Postlewaite’s band announced the\nopening, and the first exercises on the pro-\ngramme commenced with\n\nSADDLE HORSES. :\nStyle, Action and Speed Consideredi\n\nBest stallion—ist premium, $75; 2d, $40.\nThis brought tothe arena a most excellent col-\nlection of saddle stallions; among then: were:\nArtisan, Rex Denmark, Walker Denmark,\nMoss Rose, Black Squirrel,Charley and Happy\nSam. “This was avery fine exhibition, and\nall performed admirabiy. The first award of\nthe week and of the Fair went to the stylish\nstallion Montrose, by Denmark, owned by\nCrosswaite & Patton, of Sturgeon, Mo. The\nsecond to Moss Rose, by Montrose, belonging\nto Clark & Potts, of Mexico. Mo. Montrose is\nthe sire of Moss Rose, so that father and son\ncapt ured the two ribbons,\n\nBest zélding—Ist premium, $75; 2d, $40. This\nwas a very handsome display of saddle geld-\nings; prominent among them were: Frank\nC., Joe Parker, Morrey, Black Henry, Wood-\nlake, Lightning, Billy Denmark, Oscar Wilde,\nJesse James and Dave. The blue ribbon...",
-    summary: "The St. Louis Globe-Democrat reported on St. Louis Fair competitions, noting that a harness gelding named Tom Allen, owned by Hart and Forbes of Elvira, Ohio, won the blue ribbon in its class competition.",
-    focus: "passing",
-    tier: "2",
-    not_tom: true
-  },
-  {
-    publication: "St. Louis Globe-Democrat",
     sourceDate: "1885-11-26",
-    title: "Death of Billy Carroll, Sporting Man",
+    title: "Death of Billy Carroll, Once Allen's Backer",
     localCopyEdited: "images/articles/image-730.jpg",
     localCopyFull: "images/articles/image-730b.jpg",
     id: "730",
     text: "Death of ‘‘ Billy’? Carroll.\n\n**Billy’’ Carroll, a prominent and well\nknown sporting manot this city, die’ at his\nresidence, LM Chestuut street, carly pester\naay mMiorning. The deceasead sas Known as a\ngreat admirer of pugislistic people, and ran\nexcursions to all the Gghts that occurred in\nthis vicinity. He was a backer of several\nprize Gghters, among them being Tom Allen.\nwhom he backed at one time against\nJem Mace for 5H. a side. He\nhas ran saloons ia several cities\nin the West, and bas also engaged quite «x-\nteosively iu the song and cance hall Ouse!\nness, as Weill as conducting ak shaetionn.\non the read. [le opened several fona",
-    summary: "St. Louis Globe-Democrat reported the death of Billy Carroll, described as a prominent sporting man.",
+    summary: "The St. Louis Globe-Democrat reported the death of Billy Carroll, a St. Louis sporting man who ran excursions to local fights and once backed Tom Allen against Jem Mace.",
     focus: "passing",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Profiles"]
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -8869,15 +8838,16 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1887-10-23",
-    title: "Description of Man With Unusual Hand Carriage",
+    title: "Recollections of a Fighter Even Allen Feared",
     localCopyEdited: "images/articles/image-742.jpg",
     localCopyFull: "images/articles/image-742b.jpg",
     id: "742",
     text: "————\n“OLD SHERMAN THURSTON.”\n[| |\nIncidents in the Life of the Rough-\n} :\nand-Tumble Champion.\nA Man Who| Was Never Whipped in a\nFight, Yet Was, Withal, as Mild-\nMannersd as a Parson—Some\nStaries About “Old -\n|* Sherm.’’ |\n\nYesterday afternoon, at Fremont, Neb.,\nSherman Thurston was given his 6 feet of\nearth. He was the most fearless man that\never lived. He was not given to ‘‘sclence,’’\nand never stood up in a ‘‘ring’’ to pound\nanother man’s/face into a jelly, and aspire to\na ‘*knock-out. 1 Yet he never was whipped.\nHe fought like the man of old, with his\nhands, feet, body and teeth. He was a\nadie or enka te fighter,’’ and held the\ntitle of ‘‘chief’’ during a |stormy career,\nwhich ended last Tuesday in a Chicago hos-\npital, when he, Nke all men who have been\nphenomenally |developed, went to pieces ail\nat once, like ‘‘the Deacon’s one-horse shay.’’\nHe died of paralysis, the fate of most ab-\nnormal athletes, |\n\nFrom St. Paul to New Orleans Thurston will\nbe remembered asa man built on the oval,\nform. From the top of the head, a dis--\ntinguishing feature of which’ was a broad and\npleasant smile, giving a good-natured air to\na face, sadly sdamed by small-pox, he shaped\ndown to a pair of shoulders that were any-\nthing but square. Across the hips he was\nvery broad, and from that line he tapered to\na pair of feet that were small enough for a\ndandy of the old days of tight boots and high\nheeis. |\n\nHad it not hp ee for @ habit he had of carry-\ning his hands free fromi his body and...",
-    summary: "Description of a man whose manner of carrying his hands and body would suggest he was a good-natured businessman.",
+    summary: "A St. Louis Globe-Democrat column of sporting recollections about a recently deceased fighter. It said he had been wrongly written up as Tom Allen's trainer, and that Allen was always afraid of him.",
     focus: "passing",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Profiles"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -8999,15 +8969,16 @@ export const db = [
   {
     publication: "The St. Louis Republic",
     sourceDate: "1888-04-03",
-    title: "Sweeney Teaches Heavyweight Fighters",
+    title: "Hogan's Old Trainer Recalls the Allen-Hogan Fight",
     localCopyEdited: "images/articles/image-752.jpg",
     localCopyFull: "images/articles/image-752b.jpg",
     id: "752",
     text: "BEN HOGAN’S OLD TRAINER. |\nJohn Sweeney, an old boxer and the man |\nwho brought out Ben Hogan, is stopping over\nin the city forafew days. ‘ ‘Hogan was per- |\nforming feats of strength when I first met.\nhim,’’ said Sweeney. ‘‘He was a good,\nstrong man, but lacked cleverness. J taught\nhim how to use his hands, and he fought two.\nheavy-weights and defeated them. Then |\nhe made the match with Tom Allen,\nHe put up $1,000 of his own money and I |\ntrained him forthe fight. It is true that the\ntoughest gang that ever surrounded aring |\nwas at the Allen-Hogan fight. They were\ncutters and shooters and they were deter- |\nmined to give Allen the worst of it. Thenl\nwanted to save Hogan’s $1,000 and I watched\nclose for fouls. Allen was a great body-flghter\nanda man who fights continually for the\nbody will get below the belt. There were two\nrounds of red hot fighting. Then Hogan,who\nwas forcing things, led for Allen, who ducked\nand sent hisright into Hogan’s stomach. I\nclaimed ‘‘foul’’ and appealed to Bill Riley,\nthe referee. The crowd cut In the ring and\npulled knives and revolvers on Alen and his\nhis seconds. The referee declared ita draw.\nThat was Hogan’s last fight. Hie is now\npreaching and Is sincere in his work. I hada\ntalk with bim in Chicago not long ago and he\nis Just as enthusiastic in his religious work as\nhe was ten years ago.’”’",
-    summary: "Story about Sweeney training a strong man in boxing techniques.",
-    focus: "passing",
+    summary: "John Sweeney, who trained Ben Hogan, told The St. Louis Republic about Hogan's fight with Tom Allen. He described the armed crowd, his claim of a foul when Allen hit Hogan low, and the referee's draw after the crowd cut into the ring with knives and revolvers.",
+    focus: "secondary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights"]
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -9675,15 +9646,16 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1890-12-14",
-    title: "Buffalo Meat Market Story",
+    title: "Hugh McManus on Coburn and Mace",
     localCopyEdited: "images/articles/image-804.jpg",
     localCopyFull: "images/articles/image-804b.jpg",
     id: "804",
     text: "below and make it as soiubie as soap, and\nio a few nours all will pass away. This\nbeats trying to thaw outa iead pipe with a\nred-hot poker, which process is equivalent\nto killing @ Man to avoid hurting him. A\nlead pipe will melt under such circum-\nstances Defors enough heat can be got\n—eeen is to Gissoive ice if there is any\n\nTix FaRRELL—A man in the game business\nis constantly reminded of the rapia manner\nin which the West has settied and Is settling\nup. Just after the war puffalo meat was\nalmost a drug on the St. Louis market, and.\nI remember, in‘1870 five buffalo came in\nfrom the far West. We coula do nothing\nwith ss ey but at last founa a’ man at New\nYork, by ald of the telegraph, who consent-\ned to take them at a iow figure. He pala\nenouglto cover the freight from here East,\nbutif |the shipper had let the carcases rot\non the piains he would have come out better\nthan he did, Now, of course, buffalo meat\nis a thing of the past. With bears it has\nbeen the same, and, tojjump from beasts tu\nbirds, the processjof extermination or ariv-\ning away seems to have extended to prairie\nchicken. Not many years ago Southern Ill-\ninols supplied all demands easily. Then we\nhad to go to Southern Kansas and then\nfurther West. Now the Indian Territory is\nhelping out, though the shipments from\nOklahoma do not come up to expectation.\nSt. Louis is getting too near the center of\ncivilization to be the center of.a great game\ncountry, as it was when many of the com-\nparatively young men you. meet...",
-    summary: "An article about the St. Louis buffalo meat market in 1870 with no connection to Tom Allen.",
+    summary: "In a column of local conversation in the St. Louis Globe-Democrat, Hugh McManus recalled how Jem Mace's party tested Joe Coburn against Joe Goss, Tom Allen and Bill Rayne before the 1868 Mace-Coburn match.",
     focus: "passing",
     tier: "1",
-    not_tom: true
+    not_tom: false,
+    tags: ["Profiles"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -9701,15 +9673,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1891-01-08",
-    title: "Prize Ring News",
+    title: "St. Louis Sporting Men Head to the Dempsey-Fitzsimmons Fight",
     localCopyEdited: "images/articles/image-806.jpg",
     localCopyFull: "images/articles/image-806b.jpg",
     id: "806",
     text: "THE RING.\n\nTem McGregor,the St. Joe Kid, who has\nspent so much of his time in St. Louis for the\npast year or so, is now in Galveston and has\nput up $100 with E. T. Dodds, manager. of the\nGaiveston Athletic Club, io fight either\nArthur Upham or P.J.Pitzlin. It is ex-\npected the club will offer a purse for the\nfight in case a match ismade. McGregor\nhas sent to the Police Gazette the following\ncharacteristic letter:\n\nGALVESTON, Tex., Jan. 1, 1891.\nRichard K. Fox: ;\n\nI see that Prof. P. J. Pitzlin is itching for a\ngo with Jack Dempsey. I Know it is all to\nswell Pitzlin, but I will bet a thousand to a\nhundred that he will itch for many days after\nif he ever should be so unfortunate as to run\nagainst Dempsey. I have one hundred up\nwith E. T. Dodds, manager of the club, to’\nfight Pitzlin for any amount from a broken |\nCigarette up to any amount he can rake,\nscrape, beg or borrow. He claimed he fought\nand defeated me in three rounds, which\neveryone in St. Louis knows is _ the biggest\nuntruth he ever told in his life. The only way\nhe would fight was for me to split the money\nwith him, win or lose, so lI think itis no more\nthan right for meto be heard in the Police\nGazette. Respectfully yours, .\n\n| L. S. MCGREGOR, St. Joe Kid.\n- The Philadelphia papers passed over with\n-twoorthree lines of commenta four-round\nbout that took place atthe Philadelphia A.\nC. last Wednesday night between Billy Dacey\nof this city and Waiter Campbell, the boxing\ninstructor of the Athletic Club of the...",
-    summary: "The Philadelphia papers passed over two or three lines of comment a four round bout that took place at the Philadelphia A. C.",
+    summary: "The St. Louis Post-Dispatch reported that Tom Allen, Tom Kelly, the Daly and McManus brothers and other local sporting men were preparing to attend the Dempsey-Fitzsimmons fight in New Orleans.",
     focus: "passing",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Fights"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -9740,15 +9713,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1891-01-17",
-    title: "Carroll Never Had Chance to Win",
+    title: "Jack King Puts Up Money With Allen to Fight Boden",
     localCopyEdited: "images/articles/image-809.jpg",
     localCopyFull: "images/articles/image-809b.jpg",
     id: "809",
     text: "PENDRAGON ON COBURN.\n<= Se :\nTHE ENGLISH SPORTING WRITER DIS-\nCUSSES THE DECEASED PUGILIST.\nJack McAuliffe and Billy Myer Matched—\nThe Association Again Put Into the\nSoup by the National League—Sporting\nNews in General.\n\nHenry Sampson, whoas Pendragon of the\nLondon Referee has a world-wide reputation\nas a writer in pugilism, reviews the late Joe\nCoburn as follows:\n\n**In the course of last week two old-time\nfighting men passed away, Harry Poulson\nand Joe Coburn, the one an Englishman and\nthe other an American. Isuppose it is cor-\nrect to say that Joe Coburn was an American.\nHe was always an American, and very much\nan American, asa fighting man; as a matter\nof absolute nationality he was born at\nArmagh, in the now more than ever\ndistressful country, somewhere about fifty-\nsix or fifty-seven years ago, and was, at the\nbeginning of the hegira which took place\nshortly afterward, transported to the land of\nthe star-spangled banner. Thereis not much\nopportunity of knowing exactly what class of\nfighter Coburn was, and whenhe came over\nhere with the expressed intention of fighting\nMace, who was then champion, the men did\nnot get into the ring, and, sofar as I know,\nCoburn never showed his form even with the\ngloves in this country. The conditions\nof the match with Mace were\nthat it should be for £500 a side, the\nbattie to be fought in Ireland, and Coburn\nwas to receive £100 for traveling and other\nexpenses. Coburn received his £100, but on\nhis arrival in Dublin, where the high...",
-    summary: "St. Louis Post-Dispatch reported on a boxer named Carroll who was outclassed by a New Yorker.",
+    summary: "In a letter to the St. Louis Post-Dispatch, Jack King said he had $50 in Tom Allen's hands to fight Mike Boden in any style Boden chose.",
     focus: "passing",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Challenges"]
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -9831,15 +9805,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1891-03-16",
-    title: "Mrs. Woodworth Temple Announcement",
+    title: "Revival Preacher Was Once a Boy Fighter Backed by Allen",
     localCopyEdited: "images/articles/image-816.jpg",
     localCopyFull: "images/articles/image-816b.jpg",
     id: "816",
     text: "MRS. WOODWORTH’S TEMPLE.\nThe Lady Evangelist Again Agitates the\nRaising of Money.\n\n- Last night Mrs. Woodworth announced\nfrom the pulpit her intention of building her\nproposed temple in this city, and urged those\n\nhaving made donations to pay in the\namounts, as she desired to purchase the lot\nas soon as possible.\n\n‘*We must havea house of worship in St.\nLouis at all hazards,’’ said Mrs. Woodworth,\n‘‘and when we get a lot the securing of funds\nto erect a permanent structure will be more\neasy, as the people will see that we are thor-\noughly in earnest, and be more willing to\nmake donations.\n\n| Rev. Wm. Jones, pastor of the Floating\nBethel of Cincinnati, a reformed sport and\nsailor, preached for Mrs. Woodworth last\nnight and will do soagain. Mr. Jones tellsa\nstory of his Mfe that rivals that of Francis\nMurphy. At the age of 16 he was\na prize fighter, being backed as\na boy wonder inthe ring by Tom Allen of St.\nLouis. Heafterwards became a sailor and\ndeveloped the usual tendency of people so\nemployed for strong drink. He was arrested\nand locked up thirty-nine times by the police\non various offenses. Several years ago he\nreformed and has since been working among\nthe poorer classes in Cincinnati. Rev. Jones\nis a forceful, though not learned talker, and\nthinks that Mrs. Woodworth is a wonderful\nworker. He will probably go back to Cincin-\nnati Tuesday.\n\nRev. H. H. Spiherof Springfield, Ill., who\nhadso much success in preaching for Mrs.\nWoodworth last week, is expected to return\nthe...",
-    summary: "St. Louis Post-Dispatch reported Mrs. Woodworth announcing her intention to build a temple in the city.",
+    summary: "The St. Louis Post-Dispatch reported on Mrs. Woodworth's plans for a temple. Visiting preacher Rev. William Jones of Cincinnati had been a boy prize fighter backed by Tom Allen of St. Louis.",
     focus: "passing",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Profiles"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -10416,15 +10391,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1892-09-15",
-    title: "Analysis of Muscle Condition and Injury",
+    title: "Allen Hurt After Being Thrown From His Buggy",
     localCopyEdited: "images/articles/image-861.jpg",
     localCopyFull: "images/articles/image-861b.jpg",
     id: "861",
     text: "-.- Ste Zonis Bost-\nSS\na ee na\ntreatment forthe }j list, and put the best\nmasseur in the ote work on him. Peptic\nular attention was directed to the massaging\nof muscles of jaws and neck. The mucles at\"\nthe napeof the neck were given particular\nattention, and here we found rouleaux of\nfat, all of which could have been easily\nremoved oy Scientific treatment while in\ntraining. The muscies of the back and\nabdomen, and more particularly those\nof the buttocks, were in the\nsame lax and adipose condition. The\nmuscles of the leg were in considerably bet-\nter tone than those of any other — save\nthose of the chest. The loose rolls of fat\nwhich rested upon, and in all probability ran\nbetween the muscles of the abdomen back\nand buttocks, added to the difficult task\nwhich they were called upon to perform in\nthe hour of battle. While a portion of the\nadipose tissues- Were removed during his\neight weeks of training, still this was not ac-\ncomplished in such a way as to strengthen\nhis muscular pa Instead, the methods\nemployed e usted his entire muscular\nsystem. It could not have had any other\neffect. There is no doubt that while the will\npower of Sullfvan is great the muscles in this\ncondition would be almost totally unable to\nrespond, and could all the more readily be\ninjured by hard blows.’’ «\n\nPUGILISTIC POINTERS.\n\nThere is to be a consignment of English\neal to these shores erelong. Jim Burge,\nwho beat Jem perme? wantstotry our Jack\nMcAuliffe, as does Harry Overton, another\nBritisn pug....",
-    summary: "St. Louis Post-Dispatch article about muscle physiology and boxing injuries.",
-    focus: "passing",
+    summary: "Among pugilistic notes, the St. Louis Post-Dispatch reported that Tom Allen had been confined to bed since being thrown from his buggy during his afternoon drive when his horse became uncontrollable.",
+    focus: "primary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Personal life"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -10854,19 +10830,6 @@ export const db = [
     focus: "primary",
     tier: "1",
     not_tom: false
-  },
-  {
-    publication: "The St Louis Republic",
-    sourceDate: "1893-12-23",
-    title: "Tom Allen editor marries in Missouri",
-    localCopyEdited: "images/articles/image-895.jpg",
-    localCopyFull: "images/articles/image-895b.jpg",
-    id: "895",
-    text: "OKANGE BLOSSOMS,\nAllen—Frymire.\nSpecial to The Republic,\n. Luresvitnte, Mo., Dec. 21.—Tom Allen,\neditor of the Marble Hill Press, and Miss\nFioe Frymire, daughter of the Probate Judge\nof Bollinger County, were married in the\nChristian Church at this place to-night at\n7:30 o’ clock by Rev. F. L. Moore of Mine\nLa Motte, Mo. A reception at their home\nfollowed the wedding.\nA St. Louis Student Married.\nSpecial to The Republic.\n\nCLARESVILLE, Tenn., Deo. 21.—Holmes\nStrayer of St. Louis, a student here at the\nSouthwestern Presbyterian University, and\nMiss Hattie Lee Yancy, daughter of Thos,\nL. Yenoy, 8a prominent attorney, wore\nmarried last evening at tho Presbyterian\nChurch.",
-    summary: "Tom Allen, editor of the Marble Hill Press, was married in Lutesville, Missouri. The St Louis Republic reported the wedding of Allen and Miss Floe Frymire.",
-    focus: "passing",
-    tier: "1",
-    not_tom: true
   },
   {
     publication: "The St Louis Republic",
@@ -11300,15 +11263,16 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1896-05-03",
-    title: "Death of Fred Watkins, St. Louis leather businessman",
+    title: "Death of Fred Watkins, Once Allen's Backer",
     localCopyEdited: "images/articles/image-929.jpg",
     localCopyFull: "images/articles/image-929b.jpg",
     id: "929",
     text: "Death of Fred Watkins.\n\nAfter a brief illness, Fred Watkins, one of\nSt. Louis’ widest-known citizens, died Fri-\nday night from an apoplectic stroke, super-\ninduced by a clot on the brain. Watkins\nwas in his 59th year. He was a member of\nthe wholesale hide and leather firm of Wat-\nkins & Lieber. |The decedent was a native\nof Birmingham, England, but he came to St.\nLouis in ides. His brother was then in the\nleather business here; and after a time they\nentered into partnership. Leonard A. Wat-\nkins, Fred's brother, afterward went to\nDenver, Colo. He died recently and his\nfamily are expected to arrive here to-mor-\nrow. Another brother, Father Jeffrey\nXavier, of the Christian Brothers’ College,\nat Memphis, is expected to reach here to-\nwef when the funeral arrangements will be\nmade.\n\nFred Watkins was a graduate of Trinity\nCollege (England). He was an enthusiastic\n<4 Be arnae and “backed” Tom Allen when\nthe latter was champion pugilist of the\nworld. His was a familiar figure at the\nringside at most of the bie pugilistic con-\ntests in America during the last quarter of\nA century.\n\nDrs. Powers and W. F. Kier attended the\ndeceased before his death. Watkins had\nbeen found seriously ill in his room Friday\nmorning, but death did not come until\ntwelve hours later. S",
-    summary: "The St. Louis Globe-Democrat reported the death of Fred Watkins, a prominent leather merchant from Birmingham, England. The article noted he had backed Tom Allen during Allen's heavyweight championship career and was a familiar figure at major pugilistic contests.",
-    focus: "secondary",
+    summary: "The St. Louis Globe-Democrat reported the death of Fred Watkins, a St. Louis leather merchant from England who backed Tom Allen when Allen was champion and was a familiar figure at ringside.",
+    focus: "passing",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Profiles"]
   },
   {
     publication: "The St. Louis Republic",
@@ -11612,15 +11576,16 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1897-02-24",
-    title: "Tom Allen and Joe Goss to Fight for Championship",
+    title: "Corbett's Trainer on Dixon's Critics",
     localCopyEdited: "images/articles/image-953.jpg",
     localCopyFull: "images/articles/image-953b.jpg",
     id: "953",
     text: "| '. Checker Experts to Meet. |\nAll persons interested in. the game of\ncheckers are cordially invitedgto be present\nat the engine house, Seventh street and\nFranklin avenue, to-night, at 8 o’clock,\n| where the organization of the new St. Louis\nChecker Club will be completed. All the\nleading players of the city will be present,\nand some very fine exhibitions may be\nlooked for. Those not able to attend may\nlearn att pes ticaans by addressing J. D. Mc-\nGinnis, Chestnut street.\nCycling Chat.\n\nW. W. Hamilton, Denver’s fast rider, wi this\nyear follow the circuit as a pacemaker.\n\nAt the coming Omaha cycle show one of the\nattractions will be a six-day home-trainer race.\nLee Richardson, the famous trick rider, au\nsigned a two years’ contract with Yvette Guil-\nbert's manager to travel through Europe with |\nthe danseuse. |\n\nThe annual pacha of the “‘Bicycle Division’ |\nof the Office Men’s Club will be held on Friday\nevening +. 8 o'clock. All members and their |\nfriends, who expect to ride during the coming\nseason, are pequesse to attend, as the division\ndesires to elect officers and get things in first-\nclass shape for the season of 1897/ |\n\nie Aone | geese a-wheel is the latest use to which\nthe bieys ¢ has pee put by a Minnesota gentle-\nman. He regards the bicycle as far superior to\nthe dog in starting up a flock. The wheel being\nnoiseless, its approach is unnoticed until too late |\nto escape the onslaught of gunshot from the ex-\nperienced aim of a hunter. In hunting Lezak be\nchickens...",
-    summary: "Captain of the club will select. The boys anxiously await mild weather, all evincing signs of impatience for the time to come when they can ‹ commonce work on the water.",
+    summary: "Charley White, Jim Corbett's trainer, told the St. Louis Globe-Democrat that critics who judged George Dixon by the standards of Jem Mace, Joe Goss and Tom Allen were behind the times.",
     focus: "passing",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Profiles"]
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -11833,15 +11798,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1897-12-29",
-    title: "Corbett Should Fight Maher or Choynski",
+    title: "Fitzsimmons Sets Terms for Corbett and McCoy",
     localCopyEdited: "images/articles/image-970.jpg",
     localCopyFull: "images/articles/image-970b.jpg",
     id: "970",
     text: "et\nHE LOCAL PUGILISTS ALL EX-\nCITED OVER THEIR PROB-\nABLE MEETING.\nHAT NICE CARD OF JULIAN’S\nhe St. Louis Tollowers of Boxing\nThink the Proposition It Contained\nan Eminently Fair One.\nThere was plenty of excitement in local\nugilistic circles this morning over the\news from Ch'cago to the effect that Fitz-\nImmons had at last concluded to fight\norbett aguin.\nThe announcement created any amount of\niscussion and nearly every one of the\nUgilists of note in St. Louis thought Fitz-\nimmons was right in naming the condi-\nons he does. These conditions are named\ni this open jetter which Julian, the Kan-\naroo’s Manager, gave out yesterday:\n\n“Fitzsimmons will defend bis right to the\ntile of champion. Mrs. Fitesimmons has\nreleased him from his promise of retirement.”*\nReferring to the condit’ons on which Fitz-\nlmmons will fight Corbett and McCoy, Ju-\nJan's statement says: |\n\nThese conditions are as follows: ‘Let Cor- |\nBett beat a man ilke Maher or Chornsk! and\nestablish bis right as a member of “Bob’s’\nclass; let MeCoy beat bis way up to a com-\nmegane esition, and come elong with his\nehballenge afterwerd. But first McCoy must\nfight a Ht epponent at the middleweight Hair,\namd not at catch welghts.\"\"\n\nThe statement coucludes as follows: “I am\nRot going to allow Fitzsimmons te accept of-\nfers from inferior men. When the proper\ntime comes Fitzsimmons will meet thetn all.\none after the other, ion the same ring if\n\n(iene) “MARTIN JULIAN\n«Mamence of ‘Rod’ Fitasimmans, “World's\n, Champion Middle...",
-    summary: "St. Louis Post-Dispatch commentary on James J. Corbett and his boxing options.",
+    summary: "The St. Louis Post-Dispatch reported Bob Fitzsimmons' conditions for meeting Jim Corbett and Kid McCoy, and noted that St. Louis sporting men, including the ex-champion Allen, thought the terms fair.",
     focus: "passing",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Profiles"]
   },
   {
     publication: "The St. Louis Republic",
@@ -11950,15 +11916,16 @@ export const db = [
   {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1898-10-14",
-    title: "Death of Boxer Smith Causes Sensation",
+    title: "Allen Remembers Ed Smith",
     localCopyEdited: "images/articles/image-979.jpg",
     localCopyFull: "images/articles/image-979b.jpg",
     id: "979",
     text: "The announcement of the death of Smith\nwill cause something of a sensation in\nlocal and foreign pugilistic circies. He was\none of the best known pugilists in America\nand had fought the best men of his day.\nHis greatest fight was with Joe Goddard\nbefore the Olympic Club of New Orieans.\nThey met there March 32, 1893, for a $10,400\npee and after 18 rounds of fierce fighting\nSmith put Goddard to sleep. Smith, in a\nfight at Chicago, nearly wound up the\ncareer of Peter Jackson and he did himself\nproud in other battles. His brotner Paddy\nSmith, made his home in St. Louis for a\nlong while. When Griffo flunked that night\nin. the Coliseum ‘t was Paddy Smith who\ntook his place and who so pluckily faced\nthe drives of the better trained man,\nTommy Tracy. Beth the Smith boys were\nborn pugilists and of happy-go-lucky dispo-\nsition. Both were fond of liquor and Ed's\nweakness in this direction yzot him in\ntroub.e ofien. He was a greut friend of\nTom Allen, and it was the latter who\ncoached him when he beat Goddard at New\nOrleans.\n\nAllen said this morning: “Swift was one\nof the gamest fighters that ever entered\nthe ring. But he was hardly big enough\nfor the heavyweights of this*day. When\nhe met Goddard he wetghed abour 160 to\nGoddard's 180. Had he had the weight he\nwould have reached the top in no time.\nHe was an old friend of mine and I used\nto hear from him often until recently.\"",
-    summary: "St. Louis Post-Dispatch reported the death of prominent pugilist Smith, who had fought top fighters in America.",
-    focus: "passing",
+    summary: "The St. Louis Post-Dispatch reported the death of pugilist Ed Smith, noting that Tom Allen had coached him when he beat Joe Goddard in New Orleans. Allen called him one of the gamest fighters that ever entered the ring.",
+    focus: "secondary",
     tier: "2",
-    not_tom: true
+    not_tom: false,
+    tags: ["Profiles"]
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -11998,19 +11965,6 @@ export const db = [
     focus: "secondary",
     tier: "2",
     not_tom: false
-  },
-  {
-    publication: "St. Louis Globe-Democrat",
-    sourceDate: "1899-02-25",
-    title: "Billiards and Sporting Notes: Tournament Results",
-    localCopyEdited: "images/articles/image-983.jpg",
-    localCopyFull: "images/articles/image-983b.jpg",
-    id: "983",
-    text: "i DeMUN SMITH BACK. ~~\nSays McCreery Was Sick Tournamen\n\n- Week—Sporting Gossip.\n\nJ. DeMun Smith, the local amateur bil\nliardist who went to. New York to see th\nfinal games in the recent tournament, re\nturned yesterday. i discussing the resul\n\n| he said that while He best man at the tim\n| Won, he thinks both Fess and McCreery cai\nbeat) Mullen, In other words, that Mule:\nhad all.the luck of the week’s play an\nseemed to be in better condition than hi\nopponents, either of whom, under equat sale\n| ditions, is his superior. McCreery, he 4\n}-was| undoubtedly a sick man during th\ntournament, and in the last game he played\nwon} by Foss, the St. |Louis man was aepshits\nmate to es around |the table. He ascrib\ned eCreery’s illness to an’ effort on th\nPart of that gentleman to do a little phy\nsical training. © While ‘at home McCreer-\nhas||always lived well and enjoyed goo\nhealth. During the tournament, however\nit seems he-deprived himself of his usuai in\ndulgences in the supposed interest of hi\nPhysical well being, with a result contrar,\n| to what he had expected. i\n| “Smithy” is not the only, one of Mc\n| Creery’s local peminere who thinks he woul\ndefeat Mullen in a match. Had the recen\ntournament been: played on a regular mate!\n| basis McCreery- would have won. Th\n| usual billiard match) between a couple o\n| players is at a stipulated number of. points\n| Saupll portions of the total to be playe\n| each night, but the match not to be com\n| pleted until one of tye players has made th\nPail...",
-    summary: "The St. Louis Globe-Democrat's sporting notes section covered billiards tournaments and athletic events at the St. Louis Rowing Club with no substantive mention of Tom Allen.",
-    focus: "passing",
-    tier: "1",
-    not_tom: true
   },
   {
     publication: "St. Louis Globe-Democrat",
@@ -12180,19 +12134,6 @@ export const db = [
     focus: "secondary",
     tier: "2",
     not_tom: false
-  },
-  {
-    publication: "The St. Louis Republic",
-    sourceDate: "1901-04-13",
-    title: "Thomas Cicero Allen Graduates from Medical School",
-    localCopyEdited: "images/articles/image-997.jpg",
-    localCopyFull: "images/articles/image-997b.jpg",
-    id: "997",
-    text: "I\n\nMEDICAL STUDENTS GRADUATE.\n\nBarnes College Presents Diplomas\nand Distributes Prizes.\n\nThe commencement exercises of Barnes\nMedical College were held Friday evening\nin the large hall of the Young Men's\nChristian Association building, Grand and\nFranklin avenues, The gra uating class,\nnumbering 112, was one or the largest in\nthe history of the institution. Before the\ndistribution of diplomas and prizes a short\nmusical perenne was rendered. The\nReverend John D. Vincil, president of the\nBoard of Trustees, and Doctor A. R. Kieffer\naddressed the graduates. Doctor Charles\nH. Hughes distributed the prizes.\n\nAmong those who received premiums was\nMiss Della Ingle, of. the freshman class,\nwho won the Sey prize, a gold medaly\nfor having attained the highest gener\naverage in studies, attendance and deport-\nment. She stood at the head of a class of\n112 students.\n\nAnother of the graduates who received\nspecial mention was D. R. Ulmer, who, by\nclose application to his studies, was able to\ncomplete the four-year course in three\nyears. The first faculty prize in the senior\nclass was won nag ee Alien, the second\nprize by Claude Ament. In the junior\nclass Roscoe T. Nichols carried off the hon-\ners. The faculty pee in the sophomore\nclass was awarded to Willis Waley. The\nfirst Eee in the freshman class was given\nto Miss Della Ingle, and the trustees’ prize\nwent to John C. Bram. The Kieffer prize\nwas won by George A. Fielding, and Charles\nSkaggs received the Dickerson prize.\n\n- The following is a...",
-    summary: "Thomas Cicero Allen listed as medical school graduate from Ware, Missouri, in Barnes Medical College commencement, The St. Louis Republic.",
-    focus: "passing",
-    tier: "2",
-    not_tom: true
   },
   {
     publication: "St. Louis Globe-Democrat",

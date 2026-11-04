@@ -15,7 +15,7 @@ export const ERAS = [
 
 export const TOPICS = ["Fights", "Challenges", "Exhibitions", "Saloon", "Legal", "Personal life", "Profiles", "Legacy"];
 
-// Keyword rules stand in for real tags until articles are tagged individually.
+// Articles with a `tags` field use those; keyword rules stand in for the rest until they are tagged.
 const TOPIC_RULES = [
   ["Legal", /arrest|court|bond|\bshot\b|shoot|kill|murder|police|charged|discharg|indict|jail|raid|trial|fined|assault/i],
   ["Saloon", /saloon|concert|free and easy|champion.?s rest|market street|bar patron|music hall/i],
@@ -33,6 +33,7 @@ const yearOf = (d) => {
 const importanceOf = (a) => (a.focus === "secondary" ? "support" : a.focus === "passing" ? "mention" : "key");
 
 const topicsOf = (a, year) => {
+  if (Array.isArray(a.tags) && a.tags.length) return a.tags;
   if (year && year >= 1904) return ["Legacy"];
   const match = (text) => TOPIC_RULES.filter(([, re]) => re.test(text || "")).map(([t]) => t);
   const fromTitle = match(a.title);

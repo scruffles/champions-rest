@@ -16,7 +16,9 @@
 ### Changed
 - Article totals and year ranges are calculated from the data instead of hard-coded
 - Biography keeps its full text and source footnotes, restyled to match
-- Articles flagged `not_tom` are hidden
+- Reviewed the 39 articles flagged `not_tom`: removed the 7 that are about other people or a horse, and restored the 32 that are about him with corrected titles, summaries, importance and tags (including the 1867 Goss fight report, the 1869 Gallagher rematch challenge and the 1873 indictments)
+- Article 517 re-cropped to "A Card From Tom Allen" with a hand-checked transcript
+- Articles can carry a `tags` field, which replaces the keyword-guessed topics
 - Removed Bootstrap and Font Awesome
 - Header search restyled as a printed form's fill-in-the-blank line
 - Compact header (small nameplate, nav and search) slides in at the top once the full masthead scrolls away
@@ -39,8 +41,8 @@
 ## Backlog
 
 ### Filtering & Navigation
-- Review 39 articles flagged `not_tom` (different Tom Allen or unrelated content) - currently hidden; decide whether to remove
-- Replace keyword-guessed topics with real per-article tags
+- Tag the remaining articles (32 have real tags; the rest still use keyword-guessed topics)
+- The `not_tom` flag was wrong for 32 of 39 articles, so the automatic `focus` levels may also be unreliable; spot-check them
 - Fix automatic crops that cut off multi-column headlines (e.g. article 1000)
 
 ### Home & Highlights
