@@ -1,0 +1,36 @@
+{
+  "id": "441",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Upper headline decks ('Last of the Prize Ring / The Mace-Coburn Fight / The Mill Declared a Draw / The Men Afraid of Each Other') are cut off; only 'The Referee Much Disgusted' is in the crop. The crop also runs on into an unrelated 'Kansas Items' column (pieces 5-7)." },
+  "ocr": { "status": "rough", "notes": "Fight report readable but many character errors; the transcript also includes the unrelated Kansas Items." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Seconds Mace in Drawn Fight With Coburn" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen and Jim Cusick seconded Jem Mace against Joe Coburn at Montgomery Station, Mississippi. The referee declared the fight a draw after three hours and thirty-eight minutes." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat', Saturday morning, Dec. 2, 1871. Before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen and Jim Cusick seconded Jem Mace against Joe Coburn at Montgomery Station, Mississippi, about forty miles from New Orleans; the referee, Col. Rufus Hunt, declared the fight a draw after 3 hours 38 minutes",
+      "date": "1871-11-30",
+      "people": ["Jem Mace", "Joe Coburn", "Jim Cusick", "Rufus Hunt"],
+      "places": ["Montgomery Station, Mississippi"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen travelled from New Orleans on the special excursion train to the Mace-Coburn fight ground",
+      "date": "1871-11-30",
+      "people": [],
+      "places": ["New Orleans, Louisiana", "Montgomery Station, Mississippi"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same Associated Press report as 442 (Missouri Republican, same day)."
+}

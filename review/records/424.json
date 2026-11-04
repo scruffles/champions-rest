@@ -1,0 +1,46 @@
+{
+  "id": "424",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "gist and most names readable; many character errors (Hallagher, Allon, Kaasas)" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that after police stopped the Allen-Gallagher fight on Tuesday, the backers agreed to hold it next Tuesday in Kansas for the same $1,500 stakes, with no excursion." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: 'Daily Democrat, Thursday Morning, Nov. 3, 1870'. Before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "The planned Allen-Gallagher prize fight was stopped by the interference of the St. Louis Chief of Police",
+      "date": "1870-11-01",
+      "people": ["Jim Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, Gallagher and their backers agreed at a saloon at Locust and Fifth streets to fight the following Tuesday in Kansas, stakes unchanged at $1,500 (Allen $1,000, Gallagher $500)",
+      "date": "1870-11-02",
+      "people": ["Jim Gallagher"],
+      "places": ["Saloon at Locust and Fifth streets, St. Louis", "Kansas", "Kansas City"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's lawyer, Mr. Voullaire, denied a report that Allen meant to sue the city for false imprisonment",
+      "date": "1870-11-02",
+      "people": ["Voullaire"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Kansas plan was a ruse; the fight took place near St. Louis on 1870-11-05 (see article 425)."
+}

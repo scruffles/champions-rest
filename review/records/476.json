@@ -1,0 +1,70 @@
+{
+  "id": "476",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable but many garbled words, especially in the speech and the sparring paragraphs."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat reported that a crowded Theater Comique saw Tom Allen's benefit, where he was introduced as champion of the world, ready to fight any man, and sparred tamely with Jack Madden."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Exhibitions",
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Friday, September 26, 1873' with the masthead 'Daily Democrat' (before the May 1875 merger, so not yet the Globe-Democrat)."
+  },
+  "facts": [
+    {
+      "fact": "Allen took a benefit at the Theater Comique, St. Louis, sparring with Jack Madden, with Patsy Shepherd and Arthur Chambers also boxing; the house was crowded",
+      "date": "1873-09-25",
+      "people": [
+        "Jack Madden",
+        "Patsy Shepherd",
+        "Arthur Chambers",
+        "Fred Wilson"
+      ],
+      "places": [
+        "Theater Comique, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At the benefit Allen wore the heavyweight championship belt and was introduced by manager Fred Wilson as champion of the world, ready and willing to fight any man in the world",
+      "date": "1873-09-25",
+      "people": [
+        "Fred Wilson"
+      ],
+      "places": [
+        "Theater Comique, St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

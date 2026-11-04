@@ -1,0 +1,36 @@
+{
+  "id": "472",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole 'The Pugilists' article is in the clipping." },
+  "ocr": { "status": "good", "notes": "Mostly right; some garbled words ('Sicgy Toeday', 'Depnty alone Pr pi' for 'Deputy Sheriff Wheeling, of')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that articles for the Allen-Ben Hogan fight would be signed at Looney & Herbert's Sixth Street saloon, and that Mike Ganley called the McCoole fight the most one-sided he had ever seen." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Masthead reads 'The St. Louis Democrat: St. Louis, Thursday, September 25, 1873'; not the Globe-Democrat until 1875." },
+  "facts": [
+    {
+      "fact": "Articles for a fight between Allen and Ben Hogan were to be signed at 3 o'clock at Looney & Herbert's Sixth Street saloon in St. Louis, arranged by Mike Ganley",
+      "date": "1873-09-25",
+      "people": ["Ben Hogan", "Mike Ganley"],
+      "places": ["Looney & Herbert's saloon, Sixth Street, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mike Ganley stood ready to back Joe Coburn against Allen",
+      "date": "1873-09",
+      "people": ["Mike Ganley", "Joe Coburn"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The headline says the signing is 'to-day' but the text says 'to-morrow'; 473 shows it took place September 25. Also mentions Allen's benefit at the Theater Comique that night (see 471) and the Democrat's scoop on the McCoole fight result."
+}

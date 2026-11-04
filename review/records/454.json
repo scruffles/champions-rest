@@ -1,0 +1,36 @@
+{
+  "id": "454",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headline to closing rule." },
+  "ocr": { "status": "good", "notes": "Readable; scattered errors (e.g. 'Fhe', 'zoyeh men fusipie' for 'rough-and-tumble', 'John oocyte' for 'John Marque')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Third Deposit Made at Allen's Saloon for McCoole Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that the third $500-a-side deposit for the Allen-McCoole fight, set for September 23, was made before a large crowd at Tom Allen's saloon on Washington Avenue between Fourth and Fifth." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Wednesday, July 9, 1873'; masthead 'Daily Democrat'. Pre-1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "The third $500-a-side deposit for the Allen-McCoole fight was made at Allen's saloon; the fight was set for September 23, 1873",
+      "date": "1873-07-08",
+      "people": ["Mike McCoole", "John R. Scott", "Johnny Smith"],
+      "places": ["Tom Allen's saloon, Washington Avenue between Fourth and Fifth, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen kept a saloon with a concert saloon on Washington Avenue between Fourth and Fifth streets",
+      "date": "1873-07",
+      "people": [],
+      "places": ["Washington Avenue between Fourth and Fifth, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

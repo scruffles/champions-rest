@@ -1,0 +1,36 @@
+{
+  "id": "449",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole Johnny Franklin sketch, headline to end rule" },
+  "ocr": { "status": "good", "notes": "Readable with scattered character errors" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reprinted a Cincinnati Commercial sketch of the late gambler Johnny Franklin, who arranged fights near St. Louis including Tom Allen's drubbing of Mike McCoole, and brought Allen and Coburn together at New Orleans." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, Monday Morning, November 18, 1872, page 5. Reprinted from the Cincinnati Commercial of the 16th." },
+  "facts": [
+    {
+      "fact": "Sporting man Johnny Franklin arranged one of Allen's fights with Mike McCoole near St. Louis, described as a 'magnificent drubbing of the giant McCoole' by Allen",
+      "date": "",
+      "people": ["Johnny Franklin", "Mike McCoole"],
+      "places": ["near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Johnny Franklin brought Allen and Joe Coburn together for a match at New Orleans",
+      "date": "1872",
+      "people": ["Johnny Franklin", "Joe Coburn"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mostly about Franklin; Allen appears in one paragraph. Coburn's first name is not given in the article. Fight dates are not stated."
+}

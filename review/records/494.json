@@ -1,0 +1,26 @@
+{
+  "id": "494",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Prize-fight Facts' item." },
+  "ocr": { "status": "good", "notes": "Headline and a few words garbled." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat ran a column of jokes about the Allen-Hogan fight that never came off on Chouteau Island, noting that there was fighting at Tom Allen's benefit that night." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Thursday, October 30, 1873'; masthead 'Daily Democrat'. Pre-1875 merger." },
+  "facts": [
+    {
+      "fact": "The Allen-Hogan fight, meant for Chouteau Island, did not take place",
+      "date": "1873-10-28",
+      "people": ["Ben Hogan"],
+      "places": ["Chouteau Island"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Jokes only; Chouteau Island as the intended site is implied by a quip. The same page has an 'Allen-Hogan: The Match Off and Another Made' article not in this clipping."
+}

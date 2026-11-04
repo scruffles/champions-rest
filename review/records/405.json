@@ -1,0 +1,46 @@
+{
+  "id": "405",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The right edge of the column is cut off: the last word or letters of most lines are missing (e.g. the year in the dateline, 'outfo[ught]', 'Tom All[en]'). Headline, top and bottom are present." },
+  "ocr": { "status": "good", "notes": "Matches the image well, apart from the words lost at the cut right edge." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat printed Tom Allen's letter from New Orleans after his loss to Jem Mace, admitting he was beaten and challenging any man but Mace and Heenan, Coburn, McCoole, Gallagher or Goss especially, for $500 to $5,000." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights"],
+  "metadata": { "date_ok": false, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Page masthead reads 'Daily Democrat. Supplement. Sunday Morning, May 22, 1870' (small print, but May 22 was a Sunday; May 20 was a Friday), so the date is probably 1870-05-22. Before the 1875 merger, so not the Globe-Democrat. The letter is dated New Orleans, May 12." },
+  "facts": [
+    {
+      "fact": "In a letter from New Orleans, Allen admitted his defeat by Jem Mace in their fight for $5,000 and the championship, saying he did his best and had no excuse",
+      "date": "1870-05-12",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "I was beat and lost",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen challenged any man in the country except Mace and Heenan for $500 to $5,000, naming Joe Coburn, Mike McCoole, Charley Gallagher and Joe Goss, the challenge to stand open three months",
+      "date": "1870-05-12",
+      "people": ["Joe Coburn", "Mike McCoole", "Charley Gallagher", "Joe Goss", "Jem Mace", "John C. Heenan"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "In order to let the public see I am neither a cur nor a coward",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen wrote that after their fight Mace gave him back the title of champion and said he would never enter the prize ring again, and that Allen accepted and would defend the title against all but Mace and Heenan",
+      "date": "1870-05",
+      "people": ["Jem Mace", "John C. Heenan"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Quotes use only words fully visible in the clipping. A telegraphic summary of this letter ran on 1870-05-18 (article 404)."
+}

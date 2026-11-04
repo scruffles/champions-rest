@@ -1,0 +1,56 @@
+{
+  "id": "374",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article from the headline 'The Prize Fight To-Day' to the closing rule, across six pieces." },
+  "ocr": { "status": "good", "notes": "Mostly right; scattered errors ('Murray' lost in places, the New York World section has some garbled lines)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen-McCoole Fight in Doubt Over Final Stakeholder" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported on the day set for the Allen-McCoole fight that it was in doubt because the sides could not agree on a final stakeholder; Allen said he would fight for anything, McCoole only for the $5,000." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat, Wednesday Morning, Nov. 10, 1869.'" },
+  "facts": [
+    {
+      "fact": "The Allen-McCoole championship fight set for November 10, 1869 was in doubt because the sides could not agree on a final stakeholder; the $5,000 stakes remained with Mr. Murray of St. Louis",
+      "date": "1869-11-10",
+      "people": ["Mike McCoole", "Murray"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was willing to fight McCoole for the excursion money or anything else, while McCoole refused to fight unless for the $5,000 stakes",
+      "date": "1869-11",
+      "people": ["Mike McCoole"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen trained near Cincinnati for the McCoole fight, while McCoole was quartered at Shady Grove",
+      "date": "1869-11",
+      "people": ["Mike McCoole"],
+      "places": ["Cincinnati, Ohio", "Shady Grove, near Cincinnati"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "William Thorwegen of St. Louis advanced $1,100 of Allen's stakes for the McCoole fight",
+      "date": "1869-11",
+      "people": ["William Thorwegen"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper contradicts itself on roles: the Cincinnati Gazette calls Bill Carroll McCoole's representative and Jack Looney Allen's, but the Commercial calls Carroll one of Allen's backers and says Looney acts for McCoole (which matches article 373). Most of the second half is a New York World correspondent's visit to McCoole's training quarters at the St. Louis Fair Grounds."
+}

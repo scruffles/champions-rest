@@ -1,0 +1,15 @@
+{
+  "id": "387",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "mostly readable; scattered garbling, and the Allen sentence near the end is garbled" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Heenan and Mace barred from sparring in Chicago" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Chicago police barred a Heenan-Mace sparring show, so Mace posed as statues instead, and the pair came to St. Louis. Mace had not yet begun training for his fight with Tom Allen." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: Daily Democrat, Tuesday morning, March 22, 1870. Account reprinted from the Chicago Tribune." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen mentioned only as Mace's coming opponent; no facts about Allen himself."
+}

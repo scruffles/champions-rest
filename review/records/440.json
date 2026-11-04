@@ -1,0 +1,26 @@
+{
+  "id": "440",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Includes the 'Price 5 Cents' masthead strip at top and a closing Associated Press paragraph on the Havana executions, which runs under the same New Orleans headline." },
+  "ocr": { "status": "good", "notes": "Minor character errors ('Cobura', 'Jeaves')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen to Second Mace Against Coburn Near New Orleans" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported from New Orleans that Tom Allen of St. Louis and Jimmy Cusick would second Jem Mace in his fight with Joe Coburn, set for the Mobile railroad just across the Mississippi line." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'The Missouri Democrat', St. Louis, Thursday morning, November 30, 1871; special dispatch dated November 29." },
+  "facts": [
+    {
+      "fact": "Allen was in New Orleans for the Mace-Coburn fight, named with Jimmy Cusick as Mace's second",
+      "date": "1871-11-29",
+      "people": ["Jem Mace", "Joe Coburn", "Jimmy Cusick"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "This dispatch lists Ned O'Baldwin and Tom McAlpine as Coburn's seconds; the fight reports (441, 442) give McAlpine and Larry Powers."
+}

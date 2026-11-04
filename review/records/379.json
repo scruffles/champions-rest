@@ -1,0 +1,36 @@
+{
+  "id": "379",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, with the masthead fragment at top." },
+  "ocr": { "status": "good", "notes": "Mostly right; some errors, e.g. '$690' for $500 and 'vane' for Cincinnati." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Mace Replies to Allen's Challenge and Allen Sends His Deposit" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican printed Jem Mace's reply to Allen, depositing $500 and offering to meet in New York. Billy Carroll then sent $500 for Allen, proposing $2,500 a side near Cincinnati on July 5, 1870." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, January 1, 1870. Mace's card dated New York, Dec. 27, 1869." },
+  "facts": [
+    {
+      "fact": "Jem Mace deposited $500 at the New York Clipper office to cover Allen's challenge, refused to meet at Pittsburgh, offered to meet in New York and pay half Allen's expenses, and proposed to stake a belt from his New York friends against Allen's",
+      "date": "1869-12-27",
+      "people": ["Jem Mace"],
+      "places": ["New York", "Pittsburgh"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Billy Carroll, for Allen, forwarded $500 forfeit to Frank Queen of the New York Clipper, proposing to fight Mace for $2,500 a side within fifty miles of Cincinnati on July 5, 1870, for the championship of the world, any party arrested in another state to forfeit",
+      "date": "1869-12-31",
+      "people": ["Billy Carroll", "Frank Queen", "Jem Mace"],
+      "places": ["St. Louis", "Cincinnati"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Carroll's deposit sent 'yesterday' relative to Jan 1, 1870. A short note on a Collyer-Edwards match is not about Allen."
+}

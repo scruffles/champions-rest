@@ -1,0 +1,36 @@
+{
+  "id": "403",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "minor errors" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Mace and Allen Plan Sparring Tour (Reprint)" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat repeated its report that Tom Allen and Jem Mace, still in New Orleans, planned a sparring tour once Allen's arm healed, and that Mrs. Allen had gone to join him with his belt." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads Daily Democrat, Monday Morning, May 16, 1870. Text is identical to the May 15 item (article 402); likely a duplicate reprint." },
+  "facts": [
+    {
+      "fact": "Allen stayed in New Orleans recovering from the arm injury suffered against Mace; he and Mace planned an exhibition in New Orleans and then an extended sparring tour through the country",
+      "date": "1870-05",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mrs. Allen left St. Louis for New Orleans to join her husband, taking the belt presented to him by his St. Louis friends",
+      "date": "1870-05-12",
+      "people": ["Mrs. Allen"],
+      "places": ["St. Louis", "New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Duplicate of article 402 (same text, reprinted a day later); a human should decide whether to keep both. 'On Thursday' taken as May 12 from the original May 15 printing."
+}

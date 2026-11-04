@@ -1,0 +1,46 @@
+{
+  "id": "436",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole Kansas City special dispatch with headline deck; the Allen part is at the top, the rest is unrelated Kansas City news (suicide attempt, policeman robbed, hotel sale, drowning)." },
+  "ocr": { "status": "rough", "notes": "Headline deck and names garbled ('Jitx Mace', 'Dick MoMyWwoou', 'grand lag 2 gr Ege' for 'grand sparring exhibition'); gist is there." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Arrives in Kansas City With Mace; Sparring Exhibition Planned" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen arrived in Kansas City with Jem Mace, who was declared winner when Joe Coburn failed to appear, and that Mace and Allen would spar that evening at Carroll's Varieties." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'The Missouri Democrat', St. Louis, Saturday Morning, June 3, 1871. Dispatch dated Kansas City, June 2." },
+  "facts": [
+    {
+      "fact": "Tom Allen arrived in Kansas City with Jem Mace, Dick Hollywood and Jim Cusick for the Mace-Coburn fight",
+      "date": "1871-06-01",
+      "people": ["Jem Mace", "Dick Hollywood", "Jim Cusick"],
+      "places": ["St. Louis", "Kansas City"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was present when Joe Coburn failed to appear at the ring on the Gillis farm near Kansas City and referee Dick Hollywood declared Mace the winner",
+      "date": "1871-06-02",
+      "people": ["Jem Mace", "Joe Coburn", "Dick Hollywood"],
+      "places": ["Gillis farm, Shawnee road, two miles from Kansas City"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A sparring exhibition between Jem Mace and Tom Allen, with Cusick and Hollywood, was held at Carroll's Varieties in Kansas City",
+      "date": "1871-06-02",
+      "people": ["Jem Mace", "Jim Cusick", "Dick Hollywood"],
+      "places": ["Carroll's Varieties, Kansas City"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The dispatch says the party 'arrived late last night' (June 1). Allen's presence at the ring itself is implied by the party going out together, not stated, hence medium. The exhibition was announced for 'this evening', not reported as having taken place."
+}

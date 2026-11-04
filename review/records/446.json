@@ -1,0 +1,46 @@
+{
+  "id": "446",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Readable with scattered character errors" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Man Accidentally Shot Dead in Tom Allen's Saloon" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that a young upholsterer called 'Reddy' was killed when Tom Allen's pistol went off as he grabbed it in Allen's saloon at 417 Washington Avenue; the coroner's jury ruled it accidental." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, May 21, 1872" },
+  "facts": [
+    {
+      "fact": "A young upholsterer from Birmingham, England, known as 'Reddy' (named Nelson Adams in the lead, Adam Nelson by witnesses and the jury), was fatally shot by the accidental discharge of Allen's pistol in his saloon about one in the morning",
+      "date": "1872-05-20",
+      "people": ["Adam Nelson"],
+      "places": ["417 Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The coroner's jury found the shooting was the accidental discharge of a pistol in Allen's hands",
+      "date": "1872-05-20",
+      "people": ["Adam Nelson"],
+      "places": ["Third district station, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's saloon, with concerts and a pianist, was at 417 Washington Avenue near Fifth Street",
+      "date": "1872-05",
+      "people": [],
+      "places": ["417 Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The victim's name is inconsistent: the lead says Nelson Adams, while the pianist's testimony and the verdict say Adam Nelson. The bar-keeper says Allen spoke of being a locksmith before he drew the pistol."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "390",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Cincinnati Crowd Backs Allen After Mace's Exhibition" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that, according to a Cincinnati paper, the common remark after the Mace–Heenan sparring exhibition there was that Tom Allen would lick Mace in twenty minutes inside a twenty-four-foot ring." },
+  "focus": { "current": "passing", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat', Thursday morning, March 31, 1870." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Short item entirely about the coming Allen–Mace fight; the remark came from the Cincinnati crowd, not the paper itself. No biographical facts."
+}

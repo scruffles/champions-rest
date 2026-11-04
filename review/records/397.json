@@ -1,0 +1,36 @@
+{
+  "id": "397",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "right edge slightly tight but no words lost" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat described the $1,000 gold and silver champion belt, made by Eugene Jaccard & Co., to be presented to Tom Allen that night at the Theater Comique and shown at his May 10 fight with Mace." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: Daily Democrat, Saturday Morning, April 30, 1870." },
+  "facts": [
+    {
+      "fact": "Allen was presented a $1,000 champion belt of five gold and five silver plates, made by Eugene Jaccard & Co. and inscribed 'Presented to Thomas Allen by his St. Louis friends', at an exhibition at the Theater Comique",
+      "date": "1870-04-30",
+      "people": [],
+      "places": ["Theater Comique, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "021"
+    },
+    {
+      "fact": "Allen and Jem Mace were to meet in the ring near New Orleans on May 10, 1870",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": ["near New Orleans"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fact 021 gives April 29, 1870; this article says the belt was to be presented 'to-night', Saturday April 30. The article describes a planned presentation, not the event itself."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "433",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "gist readable but several lines garbled" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Denies Challenging Coburn and O'Baldwin" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat printed Tom Allen's disclaimer denying a telegraph report that he had challenged Joe Coburn for $5,000 and O'Baldwin for $1,000, saying he had no intention of doing so." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "masthead reads 'Daily Democrat, Tuesday Morning, May 16, 1871'" },
+  "facts": [
+    {
+      "fact": "Allen publicly denied a telegraph report that he had challenged Joe Coburn for $5,000 and Ned O'Baldwin for $1,000",
+      "date": "1871-05-16",
+      "people": ["Joe Coburn", "Ned O'Baldwin"],
+      "places": ["St. Louis"],
+      "quote": "I have given no such challenge, and at the present writing have no intention of doing",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title and summary are wrong: this is Allen's 'Pugilistic Disclaimer', not a concert hall item. It denies the challenge reported in articles 431 and 432. The quote ends at 'doing' as printed."
+}

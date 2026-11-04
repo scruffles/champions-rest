@@ -1,0 +1,26 @@
+{
+  "id": "461",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Pugilistic' item." },
+  "ocr": { "status": "good", "notes": "Accurate apart from small typos." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that Ben Hogan deposited $500 as a forfeit with Jack Looney to fight Tom Allen for $2,000 a side, thirty days after the McCoole and Allen fight." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Masthead reads 'The St. Louis Democrat: St. Louis, Monday, September 15, 1873' (pre-merger; not yet the Globe-Democrat)." },
+  "facts": [
+    {
+      "fact": "Ben Hogan, in St. Louis, deposited a $500 forfeit with Jack Looney to fight Allen for $2,000 a side, win or lose, thirty days after the McCoole–Allen fight, the money open to be covered by Allen or his friends",
+      "date": "1873-09-14",
+      "people": ["Ben Hogan", "Jack Looney"],
+      "places": ["Jack Looney's, 422 North Fourth street, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The challenge is entirely about Allen, so focus raised to primary. Related to the later Allen–Hogan match (facts-index '000: ... Allen was set to fight [Ben?] Hogan') but not the same fact."
+}

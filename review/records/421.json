@@ -1,0 +1,26 @@
+{
+  "id": "421",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Only the first short item, 'The Prize Ring. - A Fight Arranged.', is about Allen. The rest of crop-1 and all of crop-2 and crop-3 are unrelated 'Illinois Items' and miscellany." },
+  "ocr": { "status": "good", "notes": "The Allen item is mostly right ('tight' for fight, 'Alien' for Allen)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and Gallagher Match Arranged" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen and Jas. C. Gallagher signed articles over Hennessey's saloon at Fourth and Morgan to fight for $1,500 on November 1 within 50 miles of St. Louis." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The masthead reads 'The Missouri Republican--St. Louis, September 20, 1870'." },
+  "facts": [
+    {
+      "fact": "Allen and Jas. C. Gallagher signed articles to fight for $1,500, Allen staking $1,000 to Gallagher's $500, on November 1 within 50 miles of St. Louis",
+      "date": "1870-09-19",
+      "people": ["James C. Gallagher"],
+      "places": ["room over Henessey's saloon, Fourth and Morgan streets, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "This is the same event as article 420 (the Daily Missouri Democrat, same date)."
+}

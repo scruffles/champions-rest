@@ -1,0 +1,54 @@
+{
+  "id": "475",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Whole 'Local Short Stops' column; only the item on James Scott vs. Michael McCoole (in crop-2) mentions Allen."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": ""
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen Offered as Witness in McCoole Debt Suit"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat reported that a $900 borrowed-money suit by James Scott of Detroit against Mike McCoole was continued after McCoole's lawyer offered Tom Allen as a witness that McCoole was too sick to appear."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Friday, September 26, 1873' with the masthead 'Daily Democrat' (before the May 1875 merger, so not yet the Globe-Democrat)."
+  },
+  "facts": [
+    {
+      "fact": "Allen was offered as a witness that Mike McCoole was too sick to appear in a $900 debt suit brought by James Scott of Detroit in Judge Knight's court, St. Louis; the case was continued",
+      "date": "1873-09-25",
+      "people": [
+        "Mike McCoole",
+        "James Scott",
+        "Maj. Jones"
+      ],
+      "places": [
+        "Judge Knight's court, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title mentions theater notices, which are not in this clipping."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "458",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Mostly readable; a few garbled passages in the training routine." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "McCoole Training for the Allen Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat visited Mike McCoole's training quarters on the Gravois road before his September 23 fight with Tom Allen, finding McCoole fit, while Allen was said to be doing little work beyond walking and Turkish baths." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Tuesday, August 19, 1873'; masthead 'Daily Democrat'. Pre-1875 merger." },
+  "facts": [
+    {
+      "fact": "Allen appeared in Police Court as a witness for the defense in the Mollie McCoole case",
+      "date": "1873-08-16",
+      "people": ["Mollie McCoole"],
+      "places": ["Police Court, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was rumored to be training little for the McCoole fight, reducing by walking and Turkish baths, and was expected to fight at 185 pounds",
+      "date": "1873-08",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

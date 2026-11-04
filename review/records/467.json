@@ -1,0 +1,56 @@
+{
+  "id": "467",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Only the first column of the page-5 report: headlines, the excursion, who was there and picking up the men, ending at 'A Morning Call.' The rest of the page-5 text (columns 2–3, including 'The Fight') is not in the clipping; the round-by-round continuation on page 8 is article 468." },
+  "ocr": { "status": "good", "notes": "readable, minor errors" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen defeats Mike McCoole: the excursion" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen defeated Mike McCoole and described the steamer Continental's excursion of about a thousand people up the river, Allen boarding at Bissell's Point with seconds Arthur Chambers and Patsy Sheppard." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Page 5 head reads '...PTEMBER 24, 1873'; the continuation page reads 'The Missouri Republican, St. Louis, Wednesday, September 24, 1873'. In 1873 the paper was the Missouri Republican, not the St. Louis Republic." },
+  "facts": [
+    {
+      "fact": "Allen defeated Mike McCoole on September 23, 1873, getting off 'with one scratch, and that on his knuckle'",
+      "date": "1873-09-23",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "About a thousand spectators went up the river from St. Louis on the steamer Continental for the Allen–McCoole fight, paying five dollars a head to Jack Looney",
+      "date": "1873-09-23",
+      "people": ["Jack Looney", "Mike McCoole"],
+      "places": ["St. Louis", "steamer Continental, Mississippi River"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen boarded the steamer at Bissell's Point, with Arthur Chambers and Patsy Sheppard as his seconds; McCoole boarded at Sawyer bend with Tom Kelly",
+      "date": "1873-09-23",
+      "people": ["Arthur Chambers", "Patsy Sheppard", "Mike McCoole", "Tom Kelly"],
+      "places": ["Bissell's Point, St. Louis", "Sawyer bend"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Ben Hogan, on board for the fight, was matched to fight Allen in thirty days",
+      "date": "1873-09-23",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title names Williams Island, but no battle-ground is named in the clipping, so the place could not be checked; the suggested title leaves it out. The headline is 'Mangled McCoole'."
+}

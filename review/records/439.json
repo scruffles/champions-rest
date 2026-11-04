@@ -1,0 +1,26 @@
+{
+  "id": "439",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Single three-line City News item." },
+  "ocr": { "status": "rough", "notes": "First word 'Dispatches' and 'his saloon', 'Washington avenue' garbled; image reads: 'Dispatches will be received from Tom Allen at his saloon, 417 Washington avenue, from the Mace and Coburn fight, to-day.'" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Mace-Coburn Fight Dispatches to Be Received at Allen's Saloon" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat announced that dispatches from the Mace-Coburn fight would be received that day at Tom Allen's saloon, 417 Washington Avenue." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Page masthead reads 'Daily Democrat', Thursday morning, Nov. 30, 1871. Before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Dispatches from the Mace-Coburn fight were to be received at Allen's saloon at 417 Washington Avenue",
+      "date": "1871-11-30",
+      "people": ["Jem Mace", "Joe Coburn"],
+      "places": ["Tom Allen's saloon, 417 Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title 'Tom Allen in Prize Fight' is misleading; Allen did not fight. Current summary is raw OCR."
+}

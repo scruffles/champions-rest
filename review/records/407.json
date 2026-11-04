@@ -1,0 +1,46 @@
+{
+  "id": "407",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping stops at the 'Articles of Agreement' heading. The articles themselves (signed by McCoole and Allen) and a closing paragraph continue on the page below and are missing from the crop." },
+  "ocr": { "status": "good", "notes": "Accurate for the part in the crop; ends at the Articles of Agreement heading." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Mike McCoole and Tom Allen met at Coyne's saloon on Third Street and signed articles for a fight for $2,500 a side, to take place near St. Louis on September 13." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat, Sunday Morning, May 29, 1870.' Before the 1875 merger, so not the Globe-Democrat. The meeting was 'yesterday afternoon', May 28." },
+  "facts": [
+    {
+      "fact": "Allen and Mike McCoole signed articles at Coyne's saloon for a rematch for $2,500 a side under London prize ring rules, each putting up $500",
+      "date": "1870-05-28",
+      "people": ["Mike McCoole"],
+      "places": ["Coyne's saloon, Third Street near the post office, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The McCoole-Allen fight was set for Tuesday, September 13, 1870, within fifty miles of St. Louis",
+      "date": "1870-09-13",
+      "people": ["Mike McCoole"],
+      "places": ["near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At the signing Allen said Joe Goss was the best man then in England, except perhaps Allen's own brother",
+      "date": "1870-05-28",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The second and third facts come from the rest of the same article, read from the low-resolution page image below the crop, so the details are medium confidence. The articles also set later deposits (June 30, July 30, September 5) and named John Scott of St. Louis final stakeholder. Reprinted 1870-05-30 (article 408)."
+}

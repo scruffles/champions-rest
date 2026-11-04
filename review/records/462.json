@@ -1,0 +1,26 @@
+{
+  "id": "462",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Includes an unrelated paragraph about the Flora, Ill., fair at the top; the 'A Bold Batch of Challenges' item below it is complete." },
+  "ocr": { "status": "good", "notes": "Readable with many small character errors in the lighter print." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tennessee man's mock challenges to Allen and other fighters" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reprinted from the New York Sun a string of extravagant bets offered by Thomas Bascom of Marysville, Tennessee, including $10,000 that he could beat Tom Allen inside eight rounds." },
+  "focus": { "current": "passing", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican, St. Louis, Monday, September 15, 1873', page 4." },
+  "facts": [
+    {
+      "fact": "Thomas Bascom of Marysville, Tennessee, in a letter to the New York Sun, offered to bet Allen $10,000 that he could beat him inside eight rounds, among other mock wagers against Allen, Gallagher and McCoole",
+      "date": "1873-09",
+      "people": ["Thomas Bascom", "Charley Gallagher", "Mike McCoole"],
+      "places": ["Marysville, Tennessee"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The challenges read as a satirical or boastful letter, not a serious match; confidence medium. The paper framed the writer as a reluctant 'reformer'."
+}

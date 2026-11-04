@@ -1,0 +1,36 @@
+{
+  "id": "404",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Telegraphic Items' column; only the Tom Allen paragraph is about him, the other items are unrelated news." },
+  "ocr": { "status": "good", "notes": "Allen paragraph mostly right ('Tom Artem', 'Heevan', 'anxioas' are OCR errors). The stake amount is smudged in the image: OCR reads $3000 but it may be $5000 (his own letter, article 405, says $500 to $5,000)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen, signing himself Champion of America by permission of James Mace, challenged every professional fighter except Mace and Heenan, Coburn especially, and admitted his defeat by Mace near New Orleans." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'The Missouri Democrat, St. Louis, Wednesday Morning, May 18, 1870' ('Daily Democrat' in the first column). Before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "After losing to Jem Mace near New Orleans, Allen issued a challenge to all professional fighters except Mace and Heenan, saying he was especially anxious that Joe Coburn accept",
+      "date": "1870-05",
+      "people": ["Jem Mace", "John C. Heenan", "Joe Coburn"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen signed himself 'Champion of America, by permission of Mr. James Mace, Champion of the World'",
+      "date": "1870-05",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "Champion of America, by permission of Mr. James Mace, Champion of the World",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Telegraphic summary of Allen's 'pronunciamento' letter (article 405)."
+}

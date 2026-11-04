@@ -1,0 +1,166 @@
+{
+  "id": "465",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Continuation of article 464: the 'Tom Allen.' and 'Mike McCoole.' sketches, the match history, articles of agreement and the night-before scenes, down to 'Full particulars ... in the next issue of the DEMOCRAT.' The 'Tom Allen.' heading itself is in the 464 clipping." },
+  "ocr": { "status": "rough", "notes": "mostly readable, but many names and numbers garbled (e.g. 'Rotter' Island for Foster's Island, '$2.40' for $2,000, '3500' for $500)" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat printed the fighting records of Tom Allen and Mike McCoole and the articles for their $2,000-a-side fight on September 23, 1873, with scenes at the sporting saloons the night before." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Profiles", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Same page as 464: running head 'The St. Louis Democrat: St. Louis, Tuesday, September 23, 1873', masthead 'Daily Democrat'. Pre-merger, not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen was born on April 23, 1843, at Birmingham, England, and stood 5 feet 9 3/4 inches, weighing about 180 pounds in condition",
+      "date": "1843-04-23",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "medium",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen's first defeat was to Posh Price on June 2, 1864, in England",
+      "date": "1864-06-02",
+      "people": ["Posh Price"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In England Allen fought a draw with Joe Goss lasting 1h 53m and was later beaten by Bob Smith 'the black' after 2h 53m",
+      "date": "",
+      "people": ["Joe Goss", "Bob Smith"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen came to America in July 1867 with Bill Ryall, giving sparring exhibitions around the country",
+      "date": "1867-07",
+      "people": ["Bill Ryall"],
+      "places": ["England", "United States"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "Allen first lived in Cleveland, Ohio, where he kept a saloon, and moved to St. Louis in 1868",
+      "date": "1868",
+      "people": [],
+      "places": ["Cleveland, Ohio", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "007"
+    },
+    {
+      "fact": "Allen defeated Bill Davis at Rhode's Point in January 1869 for $1,000 a side after 43 rounds in as many minutes",
+      "date": "1869-01",
+      "people": ["Bill Davis"],
+      "places": ["Rhode's Point"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Charley Gallagher knocked Allen out of time with an accidental blow at Carroll Island on February 23, 1869",
+      "date": "1869-02-23",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll Island"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "For his first McCoole fight Allen left St. Louis for Cincinnati on May 10, 1869, trained at the Buckeye House, and was arrested on the 14th but freed on bond not to violate Ohio law",
+      "date": "1869-05-14",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis", "Cincinnati, Ohio", "Buckeye House, near Cincinnati"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "038"
+    },
+    {
+      "fact": "Allen and McCoole fought at Foster's Island on June 15, 1869, for $2,000 a side; after nine rounds, all in Allen's favor, referee Val McKinney declared a draw",
+      "date": "1869-06-15",
+      "people": ["Mike McCoole", "Val McKinney"],
+      "places": ["Foster's Island"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Charley Gallagher on August 17, 1869, but was again swindled out of the stakes",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jem Mace beat Allen near New Orleans on May 10, 1870, in 45 minutes, Allen's shoulder being dislocated",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": ["near New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen later received $1,000 forfeit from McCoole",
+      "date": "",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On May 23, 1873, Allen and McCoole signed articles to fight under the new London prize ring rules for $2,000 a side on September 23 within 200 miles of St. Louis; one deposit was to be put up at Allen's house, 417 Washington Avenue",
+      "date": "1873-05-23",
+      "people": ["Mike McCoole", "Tom Kelly", "John R. Scott"],
+      "places": ["417 Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": "017"
+    },
+    {
+      "fact": "A New Yorker offered to match Joe Coburn against Allen for $2,500 a side; Allen said he was ready to fight Coburn for $1,000 to $5,000 a side in Canada or near New Orleans",
+      "date": "1873-09-22",
+      "people": ["Joe Coburn"],
+      "places": ["Canada", "New Orleans"],
+      "quote": "Coburn is a duffer and can't fight. If he can, he is afraid to fight me.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Arthur Chambers and Patsy Shepherd arrived from New York and were to second Allen against McCoole",
+      "date": "1873-09-22",
+      "people": ["Arthur Chambers", "Patsy Shepherd"],
+      "places": ["New York", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The birth year is given as 1843 here; existing fact 001 says 1839. The paper also says Allen had a benefit at the National Theatre in Cincinnati on June 5, 1869. 'Hogan' is mentioned as another opponent Allen had on his hands."
+}

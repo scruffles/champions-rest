@@ -1,0 +1,69 @@
+{
+  "id": "489",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen and Hogan Head for the Fighting Ground"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat reported that Tom Allen left the Eight-Mile House for the fighting ground with Arthur Chambers and Jack Madden. Ben Hogan, visited at the Wash Home, said that if he lost he would seek a rematch near Pittsburg."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Monday, October 27, 1873'; masthead 'Daily Democrat'. Pre-1875 merger."
+  },
+  "facts": [
+    {
+      "fact": "Allen left the Eight-Mile House for the vicinity of the fighting ground for his fight with Ben Hogan, accompanied by Arthur Chambers and Jack Madden",
+      "date": "1873-10-26",
+      "people": [
+        "Ben Hogan",
+        "Arthur Chambers",
+        "Jack Madden"
+      ],
+      "places": [
+        "Eight-Mile House, St. Louis County"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Ben Hogan said that if Allen beat him he would at once make a new match and wanted Allen to fight him near Pittsburg",
+      "date": "1873-10-26",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "Pittsburg"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's new colors: mostly brown, with the rose and thistle entwined in the border. Fight expected within 48 hours."
+}

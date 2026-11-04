@@ -1,0 +1,36 @@
+{
+  "id": "389",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "A few word errors (e.g. 'Jem Yince', 'sham arigga', '1876' for 1870)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat printed a card from Jem Mace denying a Dispatch item, apparently from Allen, that cast their fight as England against the United States; Mace called Allen as much an Englishman as himself." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat', Thursday morning, March 24, 1870; the card is addressed to the editors of the Missouri Democrat. Globe-Democrat name dates from 1875." },
+  "facts": [
+    {
+      "fact": "An item in the St. Louis Evening Dispatch, apparently from Allen, presented him as a US citizen and champion of the United States and complained that Mace had not called on him",
+      "date": "1870-03-22",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jem Mace published a card from the Varieties Theater, St. Louis, denying the fight had any international character, saying Allen was as much an Englishman as he and that he meant to whip Allen for the reputation and battle-money",
+      "date": "1870-03-23",
+      "people": ["Jem Mace"],
+      "places": ["Varieties Theater, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary has it backwards: the Dispatch item said Mace wanted a national affair, and Mace's card denies it."
+}

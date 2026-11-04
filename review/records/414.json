@@ -1,0 +1,36 @@
+{
+  "id": "414",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Allen item is the first piece ('A Challenge to Fight—A Foot Race'); the orphans' races and mad-dog items below are unrelated. The right edge of the column is clipped by a few letters throughout." },
+  "ocr": { "status": "rough", "notes": "First paragraph mostly readable; the Jack Goulding sentence and the line 'New York or in the state of Louisiana' are garbled or missing; line ends lost to the clipped right edge." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen sent the New York Clipper a challenge to fight any man in America for $2,500 or $5,000 a side, Joe Coburn preferred, the fight to be between St. Louis and New York or in Louisiana." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican—St. Louis, July 10, 1870.'" },
+  "facts": [
+    {
+      "fact": "Allen sent the New York Clipper a challenge to fight any man in America for $2,500 or $5,000 a side, Joe Coburn preferred, the fight to take place anywhere between St. Louis and New York or in Louisiana",
+      "date": "1870-07",
+      "people": ["Joe Coburn"],
+      "places": ["St. Louis", "New York", "Louisiana"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jack Goulding, Allen's trainer, was going to Ontario to arrange a mile race for Greenfield McDonald for the Dominion cup, to be held at the Pedestrian congress in Montreal in October",
+      "date": "1870-07",
+      "people": ["Jack Goulding", "Greenfield McDonald"],
+      "places": ["Ontario", "Montreal"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Right edge clipping cuts some word endings (e.g. 'goes [next] week'); readings above are from the image."
+}

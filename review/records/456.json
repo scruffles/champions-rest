@@ -1,0 +1,36 @@
+{
+  "id": "456",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Mostly right; some garbled words (e.g. 'Nat. Clai- e' for Col. Nat. Claiborne, 'pega, bet nl -medes' for Allen's ganymedes)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Discharged on Assault Charge" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that Tom Allen was tried in the Court of Criminal Correction for assault to kill Joseph P. Moore in a Fourth of July fight at his saloon, and was discharged on the evidence." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Saturday, August 2, 1873'; masthead 'Daily Democrat'. Pre-1875 merger." },
+  "facts": [
+    {
+      "fact": "Joseph P. Moore said Allen beat and kicked him after Moore fought a waiter in Allen's Washington Avenue saloon, laying him up twelve days in the City Hospital",
+      "date": "1873-07-04",
+      "people": ["Joseph P. Moore", "Jack Madden"],
+      "places": ["Tom Allen's saloon, Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was tried in the Court of Criminal Correction on a charge of assault to kill and was discharged on the evidence",
+      "date": "1873-08-01",
+      "people": ["Joseph P. Moore", "Nat. Claiborne"],
+      "places": ["Court of Criminal Correction, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Captain Burgess and a dozen policemen came to testify to Allen's good character but were not needed."
+}

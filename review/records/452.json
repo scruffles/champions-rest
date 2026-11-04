@@ -1,0 +1,46 @@
+{
+  "id": "452",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Bottom cut off: article continues past 'and has com-' describing McCoole's training" },
+  "ocr": { "status": "good", "notes": "Minor errors; OCR ends at the same point as the crop" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that the second $400-a-side deposit for the Allen-McCoole fight was made at Tom Kelley's saloon. The fight was set for September 23; Allen, at 200 pounds, was walking to reach 170." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: The St. Louis Democrat, Wednesday, June 11, 1873 (Daily Democrat)." },
+  "facts": [
+    {
+      "fact": "The second deposit of $400 a side for the Allen-McCoole fight was made at Tom Kelley's saloon; three more deposits of $500 each were due in July, August and September",
+      "date": "1873-06-10",
+      "people": ["Mike McCoole", "Tom Kelley"],
+      "places": ["Tom Kelley's saloon, Sixth near Market, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Allen-McCoole fight was scheduled for September 23, 1873",
+      "date": "1873-09-23",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen weighed about 200 pounds and was training at home by walking to reach a fighting weight of 170 pounds",
+      "date": "1873-06",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "The end of the article (McCoole's training quarters on the Gravois road and beyond) is outside the crop and unreadable on the scaled page; needs a recrop."
+}

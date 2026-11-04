@@ -1,0 +1,26 @@
+{
+  "id": "448",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Leaves for Detroit to See Mace–O'Baldwin Fight" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen, Jack Looney and a few others left St. Louis by train for Detroit to watch the expected Mace–O'Baldwin prize fight near that city." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: The Missouri Democrat, St. Louis, Monday, September 2, 1872" },
+  "facts": [
+    {
+      "fact": "Allen and Jack Looney left St. Louis on the Toledo, Wabash and Western train for Detroit to attend the Mace–O'Baldwin prize fight",
+      "date": "1872-09-01",
+      "people": ["Jack Looney", "Jem Mace", "Ned O'Baldwin"],
+      "places": ["St. Louis", "Detroit"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Headline calls the fight a 'fizzle'. The current summary copies OCR errors."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "427",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "a few words dropped in the first lines ('over ow', 'ring weeny some')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen, after his easy win over Gallagher, announced he had retired from the ring for good after seventeen fights and would ignore all further challenges." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head: 'The Missouri Republican--St. Louis, November 8, 1870'." },
+  "facts": [
+    {
+      "fact": "After beating Gallagher, Allen announced he had retired from the ring altogether to settle down to his business and would take no notice of further challenges from any country",
+      "date": "1870-11-07",
+      "people": ["J. C. Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen wished it understood that he was out of the ring",
+      "date": "1870-11-07",
+      "people": [],
+      "places": [],
+      "quote": "out of the ring.",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had appeared before the public seventeen times as a prize fighter by November 1870",
+      "date": "1870-11",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper doubted the retirement would last. Article 428 is the same item from another page/edition of the same day's paper."
+}

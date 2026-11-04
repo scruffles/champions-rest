@@ -1,0 +1,15 @@
+{
+  "id": "419",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Report of the St. Louis Farmers' Club debate on agricultural fairs; the club headline and subhead at the top are cut off. Allen is mentioned only in the 'Prize-Fighting' section (crop-3). The bottom of crop-3 and all of crop-4 are an unrelated letter, 'The Future Great City - Reavis' Great Work'." },
+  "ocr": { "status": "rough", "notes": "The gist is readable, with many garbled words. The Allen paragraph is mostly right ('Mile McCoole' for Mike McCoole)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that at a St. Louis Farmers' Club debate on agricultural fairs, Dr. Morse said a $1,000 premium might bring Tom Allen, Mike McCoole or another famous pugilist to stage a prize fight." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The masthead reads 'The Missouri Republican--St. Louis, August 22, 1870'." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "This is only a passing hypothetical mention of Allen as a famous pugilist, so no facts were extracted."
+}

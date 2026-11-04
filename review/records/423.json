@@ -1,0 +1,36 @@
+{
+  "id": "423",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors only." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that the Allen-Gallagher prize fight would take place near St. Louis on November 1. The last stakes were put up at Allen's saloon, and Allen had stopped training on a false report that Gallagher was sick." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat, Tuesday Morning, Oct. 25, 1870'. This is before the 1875 Globe-Democrat merger." },
+  "facts": [
+    {
+      "fact": "The last instalment of the battle money for the Allen-Gallagher fight was put up at Allen's saloon, with Allen the 2-to-1 favorite. The fight was set for November 1 near St. Louis",
+      "date": "1870-10-24",
+      "people": ["James C. Gallagher"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen stopped training and was 'rather full in flesh' after hearing that Gallagher was sick with intermittent fever, a report later contradicted",
+      "date": "1870-10",
+      "people": ["James C. Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "This is the same event as article 422 (the Missouri Republican, same date)."
+}

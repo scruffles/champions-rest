@@ -1,0 +1,36 @@
+{
+  "id": "391",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping holds several City News items; only the last, 'Joe Coburn and Tom Allen', is about Allen, and it is complete." },
+  "ocr": { "status": "good", "notes": "Left edge letters dropped in places." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Joe Coburn and Tom Allen would spar at Mozart Hall on Monday night, and that Coburn would go with Allen to New Orleans next month, probably as his second against Mace." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat', Thursday morning, April 21, 1870." },
+  "facts": [
+    {
+      "fact": "Allen and Joe Coburn were to spar at an exhibition at Mozart Hall, St. Louis",
+      "date": "1870-04-25",
+      "people": ["Joe Coburn"],
+      "places": ["Mozart Hall, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Joe Coburn was to travel with Allen from St. Louis to New Orleans in May 1870 and probably act as his second in the fight with Mace",
+      "date": "1870-05",
+      "people": ["Joe Coburn", "Jem Mace"],
+      "places": ["St. Louis", "New Orleans"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "'Monday night' after Thursday April 21 is April 25, 1870."
+}

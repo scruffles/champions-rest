@@ -1,0 +1,26 @@
+{
+  "id": "447",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen waited excitedly near the telegraph office for news of the Mace–O'Baldwin fight and said O'Baldwin was too much for Mace, who had 'the sickness at the heart.'" },
+  "focus": { "current": "passing", "suggested": "primary" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: The Missouri Democrat, St. Louis, Thursday, August 22, 1872" },
+  "facts": [
+    {
+      "fact": "Asked about the reported Mace–O'Baldwin fight, Allen said O'Baldwin was too much for Mace and that Mace had 'the sickness at the heart'",
+      "date": "1872-08-21",
+      "people": ["Jem Mace", "Ned O'Baldwin"],
+      "places": ["St. Louis"],
+      "quote": "Jem, you see, has the sickness at the heart.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The item is wholly about Allen, so focus raised to primary. The current summary's 'too much skill' is not in the text."
+}

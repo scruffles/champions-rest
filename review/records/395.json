@@ -1,0 +1,36 @@
+{
+  "id": "395",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that about 800 people saw Tom Allen spar Joe Coburn at Coburn's benefit at Mozart Hall, and that a benefit for Allen was set for Saturday night, when his belt would be presented." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, Tuesday April 26, 1870." },
+  "facts": [
+    {
+      "fact": "Allen sparred Joe Coburn at a benefit for Coburn at Mozart Hall, St. Louis, before about 800 people",
+      "date": "1870-04-25",
+      "people": ["Joe Coburn", "Mike McCoole", "Tom Kelly"],
+      "places": ["Mozart Hall, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A benefit for Allen was announced for Saturday night, when his championship belt would be presented",
+      "date": "1870-04-30",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": "021"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fact 021 dates the belt presentation April 29, 1870; this article (Saturday) and 397 point to Saturday April 30."
+}

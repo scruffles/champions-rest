@@ -1,0 +1,36 @@
+{
+  "id": "437",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Allen notice complete; clipping also includes unrelated neighbouring notices (First Presbyterian Church, steamer Will S. Hays sale)." },
+  "ocr": { "status": "good", "notes": "Allen notice read correctly." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and Mace Return From Kansas City to Allen's Concert Saloon" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat announced that Tom Allen and Jim Mace would arrive that morning from Kansas City and meet their friends at the Free-and-easy at Allen's concert saloon, 417 Washington avenue, with Tom in the chair." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat', Saturday Morning, June 3, 1871. Before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Tom Allen returned to St. Louis from Kansas City with Jem Mace",
+      "date": "1871-06-03",
+      "people": ["Jem Mace"],
+      "places": ["Kansas City", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Tom Allen's Concert Saloon was at 417 Washington avenue, where he presided over a Free-and-easy",
+      "date": "1871-06-03",
+      "people": [],
+      "places": ["Tom Allen's Concert Saloon, 417 Washington avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

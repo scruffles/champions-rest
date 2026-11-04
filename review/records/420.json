@@ -1,0 +1,26 @@
+{
+  "id": "420",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors only." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen and James C. Gallagher signed articles at Hennessy's saloon to fight for $1,500 on November 1 within fifty miles of St. Louis, Allen staking $1,000 to Gallagher's $500." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat, Tuesday Morning, Sept. 20, 1870'. This is before the 1875 Globe-Democrat merger." },
+  "facts": [
+    {
+      "fact": "Allen and James C. Gallagher signed articles of agreement to fight for $1,500, Allen staking $1,000 to Gallagher's $500, on November 1 within fifty miles of St. Louis under the new London prize ring rules",
+      "date": "1870-09-19",
+      "people": ["James C. Gallagher"],
+      "places": ["Hennessy's saloon, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper says Allen at first treated Gallagher's proposal as a joke and considered him a novice."
+}

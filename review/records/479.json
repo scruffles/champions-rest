@@ -1,0 +1,52 @@
+{
+  "id": "479",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "mostly readable; 'lushing' read as 'OB peace', 'disastrously' garbled, some word errors"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Hogan Trains for His Fight with Allen"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat reported that Ben Hogan was training for his coming fight with Tom Allen, while Allen, confident of victory, had not begun training and was 'lushing' considerably."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "Masthead: The St. Louis Democrat, Wednesday, October 1, 1873 (Daily Democrat). Before the 1875 Globe-Democrat merger."
+  },
+  "facts": [
+    {
+      "fact": "Allen was matched to fight Ben Hogan; as of October 1 he had not begun training and planned to start only a few days before the fight",
+      "date": "1873-10",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Also notes McCoole was still recovering from his fight with Allen."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "429",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "right edge of the column is cut off; the last few letters of most lines are missing (e.g. 'Tom Allen Puts in a Wor[d]', 'Ex-Champion of A[merica]')" },
+  "ocr": { "status": "rough", "notes": "gist and names readable; many character errors, and line ends missing because of the crop" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reprinted from the Clipper a letter in which Tom Allen disputed Joe Coburn's claim to be the only champion of America, saying he had challenged Coburn ten times without an answer." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "masthead reads 'Daily Democrat, Sunday Morning, February 12, 1871'; letter reprinted from the New York Clipper, dated St. Louis, January 27" },
+  "facts": [
+    {
+      "fact": "Allen wrote to Frank Queen of the New York Clipper from St. Louis disputing Joe Coburn's claim to be the only champion of America and challenging Coburn",
+      "date": "1871-01-27",
+      "people": ["Joe Coburn", "Frank Queen"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had challenged Coburn ten times since coming to America and Coburn never answered",
+      "date": "1871-01-27",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "quote": "I have challenged Coburn ten times since I have bee[n in this] country, and he never answered any of my [challen]ges.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen offered Coburn $200 to withdraw from his match with Jem Mace and offered to stake $3,000 to fight Coburn on the same day, the 11th, fifty miles from Detroit",
+      "date": "1871-01-27",
+      "people": ["Joe Coburn", "Jem Mace"],
+      "places": ["near Detroit"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Month of the proposed fight date is cut off ('the 11th of A...'). Allen signed as 'Ex-Champion of A[merica]'. Brackets in the quote mark letters lost at the crop edge."
+}

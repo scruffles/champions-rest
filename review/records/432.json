@@ -1,0 +1,26 @@
+{
+  "id": "432",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "includes the following 'COMMERCE' section heading; the 'Sporting' column heading is just above the crop" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Offers to Fight Coburn or O'Baldwin" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported from New York that Joe Coburn challenged Jem Mace for $10,000 and that Tom Allen offered to fight Coburn for $5,000 or O'Baldwin for $1,000." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "page header reads 'The Missouri Republican--St. Louis May 15, 1871'; dispatch dated New York, May 14" },
+  "facts": [
+    {
+      "fact": "A New York dispatch reported that Allen offered to fight Joe Coburn for $5,000 or Ned O'Baldwin for $1,000",
+      "date": "1871-05-14",
+      "people": ["Joe Coburn", "Ned O'Baldwin"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title and summary are wrong: there is no Mace interview, only a two-sentence telegraph item. Same dispatch as article 431; Allen denied the challenge in article 433."
+}

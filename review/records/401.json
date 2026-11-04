@@ -1,0 +1,46 @@
+{
+  "id": "401",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping starts mid-article at 'The toss for corners' and stops at 'Remarks'; the headline 'The Mace-Allen Fight' and opening sections (lower column 2) and the remarks are not in the crop." },
+  "ocr": { "status": "rough", "notes": "gist clear, many word errors in the first part (spikes, toss)" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat printed a round-by-round account of Tom Allen's fight with Jem Mace near New Orleans, which ended in the tenth round when Mace threw Allen heavily and Joe Coburn threw up the sponge." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads Daily Democrat, Friday Morning, May 13, 1870. Current summary wrongly says the fight was May 13 at Cincinnati; it was May 10 near New Orleans." },
+  "facts": [
+    {
+      "fact": "Allen lost to Jem Mace in ten rounds; Mace threw him heavily on his head and shoulders and Allen's second Joe Coburn threw up the sponge",
+      "date": "1870-05-10",
+      "people": ["Jem Mace", "Joe Coburn"],
+      "places": ["near New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Coburn said Allen's shoulder was dislocated by the fall; a surgeon found it was not dislocated but the muscles were cramped and contracted",
+      "date": "1870-05-10",
+      "people": ["Joe Coburn"],
+      "places": ["near New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "During the tenth round Allen said to Mace, \"Hard work, Jem,\" and Mace replied, \"'Deed it is, Master Tom.\"",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": ["near New Orleans, Louisiana"],
+      "quote": "Hard work, Jem,",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Crop should be extended to include the headline and opening of the article (column 2) and the remarks (column 3) if wanted."
+}

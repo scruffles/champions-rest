@@ -1,0 +1,36 @@
+{
+  "id": "442",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full 'Sporting' report of the Mace-Coburn fight; ends at the 'Trotting' subhead." },
+  "ocr": { "status": "good", "notes": "Mostly accurate with scattered errors ('Col. Rufus Nant' for Hunt)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen and Jim Cusick seconded Jem Mace against Joe Coburn at Montgomery Station, Mississippi. The referee declared the fight a draw after three hours and thirty-eight minutes." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Page header reads 'The Missouri Republican--St. Louis, December 2, 1871'. The St. Louis Republic name dates from 1888." },
+  "facts": [
+    {
+      "fact": "Allen and Jim Cusick seconded Jem Mace against Joe Coburn at Montgomery Station, Mississippi, about forty miles from New Orleans; the referee, Col. Rufus Hunt, declared the fight a draw after 3 hours 38 minutes",
+      "date": "1871-11-30",
+      "people": ["Jem Mace", "Joe Coburn", "Jim Cusick", "Rufus Hunt"],
+      "places": ["Montgomery Station, Mississippi"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen travelled from New Orleans on the special excursion train to the Mace-Coburn fight ground",
+      "date": "1871-11-30",
+      "people": [],
+      "places": ["New Orleans, Louisiana", "Montgomery Station, Mississippi"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same report as 441 (Daily Missouri Democrat, same day)."
+}

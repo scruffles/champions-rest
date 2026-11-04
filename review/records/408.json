@@ -1,0 +1,26 @@
+{
+  "id": "408",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping stops at the 'Articles of Agreement' heading; the articles and the rest of the article continue on the page below." },
+  "ocr": { "status": "good", "notes": "Accurate for the part in the crop." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "McCoole and Allen Sign Articles for Fight" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reprinted its report that Mike McCoole and Tom Allen met Saturday at Coyne's saloon and made a match for $2,500 a side, the fight to take place near St. Louis on September 13." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat, Monday Morning, May 30, 1870.' Before the 1875 merger, so not the Globe-Democrat. Reprint of the May 29 article (407), with 'yesterday' changed to 'Saturday'." },
+  "facts": [
+    {
+      "fact": "Allen and Mike McCoole signed articles at Coyne's saloon for a rematch for $2,500 a side, each putting up $500, the fight to take place near St. Louis on September 13",
+      "date": "1870-05-28",
+      "people": ["Mike McCoole"],
+      "places": ["Coyne's saloon, Third Street near the post office, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Duplicate of article 407 (same text, one day later); consider whether both should stay. Current title 'Try Their Mettle' is less informative than 407's."
+}

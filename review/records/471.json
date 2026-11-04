@@ -1,0 +1,26 @@
+{
+  "id": "471",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The whole 'Amusements' column; only the Theater Comique paragraph is about Allen." },
+  "ocr": { "status": "rough", "notes": "The Allen paragraph is mostly readable but garbled in places ('Msdden', 'nyeah and Leola' for 'Sanyeah and Leola'); other paragraphs worse." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat announced the first evening of a complimentary benefit for Allen at the Theater Comique, where he would spar with Jack Madden and Arthur Chambers and Patsey Sheppard would give an exhibition." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Masthead reads 'The St. Louis Democrat: St. Louis, Thursday, September 25, 1873'; not the Globe-Democrat until 1875." },
+  "facts": [
+    {
+      "fact": "Allen was given a complimentary benefit at the Theater Comique in St. Louis, two days after beating McCoole, sparring with Jack Madden on the opening night",
+      "date": "1873-09-25",
+      "people": ["Jack Madden", "Arthur Chambers", "Patsey Sheppard"],
+      "places": ["Theater Comique, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The notice is a preview ('will exhibit'), so the old summary's 'exhibited' overstated it."
+}

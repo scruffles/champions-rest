@@ -1,0 +1,64 @@
+{
+  "id": "409",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Clipping holds the full 'Gladiatorial Mimicry' item about the Mace-Allen sparring match (crop-1 and top of crop-2), plus an unrelated item below it, 'A Remarkable Western Character' (Susie Raper of Carlin, Nevada)."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Allen item mostly readable but with many garbled words ('Cte ox ot Geet wey', 'Msoce'); OCR also includes the unrelated Susie Raper item."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen spars with Jem Mace at Brady's Curriculum in Jersey City"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat reprinted a New York Herald account of a four-round sparring exhibition between Tom Allen and Jem Mace at Prof. Brady's Curriculum in Jersey City, before a large and excited crowd."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "Masthead reads 'Daily Democrat. Supplement. Sunday Morning, June 19, 1870' - the Missouri Democrat, not yet the Globe-Democrat. Item is credited to the N. Y. Herald of the 11th."
+  },
+  "facts": [
+    {
+      "fact": "Allen and Jem Mace sparred four rounds in a friendly exhibition at Prof. Brady's Curriculum in Jersey City; each was shown with his championship belt",
+      "date": "1870-06-10",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "Prof. Brady's Curriculum, Jersey City, New Jersey"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was described as soon to contest with Mike McCoole for the championship of America",
+      "date": "1870-06",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Exhibition date inferred from 'last evening' in the Herald of June 11. Crop could be trimmed to drop the Susie Raper item."
+}

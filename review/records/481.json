@@ -1,0 +1,50 @@
+{
+  "id": "481",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "City News column of short notices; only the 'Tom Allen' notice (third item) is about Allen"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": ""
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen's Free Concert Hall Advertised"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat carried a notice for Tom Allen's Free Concert Hall at 417 Washington Avenue, 'best place of amusement in the city,' open every evening with the champion presiding."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "Masthead: The St. Louis Democrat, Tuesday, October 7, 1873 (Daily Democrat)."
+  },
+  "facts": [
+    {
+      "fact": "Allen's Free Concert Hall at 417 Washington Avenue was open every evening, with Allen presiding",
+      "date": "1873-10",
+      "people": [],
+      "places": [
+        "417 Washington Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title and summary (blue ribbon at the fair) describe article 482, not this clipping. Same notice as 483."
+}

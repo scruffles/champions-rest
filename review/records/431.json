@@ -1,0 +1,26 @@
+{
+  "id": "431",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat carried a New York dispatch reporting that Tom Allen offered to fight Joe Coburn for $5,000 or O'Baldwin for $1,000 a side, after Coburn challenged Jem Mace." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "masthead reads 'The Missouri Democrat, St. Louis, Monday Morning, May 15, 1871'; dispatch dated New York, May 14" },
+  "facts": [
+    {
+      "fact": "A New York dispatch reported that Allen offered to fight Joe Coburn for $5,000 or Ned O'Baldwin for $1,000 a side",
+      "date": "1871-05-14",
+      "people": ["Joe Coburn", "Ned O'Baldwin"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "One line in a New York news roundup. Allen publicly denied making this challenge the next day (article 433), so confidence is low."
+}

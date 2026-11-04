@@ -1,0 +1,36 @@
+{
+  "id": "415",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors (Meeken for Meeker as printed, stray characters)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that a $100-a-side fight between Punch Morris and Steve O'Donnell was made up at Tom Allen's saloon, with Allen backing Morris, to be fought on August 30 in the same ring as Meeker and Gallagher." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Saloon", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican—St. Louis, August 8, 1870.'" },
+  "facts": [
+    {
+      "fact": "A $100-a-side fight between Punch Morris and Steve O'Donnell was made up at Allen's saloon, with Allen backing Morris and Jack Leoney backing O'Donnell; the forfeit was put up at Allen's",
+      "date": "1870-08-06",
+      "people": ["Punch Morris", "Steve O'Donnell", "Jack Leoney"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "The Morris-O'Donnell fight was set for August 30, 1870, in the same ring as Meeker and Gallagher, within fifty miles of St. Louis",
+      "date": "1870-08-30",
+      "people": ["Punch Morris", "Steve O'Donnell", "Owen Meeker", "Jim Gallagher"],
+      "places": ["within fifty miles of St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "'Saturday night' before the Monday, August 8 paper is August 6."
+}

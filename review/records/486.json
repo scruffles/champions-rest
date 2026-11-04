@@ -1,0 +1,52 @@
+{
+  "id": "486",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable; many word errors in the middle paragraphs."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Ben Hogan Training at the Wash Home Before the Allen Fight"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat visited Ben Hogan at the Wash Home, where he was training with Jerry Donovan to meet Tom Allen a week later. Mike McCoole, it said, had fully recovered from his beating by Allen."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Tuesday, October 21, 1873'; masthead 'Daily Democrat'. Pre-1875 merger."
+  },
+  "facts": [
+    {
+      "fact": "Allen's fight with Ben Hogan was set for October 28, 1873, one week from the date of the article",
+      "date": "1873-10-28",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Article is about Hogan; Allen appears as his upcoming opponent and in the McCoole aside."
+}

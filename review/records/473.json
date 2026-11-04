@@ -1,0 +1,56 @@
+{
+  "id": "473",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole 'The Manly Art' article is in the clipping; a short unrelated Safe Deposit Company notice sits at the top." },
+  "ocr": { "status": "rough", "notes": "Gist is there but many garbled words and dropped lines (e.g. 'Bar llagher' for 'Bar Gallagher', 'old Bil De ip' for 'old Bill Davis', the 'Tom, you bloat' line)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that Allen and Ben Hogan signed articles at Looney & Herbert's saloon on September 25, 1873, to fight for $1,000 a side on October 28, the ground to be chosen later." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Masthead reads 'The St. Louis Democrat: St. Louis, Friday, September 26, 1873'; not the Globe-Democrat until 1875." },
+  "facts": [
+    {
+      "fact": "Allen and Ben Hogan signed articles to fight a fair stand-up fight under the new rules for $1,000 a side on October 28, 1873, the ground to be picked by one man from each side; Arthur Chambers witnessed for Allen",
+      "date": "1873-09-25",
+      "people": ["Ben Hogan", "Arthur Chambers", "Jack Looney"],
+      "places": ["Looney & Herbert's saloon, Sixth and St. Charles streets, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen refused Hogan's requests to leave the stake open and postpone the fight two weeks",
+      "date": "1873-09-25",
+      "people": ["Ben Hogan"],
+      "places": ["St. Louis"],
+      "quote": "Ben, all I want is a good square fight, and may the best man win.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he bore McCoole no ill will after their fight and had tried to visit him",
+      "date": "1873-09-25",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "I have no ill feeling again a man I fight. It's all a matter of business with me. I tried to get up stairs to see Mike, but they wouldn't let me.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen mentioned his wife, saying a false report of McCoole's death left her unable to sleep",
+      "date": "1873-09-24",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "Why the report reached us last night that Mike was dead, and my wife was in a terrible state. She couldn't sleep at all.",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The old summary's 'near Cincinnati' is not in the article. Allen said he would rest two weeks before training; his right second knuckle was slightly cut. He also rated Bill Davis's handwriting best among fighters."
+}

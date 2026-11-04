@@ -1,0 +1,26 @@
+{
+  "id": "417",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Gist readable but many character errors (e.g. 'Maddey', 'Angnat 15, 3870')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "John Madden Accepts Buckey Barrett's Challenge at Tom Allen's Saloon" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat printed a letter from John Madden accepting Buckey Barrett's posted challenge, offering to fight him for $25 or more in the McKeen and Gallagher ring, with arrangements to be made at Tom Allen's saloon." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat', Tuesday morning, August 16, 1870; letter dated August 15, 1870. Before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "John Madden accepted Buckey Barrett's challenge and named Allen's saloon as the place to arrange the match",
+      "date": "1870-08-15",
+      "people": ["John Madden", "Buckey Barrett"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Madden is accepting Barrett's challenge, not issuing one, so the current title is slightly misleading."
+}

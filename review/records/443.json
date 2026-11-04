@@ -1,0 +1,66 @@
+{
+  "id": "443",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Readable but many errors, including numbers: image shows about 800 tickets (OCR '30¢') and about $8,000 (OCR '$3,000')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported claims that the Mace-Coburn fight was fixed. Interviewed at his Washington Avenue saloon after returning, Tom Allen, Mace's second, said he did not believe it and blamed Mace's broken hand." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat', Tuesday morning, December 5, 1871. Before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen returned to St. Louis from the Mace-Coburn fight, the day before he was interviewed at his Washington Avenue saloon",
+      "date": "1871-12-03",
+      "people": [],
+      "places": ["New Orleans, Louisiana", "Tom Allen's saloon, Washington Avenue, St. Louis"],
+      "quote": "Returned yesterday. Didn't stay long after it was over.",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Mace would have beaten Coburn had he not broken his hand early in the fight",
+      "date": "1871-12-04",
+      "people": ["Jem Mace", "Joe Coburn"],
+      "places": [],
+      "quote": "Well, if Mace hadn't broke his hand in the first round, he'd made short work of \"the Roman.\" After that he had to be on the defensive.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen denied the Mace-Coburn fight was fixed, saying he had more money on Mace than backer Al Smith",
+      "date": "1871-12-04",
+      "people": ["Jem Mace", "Al Smith"],
+      "places": [],
+      "quote": "I don't believe it. Al Smith thinks so? Well, I had more money on Mace than he. I don't think Mace would throw his backers so.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he claimed a foul for Mace at the fight but the referee would not listen, and a man pulled a revolver on him",
+      "date": "1871-11-30",
+      "people": ["Jem Mace"],
+      "places": ["Montgomery Station, Mississippi"],
+      "quote": "One fellow pulled a revolver on me, and told me to shut up, that I had nothing to say about it.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Coburn was the better man towards the end of the fight, as Mace was nearly gone from the cold",
+      "date": "1871-12-04",
+      "people": ["Joe Coburn", "Jem Mace"],
+      "places": [],
+      "quote": "Coburn, and if he had followed Mace a half hour longer he would have won even without striking a blow, for Mace was nearly gone from cold.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Interview took place 'yesterday afternoon' (Dec. 4); Allen's 'returned yesterday' would put his return about Dec. 3. Allen says Mace broke his hand in the first round; the fight reports say the second. Focus raised to primary since half the article is Allen's interview and the headline names him."
+}

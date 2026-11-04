@@ -1,0 +1,50 @@
+{
+  "id": "482",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "'Fair Facts' column of short unrelated items; only the Tom Allen item is about him"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Allen item read correctly; minor errors elsewhere"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat's 'Fair Facts' column joked that Tom Allen exhibited himself to the curious at a booth at the St. Louis Fair and 'took the blue ribbon on his mug-masher.'"
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "Masthead: The St. Louis Democrat, Tuesday, October 7, 1873 (Daily Democrat)."
+  },
+  "facts": [
+    {
+      "fact": "Allen exhibited himself at a booth at the St. Louis Fair",
+      "date": "1873-10-06",
+      "people": [],
+      "places": [
+        "St. Louis Fair grounds, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The blue ribbon is a joke, not a real award. Date of the event inferred from the column's other 'yesterday' items."
+}

@@ -1,0 +1,68 @@
+{
+  "id": "412",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors ('hix', 'Alien', 'Gos<', 'moonshine')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen declines McCoole's challenge to fight for the belts"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen would not accept Mike McCoole's challenge to fight for the belts, saying he could not afford months of training with no money to win, and doubted rumors of a match with Joe Goss."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican, St. Louis, July 9, 1870'."
+  },
+  "facts": [
+    {
+      "fact": "Allen said he would not accept McCoole's latest challenge to fight for the belts, as he could not afford a month or two of training for a fight with no money to win",
+      "date": "1870-07",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Rumors from New York of a $1,000-a-side match between Allen and Joe Goss of England, said to be made by Joe Coburn and Jem Mace, were denied by Allen, who said he had no information about it",
+      "date": "1870-07",
+      "people": [
+        "Joe Goss",
+        "Joe Coburn",
+        "Jem Mace"
+      ],
+      "places": [
+        "New York"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's words are reported indirectly, not quoted, so no quote fact. Mace's telegram to Allen came on Thursday night (July 7)."
+}

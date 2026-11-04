@@ -1,0 +1,66 @@
+{
+  "id": "490",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'The Millers' article from headline to the closing rule; includes Arthur Chambers' challenge letter at the end." },
+  "ocr": { "status": "rough", "notes": "Gist and most names readable; many character errors, signatures (Ben Hogan, Tom Allen, Arthur Chambers) and some lines garbled or dropped." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat previewed the Allen-Hogan fight for $1,000 a side set for that day, reporting Allen already near the fight ground and both men in excellent condition, and reprinted the articles of agreement." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Tuesday, October 28, 1873'; masthead 'Daily Democrat'. Pre-1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen and Ben Hogan signed articles of agreement in St. Louis to fight for $1,000 a side under the new rules on October 28, 1873",
+      "date": "1873-09-25",
+      "people": ["Ben Hogan", "Arthur Chambers", "John Looney"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen left St. Louis on Sunday for the vicinity of the fight ground ahead of the Hogan fight",
+      "date": "1873-10-26",
+      "people": ["Ben Hogan"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was to be seconded by Arthur Chambers and Patsy Curtin against Hogan; the steamer Continental was to carry spectators from the foot of Carr Street",
+      "date": "1873-10-28",
+      "people": ["Arthur Chambers", "Patsy Curtin", "Ben Hogan"],
+      "places": ["East St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was to have a benefit at Deagle's Theater the night of the Hogan fight, with Hogan, Arthur Chambers and Young Ryan expected to spar",
+      "date": "1873-10-28",
+      "people": ["Ben Hogan", "Arthur Chambers", "Young Ryan"],
+      "places": ["Deagle's Theater, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's Washington Avenue saloon was crowded with betting on the eve of the Hogan fight, Allen the strong favorite",
+      "date": "1873-10-27",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is said to have told the hack-driver he would 'put a terrible head on the bloody Dutchman' (reported speech, not a direct quote). Chambers' challenge to Mike Coburn is general boxing news, not recorded as a fact."
+}

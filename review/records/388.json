@@ -1,0 +1,36 @@
+{
+  "id": "388",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole 'Boxiana' article is present; the bottom of the clipping also includes an unrelated 'Meeting of Irish Citizens' item." },
+  "ocr": { "status": "rough", "notes": "Most of the text is readable but several lines are garbled (description of the crowd, Heenan's appearance, Looney's bet)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Jem Mace and John C. Heenan sparred before a packed house at the Varieties theater, and that Allen's St. Louis friends, having seen Mace, still backed Allen to win their May fight." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Exhibitions", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican -- St. Louis, March 23, 1870'; the St. Louis Republic name dates from 1888." },
+  "facts": [
+    {
+      "fact": "Allen's fight with Jem Mace was booked for May 1870",
+      "date": "1870-05",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jem Mace and John C. Heenan gave a sparring exhibition at the Varieties theater in St. Louis, then left for Cincinnati, where Mace was to begin training for the Allen fight",
+      "date": "1870-03-22",
+      "people": ["Jem Mace", "John C. Heenan"],
+      "places": ["Varieties Theater, St. Louis", "Cincinnati"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "378",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "A New York dispatch column with several unrelated items (bank defalcation, canal tolls, mails, stock exchange); only the last paragraph, 'Match Between Jem Mace and Tom Allen', is about Allen." },
+  "ocr": { "status": "good", "notes": "Allen paragraph reads correctly; some errors in the headlines and other items." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported from New York that a match had been arranged between Jem Mace and Tom Allen, with $500 a side deposited with a stakeholder and the fight set for near Cincinnati in March." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: The Missouri Democrat, St. Louis, Wednesday morning, December 29, 1869; dispatch dated New York, December 28." },
+  "facts": [
+    {
+      "fact": "A match between Allen and Jem Mace was reported arranged, with $500 each deposited with a stakeholder and the fight to be near Cincinnati in March 1870",
+      "date": "1869-12-25",
+      "people": ["Jem Mace"],
+      "places": ["New York", "Cincinnati"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Deposit made 'last Saturday', i.e. Dec 25, 1869. Other reports of the time (379) give Allen's deposit as sent Dec 31 and the proposed date as July 5, 1870, so this early report may be inaccurate."
+}

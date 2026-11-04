@@ -1,0 +1,36 @@
+{
+  "id": "372",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole 'Pugilistic Items' paragraph group is in the clipping." },
+  "ocr": { "status": "good", "notes": "Mostly right; a few garbled words ('no semeee' for 'no remedy', 'peas ay Geqeee' for 'people are disgusted', McCoole's name dropped from the Commercial quote)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen-McCoole Fight Draws Little Interest in St. Louis" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported little St. Louis interest in the November 10 Allen-McCoole fight after Allen's last two disputed fights, while Cincinnati was eager; Jim Coyne held a levee at Allen's saloon." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat, Tuesday Morning, November 2, 1869.'" },
+  "facts": [
+    {
+      "fact": "Allen's second fight with Mike McCoole was set for November 10, 1869, within fifty miles of Cincinnati",
+      "date": "1869-11-10",
+      "people": ["Mike McCoole"],
+      "places": ["near Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was to have had a benefit at Mozart Hall in Cincinnati on October 30, 1869",
+      "date": "1869-10-30",
+      "people": [],
+      "places": ["Mozart Hall, Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper says the 'unfairness' of Allen's last two fights (with McCoole and Gallagher) made St. Louis suspicious of prize fighting; the Cincinnati Commercial is quoted as saying Allen fairly won both. Coyne was preparing for a fight with Patsey Reardon. 'was to have had a benefit' leaves unclear whether it took place."
+}

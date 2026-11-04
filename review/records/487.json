@@ -1,0 +1,96 @@
+{
+  "id": "487",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Most readable; Allen's letter and later paragraphs have many errors (e.g. 'Domuey' for Looney, garbled lines near the end)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen Answers the Republican on Coburn as the Hogan Fight Nears"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat previewed the Allen-Hogan fight set for the 28th and printed a letter from Tom Allen denying the Republican's claim he feared Joe Coburn, offering $500 to whip any man in the world."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Friday, October 24, 1873'; masthead 'Daily Democrat'. Pre-1875 merger."
+  },
+  "facts": [
+    {
+      "fact": "Allen was training for the Hogan fight at the Eight-Mile House, St. Louis County; his letter was dated from the Mount Olive House",
+      "date": "1873-10",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "Eight-Mile House, St. Louis County",
+        "Mount Olive House, St. Louis County"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen wrote to the Democrat denying the Republican's claim that he would not fight Joe Coburn, saying he had challenged Coburn again and again without reply",
+      "date": "1873-10-23",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "Now the sporting men of St. Louis know that I have challenged Coburn again and again, and never got any reply.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen offered $500 that he could whip any man in the world, including Joe Coburn",
+      "date": "1873-10-23",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "there are $500 at my house that say that I can whip any man in the world, as well as that newspaper fighter, Joe Coburn. I never sent a challenge in my life that I did not back with my money.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A New York dispatch said Joe Coburn would decline all challenges, having resolved after his Mace match not to enter the ring again",
+      "date": "1873-10-18",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [
+        "New York"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Letter signed 'Tom Allen, Champion'. Arthur Chambers to act as one of Allen's seconds."
+}

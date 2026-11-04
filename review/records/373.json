@@ -1,0 +1,36 @@
+{
+  "id": "373",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole 'Pugilistic' item is in the two pieces." },
+  "ocr": { "status": "rough", "notes": "Gist is there but the first Enquirer paragraph and the Jem Kine paragraph have many garbled words (e.g. 'impromptu mill', 'Reardon's backers' lost)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Nearly Fights Sherman Thurston in Cincinnati" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reprinted Cincinnati reports that Sherman Thurston, upset at being left out by his old friend Allen, nearly came to blows with him at the Buckeye House days before the McCoole fight." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Personal life", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat, Thursday Morning, Nov. 4, 1869.' The item reprints the Cincinnati Enquirer and Commercial." },
+  "facts": [
+    {
+      "fact": "Allen was staying at the Buckeye House in Cincinnati before his November 1869 fight with McCoole, where crowds came to see him",
+      "date": "1869-11",
+      "people": [],
+      "places": ["Buckeye House, Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen quarreled with his old friend Sherman Thurston, who had come from St. Louis, at the Buckeye House; it nearly became a fight but was settled with a drink and a handshake",
+      "date": "1869-10-31",
+      "people": ["Sherman Thurston"],
+      "places": ["Buckeye House, Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The quarrel was 'yesterday' in the Monday Enquirer (so Sunday, Oct. 31, 1869). The item also reports McCoole leaving for Kentucky and Jack Looney arranging McCoole's quarters at Shady Grove."
+}

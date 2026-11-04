@@ -1,0 +1,26 @@
+{
+  "id": "426",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Top line is an unrelated ad (Scarritt's chamber suits)." },
+  "ocr": { "status": "rough", "notes": "main text readable; headline garbled" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "McCoole and Gallagher make a match; Allen said to retire" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Mike McCoole and James C. Gallagher, recently beaten by Allen, made a $1,000 match, and that Allen had on good authority retired from the ring to attend to his saloon." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: 'Daily Democrat, Tuesday Morning, Nov. 8, 1870'." },
+  "facts": [
+    {
+      "fact": "Allen was reported to have permanently retired from the ring to attend to his saloon business",
+      "date": "1870-11",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title says 'considers retirement' but the paper says he 'has permanently retired'. Most of the item is the McCoole-Gallagher match, made at Aleck McKee's on Chestnut street."
+}

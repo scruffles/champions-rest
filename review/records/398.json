@@ -1,0 +1,26 @@
+{
+  "id": "398",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "short city-news paragraph, complete" },
+  "ocr": { "status": "good", "notes": "minor errors (Tae Fichr, Orleane); stray junk lines at top and bottom" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and Mace to Fight Today Near New Orleans" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen and Jem Mace would fight that day near New Orleans, noting that Mace was favored in St. Louis but Allen in New Orleans, and that many St. Louisans had gone down to watch." },
+  "focus": { "current": "passing", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": false, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads Daily Democrat, Tuesday Morning, May 10, 1870 (small but legible); the item says the fight is 'to-day', which matches the May 10 fight. Filed date 1870-05-09 appears to be off by one." },
+  "facts": [
+    {
+      "fact": "Allen and Jem Mace were set to fight near New Orleans; Mace was the favorite in St. Louis, Allen the favorite in New Orleans",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": ["near New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title says the fight is happening; it is a same-day preview."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "450",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Gist readable; the friend's quote and backing amounts garbled" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported a rumor of a match between Tom Kelly and Tom Allen. Kelly's friends offered to back him for $500 or $1,000 if Allen could come down to Kelly's weight, but no definite steps had been taken." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: The Missouri Democrat, St. Louis, Sunday, December 1, 1872 (Daily Democrat)." },
+  "facts": [
+    {
+      "fact": "A match between Allen and Tom Kelly was rumored; Kelly's friends offered to back him for $500 or $1,000 provided Allen came down to Kelly's weight, but nothing was arranged",
+      "date": "1872-11-30",
+      "people": ["Tom Kelly"],
+      "places": ["Tom Kelly's saloon, Sixth near Market, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Rumor only; Kelly himself discouraged the offers."
+}

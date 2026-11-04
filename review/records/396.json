@@ -1,0 +1,36 @@
+{
+  "id": "396",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "whole article; includes two small ads (Kensington collar, Star Clothing House) above the headline" },
+  "ocr": { "status": "good", "notes": "articles of agreement deposit lines garbled" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen sparred Joe Coburn before a jammed crowd at Coburn's benefit at Mozart Hall, where Coburn landed twice as many blows while Allen, the heavier man, barely exerted himself." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: Daily Democrat, Tuesday Morning, April 26, 1870." },
+  "facts": [
+    {
+      "fact": "Allen sparred Joe Coburn at Coburn's complimentary benefit at Mozart Hall, St. Louis; Coburn was more active and landed about twice as many blows",
+      "date": "1870-04-25",
+      "people": ["Joe Coburn"],
+      "places": ["Mozart Hall, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had a saloon in St. Louis in spring 1870, named as a deposit point in the Seddons-Lafferty match articles",
+      "date": "1870-04",
+      "people": ["George Seddons", "Johnny Lafferty"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Seddons-Lafferty match (May 24, $900 stake) is otherwise not about Allen."
+}

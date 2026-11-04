@@ -1,0 +1,91 @@
+{
+  "id": "480",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "two pieces, full article with headline"
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "gist and quotes recoverable; left-edge letters dropped and many word errors"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen Interviewed Before the Hogan Fight"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat reported on preparations for the Allen-Hogan fight and interviewed Allen at his Saturday night free and easy, where he refused to say whether he was training."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "Masthead: The St. Louis Democrat, Monday, October 6, 1873 (Daily Democrat). The paper calls itself the DEMOCRAT in the text."
+  },
+  "facts": [
+    {
+      "fact": "Asked whether he was training for the Hogan fight, Allen refused to say",
+      "date": "1873-10-04",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "A prize-fighter is like a race-horse. It don't do to let people know what he is doing. I ain't a-doing nothing.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen presided at his Saturday night free and easy at his saloon",
+      "date": "1873-10-04",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was to appear at Johnny Farrell's booth during St. Louis Fair week",
+      "date": "1873-10",
+      "people": [
+        "Johnny Farrell"
+      ],
+      "places": [
+        "St. Louis Fair, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Betting favored Allen over Hogan, in some cases two to one",
+      "date": "1873-10",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen also quoted Shakespeare ('all the world's a stage') about a drunk who offered to back him."
+}

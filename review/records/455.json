@@ -1,0 +1,26 @@
+{
+  "id": "455",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Only the end of the article (top of the next column) is clipped. The headline 'Mike McCoole. What the Ex-Champion Is Doing. A Tour Around His Headquarters' and the start of the Dublin Tricks interview are in the previous column on the page and are missing." },
+  "ocr": { "status": "rough", "notes": "Gist readable but many errors, especially in the poem; matches the clipped portion only." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat interviewed Dublin Tricks, Mike McCoole's trainer, before the fight with Tom Allen. Tricks said he had trained Charley Gallagher when Gallagher beat Allen, and denied a rumor that McCoole had avoided Allen." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Sunday, July 13, 1873'; masthead 'Daily Democrat'. Pre-1875 merger." },
+  "facts": [
+    {
+      "fact": "McCoole's trainer Dublin Tricks said he had trained Charley Gallagher when Gallagher beat Allen in two rounds",
+      "date": "",
+      "people": ["Dublin Tricks", "Charley Gallagher", "Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Crop should be redone to include the headline and opening of the article in the preceding column; facts were taken only from the clipped part."
+}

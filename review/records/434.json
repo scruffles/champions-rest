@@ -1,0 +1,26 @@
+{
+  "id": "434",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Short notice is complete; clipping also includes unrelated neighbouring notices (Maguire's Alterative, St. Lawrence O'Toole Festival, Helmbold's ad)." },
+  "ocr": { "status": "rough", "notes": "Allen notice mostly readable ('Tem Allen's', 'on trand'); surrounding items garbled in places." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat announced that Tom Allen's Free Concert Hall was open Saturday, Sunday, Monday and Wednesday evenings, and that Jem Mace, Allen's guest before leaving to meet Coburn in Kansas City, would sing." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat', Saturday Morning, May 27, 1871. Before the 1875 merger, so not the Globe-Democrat. Current summary wrongly says 'Saturday through Wednesday' and 'notable boxers and entertainers'; only Mace is named." },
+  "facts": [
+    {
+      "fact": "Jem Mace stayed as Tom Allen's guest in St. Louis for three or four days before leaving for Kansas City to meet Joe Coburn, and was to sing at Allen's Free Concert Hall",
+      "date": "1871-05",
+      "people": ["Jem Mace", "Joe Coburn"],
+      "places": ["Tom Allen's Free Concert Hall, St. Louis", "Kansas City"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Notice is a paid local item about Allen's hall; address not given in this item."
+}

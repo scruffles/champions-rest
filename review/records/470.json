@@ -1,0 +1,56 @@
+{
+  "id": "470",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The clipping is column 2 of page 8 only. Column 1, 'Mangled McCoole (Continued from Fifth Page)' with the round-by-round account (seven rounds), is missing. Starts mid-sentence ('...markable of prize-fights')." },
+  "ocr": { "status": "good", "notes": "Readable and mostly right; minor errors ('a per' for 'a pen', 'stuck hes' for 'stuck hog', 'HOLKRIBLE')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Defeats McCoole and Celebrates at His Saloon" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Allen beat Mike McCoole to a pulp on September 23, 1873, taking only a skinned knuckle, then started a $100 subscription for his victim and was mobbed by admirers at his saloon that night." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Page header reads 'The Missouri Republican, St. Louis, Wednesday, September 24, 1873.'" },
+  "facts": [
+    {
+      "fact": "Allen defeated Mike McCoole on September 23, 1873, without a single knock-down; McCoole's face was battered while Allen only had the skin knocked off one knuckle",
+      "date": "1873-09-23",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen called the McCoole fight a slaughter and said he was sorry for his opponent",
+      "date": "1873-09-23",
+      "people": ["Mike McCoole"],
+      "places": ["steamer Continental"],
+      "quote": "a bloody useless slaughter after the fourth round. ... I was sorry for him. I was just ashamed to hit him any more. Poor fellow!",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On the boat home Allen started a subscription for McCoole with $100; McCoole declined it and it was divided between trainers Madden and 'Tricks'",
+      "date": "1873-09-23",
+      "people": ["Mike McCoole", "Jack Madden", "Dublin Tricks"],
+      "places": ["steamer Continental"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the fight Allen appeared at his saloon at 8:30 p.m. before a packed crowd and gave a one-line speech",
+      "date": "1873-09-23",
+      "people": [],
+      "places": ["Allen's saloon, St. Louis"],
+      "quote": "Well, gentlemen, now you have all seen me and know how I look, I guess you'd all better take a walk.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Continuation of 469. The page shows the missing first column ran through 'Round Seven'. Dolan is named as one of Allen's trainers."
+}

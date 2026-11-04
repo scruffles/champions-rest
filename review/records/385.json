@@ -1,0 +1,26 @@
+{
+  "id": "385",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Allen item is the short 'Allen vs. Coburn' paragraph at the top; the rest is Belleville items (nail mill, Sparta fire, internal revenue)" },
+  "ocr": { "status": "good", "notes": "Allen paragraph reads correctly apart from $10,009" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican carried a San Francisco dispatch that Tom Allen declined Joe Coburn's challenge to fight until after his contest with Jim Mace the next July." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, January 22, 1870. Dispatch dated San Francisco, Jan. 21." },
+  "facts": [
+    {
+      "fact": "Allen declined Joe Coburn's challenge to fight for $500 [likely $5,000] or $10,000 until after his contest with Jem Mace, then expected in July 1870",
+      "date": "1870-01-21",
+      "people": ["Joe Coburn", "Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Image prints $500; the Democrat version (384) prints $5000. Same item as 384."
+}

@@ -45,3 +45,11 @@ Cross-article findings to resolve when merging records into the data. Per-articl
 - 328 duplicates 329 (same editorial; 329 is complete, 328 is cut off on the right).
 - Birth year: 354 also gives 1840.
 - 348 and 349 are the same article from the Sunday and Monday editions (348 lacks the headline).
+- 021 belt presentation: 395 and 397 put it on Saturday 1870-04-30, not April 29.
+- 394: probably ran 1870-04-24 ("to-morrow night" for the April 25 Mozart Hall exhibition); its current title and summary describe 393.
+- 403 repeats 402 (reprinted the next day). 398: the masthead date is 1870-05-10, not May 9.
+- 408 is a reprint of 407. 405: the date is probably 1870-05-22 (Sunday supplement masthead).
+- 428 is probably a duplicate of 427 (same text; masthead date 1870-11-08, filed as 11-09).
+- 438: the backing amount reads $2,000 in a faint image, not the $200 in the current summary.
+- Paper name: 1873 pages read "St. Louis Democrat" (not "Daily Missouri Democrat"); reviewers follow the masthead, so expect both names before 1875. Normalize at merge.
+- 481 and 483 are the same concert hall notice; 481's current title and summary describe 482.

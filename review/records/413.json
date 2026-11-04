@@ -1,0 +1,65 @@
+{
+  "id": "413",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Readable; 'MoCoole', 'Alea' and similar small errors, plus junk at the end."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat reported that Billy Carroll was trying to make a match between Mike McCoole and Tom Allen, but no backers would put up money for McCoole, who had lost public confidence."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "Masthead reads 'Daily Democrat. Saturday Morning, July 9, 1870' - the Missouri Democrat, not yet the Globe-Democrat."
+  },
+  "facts": [
+    {
+      "fact": "Billy Carroll of Carroll's Sample Room took up Mike McCoole and tried to make a match with Allen; McCoole issued a challenge to fight Allen for the champion belt and the excursion money, but no backers would put up money",
+      "date": "1870-07",
+      "people": [
+        "Billy Carroll",
+        "Mike McCoole"
+      ],
+      "places": [
+        "Carroll's Sample Room, St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "McCoole had withheld the stakes from his former fight with Allen, which public opinion held Allen had won",
+      "date": "1869",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The item is entirely about the proposed McCoole-Allen match, so primary rather than secondary."
+}

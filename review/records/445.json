@@ -1,0 +1,26 @@
+{
+  "id": "445",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "wrong_article", "notes": "Clipping shows the St. Louis Postoffice annual report and 'Sharp Practice' (McNoon lawsuit). The Allen item, 'A Prospective Prize Fight: Tom Allen Accepts the Challenge of Mike McCoole', is lower in the same column below the death report, near the 'Port of St. Louis' column" },
+  "ocr": { "status": "unusable", "notes": "Transcript is garbage from the postoffice tables, not the Allen item" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat printed Tom Allen's letter accepting Mike McCoole's challenge, made through a card from Billy Carroll published the day before, raising the prospect of another fight between them." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: Daily Democrat, Monday morning, January 8, 1872" },
+  "facts": [
+    {
+      "fact": "Allen accepted by letter a challenge from Mike McCoole, made on McCoole's behalf by Billy Carroll",
+      "date": "1872-01-07",
+      "people": ["Mike McCoole", "Billy Carroll"],
+      "places": ["417 Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Read only from the scaled-down page: headline, intro and the letter heading (417 Washington Avenue, St. Louis, January 7, 1872, signed TOM ALLEN) are legible, but the letter body, including stakes and meeting place, is not. The item needs a new crop and transcript."
+}

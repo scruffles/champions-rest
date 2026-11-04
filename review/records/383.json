@@ -1,0 +1,36 @@
+{
+  "id": "383",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "speech garbled in the middle (Carey, Rooch, Rafferty lost); image is clear" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that colors were presented at Tom Allen's saloon to George Seddons of Boston before his fight with Rafferty of St. Louis. Allen spoke, promising both men fair play." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, January 20, 1870" },
+  "facts": [
+    {
+      "fact": "Allen hosted a presentation of colors at his saloon to Boston fighter George Seddons, who had come to St. Louis with trainer Carey and backer Rooch to fight Rafferty of St. Louis in a 24-foot ring on January 25",
+      "date": "1870-01-19",
+      "people": ["George Seddons", "Rafferty"],
+      "places": ["Tom Allen's saloon, St. Louis", "Boston"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, speaking at the Seddons color presentation, promised fair play for both fighters",
+      "date": "1870-01-19",
+      "people": ["George Seddons"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "We wish to convince our Eastern friends that fair play can be given West of the Mississippi. All we want is to give both men fair play and no partiality, and may the best man win.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Seddons responded briefly; the fight was set for the 25th inst."
+}

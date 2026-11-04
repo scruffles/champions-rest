@@ -1,0 +1,46 @@
+{
+  "id": "399",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "headline through McCoole's signature" },
+  "ocr": { "status": "good", "notes": "minor errors (Moce, Aller, Leoney, aap vines); signature garbled" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that news of Tom Allen's defeat by Jem Mace near New Orleans was met with regret in St. Louis, and that Mike McCoole challenged Mace for $2,500 to $5,000 a side." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads Daily Democrat, Wednesday Morning, May 11, 1870" },
+  "facts": [
+    {
+      "fact": "Allen was defeated by Jem Mace near New Orleans",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": ["near New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jack Looney had predicted Allen would lose because he was out of condition and called the fight a sham and a 'put up job'",
+      "date": "1870-05",
+      "people": ["Jack Looney"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After Allen's loss, Mike McCoole challenged Mace to fight within six months for $2,500 to $5,000 a side within fifty miles of New Orleans",
+      "date": "1870-05-10",
+      "people": ["Mike McCoole", "Jem Mace"],
+      "places": ["St. Louis", "New Orleans"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mentions Allen's earlier fights with Davis, Gallagher and McCoole."
+}

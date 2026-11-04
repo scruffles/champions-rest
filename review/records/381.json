@@ -1,0 +1,26 @@
+{
+  "id": "381",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "First sentence right; the rest has dropped and garbled lines ('waiting to sign the articles en route here', 'confident of success', 'soft thing' missing)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Telegraphs Mace Accepting His Challenge" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen had telegraphed Jem Mace in New York accepting his challenge to fight for $2,500 a side in Louisiana or Canada within six months, and that the articles were en route." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, January 9, 1870." },
+  "facts": [
+    {
+      "fact": "Allen reportedly telegraphed Jem Mace in New York accepting his challenge to fight for $2,500 a side in Louisiana or Canada within six months; articles were en route to St. Louis for signing",
+      "date": "1870-01-08",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis", "New York", "Louisiana", "Canada"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Paper says Allen was confident of success and Mace thought he had 'decidedly a soft thing'."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "430",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "readable in places, many garbled lines" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Preview of the Mace-Coburn Fight Mentions Allen" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reprinted a New York Sun preview of the Jem Mace-Joe Coburn fight backing Coburn, noting in passing that Coburn had worn down Mike McCoole before Tom Allen finished him." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "masthead reads 'Daily Democrat, Thursday Morning, April 20, 1871'" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "The current title and summary are wrong: nothing about a Mace-Heenan exhibition or Allen beating Mace in twenty minutes appears. Allen's only mention: Coburn 'took the starch out of McCoole before Tom Allen finished him.'"
+}

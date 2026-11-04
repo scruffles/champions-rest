@@ -1,0 +1,26 @@
+{
+  "id": "459",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item 'The Last Deposit' with headline and closing rule." },
+  "ocr": { "status": "good", "notes": "Readable with scattered character errors (e.g. '@cCoole', 'Bili Brown'); total stake figure garbled as '$2,509'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that the final $500-a-side deposit for the McCoole–Allen fight was made at McCoole's saloon, Fifth and Wash streets, before a large crowd; neither fighter attended." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Masthead reads 'The St. Louis Democrat: St. Louis, Wednesday, September 3, 1873' (pre-merger; not yet the Globe-Democrat)." },
+  "facts": [
+    {
+      "fact": "The final $500-a-side deposit completing the stakes for the Allen–McCoole fight was put up with Jack Looney, acting stakeholder for John R. Scott, at McCoole's 'Crystal Palace' saloon; neither fighter was present",
+      "date": "1873-09-02",
+      "people": ["Mike McCoole", "Jack Looney", "John R. Scott"],
+      "places": ["McCoole's saloon, Fifth and Wash streets, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Total stake figure in the image looks like '$2,000' or '$2,500' and is not clear; left out of the facts. Ben Hogan is listed among the sports present."
+}

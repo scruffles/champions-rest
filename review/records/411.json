@@ -1,0 +1,81 @@
+{
+  "id": "411",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Most of the clipping (crop-1, crop-2) is an unrelated census committee notice and list of census questions; only 'The Prize Fight Fiasco' at the bottom of crop-2 and crop-3 is about Allen. The Allen item itself is complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Allen item readable; 'Koach' for Roach, '32.500aside' for $2,500 a side. OCR includes the census notice."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "McCoole-Allen fight in doubt after missed deposit"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that McCoole's side failed to pay the second $500 deposit for the McCoole-Allen fight set for September 13, leaving the match in doubt; Allen, done with his eastern tour, was expected home."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican, St. Louis, July 2, 1870' - not yet the St. Louis Republic (1888)."
+  },
+  "facts": [
+    {
+      "fact": "The McCoole-Allen fight was made for $2,500 a side, to come off on September 13, 1870; $1,000 had been deposited",
+      "date": "1870-07",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "No one appeared for McCoole to pay the second deposit of $500 a side to Mr. Murray, the pawnbroker; Roach, Allen's representative, claimed the stakes and many considered the fight off",
+      "date": "1870-07-01",
+      "people": [
+        "Mike McCoole",
+        "Roach",
+        "Murray"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, having completed his eastern tour, was expected back in St. Louis",
+      "date": "1870-07-02",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Deposit date taken as 'yesterday afternoon' relative to the July 2 paper. The Allen item is the only relevant part of the clipping, hence primary."
+}

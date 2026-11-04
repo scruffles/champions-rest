@@ -1,0 +1,26 @@
+{
+  "id": "416",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping holds two items: 'Attacked on the Street' (unrelated stabbing of a man named Fox) and 'Prize Fighters in Training', the item that mentions Allen." },
+  "ocr": { "status": "rough", "notes": "The end of the Fox item and the 'Prize Fighters in Training' headline are missing; 'Goldwin' is lost and 'St. Charles rock road' garbled." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Gallagher, Meeker, O'Donnell and Morris had gone into training, Morris and Meeker at the Wash Home under Goldwin, who had trained Tom Allen for his fight with Mace." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican—St. Louis, August 11, 1870.'" },
+  "facts": [
+    {
+      "fact": "Allen's trainer for his fight with Jem Mace was a man the paper calls Goldwin (probably Jack Goulding)",
+      "date": "1870",
+      "people": ["Goldwin", "Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Article 414 names Allen's trainer as Jack Goulding; 'Goldwin' here is likely the same man misspelled."
+}

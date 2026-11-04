@@ -1,0 +1,26 @@
+{
+  "id": "418",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The top line 'PRIZE FIGHT MATTERS.' appears to be in a modern typeface, possibly re-set; the rest of the item is complete." },
+  "ocr": { "status": "rough", "notes": "Most readable, but several lines of the Collins letter are garbled ('I can be found Saturday evening at Tom Allen's', 'Gallagher-Meekin ring', 'purse from $5 upward')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Cast-Iron Man Collins Challenges Annabury from Tom Allen's Saloon" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican printed a challenge from Collins, the \"Cast Iron Man,\" offering to fight Mr. Annabury for $50 to $100 in the Gallagher-Meeker ring, and naming Tom Allen's saloon for negotiations on August 20, 1870." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Saloon", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican, St. Louis, August 18, 1870.' Letter dated East St. Louis, August 17, 1870." },
+  "facts": [
+    {
+      "fact": "Collins, the \"Cast Iron Man,\" challenged Mr. Annabury and named Allen's saloon as the place to negotiate on the evening of August 20, 1870",
+      "date": "1870-08-20",
+      "people": ["Collins (\"Cast Iron Man\")", "Annabury"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article does not say the saloon is on Market Street, so the current summary's address is unsupported (in 1870 Allen was at Washington Ave, fact 017). The first paragraph repeats the August 30 Morris-O'Donnell and Meeker-Gallagher double bill."
+}

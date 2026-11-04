@@ -1,0 +1,26 @@
+{
+  "id": "380",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Fractions garbled (e.g. '934', '103g' for 9 1/2 and 10 1/2)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Democrat Corrects the Republican on Allen's and Mace's Size" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat corrected the Missouri Republican's figures for the coming Allen-Mace fight, saying Mace fought at 152 to 154 pounds and stood 5 ft 9 in, and Allen stood 5 ft 10 1/2 in barefoot." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: Daily Democrat, Tuesday morning, January 4, 1870." },
+  "facts": [
+    {
+      "fact": "Allen stood 5 feet 10 1/2 inches barefoot",
+      "date": "1870-01",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The title is the item's sarcastic heading 'A Reliable Sporting Paper', aimed at the Republican; the current title reads as if a sporting paper made the correction."
+}

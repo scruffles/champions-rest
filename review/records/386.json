@@ -1,0 +1,36 @@
+{
+  "id": "386",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "several lines garbled near the end (attorneys, defence argument); image is clear" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Court rules on a bet over a proposed Allen-Gallagher fight" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that John Williams sued stakeholders Tom Kehoe and Mike McCoole for $30 bet on a proposed 1869 Allen-Gallagher fight that never came off. The court ruled it a forfeit, not a bet, and found for the defendants." },
+  "focus": { "current": "passing", "suggested": "secondary" },
+  "tags": ["Legal", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, February 24, 1870. Case tried the day before in Circuit Court No. 2 (Judge Knight)." },
+  "facts": [
+    {
+      "fact": "Around February 25, 1869, a further fight between Allen and Charley Gallagher was in contemplation; Allen and Pendergast brought $1,000 in $20 gold pieces to McCoole's saloon to back it, but the match did not come off",
+      "date": "1869-02",
+      "people": ["Charley Gallagher", "William Pendergast", "Mike McCoole"],
+      "places": ["McCoole's saloon, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "John Williams sued stakeholders Tom Kehoe and Mike McCoole over a $30 wager on the proposed Allen-Gallagher fight; Circuit Court No. 2 ruled for the defendants",
+      "date": "1870-02-23",
+      "people": ["John Williams", "Tom Kehoe", "Mike McCoole"],
+      "places": ["Circuit Court No. 2, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen was not a party to the suit. The fight referred to is presumably a proposed rematch after the 1869-02-23 Allen-Gallagher fight; the article only says it did not come off."
+}

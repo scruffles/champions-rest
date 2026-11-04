@@ -1,0 +1,37 @@
+{
+  "id": "484",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Whole 'Fair Facts' column of short unrelated items; only the one paragraph beginning 'Ben. Hogan and Tom Allen were at the Fair yesterday' is about Allen."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Allen item reads cleanly; minor errors elsewhere."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen and Hogan Visit the St. Louis Fair"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat's Fair notes said Tom Allen and Ben Hogan were at the St. Louis Fair, joking that both were 'entered for the ring' on the 28th, the date of their prize fight. Allen was said to be all ready."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Wednesday, October 8, 1873'; masthead 'Daily Democrat'. Pre-1875 merger, so not the Globe-Democrat."
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "'Entered for the ring that will be shown on the 28th' is a pun on the Fair's show rings; it refers to the Allen-Hogan prize fight, not an exhibition. Current title calls it a ring exhibition."
+}

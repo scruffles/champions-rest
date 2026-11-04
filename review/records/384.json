@@ -1,0 +1,26 @@
+{
+  "id": "384",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "San Francisco telegraphic roundup; only the one-sentence paragraph near the end is about Allen" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat carried a San Francisco dispatch that Tom Allen declined Joe Coburn's challenge to fight for $5,000 or $10,000 until after his contest with Jem Mace the next July." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: Daily Democrat, Saturday morning, January 22, 1870. Dispatch dateline is San Francisco, January 2? (second digit unclear, likely 20 or 21)." },
+  "facts": [
+    {
+      "fact": "Allen declined Joe Coburn's challenge to fight for $5,000 or $10,000 until after his contest with Jem Mace, then expected in July 1870",
+      "date": "1870-01",
+      "people": ["Joe Coburn", "Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same item as 385 (Missouri Republican, which prints $500 rather than $5000)."
+}

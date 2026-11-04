@@ -1,0 +1,26 @@
+{
+  "id": "444",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Short item 'Arrival of Pugilists' complete" },
+  "ocr": { "status": "good", "notes": "Minor errors ('fém Kelly', 'maich')" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Mike McCoole Reported Seeking Match with Tom Allen" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Ned O'Baldwin and Tom Kelly had arrived in St. Louis to prepare for a sparring exhibition, and that Mike McCoole was said to want a match with Tom Allen." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: The Missouri Democrat, Saturday morning, Dec. 30, 1871" },
+  "facts": [
+    {
+      "fact": "Mike McCoole was reported to be wanting to make a match with Allen",
+      "date": "1871-12",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper only says 'it is reported'; the main item is about O'Baldwin and Kelly arriving."
+}

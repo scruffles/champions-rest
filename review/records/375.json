@@ -1,0 +1,26 @@
+{
+  "id": "375",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Two items: an unrelated Cincinnati suicide story on top; the second paragraph (New York Clipper) is the one about Allen." },
+  "ocr": { "status": "good", "notes": "Readable; 'see bruiser' should be 'champion bruiser'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that the New York Clipper had conferred on Tom Allen the title of champion bruiser, since Mike McCoole had refused to meet him and settle their dispute fairly." },
+  "focus": { "current": "passing", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The masthead reads 'The Missouri Republican--St. Louis, November 22, 1869.'" },
+  "facts": [
+    {
+      "fact": "The New York Clipper declared Allen the champion after McCoole refused to meet him in November 1869",
+      "date": "1869-11",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Allen item is short but entirely about him, so focus primary. The same paragraph also notes the Clipper named the Cincinnati Red Stockings baseball champions."
+}

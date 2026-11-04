@@ -1,0 +1,56 @@
+{
+  "id": "463",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Flashings of the Fancy' article from headline to closing rule." },
+  "ocr": { "status": "good", "notes": "Readable; some errors ('Brummasem' for Brummagem, 'Gaitland')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Saloon rounds on the eve of the McCoole–Allen fight" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported on the eve of the McCoole–Allen fight that both men, arrested Sunday night and freed on $1,000 peace bonds, were fit, with little betting and order promised on the boat." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican, St. Louis, Tuesday, September 23, 1873', page 5." },
+  "facts": [
+    {
+      "fact": "Allen was arrested by detectives on Sunday night at a temporary training place, the 'Hunter's Retreat' near Jefferson Barracks, while McCoole was arrested at his training quarters",
+      "date": "1873-09-21",
+      "people": ["Mike McCoole"],
+      "places": ["Hunter's Retreat, near Jefferson Barracks, Missouri"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and McCoole were released from the Four Courts on bail of $1,000 each to keep the peace in Missouri for three months; Jack Looney spent the night getting Allen free",
+      "date": "1873-09-22",
+      "people": ["Mike McCoole", "Jack Looney"],
+      "places": ["Four Courts, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Allen–McCoole fight was set for the day of publication, with spectators taken by boat and both men to be picked up on the way",
+      "date": "1873-09-23",
+      "people": ["Mike McCoole"],
+      "places": ["Mississippi River, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Arthur Chambers, champion light-weight, and Patsy Sheppard were in St. Louis and expected to second Allen",
+      "date": "1873-09-23",
+      "people": ["Arthur Chambers", "Patsy Sheppard"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Pre-fight report, not fight coverage; current title implies the fight itself. Allen's saloon is described with a concert room and his colors (Brummagem blue and white bird's-eye) hung beside Gallagher's green and gold."
+}

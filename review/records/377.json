@@ -1,0 +1,46 @@
+{
+  "id": "377",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item; the next headline (DAMAGE SUIT) shows at the bottom." },
+  "ocr": { "status": "rough", "notes": "Gist readable but many garbled words and figures (e.g. '2,590 4 side', '$5€0', 'C: natt' for Cincinnati)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reprinted from the New York Clipper a card by Billy Carroll for Tom Allen, offering to fight Jem Mace for $2,500 a side near Cincinnati or Detroit and to stake his coming St. Louis belt against Mace's." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, December 25, 1869. Item reprinted from the New York Clipper of Dec. 21; Carroll's card dated St. Louis, Dec. 16, 1869." },
+  "facts": [
+    {
+      "fact": "Allen was very sick and confined to his house for about a week before December 16, 1869",
+      "date": "1869-12",
+      "people": ["Billy Carroll"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Through Billy Carroll, Allen offered to fight Jem Mace for $2,500 a side six months from signing, with a $500 forfeit, articles to be drawn at Pittsburgh and the fight fifty miles from Cincinnati or from Detroit (in Canada)",
+      "date": "1869-12-16",
+      "people": ["Jem Mace", "Billy Carroll", "Frank Queen"],
+      "places": ["Pittsburgh", "Cincinnati", "Detroit", "Canada"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Citizens of St. Louis were getting up a champion belt for Allen, which he offered to stake against Mace's champion belt of England",
+      "date": "1869-12",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Carroll's card signs Allen as 'Champion of America'. Focus raised to primary: the whole item is Allen's challenge."
+}

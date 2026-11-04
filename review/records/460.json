@@ -1,0 +1,26 @@
+{
+  "id": "460",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole 'Local Short Stops' column of unrelated city items; only the Charley Gallagher paragraph (third from the end) concerns Allen." },
+  "ocr": { "status": "good", "notes": "Readable; minor errors ('SHOUTEAU' for Chouteau, 'GARLIC' for Garlich)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that Charley Gallagher, the pugilist who had knocked Tom Allen out of time in St. Louis, died of consumption at Jacksonville, Florida, and his remains were sent to Cleveland." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Masthead reads 'The St. Louis Democrat: St. Louis, Wednesday, September 3, 1873' (pre-merger; not yet the Globe-Democrat)." },
+  "facts": [
+    {
+      "fact": "Charley Gallagher, who had knocked Allen out of time in St. Louis, died of consumption at Jacksonville, Florida; his remains were sent to friends in Cleveland for burial",
+      "date": "1873-09-01",
+      "people": ["Charley Gallagher"],
+      "places": ["Jacksonville, Florida", "Cleveland, Ohio"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Death date is 'Monday last' relative to the Wednesday, Sept 3 paper, i.e. Sept 1, 1873."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "457",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Readable with minor errors." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that the fourth $500-a-side deposit for the McCoole-Allen fight was made before a crowd at Mike McCoole's saloon at Fifth and Wash streets, with Allen covering McCoole's stake." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Wednesday, August 6, 1873'; masthead 'Daily Democrat'. Pre-1875 merger. Current summary wrongly mentions a weighing." },
+  "facts": [
+    {
+      "fact": "The fourth $500-a-side deposit for the Allen-McCoole fight was made at McCoole's saloon",
+      "date": "1873-08-05",
+      "people": ["Mike McCoole", "Jack Looney"],
+      "places": ["Mike McCoole's saloon, Fifth and Wash streets, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

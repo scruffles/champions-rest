@@ -1,0 +1,26 @@
+{
+  "id": "453",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole 'Local Short Stops' column; only the 'Afraid?' paragraph is about Allen" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Says He Fears His Wife More Than McCoole" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen, asked if he was afraid of Mike McCoole, said he was more afraid of his wife, especially when he came home late at night." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Personal life", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: The St. Louis Democrat, Wednesday, June 11, 1873 (Daily Democrat). Same page as 452." },
+  "facts": [
+    {
+      "fact": "Asked if he was afraid of Mike McCoole, Allen said he was more afraid of his wife",
+      "date": "1873-06",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "Oi'm more afraid of my wife than I am of McCoole, especially when I come home late o' nights. I'm sure to get a jacketing then, and I can't stroike back.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title and summary describe the second-deposit story (that is record 452); this clipping is the short-items column. Shows Allen was married in 1873."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "451",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen and Mike McCoole quarreled at Jack Looney's New Year's ball, and Allen put $500 on the counter as a forfeit for a fight that McCoole did not take up." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: The St. Louis Democrat, Saturday, January 4, 1873 (Daily Democrat)." },
+  "facts": [
+    {
+      "fact": "At Jack Looney's New Year's ball Allen quarreled with Mike McCoole and offered to fight him at any time for any amount, putting $500 down as a forfeit; McCoole did not respond",
+      "date": "1873-01-02",
+      "people": ["Mike McCoole", "Jack Looney"],
+      "places": ["Jack Looney's fancy ball, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen asked McCoole, who said he could beat him at dancing or any other game, \"D'y'e mean foighting?\"",
+      "date": "1873-01-02",
+      "people": ["Mike McCoole"],
+      "places": ["Jack Looney's fancy ball, St. Louis"],
+      "quote": "What d'y'e mean? ... D'y'e mean foighting?",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Altercation took place about 4 a.m. after New Year's night, so the date is 1873-01-01 or 01-02."
+}

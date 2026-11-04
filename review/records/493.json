@@ -1,0 +1,66 @@
+{
+  "id": "493",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Only the second column of 'The Fizzle' (from the 'Bailed' section to the end). The headline and the whole first column (the excursion on the Continental and the arrests) are on the page but not in the clipping." },
+  "ocr": { "status": "rough", "notes": "Gist and names mostly readable; many character errors." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican printed the Madison County writ against Allen, McCoole and others for the Allen-McCoole fight and an affidavit seeking warrants to stop the Allen-Hogan fight, which fizzled. Allen told a reporter, \"there's more days in a year than one.\"" },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican, St. Louis, Wednesday, October 29, 1873', page 5. Not yet the St. Louis Republic." },
+  "facts": [
+    {
+      "fact": "Madison County, Illinois, issued a writ to bring Allen, Mike McCoole, Arthur Chambers, John Looney and others before the circuit court at Edwardsville on an indictment for prize-fighting in the Allen-McCoole fight, returnable November 3",
+      "date": "1873-10",
+      "people": ["Mike McCoole", "Patsey Sheppard", "Arthur Chambers", "William Blake (Dublin Tricks)", "John Looney", "Tom Kelly", "John W. Scott"],
+      "places": ["Edwardsville, Madison County, Illinois"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "John Renshaw of St. Clair County swore an affidavit asking for warrants against Allen, Ben Hogan and their seconds and backers to prevent their prize fight in Illinois",
+      "date": "1873-10-28",
+      "people": ["John Renshaw", "Ben Hogan", "Arthur Chambers", "John Looney", "Geo. W. Brackett"],
+      "places": ["St. Clair County, Illinois"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Allen-Hogan fight did not come off; police in East St. Louis arrested Looney, Chambers and others from the excursion steamer Continental, and Chambers escaped from the City Hall window",
+      "date": "1873-10-28",
+      "people": ["Ben Hogan", "John Looney", "Arthur Chambers", "Billy Bronson"],
+      "places": ["East St. Louis, Illinois"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen returned to St. Louis that night after the failed fight and expressed his disgust to a reporter near Looney's saloon",
+      "date": "1873-10-28",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen on the failed Hogan fight",
+      "date": "1873-10-28",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "But never mind, there's more days in a year than one.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The rest of 'The Fizzle' (column 1) may be another article id; check whether it is clipped separately."
+}

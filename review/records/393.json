@@ -1,0 +1,26 @@
+{
+  "id": "393",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "whole article, headlines through closing rule" },
+  "ocr": { "status": "good", "notes": "minor errors (sperts, stabbea, fiee)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Brawls at Wash Home, Where Allen Trains for Mace" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen was training at the Wash Home, four miles west of the Court House, for his fight with Mace, and that a Sunday crowd drawn there broke into drunken fights and stabbings." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: Daily Democrat, Monday Morning, April 25, 1870. Allen is mentioned only as the draw; the story is about the brawls involving George Bowman and Dick Roche." },
+  "facts": [
+    {
+      "fact": "Allen was training for his fight with Jem Mace at the Wash Home, a sporting resort about four miles west of the St. Louis Court House near the St. Charles rock road",
+      "date": "1870-04",
+      "people": ["Jem Mace"],
+      "places": ["Wash Home, near the St. Charles rock road, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Tag 'Fights' is loose: the fights are crowd brawls, not Allen's; consider no Fights tag if tags should be about Allen only."
+}

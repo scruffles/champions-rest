@@ -1,0 +1,78 @@
+{
+  "id": "410",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; a few errors ('Alien', 'Hee2ds', 'Chemprenship') and one dropped phrase ('flopped resonantly')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Democrat reprinted a New York Sun account of Tom Allen's four-round sparring match with Jem Mace at Tammany, where Allen was introduced as champion of America with a match against Mike McCoole coming."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Democrat",
+    "notes": "Masthead reads 'The Missouri Democrat. St. Louis, Tuesday Morning, June 21, 1870' - not the Globe-Democrat, which began in 1875. Reprinted from the New York Sun of June 18."
+  },
+  "facts": [
+    {
+      "fact": "Allen and Jem Mace sparred four rounds with gloves at Tammany in New York",
+      "date": "1870-06-17",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "Tammany, New York"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At Tammany Allen was introduced as champion of America, Mace having retired from the prize ring, and Allen's champion's belt was exhibited",
+      "date": "1870-06-17",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "Tammany, New York"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mike McCoole was said to be soon to contest the championship with Allen for $5,000 a side",
+      "date": "1870-06",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Stakes of $5,000 a side are as announced by the usher; the Missouri Republican of July 2 (411) gives $2,500 a side."
+}

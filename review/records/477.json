@@ -1,0 +1,54 @@
+{
+  "id": "477",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Single amusements notice; the tail of the previous item and the next one are included."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "First letters of a few lines dropped."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat announced that Tom Allen would take the rest of his benefit at the Theater Comique that night, sparring with Jack Madden, with Patsey Sheppard and Arthur Chambers also on the bill."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Friday, September 26, 1873' with the masthead 'Daily Democrat' (before the May 1875 merger, so not yet the Globe-Democrat)."
+  },
+  "facts": [
+    {
+      "fact": "Allen took a second night of his benefit at the Theater Comique, St. Louis, again sparring with Jack Madden",
+      "date": "1873-09-26",
+      "people": [
+        "Jack Madden",
+        "Patsy Shepherd",
+        "Arthur Chambers"
+      ],
+      "places": [
+        "Theater Comique, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Announcement only; medium confidence that the second night took place as billed."
+}

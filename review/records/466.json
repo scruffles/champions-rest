@@ -1,0 +1,26 @@
+{
+  "id": "466",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The clipping is a stack of amusement ads from the right-hand column of page 5; the left edge of every line is cut off (e.g. '...RSDAY and FRIDAY EVENINGS'). The Tom Allen benefit ad is the second item; the other ads (matinee, festival, dancing academy, St. Louis Fair) are unrelated." },
+  "ocr": { "status": "rough", "notes": "text follows the ads but the left edges are missing, so names and dates are incomplete" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Benefit for Tom Allen at the Theatre Comique" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican carried an advertisement for a complimentary benefit for Tom Allen, 'Champion of the World,' at the Theatre Comique on September 25 and 26, assisted by Arthur Chambers and his seconds from the McCoole fight." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Same page 5 as article 467 ('...PTEMBER 24, 1873'); page 8 of the issue carries the running head 'The Missouri Republican, St. Louis, Wednesday, September 24, 1873'. Not the St. Louis Republic (that name begins in 1888)." },
+  "facts": [
+    {
+      "fact": "A complimentary benefit for Allen, billed as 'Champion of the World', was held at the Theatre Comique, Fourth and Pine streets, on Thursday and Friday evenings, September 25 and 26, 1873, with Arthur Chambers and Patsy Sheppard, his seconds and trainers in the McCoole fight",
+      "date": "1873-09-25",
+      "people": ["Arthur Chambers", "Patsy Sheppard"],
+      "places": ["Theatre Comique, Fourth and Pine streets, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title and summary describe a fight report; this is only a theatre advertisement. The left edge is cut, so one name between Chambers and Patsy Sheppard ('...den') cannot be read, and the second date reads only 'Sept. 25 a...'; September 26 is inferred from Friday. The full ad is visible in the right column of page.jpg, so a wider recrop would recover it."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "425",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen beat J. C. Gallagher in sixteen rounds on a small island near the arsenal, a secretly arranged fight seen by only 40 or 50 people after the Kansas plan was put out as a decoy." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Missouri Republican, Sunday Morning, November 6, 1870'. The paper was not the St. Louis Republic until 1888." },
+  "facts": [
+    {
+      "fact": "Allen defeated J. C. Gallagher on a small island near the arsenal; Gallagher's sponge was thrown up when the 17th round was called, after 16 rounds and 26 1/2 minutes",
+      "date": "1870-11-05",
+      "people": ["J. C. Gallagher"],
+      "places": ["Island near the arsenal, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The fight was for $1,500 stakes, $1,000 put up by Allen against Gallagher's $500",
+      "date": "1870-11-05",
+      "people": ["J. C. Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was seconded by Barney Aaron and George Collins; Gallagher by Mike McCoole and Tom Kelly",
+      "date": "1870-11-05",
+      "people": ["Barney Aaron", "George Collins", "Mike McCoole", "Tom Kelly"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fight came off 'early yesterday morning' (Saturday 1870-11-05). Party left from the boat Bertha at the foot of Barton street."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "428",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "last lines of the McCoole-Gallagher paragraph garbled" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen, after his easy win over Gallagher, announced he had retired from the ring for good after seventeen fights and would ignore all further challenges." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Personal life"],
+  "metadata": { "date_ok": false, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican, St. Louis, Tuesday Morning, Nov. 8, 1870' and running head 'The Missouri Republican St. Louis, November 8, 1870', so the date is 1870-11-08, not 11-09." },
+  "facts": [
+    {
+      "fact": "After beating Gallagher, Allen announced he had retired from the ring altogether to settle down to his business and would take no notice of further challenges from any country",
+      "date": "1870-11-07",
+      "people": ["J. C. Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Same text as article 427 (same day, different page layout/edition of the Missouri Republican); likely a duplicate to remove or merge."
+}

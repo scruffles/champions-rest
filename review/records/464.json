@@ -1,0 +1,36 @@
+{
+  "id": "464",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Contains the 'To-Day's Programme' introduction under 'The Millers' through the start of the 'Tom Allen.' sketch heading. The biographical sketches and the rest of the article continue in the clipping for article 465." },
+  "ocr": { "status": "rough", "notes": "gist readable, many character errors (e.g. 'To-Law's Programme', 'Wash Home')" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and McCoole arrested on the eve of their second fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat previewed the second Allen–McCoole fight set for that day, reporting that both men had been arrested and released on $1,000 peace bonds by Judge Colvin of the Court of Criminal Correction." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Tuesday, September 23, 1873' and the masthead 'Daily Democrat'. This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen was arrested at 5 a.m. on Monday, September 22, 1873, hours after McCoole was arrested at his training quarters, ahead of their scheduled fight",
+      "date": "1873-09-22",
+      "people": ["Mike McCoole", "Pat McDonough"],
+      "places": ["Four Courts, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Judge Colvin of the Court of Criminal Correction released Allen and McCoole on $1,000 bonds each to keep the peace in Missouri for three months; John Whelan signed Allen's bond",
+      "date": "1873-09-22",
+      "people": ["Mike McCoole", "Judge Colvin", "John Whelan", "William Brown"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Part one of a single long article; article 465 is its continuation (fight records, articles of agreement, scenes the night before). McCoole was described as entering the ring about 25 pounds heavier than Allen."
+}

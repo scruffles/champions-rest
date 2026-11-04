@@ -1,0 +1,26 @@
+{
+  "id": "435",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Fistic Intelligence' item." },
+  "ocr": { "status": "good", "notes": "Mostly right; a few errors ('ehd', 'walts', 'bis 1 omdpyin' for 'his quarters')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Jem Mace in St. Louis; Tom Allen's Saloon His Favorite Resort" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Jem Mace had arrived in St. Louis to keep in condition before his rescheduled June 2 fight with Joe Coburn at Kansas City, and that Tom Allen's saloon was his favorite resort in town." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Same page as article 434: masthead 'Daily Democrat', Saturday Morning, May 27, 1871. Mace arrived 'yesterday' (May 26). Current title implies Mace trained at Allen's saloon; the article says he lodged at the 'Wash Home' and only frequented Allen's saloon." },
+  "facts": [
+    {
+      "fact": "While in St. Louis before his Kansas City match with Joe Coburn, Jem Mace made Tom Allen's saloon his favorite resort",
+      "date": "1871-05",
+      "people": ["Jem Mace", "Joe Coburn"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is mentioned only once; the item is about Mace."
+}
