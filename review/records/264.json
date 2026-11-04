@@ -1,0 +1,126 @@
+{
+  "id": "264",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole interview, from headline 'TOM ALLEN. What the Champion of America Says About Himself.' to the closing rule; the right edge clips a letter or two in piece 2 but the text is readable." },
+  "ocr": { "status": "rough", "notes": "Transcript stops mid-sentence at 'My longest battle ... was with...'; the last third (Bob Smith, Price, Goss, Gallagher, Mace, Sayers, McCoole, Ryall, Vincennes marriage) is missing. Also errors: '225 to 200' should be '225 to 190', 'Sam French's, 5 Tenth Street' is '54 Tenth street', 'the pot' is 'the spot', the 'induced Rooke to make the match' answer and 'Never drank anything but beer and ale' are dropped, and part of the Hogan answer is garbled." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe interviewed Tom Allen at the Champion's Rest before his June 17 fight with Rooke near Pittsburgh for $1,500 a side; Allen said it would be his last fight and recounted his army service and ring career." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Profiles", "Challenges", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe", "notes": "No page image to check the masthead or date. The text calls the paper 'the GLOBE', which fits May 1875, before the Globe-Democrat merger." },
+  "facts": [
+    {
+      "fact": "Allen was matched to fight Rooke for $1,500 a side on June 17, 1875, within fifty miles of Pittsburgh, after Rooke challenged him in the New York papers; the match was made at Harry Hill's, New York, on Feb. 16",
+      "date": "1875-06-17",
+      "people": ["George Rooke", "Arthur Chambers", "Harry Hill"],
+      "places": ["Harry Hill's, New York", "within fifty miles of Pittsburgh"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen planned to leave St. Louis on Sunday night for Pittsburgh to train at McKee's Rocks, his old training grounds, with Sam French's, 54 Tenth Street, as his Pittsburgh headquarters",
+      "date": "1875-05",
+      "people": ["Johnny Newell", "Young Donnelly"],
+      "places": ["St. Louis", "Pittsburgh", "McKee's Rocks, Pennsylvania"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said the Rooke fight would be his last",
+      "date": "1875-05",
+      "people": ["George Rooke"],
+      "places": [],
+      "quote": "After this battle, I will under no circumstances whatever again enter the ring. I had abandoned it for good, but was abused so by Rooke through the press, that I could not resist the temptation to punish the braggart.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had fought twenty-one times and won eighteen",
+      "date": "1875-05",
+      "people": [],
+      "places": [],
+      "quote": "I've fought (pronounced \"phote\" by all prize-fighters) twenty-one times, and won eighteen battles.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was brought up in Birmingham, England, ran away at seventeen to enlist in the 8th Hussars, and served through the Indian mutiny under General Havelock",
+      "date": "",
+      "people": ["General Havelock"],
+      "places": ["Birmingham, England", "India"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "003"
+    },
+    {
+      "fact": "Allen's first fight was with a soldier of the 13th Infantry at the Punjab forts in India for ten shillings",
+      "date": "",
+      "people": [],
+      "places": ["Punjab, India"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "004"
+    },
+    {
+      "fact": "At twenty-two and 134 pounds, Allen lost to Posh Price in England in two hours and four minutes, and beat him in a second fight",
+      "date": "",
+      "people": ["Posh Price"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he fought a draw with Joe Goss, and that his longest fight, two hours and forty-seven minutes, was an off-hand match with Bob Smith",
+      "date": "",
+      "people": ["Joe Goss", "Bob Smith"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen first came to St. Louis with Bill Ryall in 1868",
+      "date": "1868",
+      "people": ["Bill Ryall"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was married in Vincennes, Indiana",
+      "date": "",
+      "people": [],
+      "places": ["Vincennes, Indiana"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "There was not a dollar at stake when Allen and Mace fought near New Orleans",
+      "date": "1870",
+      "people": ["Jem Mace"],
+      "places": ["near New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Transcript needs completing from the image (see OCR). Allen says he came to St. Louis 'eight years ago' (about 1867) but the reporter gives his first visit with Ryall as 1868. Fact 003 says Crimean War; here Allen says the Indian mutiny under Havelock. Rooke's first name is not given in the article."
+}

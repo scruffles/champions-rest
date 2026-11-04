@@ -36,3 +36,6 @@ Cross-article findings to resolve when merging records into the data. Per-articl
 - 201: the transcript gives the bride's age as 33; the clipped image suggests 21.
 - 202: the address is 3427 Clark (the OCR says 2427).
 - 237: no images or text; probably a duplicate of 236.
+- Birth year: 266 (a book) gives April 1840, against 1839 in fact 001 (the third source for 1840, with 148 and 352).
+- 265: the publication field holds the author's name. 268 is really The Wilkes-Barre Record (1882-12-01), not The Times Leader.
+- 255: the crop is the whole of page 13A and the OCR is a baseball story; needs a new crop and transcript.

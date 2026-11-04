@@ -817,7 +817,7 @@
       "date": "1978-04-04"
     },
     "264": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "key",
       "date": "1875-05-10"
     },
@@ -827,7 +827,7 @@
       "date": "1892-01-01"
     },
     "266": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "key",
       "date": "1894"
     },

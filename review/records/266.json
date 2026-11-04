@@ -1,0 +1,206 @@
+{
+  "id": "266",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Book pages: the full 'Tom Allen, England' biography page and the facing full-length photograph." },
+  "ocr": { "status": "good", "notes": "Accurate except the Mace fight stakes, printed $5,000 (£1,000), transcribed as $3,000; 'Mississippi river' capitalisation and minor punctuation." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "Portrait Gallery of Pugilists of America profiled Tom Allen with a photograph and a record of his fights from 1861 in England to his 1876 loss to Joe Goss, noting he had settled in St. Louis." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Profiles", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Book, Pugilistic Publishing Co.; the 1894 date is not shown on these pages and could not be checked. article.json has no focus field." },
+  "facts": [
+    {
+      "fact": "Allen was born in Birmingham, England, in April 1840 (the index gives April 23, 1839)",
+      "date": "1840-04",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "low",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen's first fight was a loss to Waggoner of Birmingham for $25 (£5) a side; he then lost to Young Gould and to Posh Price",
+      "date": "1861",
+      "people": ["Waggoner", "Young Gould", "Posh Price"],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Bingley Rose of Nottingham in ten rounds (29 minutes) for $125 (£25) a side",
+      "date": "1864-01",
+      "people": ["Bingley Rose"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost to Bob Smith, the 'Liverpool Black', in 2 hours 15 minutes, then beat Jack Parkinson in 20 minutes for $125 (£25) a side",
+      "date": "1864",
+      "people": ["Bob Smith", "Jack Parkinson"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Posh Price a second time, 41 rounds in 2 hours 5 minutes; Price had himself arrested and the stakes went to Allen",
+      "date": "1865-11",
+      "people": ["Posh Price"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen defeated George Iles",
+      "date": "1866-06-12",
+      "people": ["George Iles"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought a 35-round draw (1 hour 52 minutes) with Joe Goss in Monmouthshire for $500 (£100) a side",
+      "date": "1867-03-05",
+      "people": ["Joe Goss"],
+      "places": ["Monmouthshire, Wales"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen received forfeits of $250 (£50) each from Bill Thorpe, Peter Millard and Mike Cocklin",
+      "date": "1867",
+      "people": ["Bill Thorpe", "Peter Millard", "Mike Cocklin"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen came to America in July 1867",
+      "date": "1867-07",
+      "people": [],
+      "places": ["England", "United States"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "Allen's first American fight was a 43-round win over Bill Davis at Chateau Island, St. Louis",
+      "date": "1869-01-12",
+      "people": ["Bill Davis"],
+      "places": ["Chateau Island, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Charley Gallagher knocked Allen out in the second round, after three minutes, at Carroll Island near St. Louis",
+      "date": "1869-02-23",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Mike McCoole nine rounds on Foster's Island in the Mississippi for $1,000 (£200) a side; the crowd broke into the ring and the referee gave the decision to McCoole",
+      "date": "1869-07-15",
+      "people": ["Mike McCoole"],
+      "places": ["Foster's Island, Mississippi River"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen met Charley Gallagher again at Foster's Island; though Allen had him beaten in the 11th round (25 minutes), the referee decided for Gallagher",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher"],
+      "places": ["Foster's Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jem Mace beat Allen in ten rounds (40 minutes) at Kennerville near New Orleans for $5,000 (£1,000) and the championship of the world",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": ["Kennerville, near New Orleans"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Mike McCoole after 29 rounds (20 minutes) at Chateau Island, St. Louis, for $2,000 (£400)",
+      "date": "1873-09-23",
+      "people": ["Mike McCoole"],
+      "places": ["Chateau Island, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought a draw with Ben Hogan, the reformed preacher-pugilist, near Council Bluffs",
+      "date": "",
+      "people": ["Ben Hogan"],
+      "places": ["near Council Bluffs, Iowa"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's last fight was with Joe Goss in Kentucky for the championship of America and $5,000 (£1,000), fought in two rings in Kenton and Boone counties; Goss won on a foul after 21 rounds in 53 minutes",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["Kenton County, Kentucky", "Boone County, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the 1876 Goss fight Allen was arrested and put under bonds",
+      "date": "1876",
+      "people": [],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen settled down in St. Louis, where he still lived",
+      "date": "1894",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "A full fight record, so more facts than usual. Book prints 'Kent' for the first ring's county, read here as Kenton County. Birth year 1840 conflicts with the index (1839)."
+}
