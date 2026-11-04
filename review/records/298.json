@@ -1,0 +1,26 @@
+{
+  "id": "298",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Top half of the article, with headline; it ends mid-sentence ('articles of agreement'), and the rest is in article 297." },
+  "ocr": { "status": "good", "notes": "Readable with small errors." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that after a Bill Davis–Bill Ryall match fell through over money, a match was made in St. Louis between Davis, of California, and Tom Allen, of Cleveland, Ohio, for $1,000 a side." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican--St. Louis, December 5, 1868'. The St. Louis Republic name only dates from 1888." },
+  "facts": [
+    {
+      "fact": "A match was made in St. Louis between Allen, of Cleveland, Ohio, and Bill (William M.) Davis, the California champion, for $1,000 a side, after a Davis-Ryall match fell through; the terms were debated at Bill Ryall's saloon on Washington Avenue and drawn up at Jack Looney's 'Butcher's Exchange'",
+      "date": "1868-12-04",
+      "people": ["Bill Davis", "Bill Ryall", "Jack Looney", "Billy Pendegrass"],
+      "places": ["Bill Ryall's saloon, Washington Avenue, St. Louis", "Jack Looney's Butcher's Exchange, St. Louis", "Cleveland, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same article as 297 (top half). The Davis-Allen match is the main subject, so focus is primary."
+}

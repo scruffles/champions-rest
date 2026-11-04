@@ -1,0 +1,15 @@
+{
+  "id": "332",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole 'Liberty Jr. vs. I X L.' item with box score." },
+  "ocr": { "status": "rough", "notes": "The prose is readable but the box score is mostly garbled in the transcript; the umpire line is readable." },
+  "about_tom": "unsure",
+  "title": { "ok": false, "suggested": "Tom Allen Named as Umpire of a Junior Baseball Game" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat printed the score of a June 27 game in which the Liberty Jr. club beat the I. X. L. club 29 to 23, naming the umpire as Mr. Tom Allen, of the Red Stockings of Cincinnati." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat. Thursday Morning, July 1, 1869.' This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Unsure this is the boxer: the item only says 'Umpire--Mr. Tom Allen, of the Red Stockings of Cincinnati.' The boxer was not a Red Stockings player; it may be a joke tied to his Cincinnati trip that week, or another man. The current title and summary wrongly make it a Cincinnati game; it was between two local junior clubs. Consider marking not_tom if no link is found."
+}

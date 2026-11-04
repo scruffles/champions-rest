@@ -1,0 +1,26 @@
+{
+  "id": "358",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The left edge clips a few letters ('him', 'O'Baldwin', 'Canada'), but the whole item is there and readable." },
+  "ocr": { "status": "rough", "notes": "Headline misread ('Awormen Riormorp rx THR ¥FIELD' is 'Another Richmond in the Field'); 'O'Baldwin' and the closing 'Canada' are missing from the transcript." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Joe Wormald Asks Allen to Arrange a Match with Ned O'Baldwin" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen received a letter from Joe Wormald asking him to arrange the preliminaries of a fight with Ned O'Baldwin for $5,000 a side, to take place in Canada." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat, Saturday Morning, August 21, 1869.' The Globe-Democrat name dates from the 1875 merger." },
+  "facts": [
+    {
+      "fact": "Joe Wormald wrote to Allen asking him to arrange the preliminaries of a match between Wormald and Ned O'Baldwin for $5,000 a side, to be fought in Canada",
+      "date": "1869-08-20",
+      "people": ["Joe Wormald", "Ned O'Baldwin"],
+      "places": ["Canada"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "A short city-news item headed 'Another Richmond in the Field.' The current title wrongly suggests Wormald challenged Allen; Allen was asked to act as go-between."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "331",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole 'On a Sparring Tour.' item, headline to 'Tom is winner.'" },
+  "ocr": { "status": "rough", "notes": "The first two-thirds is mostly right; the last third (from 'recent fight with McCoole') is badly garbled in the transcript though clear in the image. It also misreads 'reached Vincennes' as 'sacked Vincennes'." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Leaves on Sparring Tour with Jim Coyne" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen left St. Louis on a sparring tour with Jim Coyne to Vincennes, Cincinnati and Louisville, and reprinted a Cincinnati report that he had turned back to marry his English sweetheart." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The masthead reads 'The Missouri Republican--St. Louis, June 30, 1869.' The paper was the Missouri Republican until 1888, not the St. Louis Republic." },
+  "facts": [
+    {
+      "fact": "Allen left St. Louis on a sparring tour with Jim Coyne (lately come from England to fight Patsey Reardon), with exhibitions at Vincennes, Ind. on June 30 and Cincinnati on Thursday, then Louisville, returning to St. Louis about July 6",
+      "date": "1869-06-29",
+      "people": ["Jim Coyne"],
+      "places": ["St. Louis", "Vincennes, Indiana", "Cincinnati, Ohio", "Louisville, Kentucky"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Cincinnati Commercial reported that Allen reached Vincennes on his way to Cincinnati but returned to St. Louis in response to a telegram, to marry his early love from England, whose family had settled in New York State and who had tried to come to America with him two years before",
+      "date": "1869-06",
+      "people": [],
+      "places": ["Vincennes, Indiana", "St. Louis", "New York State", "England"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Commercial's story (Sunday, June 27) says he turned back before reaching Cincinnati, while the Republican says he left 'yesterday' (June 29) on the tour, so the marriage story is secondhand and possibly a rumor. Compare article 333, which prints the same story from the Cincinnati Gazette."
+}

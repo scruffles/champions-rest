@@ -1,0 +1,26 @@
+{
+  "id": "330",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "photographer's first name partly illegible (L..uis Umber)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Portrait of Tom Allen Taken After the McCoole Fight" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat noted a full-length photograph of Allen in fighting costume by Louis Umber, taken the day after his fight with McCoole, on sale at the Book and News Company on Fourth Street." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "masthead reads Daily Democrat, Friday Morning, June 25, 1869" },
+  "facts": [
+    {
+      "fact": "Photographer Louis Umber took a full-length portrait of Allen in fighting costume the day after the McCoole fight; copies with an account of his battles were sold at the Book and News Company, Fourth Street",
+      "date": "1869-06",
+      "people": ["Louis Umber", "Mike McCoole"],
+      "places": ["Book and News Company, Fourth Street, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Photographer's first name is partly unclear in the image; 'Louis' is the likely reading."
+}

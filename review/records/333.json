@@ -1,0 +1,46 @@
+{
+  "id": "333",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole item, 'Why Tom Allen Did not Meet McCoole' through 'Tom is a winner.'" },
+  "ocr": { "status": "good", "notes": "Mostly right with small letter errors; one line near 'kept up until his recent fight' is garbled." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen missed a meeting with Mike McCoole to arrange another fight because an old sweetheart from England had sent word she would meet him at Vincennes, and the two were thought to have married." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Personal life", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat. Thursday Morning, July 1, 1869.' This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen failed to keep an appointment one evening with Mike McCoole to make arrangements for another fight",
+      "date": "1869-06",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen went from St. Louis to Vincennes, Indiana, on his way to Cincinnati, but returned to St. Louis instead",
+      "date": "1869-06",
+      "people": [],
+      "places": ["St. Louis", "Vincennes, Indiana", "Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Papers reported that an old sweetheart Allen had left in England, whose family had settled in New York State, met him at Vincennes and went with him to St. Louis to be married",
+      "date": "1869-06",
+      "people": [],
+      "places": ["Vincennes, Indiana", "St. Louis", "New York State", "England"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The courtship account is quoted from the Cincinnati Gazette of the 28th; the Democrat says the marriage has 'by this time' happened but does not confirm it. The woman is not named. Same story as article 331."
+}

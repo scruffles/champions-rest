@@ -1,0 +1,46 @@
+{
+  "id": "284",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The top is missing: the 'JOE COBURN' headline, its subheads and the reporter's introduction (top of the last column, 'THE CITY') come before the crop, which starts at 'COBURN'S STATEMENT'." },
+  "ocr": { "status": "rough", "notes": "The gist is there, but the opening lines are garbled ('2 am Bow one years' = 'I am now forty-one years of age') and there are many word errors ('deepilocn ed' = 'surprised at', 'Cobera', 'Alles')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Joe Coburn answers Tom Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch printed Joe Coburn's reply to Tom Allen, denying he had refused to spar with him. The Adelphi's manager said Allen had sent his wife away and sold his property so he could leave St. Louis." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead: St. Louis Dispatch, Saturday Evening, April 15, 1876; it predates the 1878 Post-Dispatch merger. The speaker is Joe Coburn, not 'Harry Coburn'." },
+  "facts": [
+    {
+      "fact": "Joe Coburn said he sparred with Allen at the Bowery Theater, New York, when Allen first came to America, and knocked him off the stage, slightly injuring him",
+      "date": "1868",
+      "people": ["Joe Coburn"],
+      "places": ["Bowery Theater, New York"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Coburn said he and Allen sparred at Harry Hill's in New York, at a benefit for Mike Coburn about seven or eight months earlier, on Allen's condition that Coburn would not throw him",
+      "date": "1875",
+      "people": ["Joe Coburn", "Mike Coburn"],
+      "places": ["Harry Hill's, New York"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The manager of the New Adelphi Theater in St. Louis denied Allen's statements and claimed Allen would never return to St. Louis, having sent his wife out of the city and converted all his property into cash",
+      "date": "1876-04",
+      "people": ["Joe Coburn"],
+      "places": ["New Adelphi Theater, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "needs_human: the crop should be extended upward to include the headline and introduction of the 'JOE COBURN' item. Companion to article 283 (same day); Allen's letter in 283 answers the claim that he was leaving St. Louis. The facts are Coburn's and the manager's claims."
+}

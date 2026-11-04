@@ -1,0 +1,26 @@
+{
+  "id": "295",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'THE P. R.' column item with headlines, including the short Boston and New York items on O'Baldwin and Wormald at the end." },
+  "ocr": { "status": "good", "notes": "Mostly right; the decks under the headline and a few lines (the referee passage) are garbled in the transcript but clear in the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Seconds Elliott Against Gallagher on Peche Island" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen of Cleveland was one of Elliott's seconds when Elliott fought Gallagher on Pieche Island near Detroit, a brutal 21-round fight the referee gave to Elliott." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'The Missouri Democrat. St. Louis, Friday Morning, November 13, 1868'; before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen, then of Cleveland, was a second for Elliott in his fight with Gallagher on Pieche Island at the head of the Detroit River; Elliott was awarded the fight after 21 rounds amid a rough-and-tumble finish",
+      "date": "1868-11-12",
+      "people": ["Elliott", "Gallagher", "Dan Lecoch", "Dan Brown", "Joe Colbert"],
+      "places": ["Pieche Island, Detroit River", "Detroit, Michigan", "Cleveland, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title and summary are wrong: Allen seconded Elliott, not Gallagher (Gallagher's seconds were Dennis Maynhan of Detroit and Johnny Mackey of Cleveland). The article gives only surnames, Gallagher and Elliott (presumably Charley Gallagher and Jimmy Elliott). Pieche Island is usually spelled Peche Island."
+}

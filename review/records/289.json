@@ -1,0 +1,56 @@
+{
+  "id": "289",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping starts with the end of a baseball letter and a league standings table, then 'THE PRIZE RING. Tom Allen Offers an Opinion or Two' (the Allen article, complete), then unrelated items 'The Benefit of Being Posted' and 'River News'." },
+  "ocr": { "status": "rough", "notes": "The Allen interview is badly garbled in the transcript (much of the New York Sun extract and Allen's answers); the image is readable. The River News part is fair." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that Tom Allen denied being the 'unknown' backed by Arthur Chambers to fight George Rooke for $2,500 a side, telling a reporter he had quit the ring because it was dangerous to his business." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "The running head reads 'The St. Louis Democrat: St. Louis, Sunday, February 21, 1875' and the masthead 'Daily Democrat'. This is before the May 1875 merger, so it is not the Globe-Democrat. The name is used as printed." },
+  "facts": [
+    {
+      "fact": "At Harry Hill's in New York, Arthur Chambers named Tom Allen as his 'unknown' for a $2,500-a-side heavyweight championship match against George Rooke of Newark, according to the New York Sun of Feb. 18; Allen denied it",
+      "date": "1875-02-17",
+      "people": ["Arthur Chambers", "George Rooke", "Joe Coburn", "Harry Hill"],
+      "places": ["Harry Hill's, New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Interviewed in St. Louis, Allen said he had quit the ring and would ignore Rooke's challenge",
+      "date": "1875-02-20",
+      "people": ["George Rooke"],
+      "places": ["St. Louis"],
+      "quote": "I will answer yes to all of those questions; I know nothing about the matter, and have no intention of noticing Rooke's challenge; I have quit the ring; it is dangerous to a man's business, and I cannot afford it.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said that fighting again would force him to sell out and leave Missouri, which he did not intend to do",
+      "date": "1875-02-20",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "quote": "If I fought again I would have to sell out, and get out of the State, and I don't intend to leave here.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The reporter interviewed Allen 'at the Champion's Rest', apparently his saloon, in February 1875",
+      "date": "1875-02-20",
+      "people": [],
+      "places": ["Champion's Rest, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "'AT THE CHAMPION'S REST' is a small-caps subhead, and it seems to name Allen's place, which would put the name back to 1875 (fact 018 has it in 1892). Allen also said he believed the unknown was 'a man named Murray', and called Rooke 'a dunghill' who had fought only once and was beaten by a novice, Rockey Moore. The current summary is over 300 characters."
+}

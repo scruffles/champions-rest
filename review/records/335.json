@@ -1,0 +1,26 @@
+{
+  "id": "335",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Mostly right; the last lines ('any responsible parties that may be named, the fight to take place within sixty days from the signing of the papers') are garbled in the transcript but clear in the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Joe Coburn Offers to Back McCoole Against Allen" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reprinted from a Nevada paper Joe Coburn's offer to back Mike McCoole against Tom Allen for $5,000 to $10,000 under London rules, anywhere in the United States, with Coburn as trainer." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat. Wednesday Morning, July 7, 1869.' This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Joe Coburn offered to back Mike McCoole against Allen in a 24-foot ring under the latest London rules for $5,000 to $10,000, anywhere in the United States, within sixty days of signing, with Coburn as McCoole's trainer and first second",
+      "date": "1869-07",
+      "people": ["Joe Coburn", "Mike McCoole"],
+      "places": ["United States"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The manifesto first appeared in an unnamed Nevada paper; its date is not given, so the fact date is the month of the reprint."
+}

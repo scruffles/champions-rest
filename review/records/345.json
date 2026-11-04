@@ -1,0 +1,46 @@
+{
+  "id": "345",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The item's headline ('Fistic.') is cut through at the top; only its lower edge shows. The letter itself is complete." },
+  "ocr": { "status": "good", "notes": "Readable and mostly right; 'Ben.' read as 'Bea.' and '$1,000' as '21.000'. The headline is missing." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Jim Coyne Challenges Ben Hogan" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican printed Jim Coyne's challenge to Ben Hogan, who had come to St. Louis saying he would fight Tom Allen, to fight four weeks after the Allen-Gallagher fight, with $100 posted at Allen's Fifth street saloon." },
+  "focus": { "current": "passing", "suggested": "secondary" },
+  "tags": ["Challenges", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The masthead reads 'The Missouri Republican, St. Louis, August 7, 1869.'" },
+  "facts": [
+    {
+      "fact": "Ben Hogan arrived in St. Louis saying he had come to fight Allen",
+      "date": "1869-08",
+      "people": ["Ben Hogan"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jim Coyne challenged Ben Hogan to fight four weeks after the Allen-Gallagher fight for $500 or $1,000 a side, with $100 deposited at the Wash Home or at Allen's saloon",
+      "date": "1869-08",
+      "people": ["Jim Coyne", "Ben Hogan", "Charley Gallagher"],
+      "places": ["Wash Home, St. Louis", "Tom Allen's saloon, Fifth street, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen kept a saloon on Fifth street in St. Louis in August 1869",
+      "date": "1869-08",
+      "people": [],
+      "places": ["Tom Allen's saloon, Fifth street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "008"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Coyne adds that he and Allen would be happy to see their friends at Allen's saloon on Fifth street that evening. Hogan is called 'the Dutchman'."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "350",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Additional - Allen and Gallagher' item. One line near the end of the first paragraph is partly hidden by a seam in the image." },
+  "ocr": { "status": "rough", "notes": "Several lines garbled or lost: the opening sentence about their business, the over-indulgence line, Allen's list of engagements (McCool Oct. 10 near Cincinnati, Coyne), the Court House officers line and the Burns/O'Toole bet." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and Gallagher on the Eve of Their Fight" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen and Charley Gallagher would fight the next day on the Mississippi within fifty miles of St. Louis, and listed Allen's next planned matches, starting with McCool on October 10." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Same page as 349: 'Daily Democrat, Monday Morning, August 16, 1869'." },
+  "facts": [
+    {
+      "fact": "Allen and Gallagher were to fight between 9 a.m. and 4 p.m. at a point down the Mississippi River within fifty miles of St. Louis, both going on the same boat",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher"],
+      "places": ["Mississippi River, below St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he would just as soon fight as eat bread and molasses",
+      "date": "1869-08",
+      "people": [],
+      "places": [],
+      "quote": "would just as leave fight as eat bread and molasses!",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's planned engagements were said to be McCool on October 10 within fifty miles of Cincinnati, then Ned O'Baldwin, Ben Hogan, Joe Goss of England, and Tom Kelley",
+      "date": "1869-10-10",
+      "people": ["Mike McCoole", "Ned O'Baldwin", "Ben Hogan", "Joe Goss", "Tom Kelley"],
+      "places": ["near Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Tom Kelley had fought Allen's brother in England",
+      "date": "",
+      "people": ["Tom Kelley"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Gallagher were both in the same business (saloon keeping), which the paper said depended partly on the fight's result",
+      "date": "1869-08",
+      "people": ["Charley Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The 'engagements' are the paper's forecast, not signed matches. Mentions Allen had a brother who boxed in England. Betting details (Garrison $1000 on Allen) skipped."
+}

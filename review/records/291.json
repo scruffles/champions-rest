@@ -1,0 +1,86 @@
+{
+  "id": "291",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Mostly readable; weights garbled (3i0, 168210), 'Bob Sails' should be 'Bob Smith', '87' should be '37' minutes." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen in New York for a Benefit and the Rooke Match" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reprinted a New York Sun account of Tom Allen's visit to New York, his benefit at Harry Hill's, and his coming $3,000 fight with George Rooke near Pittsburg on June 17." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions", "Challenges", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Masthead reads 'The St. Louis Democrat: St. Louis, Tuesday, March 16, 1875' (before the May 1875 merger)." },
+  "facts": [
+    {
+      "fact": "Allen was matched to fight George Rooke for $3,000 within fifty miles of Pittsburg on June 17, 1875; the second deposit of $250 a side was made with stakeholder Harry Hill",
+      "date": "1875-03",
+      "people": ["George Rooke", "Harry Hill"],
+      "places": ["Pittsburg, Pennsylvania", "New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen arrived in Newark, met Jim Coyne, then went on to New York as Harry Hill's guest, visiting Billy Edwards in Brooklyn",
+      "date": "1875-03",
+      "people": ["Jim Coyne", "Harry Hill", "Billy Edwards"],
+      "places": ["Newark, New Jersey", "New York", "Brooklyn"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen planned a sparring tour: a week at Mortimer's Theater in Philadelphia, then Pittsburg, Cleveland, Detroit, Toledo and Chicago, before returning home to St. Louis to train",
+      "date": "1875-03",
+      "people": [],
+      "places": ["Philadelphia", "Pittsburg", "Cleveland", "Detroit", "Toledo", "Chicago", "St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A benefit for Allen was held at Harry Hill's Variety Theater in New York, where he sparred Jim Coyne in the main bout",
+      "date": "1875-03",
+      "people": ["Jim Coyne", "Harry Hill"],
+      "places": ["Harry Hill's Variety Theater, New York"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he weighed 210 pounds and had to train off forty pounds before the Rooke fight",
+      "date": "1875-03",
+      "people": ["George Rooke"],
+      "places": ["New York"],
+      "quote": "There is one thing, my friend, that I want you to print, and that is that I now weigh only 210 pounds. That is bad enough, but some of the papers have got me down for 240. As it is, I have got to train off forty pounds before I have my fight with Rooke, for I never fight at over 170.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen showed a gold and silver championship belt inscribed 'Presented to Tom Allen by his St. Louis friends, May 4, 1870'",
+      "date": "1870-05-04",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "021"
+    },
+    {
+      "fact": "The Sun gave Allen's birth as Birmingham, 1840, and listed his fight record in England and America",
+      "date": "1840",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "low",
+      "existing_fact": "001"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Belt date May 4, 1870 differs from fact 021 (April 29, 1870); birth year 1840 differs from fact 001 (1839)."
+}

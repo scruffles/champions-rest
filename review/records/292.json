@@ -1,0 +1,66 @@
+{
+  "id": "292",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Gist present but many garbled passages, especially the opening record and middle rounds." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Goss and Allen Fight to a Draw at Marshfield" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reprinted a Dublin Freeman's Journal report of Tom Allen's fight with Joe Goss at Marshfield near Cardiff, twice moved by police, which ended in a draw after 34 rounds." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'The Democrat. Monday Morning, April 8, 1867.' Reprinted from the Dublin Freeman's Journal of March 19." },
+  "facts": [
+    {
+      "fact": "Allen fought Joe Goss to a draw at Marshfield near Cardiff; police interrupted twice and the ring was moved, the fight lasting 34 rounds and 1 hour 53 minutes",
+      "date": "1867-03",
+      "people": ["Joe Goss"],
+      "places": ["Marshfield, near Cardiff, Wales"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's right shoulder was dislocated in the 25th round against Goss, but he fought on",
+      "date": "1867-03",
+      "people": ["Joe Goss"],
+      "places": ["Marshfield, near Cardiff, Wales"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was trained for the Goss fight at Birmingham by Ben Garrington",
+      "date": "1867",
+      "people": ["Ben Garrington"],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, of Birmingham, was described as 27 years old, 5 feet 10 inches, and in the ring since 1860",
+      "date": "1867",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "005"
+    },
+    {
+      "fact": "Allen's early record: beat Morris Connor, Jack Gould, Bingey Rose and Jack Parkinson; beaten by Smith the Darky and Posh Price in 1862; beat Price in 1866 in 2 hours 5 minutes; also beat Isles",
+      "date": "1860",
+      "people": ["Posh Price", "Smith the Darky", "Bingey Rose", "Jack Parkinson", "Morris Connor", "Jack Gould"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Report says the fight was 'on Friday'; exact day not given in the clipping."
+}

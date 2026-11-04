@@ -1,0 +1,36 @@
+{
+  "id": "305",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "A few letter errors (Alien, Gleveland, fortett, tn five seeks); the image reads clearly." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that articles were drawn up for a prize fight between Charles C. Gallagher and Tom Allen, both of Cleveland, with $200 a side already deposited and the fight set for five weeks later." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican--St. Louis, January 14, 1869'. Before 1888, so not the St. Louis Republic." },
+  "facts": [
+    {
+      "fact": "Articles of agreement were drawn up for a prize fight between Allen and Charles C. Gallagher, with $200 a side deposited as forfeit money and the fight to take place in five weeks",
+      "date": "1869-01-13",
+      "people": ["Charles C. Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In January 1869 Allen was described as being of Cleveland, Ohio",
+      "date": "1869-01",
+      "people": [],
+      "places": ["Cleveland, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The item says the articles were arranged 'last night', i.e. Jan. 13, 1869. It also says a Gallagher-Tom Kelly fight was likely to follow. Allen is a principal, so focus is primary."
+}

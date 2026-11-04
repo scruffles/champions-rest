@@ -1,0 +1,26 @@
+{
+  "id": "337",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole short item 'The Prize Ring. Another Battle to Take Place Between Allen and McCoole. The Preliminaries Arranged.' The masthead strip 'N--ST. LOUIS' at the top is part of the page header." },
+  "ocr": { "status": "good", "notes": "Body text right; headlines garbled ('1HE Pile RING', 'Latte to Take Plac> ietw22a')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen and Mike McCoole Matched for a Second Fight" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Mike McCoole and Tom Allen were matched for $2,500 a side, to fight in four months within fifty miles of Cincinnati, with preliminaries arranged at Hennesy's saloon." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The masthead reads 'The Missouri Republican--St. Louis, July 10, 1869.' It was the Missouri Republican until 1888, not the St. Louis Republic." },
+  "facts": [
+    {
+      "fact": "A match was made between Tom Allen and Mike McCoole for $2,500 a side, to be fought in four months within fifty miles of Cincinnati; the preliminaries were arranged at Hennesy's saloon, Fourth and Morgan, St. Louis",
+      "date": "1869-07-09",
+      "people": ["Mike McCoole", "Charley Gallagher", "Tom Kelley"],
+      "places": ["Hennesy's saloon, Fourth and Morgan, St. Louis", "within fifty miles of Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The item says Allen was present at the meeting, but the Democrat of July 13 (article 339) says he was absent, said to be sick. Tom Kelley appeared for McCoole; Gallagher and Looney were present."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "311",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole item, headline 'A Fight Between McCoole and Allen in Prospect' through 'this evening'." },
+  "ocr": { "status": "rough", "notes": "Gist readable but many garbled words and names ('MoCeoLe', 'Eagl#sh', 'Whes-nut' for Chesnut, 'Alb ,.' for Allen)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that after a $1,000 wager in a Chesnut Street saloon, Mike McCoole agreed to fight Tom Allen for any sum from $1,000 to $10,000. Allen claimed to be the champion of England in America." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Missouri Republican--St. Louis, March 8, 1869'. The saloon meeting was 'Saturday evening', March 6, 1869." },
+  "facts": [
+    {
+      "fact": "After his fight with Charley Gallagher, Allen kept demanding another fight, saying he was able and willing to fight any man in America",
+      "date": "1869-03",
+      "people": ["Charley Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At a Chesnut Street saloon Allen asserted McCoole could not whip him in an hour and a half; a $1,000 wager was made and a $50 forfeit put up by McCoole's friend was covered by Allen",
+      "date": "1869-03-06",
+      "people": ["Mike McCoole"],
+      "places": ["Chesnut Street, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "McCoole consented to fight Allen and said he was ready to fight for any amount from $1,000 to $10,000",
+      "date": "1869-03",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen claimed to be the champion of England in America",
+      "date": "1869-03",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The existing fact 'Allen claims English championship title when he came to America the first time' has no unique id in the index (000), so it is not linked."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "301",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen had arrived in St. Louis and was still in training for his January 12 fight with Bill Davis, and that Gallagher and Elliott would fight in the same ring for $500 a side." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican--St. Louis, January 7, 1869'." },
+  "facts": [
+    {
+      "fact": "Allen arrived in St. Louis in early January 1869 for his January 12 fight with Bill Davis, and was still in training",
+      "date": "1869-01",
+      "people": ["Bill Davis"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Short 'Fistiana' item. The item says 'has arrived' without naming St. Louis; the arrival is implied by the St. Louis paper."
+}

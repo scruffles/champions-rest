@@ -1,0 +1,76 @@
+{
+  "id": "303",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "This is the end of the 'Fistiana' fight report (rounds 25-43 and the return trip); it starts mid-sentence in round 25. The headline and start are in article 304; rounds 1-24 are in neither clipping." },
+  "ocr": { "status": "unusable", "notes": "Transcript is mostly garbled; the image is readable." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Defeats Bill Davis in 43 Rounds" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen beat Bill Davis in 43 rounds lasting 41 minutes, when McCoole threw up the sponge for Davis, and that Allen then quarreled with Charley Gallagher and offered to fight him." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat', Wednesday morning, Jan. 13, 1869. Before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen beat William M. Davis in 43 rounds lasting 41 minutes; Mike McCoole, Davis's second, threw up the sponge, and Allen showed little sign of punishment",
+      "date": "1869-01-12",
+      "people": ["William M. Davis", "Mike McCoole"],
+      "places": ["Chouteau Island, near Rhodes' Point, above St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Standing over Davis in the 40th round, Allen remarked on his opponent",
+      "date": "1869-01-12",
+      "people": ["William M. Davis"],
+      "places": ["Chouteau Island, near Rhodes' Point"],
+      "quote": "What kind of a fighter is that?",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the fight Allen challenged Charley Gallagher, who had boasted he could whip any man in Allen's corner",
+      "date": "1869-01-12",
+      "people": ["Charley Gallagher"],
+      "places": ["Chouteau Island, near Rhodes' Point"],
+      "quote": "You are a coward, and I will fight you in five weeks for $1000.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "When Gallagher offered to fight in two or three weeks, Allen offered to fight him on the spot",
+      "date": "1869-01-12",
+      "people": ["Charley Gallagher"],
+      "places": ["Chouteau Island, near Rhodes' Point"],
+      "quote": "I'll fight you now for $500. You are a cur!",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On the boat back to St. Louis Allen and Gallagher nearly fought in the cabin before the crowd kept them apart",
+      "date": "1869-01-12",
+      "people": ["Charley Gallagher"],
+      "places": ["steamer returning to St. Louis"],
+      "quote": "You are a blarsted, bloody coward.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A $50 forfeit was put up for Gallagher to fight Allen or Tom Kelley within five weeks for $500 a side, with articles to be signed at Ryall's on Washington avenue",
+      "date": "1869-01-12",
+      "people": ["Charley Gallagher", "Tom Kelley"],
+      "places": ["Ryall's, Washington avenue, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same article as 304 (its continuation); the two could be merged. The current title wrongly says forty-one rounds (it was 43 rounds in 41 minutes), and the summary's 'on a steamboat' is wrong: the fight was on shore; the crowd travelled by boat. Allen also collected a contribution for Davis on the way back."
+}

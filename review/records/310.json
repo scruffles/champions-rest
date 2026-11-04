@@ -1,0 +1,15 @@
+{
+  "id": "310",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors in names (Jen Halloran, Dateb 41 for Dutch Bill, 'Birc' Davison)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that a sparring exhibition at Carroll's Hall, Third and Pine, benefited Charlie Gallagher, winner of the late fight with Tom Allen, who made a long, defiant speech about Allen." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican--St. Louis, March 1, 1869'. The exhibition was on Saturday night, Feb. 27." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "No facts about Allen himself; the item concerns Gallagher's benefit and his planned sparring tour with Dublin Tricks, Jim Halloran and Pat Hanley."
+}

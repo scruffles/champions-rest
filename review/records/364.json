@@ -1,0 +1,62 @@
+{
+  "id": "364",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "middle lines garbled; image is clear"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat reprinted the Leavenworth Commercial's notice of Tom Allen's sparring exhibition at the Leavenworth Opera House, where a large crowd came to see him ahead of his McCoole rematch."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "masthead: Daily Democrat, Tuesday Morning, August 31, 1869"
+  },
+  "facts": [
+    {
+      "fact": "Allen gave a sparring exhibition at the Opera House in Leavenworth, Kansas, to a large crowd",
+      "date": "1869-08-28",
+      "people": [],
+      "places": [
+        "Opera House, Leavenworth, Kansas"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's backers predicted an easy victory over McCoole",
+      "date": "1869-08",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Commercial of the 29th describes the exhibition on the preceding night."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "299",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Two local items: 'PUGILISTIANA' (the Allen item, complete) and an unrelated 'LANDLORD AND TENANT' item below it." },
+  "ocr": { "status": "good", "notes": "Readable with small errors ('Publin Tricks' for 'Dublin Tricks', 'MeCvole')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and Davis Go Into Training" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported excitement and heavy betting on the coming fight between Bill Davis and Tom Allen; both went into training that day, Davis under Bill Blake, 'Dublin Tricks', who had trained Mike McCoole." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican--St. Louis, December 7, 1868'. The St. Louis Republic name only dates from 1888." },
+  "facts": [
+    {
+      "fact": "Allen and Bill Davis went into training for their fight; Davis's fighting weight was given as 185 pounds, more than Allen would carry",
+      "date": "1868-12-07",
+      "people": ["Bill Davis", "Bill Blake"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The short item is entirely about the Allen-Davis contest, so focus is primary."
+}

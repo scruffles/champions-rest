@@ -1,0 +1,26 @@
+{
+  "id": "306",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors (McCocle's, Court-Honse, fina!, as it he was)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that the final deposit of $300 a side was made at McCoole's new house for the Feb. 23 prize fight between Tom Allen and Charlie Gallagher, with the betting slightly in Allen's favor." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican--St. Louis, February 17, 1869'." },
+  "facts": [
+    {
+      "fact": "The articles of agreement for the Allen-Gallagher fight were read and the final deposit of $300 a side was made at Mike McCoole's new house, opposite the Court-House, with the fight set for Feb. 23",
+      "date": "1869-02-16",
+      "people": ["Charlie Gallagher", "Mike McCoole"],
+      "places": ["McCoole's, opposite the Court-House, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Both men are again called 'of Cleveland'. Allen was said to look in excellent condition and Gallagher somewhat over-trained."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "302",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The clipping ends at the subhead 'ANOTHER FIGHT'; that closing section (about the other bouts in the same ring, per the subhead) is not in the clipping. Everything about Allen is included." },
+  "ocr": { "status": "rough", "notes": "Gist is there; Davis's letter has several garbled lines (the image is readable)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen and Bill Davis Prepare for Prize Fight" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican previewed the $1,000-a-side prize fight between Tom Allen of Cleveland and William M. Davis of California, reporting that Allen was training on the Gravois road under Tom Kelly." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican--St. Louis, January 11, 1869'." },
+  "facts": [
+    {
+      "fact": "Allen was matched with William M. Davis for $1,000 a side, the fight to take place on Tuesday (January 12) 40 or 50 miles from St. Louis, with McCoole and Ryall chartering the steamer Tom Stevens",
+      "date": "1869-01-12",
+      "people": ["William M. Davis", "Mike McCoole", "Bill Ryall"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After arriving, Allen trained on the Gravois road about nine miles from St. Louis under Tom Kelly",
+      "date": "1869-01",
+      "people": ["Tom Kelly"],
+      "places": ["Gravois road, near St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Includes Davis's letter to the New York Clipper about the Christmas Day assault at Doyle's. The paper calls Allen 'of Cleveland' (see fact 007). The fight was actually held on the Henry Adkins, not the Tom Stevens (see 304)."
+}

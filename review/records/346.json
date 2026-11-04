@@ -1,0 +1,26 @@
+{
+  "id": "346",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'P. R. Matters' item, headline to end. One line ('by deep blue ... oval in the') is partly hidden by a seam in the image." },
+  "ocr": { "status": "rough", "notes": "Gist readable; the garbled line about the blue border, 'set-tos' read as 'pot-toe', and several Cincinnati Times sentences garbled ('motley crowd', 'display of milling science', 'whose god is money')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's Colors for the Gallagher Fight" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat described the silk colors Tom Allen's friends made for his coming fight with Charley Gallagher, with an eagle, the American shield and 36 stars, and said the fight would come off next Tuesday." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat, Wednesday Morning, Aug. 11, '69'. Second half of the item is a Cincinnati Times notice of McCoole and O'Baldwin sparring in Cincinnati, not about Allen." },
+  "facts": [
+    {
+      "fact": "Allen's fight with Charley Gallagher was set for the following Tuesday, with Billy Carroll chartering the steamer Louisville to carry the crowd",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher", "Billy Carroll"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's colors (fighting handkerchief) described: white oval center, dark spots, 36 orange stars, black spread eagle holding the American shield, 'E pluribus unum' scroll."
+}

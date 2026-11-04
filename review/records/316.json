@@ -1,0 +1,26 @@
+{
+  "id": "316",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping includes a baths advertisement and an 'Indian Delegation' item above the Allen item 'McCoole and Allen', which is complete." },
+  "ocr": { "status": "rough", "notes": "The Allen item is mostly readable but has errors (e.g. 'pe ag', 'Aljien's esioon', 'Die 3 oL'). The sum reads $800 in the transcript; the image is faint and could be $300 or $800." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that the last of the stakes for the McCoole-Allen prize fight was put up at Tom Allen's saloon, and that Allen looked in fine condition and would go into training at once." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat, Saturday Morning, May 8, 1869'. This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "The last of the stakes for the prize fight between Mike McCoole and Tom Allen was put up at Allen's saloon in St. Louis; McCoole was not present",
+      "date": "1869-05-07",
+      "people": ["Mike McCoole"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Also mentions that Dublin Tricks attended and that Charley Gallagher was expected but sick in bed."
+}

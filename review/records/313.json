@@ -1,0 +1,66 @@
+{
+  "id": "313",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping starts with two unrelated items (infantry regiments not to be transferred; a hat advertisement). The Allen item 'Pugilistic--Tom Allen's Card' follows and is complete through the signature 'Thomas Allen'." },
+  "ocr": { "status": "good", "notes": "Mostly right; a few errors such as 'Nel one' for 'capacity', '$2, dollars' for '$2,500 dollars', '$3. 000 to @5,000' for '$2,000 to $5,000', and 'pyar:' for 'whip'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat printed Tom Allen's challenge to Mike McCoole, saying McCoole had backed out twice and offering to fight him on his own ground for $2,500 a side within three months." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: 'Daily Democrat, Friday Morning, March 12, 1869'." },
+  "facts": [
+    {
+      "fact": "Allen said he had been matched to fight McCoole on the 6th, but when they met at the Broad Gauge saloon on the 8th to put up the balance of the first $500 deposit, McCoole refused that sum and insisted on $3,000 against $2,500",
+      "date": "1869-03-08",
+      "people": ["Mike McCoole"],
+      "places": ["Broad Gauge saloon, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen described himself as a stranger in St. Louis, unsure he could raise the larger sum",
+      "date": "1869-03",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "Being a stranger in the city, and not knowing that I could raise that sum, I could not give him a decided answer.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said this was the second time McCoole had been matched to fight him and backed out",
+      "date": "1869-03",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "This is the second time McCoole was matched to fight me, and the second time he has backed out.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen challenged McCoole to fight on McCoole's own ground within fifty miles of St. Louis for $2,500 a side, any time within three months, with money ready with Wm. Carroll, 510 Market Street",
+      "date": "1869-03-12",
+      "people": ["Mike McCoole", "Wm. Carroll"],
+      "places": ["510 Market Street, St. Louis"],
+      "quote": "I am ready to meet him and give him his own ground for $2,500 dollars a side, and ask no odds, any time within three months from this challenge.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen closed his card with a taunt to McCoole",
+      "date": "1869-03-12",
+      "people": ["Mike McCoole", "Charley Gallagher"],
+      "places": [],
+      "quote": "I want no more bragging. If he can whip myself and Gallagher in one ring, surely he can whip me alone, and $2,500 is a good day's wages. So \"either put up or shut up.\"",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper's intro notes McCoole had announced a day or two earlier that he would fight any man in America, so it thought Allen's challenge unnecessary."
+}

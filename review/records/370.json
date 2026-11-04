@@ -1,0 +1,36 @@
+{
+  "id": "370",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "A 'Pugilistic Pickings' roundup column; Allen is in the first and third items and named in the Bill Davis item. Last letters of a few lines at the right edge are clipped" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that $500 a side was put up the night before at Allen's saloon in the McCoole-Allen match, and that Allen and Coyne's exhibitions in the Eastern cities drew large crowds." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Challenges", "Exhibitions", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads Daily Democrat, Sunday Morning, October 10, 1869" },
+  "facts": [
+    {
+      "fact": "$500 a side was put up at Allen's saloon in the match between Mike McCoole and Tom Allen",
+      "date": "1869-10-09",
+      "people": ["Mike McCoole", "Jim Coyne"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Jim Coyne gave successful exhibitions in the Eastern cities, drawing large crowds",
+      "date": "1869-09",
+      "people": ["Jim Coyne"],
+      "places": ["Eastern cities"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Bill Davis testimonial mentions Davis had fought Allen; no new Allen fact there"
+}

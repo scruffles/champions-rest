@@ -1,0 +1,26 @@
+{
+  "id": "294",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Starts mid-article; the headline ('The Grand P. R. Fizzle') and opening are missing. The Allen mention in 'The Parties Present' is included." },
+  "ocr": { "status": "unusable", "notes": "Heavily garbled throughout; the Allen line in the parties list is lost in the transcript." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Among the Crowd at the McCoole-Coburn Fizzle" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat's account of the failed McCoole-Coburn fight in Indiana listed Tom Allen among those present, open to fight McCoole or Coburn, whichever won." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat. Friday Morning, May 29, 1868.'" },
+  "facts": [
+    {
+      "fact": "Allen attended the abortive McCoole-Coburn fight near Lawrenceburg, Indiana, open to fight McCoole or Coburn, whichever won",
+      "date": "1868-05",
+      "people": ["Mike McCoole", "Joe Coburn"],
+      "places": ["near Lawrenceburg, Indiana"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Coburn never entered the ring and McCoole claimed the forfeit."
+}

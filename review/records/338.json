@@ -1,0 +1,26 @@
+{
+  "id": "338",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The clipping holds only the section headed 'THE COMING FIGHT.' On the page it appears to be the closing section of a longer column-4 article headed 'THE FIGHTING BUSINESS' (subheads mention a philosophical essay, the financial aspect, and 'The Coming Match, Its Circumstances and Prospects'), whose earlier part is not in the clipping. The scaled page is too small to confirm." },
+  "ocr": { "status": "good", "notes": "Mostly right with small errors." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "The Coming Allen–McCoole Fight" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican wrote that great interest surrounded Tom Allen's coming rematch with Mike McCoole on November 10, after Allen's unexpected punishing of McCoole in their last battle, and lamented the corruption of the prize ring." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The masthead reads 'The Missouri Republican--St. Louis, July 13, 1869.' It was the Missouri Republican until 1888, not the St. Louis Republic." },
+  "facts": [
+    {
+      "fact": "Allen's rematch with Mike McCoole was set for November 10, 1869",
+      "date": "1869-11-10",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "needs_human to check whether the clipping should include the earlier part of 'The Fighting Business' article above it on the page. The section is mostly editorial comment; the paper says few judges gave 'little Tom' any chance against 'big Mike' in their late battle, but he turned the tables and punished him terribly."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "357",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Readable and mostly right; scattered character errors ('Alien', 'Hineid' for Aeneid, 'Iset Tuesday' for last Tuesday)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Editorial on the Disputed Allen-Gallagher Fight" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat argued in an editorial that Allen had won his fight with Gallagher on Foster's Island after eleven rounds when Gallagher's second threw up the sponge, and faulted the referee for calling it a draw." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat, Friday Morning, August 20, 1869.' The Globe-Democrat name dates from the 1875 merger." },
+  "facts": [
+    {
+      "fact": "Allen fought Charley Gallagher on Foster's Island below St. Louis; witnesses said Allen won in 26 minutes after eleven rounds when Gallagher's second Tom Kelley threw up the sponge before the twelfth, but the referee later declared the fight a draw because he had not seen who threw the sponge",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher", "Tom Kelley"],
+      "places": ["Foster's Island, below St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "When Allen went to Gallagher's corner to shake hands after the sponge was thrown, Gallagher struck at him",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher"],
+      "places": ["Foster's Island, below St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had been one of Jim Elliott's seconds in Elliott's fight with Gallagher at Peach Island near Detroit, which the crowd broke up; Gallagher was said to hold a grudge against Allen over it",
+      "date": "",
+      "people": ["Jim Elliott", "Charley Gallagher"],
+      "places": ["Peach Island, near Detroit"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Gallagher was said to have given Allen a severe pounding in a rough-and-tumble fight at Cleveland",
+      "date": "",
+      "people": ["Charley Gallagher"],
+      "places": ["Cleveland, Ohio"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Gallagher had an earlier, unsatisfactory contest at Carroll's Island in the spring of 1869",
+      "date": "1869",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll's Island"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Headed 'The Late Mill. Present Status of the Prize Ring.' Mostly an editorial against the prize ring, with a long digression on the boxing match in Virgil's Aeneid. It also mentions the Allen-McCoole fight ending in a disputed foul and a court wrangle. The Elliott and Cleveland items are given as 'it is related' and 'it is said', hence medium confidence."
+}

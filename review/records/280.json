@@ -1,0 +1,36 @@
+{
+  "id": "280",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The Allen section is complete. The column ends mid-way through Jake Kilrain's unrelated Tommy Hughes anecdote, which continues in the next column." },
+  "ocr": { "status": "good", "notes": "Accurate for the Madden section; the Kilrain anecdote at the end is paraphrased and garbled (e.g. 'the ghost' passage) and truncated." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Washington Post quoted Billy Madden saying that Tom Allen, who had known Charley Mitchell as a boy in Birmingham, taught Mitchell the left hook that later spread to Dempsey, Corbett and others." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The Washington Post", "notes": "Masthead: The Washington Post, Tuesday, February 1, 1898, page 8." },
+  "facts": [
+    {
+      "fact": "Allen was one of Charley Mitchell's best friends in America, having known him as a boy around Birmingham, England",
+      "date": "",
+      "people": ["Charley Mitchell"],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen gave Charley Mitchell boxing pointers, most notably the deceptive left hook, which Mitchell used on Reddy Gallagher, Jack Burke, Dominick McCaffrey and others; Madden said Allen did not invent the blow",
+      "date": "",
+      "people": ["Charley Mitchell", "Billy Madden"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The account is Billy Madden's recollection, so the facts are secondhand."
+}

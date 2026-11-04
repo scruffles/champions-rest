@@ -1,0 +1,36 @@
+{
+  "id": "285",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping holds a run of local baseball notes (Redmond, the Reds, the Stocks) followed by 'The Prize Ring' item about Joe Goss. Only 'The Prize Ring' paragraph is about Allen. Both items are complete." },
+  "ocr": { "status": "good", "notes": "Readable with scattered errors, e.g. 'piven' for 'pitted', 'stb 3' for 'accept' in the last line of the Goss item." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Joe Goss Arrives from England to Seek a Match with Tom Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Joe Goss had arrived in New York from England to make a match with Tom Allen for the championship, saying Allen had written inviting him and that he would come to St. Louis to challenge him." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead reads 'St. Louis Daily Globe-Democrat, Wednesday Morning, April 12, 1876', page 8. The Goss item is a dispatch reprinted from the Philadelphia Item, dated New York, April 10." },
+  "facts": [
+    {
+      "fact": "Joe Goss arrived in New York from England to make a match with Tom Allen, or any other man, for the championship of the world; Jem Mace did not come with him",
+      "date": "1876-04-10",
+      "people": ["Joe Goss", "Jem Mace"],
+      "places": ["England", "New York"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Goss said he had received several letters from Allen inviting him to America, and planned to go to St. Louis that week to challenge Allen formally; the dispatch doubted Allen would accept",
+      "date": "1876-04",
+      "people": ["Joe Goss"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title says Allen issued the challenge; in the article Goss is the one seeking the match. The current summary is a fragment of the article text. The focus is set to secondary because the item is about Goss's arrival, though Allen is its subject. The Goss fight followed in September 1876."
+}

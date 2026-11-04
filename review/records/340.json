@@ -1,0 +1,36 @@
+{
+  "id": "340",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The left edge is trimmed, cutting the first letter or two of many lines (text still readable), and the 'THE PRIZE RING.' section heading above the item is not included." },
+  "ocr": { "status": "rough", "notes": "Gist is there but the cut left edge drops the start of many lines ('fter much', 'nip city', '+ is unusually tali')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen and Charley Gallagher had signed articles to fight for a small amount near St. Louis on August 17, a rematch of their fight at Carroll Island last winter." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat. Thursday Morning, July 15, 1869.' This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen and Charley Gallagher signed articles to fight for a small amount near St. Louis on August 17, 1869, and part of the money was put up",
+      "date": "1869-07",
+      "people": ["Charley Gallagher"],
+      "places": ["near St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Gallagher had fought the previous winter at Carroll Island, a few miles below St. Louis, where Allen had the best of the first round but was knocked out of time by a chance blow on the neck in the second",
+      "date": "1869",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll Island, Mississippi River, below St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The item notes Allen also had his engagement to fight Mike McCoole in November and would have a month to train for Gallagher first. Two to one was reportedly staked on Allen."
+}

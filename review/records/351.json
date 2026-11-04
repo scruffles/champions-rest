@@ -1,0 +1,36 @@
+{
+  "id": "351",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Short 'Fistic' item, complete." },
+  "ocr": { "status": "good", "notes": "Minor errors; the boat leaves at 8 o'clock, not 5." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that the last stakes for the Tom Allen and Charley Gallagher fight were deposited at Allen's saloon, and that tickets were out for the August 17 steamboat excursion on the Louisville." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Page masthead reads 'The Missouri Republican--St. Louis, August 16, 1869.'" },
+  "facts": [
+    {
+      "fact": "The last deposit of stakes for the Allen-Gallagher rematch was made at Allen's saloon",
+      "date": "1869-08-14",
+      "people": ["Charley Gallagher"],
+      "places": ["Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Allen-Gallagher fight was set for August 17, 1869, with spectators taken by steamboat excursion on the Louisville from the foot of Elm Street, St. Louis",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher"],
+      "places": ["Foot of Elm Street, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Deposit was 'Saturday night', i.e. August 14, 1869."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "282",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole item is included; a few unrelated patent-list lines and an advertisement line sit above the headline." },
+  "ocr": { "status": "good", "notes": "The body is accurate apart from small errors ('Altten', 'anreunced'); the opening lines are garbage from the patent list above." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Sewer collapse postpones Tom Allen's benefit" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen's benefit at the Theater Comique, where he was to receive a $1,000 championship belt, was postponed to Wednesday after the Biddle Street sewer caved in out front before the show began." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: Daily Democrat, Sunday Morning, May 1, 1870. The event was Saturday night, April 30." },
+  "facts": [
+    {
+      "fact": "A pugilistic benefit for Allen at the Theater Comique (old Mozart Hall), St. Louis, where he was to be presented with a $1,000 championship belt and spar with Joe Coburn and Mike McCoole, was postponed to Wednesday when the Biddle Street sewer caved in before the show",
+      "date": "1870-04-30",
+      "people": ["Joe Coburn", "Mike McCoole"],
+      "places": ["Theater Comique (old Mozart Hall), Biddle Street, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": "021"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Existing fact 021 dates the belt presentation to April 29, 1870; this article shows it was planned for Saturday April 30 and then postponed to Wednesday (May 4)."
+}

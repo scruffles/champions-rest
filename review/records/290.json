@@ -1,0 +1,36 @@
+{
+  "id": "290",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Right edge trims the last letter or two of many lines; all text still recoverable." },
+  "ocr": { "status": "rough", "notes": "Readable overall; many dropped line-end letters and garbled figures ($2,1@0, $40¥, 1U0))." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat printed the articles of agreement signed May 23, 1873, for Tom Allen and Mike McCoole to fight for $2,000 a side on September 23 within 200 miles of St. Louis." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Masthead reads 'The St. Louis Democrat: St. Louis, Sunday, May 25, 1873' (pre-merger; not yet the Globe-Democrat)." },
+  "facts": [
+    {
+      "fact": "Allen and Mike McCoole signed articles of agreement to fight under the new London prize ring rules for $2,000 a side on September 23, 1873, within 200 miles of St. Louis",
+      "date": "1873-05-23",
+      "people": ["Mike McCoole"],
+      "places": ["McCoole's saloon, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The agreement named Allen's house at 417 Washington Avenue, St. Louis, as the place for the July 8 deposit; both men were described as residents of St. Louis",
+      "date": "1873-05",
+      "people": [],
+      "places": ["417 Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": "McCoole told Allen 'Old boy, you must get well soon', hinting Allen was unwell, but the article gives no detail."
+}

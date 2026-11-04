@@ -1,0 +1,36 @@
+{
+  "id": "322",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Scattered letter errors ('Cieeineati', 'Sututday', 'Leuisviiie'), otherwise right." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen had finished training near Cincinnati for his fight with McCoole and would reach St. Louis on Saturday, keeping private at his saloon on Fifth near Biddle." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat. Friday Morning, June 11, 1869.' This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen finished training near Cincinnati for his fight with Mike McCoole and was due back in St. Louis on Saturday, June 12, 1869",
+      "date": "1869-06-12",
+      "people": ["Mike McCoole"],
+      "places": ["near Cincinnati, Ohio", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's saloon was on Fifth Street near Biddle in June 1869",
+      "date": "1869-06",
+      "people": [],
+      "places": ["Fifth Street near Biddle, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "008"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The steamer Louisville, said to hold 2,000 people, was chartered for the fight excursion, leaving the foot of Walnut Street at 8 a.m. Tuesday. The item is about Allen, so focus is primary."
+}

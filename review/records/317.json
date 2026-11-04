@@ -1,0 +1,46 @@
+{
+  "id": "317",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "The first half is readable; the second half (Storrs' township, Squire Sedam, bond) is garbled in the transcript though clear in the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen, training near Cincinnati for his June 15 fight with McCoole, was arrested in Storrs' township and bound over before Squire Sedam not to fight in Ohio." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat, Wednesday Morning, May 19, '69'. This is before the 1875 merger." },
+  "facts": [
+    {
+      "fact": "Allen was under engagement to fight McCoole near St. Louis on June 15, 1869",
+      "date": "1869-06-15",
+      "people": ["Mike McCoole"],
+      "places": ["near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was training near Cincinnati, Ohio, for the McCoole fight",
+      "date": "1869-05",
+      "people": [],
+      "places": ["near Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was arrested in Storrs' township, Ohio, taken before Squire Sedam and required to sign a bond not to fight in Ohio",
+      "date": "1869-05",
+      "people": ["Squire Sedam"],
+      "places": ["Storrs' township, near Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "038"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary says he was arrested 'while training'; the paper says he had been training near Cincinnati and was bound over to keep him from fighting in the state."
+}

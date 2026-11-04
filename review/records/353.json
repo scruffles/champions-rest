@@ -1,0 +1,26 @@
+{
+  "id": "353",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The whole 'From Jacksonville, Ill.' correspondence letter; only the 'A Professional Pugilist' paragraph near the end mentions Allen." },
+  "ocr": { "status": "rough", "notes": "Allen paragraph mostly readable; other sections of the letter have many garbled lines." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican's Jacksonville, Illinois correspondent reported that the English pugilist Patsey Reardon, who had recently challenged Tom Allen through a St. Louis paper, was in town proposing a sparring exhibition." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Page masthead reads 'The Missouri Republican--St. Louis, August 18, 1869.' Letter dated Jacksonville, August 17." },
+  "facts": [
+    {
+      "fact": "Patsey Reardon, an Irish-born pugilist who had fought in England, published a challenge to fight Allen in a St. Louis paper",
+      "date": "1869-08",
+      "people": ["Patsey Reardon"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

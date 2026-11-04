@@ -1,0 +1,26 @@
+{
+  "id": "344",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole item 'McCoole and Allen. What the New York Clipper Says.' across two pieces." },
+  "ocr": { "status": "good", "notes": "Readable with many small letter errors; a few phrases garbled ('successful culmination and prevent' lost)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "New York Clipper on the McCoole-Allen Rematch" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reprinted the New York Clipper's comments on the new match between Mike McCoole and Tom Allen, hoping the much-abused Allen would get the fair play denied him on Foster's Island." },
+  "focus": { "current": "passing", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat. Monday Morning, July 26, 1869.' This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "The New York Clipper reported that a new match had been made between Allen and McCoole, expected to draw more attention than any American prize fight in years, after the disgraceful scenes at Foster's Island",
+      "date": "1869-07",
+      "people": ["Mike McCoole"],
+      "places": ["Foster's Island"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Clipper describes Allen as the smaller, more skillful man against the much heavier McCoole, and says the chosen ground should give each man an equal number of friends."
+}

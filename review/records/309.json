@@ -1,0 +1,36 @@
+{
+  "id": "309",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping is missing the headline ('THE PRIZE RING. Prospects of Another Fight Between Allen and Gallagher', visible on the page) and continues into the unrelated 'EAST ST. LOUIS ITEMS' (the Police Bill). Only the first part, down to 'Allen's published challenge', is about Allen." },
+  "ocr": { "status": "good", "notes": "Readable with minor errors (Gailiagher, lanrels, Bill Ryail's); the transcript includes the unrelated East St. Louis item." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Prospects of a Rematch Between Allen and Gallagher" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that after his loss Allen had gained supporters by his quiet behavior, that a $1,000 rematch forfeit was put up for him, and that Allen announced himself ready to meet Gallagher at any time." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican--St. Louis, February 26, 1869'." },
+  "facts": [
+    {
+      "fact": "At McCoole's, Gallagher agreed to an immediate rematch with Allen, and one of Allen's admirers put up a forfeit for a $1,000 match",
+      "date": "1869-02-25",
+      "people": ["Charley Gallagher", "Mike McCoole"],
+      "places": ["McCoole's, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At a benefit exhibition for his second Patsy Reardon at Looney's Hall, Allen announced himself ready to meet Gallagher at any time; Gallagher had said he would accept Allen's published challenge",
+      "date": "1869-02-25",
+      "people": ["Charley Gallagher", "Patsy Reardon"],
+      "places": ["Looney's Hall, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title (a challenge from Joe Wormald) does not match the text: Wormald is not mentioned. The current summary is raw OCR. The paper says Gallagher had 'let himself loose on the town' while Allen gained supporters by his quiet and orderly behavior."
+}

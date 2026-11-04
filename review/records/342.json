@@ -1,0 +1,46 @@
+{
+  "id": "342",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole item 'McCoole and Allen.' including Ben Hogan's challenge, ending with his signature, across two pieces." },
+  "ocr": { "status": "rough", "notes": "Gist readable but many errors, and Hogan's letter is badly garbled in the last third (several lines lost, signature read as 'EN. HOGAN')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "McCoole Denies Bribery; Ben Hogan Challenges Allen" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reprinted from the New York Clipper Mike McCoole's denial that the referee of his fight with Tom Allen was bribed, and Ben Hogan's challenge to fight Allen for $1,000 in Canada West." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The masthead reads 'The Missouri Republican, St. Louis, July 18, 1869.' It became the St. Louis Republic only in 1888." },
+  "facts": [
+    {
+      "fact": "McCoole wrote to the New York Clipper denying that the referee of his fight with Allen was bribed or that his friends cut the ropes, and said he would have won had the fight continued",
+      "date": "1869-07",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and McCoole had already signed articles for a second fight by mid-July 1869",
+      "date": "1869-07",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Ben Hogan of Titusville, Pa., challenged Allen to a fight under the new London prize ring rules for $1,000 and the boat money, to take place in Canada West three months after signing, offering to meet Allen's backers in Buffalo or Cleveland",
+      "date": "1869-07-02",
+      "people": ["Ben Hogan"],
+      "places": ["Titusville, Pennsylvania", "Canada West", "Buffalo", "Cleveland"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper says every paper called the McCoole fight a victory for Allen though McCoole got the money on the referee's decision. Hogan enclosed $100 forfeit money."
+}

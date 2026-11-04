@@ -1,0 +1,50 @@
+{
+  "id": "362",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "whole Police Court list for August 27, 1869"
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "most names right; the Fines Imposed lines are badly garbled"
+  },
+  "about_tom": "unsure",
+  "title": {
+    "ok": false,
+    "suggested": "Police Court Fines a Tom Allen $3"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat's Police Court list for August 27, 1869, showed a Tom Allen fined $3. No offense is given, and nothing shows this was the boxer."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "masthead: Daily Democrat, Saturday Morning, August 28, 1869"
+  },
+  "facts": [
+    {
+      "fact": "A Tom Allen was fined $3 in the St. Louis Police Court; the offense is not stated",
+      "date": "1869-08-27",
+      "people": [],
+      "places": [
+        "Police Court, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Name appears only in a list of fines; could be another Tom Allen. The same list shows Michael McCoole's assault-with-intent-to-kill case continued to September 1."
+}

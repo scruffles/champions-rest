@@ -1,0 +1,15 @@
+{
+  "id": "328",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "right edge of the column is cut off, losing the last words of most lines; article 329 is the same item cropped fully" },
+  "ocr": { "status": "good", "notes": "matches the image, including the truncated line ends" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican urged Allen to divide the stakes with McCoole rather than fight again, quit prize fighting, sell his saloon and open a genteel sparring school, praising his manly conduct." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Profiles", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads The Missouri Republican, St. Louis, June 24, 1869" },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Duplicate of 329 (same editorial, same page); 329 has the complete crop. Facts recorded on 329. Consider removing this one."
+}

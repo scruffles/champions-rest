@@ -1,0 +1,26 @@
+{
+  "id": "343",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping holds an unrelated item ('Man falls through a Dilapidated Porch') above the Allen item 'Arrival of the \"Irish Giant.\"'; the right edge is slightly cut, losing the last letter of some lines." },
+  "ocr": { "status": "good", "notes": "Both items readable with small errors; includes the unrelated porch item." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Edward O'Baldwin, the \"Irish Giant,\" arrived at the Laclede from Boston, went around with Tom Allen and called on Mike McCoole and Billy Carroll, with talk that his visit meant business." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The masthead reads 'The Missouri Republican, St. Louis, July 26, 1869.'" },
+  "facts": [
+    {
+      "fact": "Edward O'Baldwin, the 'Irish Giant,' arrived in St. Louis from Boston and went around with Allen, amid talk that his visit meant business",
+      "date": "1869-07",
+      "people": ["Edward O'Baldwin", "Mike McCoole", "Billy Carroll"],
+      "places": ["Laclede Hotel, St. Louis", "Boston"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The visit is reported on 'Saturday' or recently; the exact arrival date is not given."
+}

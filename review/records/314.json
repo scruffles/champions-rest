@@ -1,0 +1,36 @@
+{
+  "id": "314",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole item, 'Picked Up a Customer.--Another Prize Fight on the Tapis', is present; the left edge is slightly clipped but the text is readable." },
+  "ocr": { "status": "good", "notes": "Mostly right; first letters lost on some lines from the left edge." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and Patsy Reardon Matched for $2,000 a Side" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that after Patsy Reardon challenged Tom Allen in a city paper, the two were matched to fight for $2,000 a side at 150 pounds, with $100 put up as a forfeit." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: 'Daily Democrat, Thursday Morning, March 25, 1869'. Reardon's challenge appeared 'yesterday morning' and the match was made 'last night', March 24, 1869." },
+  "facts": [
+    {
+      "fact": "Patsy Reardon challenged Allen in a city paper, and Allen answered that evening with a counter-challenge to Reardon 'or any other man'",
+      "date": "1869-03-24",
+      "people": ["Patsy Reardon"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Patsy Reardon were matched to fight for $2,000 a side at 150 pounds, with $100 put up",
+      "date": "1869-03-24",
+      "people": ["Patsy Reardon"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper adds that the Legislature had failed to pass a law against prize fighting."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "359",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "First two-thirds is good; the Wessells-Ryan-Gallagher exchange near the end (crops 7-8) and Allen's printed challenge are badly garbled in the transcript, though clear in the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that referee Larry Wessells, after two meetings where Gallagher's second Kelly failed to appear, declared the Allen-Gallagher fight a draw. Allen then offered to fight again near Cincinnati." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat, Saturday Morning, August 21, 1869'; Allen's letter is addressed to 'Editors Missouri Democrat.' The Globe-Democrat name dates from the 1875 merger." },
+  "facts": [
+    {
+      "fact": "At a meeting at 26 North Fourth Street, St. Louis, referee Larry Wessells declared the Allen-Gallagher fight a draw, saying he had not seen Kelly throw up the sponge and gave no decision before Allen left the ring; all bets were declared off",
+      "date": "1869-08-20",
+      "people": ["Larry Wessells", "Charley Gallagher", "Jack Looney", "Dad Ryan", "Tom Kelly"],
+      "places": ["26 North Fourth Street, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At the referee's meeting Allen said that when the sponge is thrown up it is an acknowledgment of defeat",
+      "date": "1869-08-20",
+      "people": ["Charley Gallagher", "Larry Wessells"],
+      "places": ["26 North Fourth Street, St. Louis"],
+      "quote": "When the sponge is thrown up, it is an acknowledgment of defeat.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Wessells told the paper he was satisfied Allen had left the ring because he feared for his life, and that Allen had no chance of fair play in St. Louis",
+      "date": "1869-08-20",
+      "people": ["Larry Wessells"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen accepted Gallagher's proposal to leave the stakes up and add $1,000, offering to fight within fifty miles of Cincinnati in seven to ten days and to meet Gallagher at his saloon to draw up articles; Sherman Thurston and Wm. Carroll signed for him",
+      "date": "1869-08-21",
+      "people": ["Charley Gallagher", "Sherman Thurston", "William Carroll"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "I will fight him for $1,000 and the stakes of the late fight, within fifty miles of Cincinnati, in from seven to ten days from date",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he named so short a time so he could fit himself for his McCoole match in November 1869",
+      "date": "1869-11",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "The reason of my naming so short a time is, that I wish to do myself and my friends justice by allowing myself ample time to fit myself for the McCoole match in November next.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Long report of two meetings (the Ivy Green on Market Street in the afternoon, then 26 North Fourth Street at 8 p.m.). Carroll told Duffy that Allen would fight Gallagher in Canada for any amount, saying he had been cheated out of the stakes in the McCoole fight. The paper says Wessells was honest but wrong on the rules. Crop 8 has a blank band in the middle of the column, which appears to be a gap in the original; the text runs on across it. Allen's challenge was dated the day of publication ('to-day'), so its fact date is 1869-08-21."
+}

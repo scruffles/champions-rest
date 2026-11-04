@@ -1,0 +1,36 @@
+{
+  "id": "312",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The first item, 'Pugilistic--A Match Between McCoole and Gallagher', is about Allen. The rest of the clipping is an unrelated item on the will of Chas. Beardslee." },
+  "ocr": { "status": "rough", "notes": "The Allen item is partly garbled in the middle ('shangha; Tis breads'te chelloces Wine'); the will item is mostly readable." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "McCoole and Allen Match Called Off After Gallagher Challenge" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Mike McCoole and Tom Allen agreed at Alex. McKee's to withdraw their stakes and postpone their fight after Charley Gallagher sent word challenging McCoole." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead: 'Daily Democrat, Tuesday Morning, March 9, 1869'. The meeting was 'last night', March 8, 1869." },
+  "facts": [
+    {
+      "fact": "At a meeting at Alex. McKee's, McCoole and Allen agreed to withdraw the stakes on their match and postpone the fight",
+      "date": "1869-03-08",
+      "people": ["Mike McCoole", "Alex. McKee"],
+      "places": ["Alex. McKee's, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The reason given was a dispatch from Charley Gallagher, 'the Cleveland shanghai', authorizing his friends to challenge McCoole to a fight in about two months",
+      "date": "1869-03-08",
+      "people": ["Charley Gallagher", "Mike McCoole"],
+      "places": ["Cleveland"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's own card (article 313) gives a different account: McCoole refused to put up the $500 deposit at the Broad Gauge saloon on the 8th and demanded different stakes."
+}

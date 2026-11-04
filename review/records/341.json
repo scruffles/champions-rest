@@ -1,0 +1,26 @@
+{
+  "id": "341",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole short item under 'Allen and Gallagher.' is in the clipping." },
+  "ocr": { "status": "good", "notes": "Readable with small errors; two lines near the end are missing from the transcript ('trainor, to put him in shape for the coming mill, which will no doubt be one of the most exciting battles that has ever taken place')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen's coming match with Charley Gallagher was creating great interest, with Jim Coyne as Allen's mentor and Gallagher sending to New York for trainer James Cusick." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat. Friday Morning, July 16, 1869.' This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen was matched to fight Charley Gallagher, with Jim Coyne acting as Allen's mentor",
+      "date": "1869-07",
+      "people": ["Charley Gallagher", "Jim Coyne"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Gallagher sent to New York for James Cusick, Joe Coburn's old trainer."
+}

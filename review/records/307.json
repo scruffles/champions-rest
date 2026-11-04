@@ -1,0 +1,76 @@
+{
+  "id": "307",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline through Allen's remarks after the fight ('for any amount'). On the page the column continues below the end of the clipping (there appears to be a further item, possibly a challenge signed by Tom Allen and dated Feb. 23); it is too small to read on page.jpg, so it is unclear whether it belongs to this report." },
+  "ocr": { "status": "rough", "notes": "Gist and most names are there but many character errors throughout (e.g. 'rotten cur' passage, years like 1361/1363/1388 for 1861/1863/1868, Bob Smith fight 108 rounds). The image is readable." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Charley Gallagher beat the favorite Tom Allen at Carroll's Island, Illinois, knocking him unconscious in the second round with a right under the left ear." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead 'Daily Democrat', Wednesday morning, Feb. 24, 1869. Before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen lost to Charley Gallagher at Carroll's Island, Illinois, opposite Quarantine station twelve miles below St. Louis, knocked out of time in the second round by a right-hand blow on the neck under the left ear",
+      "date": "1869-02-23",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll's Island, Illinois, opposite Quarantine, below St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was the betting favorite at three to two; he lay unconscious about five minutes after the knockout",
+      "date": "1869-02-23",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll's Island, Illinois"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Impatient at the delay in choosing a referee, Allen threw off his blankets and told Gallagher he would fight without one",
+      "date": "1869-02-23",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll's Island, Illinois"],
+      "quote": "I will fight you without a referee—you rotten cur!",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After coming to, Allen said he was sorry for his backers, had never felt so confident of winning, and would fight Gallagher again immediately or in a week for any amount",
+      "date": "1869-02-23",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll's Island, Illinois"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper gave Allen as 28 years old, 5 feet 9 inches tall and 168 pounds, an English fighter",
+      "date": "1869-02",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper listed Allen's English record: beat Morris Conner (June 1861), White, Clark and Jack Gould (1862, Birmingham district); lost to Posh Price (1862); beat Bingey Rose (London district); lost to Bob Smith in Liverpool (1863, 108 rounds); beat Jack Parkinson (1863), Posh Price (1864) and George Iles (1866); and beat Bill Davis last month",
+      "date": "1861",
+      "people": ["Morris Conner", "Posh Price", "Bob Smith", "Jack Parkinson", "George Iles", "Bill Davis"],
+      "places": ["Birmingham, England", "London, England", "Liverpool, England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "needs_human: check on the full-size page whether the column continues past 'for any amount' with more of this report or a published challenge from Allen (309 refers to 'Allen's published challenge'). The record printed 'Pash Price', read here as Posh Price. Allen boarded the Galatea near Venice, Ill.; seconds were Patsy Reardon and John Looney. Gallagher is given as 6 ft 4 in, born in Canada, 24. Bill Davis fight described as 'last month' with rounds and minutes left blank."
+}

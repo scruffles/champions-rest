@@ -1,0 +1,56 @@
+{
+  "id": "283",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The bottom is cut off: the crop ends at 'bluster with him' and leaves out the 'Money Talks' section directly below, which holds Allen's April 13 letter and his Indian Territory challenge that the subheadline refers to. That section was read from the scaled-down page." },
+  "ocr": { "status": "good", "notes": "Mostly accurate; some garbled words ('Setanther' for September, '$2, 20' for $2,500, 'three eng' for 'three rings', 'Darl' for Dan). The ending is garbled and the 'Money Talks' section is missing." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Joe Goss had come from England to fight Tom Allen for $2,000 a side, reviewed Goss's record including their 1867 draw, and printed Allen's challenge to fight anyone in the Indian Territory." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, April 15, 1876, page 3. The Goss item is a special to the Chicago Times dated New York, April 12." },
+  "facts": [
+    {
+      "fact": "Joe Goss arrived in New York from England to fight Allen, having accepted Allen's standing challenge to fight any man in the world; a match for $2,000 a side was expected",
+      "date": "1876-04",
+      "people": ["Joe Goss"],
+      "places": ["England", "New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Joe Goss fought a draw for £200 a side in England, moving through three rings because of police interference; 34 rounds in 1 hour 52 minutes before the referee stopped it with both men exhausted. Allen refused Goss's offer of a rematch",
+      "date": "1867-03-03",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's brother Harry Allen was matched with Joe Goss for £400 and the championship of England for September 4, 1868, but was arrested and bound over in £1,000 to stop the fight; he died soon afterward",
+      "date": "1868-09-04",
+      "people": ["Harry Allen", "Joe Goss"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In a letter of April 13, 1876, Allen denied he was leaving St. Louis, said he was going to Chicago for one week, blamed the reports on his refusal to spar with Coburn, and offered to fight anyone in the Indian Territory with Frederick Watkins backing him for $5,000 or $10,000",
+      "date": "1876-04-13",
+      "people": ["Frederick Watkins", "Joe Coburn"],
+      "places": ["St. Louis", "Chicago", "Indian Territory"],
+      "quote": "Please contradict the statement that I am going to leave the country, or leave St. Louis. I am only going to Chicago for one week, when I shall return and endeavor to get a location to suit me.",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "needs_human: the crop should be extended to include the 'Money Talks' section with Allen's letter, signed 'Thomas Allen, Champion of America'. The letter fact and quote were read from the scaled-down page and should be checked against the full-resolution image."
+}

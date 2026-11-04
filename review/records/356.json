@@ -1,0 +1,56 @@
+{
+  "id": "356",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "First sentence garbled; rest mostly right." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Gossip After the Allen-Gallagher Fight" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Gallagher denied he was beaten and wanted a rematch, while Allen said there would be no more fighting until the stakes were given up, since Gallagher's second had thrown up the sponge." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Same page as 355: 'Daily Democrat', Thursday morning, August 19, 1869. Headline 'Allen and Gallagher. Gossip About the Late Fight.'" },
+  "facts": [
+    {
+      "fact": "After the August 17 fight, Allen told the paper there would be no more fighting until the stakes were given up; he said the referee had not made a final decision and none was needed because Gallagher's second threw up the sponge",
+      "date": "1869-08-18",
+      "people": ["Charley Gallagher", "Larry Wessells"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said a scar under his left eye came from a club thrown into the ring during the Gallagher fight",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "quote": "",
+      "kind": "health",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Gallagher denied he was beaten and offered to add about $1,000 to the stakes and fight Allen again after Allen and McCoole settled their dispute",
+      "date": "1869-08-18",
+      "people": ["Charley Gallagher", "Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A fight between Allen and Mike McCoole was expected in November 1869",
+      "date": "1869-11",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's statement is reported speech, not a direct quote."
+}

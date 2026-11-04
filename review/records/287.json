@@ -1,0 +1,36 @@
+{
+  "id": "287",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article from 'THE MANLY ART. Heenan and Mace at the Varieties' to the closing line about Mace's battle with Allen on May 10." },
+  "ocr": { "status": "good", "notes": "Readable; letters dropped at the left margin in places." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat described John C. Heenan and Jem Mace's sparring exhibition at the Varieties Theater, noting that they visited Tom Allen's concert room and that Mace would train in New Orleans for his May 10 fight with Allen." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Exhibitions", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat, Wednesday Morning, March 23, 1870'. That is the Missouri Democrat, before the 1875 merger. The exhibition took place on the night of March 22, 1870." },
+  "facts": [
+    {
+      "fact": "Allen kept a concert room on Washington Avenue, St. Louis; Heenan and Mace visited it while in the city",
+      "date": "1870-03-22",
+      "people": ["John C. Heenan", "Jem Mace"],
+      "places": ["Tom Allen's concert room, Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's fight with Mace was set for May 10, 1870; Mace was to go into training in New Orleans after the exhibition tour through Cincinnati",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans", "Cincinnati"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "This puts Allen's concert room on Washington Avenue by March 1870, a year earlier than fact 009 (concert hall opened at 417 Washington Ave on March 4, 1871), and it agrees with fact 017. The paper calls Allen 'who now wears the colors of champion'. Mace said that making a match with a fellow countryman 'was forced on me'. These quotes are Mace's, so they are left out of the facts."
+}

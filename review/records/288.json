@@ -1,0 +1,46 @@
+{
+  "id": "288",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole short item 'Pugilistic—Tom Allen's Benefit' from the City News column." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat announced that Tom Allen would take a benefit at the Theater Comique on Saturday night before leaving for New Orleans to fight Jem Mace, and would be presented a belt made by Jaccard." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat, Friday Morning, April 29, 1870', so 'Saturday night' is April 30, 1870." },
+  "facts": [
+    {
+      "fact": "Allen was to take a benefit at the Theater Comique, St. Louis, with Joe Coburn, Mike McCoole, Kelly and others sparring, and a closing bout between Allen and Coburn",
+      "date": "1870-04-30",
+      "people": ["Joe Coburn", "Mike McCoole", "Kelly"],
+      "places": ["Theater Comique, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A championship belt made by Jaccard was to be presented to Allen at his benefit",
+      "date": "1870-04-30",
+      "people": [],
+      "places": ["Theater Comique, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "021"
+    },
+    {
+      "fact": "Allen was preparing to leave St. Louis for New Orleans to fight Jem Mace",
+      "date": "1870-05",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis", "New Orleans"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fact 021 dates the belt presentation to April 29, 1870. This item, from the April 29 paper, puts the benefit on the following Saturday, April 30, so 021's date may need checking. The current summary begins 'Item announced', which is a slip. The item is entirely about Allen, so the focus is set to primary."
+}

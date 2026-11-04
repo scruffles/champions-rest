@@ -1,0 +1,26 @@
+{
+  "id": "355",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Includes an unrelated item above (attempted suicide of Balthasar Stark); the 'Tom Allen's Colors' item is complete." },
+  "ocr": { "status": "good", "notes": "Item headings garbled; body text right." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Fights Under American Colors" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that an admirer gave the paper the colors Tom Allen wore against Gallagher, a silk handkerchief bearing the American eagle and flags; Allen claimed to be an American citizen." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Page masthead reads 'Daily Democrat', Thursday morning, August 19, 1869." },
+  "facts": [
+    {
+      "fact": "Allen fought Gallagher under American colors, a silk handkerchief with the American eagle, stars and two American flags; he claimed to be an American citizen and said he would fight under American colors from then on",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

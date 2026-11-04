@@ -1,0 +1,46 @@
+{
+  "id": "371",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Gist there; several words garbled (Commercial, whipped, 24th)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Arrives in Cincinnati to Train for McCoole" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reprinted a Cincinnati Commercial report that Tom Allen had arrived in Cincinnati to train at the Buckeye House under Coyne and Earl for his November 10 fight with Mike McCoole." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads The Missouri Republican, St. Louis, October 14, 1869" },
+  "facts": [
+    {
+      "fact": "Allen arrived in Cincinnati to stay until his fight with McCoole, training at the old Buckeye House under Jim Coyne and Earl, where he trained the previous spring",
+      "date": "1869-10-11",
+      "people": ["Jim Coyne", "Earl"],
+      "places": ["Buckeye House, Cincinnati"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's second fight with Mike McCoole was set for November 10, 1869, within fifty miles of Cincinnati",
+      "date": "1869-11-10",
+      "people": ["Mike McCoole"],
+      "places": ["near Cincinnati"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was to give an exhibition in Cincinnati, probably at Mozart Hall",
+      "date": "1869-10-16",
+      "people": [],
+      "places": ["Mozart Hall, Cincinnati"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title and summary are wrong (no Gallagher fight here; summary is garbled OCR). The Commercial of the 12th says he arrived 'yesterday', so October 11"
+}

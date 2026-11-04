@@ -1,0 +1,294 @@
+{
+  "id": "354",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Clipping ends at the start of the seventh round; the rest of the round-by-round account, the sponge being thrown up and the referee's decision continue in the next column and are not in the clipping."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; birth year reads 1840 in the image (OCR '1519'), Goss stakes $2,000 (OCR '$2,990'), Gallagher's loss $1,000 (OCR '$1,900'), 1865 not 'i885', 1867 not '1887'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported on the August 17, 1869 fight between Tom Allen and Charley Gallagher at Foster's Island; the sponge was thrown up and Allen claimed victory, but the referee called it a draw."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Page masthead reads 'The Missouri Republican--St. Louis, August 18, 1869.'"
+  },
+  "facts": [
+    {
+      "fact": "The paper gave Allen's birth as Birmingham, England, April 23, 1840 (aged twenty-nine)",
+      "date": "1840-04-23",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "medium",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen began fighting at twenty-one; in 1861 he beat Morris Connor for $25 a side in twelve rounds",
+      "date": "1861",
+      "people": [
+        "Morris Connor"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": "005"
+    },
+    {
+      "fact": "In 1861 Allen beat White for $25 a side in eight rounds",
+      "date": "1861",
+      "people": [
+        "White"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In 1862 Allen beat Gould for $75 stakes in thirty-one rounds",
+      "date": "1862",
+      "people": [
+        "Gould"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In 1862 Allen lost to Posh Price for $100 a side in forty rounds",
+      "date": "1862",
+      "people": [
+        "Posh Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "About 1864 Allen beat Bingy Rose for $250 a side in ten rounds",
+      "date": "1864",
+      "people": [
+        "Bingy Rose"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "About 1864 Allen lost to Bob Smith, the Black, for $25 a side after three hours and twenty minutes",
+      "date": "1864",
+      "people": [
+        "Bob Smith"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In 1865 Allen beat Jack Parkinson for $250 a side in fifteen rounds",
+      "date": "1865",
+      "people": [
+        "Jack Parkinson"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In 1866 Allen beat Posh Price in a rematch, fifty-eight rounds for $250 a side",
+      "date": "1866",
+      "people": [
+        "Posh Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In 1866 Allen beat George Iles for $500 a side in eighteen rounds",
+      "date": "1866",
+      "people": [
+        "George Iles"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On March 5, 1867, Allen fought Joe Goss for the championship and $2,000 a side; the fight ended in a draw",
+      "date": "1867-03-05",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the Goss draw Allen emigrated from England to America",
+      "date": "1867",
+      "people": [],
+      "places": [
+        "England",
+        "America"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "In 1869 Allen beat Bill Davis in forty rounds for $1,000 a side",
+      "date": "1869",
+      "people": [
+        "Bill Davis"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Soon after the Davis fight, Charley Gallagher beat Allen in two rounds for $1,000 a side (February 1869)",
+      "date": "1869-02",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On June 15, 1869, Allen beat Mike McCoole in nine rounds for $1,000 a side but did not receive the stakes",
+      "date": "1869-06-15",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was described as about five feet ten and a half inches tall and 170 pounds in fighting trim",
+      "date": "1869-08",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On July 13, 1869, Allen and Gallagher made a rematch for $500 a side and the excursion money, to be fought August 17 within fifty miles of St. Louis",
+      "date": "1869-07-13",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On August 17, 1869, Allen fought Charley Gallagher at Foster's Island, 22 miles down the Mississippi from St. Louis, with Leary Wessel as referee",
+      "date": "1869-08-17",
+      "people": [
+        "Charley Gallagher",
+        "Leary Wessel"
+      ],
+      "places": [
+        "Foster's Island, Mississippi River"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The sponge was thrown up in the Allen-Gallagher fight and Allen claimed the victory, but the referee decided the fight a draw",
+      "date": "1869-08-17",
+      "people": [
+        "Charley Gallagher",
+        "Leary Wessel"
+      ],
+      "places": [
+        "Foster's Island, Mississippi River"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "The current summary's 'after eleven rounds' cannot be checked from the clipping, which stops at round six; the outcome is taken from the headlines. Someone should re-crop to include the continuation column. Birth year 1840 here conflicts with fact 001 (1839). Early English fight record is the paper's account; years for Rose and Smith are 'resting two years' after 1862."
+}

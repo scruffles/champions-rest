@@ -1,0 +1,64 @@
+{
+  "id": "365",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "first sentence and ending garbled; image clear"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen Offers to Buy Out Gallagher"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat printed Tom Allen's letter to a St. Louis friend after the Gallagher fiasco, offering to buy out Gallagher or any other champion for cash and to take terms at his saloon."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "masthead: Daily Democrat, Tuesday Morning, August 31, 1869"
+  },
+  "facts": [
+    {
+      "fact": "After the Gallagher draw, Allen wrote to a St. Louis friend offering to buy out Gallagher or any other champion",
+      "date": "1869-08",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "If Gallagher wishes to dispose of his place of business at a fair valuation, I am ready and willing to purchase the same and pay cash, and if any of the other champions wish to sell out, I have got the 'rhino' to put down and buy them out, bag and baggage.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said challengers should leave the terms at his saloon",
+      "date": "1869-08",
+      "people": [],
+      "places": [
+        "Allen's saloon, St. Louis"
+      ],
+      "quote": "let them leave the terms at my saloon and they shall be promptly accommodated.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen was writing from out of town (on tour in Kansas and Missouri at the time)."
+}

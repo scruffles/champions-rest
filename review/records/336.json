@@ -1,0 +1,66 @@
+{
+  "id": "336",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The whole Allen article ('A Pugilistic Lion. Return of Tom Allen. How He Was Received at Louisville.') is in crop-1 and the top of crop-2. The rest of crop-2 and all of crop-3 and crop-4 are an unrelated 'Abstract of Real Estate Transfers' list, which could be trimmed off." },
+  "ocr": { "status": "good", "notes": "Allen article mostly right with small letter errors ('bome', 'Cincinna l', 'Benson' = Toea-tre'); the transcript also includes the unrelated real estate list." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Returns from Cincinnati and Louisville" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen returned to St. Louis from Cincinnati and reprinted the Louisville Courier's account of his crowded sparring exhibition with Jim Coyne at Benson's Theatre in Louisville." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat. Thursday Morning, July 8, 1869.' This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen returned home to St. Louis from Cincinnati, where he had spent a few days with his old English sweetheart, travelling by way of Louisville",
+      "date": "1869-07-07",
+      "people": [],
+      "places": ["Cincinnati, Ohio", "Louisville, Kentucky", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen gave a sparring exhibition at Benson's Theatre, corner of Fourth and Jefferson, Louisville, with a set-to against his trainer and travelling companion Jim Coyne, before a crowded hall",
+      "date": "1869-07-05",
+      "people": ["Jim Coyne"],
+      "places": ["Benson's Theatre, Fourth and Jefferson, Louisville, Kentucky"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he was willing to fight any man in America for a purse of $1,000 to $5,000",
+      "date": "1869-07",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen offered to put up $2,500 against Charley Gallagher's $1,500 for a rematch, wanting to fight within fifty miles of Cincinnati",
+      "date": "1869-07",
+      "people": ["Charley Gallagher"],
+      "places": ["within fifty miles of Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Charley Gallagher had beaten Allen the previous winter with a blow in the second round",
+      "date": "1869",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Courier account (of the 6th) says Allen was delayed by a bridge accident near Covington, rode a hand car part way, and sang and played the piano at a dinner while waiting. The paper calls Gallagher 'the tall Canadian'. The current title ('Tom Allen Fights Gallagher') is wrong: no fight happens in this article."
+}

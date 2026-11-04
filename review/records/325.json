@@ -1,0 +1,36 @@
+{
+  "id": "325",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Mostly right; McCoole's printed challenge is badly garbled in the transcript, and '399 miles' should read '300 miles'." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "McCoole Challenges Allen to a Rematch" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Mike McCoole stood by his challenge to Tom Allen for $5,000 a side within 100 miles of St. Louis; Allen answered that he would fight for $5,000 but not within 300 miles of the city." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The page masthead reads 'The Missouri Republican--St. Louis, June 18, 1869.' The St. Louis Republic name dates only from 1888." },
+  "facts": [
+    {
+      "fact": "Mike McCoole published a challenge to Allen for a rematch under the revised English prize ring rules for $5,000 a side, to be fought 50 to 100 miles from St. Louis within three months, with $500 deposited at 206 North Third Street",
+      "date": "1869-06-16",
+      "people": ["Mike McCoole"],
+      "places": ["206 North Third Street, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen rejected McCoole's terms, offering to fight for $5,000 a side but not within 300 miles of St. Louis because he did not believe he could get fair play nearer, and reportedly put up $1,000 forfeit at the St. Louis Billiard Hall",
+      "date": "1869-06-17",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis Billiard Hall, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Most of the item is a comic account of a reporter visiting McCoole at his Fifth Street saloon, where McCoole confirmed the challenge ('my money's up'). Allen's answer is reported indirectly, not quoted. The current title has it backwards: McCoole challenged Allen. The $1,000 forfeit is 'said to have' been put up, hence medium confidence."
+}

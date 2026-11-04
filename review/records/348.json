@@ -1,0 +1,66 @@
+{
+  "id": "348",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Headline missing: the page shows 'PUGILISTIC. Return of McCoole, O'Baldwin and Kelly. Gallagher and Allen at Their Training Quarters. The Mill of Tuesday Next.' above the clipping. Body is complete." },
+  "ocr": { "status": "good", "notes": "Mostly right; Duffy's and Hogan's presentation speeches are garbled in the text but clear in the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and Gallagher at Their Training Quarters" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat visited Tom Allen, training under Jim Coyne at the Wash Home, and Charley Gallagher before their fight on Tuesday; Allen said he was in better condition than when he fought McCoole." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Profiles", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat, Sunday Morning, August 15, 1869'. The same article was reprinted on Aug. 16 (article 349), where this edition's 'gymnast by trade' was corrected to 'gunsmith by trade'." },
+  "facts": [
+    {
+      "fact": "Allen trained at the Wash Home under Jim Coyne for the Gallagher fight, weighing 170 pounds, and said he was in better condition than when he fought McCoole",
+      "date": "1869-08",
+      "people": ["Jim Coyne", "Charley Gallagher", "Mike McCoole"],
+      "places": ["Wash Home, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Gallagher knocked Allen out of time in the second round of their fight near St. Louis on February 23, 1869",
+      "date": "1869-02-23",
+      "people": ["Charley Gallagher"],
+      "places": ["near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Blacksmith Dan seconded Jim Elliott against Gallagher at Peach Island, near Detroit; the fight was broken up by the crowd after 21 rounds",
+      "date": "",
+      "people": ["Jim Elliott", "Charley Gallagher", "Blacksmith Dan"],
+      "places": ["Peach Island, near Detroit, Michigan"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen said he would drive Gallagher to his 'bloody corner' and doubted the Canadian had the pluck for a good fight",
+      "date": "1869-08",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "quote": "bloody corner ... bloody glad ... bloody pluck ... bloody good fight",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The final $100 a side of the battle money was deposited at Allen's and Gallagher's saloons, which were packed with crowds",
+      "date": "1869-08-14",
+      "people": ["Charley Gallagher"],
+      "places": ["Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Quote is reported speech; only the quoted words in the image are given. This edition says 'Allen is a gymnast by trade'; the Monday reprint (349) says 'gunsmith'. Duplicate content with 349."
+}

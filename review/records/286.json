@@ -1,0 +1,56 @@
+{
+  "id": "286",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article from the 'Championship of the World / Tom Allen and Jem Mace / Probability of a Match Between Them' headings to Mace's signature. The right edge clips a letter or two on some lines in the first piece, but the text can still be read." },
+  "ocr": { "status": "rough", "notes": "Gist and figures are mostly there, but Allen's and Mace's letters have many garbled lines; the image is clear." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reprinted a New York Clipper account of letters between Tom Allen and Jem Mace, in which Allen sent articles and $500 for a $2,500-a-side fight near Cincinnati on July 5 and Mace countered." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat, Saturday Morning, Jan. 8, 1870'. That is the Missouri Democrat, before the 1875 Globe-Democrat merger. The article is reprinted from the New York Clipper." },
+  "facts": [
+    {
+      "fact": "On Dec. 28, 1869, Allen answered Mace's card by telegraph, declining to travel to New York without knowing Mace's terms and promising to forward articles with $500",
+      "date": "1869-12-28",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis", "New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's articles and $500 reached the New York Clipper on Jan. 3, 1870, proposing a fight with Mace for $2,500 a side and the championship of America within fifty miles of Cincinnati on July 5, with Mace's English champion belt against Allen's American belt",
+      "date": "1870-01-03",
+      "people": ["Jem Mace"],
+      "places": ["New York Clipper office, New York", "within fifty miles of Cincinnati"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mace answered with new articles for $2,500 a side, to be fought in April in Virginia, in Canada within 100 miles of Montreal, or in Louisiana within 50 miles of New Orleans, refusing to fight near St. Louis",
+      "date": "1870-01-03",
+      "people": ["Jem Mace"],
+      "places": ["Virginia", "Montreal, Canada", "New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In a letter from St. Louis dated Dec. 31, 1869, Allen said he had issued no challenge since his fight with McCoole except to Mace, and that he wanted to meet Mace",
+      "date": "1869-12-31",
+      "people": ["Jem Mace", "Mike McCoole", "Frank Queen"],
+      "places": ["St. Louis"],
+      "quote": "I am no braggart, but simply mean business, and if Mace means the same, there will be no trouble to get up a fight between him and I, for I do not know of any man I would rather meet in the ring than Mace.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's letter also says that the belt his St. Louis friends would present to him should count as the champion belt of America, which ties in with fact 021, the belt presented in April 1870. Mace says he means to live in New York permanently."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "281",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The full-page feature with illustration and two Mace portraits; everything is included." },
+  "ocr": { "status": "rough", "notes": "The transcript stops partway through round 5 (about half the article is missing). It also paraphrases in places ('overtopping Mace by two inches' should be 'by more than an inch'; 'Trained just before the fight' should be 'weighed in just before the fight'), and the subheads ('Back to the Sun', 'Going a Fast Clip', etc.) and Mace's toss for position are dropped." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Joseph Gazette, in a New York Herald feature, recounted Jem Mace's defeat of Tom Allen near Kennerville, Louisiana, on May 10, 1870, which ended in the tenth round when Joe Coburn threw up the sponge for Allen." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Joseph Gazette", "notes": "Masthead reads St. Joseph Gazette; no date is visible on the page. The feature is marked 'Copyright, 1910, by the New York Herald Co.' and says Mace is 79, which fits 1910." },
+  "facts": [
+    {
+      "fact": "Allen lost to Jem Mace for $2,500 and the world's title at a ring about three miles above Kennerville, Louisiana, reached by special train from New Orleans; Joe Coburn threw up the sponge in the tenth round",
+      "date": "1870-05-10",
+      "people": ["Jem Mace", "Joe Coburn", "Rufus Hunt", "Sherman Thurston"],
+      "places": ["Kennerville, Louisiana", "New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was born in Birmingham in 1841 according to this article (other sources say 1839), stood five feet ten, and weighed 173 pounds for the Mace fight against a usual 180",
+      "date": "1841",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "low",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen's 1869 fight with Mike McCool near St. Louis was broken up by a mob and he lost the decision after leading; McCool later withdrew from a rematch, leaving Allen in possession of the title",
+      "date": "1869",
+      "people": ["Mike McCool"],
+      "places": ["near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective written in 1910. It says Allen 'died in 1904', which is wrong (he died April 5, 1903). Mace's position on a belt and the fight's foul claims are omitted as round-by-round detail."
+}

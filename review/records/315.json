@@ -1,0 +1,26 @@
+{
+  "id": "315",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The first item, 'McCoole Going Into Training', is about Allen's fight and is complete. The second item, 'Colony of Danes', is unrelated." },
+  "ocr": { "status": "good", "notes": "Accurate apart from 'i5th' for 15th." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Mike McCoole was going into training with Pete Brooks at Doyle's Exchange for his fight with Tom Allen, to take place within fifty miles of St. Louis on May 15." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Missouri Republican--St. Louis, April 25, 1869'." },
+  "facts": [
+    {
+      "fact": "Under their agreement, the Allen-McCoole fight was to take place within fifty miles of St. Louis on the 15th of the following month, the winner to receive the stakes and excursion money",
+      "date": "1869-05-15",
+      "people": ["Mike McCoole"],
+      "places": ["within fifty miles of St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "'The 15th prox.' in an April 25 paper means May 15, 1869; the fight itself is usually dated June 15, 1869, so the date may have moved later. McCoole's training with Pete Brooks at Doyle's Exchange, opposite the Fair-grounds, from April 26 is left out of the facts as detail about McCoole."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "334",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole long 'Independence Day' city report. Allen is in a single sentence of the Olive Branch Excursion section (crop-3)." },
+  "ocr": { "status": "good", "notes": "Long text, mostly right with many small letter errors; the Allen sentence is readable ('Tom Aijen')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Fourth of July Excursion Passes Site of McCoole's Defeat by Allen" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat, describing Fourth of July excursions, noted that the steamer Olive Branch passed below Williams' Island, the scene of McCoole's late defeat by Tom Allen, drawing comment on the brutal exhibition." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat. Wednesday Morning, July 7, 1869.' This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "The paper placed the scene of McCoole's recent defeat by Allen just below Williams' Island on the Mississippi, downriver from St. Louis, where the trampled fields were still visible",
+      "date": "1869-06",
+      "people": ["Mike McCoole"],
+      "places": ["Williams' Island, Mississippi River, below St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Other accounts (article 323) put the fight on Foster's Island; this item names Williams' Island as the nearby landmark. It calls it 'McCoole's defeat' although McCoole was awarded the fight on a foul."
+}

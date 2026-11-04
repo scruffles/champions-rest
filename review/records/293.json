@@ -1,0 +1,36 @@
+{
+  "id": "293",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Column of unrelated local items; only the paragraph 'Mike McCoole and Tom Allen' (crop-3) is about Allen." },
+  "ocr": { "status": "rough", "notes": "Allen paragraph partly garbled ('Mires McCoore asp Tox Axttzex', 'drawn' read as 'Gngen', Coburn line lost)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "McCoole-Allen Match Called Off Without Forfeit" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that a match between Mike McCoole and Tom Allen set for the 17th was drawn without forfeit, and that Allen would challenge the winner of McCoole and Joe Coburn." },
+  "focus": { "current": "passing", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'The Democrat. Thursday Morning, March 12, '68.'" },
+  "facts": [
+    {
+      "fact": "A match made by friends of Allen and Mike McCoole for March 17, 1868 was drawn without any money forfeited; $310 had been put up by backers, none by the principals",
+      "date": "1868-03",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen intended to challenge the winner of the McCoole-Coburn fight, or accept McCoole's offer to fight for $2,500 if McCoole beat Joe Coburn",
+      "date": "1868-03",
+      "people": ["Mike McCoole", "Joe Coburn"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper says Allen had already made hosts of friends in St. Louis who would back him (March 1868)."
+}

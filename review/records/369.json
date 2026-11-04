@@ -1,0 +1,36 @@
+{
+  "id": "369",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "$599 should be $500; headline 'The Prize Ring' missing from the transcript" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that the next deposit of $500 a side for the McCoole and Allen match would be made that Saturday night at Tom Allen's saloon, 1205 Fifth Street, with Allen and Jim Coyne present." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads The Missouri Republican, St. Louis, October 9, 1869" },
+  "facts": [
+    {
+      "fact": "The next deposit of $500 a side for the McCoole-Allen match was to be made at Allen's saloon",
+      "date": "1869-10-09",
+      "people": ["Mike McCoole", "Jim Coyne"],
+      "places": ["Tom Allen's saloon, 1205 Fifth Street, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen kept a saloon at 1205 Fifth Street, St. Louis, in October 1869",
+      "date": "1869-10",
+      "people": [],
+      "places": ["1205 Fifth Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "008"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The whole item is about the Allen match, so primary"
+}

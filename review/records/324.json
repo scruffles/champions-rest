@@ -1,0 +1,66 @@
+{
+  "id": "324",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Mostly right; a few garbled lines (e.g. 'not a bald' for 'not a bad looking man', 'Low bally lL had whippel BicCoole', 'A vacancy in his assortment of ivory' lost)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican interviewed Tom Allen at his Concert Saloon after the referee gave the McCoole fight to McCoole; Allen said McCoole's friends would never have given him the fight and that any future match must be 200 miles from St. Louis." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The page masthead reads 'The Missouri Republican--St. Louis, June 17, 1869.' The St. Louis Republic name dates only from 1888." },
+  "facts": [
+    {
+      "fact": "After the referee's decision for McCoole, crowds of mostly English visitors went to Allen's 'Concert Saloon' to shake his hand",
+      "date": "1869-06-15",
+      "people": ["Mike McCoole"],
+      "places": ["Concert Saloon, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "008"
+    },
+    {
+      "fact": "The paper gave Allen's age as twenty-eight and his fighting weight as 164 pounds",
+      "date": "1869-06",
+      "people": [],
+      "places": [],
+      "quote": "I am now just in my prime, and shall be for two years yet; but after that the path goes down hill, and a man's fighting days are over.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said that however badly he had whipped McCoole, McCoole's friends would not have given him the fight, and that any future match must be at least 200 miles from St. Louis",
+      "date": "1869-06-16",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "No matter how badly I had whipped McCoole, his friends would not have given me the fight, and if I ever make another match it shall be with the condition that the battle does not take place within less than two hundred miles from St. Louis.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said McCoole was the one who was frightened, his hand trembling when he came up in the ring with money to bet",
+      "date": "1869-06-16",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "So far from my being afraid of McCoole, it was he who was frightened, and when he came up to me in the ring with the money to bet, his hand trembled, and then I knew that I had him. I had rather fight him than eat this sandwich, for there is more fun in it.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's St. Louis friends were preparing a complimentary benefit sparring exhibition for him",
+      "date": "1869-06",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen said the stakes would not be given up and the whole excursion money had been pledged to him. The age of 28 conflicts with the 1839 birth date in fact 001 (which would make him 30). The weight of 164 differs from the 170 Allen gave the Democrat on the boat (article 323). McCoole was said to be badly punished about the face."
+}

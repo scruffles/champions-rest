@@ -1,0 +1,46 @@
+{
+  "id": "368",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "First paragraph's list of celebrities is badly garbled; the rest is mostly right" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reprinted the New York World's account of a sparring reception for Tom Allen at Central Hall in the Bowery, where Allen sparred Dwyer of Brooklyn and promised to do his duty against McCoole." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads The Missouri Republican, St. Louis, October 1, 1869" },
+  "facts": [
+    {
+      "fact": "Allen visited New York City, where friends gave him a sparring reception at Central Hall, Hotel du Nord, in the Bowery",
+      "date": "1869-09-27",
+      "people": ["Bill Tovee", "Barney Aaron", "Kit Burns", "Bill Edwards"],
+      "places": ["Central Hall, Hotel du Nord, Bowery, New York"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen sparred three rounds with Dwyer of Brooklyn at the reception",
+      "date": "1869-09-27",
+      "people": ["Johnny Dwyer"],
+      "places": ["Central Hall, Hotel du Nord, Bowery, New York"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen made a speech of thanks and assured the crowd he would do his duty in his coming fight with McCoole",
+      "date": "1869-09-27",
+      "people": ["Mike McCoole"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The World of the 28th ult. says the event was 'last evening', so about September 27, 1869. Dwyer's first name is not given; Johnny Dwyer is likely (see 370)"
+}

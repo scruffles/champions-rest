@@ -1,0 +1,36 @@
+{
+  "id": "319",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "A one-line Polack's advertisement sits above the item; the Allen item is complete." },
+  "ocr": { "status": "rough", "notes": "Gist is there but many errors, especially in the last third (the moralizing passage and the exhibition plan)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reprinted a Cincinnati Enquirer item on Tom Allen training at the Buckeye House under Sherman Thurston, adding that he planned an exhibition there before leaving to meet McCoole." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat, Wednesday Morning, May 26, '69'. This is before the 1875 merger." },
+  "facts": [
+    {
+      "fact": "Allen trained for the McCoole fight at the Buckeye House near Cincinnati under trainer Sherman Thurston, weighing about 165 pounds",
+      "date": "1869-05-23",
+      "people": ["Sherman Thurston"],
+      "places": ["Buckeye House, near Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen planned to give an exhibition in Cincinnati a few days before leaving to meet McCoole",
+      "date": "1869-05",
+      "people": ["Mike McCoole"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary is broken OCR text. Same Enquirer item as 318 (Missouri Republican), but this version includes the closing paragraph about the planned exhibition."
+}

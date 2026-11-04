@@ -39,3 +39,9 @@ Cross-article findings to resolve when merging records into the data. Per-articl
 - Birth year: 266 (a book) gives April 1840, against 1839 in fact 001 (the third source for 1840, with 148 and 352).
 - 265: the publication field holds the author's name. 268 is really The Wilkes-Barre Record (1882-12-01), not The Times Leader.
 - 255: the crop is the whole of page 13A and the OCR is a baseball story; needs a new crop and transcript.
+- 297 and 298 are the bottom and top halves of the same Missouri Republican article; consider merging.
+- 303 and 304 are two parts of the same 1869-01-13 Daily Missouri Democrat fight report; neither has rounds 1–24.
+- Birth year: 304 prints 1841 (against 1839 in fact 001).
+- 328 duplicates 329 (same editorial; 329 is complete, 328 is cut off on the right).
+- Birth year: 354 also gives 1840.
+- 348 and 349 are the same article from the Sunday and Monday editions (348 lacks the headline).

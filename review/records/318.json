@@ -1,0 +1,26 @@
+{
+  "id": "318",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Mostly readable, but the opening line and the weight sentence are garbled in the transcript; the image is clear." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Training at the Buckeye House near Cincinnati" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reprinted a Cincinnati Enquirer item describing crowds visiting Tom Allen at the Buckeye House, where he was training under Sherman Thurston and weighed about 165 pounds." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The page head reads 'The Missouri Republican--St. Louis, May 26, 1869'. The St. Louis Republic name dates from 1888." },
+  "facts": [
+    {
+      "fact": "Allen trained for the McCoole fight at the Buckeye House near Cincinnati under trainer Sherman Thurston, weighing about 165 pounds",
+      "date": "1869-05-23",
+      "people": ["Sherman Thurston"],
+      "places": ["Buckeye House, near Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Clipped from the Cincinnati Enquirer of the 24th. The same Enquirer item appears in the Daily Democrat the same day (319). The current title is ungrammatical."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "361",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Gist is there but many errors, including the dateline ('A 1869' is 'August 23, 1869'), 'ected up' for 'broken up', and a garbled passage about Peter Dailey and Looney's $25 remark." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Butt Riley's Letter on the Allen-Gallagher Fight" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reprinted a letter to the Cincinnati Enquirer from Butt Riley, one of Allen's seconds, saying Allen dominated the Gallagher fight from the fifth round and that Kelly did throw up the sponge in token of defeat." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican--St. Louis, August 26, 1869.' The St. Louis Republic name dates only from 1888." },
+  "facts": [
+    {
+      "fact": "Butt Riley, one of Allen's seconds, wrote that the referee and Allen both asked whether Allen had won after Kelly threw up the sponge, and the referee said yes; Gallagher then struck Allen on the cheek when he offered to shake hands, and Riley told Allen to leave the ring or be murdered by the crowd",
+      "date": "1869-08-17",
+      "people": ["Butt Riley", "Charley Gallagher", "Tom Kelly", "Larry Wessells"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "According to Riley, Allen said to Gallagher when he offered his hand after the sponge was thrown up: \"Shake hands, Charlie; I've got the best of you to-day.\"",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher", "Butt Riley"],
+      "places": [],
+      "quote": "Shake hands, Charlie; I've got the best of you to-day.",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Riley's card is dated Cincinnati, August 23, 1869, and was first printed in the Cincinnati Enquirer. It also says McCoole and his backer Peter Dailey called Gallagher's blow cowardly and said Allen had not had fair play. The account is partisan (from Allen's own second), hence medium confidence; Allen's quote is reported secondhand."
+}

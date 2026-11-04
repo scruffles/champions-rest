@@ -1,0 +1,36 @@
+{
+  "id": "347",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Matters Pugilistic' column: Reardon's challenge, Johnny Hickey in Kansas, McCoole and Ed. Burns, and a short Tom Allen paragraph at the end." },
+  "ocr": { "status": "rough", "notes": "Reardon letter and Hickey item have many garbled phrases ('take that job off Allen's hands', 'same ring that Allen and McCoole fought in', 'Canada or America', 'Junction City', 'tried before Justice Barr'); Allen paragraph mostly right." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat printed Patsey Reardon's challenge to fight Ben Hogan, offering to take the job off Allen's hands, and reported Allen at his Fifth street saloon in fine condition for Tuesday's fight at about 168 pounds." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Challenges", "Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat, Saturday Morning, Aug. 14, 1869'." },
+  "facts": [
+    {
+      "fact": "Ben Hogan arrived in St. Louis and said he was willing to fight Allen; Patsey Reardon, writing from Jacksonville, Illinois, offered to fight Hogan instead for $500 or $1,000 a side, saying Allen had his hands full",
+      "date": "1869-08-11",
+      "people": ["Ben Hogan", "Patsey Reardon"],
+      "places": ["St. Louis", "Jacksonville, Illinois"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was in town at his saloon on Fifth street, looking in first rate condition, and was to enter the ring the next Tuesday at about 168 pounds, trained by Jim Coyne",
+      "date": "1869-08-13",
+      "people": ["Jim Coyne", "Charley Gallagher"],
+      "places": ["Allen's saloon, Fifth street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "008"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary wrongly says Reardon offered to fight Tom Allen; he offered to fight Hogan in Allen's place."
+}

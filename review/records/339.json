@@ -1,0 +1,46 @@
+{
+  "id": "339",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole item 'The Prize Ring. Allen Challenges Gallagher. Money Put Up.' including Allen's signed letter; crop-2 repeats the last lines." },
+  "ocr": { "status": "good", "notes": "Mostly right; headlines missing from the transcript, and some names garbled ('Buly Carroll, \"Evy: Green\"')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat printed Tom Allen's letter challenging Charley Gallagher to fight for $500, angered by Gallagher's boasts at the signing of the McCoole articles, with $100 deposited with his backer Billy Carroll." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat. Tuesday Morning, July 13, 1869,' and the letter is addressed to the Editors Missouri Democrat. This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen was absent, said to be sick, from the meeting where the articles for his fight with Mike McCoole were drawn up",
+      "date": "1869-07",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen challenged Charley Gallagher to fight for $500, independent of his McCoole match, in one day, one week or one month, and deposited $100 with his backer Billy Carroll at the 'Ivy Green', 510 Market Street",
+      "date": "1869-07-11",
+      "people": ["Charley Gallagher", "Billy Carroll"],
+      "places": ["Ivy Green, 510 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen wrote that Gallagher had boasted he 'made me hollow bloody murder', and closed his challenge with a warning",
+      "date": "1869-07-11",
+      "people": ["Charley Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "If Mr. Gallagher is so anxious for \"fight\" let him cover $100 which I have deposited with my backer, Billy Carroll, \"Ivy Green,\" 510 Market street. \"Words are cheap, but money talks.\" This means business.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The letter is dated St. Louis, July 11, 1869. 'hollow' is as printed (for 'holler'). The Republican's item of July 10 (article 337) says Allen was present at the meeting, contradicting this one."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "321",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole item 'The McCoole and Allen Fight' is there; the top of the clipping also holds the bottom of an unrelated weather (barometer/thermometer) table." },
+  "ocr": { "status": "good", "notes": "Weather table garbled and some letter errors in names ('McC le', 'Allkn', 'June 1b' for June 15), but the article text is mostly right." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that the last $500-a-side deposit for the $1,000 match between Tom Allen and Mike McCoole was made at McCoole's saloon, with the fight set for Tuesday, June 15." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The page masthead reads 'The Missouri Republican--St. Louis, June 9, 1869.' The St. Louis Republic name dates only from 1888." },
+  "facts": [
+    {
+      "fact": "The final $500-a-side deposit was made at McCoole's saloon for the $1,000-a-side match between Allen and Mike McCoole, set for June 15, 1869",
+      "date": "1869-06-08",
+      "people": ["Mike McCoole"],
+      "places": ["McCoole's saloon, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Capt. Tom Kehoe acted for McCoole and Wm. Carroll for Allen in making the deposit. The item is entirely about the match, so focus is primary."
+}

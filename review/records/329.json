@@ -1,0 +1,26 @@
+{
+  "id": "329",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "complete editorial" },
+  "ocr": { "status": "good", "notes": "minor errors" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Editorial Urges Tom Allen to Quit Prize Fighting" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican urged Allen to divide the stakes with McCoole rather than fight again, quit prize fighting, sell his saloon and open a genteel sparring school, praising his manly conduct." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Profiles", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads The Missouri Republican, St. Louis, June 24, 1869" },
+  "facts": [
+    {
+      "fact": "The Missouri Republican editorially urged Allen to give up prize fighting, sell his saloon and open a sparring school, while parties were working to renew the Allen-McCoole fight",
+      "date": "1869-06-24",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same editorial as 328, which is cropped short on the right; this is the better copy."
+}

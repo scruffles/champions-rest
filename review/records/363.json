@@ -1,0 +1,105 @@
+{
+  "id": "363",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "top is an unrelated dog story (Alton); the Allen part is the PUGILISTIC column: the Clipper editorial on the Allen-Gallagher fight and a Kansas City note on Allen's benefit. Ends with an unrelated California Joe training item"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "long text mostly right, scattered garbled words"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "New York Clipper on the Allen-Gallagher Draw"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat reprinted a New York Clipper editorial mocking the referee's draw in the August 17 Allen-Gallagher fight, saying Allen was robbed of the stakes because he was English."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "masthead: Daily Democrat, Saturday Morning, August 28, 1869"
+  },
+  "facts": [
+    {
+      "fact": "Allen fought Charley Gallagher; Gallagher's second threw up the sponge",
+      "date": "1869-08-17",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The referee met the umpires and declared the Allen-Gallagher fight a draw, saying he did not see the sponge thrown up; stakes and excursion money were divided",
+      "date": "1869-08-20",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Clipper said Allen had beaten McCoole in under a quarter of an hour but lost the stakes on a foul, with cries of 'kill the Englishman' during the fight",
+      "date": "1869",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "below St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and McCoole were matched for a second fight",
+      "date": "1869-08",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was to have a benefit at Frank's hall in Kansas City on Friday night",
+      "date": "1869-08-27",
+      "people": [],
+      "places": [
+        "Frank's hall, Kansas City, Missouri"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Benefit item is from the Kansas City Journal of Commerce of the 26th, so Friday is likely August 27. Val McKennie is named as referee of the Allen-McCoole fight."
+}

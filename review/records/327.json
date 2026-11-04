@@ -1,0 +1,15 @@
+{
+  "id": "327",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "whole Turf column; Allen is mentioned only in the last paragraph" },
+  "ocr": { "status": "rough", "notes": "mostly readable; Allen's name in the last paragraph OCR'd as 'Tom SBea'" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Invited to Laclede Jockey Club Races" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported on the fourth day of the Laclede Jockey Club races and noted that Tom Allen, the renowned pugilist, had been invited with his trainers to the final day and would probably attend." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "masthead reads Daily Democrat, Friday Morning, June 18, 1869" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Only a passing invitation; no biographical facts worth recording."
+}

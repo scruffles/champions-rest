@@ -1,0 +1,36 @@
+{
+  "id": "367",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The section headline 'Gallagher and His Tape Worm' above 'A Letter from Jack Looney' is outside the clipping; the article text is complete" },
+  "ocr": { "status": "rough", "notes": "Gist readable, many garbled words in the first paragraphs and the letter's opening" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Jack Looney Says Gallagher Had a Tapeworm When He Fought Allen" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reprinted Jack Looney's letter to the New York Clipper saying Charley Gallagher had a sixty-foot tapeworm when he fought Tom Allen, and offering to back Gallagher against Allen once well." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads Daily Democrat, Sunday Morning, September 26, 1869; the Globe-Democrat did not exist until 1875" },
+  "facts": [
+    {
+      "fact": "Jack Looney, Charley Gallagher's umpire in his fight with Allen, wrote that Gallagher entered the ring weakened by a tapeworm, passed sixty feet of it in Kansas City after the fight",
+      "date": "1869-09-10",
+      "people": ["Jack Looney", "Charley Gallagher", "Ben Hogan"],
+      "places": ["St. Louis", "Kansas City"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jack Looney offered to back Charley Gallagher against Tom Allen for any amount once Gallagher recovered",
+      "date": "1869-09-10",
+      "people": ["Jack Looney", "Charley Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The letter is dated St. Louis, September 10th, and addressed to Frank Queen of the Clipper"
+}

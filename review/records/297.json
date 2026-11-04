@@ -1,0 +1,26 @@
+{
+  "id": "297",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "This is the bottom half of the article; the headline and opening ('THE PRIZE RING. Reported Fight for $1,000 a Side') are in article 298, which is the top half of the same column item." },
+  "ocr": { "status": "good", "notes": "Minor errors; '$600 are deposited' reads '2600' in the transcript, and 'to secure the fight' is garbled." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported the articles of agreement for a fight between Tom Allen and Bill Davis for $1,000 a side under English prize ring rules, to take place in five to six weeks, 40 to 60 miles from St. Louis." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican--St. Louis, December 5, 1868'. The St. Louis Republic name only dates from 1888." },
+  "facts": [
+    {
+      "fact": "Articles of agreement set the Allen-Davis fight for $1,000 a side and the ticket proceeds, under the latest English prize ring rules, to come off in five to six weeks at a place 40 to 60 miles from St. Louis; both men went into training",
+      "date": "1868-12-04",
+      "people": ["Bill Davis", "Harry Slade", "Bill Ryall", "Billy Pendegrass", "Jack Looney"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same article as 298 (bottom half); the two records should probably be merged or treated as one item. Allen's friends at the signing were Harry Slade and Bill Ryall. The agreement was made the day before publication ('yesterday afternoon' in 298)."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "296",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'THE PRIZE RING' article; the right edge clips the last letter or two of some lines, and a 'POLACK' advertisement is included at the bottom." },
+  "ocr": { "status": "rough", "notes": "Gist is there; Ryall's letter and many figures (stakes) are garbled in the transcript but readable in the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Davis Challenges Bill Ryall; Earlier Ryall-Allen Match Recalled" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Bill Davis challenged retired St. Louis pugilist Bill Ryall, who would fight only for $2,000 a side, and recalled that a Ryall match with Tom Allen, now of Cleveland, had fallen through." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat. Wednesday Morning, Dec. 2, 1868'; before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "A proposed match between Allen and Bill Ryall, made around the time Ryall came to St. Louis about two years earlier, fell through over a dispute in the choice of a battle ground",
+      "date": "1867",
+      "people": ["Bill Ryall"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is only mentioned in passing; the article is about Davis challenging Ryall. The date of the failed Allen-Ryall match is inferred from 'near two years ago'. Of interest: in 1868 Ryall's saloon was at No. 417 Washington Avenue, between Fourth and Fifth, the address later linked with Allen (facts 009, 017)."
+}

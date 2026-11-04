@@ -1,0 +1,26 @@
+{
+  "id": "320",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "A 'PERSONAL' column of unrelated telegraph items (Schenck, Sheridan, Dake, Pullman party, Chase); only the last item, 'TOM. ALLEN, P.R.', is about Allen." },
+  "ocr": { "status": "rough", "notes": "Most of the column is readable, but the Allen heading and first line are garbled ('anaes Bete antagmit', 'MeCoole's 'om.')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican carried a Cincinnati dispatch of June 6 reporting that Tom Allen, McCoole's antagonist, had given a sparring exhibition there the night before." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "The page head reads 'The Missouri Republican--St. Louis, June 7, 1869'. The St. Louis Republic name dates from 1888." },
+  "facts": [
+    {
+      "fact": "Allen gave a sparring exhibition in Cincinnati",
+      "date": "1869-06-05",
+      "people": [],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Allen item is a two-line telegram; focus is primary for the item though it is a small part of the clipping."
+}

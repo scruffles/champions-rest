@@ -1,0 +1,26 @@
+{
+  "id": "360",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors: '$1,900' should be '$1,000', 'proposion' is 'proposition', and the signature 'WM OLL' is 'WM. CARROLL'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen accepted Charlie Gallagher's proposal for a new fight, leaving the old stakes up and adding $1,000, to take place within ten days and within fifty miles of Cincinnati." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican--St. Louis, August 21, 1869.' The St. Louis Republic name dates only from 1888." },
+  "facts": [
+    {
+      "fact": "Allen accepted Gallagher's proposal for a new fight, leaving the stakes of their last fight on deposit and adding $1,000, with Allen to name the place within fifty miles of Cincinnati, in a week or ten days; Wm. Carroll acted for Allen",
+      "date": "1869-08-20",
+      "people": ["Charley Gallagher", "Sherman Thurston", "William Carroll"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Short item quoting a note signed by Wm. Carroll for Allen. Same arrangement as the challenge in record 359."
+}

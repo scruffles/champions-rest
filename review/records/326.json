@@ -1,0 +1,76 @@
+{
+  "id": "326",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "whole article from headline through the counter affidavits" },
+  "ocr": { "status": "rough", "notes": "gist readable but many errors, especially in McCoole's quote and the McKinney affidavit" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and McCoole Trade Challenges as Referee Swears Affidavit" },
+  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Allen refused McCoole's new challenge to fight near St. Louis, offering instead to fight him in Kentucky for $5,000, while referee Val McKinney swore he had been offered a bribe." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "masthead reads Daily Democrat, Friday Morning, June 18, 1869" },
+  "facts": [
+    {
+      "fact": "After their disputed fight, McCoole challenged Allen to a rematch away from St. Louis in two or three months for $5,000 or $10,000, or privately in a room before a few friends",
+      "date": "1869-06-17",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen refused to fight McCoole again near St. Louis, saying fair play was out of reach there, blaming the cutting of the ropes and the plea of gouging on McCoole's friends",
+      "date": "1869-06",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen offered to fight McCoole three hundred miles east, in Kentucky, for $5,000 or more, each man limited to six friends, with the Clipper or Wilkes' Spirit as stakeholder",
+      "date": "1869-06",
+      "people": ["Mike McCoole"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen offered to fight Charley Gallagher anywhere a respectable distance from St. Louis, wagering $2,500 to $1,500 on himself",
+      "date": "1869-06",
+      "people": ["Charley Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Referee Val McKinney swore an affidavit that Sherman Thurston and Billy Carroll offered to let him name his price to decide the Allen-McCoole fight for them; Carroll, Thurston, B. Riley and James Stewart made counter affidavits denying it",
+      "date": "1869-06-17",
+      "people": ["Valentine McKinney", "Sherman Thurston", "Billy Carroll", "B. Riley", "James Stewart"],
+      "places": ["Court of Criminal Correction, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The stakes of the Allen-McCoole fight were reportedly not given up and the money taken on the boat was held under legal process",
+      "date": "1869-06",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's position is reported in the paper's paraphrase, not his own words."
+}

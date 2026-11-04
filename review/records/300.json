@@ -1,0 +1,36 @@
+{
+  "id": "300",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "minor character errors only" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Bill Davis Stabbed While Training for Fight With Tom Allen" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Bill Davis was cut on the wrist by a knife-wielding rowdy on Christmas night at Doyle's, near the Fair Grounds, in what it called a plot by Allen's backers before their January 12 championship fight." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican--St. Louis, December 27, 1868'. Before 1888, so not the St. Louis Republic." },
+  "facts": [
+    {
+      "fact": "A championship fight between Tom Allen and Bill Davis of St. Louis was set for January 12, 1869; the paper called Allen 'of California'",
+      "date": "1869-01-12",
+      "people": ["Bill Davis"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On Christmas night 1868 at Doyle's near the Fair Grounds, Davis's training quarters, rowdies said to be Allen's backers picked a quarrel with Davis and one cut him on the wrist with a carving knife",
+      "date": "1868-12-25",
+      "people": ["Bill Davis"],
+      "places": ["Doyle's, near the Fair Grounds, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article is mostly about the attack on Davis; Allen's backers are only accused by rumor. 'Of California' is how the paper described Allen (302 says Davis is of California and Allen of Cleveland)."
+}
