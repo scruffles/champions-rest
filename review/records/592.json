@@ -1,0 +1,46 @@
+{
+  "id": "592",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headline to end." },
+  "ocr": { "status": "good", "notes": "Mostly right; errors near the end ('setiy 6 is sec-onded by Mr. toblmgeed' for 'Looney is seconded by Mr. Sternberg', 'P gage mei' for 'prisoners')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported on a $2,500 damage suit by Capt. John McCloy against John Looney over the steamer Continental, chartered in October 1873 for the Allen-Hogan fight, which Illinois sheriffs broke up." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, March 6, 1877, page 8." },
+  "facts": [
+    {
+      "fact": "The planned Allen-Ben Hogan fight never came off: on October 20, 1873, the excursion steamer Continental, chartered by Jack Looney, was driven to the East St. Louis shore where two Illinois sheriffs and their posses arrested those on board, including Looney and Arthur Chambers",
+      "date": "1873-10-20",
+      "people": ["Ben Hogan", "Jack Looney", "Arthur Chambers"],
+      "places": ["St. Louis", "East St. Louis, Illinois"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Looney suspected the fiasco was a 'put up job' by Ben Hogan to avoid meeting Allen",
+      "date": "1873-10",
+      "people": ["Jack Looney", "Ben Hogan"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Capt. John McCloy, owner of the steamer Continental, sued John Looney for $2,500 damage done to the boat on the 1873 Allen-Hogan fight excursion; the case was tried before Judge Boyle in St. Louis",
+      "date": "1877-03-05",
+      "people": ["John McCloy", "Jack Looney", "Judge Boyle"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The first two facts match the unnumbered index entry '000: sometime 1879 or earlier, Allen was set to fight [Ben?] Hogan...'; this article confirms Ben Hogan and dates it to October 20, 1873. existing_fact left blank because that entry has no unique id."
+}

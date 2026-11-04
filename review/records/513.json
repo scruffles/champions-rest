@@ -1,0 +1,37 @@
+{
+  "id": "513",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Headline 'Confidence Operators' partly obscured by a fold line."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "A vertical fold line through the column garbles words in the middle; names mostly readable."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Swindle Suspect Tracked to Tom Allen's Saloon"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat reported that a detective spotted one of three suspected watch swindlers entering Tom Allen's saloon, leading to the arrest of all three men from Baltimore at a nearby boarding house."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Same page as 512: 'The St. Louis Democrat', February 2, 1875."
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen's saloon is only the place a suspect was seen; no biographical fact about Allen."
+}

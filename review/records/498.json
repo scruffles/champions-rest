@@ -1,0 +1,98 @@
+{
+  "id": "498",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The article continues into the next column of the page (the 'soger boys' stopping the mill, Hogan's condition) and the clipping ends mid-sentence ('Thurston'). The left edge also clips the first letter of many lines."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable but many errors from the clipped left edge and smudging ('feturn', 'Mis. ouri', 'Hozan')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen and Chambers Arrested on Return from Omaha Fight"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen and Arthur Chambers were arrested at the St. Louis depot on their return from the Hogan fight, on an Illinois requisition over the McCoole fight, and that armed Omaha roughs had cut the ropes."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Page header reads 'The St. Louis Republican, Saturday Morning, November 22, 1873', page 8. The paper was the Missouri Republican, not yet the St. Louis Republic (1888)."
+  },
+  "facts": [
+    {
+      "fact": "Allen and Arthur Chambers were arrested by St. Louis detectives as they arrived by train from Kansas City, on a requisition from the Governor of Illinois for the Allen-McCoole prize fight, and held at the Four Courts without bail",
+      "date": "1873-11-21",
+      "people": [
+        "Arthur Chambers",
+        "Mike McCoole",
+        "Gov. John L. Beveridge"
+      ],
+      "places": [
+        "St. Louis",
+        "Four Courts, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In the Allen-Hogan fight near Omaha, Hogan knocked Allen down (Allen said his shoe spike caught in the grass); after Allen landed a heavy blow to the body, Omaha roughs backing Hogan cut the ropes and broke up the fight after sixteen minutes",
+      "date": "1873-11",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "near Omaha, Nebraska"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Omaha men publicly threatened to shoot Allen and Jack Looney on sight; the two left Omaha and reached Kansas City safely on Friday, and Allen went on to St. Louis",
+      "date": "1873-11-21",
+      "people": [
+        "Jack Looney"
+      ],
+      "places": [
+        "Omaha, Nebraska",
+        "Kansas City, Missouri",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On his arrest Allen declared it to be a \"bloody go\"",
+      "date": "1873-11-21",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "bloody go",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Needs a re-crop to include the rest of the article in the next column. The fight account comes from an unnamed gentleman who was in Allen's corner, so it is medium confidence. The fight's date and exact place are not given in the clipping."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "565",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping holds the 'Squibs of All Sorts' and 'Tips' columns of unrelated sports items (cricket, trotting, base ball). Only the last item, 'Allen and Goss' from the Cincinnati Enquirer, is about Allen, and it is complete." },
+  "ocr": { "status": "good", "notes": "The Allen item is mostly right ('Gow' for Goss, '£1,000' for $1,000, 'Deltar' for DeBar)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen's Stake Money Garnished Before Goss Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted a Cincinnati Enquirer item that stakeholder A. F. Edwards called for final $1,000 deposits for the Allen-Goss fight, and that a St. Louis creditor had garnished Allen's stake money." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Friday Morning, August 4, 1876', page 8. Item reprinted from the Cincinnati Enquirer, quoting the Cincinnati Gazette." },
+  "facts": [
+    {
+      "fact": "Stakeholder A. F. Edwards notified Allen and Goss that their final $1,000 deposits were due on August 7, 1876, at the Empire Saloon in Cincinnati",
+      "date": "1876-08-02",
+      "people": ["Joe Goss", "A. F. Edwards"],
+      "places": ["Empire Saloon, Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Thomas Hackett of St. Louis garnished Allen's stake money, held by A. F. Edwards, for a debt Allen had contracted in St. Louis; the case was to be tried before 'Squire Anthony. The money was said to belong to theatrical manager Ben DeBar",
+      "date": "1876-08",
+      "people": ["Thomas Hackett", "A. F. Edwards", "Ben DeBar"],
+      "places": ["Cincinnati, Ohio", "St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

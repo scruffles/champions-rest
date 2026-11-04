@@ -1,0 +1,15 @@
+{
+  "id": "583",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Among the Sports' item on the Miller-Bauer wrestling match; the following 'A Card from Sutcliff' item is not included but is not about Allen" },
+  "ocr": { "status": "good", "notes": "Readable; some digit errors (1967/1975 for 1867/1875, 5,0) for 5,000, $3),000 for $80,000)" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch previewed the wrestling match between William Miller and Theobaud Bauer, listing Miller's record, including a January 1875 boxing win over Bill Davis, an old opponent of Tom Allen." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch, Wednesday Evening, September 27, 1876'; pre-1878-12, so not the Post-Dispatch" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen is named only as a past opponent of Bill Davis; no facts about Allen himself."
+}

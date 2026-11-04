@@ -1,0 +1,26 @@
+{
+  "id": "505",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Column of condensed local briefs; Allen is one sentence near the bottom" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Jem Mace said to accept Tom Allen's challenge" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch noted in its local briefs that Jem Mace was said to have accepted Tom Allen's challenge to fight." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'The Dispatch, Tuesday Evening, February 24, 1874'; Post-Dispatch did not exist until 1878" },
+  "facts": [
+    {
+      "fact": "Jem Mace was reported to have accepted Allen's challenge to fight",
+      "date": "1874-02",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Stated only as 'it is said'."
+}

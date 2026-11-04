@@ -1,0 +1,79 @@
+{
+  "id": "514",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Headline block missing from the clipping (on the page: 'More Bruising. The Allen-Rooke Match Made Up at Last. Some Observations on the Respective Merits of the Men. Sketch of Rooke's Great Battle with the Genteel Novice, Rockey Moore.'). Body is complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Long text mostly right, scattered errors."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen-Rooke Match Made"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen, despite his retirement, had gone East and made a match with George Rooke, with $500 a side posted with Harry Hill, for a fight within fifty miles of Pittsburg on June 17."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The St. Louis Republican, Wednesday, March 17, 1875'; filed as Missouri Republican per rubric (pre-1888)."
+  },
+  "facts": [
+    {
+      "fact": "Allen went East to arrange a match with George Rooke, despite his announced retirement and recent denial of the match",
+      "date": "1875-03",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [
+        "St. Louis",
+        "New York"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and George Rooke made a match, with $500 a side (one-sixth of the agreed stake) deposited with Harry Hill, to fight within fifty miles of Pittsburg on June 17, 1875",
+      "date": "1875-03",
+      "people": [
+        "George Rooke",
+        "Harry Hill"
+      ],
+      "places": [
+        "Pittsburg, Pennsylvania"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was described as 36 years old and weighing 210 pounds, needing to train down to 172 pounds to fight",
+      "date": "1875-03",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "'Gone East' does not name a city; Harry Hill was a New York stakeholder, so New York is inferred (medium). Most of the article is about Rooke's 1867 fight with Rockey Moore. Current title is acceptable; suggestion follows the printed headline."
+}

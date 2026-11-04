@@ -1,0 +1,26 @@
+{
+  "id": "504",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Clipping covers the State Capital letter from its subheads down; the Allen item ('The Law Signed') is whole. The letter continues in the next column." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported from Jefferson City that the governor had signed the bill suppressing prize-fighting, making it a felony and, the paper said, ending Tom Allen's hopes in Missouri." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The St. Louis Republican, Sunday Morning, January 25, 1874'; filed as Missouri Republican per rubric" },
+  "facts": [
+    {
+      "fact": "The Missouri governor signed a bill for the suppression of prize-fighting, making it a felony punishable by a term in the penitentiary",
+      "date": "1874-01-24",
+      "people": ["Mr. Mudd"],
+      "places": ["Jefferson City, Missouri"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary calls him 'Governor Mudd', but the text only says 'the governor' signed and that 'Mr. Mudd' dimmed Allen's hopes. Mudd was probably the legislator behind the bill (the governor in 1874 was Silas Woodson); worth checking."
+}

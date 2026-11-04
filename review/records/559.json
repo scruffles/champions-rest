@@ -1,0 +1,26 @@
+{
+  "id": "559",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "includes the unrelated 'One More Defeat' baseball scores above; the article is spliced from two column pieces but is complete" },
+  "ocr": { "status": "good", "notes": "minor errors (Lonis, Holiand)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "London Paper Doubts Allen-Goss Fight Will Happen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted a London Sporting and Dramatic News item saying Allen had covered Joe Goss's $500 deposit for a championship match, and predicting the fight would never come off." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, June 10, 1876; reprinted from the London Sporting and Dramatic News, May 27" },
+  "facts": [
+    {
+      "fact": "Allen covered the $500 Joe Goss deposited with Eph. Holland of Cincinnati to make a match for the American championship and a purse of $1,000 to $5,000",
+      "date": "1876-05",
+      "people": ["Joe Goss", "Ephraim Holland"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary wrongly says Goss deposited the money to arrange the match as new news; it is a secondhand London report that Allen had covered it. Fact confidence medium (secondhand via Sporting Life)."
+}

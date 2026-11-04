@@ -1,0 +1,36 @@
+{
+  "id": "590",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "'Local Lines' column of unrelated sporting notes. The first paragraph (bond sureties) and the 'Blackey' Edwards paragraph (stakeholder fined over the Goss-Allen fight) concern Allen; the rest (dog fights, kennel club, Clipper, Bogardus) do not." },
+  "ocr": { "status": "good", "notes": "Minor errors ('Fentacey' for Kentucky, 'wrize-fighting')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that the sureties on Tom Allen's forfeited bond had petitioned the Governor of Kentucky to reduce the amount, and that stakeholder 'Blackey' Edwards was fined $150 over the Goss-Allen fight." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, February 18, 1877, page 6." },
+  "facts": [
+    {
+      "fact": "Allen's bond was forfeited when he failed to appear to answer the Kentucky prize-fighting charge, and his sureties petitioned the Governor of Kentucky for a reduction of the amount",
+      "date": "1877-02",
+      "people": [],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "'Blackey' Edwards, stakeholder in the Goss-Allen fight, was fined $150 and costs in the Criminal Court at Covington, Kentucky, for his part at the ring-side",
+      "date": "1877-02",
+      "people": ["Blackey Edwards"],
+      "places": ["Covington, Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Edwards fact kept because it is a court outcome of the Goss-Allen fight prosecution; drop if stakeholder detail is considered too minor."
+}

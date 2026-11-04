@@ -1,0 +1,26 @@
+{
+  "id": "501",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Exit Hogan' item with dateline strip at top" },
+  "ocr": { "status": "rough", "notes": "Gist readable; many letter errors (McDonough, Wash Home, $600)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Ben Hogan leaves St. Louis; Wash Home case against Allen to go on" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that a vagrancy charge against Ben Hogan was dropped when he agreed to leave town, and that Chief McDonough would still press the Wash Home case against Tom Allen and his associates." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The St. Louis Republican, Thursday Morning, December 4, 1873'; filed as Missouri Republican per rubric" },
+  "facts": [
+    {
+      "fact": "St. Louis police chief McDonough intended to prosecute Allen and his associates in the Wash Home case over their chase after Ben Hogan, without using Hogan as a witness",
+      "date": "1873-12-03",
+      "people": ["Ben Hogan", "Chief McDonough"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Article is mainly about Hogan and trainer John Sweeney leaving for Pittsburgh via Chicago; Allen appears in one sentence."
+}

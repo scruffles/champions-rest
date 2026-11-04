@@ -1,0 +1,66 @@
+{
+  "id": "557",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "gist readable but many garbled words in the articles of agreement" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted the Cincinnati Commercial's account of Allen and Joe Goss signing articles at Cincinnati's Empire Saloon to fight for $2,500 a side on September 7, 1876, within 100 miles of the city." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, May 14, 1876; reprinted from the Cincinnati Commercial" },
+  "facts": [
+    {
+      "fact": "Allen and Joe Goss signed articles at the Empire Saloon in Cincinnati to fight under the new London Prize Ring rules for $2,500 a side ($5,000 total)",
+      "date": "1876-05-12",
+      "people": ["Joe Goss", "Ben De Bar", "Jack Brown", "A. F. 'Blacker' Edwards"],
+      "places": ["Empire Saloon, Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Allen-Goss fight was set for Thursday, September 7, 1876, at a place within 100 miles of Cincinnati to be chosen by Ephraim Holland",
+      "date": "1876-09-07",
+      "people": ["Joe Goss", "Ephraim Holland"],
+      "places": ["within 100 miles of Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Ben De Bar backed Allen and put up his stake money; Jack Brown represented Jem Mace, one of Goss's backers",
+      "date": "1876-05-12",
+      "people": ["Ben De Bar", "Jack Brown", "Jem Mace"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen remarked while signing the articles after Goss",
+      "date": "1876-05-12",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "Well, I never did like to sign articles first, but here goes.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Goss went before 'Squire Anthony and bound themselves not to break the peace in Ohio for one year",
+      "date": "1876-05-12",
+      "people": ["Joe Goss", "'Squire Anthony"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The summary's '$5,000' is the total purse; each side staked $2,500."
+}

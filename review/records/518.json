@@ -1,0 +1,107 @@
+{
+  "id": "518",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Same letter as 517, but the headline 'A Card From Tom Allen' and the left edge of the column are cut off. 517 has the whole article."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Line starts lost to the cropped left edge; 517's transcript is good."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "A Card From Tom Allen"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "In a letter to the St. Louis Evening Dispatch, Tom Allen answered a Republican writer who said he could not stand a long fight, listing his long English battles with Posh Price, George Iles, Bob Smith and Joe Goss."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Evening Dispatch",
+    "notes": "Masthead: 'The Dispatch: St. Louis, Tuesday Evening, March 23, 1875'. Same page as 517."
+  },
+  "facts": [
+    {
+      "fact": "Allen wrote that he stood unrivaled as middleweight champion of England, had fought nineteen battles in the ring, and had fought for more money than any man living",
+      "date": "1875-03-23",
+      "people": [],
+      "places": [
+        "England"
+      ],
+      "quote": "I have fought nineteen battles in the ring, and I have fought for more money than any man living.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen wrote that his fights in England with Posh Price and George Iles lasted two hours five minutes and two hours, and his fight with Bob Smith three hours",
+      "date": "",
+      "people": [
+        "Posh Price",
+        "George Iles",
+        "Bob Smith"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen wrote that his last fight with Joe Goss in England lasted one hour fifty-seven minutes until darkness, and the next morning doctors advised them to agree to a draw",
+      "date": "",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen wrote that Gallagher, Davis and McCoole did not last above twenty minutes against him, answering the Republican's claim that he could not stand a long fight",
+      "date": "1875-03-23",
+      "people": [
+        "Charley Gallagher",
+        "Bill Davis",
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "Now these men did not last above twenty minutes when they met me, and I suppose that is why I cannot stand a long fight.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen wrote that Rocky Moore was the first man he sparred with in America, and that the crowd tried to mob him and stopped the sparring because he hit Moore so hard",
+      "date": "",
+      "people": [
+        "Rocky Moore"
+      ],
+      "places": [],
+      "quote": "he was the first man I sparred with in the country, and I made a child of him with the gloves",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Duplicate of 517 (same letter, same page, worse crop). Probably remove or merge with 517; facts repeat 517's."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "549",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Left and right edges of the column are cut off, losing the first and last words of every line. Same item as 548 (same page, May 1, 1876), which has the full crop." },
+  "ocr": { "status": "rough", "notes": "Matches the cropped image, so every line is missing its start and end." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Joe Goss Posts $500 Forfeit for Match With Tom Allen" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican, reprinting the Cincinnati Commercial, reported that Joe Goss had posted a $500 forfeit with Eph Holland at the Empire saloon for a summer fight with Tom Allen, who was expected to cover it promptly." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The St. Louis Republican, Monday Morning, May 1, 1876'; filed as the Missouri Republican per rubric." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Duplicate of 548 with a worse crop; facts recorded on 548. A human should decide whether to remove this article or re-crop it."
+}

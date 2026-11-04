@@ -1,0 +1,78 @@
+{
+  "id": "545",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full item, headline 'THE PRIZE RING.' to the end."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; a few garbled words ('April M4', 'Nope' for Clipper, '5 feet 3' for 5 feet 8)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat, reprinting the Cincinnati Enquirer, reported that Joe Goss challenged Tom Allen to fight for $500 to $5,000 a side and the world championship, sending $500 to Eph Holland of Cincinnati."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, April 29, 1876, page 5. Reprinted from the Cincinnati Enquirer."
+  },
+  "facts": [
+    {
+      "fact": "Joe Goss, champion of England, challenged Allen from New York to fight in a 24-foot ring under London prize ring rules for $500 to $5,000 a side and the championship of the world, depositing $500 with Eph Holland, 101 West Fifth Street, Cincinnati",
+      "date": "1876-04-24",
+      "people": [
+        "Joe Goss",
+        "Eph Holland"
+      ],
+      "places": [
+        "New York",
+        "Cincinnati"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had repeatedly said he would never deposit money with an Eastern stakeholder, claiming foul play by certain New York parties, and insisted on a Western stakeholder and a Western fight location",
+      "date": "1876",
+      "people": [],
+      "places": [
+        "New York"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had personal disputes with the New York Clipper and Wilkes' Spirit of the Times, which refused to print Goss's challenge to him",
+      "date": "1876",
+      "people": [],
+      "places": [
+        "New York"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Goss's letter says he would come to Cincinnati to make arrangements and train near there once Allen accepted."
+}

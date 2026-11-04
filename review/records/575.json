@@ -1,0 +1,56 @@
+{
+  "id": "575",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Starts mid-sentence ('stopped at the end of the seventh round by the militia'). The '[Associated Press Report.] The Fight Stopped. Cincinnati, Sept. 7.—The fight was' opening sits at the foot of the previous column. Bottom is complete through 'Allen Arrested'." },
+  "ocr": { "status": "good", "notes": "Minor errors only." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Associated Press Report of the Allen-Goss Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch printed the Associated Press account of the Allen-Goss fight near Walton, Kentucky, stopped by militia and resumed in Boone County, where Goss won on a foul in the 21st round. Allen was arrested at Newport." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead: St. Louis Dispatch, Thursday Evening, September 7, 1876. Predates the 1878 Post-Dispatch merger." },
+  "facts": [
+    {
+      "fact": "Allen and Joe Goss fought at Cloverfield near Walton, Kentucky, on the Louisville Short Line about eighteen miles from Cincinnati, before a crowd of about 500",
+      "date": "1876-09-07",
+      "people": ["Joe Goss"],
+      "places": ["Walton, Kentucky", "Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Covington Light Guards stopped the fight after seven rounds; referee Eph Holland halted it on the advice of the governor's aide, and a second ring was formed below Walton in Boone County",
+      "date": "1876-09-07",
+      "people": ["Eph Holland", "W. G. Lobban"],
+      "places": ["Walton, Kentucky", "Boone County, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Goss was awarded the fight on a foul in the 21st round, when Allen struck him while he was on his knees, at 11:50 a.m. after 1 hour 52 minutes; Goss was terribly beaten and Allen nearly unmarked",
+      "date": "1876-09-07",
+      "people": ["Joe Goss"],
+      "places": ["Boone County, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was arrested at Newport, Kentucky, when the trains from the fight arrived there",
+      "date": "1876-09-07",
+      "people": [],
+      "places": ["Newport, Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Recrop to take in the opening lines at the foot of the previous column. The AP gives the start as 7:35; the Dispatch correspondent (573) gives 6:40."
+}

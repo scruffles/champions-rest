@@ -1,0 +1,95 @@
+{
+  "id": "581",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Nearly all correct (e.g. 'Gayin's' for Gavin's)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen returned to St. Louis after the Goss fight, planned to sue for the stakes in Ohio, and said he was leaving the ring to settle down in business."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Legal",
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Wednesday Morning, September 20, 1876', page 8."
+  },
+  "facts": [
+    {
+      "fact": "Allen arrived back in St. Louis from the Goss fight and was expected to make his home there; he was registered at the Olive Street hotel",
+      "date": "1876-09-19",
+      "people": [],
+      "places": [
+        "Cincinnati, Ohio",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had attached the stakes, still held by Edwards, the night of the fight and would sue in Ohio around September 25, with Root and Gov. Carlisle of Covington as his attorneys",
+      "date": "1876-09",
+      "people": [
+        "Joe Goss",
+        "A. F. Edwards",
+        "Carlisle"
+      ],
+      "places": [
+        "Ohio",
+        "Covington, Kentucky"
+      ],
+      "quote": "In Ohio, of course. I wouldn't stand much show in Kentucky.",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he was out of the ring: 'I'm going to settle down—going to look out some place—I've been looking round all day to-day—and stick to business.'",
+      "date": "1876-09-19",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "I'm going to settle down—going to look out some place—I've been looking round all day to-day—and stick to business.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": "031"
+    },
+    {
+      "fact": "Allen planned a farewell benefit on Thursday night, with a sparring match between Allen and Tom Kelly as the main attraction, after which he would be a private citizen",
+      "date": "1876-09-21",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The benefit date is taken as the Thursday after the article (September 21). The article doesn't name the venue."
+}

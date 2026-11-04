@@ -1,0 +1,46 @@
+{
+  "id": "566",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item 'The Allen-Goss Mill'." },
+  "ocr": { "status": "good", "notes": "Minor errors ('Crscrssati', 'Ex- warls', 'bg gerne' for garnisheed)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, training in Cincinnati to fight Joe Goss, apologized to the New York Clipper, which had kept his name out of its columns for nearly four years over an offensive card." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Sunday Morning, August 6, 1876', page 5. Special dispatch to the Cincinnati Times, dated Cincinnati, August 4." },
+  "facts": [
+    {
+      "fact": "Allen wrote a full apology to the New York Clipper, which had excluded his name from its columns for nearly four years after he wrote an offensive card replying to its criticism of him as a second in the Edwards-Chambers fight near Detroit",
+      "date": "1876-08",
+      "people": ["Edwards", "Chambers"],
+      "places": ["Cincinnati, Ohio", "near Detroit, Michigan"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was in training at Cincinnati for the fight with Joe Goss",
+      "date": "1876-08-04",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's stake money was garnished by a St. Louis creditor; the defense was to be that the money belonged to Ben De Bar of St. Louis, not Allen",
+      "date": "1876-08",
+      "people": ["Ben De Bar"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article names only 'Edwards and Chambers' (no first names)."
+}

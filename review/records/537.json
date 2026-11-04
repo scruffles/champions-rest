@@ -1,0 +1,26 @@
+{
+  "id": "537",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping covers the end of the gas suit report, the whole Amusements column and Local Personals. Only the short Theater Comique paragraph mentions Allen." },
+  "ocr": { "status": "good", "notes": "Readable; minor errors." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Theater Comique to Give Benefit for Tom Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's amusements column noted that the Theater Comique would give a performance on Thursday evening for the benefit of Tom Allen, at which the champion would appear." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Same page as 536 (March 29, 1876, page 8). The clipping does not mention the gold belt; the current title and summary describe article 536." },
+  "facts": [
+    {
+      "fact": "The Theater Comique, St. Louis, announced a benefit performance for Allen on Thursday evening, at which he would appear",
+      "date": "1876-03-30",
+      "people": [],
+      "places": ["Theater Comique, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

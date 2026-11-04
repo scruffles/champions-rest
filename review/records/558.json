@@ -1,0 +1,15 @@
+{
+  "id": "558",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "includes the unrelated 'Don't Balance' Boston item above; the 'Another Prize Fight' item is the relevant one" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reprinted a New York Sun item that Steve Taylor and George Rooke, after trading blows on East Houston Street, made a $1,000-a-side match in the same ring where Joe Goss and Allen would meet." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead: St. Louis Dispatch, Wednesday Evening, May 31, 1876" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Only a passing mention of the coming Goss-Allen fight; no new facts about Allen."
+}

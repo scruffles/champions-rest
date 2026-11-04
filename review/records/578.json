@@ -1,0 +1,93 @@
+{
+  "id": "578",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "The whole article, from the headline 'THE BIG FIGHT' through round 21 and the short 'Tom Allen's Disgust' item. The bottom piece is the start of the unrelated 'THE COURTS' column."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right, with scattered errors (e.g. 'char bal of st. Louis' for 'John Ryan, of St. Louis', 'Theowaud' for 'Theobaud'). The end of the transcript is court text from the next item."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reprinted the Cincinnati Enquirer's round-by-round account of the Goss-Allen fight in Boone County, Kentucky, where referee Eph Holland gave Joe Goss the fight on a foul in the twenty-first round."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Saturday Morning, September 9, 1876'. Account credited to the Cincinnati Enquirer."
+  },
+  "facts": [
+    {
+      "fact": "The Allen-Goss fight began at a riverside site in Kentucky; after seven rounds the Acting Adjutant General of Kentucky, W. G. Lobben, threatened to have his militia fire on the crowd, and the fight moved by train about eight miles to P. Lane's farm, about a mile from Walton, Boone County, Kentucky",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss",
+        "W. G. Lobben"
+      ],
+      "places": [
+        "Boone County, Kentucky",
+        "Walton, Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In the twenty-first round Allen struck Goss as he fell, and referee Eph Holland gave the fight to Goss on a foul. Allen protested and refused Red Leary's offer to fight on for $1,000 a side, saying he could not have fair play. The fight lasted 1 hour 50 minutes",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss",
+        "Eph Holland",
+        "Red Leary"
+      ],
+      "places": [
+        "near Walton, Boone County, Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "When a ringside man said Allen didn't like the gaff, Allen replied, 'I'd like to know who does, if he can avoid it.'",
+      "date": "1876-09-07",
+      "people": [],
+      "places": [
+        "near Walton, Boone County, Kentucky"
+      ],
+      "quote": "I'd like to know who does, if he can avoid it.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen published a card in the Cincinnati evening papers saying it was impossible to get fair play in this country and announcing that he was leaving the ring",
+      "date": "1876-09-08",
+      "people": [],
+      "places": [
+        "Cincinnati, Ohio"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "031"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen was seconded by Tom Kelly and John Ryan of St. Louis. Holland had also managed the match."
+}

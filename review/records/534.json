@@ -1,0 +1,46 @@
+{
+  "id": "534",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Top headline 'THE FRENCH ATHLETES. Christol Heard From in Response to Bauer.' is on the page above the crop but missing from it." },
+  "ocr": { "status": "good", "notes": "minor errors" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Christol answers Tom Allen's offer to back Bauer" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Andre Christol answered Tom Allen's offer to back wrestler Theobaud Bauer by asking to meet in Chicago, while Allen, who had brought Bauer from Boston, gave a sparring exhibition in Louisville." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Challenges", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday, March 12, 1876. Christol's letter is dated 'March 10, 1875' in print, evidently a misprint for 1876." },
+  "facts": [
+    {
+      "fact": "Allen went from St. Louis to Louisville and gave a sparring exhibition there, assisted by his trainers Ned Donnelly and Jack Madden and local boxers, returning the next morning",
+      "date": "1876-03-11",
+      "people": ["Ned Donnelly", "Jack Madden"],
+      "places": ["St. Louis", "Louisville, Kentucky"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen brought champion wrestler Theobaud Bauer from Boston to St. Louis, on a Chicago friend's word that Andre Christol would wrestle him there",
+      "date": "1876-03",
+      "people": ["Theobaud Bauer", "Andre Christol"],
+      "places": ["Boston", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen offered to back Bauer to wrestle Andre Christol; Christol replied by letter that he would meet Bauer only in Chicago, then Chicago backers telegraphed Allen's offering to back Christol to wrestle in St. Louis",
+      "date": "1876-03",
+      "people": ["Theobaud Bauer", "Andre Christol"],
+      "places": ["Chicago", "St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

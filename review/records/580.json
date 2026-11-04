@@ -1,0 +1,66 @@
+{
+  "id": "580",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The clipping is offset to the right: it shows only the right half of the column with 'Tom Allen's Last Challenge', so the start of every line is missing, including the signature. The lower two thirds are the left half of the next column (Massachusetts Day at the Centennial; Notorious Thieves Arrested), which are unrelated. On the page the challenge sits at the bottom of column 3."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "It matches the half-lines in the clipping, but those are only fragments, so the letter can't be read in full. The rest of the transcript is the unrelated items."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reprinted from the Philadelphia Times Ben Hogan's challenge to Tom Allen, answering a Chicago Times article, to fight in Canada for fun or for $1,000 a side."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Friday Morning, September 15, 1876', page 3. The dateline is cut off ('...uis, September 11')."
+  },
+  "facts": [
+    {
+      "fact": "Ben Hogan challenged Allen to fight in Canada 'for fun' to show who was the better man, offering to pay Allen's expenses to Detroit, or else for $1,000 a side, after an article in the Chicago Times of the 3d about Allen's fights",
+      "date": "1876-09-11",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "Canada",
+        "Detroit, Michigan"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Hogan said Allen had promised in the winter of 1875 to fight him in a barn in New York for $1,000, but excused himself and did not come back",
+      "date": "1875",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "New York"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "The left half of the challenge text is not in the clipping. A human should re-crop it from the full page (column 3, bottom) and read the whole letter."
+}

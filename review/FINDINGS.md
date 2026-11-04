@@ -53,3 +53,7 @@ Cross-article findings to resolve when merging records into the data. Per-articl
 - 438: the backing amount reads $2,000 in a faint image, not the $200 in the current summary.
 - Paper name: 1873 pages read "St. Louis Democrat" (not "Daily Missouri Democrat"); reviewers follow the masthead, so expect both names before 1875. Normalize at merge.
 - 481 and 483 are the same concert hall notice; 481's current title and summary describe 482.
+- 518 duplicates 517 (worse crop; 517 was re-cropped by hand). 511: the current title/summary describe the Free and Easy notice in column 2, not the clipped "Prize Ring" item.
+- Mace match 1875: 527/528 say the match was made in Chicago (Nov 17–18, 1875); 530 (Dec 26) says no definite match exists.
+- 006 arrival in America: 543 gives 1868. 543's title is wrong (the article is about Coburn and Bauer).
+- 549 duplicates 548 (same 1876-05-01 page, worse crop). 521: the fight date is printed "July 17" but was June 17, 1875.

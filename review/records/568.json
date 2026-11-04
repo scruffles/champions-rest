@@ -1,0 +1,36 @@
+{
+  "id": "568",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "gist readable throughout but many garbled words (e.g. 'betes see', 'yours buck', 'Pilisbarg')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted a Pittsburg Leader interview with Sam French, Joe Goss's old backer, who discussed Goss's September 7 fight with Tom Allen for $5,000 and their 1867 draw." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, August 30, 1876. Reprinted from the Pittsburg Leader." },
+  "facts": [
+    {
+      "fact": "Allen was matched to fight Joe Goss on September 7, 1876 for a $5,000 purse, within a hundred miles of Cincinnati, probably in Kentucky",
+      "date": "1876-09-07",
+      "people": ["Joe Goss"],
+      "places": ["near Cincinnati, Ohio", "Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's first fight with Joe Goss, about nine years earlier, was declared a draw after Goss dislocated his shoulder on a ring stake and fought on one-armed for twenty-three minutes",
+      "date": "1867",
+      "people": ["Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Account of the 1867 draw is French's partisan, secondhand view (he says Allen was badly beaten at the time)."
+}

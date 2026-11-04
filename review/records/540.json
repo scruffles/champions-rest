@@ -1,0 +1,26 @@
+{
+  "id": "540",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headline through end." },
+  "ocr": { "status": "good", "notes": "Readable; minor errors." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Introduces Bauer-Heygster Wrestling Match" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen introduced Prof. Bauer and Herr Heygster at their $250-a-side wrestling match at the Temple, which Bauer won, and announced a silver belt for Bauer." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The St. Louis Republican, Sunday Morning, April 9, 1876, page 10. Match was 'last evening' (April 8)." },
+  "facts": [
+    {
+      "fact": "Allen introduced the wrestlers and acted as announcer at the Bauer-Heygster wrestling match at the Temple, St. Louis, announcing a silver belt for Bauer as champion Graeco-Roman wrestler of America",
+      "date": "1876-04-08",
+      "people": ["Prof. Bauer", "Wilhelm Heygster"],
+      "places": ["The Temple, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

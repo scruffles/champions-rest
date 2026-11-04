@@ -1,0 +1,26 @@
+{
+  "id": "550",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Section head 'The Prize Ring', headline and the full short dispatch." },
+  "ocr": { "status": "rough", "notes": "Several errors; OCR reads '$4,000' but the image shows '$1,000 or more a side'." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Joe Goss Challenges Tom Allen for the World Championship" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported from New York that Joe Goss, champion pugilist of England, had challenged Tom Allen to fight for the championship of the world and $1,000 or more a side." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The St. Louis Republican, Wednesday Morning, May 3, 1876'; filed as the Missouri Republican per rubric. Dispatch dated New York, May 2." },
+  "facts": [
+    {
+      "fact": "Joe Goss, champion of England, challenged Allen to fight for the championship of the world and $1,000 or more a side",
+      "date": "1876-05-02",
+      "people": ["Joe Goss"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title 'Tom Allen News Item' is uninformative and the current summary is raw OCR text."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "530",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Mostly readable; scattered garbled words and phrases (e.g. 'couple of thousand dollars', 'Indian Territory', 'caught napping')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen denied reports of a fight with Jem Mace, saying he would not fight in the East but would back himself if Mace fought in the Indian Territory." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, December 26, 187[5] (last digit faint; Sunday fits 1875)" },
+  "facts": [
+    {
+      "fact": "Allen told a Globe-Democrat reporter he had done nothing to bring out a challenge from Jem Mace and had not heard from him in any official manner",
+      "date": "1875-12-25",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he would not fight Mace in the East but was willing to back himself for a couple of thousand dollars if Mace would fight in the Indian Territory or another Western or Southwestern region",
+      "date": "1875-12-25",
+      "people": ["Jem Mace"],
+      "places": ["Indian Territory"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mace had published a card announcing he was coming to America to fight Allen for the championship of the world",
+      "date": "1875-12",
+      "people": ["Jem Mace"],
+      "places": ["America"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The previous summer Rooke and the New York gang failed to appear for a fight with Allen and the stakeholder was enjoined from handing over the stakes",
+      "date": "1875",
+      "people": ["Rooke"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen confirmed he was to appear on stage in a sensational play written for him, playing a 'rough diamond' who rescues the heroine, under the supervision of a leading actress",
+      "date": "1875-12",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Contradicts 527/528 (match with Mace made in Chicago Nov. 1875); this article says no definite action taken beyond Mace's card. No verbatim Allen quotes; his remarks are paraphrased."
+}

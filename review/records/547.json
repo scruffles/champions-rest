@@ -1,0 +1,26 @@
+{
+  "id": "547",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline 'A Fight Between Allen and Goss.' and the full dispatch; bottom line slightly blurred but legible." },
+  "ocr": { "status": "rough", "notes": "Dateline, '$500' and 'English pugilist' garbled; gist readable." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported from Cincinnati that Tom Allen had covered the $500 forfeit put up by Joe Goss, the English pugilist, and that arrangements for the fight would soon be completed." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The St. Louis Republican, Sunday Morning, April 30, 1876'; filed as the Missouri Republican per rubric (not the St. Louis Republic, a post-1888 name). Dispatch dated Cincinnati, O., April 29." },
+  "facts": [
+    {
+      "fact": "Allen covered the $500 forfeit put up by Joe Goss, accepting a match with him",
+      "date": "1876-04-29",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same dispatch as 546 (Globe-Democrat, same day)."
+}

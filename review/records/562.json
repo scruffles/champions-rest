@@ -1,0 +1,402 @@
+{
+  "id": "562",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole article 'The Squared Circle', reprinted from the Cincinnati Times, from the headline to the closing rule, across ten pieces."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist is there but many errors, worst in the fight records (e.g. 'Kectes lles' for George Iles, '562 minutes' for 52, 'pier 32, 1862' for May 12, 'Beat Ben. ‘ee' for Ben Hogan, 'oes 18' for September 18), and the Forest Home section."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen and Goss in Training, with Their Fight Records"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reprinted a Cincinnati Times account of Tom Allen and Joe Goss in training for their September 7 fight for $2,500 a side, with the match articles and each man's own fight record."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Monday Morning, July 17, 1876', page 5. Reprinted from the Cincinnati Times."
+  },
+  "facts": [
+    {
+      "fact": "Allen and Joe Goss signed articles at Eph. Holland's Empire Saloon, Fifth Street near Vine, Cincinnati, to fight under the new London prize ring rules for $2,500 a side on September 7, 1876, within 100 miles of Cincinnati",
+      "date": "1876-05-12",
+      "people": [
+        "Joe Goss",
+        "Eph. Holland"
+      ],
+      "places": [
+        "Empire Saloon, Fifth Street near Vine, Cincinnati, Ohio"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the articles were signed, Allen and Goss were bound over before 'Squire Anthony in $500 each to keep the peace in Ohio for one year, to prevent interference while training",
+      "date": "1876-05",
+      "people": [
+        "Joe Goss",
+        "Eph. Holland"
+      ],
+      "places": [
+        "Cincinnati, Ohio"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Immediately after signing, Allen left Cincinnati to give exhibitions in several prominent Eastern cities",
+      "date": "1876-05",
+      "people": [],
+      "places": [
+        "Cincinnati, Ohio",
+        "Eastern cities"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen trained for the Goss fight at Cedar Park, John Young's retreat about half a mile south of Carthage, near Cincinnati, under the care of Jack Madden",
+      "date": "1876-07",
+      "people": [
+        "John Young",
+        "Jack Madden"
+      ],
+      "places": [
+        "Cedar Park, Carthage, Ohio"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Goss said he had been matched to fight Harry Allen, Tom Allen's brother, but the fight was stopped by magisterial interference",
+      "date": "",
+      "people": [
+        "Harry Allen",
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: Beat White, £5 a side, 12 rounds in 40 minutes",
+      "date": "1861-04-01",
+      "people": [
+        "White"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: Beat Morris Connor, £10 a side, 22 rounds in 50 minutes",
+      "date": "1861-05-24",
+      "people": [
+        "Morris Connor"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: Beat Jack Gold, £15 a side, 51 rounds in 1 hour 22 minutes",
+      "date": "1861-09",
+      "people": [
+        "Jack Gold"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: Beat Hall, £25 a side, 15 rounds in 42 minutes",
+      "date": "1862-01-22",
+      "people": [
+        "Hall"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: Beaten by Posh Price, £10 a side, 22 rounds in 55 minutes",
+      "date": "1862-05-12",
+      "people": [
+        "Posh Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: Beat 'Bingy' Rose, £25 a side, 10 rounds in 22 minutes",
+      "date": "1864-01-24",
+      "people": [
+        "Bingy Rose"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: Beaten by Bob Smith (colored), £5 a side, 108 rounds in 3 hours 57 minutes",
+      "date": "1864-06-12",
+      "people": [
+        "Bob Smith"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: Beat Jack Parkison, £25 a side, 11 rounds in 20 minutes",
+      "date": "1865-06-13",
+      "people": [
+        "Jack Parkison"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: Beat Posh Price, £50 a side, 45 rounds in 2 hours 5 minutes",
+      "date": "1865-11-28",
+      "people": [
+        "Posh Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: Beat George Iles, £50 a side, 15 rounds in 52 minutes",
+      "date": "1867-03-05",
+      "people": [
+        "George Iles"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: Fought a draw with Joe Goss in Wales, £100 a side, 37 rounds in 1 hour 57 minutes",
+      "date": "1867-03-05",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Wales"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, with Peter Morris, arrived in America on July 22, 1867, and gave sparring exhibitions in several of the larger cities",
+      "date": "1867-07-22",
+      "people": [
+        "Peter Morris"
+      ],
+      "places": [
+        "England",
+        "United States"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "Allen's own record: first fight in America: beat Bill Davis, $1,000 a side, 40 rounds in 40 minutes",
+      "date": "1869-01-12",
+      "people": [
+        "Bill Davis"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: beaten by Charley Gallagher, 2 rounds in 3 minutes, $1,000 a side",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: fought Mike McCoole, $1,000 a side, 7 rounds in 14 minutes; Allen had the best of it but the ring was broken into and a draw declared",
+      "date": "1869-06-15",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: beat Charley Gallagher, $1,000 a side, 17 rounds in 22 minutes",
+      "date": "1869-08-17",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: beaten by Jem Mace, $1,500 a side, 10 rounds in 44 minutes",
+      "date": "1870-05-10",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: beat Jim Gallagher, $500 a side, 15 rounds in 22 minutes",
+      "date": "1870-11-10",
+      "people": [
+        "Jim Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: received $1,000 forfeit from Mike McCoole",
+      "date": "1870-12",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: beat Mike McCoole, $2,500 a side, 8 rounds in 19 minutes",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: beat Ben Hogan, 3 rounds in 6 minutes",
+      "date": "1873-09-18",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's own record: matched to fight George Rooke near Pittsburg, but Rooke failed to come to time",
+      "date": "1874",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [
+        "near Pittsburg, Pennsylvania"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fight records are Allen's own account as printed. The Goss draw is printed as March 5, 1867, the same date given for the Iles fight, so one date is probably wrong. The Hogan fight (September 18, 1873) is listed after the McCoole fight (September 23, 1873). The article also gives Goss's record (born Northampton 1836), not included as facts. Stakeholder printed once as 'A. B. Edwards', elsewhere 'A. F. Edwards'."
+}

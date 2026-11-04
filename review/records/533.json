@@ -1,0 +1,36 @@
+{
+  "id": "533",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "some garbled words (e.g. 'club-swinging act', 'highly-polished')" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen spars with Ned Donnelly at his trainer's benefit" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen's Gymnasium Club gave a private benefit for Ned Donnelly, who trained Allen for the Rooke fight, and that Allen and Donnelly closed the evening with a scientific sparring bout." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday, February 23, 1876" },
+  "facts": [
+    {
+      "fact": "Allen sparred with his trainer Ned Donnelly at a private benefit for Donnelly given by the members of Tom Allen's Gymnasium Club in St. Louis",
+      "date": "1876-02-22",
+      "people": ["Ned Donnelly"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Ned Donnelly had trained Allen for his fight with George Rooke, which Rooke backed out of",
+      "date": "1876",
+      "people": ["Ned Donnelly", "George Rooke"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

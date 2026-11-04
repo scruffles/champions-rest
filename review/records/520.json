@@ -1,0 +1,69 @@
+{
+  "id": "520",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Only the headline and first paragraph are in the crop; it stops at the subhead 'ALLEN'. The page shows the article continuing with sections on Allen's training and on Rooke."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the cropped part only."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen and Rooke to Meet Thursday Week"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that the Allen-Rooke fight for the championship of America was set for Thursday week within fifty miles of Pittsburg, with all the money up and Allen winning the choice of ground."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Wednesday Morning, June 9, 1875', page 5."
+  },
+  "facts": [
+    {
+      "fact": "Allen's fight with George Rooke of Newark, N.J., for the championship of America was set for Thursday week (June 17) within fifty miles of Pittsburg",
+      "date": "1875-06-17",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [
+        "Pittsburg"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The last deposit for the Allen-Rooke fight was put up at Harry Hill's in New York; Arthur Chambers and Billy Edwards acted for Allen and won the toss for choice of fighting ground",
+      "date": "1875-06-01",
+      "people": [
+        "George Rooke",
+        "Arthur Chambers",
+        "Billy Edwards",
+        "Harry Hill"
+      ],
+      "places": [
+        "Harry Hill's, New York"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "The crop stops after the first paragraph; the rest (Allen's training, Rooke's record) is on the page but too small to read, so the current summary's claim about Allen's training condition can't be checked. Re-crop to include the full article."
+}

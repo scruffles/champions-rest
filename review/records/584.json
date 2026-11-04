@@ -1,0 +1,36 @@
+{
+  "id": "584",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors ('ahd', '&t.', 'Gay')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen and Jem Mace arrived in St. Louis from an extended sparring tour of the Northeast and would give a couple of sparring exhibitions during their stay." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, October 24, 1876, page 8" },
+  "facts": [
+    {
+      "fact": "Allen and Jem Mace arrived in St. Louis from an extended sparring tour through the Northeast",
+      "date": "1876-10-23",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis", "Northeast United States"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Mace planned to give a couple of sparring exhibitions in St. Louis",
+      "date": "1876-10",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The short item is entirely about Allen and Mace, so primary rather than secondary."
+}

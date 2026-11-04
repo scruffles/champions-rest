@@ -1,0 +1,26 @@
+{
+  "id": "595",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Complete short paragraph." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Prize Fighters Jailed or in Exile; Allen Said to Be in Australia" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch said the age was not good for prize fighters: Coburn and Goss were in prison, Mace a fugitive in Canada, Clark and Weeden jailed in New Jersey, and Tom Allen had gone to Australia." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead: St. Louis Dispatch, Thursday Evening, March 29, 1877. Filed as the St. Louis Evening Dispatch before 1878-12." },
+  "facts": [
+    {
+      "fact": "The Dispatch reported that Allen had gone to Australia (other papers that month placed him in Canada)",
+      "date": "1877-03",
+      "people": [],
+      "places": ["Australia"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary mentions a 'Goss fight controversy' that is not in the text. The Australia claim conflicts with articles 594 and 596 (Canada) and 597 (Halifax, sailing for England)."
+}

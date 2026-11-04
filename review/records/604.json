@@ -1,0 +1,26 @@
+{
+  "id": "604",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "'Tips. A Little of Everything' column of short sporting items; only the third paragraph is about Allen." },
+  "ocr": { "status": "good", "notes": "Minor errors; Allen item reads correctly (£40 a side, £100 and the English championship)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and Charley Davis Post Stakes for Glove Match" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's sporting tips noted that Tom Allen and Charley Davis had posted £40 a side for their glove match for £100 and the English championship." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, February 24, 1878." },
+  "facts": [
+    {
+      "fact": "Allen and Charley Davis had posted £40 a side toward their glove match for £100 a side and the English championship",
+      "date": "1878-02",
+      "people": ["Charley Davis"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title ('Issues Challenge') is misleading; the match was already made. Current summary is OCR garbage."
+}

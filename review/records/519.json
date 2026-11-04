@@ -1,0 +1,97 @@
+{
+  "id": "519",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Crop runs across the column break; the whole article is there."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable; many garbled words, the London House name and the closing amounts ($5,000 to $20,000) are mangled."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat reported that Tom Allen, after denying it to its reporter, had accepted Ben Hogan's $2,500-a-side challenge and sent $250 to Pittsburg to bind the match; his backers in the Gladiator Club added $250."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Masthead: 'The St. Louis Democrat: St. Louis, Wednesday, April 7, 1875', before the May 1875 merger."
+  },
+  "facts": [
+    {
+      "fact": "Ben Hogan of Petrolia, then giving sparring exhibitions in New York, challenged Allen to fight for $2,500 a side",
+      "date": "1875-03",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "New York",
+        "Petrolia"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen accepted Hogan's challenge by letter to Sam French of Pittsburg, offering to fight him in the same ring on the same day as George Rooke, June 17, within fifty miles of Pittsburg, and sent a $250 deposit",
+      "date": "1875-04",
+      "people": [
+        "Ben Hogan",
+        "Sam French",
+        "George Rooke"
+      ],
+      "places": [
+        "Pittsburg"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Gladiator Club of about sixty Pittsburg sporting men added $250 to Allen's deposit, making $500 to fight Hogan for $5,000 to $20,000",
+      "date": "1875-04",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "French's London House, Tenth Street, Pittsburg"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen told a Democrat reporter at the Champion's Rest that he had received no challenge from Hogan and that no match was possible, which the paper called a falsehood",
+      "date": "1875-04-02",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "Champion's Rest, St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Pittsburg Leader text is quoted inside the article, so 'this city' means Pittsburg. 'Friday last' before Wednesday April 7 is April 2. Earliest naming of the saloon as the Champion's Rest in this batch."
+}

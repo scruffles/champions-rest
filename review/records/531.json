@@ -1,0 +1,15 @@
+{
+  "id": "531",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "minor errors" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Jack Madden arrested at Tom Allen's saloon" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that pugilist Jack Madden was arrested in Tom Allen's saloon on suspicion of robbery, and was released at once from the Third Precinct Station when nothing tied him to the crime." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Monday, December 27, 1875" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen himself is only named as the saloon's owner; no facts about him beyond that."
+}

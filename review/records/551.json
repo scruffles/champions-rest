@@ -1,0 +1,56 @@
+{
+  "id": "551",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'The Prize Ring' item; an unrelated one-line baseball telegraph item sits above it." },
+  "ocr": { "status": "rough", "notes": "Gist readable; several garbled phrases in Goss's letter (e.g. 'fight nea eyaare stand-up fight' for 'fight me a square stand-up fight', 'money stake')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat printed Joe Goss's New York challenge to Tom Allen for the championship of the world at $1,000 a side, London prize ring rules, and reported Allen had wired Goss to meet him in Cincinnati May 12 to sign articles." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, May 4, 1876, page 8." },
+  "facts": [
+    {
+      "fact": "Joe Goss, 'Champion of England', challenged Allen from New York to a fight under London prize ring rules for the championship of the world and $1,000 a side, the fight to be four months after signing articles",
+      "date": "1876-05-02",
+      "people": ["Joe Goss"],
+      "places": ["Colosseum Grounds, New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Goss said he could not fight sooner than four months because he was engaged to travel with Jem Mace in Howes & Cushing's circus",
+      "date": "1876-05",
+      "people": ["Joe Goss", "Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Goss was reported to have deposited $500 with Eph Holland in Cincinnati to make a match with Allen",
+      "date": "1876-05",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Cincinnati"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen telegraphed Goss that he would meet him in Cincinnati on May 12 to draw up articles for a fight",
+      "date": "1876-05-12",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper doubts Goss's Cincinnati deposit is real. Allen's telegram is reported secondhand from a Cincinnati telegram."
+}

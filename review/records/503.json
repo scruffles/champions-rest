@@ -1,0 +1,56 @@
+{
+  "id": "503",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, pieced from two columns" },
+  "ocr": { "status": "rough", "notes": "Mostly readable; garbled in places (bill/mill, interview lines)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Hogan's Omaha doctor says the Allen fight was fixed; Allen responds" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat printed a card from Omaha doctor C. E. Tennent saying Ben Hogan never meant to fight Tom Allen and the fight was arranged as a draw. Allen told a reporter Hogan had not been fouled." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Masthead reads 'The St. Louis Democrat: St. Louis, Wednesday, December 10, 1873'" },
+  "facts": [
+    {
+      "fact": "Dr. C. E. Tennent of Omaha, who had certified that Hogan was struck below the belt, published a card saying Ben Hogan never intended to fight Allen, was physically unfit, and that it was arranged on the train that the ropes be cut and the fight made a draw",
+      "date": "1873-12-08",
+      "people": ["C. E. Tennent", "Ben Hogan", "John Sweeney"],
+      "places": ["Omaha, Nebraska"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had told Dr. Tennent he would lose nothing if he told the truth about the Hogan fight",
+      "date": "1873-12-09",
+      "people": ["C. E. Tennent", "Ben Hogan"],
+      "places": ["Allen's saloon, St. Louis"],
+      "quote": "No; I sent to him to tell him that if he told the truth about the fight, I would see that he didn't lose anything.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen denied fouling Hogan",
+      "date": "1873-12-09",
+      "people": ["Ben Hogan"],
+      "places": ["Allen's saloon, St. Louis"],
+      "quote": "Me hit Hogan foul, indeed! Why I made up my mind not to hit that plaster if they put it around his neck.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen trained near Omaha before the Hogan fight",
+      "date": "1873-11",
+      "people": [],
+      "places": ["near Omaha, Nebraska"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen also says the Police Court cases over the Wash Home chase after Hogan were dismissed (see 502). Fact 4 rests on Allen saying the doctor 'came out to see me when I was near Omaha at work'."
+}

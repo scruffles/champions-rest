@@ -1,0 +1,36 @@
+{
+  "id": "600",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline deck also lists dog trials and billiards, but the clipped body is only the Allen fight report" },
+  "ocr": { "status": "rough", "notes": "Gist clear, many garbled words ('BRiLED MISTER THUMAS', 'srxiecco minutes')" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Defeats Gilbert in Glove Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted the London Sportsman's report that Allen easily beat the novice Tompkins Gilbert of Lincoln in a seven-round glove fight, Gilbert refusing to continue after fouling him." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, November 17, 1877. Reprint from the London Sportsman" },
+  "facts": [
+    {
+      "fact": "Allen beat Tompkins Gilbert of Lincoln in a glove fight for the championship in seven rounds lasting 16 min 25 sec; Gilbert, who had hit low, refused to come back after the seventh",
+      "date": "1877-10",
+      "people": ["Tompkins Gilbert"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The London Sportsman wrote that Allen fought splendidly but much of the elasticity of his youth had departed and his condition was not the best",
+      "date": "1877-10",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fight date not stated here; article 598/599 give October 29, 1877. Duration 16:25 here vs 16:45 in article 601."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "596",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The whole 'Life in St. Louis' column of local briefs; only one item (end of crop 1) is about Allen." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen in Canada, Says He Can Lick Goss" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported in a brief that Tom Allen, the champion bruiser, was in Canada, out of the way of those with warrants for him, but said he could still lick Joe Goss." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Legal", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead: St. Louis Dispatch, Saturday Evening, March 31, 1877. Filed as the St. Louis Evening Dispatch before 1878-12." },
+  "facts": [
+    {
+      "fact": "Allen was in Canada, out of reach of the warrants against him, and said he could still beat Joe Goss",
+      "date": "1877-03",
+      "people": ["Joe Goss"],
+      "places": ["Canada"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary quotes unrelated briefs (deaths, the bridge). The remark about Goss is paraphrased by the paper, not quoted."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "570",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "headline ('Bravo! Bauer.'), the source line (from the Cincinnati Commercial) and the opening paragraphs at the top of the column are missing; the crop starts mid-article at 'Looked at simply as an animal contest'" },
+  "ocr": { "status": "rough", "notes": "first and fourth pieces garbled by a fold/crease in the image; the rest mostly right" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted a Cincinnati Commercial account of Bauer's win over Miller in a wrestling match for $500 a side, noting the surprise appearance as referee of Tom Allen, who was to fight Joe Goss next month." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, August 31, 1876. Page shows the piece is from the Cincinnati Commercial of the previous day." },
+  "facts": [
+    {
+      "fact": "Allen made a surprise appearance as referee of the Bauer-Miller wrestling match in Cincinnati, a month before his fight with Joe Goss",
+      "date": "1876-08-29",
+      "people": ["Bauer", "Miller", "Joe Goss"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "030"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Same event as article 569. Crop needs redoing to include the headline and opening paragraphs above the visible text."
+}

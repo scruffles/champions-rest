@@ -1,0 +1,124 @@
+{
+  "id": "577",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The clipping holds the headline deck, the articles of agreement, both fighters' records and 'The Fatal Move', but stops at the subhead 'GOSS COULD WIN'. On the page the article continues for roughly three more columns (the train, the crowd, the fight itself and the aftermath), which are not in the clipping."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Most of the record sections read well, but the articles of agreement are badly garbled in places and the transcript ends where the clipping does."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's correspondent reported from Cincinnati that Tom Allen was 'shamefully robbed' when referee Eph Holland gave Joe Goss the fight on a claim of foul in the twenty-first round."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: 'St. Louis Globe-Democrat, Friday Morning, September 8, 1876', Vol. 2, No. 111. Special dispatch dated Cincinnati, September 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen and Joe Goss signed articles to fight under the new rules of the London prize ring for $2,500 a side on September 7, 1876, at a place within 100 miles of Cincinnati chosen by Ephraim Holland",
+      "date": "1876-05-12",
+      "people": [
+        "Joe Goss",
+        "Ephraim Holland"
+      ],
+      "places": [
+        "Cincinnati, Ohio"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Joe Goss for the championship; after seven rounds the militia forced a move to another farm, and in the twenty-first round referee Eph Holland gave the fight to Goss on a claim of foul. The paper said Allen had been robbed",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss",
+        "Eph Holland"
+      ],
+      "places": [
+        "near Cincinnati"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had earlier fought Goss in England for £100 a side; Goss had just come out of 30 days in jail, and the fight went on until nightfall and was declared a draw",
+      "date": "",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Goss later matched himself against Allen's brother Harry for £100 a side, but the police arrested Harry and the fight never came off",
+      "date": "",
+      "people": [
+        "Harry Allen",
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen came to America with the featherweight Peter Morris, arriving in 1867",
+      "date": "1867",
+      "people": [
+        "Peter Morris"
+      ],
+      "places": [
+        "England",
+        "United States"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "According to the Cincinnati Enquirer record, Allen came from Birmingham, learned gun-making, and served in the army during the Crimean War, where his bouts in front of Sevastopol led him to boxing",
+      "date": "",
+      "people": [],
+      "places": [
+        "Birmingham, England",
+        "Sevastopol"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "003"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's record here comes secondhand from the Cincinnati Enquirer. Facts were taken only from the clipped part; the fight account itself is in the uncropped columns and in article 578."
+}

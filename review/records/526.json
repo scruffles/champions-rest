@@ -1,0 +1,26 @@
+{
+  "id": "526",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Headline 'The Prize Ring. Reported Match Between Allen and Mace.' visible on the page is not in the clipping; body is complete" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Editorial on Reported Match Between Tom Allen and Jem Mace" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch noted a New York report that Tom Allen and Jem Mace had made a match, calling them old men and condemning the English prize ring as brutal." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch, Friday Evening, November 19, 1875'; Post-Dispatch did not exist until 1878" },
+  "facts": [
+    {
+      "fact": "A New York telegram reported that a match had been made and forfeit put up for a fight between Allen and Jem Mace",
+      "date": "1875-11",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mostly an editorial against the prize ring."
+}

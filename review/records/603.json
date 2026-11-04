@@ -1,0 +1,26 @@
+{
+  "id": "603",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping holds only the column's headlines and the first baseball paragraph. The Allen item ('The Ring', column 3 of the page) is not in the crop and is too small to read on page.jpg." },
+  "ocr": { "status": "good", "notes": "Matches the headlines and baseball paragraph in the crop; contains nothing about Allen beyond the headline." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's Sunday sporting column on the National League baseball meeting carried the heading \"Tom Allen Again Matched,\" but the item itself is not in the clipping." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, December 9, 1877, page 7." },
+  "facts": [
+    {
+      "fact": "The Globe-Democrat announced that Allen had again been matched to fight",
+      "date": "1877-12",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Re-crop needed: include 'The Ring' item (column 3 of the page, apparently headed 'Tom Allen to Fight Again'), which likely names the opponent (Charley Davis?) and stakes. Not readable at page.jpg resolution, so no details recorded."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "507",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Henry Slade, a Philadelphia spice house agent and old patron of the prize ring, was in the city, and that Tom Allen called him the most scientific sparrer in the world." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Running head reads 'The Dispatch, Saturday Evening, April 11, 1874'. Before 1878-12, so not the Post-Dispatch." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen appears only as the source of praise for Slade; no biography-level facts."
+}

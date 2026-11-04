@@ -1,0 +1,26 @@
+{
+  "id": "529",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "A few words garbled ('sparring', 'Young Donnelly')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen was leaving St. Louis on a sparring tour of Louisville, Cincinnati, Columbus, Cleveland, Pittsburg and Buffalo, with Young Donnelly as his partner." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, December 1, 1875" },
+  "facts": [
+    {
+      "fact": "Allen left St. Louis on a sparring exhibition tour of Louisville, Cincinnati, Columbus, Cleveland, Pittsburg, Buffalo and other cities, accompanied by Young Donnelly as his sparring partner",
+      "date": "1875-12-01",
+      "people": ["Young Donnelly"],
+      "places": ["St. Louis", "Louisville", "Cincinnati", "Columbus", "Cleveland", "Pittsburg", "Buffalo"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

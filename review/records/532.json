@@ -1,0 +1,26 @@
+{
+  "id": "532",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Column of theatre ads; only the final Theatre Comique 'Extra Notice' is about Allen. The May Howard and first Theatre Comique ads are unrelated." },
+  "ocr": { "status": "good", "notes": "minor errors" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican carried a Theatre Comique notice that referee Tom Allen, after the Carteron–Rigal wrestling match went undecided on Tuesday, ruled it would be finished on Thursday evening, February 10." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Page header reads 'The St. Louis Republican, Wednesday Morning, February 9, 1876'; filed as Missouri Republican per the pre-1888 rule. Not 'The St. Louis Republic'." },
+  "facts": [
+    {
+      "fact": "Allen refereed the wrestling match between Carteron and Rigal at the Theatre Comique, St. Louis; when it went undecided after a long struggle he ruled it would be decided on Thursday, February 10",
+      "date": "1876-02-08",
+      "people": ["Carteron", "Rigal"],
+      "places": ["Theatre Comique, Pine Street between Third and Fourth, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "030"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

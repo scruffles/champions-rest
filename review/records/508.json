@@ -1,0 +1,56 @@
+{
+  "id": "508",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping covers a whole column: cricket and base ball news, then 'The Prize Ring' item about Allen (crop pieces 5-6), then City Casualties, Board of Pharmacy and other items. Only 'The Prize Ring' item is about Allen." },
+  "ocr": { "status": "unusable", "notes": "The Allen item is almost entirely garbage in the transcript except its last paragraph; the surrounding items are rough. The image is readable." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Returns from the Edwards-Collyer Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that Tom Allen returned to St. Louis from the Edwards-Collyer fight near Pittsburgh, where he seconded Billy Edwards, and called the New York Sun's account of the fight a tissue of falsehoods." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Sunday, August 16, 1874'. Before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen returned to St. Louis from the Billy Edwards-Sam Collyer fight near Pittsburgh, Pa.",
+      "date": "1874-08-15",
+      "people": ["Billy Edwards", "Sam Collyer"],
+      "places": ["near Pittsburgh, Pennsylvania", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was one of Billy Edwards' seconds in his fight with Sam Collyer near Pittsburgh; by Allen's account eleven rounds were fought and Edwards fairly won after the Collyer party claimed a foul",
+      "date": "1874-08",
+      "people": ["Billy Edwards", "Sam Collyer"],
+      "places": ["near Pittsburgh, Pennsylvania"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen was struck with a rock before the Edwards-Collyer fight but was not hurt",
+      "date": "1874-08",
+      "people": [],
+      "places": ["near Pittsburgh, Pennsylvania"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's Free-and-Easy on Washington Avenue was called the 'Champion's Rest', where he kept order among the crowd when at home",
+      "date": "1874-08",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's account is reported speech, not a verbatim quote. Current title and summary are OCR garbage and need replacing."
+}

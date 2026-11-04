@@ -1,0 +1,67 @@
+{
+  "id": "511",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Clipping holds an unrelated 'A Surprise Party' item above 'The Prize Ring' item about Allen. The current title/summary describe a different item, the 'Tom Allen's Free and Easy' notice in column 2 of the page, which is not in the clipping."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable; many character errors (Tem Allep, Dispatca, ceiermiratien)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen Calls Report of Mace Match a Bogus Challenge"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Evening Dispatch reported that Tom Allen, holding to his announced retirement, dismissed a New York telegram saying Jim Mace had accepted his challenge for a May fight, calling such bogus challenges a bid for notoriety."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Evening Dispatch",
+    "notes": "Masthead reads 'The Dispatch, Saturday Evening, November 21, 1874'."
+  },
+  "facts": [
+    {
+      "fact": "Allen held to his announced retirement from the ring and denied a New York report that Jim Mace had accepted his challenge for a championship fight the next May",
+      "date": "1874-11",
+      "people": [
+        "Jim Mace"
+      ],
+      "places": [
+        "Allen's headquarters, Washington Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said those getting up bogus challenges after his retirement were working hard for notoriety",
+      "date": "1874-11",
+      "people": [
+        "Joe Coburn",
+        "Jim Mace"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "working mighty hard for a little notoriety",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Decide whether this record should be the Prize Ring item (in the clipping) or the Free and Easy notice the current title/summary describe (on the page, column 2, not clipped). The quote is printed as the champion's opinion, not as a direct interview quote."
+}

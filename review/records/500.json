@@ -1,0 +1,52 @@
+{
+  "id": "500",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full 'Card from Ben. Hogan'."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Nearly exact."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican printed a card from Ben Hogan answering Tom Allen's challenge, saying illness had left him unfit for their recent fight and that he would fight Allen for $1,000 to $2,500 once his health improved."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Page header reads 'The St. Louis Republican, Sunday Morning, November 30, 1873', page 5. The paper was the Missouri Republican, not yet the St. Louis Republic (1888)."
+  },
+  "facts": [
+    {
+      "fact": "Ben Hogan declined Allen's challenge for now, saying he had been too ill to train for their recent fight, but offered to fight Allen or anyone else for $1,000 to $2,500 once his health improved",
+      "date": "1873-11-29",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Hogan says Allen's challenge offered a fight within six weeks; Allen's card (499) actually said two days to ten weeks."
+}

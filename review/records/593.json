@@ -1,0 +1,26 @@
+{
+  "id": "593",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'A Robber's Remorse' article, headline to end, across two column pieces. Allen is mentioned once, in crop 6." },
+  "ocr": { "status": "good", "notes": "Mostly right; scattered errors (e.g. 'St. Ronis Duly', 'Ilansen', '$3S' for $65). The Allen passage is read correctly." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Reformed Robber Blames Gamblers Who Made the Allen-Goss Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted a New York Times story in which a pardoned bank robber said his ruin began in a Cincinnati gambling house kept by the men who made the Allen-Goss fight, Hochheimer & Co. and Eph Holland." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat--Supplemental Sheet, page 12; the date is not visible in the page image but fits the reprint from the New York Times of March 19 [1877]." },
+  "facts": [
+    {
+      "fact": "A former convict said the Allen-Goss fight had been made by the Cincinnati gamblers Hochheimer & Co. and Eph Holland, who kept a gambling saloon on Fifth Street",
+      "date": "",
+      "people": ["Joe Goss", "Eph Holland", "Christian Hansen"],
+      "places": ["Fifth Street, Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is only mentioned in passing, inside the robber's account. The article does not say which Allen-Goss fight he meant."
+}

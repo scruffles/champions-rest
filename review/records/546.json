@@ -1,0 +1,26 @@
+{
+  "id": "546",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline 'The Prize Ring.' and the full short dispatch." },
+  "ocr": { "status": "good", "notes": "Minor stray characters and pipe marks at line starts." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported from Cincinnati that Tom Allen had covered the $500 forfeit put up by Joe Goss, the English pugilist, and that arrangements for their fight would soon be completed." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, April 30, 1876. Dispatch dated Cincinnati, April 29." },
+  "facts": [
+    {
+      "fact": "Allen covered the $500 forfeit put up by Joe Goss, accepting a match with him",
+      "date": "1876-04-29",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The item is wholly about Allen's match with Goss, so focus raised to primary. Same dispatch as 547."
+}

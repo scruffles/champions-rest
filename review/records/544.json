@@ -1,0 +1,68 @@
+{
+  "id": "544",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full item, headline 'THE SPORTING WORLD.' to the end."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; minor errors ('Sthroeder', 'Wrestie')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen Stays in Chicago; Friends Expect Goss Match"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen had not returned from Chicago with Bauer as expected, that Chicago papers said he planned to live there, and that his St. Louis friends said he would make a match with Joe Goss."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Challenges",
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The St. Louis Republican, Friday Morning, April 28, 1876', page 8. Filed as Missouri Republican per the rubric (St. Louis Republic only from 1888)."
+  },
+  "facts": [
+    {
+      "fact": "Allen was in Chicago and did not return to St. Louis with Bauer as expected; Chicago papers said he was thinking of settling there permanently",
+      "date": "1876-04-27",
+      "people": [
+        "Theobaud Bauer"
+      ],
+      "places": [
+        "Chicago",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's St. Louis friends said he would certainly make a match with Joe Goss",
+      "date": "1876-04-27",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Most of the article is about the Bauer–Schroeder wrestling match; Allen appears only in the last paragraph."
+}

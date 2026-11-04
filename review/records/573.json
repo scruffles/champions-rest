@@ -1,0 +1,46 @@
+{
+  "id": "573",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Only the first column of the Dispatch's own report (headlines through the militia's arrival after round 3, ending mid-sentence 'but the cry, \"On'). The report continues in the next column (rounds 4 onward, 'Later', 'Another Ring Pitched', 'Goss Blind'), which is not in the clipping." },
+  "ocr": { "status": "rough", "notes": "Headline block garbled; body mostly readable. OCR gives 6:49 for the start, the image reads 6:40." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Dispatch Correspondent's Account of the Allen-Goss Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch's correspondent described the Allen-Goss fight near Walton, Kentucky: Allen drew first blood before the Covington militia arrived, and the headlines said Goss was given the fight on a foul." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead: St. Louis Dispatch, Thursday Evening, September 7, 1876 (First Edition, 3 P.M.). Predates the 1878 Post-Dispatch merger." },
+  "facts": [
+    {
+      "fact": "Allen fought Joe Goss at a spot three miles below Walton Station, Kentucky, about eighteen miles below Cincinnati, with Eph Holland as referee",
+      "date": "1876-09-07",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Walton, Kentucky", "Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen drew first blood in the first round; the Covington Light Guards and another militia company arrived after the third round",
+      "date": "1876-09-07",
+      "people": ["Joe Goss"],
+      "places": ["Walton, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The headlines report that after a second ring was pitched Allen battered Goss, but Goss was given the fight on a foul and Allen was put in the Newport jail",
+      "date": "1876-09-07",
+      "people": ["Joe Goss"],
+      "places": ["Newport, Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Recrop to include the continuation in the second column. The third fact comes from the headlines only, since the body text describing it is outside the clipping."
+}

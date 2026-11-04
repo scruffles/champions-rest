@@ -1,0 +1,36 @@
+{
+  "id": "509",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping is the whole 'Short Stops' column of city items; only the paragraph beginning 'Tom Allen denies' (crop piece 3) is about Allen." },
+  "ocr": { "status": "rough", "notes": "The rest of the column is good, but the Allen paragraph is damaged in the transcript and partly smudged in the image too (the low stake figure and a few words are obscured)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that Tom Allen denied sending a challenge through Bell's Life to fight Jem Mace, Coburn or anyone for the championship of the world, saying he was now a man of peace and the year-old challenge was void." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Tuesday, November 10, 1874'; the item mentions 'the Democrat'. Before the 1875 merger, so not the Globe-Democrat." },
+  "facts": [
+    {
+      "fact": "Allen denied a report under a New York date that he had sent a challenge to Bell's Life offering to fight Jem Mace, Joe Coburn or any other man for up to $5,000 a side and the championship of the world",
+      "date": "1874-11-09",
+      "people": ["Jem Mace", "Joe Coburn"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he was now a man of peace and that the challenge referred to, issued nearly a year earlier and never accepted, was void",
+      "date": "1874-11",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The lower stake figure is smudged (looks like '$1,000' or '$2,000'); the current summary's '$2,500' is not supported. Only 'Coburn' is printed; Joe Coburn is the likely boxer. Allen's words are reported speech, not a quote."
+}

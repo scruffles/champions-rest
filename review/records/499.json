@@ -1,0 +1,96 @@
+{
+  "id": "499",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full article '\"The Rivals.\"', headline to the Chambers bail paragraph."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; some errors ('to ¥ on the sub act', 'yaa ther', 'gat fees')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat printed Tom Allen's card disputing Ben Hogan's claim to be champion of America, offering to back Jack Madden against Hogan for $1,000 a side or to fight Hogan himself in Canada at odds of $5,000 to $1,000."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges",
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Saturday, November 29, 1873'; masthead 'Daily Democrat'. Pre-1875 merger. Allen's letter is addressed 'To the Editor of the Democrat'."
+  },
+  "facts": [
+    {
+      "fact": "Allen offered to match Jack Madden to fight Ben Hogan within ten weeks for $1,000 a side, in Canada within fifty miles of Detroit",
+      "date": "1873-11-28",
+      "people": [
+        "Ben Hogan",
+        "Jack Madden"
+      ],
+      "places": [
+        "Canada, near Detroit, Michigan"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen challenged Hogan to fight him anywhere in Canada at two days' to ten weeks' notice, staking $5,000 to $1,000, with no more than five friends each, and offered to bet $1,000 he would not get a black eye",
+      "date": "1873-11-28",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "Canada"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen disputed Hogan's claim to be champion of America after the broken-up fight",
+      "date": "1873-11-28",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "No man can be champion of America without fighting for and winning that title, and most assuredly the title cannot be claimed by a man who gives all his portion of the stake money to a gang of murderers, who not only broke up the fight, but threatened to kill me and my friends.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen put up $3,000 in greenbacks as collateral for the Illinois bail bond that freed Arthur Chambers",
+      "date": "1873-11-28",
+      "people": [
+        "Arthur Chambers"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen signs as 'Champion of America'."
+}

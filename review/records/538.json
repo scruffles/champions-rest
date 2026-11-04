@@ -1,0 +1,36 @@
+{
+  "id": "538",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Theatre Comique advertisement in the Amusements column; complete." },
+  "ocr": { "status": "rough", "notes": "Gist readable; names garbled (Heygster as 'BEYGMTiR', 'massive silver goblet' as 'Wassive silver godiet')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Theatre Comique Advertises Benefit for Tom Allen" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican carried a Theatre Comique advertisement for a grand benefit for Tom Allen that evening, at which he would spar with Ned Donnelly and be presented with the disputed McCoole belt." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The St. Louis Republican, Thursday Morning, March 30, 1876, page 5. Filed as Missouri Republican per the rubric (pre-1888)." },
+  "facts": [
+    {
+      "fact": "A grand benefit for Allen was held at the Theatre Comique, Pine Street between Third and Fourth, St. Louis, where he was to spar with gloves with Ned Donnelly",
+      "date": "1876-03-30",
+      "people": ["Ned Donnelly"],
+      "places": ["Theatre Comique, Pine Street between Third and Fourth, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was to be presented with the disputed McCoole belt at his benefit",
+      "date": "1876-03-30",
+      "people": ["Mike McCoole"],
+      "places": ["Theatre Comique, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The bill also included a wrestling match between Bauer and Christol, with Allen to present a silver goblet to the winner and Wilhelm Heygster as referee."
+}

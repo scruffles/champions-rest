@@ -1,0 +1,53 @@
+{
+  "id": "542",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "'The Wrestlers.' section in full; it is a subsection of the 'FRUIT FOR SPORTS' article (541)."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; minor errors ('Monsicur', 'Schrroder', 'fishing' garbled)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen Joins Wrestler Bauer at Caterer's Breakfast"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen joined wrestler Theobaud Bauer at a breakfast given by caterer Jean Bonnet, and that Bauer would answer Julius Schroeder's challenge once Allen told him a deposit was posted."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, April 11, 1876, page 8."
+  },
+  "facts": [
+    {
+      "fact": "Allen acted for wrestler Theobaud Bauer in St. Louis: Bauer would return to make a match with Julius Schroeder as soon as Allen notified him that a suitable deposit had been posted",
+      "date": "1876-04-10",
+      "people": [
+        "Theobaud Bauer",
+        "Julius Schroeder"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "'The champion leaves for Cincinnati this morning' refers to Bauer (the wrestling champion), not Allen."
+}

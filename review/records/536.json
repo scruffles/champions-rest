@@ -1,0 +1,46 @@
+{
+  "id": "536",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Left edge trimmed, losing the first letters of most lines; the column headline 'ALL ABOUT A BELT.' above the subhead is not in the clipping (visible on the page)." },
+  "ocr": { "status": "rough", "notes": "Gist readable but many line starts lost to the crop and several misreadings (e.g. '$300' rendered as \"$'\", 'pawn-shop on Locust street' garbled)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen's friends redeemed from a Locust Street pawn shop the belt Mike McCoole had kept after their first fight, to present it to Allen at his benefit." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, March 29, 1876, page 8." },
+  "facts": [
+    {
+      "fact": "At his first fight with Mike McCoole, Allen put up $300 against McCoole's belt in addition to the main stake; the mob broke up the fight and Allen lost the battle, the money and the belt",
+      "date": "1869",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's friends found the McCoole belt (the belt McCoole and Davis fought for), pawned by McCoole at a pawn shop on Locust Street, St. Louis, and redeemed it to present to Allen",
+      "date": "1876-03",
+      "people": ["Mike McCoole"],
+      "places": ["Locust Street, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A benefit for Allen was held at the Theatre Comique, St. Louis, on Thursday night, where the belt was to be presented to him",
+      "date": "1876-03-30",
+      "people": [],
+      "places": ["Theatre Comique, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The year of the McCoole-Davis belt fight is cut off at the left edge (ends in '6'); not recorded."
+}

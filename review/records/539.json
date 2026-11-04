@@ -1,0 +1,26 @@
+{
+  "id": "539",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Part of a Theatre Comique program listing; begins mid-advertisement at 'BENEFIT OF TOM ALLEN, on which occasion', so the theatre name and date above are not in the clipping." },
+  "ocr": { "status": "rough", "notes": "Gist readable; many performer names garbled." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican carried a variety program for the benefit of Tom Allen, at which Bauer and Christol would wrestle, along with singers, dancers, a club swinger and a ballet." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Same page as 538 (The St. Louis Republican, March 30, 1876, page 5). The clipping does not mention Ned Donnelly or the McCoole belt; the current summary draws those from 538." },
+  "facts": [
+    {
+      "fact": "The program for Allen's benefit included a wrestling match between Bauer and Christol and a variety bill",
+      "date": "1876-03-30",
+      "people": ["Bauer", "Christol"],
+      "places": [],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

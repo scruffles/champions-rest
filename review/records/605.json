@@ -1,0 +1,36 @@
+{
+  "id": "605",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Long sporting column (gymnastics, turf, general notes); the Allen item is the last paragraph (crop-4/5), reprinted from the Washington Post." },
+  "ocr": { "status": "rough", "notes": "Gist readable; the Allen paragraph has many character errors (e.g. 'fom Aijen', 'Juarley Davis')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican, reprinting the Washington Post, reported that Tom Allen and Charley Davis were matched for £200 and the championship, with Allen the 6-to-4 favorite after his win over Gilbert Tompkins." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Sunday Morning, March 3, 1878, page 8. Item credited to the Washington Post." },
+  "facts": [
+    {
+      "fact": "A prize fight was arranged between Allen, 'the champion of America,' and Charley Davis at catch weights under the new London prize-ring rules, for £200 and the championship",
+      "date": "1878-03",
+      "people": ["Charley Davis"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had earlier beaten the giant Gilbert Tompkins in England",
+      "date": "",
+      "people": ["Gilbert Tompkins"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Paper said Davis was considered the best man in England since Jem Mace left for the antipodes; Allen favored at six to four."
+}

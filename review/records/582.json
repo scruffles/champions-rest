@@ -1,0 +1,37 @@
+{
+  "id": "582",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The whole 'Life in St. Louis' column of short local items. Only the item about Bauer the wrestler mentions Allen. The right edge of the column is slightly clipped, and the bottom has advertisements."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": ""
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Evening Dispatch noted that with Tom Allen, champion of the squared circle, and the wrestler Bauer both living in St. Louis, the city should rank first of all civilized cities."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Evening Dispatch",
+    "notes": "Masthead: 'St. Louis Dispatch, Wednesday Evening, September 27, 1876'. This is before 1878-12, so it isn't the Post-Dispatch."
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "A one-line passing mention, with no citable facts."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "548",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full item 'Goss and Tom. Allen.' reprinted from the Cincinnati Commercial." },
+  "ocr": { "status": "good", "notes": "A few small errors (inciosure, tight for fight, Maer as printed)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Joe Goss Posts $500 Forfeit for Match With Tom Allen" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican, reprinting the Cincinnati Commercial, reported that Joe Goss had posted a $500 forfeit with Eph Holland at the Empire saloon for a summer fight with Tom Allen, who was expected to cover it promptly." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The St. Louis Republican, Monday Morning, May 1, 1876'; filed as the Missouri Republican per rubric. Item credited to the Cincinnati Commercial." },
+  "facts": [
+    {
+      "fact": "Joe Goss wrote to Cincinnati of his willingness to fight Allen, and a $500 forfeit was put up for Goss at the Empire saloon in the hands of Eph Holland",
+      "date": "1876-04",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Empire saloon, Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was said to have fought Joe Goss to a draw in England about ten years earlier, the fight stopped by darkness, after badly worsting him",
+      "date": "1866",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Title 'rematch terms' is misleading-ish; the item reports Goss's forfeit and Allen's expected acceptance. 549 is a cropped duplicate of this same item on the same page."
+}

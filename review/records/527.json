@@ -1,0 +1,26 @@
+{
+  "id": "527",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Dateline is 'Nov. 18' in the image, OCR reads 'Nov. 15'" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen and Jem Mace Matched for $5,000" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported from Chicago that a $5,000 match between Tom Allen and Jem Mace was made for May 20, with Barney Aaron acting for Allen and Harry Hill for Mace." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Page header reads 'The St. Louis Republican, Friday Morning, November 19, 1875'; filed as Missouri Republican per pre-1888 rule, not the later St. Louis Republic" },
+  "facts": [
+    {
+      "fact": "A match for $5,000 between Allen and Jem Mace was made in Chicago to take place May 20, 1876, with Barney Aaron acting for Allen and Harry Hill of New York for Mace; a forfeit was put up",
+      "date": "1875-11-18",
+      "people": ["Jem Mace", "Barney Aaron", "Harry Hill"],
+      "places": ["Chicago"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Dispatch dated Nov. 18 says 'to-day'; the Chicago Times account (528) puts the meeting on Nov. 17."
+}

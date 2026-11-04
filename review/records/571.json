@@ -1,0 +1,26 @@
+{
+  "id": "571",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Goss and Allen put under peace bonds in Ohio" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reprinted a Cincinnati Enquirer item that Prosecuting Attorney Baker made Joe Goss and Tom Allen post bonds to keep the peace in Ohio for one year, and that fight excursion tickets would cost $7." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The St. Louis Republican, Friday Morning, September 1, 1876'; filed as Missouri Republican per the rubric (pre-1888). Reprinted from the Cincinnati Enquirer." },
+  "facts": [
+    {
+      "fact": "At the request of the Society for the Prevention of Cruelty to Animals, Prosecuting Attorney Baker made Allen and Joe Goss give bonds to keep the peace in Ohio for one year",
+      "date": "1876-08",
+      "people": ["Joe Goss", "Prosecuting Attorney Baker"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The item is about Allen and Goss and their fight, so primary rather than secondary."
+}

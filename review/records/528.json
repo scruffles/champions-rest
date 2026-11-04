@@ -1,0 +1,36 @@
+{
+  "id": "528",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Gist readable; stake amounts ($250 forfeit, $5,000 a side) and 'stakeholder' garbled" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat, reprinting the Chicago Times, reported that Tom Allen came to Chicago and put up a $250 forfeit for a $5,000-a-side fight with Jem Mace set for May 20, 1876." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: Saturday Morning, November 20, 1875; reprinted from the Chicago Times of Nov. 18" },
+  "facts": [
+    {
+      "fact": "Allen travelled from St. Louis to Chicago to make the match with Jem Mace and planned to stay a couple of days",
+      "date": "1875-11-17",
+      "people": [],
+      "places": ["St. Louis", "Chicago"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At 'The Store' in Chicago, Barney Aaron for Allen and Harry Hill for Mace deposited $250 a side with Mike McDonald and drew up articles for a $5,000-a-side fight on May 20, 1876",
+      "date": "1875-11-17",
+      "people": ["Jem Mace", "Barney Aaron", "Harry Hill", "Mike McDonald"],
+      "places": ["The Store, Chicago"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

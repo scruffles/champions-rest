@@ -1,0 +1,26 @@
+{
+  "id": "601",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline deck mentions Gale and squibs, but the clipped body is only the Allen-Gilbert account" },
+  "ocr": { "status": "good", "notes": "Minor errors in round 3 and times" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat printed the London Sporting Life's round-by-round account of Allen's glove fight with Tompkin Gilbert for the English championship; Gilbert left the ring after seven rounds and Allen was declared the winner." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, November 21, 1877. Source: London Sporting Life of October 31" },
+  "facts": [
+    {
+      "fact": "Allen beat Tompkin Gilbert in a glove fight for the English championship; Gilbert went down in each round, left the ring after the seventh, and Allen was declared the winner after 16 min 45 sec",
+      "date": "1877-10",
+      "people": ["Tompkin Gilbert"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same fight as article 600 (16:25 there, 16:45 here). Here Allen claimed the foul; in 600 Gilbert's seconds did."
+}

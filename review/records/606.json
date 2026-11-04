@@ -1,0 +1,26 @@
+{
+  "id": "606",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "'Miscellaneous' column of sporting and theater notes; only the sixth paragraph is about Allen." },
+  "ocr": { "status": "good", "notes": "Allen item transcribed correctly." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Post's sporting notes reported that, at last advices on February 13, £50 a side was down for the glove match between Tom Allen and Charley Davis for £100 a side and the championship." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Post", "notes": "Masthead: St. Louis Evening Post, Tuesday, March 5, 1878 (not the Post-Dispatch, which began 1878-12)." },
+  "facts": [
+    {
+      "fact": "As of February 13, 1878, £50 a side was down for the glove match between Allen and Charley Davis for £100 a side and the championship",
+      "date": "1878-02-13",
+      "people": ["Charley Davis"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

@@ -1,0 +1,46 @@
+{
+  "id": "572",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'The Big Fight' item from the Last Edition column, headlines through Tom Kelly's signed dispatch. The Associated Press item below it is not included, which is fine." },
+  "ocr": { "status": "good", "notes": "Minor errors (Crncrnmnati, toserve, 'which eet for'); names readable." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported from Cincinnati that arrangements for the Allen-Goss fight were complete and Allen had left for the battle ground, while Joe Coburn said the fight was fixed for Goss to get the money." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead: St. Louis Dispatch, Wednesday Evening, September 6, 1876 (Last Edition, 5 P.M.). Predates the 1878 Post-Dispatch merger." },
+  "facts": [
+    {
+      "fact": "Arrangements for the Allen-Goss fight were completed at Cincinnati and Allen left for the fighting ground ahead of Goss",
+      "date": "1876-09-06",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was to fight Joe Goss at about 178 pounds to Goss's 164, seconded by Tom Kelly of St. Louis and Arthur Chambers of Philadelphia; Goss by Jem Mace and Joe Coburn",
+      "date": "1876-09-06",
+      "people": ["Joe Goss", "Tom Kelly", "Arthur Chambers", "Jem Mace", "Joe Coburn"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Joe Coburn said that although Allen was the better man, the fight would be fixed for Goss to get the money; Tom Kelly wired St. Louis that Allen would not get fair play",
+      "date": "1876-09-06",
+      "people": ["Joe Coburn", "Tom Kelly"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Jack Looney of St. Louis arrived with a party of 25 men saying Allen must be whipped."
+}

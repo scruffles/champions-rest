@@ -1,0 +1,26 @@
+{
+  "id": "535",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Column of theatre ads; only the Theatre Comique ad is about Allen. Olympic Theatre and New Adelphi ads (William O. Allen, proprietor) are unrelated." },
+  "ocr": { "status": "good", "notes": "minor errors" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's last three nights at the Theatre Comique" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican advertised the last three nights of Tom Allen's one-week engagement at the Theatre Comique, where he sparred with Ned Donnelly each evening in the crib scene from \"Tom and Jerry.\"" },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Page header reads 'The St. Louis Republican, Thursday Morning, March 23, 1876'; filed as Missouri Republican per the pre-1888 rule. Not 'The St Louis Republic'." },
+  "facts": [
+    {
+      "fact": "Allen played a one-week engagement at the Theatre Comique, St. Louis, billed as champion of the world, setting to with the gloves with Ned Donnelly every evening in the crib scene from \"Tom and Jerry\"",
+      "date": "1876-03",
+      "people": ["Ned Donnelly"],
+      "places": ["Theatre Comique, Pine Street between Third and Fourth, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

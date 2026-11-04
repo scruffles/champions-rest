@@ -1,0 +1,50 @@
+{
+  "id": "515",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "An unrelated 'Mines and Furnaces of Missouri' notice sits above the Allen item; the Allen item is complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": ""
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat announced that Tom Allen, the champion, had returned home and would take the chair at his free and easy at No. 417 Washington Avenue on Saturday night, singing his favorite songs."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Masthead reads 'The St. Louis Democrat: St. Louis Saturday, March 20, 1875'."
+  },
+  "facts": [
+    {
+      "fact": "Allen returned home to St. Louis and resumed taking the chair at his free and easy at 417 Washington Avenue, where silver goblets were displayed at the bar",
+      "date": "1875-03-20",
+      "people": [],
+      "places": [
+        "417 Washington Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Does not say where he returned from; likely the East trip in 514."
+}

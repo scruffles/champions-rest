@@ -1,0 +1,103 @@
+{
+  "id": "495",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full article 'Allen--Hogan. The Match Off and Another Made', headline to the closing Harding telegram."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "First half mostly right; the Springfield dispatch and East St. Louis sections have many errors ('Goy. Beveridge', 'Mavor Bow tan', garbled lines)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat reported that Tom Allen agreed to Ben Hogan's request to postpone their fight after Missouri and Illinois authorities intervened, and that the two would fight in Canada near Detroit on November 19 for $2,500 a side."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Challenges",
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Thursday, October 30, 1873'; masthead 'Daily Democrat'. Pre-1875 merger, so not the Globe-Democrat."
+  },
+  "facts": [
+    {
+      "fact": "After Illinois authorities stopped the Allen-Hogan fight at East St. Louis, Allen agreed at a meeting at his place of business to Hogan's request for a two-week postponement, Hogan saying he was sick",
+      "date": "1873-10-29",
+      "people": [
+        "Ben Hogan",
+        "Jack Looney",
+        "Mike Ganley",
+        "Jimmy Eagan",
+        "Arthur Chambers"
+      ],
+      "places": [
+        "St. Louis",
+        "East St. Louis, Illinois"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "New articles were to be drawn raising the Allen-Hogan stakes to $2,500 a side, with the fight to take place in Canada within fifty miles of Detroit; W. E. Harding telegraphed that the party would leave Detroit on the 18th and fight on November 19",
+      "date": "1873-10-29",
+      "people": [
+        "Ben Hogan",
+        "W. E. Harding",
+        "Arthur Gore"
+      ],
+      "places": [
+        "Canada, near Detroit, Michigan"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said that if he won his fight with Hogan he would make a match with Ed O'Baldwin for $2,500 or $5,000 a side",
+      "date": "1873-10",
+      "people": [
+        "Ed O'Baldwin"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Illinois Gov. Beveridge sent Adjutant General E. L. Higgins to East St. Louis with arms and ammunition to prevent the Allen-Hogan fight at all hazards",
+      "date": "1873-10-29",
+      "people": [
+        "Gov. John L. Beveridge",
+        "E. L. Higgins",
+        "Mayor Bowman"
+      ],
+      "places": [
+        "East St. Louis, Illinois"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The 'fight in Canada near Detroit' plan was later dropped; the fight took place near Omaha in November (see 498)."
+}

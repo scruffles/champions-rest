@@ -1,0 +1,26 @@
+{
+  "id": "597",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The 'Tom Allen' item is complete; the clipping also takes in two unrelated briefs (Dr. Adams' Turkish baths, a suit for services)." },
+  "ocr": { "status": "rough", "notes": "'bloody place would' was read as 'pen, ape od would'; otherwise fine." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Tom Allen wrote to a friend from Halifax that he would sail for England that day, but expected only a brief stay, as 'the bloody place' would be too slow after America." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead: St. Louis Dispatch, Friday Evening, May 18, 1877. Filed as the St. Louis Evening Dispatch before 1878-12." },
+  "facts": [
+    {
+      "fact": "Allen wrote to a friend from Halifax that he would sail for England that day (Saturday, May 12, 1877), expecting only a brief stay",
+      "date": "1877-05-12",
+      "people": [],
+      "places": ["Halifax, Nova Scotia", "England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "015"
+    }
+  ],
+  "needs_human": false,
+  "notes": "'Saturday last' before Friday May 18 is May 12; existing fact 015 dates the trip to England May 6, 1877, so the date may need reconciling. The 'bloody place' wording is the paper's paraphrase, not a direct quote."
+}

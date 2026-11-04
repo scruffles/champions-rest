@@ -1,0 +1,26 @@
+{
+  "id": "598",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole 'Life in St. Louis' column of local paragraphs; only the last paragraph (Gilbert-Allen fight) is about Allen" },
+  "ocr": { "status": "good", "notes": "Minor errors; Allen paragraph reads correctly" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that the £100 stakes had been posted for the fight between Tompkins Gilbert, champion of England, and Tom Allen, set for October 29 in the London district under the new London prize-ring rules." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead: St. Louis Dispatch, Friday Evening, September 28, 1877; pre-1878-12 Dispatch items are filed as the St. Louis Evening Dispatch" },
+  "facts": [
+    {
+      "fact": "Allen was matched to fight Tompkins Gilbert in the London district on October 29, 1877, at catch weights under the new London prize-ring rules; all £100 stakes had been posted",
+      "date": "1877-10-29",
+      "people": ["Tompkins Gilbert"],
+      "places": ["London, England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

@@ -1,0 +1,66 @@
+{
+  "id": "599",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline deck lists other sporting items, but the clipped body is only the Allen section" },
+  "ocr": { "status": "good", "notes": "Some errors ('ales al foot ring' for 'twenty-four foot ring', 'for art ca Fears' for 'for eighteen years')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported, from a backer back from England, that Allen had sparred George Rooke around the country, forfeited a crooked match with him, and was matched with Gilbert, but hoped to return to America." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions", "Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, October 7, 1877" },
+  "facts": [
+    {
+      "fact": "In 1877 Allen and George Rooke gave sparring exhibitions throughout England; Allen's first exhibition in his home town of Birmingham drew the largest crowd for such an affair in eighteen years",
+      "date": "1877",
+      "people": ["George Rooke"],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Sparring with gloves at Manchester, Allen knocked George Rooke out of time",
+      "date": "1877",
+      "people": ["George Rooke"],
+      "places": ["Manchester, England"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Rooke's Birmingham friends matched him against Allen with £25 forfeit a side; Allen forfeited after concluding the 'gang' was with Rooke and the fight would not be decided on its merits",
+      "date": "1877",
+      "people": ["George Rooke"],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was matched to box Gilbert in a 24-foot ring under the new London rules for £50 a side on October 29, 1877",
+      "date": "1877-10-29",
+      "people": ["Tompkins Gilbert"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen wished to return to America and thought that, since Joe Goss had been freed, his trouble in Kentucky might blow over, when he would recross the Atlantic",
+      "date": "1877-10",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky", "England"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Secondhand account from an unnamed friend and backer of Allen just back from two months in England. Relates to existing note that Allen waited out his Kentucky legal trouble."
+}

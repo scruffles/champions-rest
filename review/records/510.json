@@ -1,0 +1,26 @@
+{
+  "id": "510",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping is a column of local briefs and advertisements; only the 'Tom Allen's Free and Easy' notice (crop piece 2) is about Allen." },
+  "ocr": { "status": "good", "notes": "The Allen notice is transcribed nearly correctly; the rest is rough." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch carried a notice for Tom Allen's Free and Easy on Washington Avenue, calling it the best and coolest place of amusement in the city, with the latest songs nightly and the champion keeping order." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Running head reads 'The Dispatch, Saturday Evening, November 21, 1874'. Before 1878-12, so not the Post-Dispatch." },
+  "facts": [
+    {
+      "fact": "Allen ran his Free and Easy concert saloon on Washington Avenue, offering the latest songs nightly, with Allen keeping order",
+      "date": "1874-11",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The address prints as '117 Washington avenue' with the first digit faint; other sources place the Free and Easy at 417 Washington Avenue, so this is probably 417. The notice is a short paid local item, but it is entirely about Allen's saloon."
+}

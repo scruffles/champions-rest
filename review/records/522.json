@@ -1,0 +1,26 @@
+{
+  "id": "522",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "headline misread ('WHAT PRIZE-FIGHT', 'Donkey il gent d'); it reads 'THAT PRIZE-FIGHT. Jem Coyne, Donkey Neary and Tom Allen All After Rooke.'" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Renews His Challenge to Rooke" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Arthur Chambers telegraphed Tom Allen that he had sent articles to Harry Hill's for Rooke to sign, for a fight within fifty miles of Detroit for $1,000 a side." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "masthead: St. Louis Daily Globe-Democrat, Monday Morning, June 28, 1875" },
+  "facts": [
+    {
+      "fact": "After the failed Rooke fight, Allen renewed his challenge: Arthur Chambers sent articles to Harry Hill's for Rooke to sign to fight Allen within fifty miles of Detroit for $1,000 a side",
+      "date": "1875-06-26",
+      "people": ["George Rooke", "Arthur Chambers", "Harry Hill"],
+      "places": ["Harry Hill's, New York", "Detroit, Michigan", "Syracuse, New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The telegram is addressed to Tom Allen, 417 Washington avenue. Current title is wrong: the match is Allen's, not one between Chambers and Rooke. Jem Coyne also asked Allen to second him in a match with Rooke (skipped as minor)."
+}

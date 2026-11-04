@@ -1,0 +1,26 @@
+{
+  "id": "569",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "minor errors (Baner, Stiter for Miller, dropped 'Miller' in last line)" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen refereed the Bauer-Miller wrestling match for the U.S. championship at Wood's Theater in Cincinnati, won by Bauer two falls to one." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, August 30, 1876. Special dispatch dated Cincinnati, August 29." },
+  "facts": [
+    {
+      "fact": "Allen refereed the Bauer-Miller wrestling match for the championship of the United States and $1,000 at Wood's Theater, Cincinnati; Bauer won",
+      "date": "1876-08-29",
+      "people": ["Bauer", "Miller"],
+      "places": ["Wood's Theater, Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "030"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is mentioned only as referee."
+}

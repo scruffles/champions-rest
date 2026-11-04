@@ -1,0 +1,26 @@
+{
+  "id": "552",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'The Wrestlers' item." },
+  "ocr": { "status": "good", "notes": "Readable; scattered character errors." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Signs Articles for Bauer in Wrestling Match With Schroeder" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen acted for Prof. Bauer at Tony Faust's, putting up the rest of the stakes and signing articles for Bauer's $500-a-side wrestling match with Julius Schroeder at the Temple." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Friday Morning, May 5, 1876, page 6. Meeting was 'yesterday afternoon' (May 4). Current title is wrong: Leon Schuler was the stakeholder, Allen was Bauer's representative." },
+  "facts": [
+    {
+      "fact": "Allen represented wrestler Prof. Bauer at Tony Faust's, depositing the remaining stakes and signing articles for Bauer's $500-a-side match with Julius Schroeder, set for May 6 at the Temple",
+      "date": "1876-05-04",
+      "people": ["Prof. Bauer", "Julius Schroeder"],
+      "places": ["Tony Faust's, St. Louis", "The Temple, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "585",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole 'Amusements' column (Olympic, De Bar's, German drama, etc.); only the end of the 'Theatre Comique' paragraph mentions Allen and Mace. Ends with the first lines of 'Festival For the Poor'." },
+  "ocr": { "status": "good", "notes": "Readable; Allen sentence correct apart from 'Alien'" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen and Jem Mace boxing at the Theatre Comique" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican's amusements column noted that Tom Allen and Jem Mace were announced for a boxing match at the Theatre Comique that evening and the next." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The St. Louis Republican, Tuesday Morning, October 24, 1876', page 5; filed as Missouri Republican per rubric (pre-1888), not the St. Louis Republic" },
+  "facts": [
+    {
+      "fact": "Allen and Jem Mace were announced for a boxing exhibition at the Theatre Comique, St. Louis, on October 24 and 25, 1876",
+      "date": "1876-10-24",
+      "people": ["Jem Mace"],
+      "places": ["Theatre Comique, Pine Street between Third and Fourth, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary is truncated/broken. Same page as 586 (the Theatre Comique advertisement)."
+}

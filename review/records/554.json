@@ -1,0 +1,26 @@
+{
+  "id": "554",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clothing ad and the full Amusements column; only the Theatre Comique paragraph mentions Allen." },
+  "ocr": { "status": "good", "notes": "Readable; minor errors in the ad prices." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported a packed house at the Theatre Comique for a sparring match between Tom Allen and Tom Kelley, with a Bauer-Christol wrestling bout and Hermann's sleight of hand." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead: St. Louis Dispatch, Saturday Evening, May 6, 1876 (pre-1878 Dispatch). Sparring was 'last night' (May 5). Same page as 555." },
+  "facts": [
+    {
+      "fact": "Allen sparred Tom Kelly at the Theatre Comique, St. Louis, before a packed house",
+      "date": "1876-05-05",
+      "people": ["Tom Kelly"],
+      "places": ["Theatre Comique, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Paper spells the name 'Kelley'; 553 and 555 use 'Kelly'."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "496",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Whole 'The Courts' column of unrelated court notes; only the paragraph on the dismissal in the Mollie McCoole case mentions Allen."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors ('Haney Boons', 'GmRIsTIAN RCEGE', 'ety')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Case Against Mike McCoole's Ex-Wife Dismissed"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat reported that the Court of Criminal Correction dismissed the case of Mollie McCoole after being told that she, the ex-wife of Tom Allen's opponent, had left the city."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Running head reads 'The St. Louis Democrat: St. Louis, Thursday, October 30, 1873' (same page as 495). Pre-1875 merger."
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Current title wrongly makes her the ex-wife of 'McCoole's opponent'; the text says she is the ex-wife of Allen's opponent (Mike McCoole). No facts about Allen himself."
+}

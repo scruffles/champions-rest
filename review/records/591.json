@@ -1,0 +1,15 @@
+{
+  "id": "591",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole reprinted interview, headline to end." },
+  "ocr": { "status": "good", "notes": "Readable; scattered errors in names and words (e.g. 'Charley vis' for Charley Davis, 'Aus-eee i Hicken' for 'Australia), Harry Hicken')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted a Philadelphia Sunday Item interview with Arthur Chambers on the decline of the English prize ring, in which he named Tom Allen among the leading English fighters who had come to the United States." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, February 25, 1877, page 6. Reprinted from the Philadelphia Sunday Item." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen appears only in a list of English boxers who emigrated to America (with Ryall, Morrissey, the Hickens, Mace, Pooley, O'Baldwin, Goss, Chambers); no new biographical fact. The 'Champion's Rest' here is Arthur Chambers's Philadelphia house at 922 Ridge Avenue, not Allen's saloon."
+}

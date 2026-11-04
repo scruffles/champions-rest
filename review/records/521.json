@@ -1,0 +1,86 @@
+{
+  "id": "521",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "whole article, headline through the Pittsburg Leader item at the end" },
+  "ocr": { "status": "rough", "notes": "gist and names readable; many errors in the fight-record list (years such as 1849, 1369, 1855 misread) and in the training-quarters passage" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that the Allen-Rooke fight near Pittsburg fell through when Rooke's backer reclaimed his stakes under the Gambling Act. Allen waited in the ring, claimed the money and announced he would never fight again." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "masthead: St. Louis Daily Globe-Democrat, Sunday Morning, June 20, 1875. The text gives the fight day as '(July 17)' and Hill's telegram as 'May 16', but the fizzle was the Thursday before publication (June 17, 1875); both look like misprints for June." },
+  "facts": [
+    {
+      "fact": "George Rooke of Newark challenged Allen for the championship and $2,500 a side; Arthur Chambers accepted for Allen and articles were signed at Harry Hill's in New York for $1,500 a side",
+      "date": "1875-02-16",
+      "people": ["George Rooke", "Arthur Chambers", "Harry Hill"],
+      "places": ["Harry Hill's, New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen trained for the Rooke fight at a farmhouse at McKee's Rocks on the Ohio River near Pittsburg",
+      "date": "1875-06",
+      "people": [],
+      "places": ["McKee's Rocks, Pennsylvania", "Pittsburg, Pennsylvania"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Rooke's principal backer demanded his $1,500 stake back from Harry Hill, pleading the Gambling Act, so the fight fell through",
+      "date": "1875-06",
+      "people": ["George Rooke", "Harry Hill"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen entered the ring at Smith's Landing on the Pennsylvania-West Virginia line before about 500 spectators, waited until 1 o'clock, and claimed the stakes when Rooke did not appear",
+      "date": "1875-06-17",
+      "people": ["George Rooke"],
+      "places": ["Smith's Landing, Pennsylvania-West Virginia line"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen left Pittsburg on Friday and arrived back in St. Louis the next morning, at his place of business on Washington Avenue",
+      "date": "1875-06-19",
+      "people": [],
+      "places": ["Pittsburg, Pennsylvania", "Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen announced his final withdrawal from the ring",
+      "date": "1875-06-19",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "Under no circumstances whatever will I again enter the ring. No inducements, however strong, will cause me to make a match. I wanted to win this fight to preserve my reputation and didn't care for the money at stake.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A few months earlier Allen had passed through Pittsburg on his way to New York hunting Ben Hogan, and returned saying Hogan had evaded him (per the Pittsburg Leader)",
+      "date": "1875",
+      "people": ["Ben Hogan"],
+      "places": ["Pittsburg, Pennsylvania", "New York"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article reprints Allen's full fight record in England and America; not split into facts here. Stakeholder, seconds and the Pittsburg brawls skipped."
+}

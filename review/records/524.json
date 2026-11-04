@@ -1,0 +1,26 @@
+{
+  "id": "524",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "some garbled words (e.g. 'rooting property', 'erste' for gamblers)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "School Board Refuses to Lease Washington School; Allen's Name Raised" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that the School Board voted against leasing the Washington School and ordered it sold, after Mr. Stanton objected to pugilists leasing it and Mr. Peacock denied naming Tom Allen." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, July 21, 1875" },
+  "facts": [
+    {
+      "fact": "A School Board member suggested Tom Allen was behind an offer to lease the Washington School building; another member denied naming him, and the board voted 15 to 4 against leasing",
+      "date": "1875-07-20",
+      "people": ["Mr. Stanton", "Mr. Peacock"],
+      "places": ["Washington School, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen appears only in an interrupted remark ('the gentleman told me that Tom Allen----') which Peacock denied; whether Allen sought the building is unconfirmed. Current title overstates his role."
+}

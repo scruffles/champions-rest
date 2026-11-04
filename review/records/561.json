@@ -1,0 +1,56 @@
+{
+  "id": "561",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article 'The Thumpers', from the headline to the closing rule." },
+  "ocr": { "status": "good", "notes": "Mostly right, with scattered errors ('Thoir', 'wigile', 'A NOMBRE OF FACTS', 'the wale 18' for 'the owner', 'stiow the white. ea le' for 'show the white feather')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen and Joe Goss in Training for September Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported on Tom Allen and Joe Goss in training for their September 7 championship fight. Interviewed in St. Louis, Allen swore the match was on the level and predicted Goss would break down." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Sunday Morning, July 16, 1876', page 4." },
+  "facts": [
+    {
+      "fact": "About ten days before July 16, 1876, at the close of their engagement at the Comique, Allen and his trainer Jack Madden left St. Louis for Cincinnati to train for the Goss fight",
+      "date": "1876-07",
+      "people": ["Jack Madden"],
+      "places": ["Comique, St. Louis", "Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Joe Goss signed articles at Cincinnati for a fight for the championship of America, set for September 7, 1876",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "While in St. Louis, Allen told a Globe-Democrat reporter at the Olive Street Hotel that the Goss match was on the 'dead level' and that the fighting ground, a farm, had already been selected",
+      "date": "1876-07",
+      "people": ["Joe Goss"],
+      "places": ["Olive Street Hotel, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen predicted how the fight with Goss would go",
+      "date": "1876-07",
+      "people": ["Joe Goss"],
+      "places": ["St. Louis"],
+      "quote": "It will be the liveliest scrap you ever saw for the first twenty minutes. He's a game 'un, and clever, but a little slow. He'll stand punishment like a bull-dog, and the only way you can lick him is to blind him.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article says Allen and Goss had earlier 'fought a draw in three rings'."
+}

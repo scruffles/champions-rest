@@ -1,0 +1,46 @@
+{
+  "id": "560",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "'Penge' for 'training'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Allen had returned to St. Louis and begun training under Jack Madden for his championship match with Joe Goss, sparring nightly at the Comique, and would keep his headquarters in the city." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The St. Louis Republican, Wednesday Morning, June 28, 1876; filed as Missouri Republican (not the later St. Louis Republic)" },
+  "facts": [
+    {
+      "fact": "Allen returned to St. Louis in late June 1876 and began training under Jack Madden for his fight with Joe Goss",
+      "date": "1876-06",
+      "people": ["Jack Madden", "Joe Goss"],
+      "places": ["St. Louis, Missouri"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Jack Madden gave nightly glove set-tos at the Comique theater in St. Louis, ending June 28, 1876",
+      "date": "1876-06-28",
+      "people": ["Jack Madden"],
+      "places": ["Theatre Comique, St. Louis, Missouri"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Otto Burbank announced that Allen would keep his headquarters in St. Louis after the Goss fight, countering reports he was leaving the city",
+      "date": "1876-06-27",
+      "people": ["Otto Burbank"],
+      "places": ["St. Louis, Missouri"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

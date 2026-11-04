@@ -1,0 +1,26 @@
+{
+  "id": "589",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping holds the 'Turf and Ring' items (Flora Temple, then Tom Allen) and the start of an unrelated 'Religious Revival' story. Only the second Turf and Ring paragraph is about Allen." },
+  "ocr": { "status": "good", "notes": "Allen paragraph reads correctly." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Goss's Backers Pay Forfeit on New Allen Match" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen made a new match with Joe Goss's backers at Windsor for $1,000 a side, but Goss's friends paid forfeit the next day and negotiations ended." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, November 21, 1876, page 5." },
+  "facts": [
+    {
+      "fact": "Allen made a match at Windsor with Joe Goss's backers for $1,000 a side, but Goss's friends paid forfeit the next day and the negotiations were cut off",
+      "date": "1876-11-15",
+      "people": ["Joe Goss"],
+      "places": ["Windsor, Ontario"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Match made 'on Wednesday' (taken as Nov 15, 1876) and forfeit paid 'on Thursday' (Nov 16). Places Allen in Windsor, consistent with article 588."
+}

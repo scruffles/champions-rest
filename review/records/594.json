@@ -1,0 +1,66 @@
+{
+  "id": "594",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "First paragraph is the Allen item; the second paragraph (boys throwing stones at Bellefontaine cars) is unrelated. Clipping is faded but readable."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist is there; many character errors ('pugiiive law', 'viende', 'trinl')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican, citing the New York Sun, reported that the Farrell brothers' property near Covington, Ky., was levied on for Allen's $3,000 bail bond after he fled to Canada instead of standing trial for the Goss fight."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead: The Republican: St. Louis, Monday Morning, March 26, 1877, page 8. Filed as the Missouri Republican before 1888."
+  },
+  "facts": [
+    {
+      "fact": "The property of the Farrell brothers near Covington, Kentucky, was levied on to satisfy Allen's $3,000 bail bond; they had been sureties for his return to stand trial for the prize fight with Joe Goss",
+      "date": "1877-03",
+      "people": [
+        "Farrell brothers",
+        "Joe Goss"
+      ],
+      "places": [
+        "Covington, Kentucky"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was reported to have fled to Canada rather than stand trial in Kentucky for the Goss fight",
+      "date": "1877",
+      "people": [],
+      "places": [
+        "Kentucky",
+        "Canada"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Secondhand from the New York Sun. The item is entirely about Allen, so focus is raised to primary."
+}

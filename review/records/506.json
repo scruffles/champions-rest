@@ -1,0 +1,46 @@
+{
+  "id": "506",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The clipping starts at the deck headline; the section heading 'RING GOSSIP.' above it on the page is not included. The article body is complete." },
+  "ocr": { "status": "good", "notes": "Readable with scattered errors (e.g. 'Alien', 'betweenflom', 'Edwariis', 'MeCoole')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported talk of a match between Tom Allen and Jem Mace, hinting that Allen planned a speculating tour of England, and that Arthur Chambers would stand trial in Illinois for seconding Allen against McCoole." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Challenges", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Running head reads 'The Dispatch, Tuesday Evening, February 24, 1874'. Before 1878-12, so not the Post-Dispatch." },
+  "facts": [
+    {
+      "fact": "A match between Allen and Jem Mace was being talked of in sporting circles",
+      "date": "1874-02",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was hinted to be planning a speculating tour of his native England, the cause of the rumored Mace match",
+      "date": "1874-02",
+      "people": [],
+      "places": ["England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Arthur Chambers was coming to stand trial before the Illinois authorities for seconding Allen in his last fight with Mike McCoole",
+      "date": "1874-02",
+      "people": ["Arthur Chambers", "Mike McCoole"],
+      "places": ["Illinois"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "A Dispatch reporter called at Allen's saloon but Allen was out; Jack Madden spoke instead. The rest of the column is other boxing news (Edwards-Collyer, O'Connor-Taylor)."
+}

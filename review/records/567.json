@@ -1,0 +1,15 @@
+{
+  "id": "567",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "minor errors (Goes for Goss, 'too oe of his record' for 'too jealous of his record', 'ae home' for 'England—the home')" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen's former backer predicts a stubborn fight with Joe Goss" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that the Belleville man who backed Tom Allen against Davis predicted a stubborn fight with Joe Goss, saying Allen would not lose it for a barrel of money." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Monday Morning, August 7, 1876" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "The quotes are the backer's, not Allen's. Current summary says the odds favored Allen; the article says betting in Wolverhampton, Goss's home, was two to one 'in his favor', most likely meaning Goss. No new biography-level facts; the backer is unnamed."
+}

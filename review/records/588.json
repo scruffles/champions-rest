@@ -1,0 +1,46 @@
+{
+  "id": "588",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Tom Allen' item; a few lines of the preceding item at the top." },
+  "ocr": { "status": "good", "notes": "Minor errors (e.g. 'gn hg os' for 'impressed', 'agrape' for 'agrees', 'prey tes ance' for 'disappearance')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen had skipped to Windsor, Ontario, to avoid prosecution in Kentucky over the Goss-Allen fight, after giving $1,000 bail in Chicago and failing to appear." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, November 12, 1876, page 7." },
+  "facts": [
+    {
+      "fact": "Allen was arrested in Chicago at the instance of Kentucky officers for violating Kentucky statutes in the Goss-Allen fight, and gave $1,000 bail to appear before Justice Scully, with Mike McDonald as bondsman",
+      "date": "1876-11",
+      "people": ["Mike McDonald", "Justice Scully"],
+      "places": ["Chicago"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen failed to appear and skipped out for Windsor, Ontario, to avoid prosecution in Kentucky",
+      "date": "1876-11",
+      "people": [],
+      "places": ["Chicago", "Windsor, Ontario"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Billy Harrison, advance agent for Mace and Allen, was on his way to California to prepare exhibitions by the two pugilists; Mace had also gone west",
+      "date": "1876-11",
+      "people": ["Billy Harrison", "Jem Mace"],
+      "places": ["Cheyenne", "California"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mentions his trial was set for the 20th of November 1876."
+}

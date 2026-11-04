@@ -1,0 +1,36 @@
+{
+  "id": "564",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole Mace interview from the Buffalo News. On the page it sits under 'Man and Beast' (decks include 'Interviews With the Fistic Artists, Mace and Goss'); a separate item 'An Hour With Joe Goss' in another column is not in the clipping." },
+  "ocr": { "status": "good", "notes": "Mostly right; a few garbled words ('ight Tom APfen', 'aeeing to fight Rooke buta short time Catorp', 'about OE ed' for 'about a year')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Jem Mace Gives His Opinion of Tom Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted a Buffalo News interview with Jem Mace, who said he had come to America to fight Tom Allen but gave way to Joe Goss, and called the Allen-Goss fight evenly matched." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Friday Morning, July 28, 1876', page 8. Reprinted from the Buffalo News." },
+  "facts": [
+    {
+      "fact": "Jem Mace said he had come to America to fight Allen, but stood aside so that Joe Goss could fight him",
+      "date": "1876",
+      "people": ["Jem Mace", "Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had been in training to fight George Rooke a short time before the Goss match was made",
+      "date": "1876",
+      "people": ["George Rooke"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mostly Mace's views; Allen is discussed for part of the interview. The current title ('Tom Allen in Prize Fight') does not describe the article."
+}

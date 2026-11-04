@@ -1,0 +1,26 @@
+{
+  "id": "502",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole 'The Courts' column of unrelated items; only the last paragraph is about Allen" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Democrat reported that Tom Allen, Johnnie Smith, Sam Smith and Jim Eagan were called in Police Court over their Sunday chase after Ben Hogan, but few witnesses appeared and they were discharged." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Democrat", "notes": "Masthead reads 'The St. Louis Democrat: St. Louis, Wednesday, December 10, 1873'; Globe-Democrat did not exist until 1875" },
+  "facts": [
+    {
+      "fact": "Allen, Johnnie Smith, Sam Smith and Jim Eagan were discharged in the St. Louis Police Court, without making a defense, on charges over their Sunday chase after Ben Hogan",
+      "date": "1873-12-09",
+      "people": ["Johnnie Smith", "Sam Smith", "Jim Eagan", "Ben Hogan"],
+      "places": ["Police Court, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

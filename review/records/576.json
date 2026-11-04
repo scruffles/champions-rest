@@ -1,0 +1,15 @@
+{
+  "id": "576",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The 'Life in St. Louis' column of short items. The items about Allen are 'Allen was sold out', 'The prize fight disappointed the fancy...', 'Those who said Tom Allen would not fight...' and 'The Allen-Goss fight creates as big an excitement...'. The 'Dr. Allen' item is about a different man." },
+  "ocr": { "status": "good", "notes": "Minor errors; Allen items readable." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch's short items said Allen was sold out in the Goss fight, that Goss was 'a mere McCoole in his hands', and that the fight caused as much excitement as the Custer tragedy." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Page header: St. Louis Dispatch, Thursday Evening, September 7, 1876. Predates the 1878 Post-Dispatch merger." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "The current summary says Allen defeated Goss. The item only says Goss was 'a mere McCoole in his hands'."
+}

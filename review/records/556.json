@@ -1,0 +1,26 @@
+{
+  "id": "556",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Sporting Notes column plus an unrelated assault item below; only the first paragraph is about Allen" },
+  "ocr": { "status": "good", "notes": "minor errors (Alkn, pepers)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Expected to Insist on Early Fight With Goss" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Allen was expected to insist on fighting Joe Goss within twelve weeks of signing articles in Cincinnati, though some said Goss and Mace were only using the match as advertising." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch, Thursday Evening, May 11, 1876'; the Post-Dispatch did not exist until 1878-12" },
+  "facts": [
+    {
+      "fact": "Allen was due to sign articles with Joe Goss at Cincinnati on May 12, 1876, and was expected to insist on a fight within twelve weeks",
+      "date": "1876-05-12",
+      "people": ["Joe Goss", "Jem Mace"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title names Mace, but the item is about the Allen-Goss match."
+}

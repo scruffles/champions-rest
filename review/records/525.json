@@ -1,0 +1,36 @@
+{
+  "id": "525",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "headline missing; on the page it reads 'THE DEAD PUGILIST. Ned O'Baldwin, the Irish Giant, Killed by a Pistol Shot. His Record and Achievements in the Prize Ring. The Terrible End of a Turbulent Life.' Left edge of the first column slightly clipped." },
+  "ocr": { "status": "rough", "notes": "readable but left-edge letters dropped and several garbled phrases" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Ned O'Baldwin Killed; Allen Recalls His Career" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported the shooting death of Ned O'Baldwin in New York, with his record told by Tom Allen, who had bested him in a St. Louis glove contest and was negotiating a match with him." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Exhibitions", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "masthead: St. Louis Daily Globe-Democrat, Thursday Morning, September 30, 1875" },
+  "facts": [
+    {
+      "fact": "At a St. Louis benefit exhibition for the sufferers of the Chicago fire, Allen faced Ned O'Baldwin with gloves and clearly outclassed him; Jack Looney then offered $5,000 to back Allen in a match, but O'Baldwin's backers lacked the money",
+      "date": "1871",
+      "people": ["Ned O'Baldwin", "Jack Looney"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "From late June 1875 there was talk of a match between Allen and O'Baldwin; Allen believed it would have taken place the next spring had O'Baldwin lived",
+      "date": "1875-06",
+      "people": ["Ned O'Baldwin"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen was interviewed at his saloon on Washington Avenue. Most of the article is O'Baldwin's own record, which is not about Allen."
+}

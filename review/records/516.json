@@ -1,0 +1,81 @@
+{
+  "id": "516",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Body mostly right; the goblet inscription is garbled (misses 'Philadelphia' and 'Mortimer's' and the date March 12, 1875)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat reported that Tom Allen came home from sparring exhibitions in New York, Boston, Philadelphia and Pittsburg, bringing a $250 silver goblet given to him at his Philadelphia benefit."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Exhibitions",
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Masthead: 'The St. Louis Democrat: St. Louis, Saturday, March 20, 1875', before the May 1875 merger, so not the Globe-Democrat."
+  },
+  "facts": [
+    {
+      "fact": "Allen returned to St. Louis from a tour of eastern cities, where he gave sparring exhibitions in New York, Boston, Philadelphia and Pittsburg",
+      "date": "1875-03-19",
+      "people": [],
+      "places": [
+        "New York",
+        "Boston",
+        "Philadelphia",
+        "Pittsburg",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At his benefit at J. M. Mortimer's Grand Central Variety Theater in Philadelphia, Allen's Philadelphia friends presented him with a quart-sized solid silver goblet, inscribed to the 'Champion of America', that cost $250",
+      "date": "1875-03-12",
+      "people": [
+        "J. M. Mortimer"
+      ],
+      "places": [
+        "Grand Central Variety Theater, Philadelphia"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he thought George Rooke would forfeit their fight set for June, calling him 'no great scratch'",
+      "date": "1875-03",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [],
+      "quote": "no great scratch",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper spells the opponent 'Rook'; elsewhere he is George Rooke. The fact about the goblet may be worth checking against fact 050 (the cup found in a pawn shop), which may be a different cup."
+}

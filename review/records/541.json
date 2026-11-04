@@ -1,0 +1,94 @@
+{
+  "id": "541",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Headline 'FRUIT FOR SPORTS.' through the Coburn challenge. The same article continues on the page with 'The Wrestlers' (article 542) and 'Base Ball', which are not about Allen's own affairs."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable; several garbled lines (e.g. 'met in a twenty-four-foot ring' and 'Manager W. O. Allen' mangled, 'March 5, 1967' for 1867)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Joe Goss Arrives in America; Allen Challenges Coburn"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Joe Goss, who fought Allen to a draw in 1867, had arrived in America, and that Allen offered to fight Joe Coburn, who billed himself champion boxer of America, for any stakes."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges",
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, April 11, 1876, page 8."
+  },
+  "facts": [
+    {
+      "fact": "Allen received a dispatch from Jem Coyne of Newark, N.J., announcing that Joe Goss had arrived in America",
+      "date": "1876-04-10",
+      "people": [
+        "Joe Goss",
+        "Jem Coyne"
+      ],
+      "places": [
+        "Newark, N.J."
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Joe Goss fought in a twenty-four-foot ring for £100 a side and the middleweight championship; after 34 rounds lasting 1 hour 52 minutes the fight was declared a draw",
+      "date": "1867-03-05",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen played the crib scene from Tom and Jerry at the Theatre Comique, St. Louis, a couple of weeks before",
+      "date": "1876-03",
+      "people": [],
+      "places": [
+        "Theatre Comique, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen offered to fight Joe Coburn for as much money as he could raise or for nothing, at a point halfway between St. Louis and New York, or else a glove fight to a finish, betting $500 he would make Coburn take off the gloves",
+      "date": "1876-04-10",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [
+        "halfway between St. Louis and New York"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Tom and Jerry fact matches an existing fact listed with id 000 ('performs Tom and Jerry on stage'), so existing_fact is left blank. The paper says Allen had fought nine times since 1867."
+}

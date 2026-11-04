@@ -1,0 +1,26 @@
+{
+  "id": "602",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Includes the unrelated 'Gymnasium Notes' item above; the 'The Ring' item below is about Allen" },
+  "ocr": { "status": "good", "notes": "Allen item mostly right; Gymnasium item garbled by a crease" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Allen and Jack Knifton of Manchester had been matched to fight in England in four weeks for £200 a side and the championship of the world, in light gloves under London Prize Ring rules." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, December 9, 1877" },
+  "facts": [
+    {
+      "fact": "Allen and Jack Knifton of Manchester were matched to fight in England for £200 a side and the championship of the world, in light gloves at catch weights under London Prize Ring rules, about four weeks later",
+      "date": "1877-12",
+      "people": ["Jack Knifton"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Knifton described as 215 pounds, nearly six feet, the '81 tonner'"
+}

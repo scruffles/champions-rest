@@ -1,0 +1,26 @@
+{
+  "id": "607",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Single short paragraph; right edge slightly clipped but all words recoverable." },
+  "ocr": { "status": "good", "notes": "Minor errors ('jeolexgical' for 'theological')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen to Fight the Champion of England" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican noted that Tom Allen, formerly of St. Louis, was about to fight a prize fight with the champion of England, adding a jab that it did not remember which theological college he had graduated from." },
+  "focus": { "current": "passing", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Saturday Morning, March 23, 1878, page 3." },
+  "facts": [
+    {
+      "fact": "Allen, described as formerly of St. Louis, was about to fight the champion of England",
+      "date": "1878-03",
+      "people": [],
+      "places": ["England", "St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The whole item is about Allen, so focus primary despite its brevity."
+}

@@ -1,0 +1,71 @@
+{
+  "id": "543",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full item, headline 'COBURN TO BAUER.' to the end."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; Mace's letter has a few garbled words ('fight / n' for 'fight Allen')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Coburn Seeks Wrestling Match with Bauer"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Joe Coburn, newly arrived after Tom Allen's departure, offered a $250 forfeit to wrestle Theobaud Bauer, and printed a letter from Jem Mace saying Joe Goss was coming to fight Allen."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Monday Morning, April 17, 1876, page 5."
+  },
+  "facts": [
+    {
+      "fact": "The paper said Allen and old Bill Ryall first came to America in 1868",
+      "date": "1868",
+      "people": [
+        "Bill Ryall"
+      ],
+      "places": [
+        "England",
+        "America"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "low",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "Jem Mace wrote from London that Joe Goss was coming to America principally to fight Allen, sailing with Mace from Liverpool on March 25, 1876",
+      "date": "1876-03-13",
+      "people": [
+        "Jem Mace",
+        "Joe Goss",
+        "Joe Coburn"
+      ],
+      "places": [
+        "London",
+        "Liverpool",
+        "New York"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title ('Mace and Allen Championship Contest') is wrong; the article is about Coburn and Bauer. The 1868 arrival date conflicts with existing fact 006 (July 1867). The article mentions Allen's 'departure' from St. Louis without saying where."
+}

@@ -1,0 +1,73 @@
+{
+  "id": "512",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Democrat reported that Judge Snyder at Belleville discharged Tom Allen and four others from their indictment over the Allen-McCoole prize fight in Madison County, Illinois, because of a flaw in the indictment."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal",
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Democrat",
+    "notes": "Masthead reads 'The St. Louis Democrat', Tuesday, February 2, 1875 (before the Globe-Democrat merger)."
+  },
+  "facts": [
+    {
+      "fact": "Allen, Jack Looney, Arthur Chambers, Dublin Tricks and Tom Kelley were discharged by Judge Snyder of the St. Clair County Circuit Court from a Madison County indictment over the Allen-McCoole prize fight, owing to a flaw in the indictment",
+      "date": "1875-01-30",
+      "people": [
+        "Jack Looney",
+        "Arthur Chambers",
+        "Dublin Tricks",
+        "Tom Kelley",
+        "Judge Snyder",
+        "R. H. Halbert",
+        "Mike McCoole"
+      ],
+      "places": [
+        "Belleville, Illinois",
+        "Madison County, Illinois"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The case had been moved on a change of venue from Madison County to St. Clair County, Illinois",
+      "date": "1875",
+      "people": [],
+      "places": [
+        "Madison County, Illinois",
+        "St. Clair County, Illinois"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Discharge was 'on Saturday' before the Feb 2 paper, i.e. 1875-01-30."
+}
