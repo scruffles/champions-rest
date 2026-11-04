@@ -18,6 +18,7 @@
 - Biography keeps its full text and source footnotes, restyled to match
 - Articles flagged `not_tom` are hidden
 - Removed Bootstrap and Font Awesome
+- Deploy workflow updated to current GitHub Actions (checkout v7, setup-node v7, configure-aws-credentials v6)
 - Replaced Fuse.js with MiniSearch for full-text article search
 - Search index is now built at build time and lazy-loaded (~960KB gzipped) on first search open
 - Full OCR text of all 1,017 articles is searchable with fuzzy matching and prefix search
