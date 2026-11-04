@@ -1,0 +1,15 @@
+{
+  "id": "612",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Includes 'The English Turf' racing item above; the Allen mention is in 'The Ring. Concerning the Championship' below it" },
+  "ocr": { "status": "good", "notes": "some errors (notoriety garbled, $80 read as $88/$50 in places, 195 pounds garbled)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Johnny Dwyer Seeks the Championship After Allen's Departure" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Johnny Dwyer of Brooklyn, who 'dared not open his jaw while Tom Allen was in this country,' now aspired to the championship and had signed terms toward a match with Pat Ryan of Troy." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, April 25, 1878" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen is only mentioned in passing; the item concerns Dwyer and Ryan, so no Allen facts extracted."
+}

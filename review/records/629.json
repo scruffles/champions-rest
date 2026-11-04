@@ -1,0 +1,26 @@
+{
+  "id": "629",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors ('Thank fdu', 'pipepece' for 'prospects')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that John Dwyer collected his $2,000 stake for beating Jim Elliott and said that, if Tom Allen were brought over, he would fight him for up to $5,000 a side." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, May 18, 1879, page 4. New York dispatch dated May 17." },
+  "facts": [
+    {
+      "fact": "John Dwyer, the new American champion, said that if Allen were brought over he would, with his brother's consent, fight him for any sum up to $5,000 a side and give him his own field",
+      "date": "1879-05-17",
+      "people": ["John Dwyer"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "635",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping covers cricket, kennel, trapshooting, Goss-Ryan and swimming items; only the short 'Allen and Greenfield' item (crop-4) is about Allen." },
+  "ocr": { "status": "good", "notes": "Allen item reads correctly apart from 'Jim Muce' (Mace) and 'Alicn'." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Alfred Greenfield Challenges Tom Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that English heavyweight Alfred Greenfield challenged Tom Allen; Allen posted a forfeit and agreed to fight in a sixteen-foot ring for £200 a side and a £200 cup." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, May 30, 1880, page 13. Current title ('Jem Mace Defeats Tom Allen') is wrong; Mace is only named as a comparison." },
+  "facts": [
+    {
+      "fact": "Alfred Greenfield, the English heavyweight who had beaten Jack Stewart, challenged Allen for £200 or £500 or a £1,000 champion trophy",
+      "date": "1880-05",
+      "people": ["Alfred Greenfield"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen posted a forfeit and agreed to meet Greenfield in a sixteen-foot rather than twenty-four-foot ring, for £200 a side and a champion cup valued at £200",
+      "date": "1880-05",
+      "people": ["Alfred Greenfield"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

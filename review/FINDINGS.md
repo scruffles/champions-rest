@@ -57,3 +57,11 @@ Cross-article findings to resolve when merging records into the data. Per-articl
 - Mace match 1875: 527/528 say the match was made in Chicago (Nov 17–18, 1875); 530 (Dec 26) says no definite match exists.
 - 006 arrival in America: 543 gives 1868. 543's title is wrong (the article is about Coburn and Bauer).
 - 549 duplicates 548 (same 1876-05-01 page, worse crop). 521: the fight date is printed "July 17" but was June 17, 1875.
+- 015 Halifax sailing: 597 dates it 1877-05-12, not May 6. 606 is the St. Louis Evening Post (pre-merger), not the Post-Dispatch.
+- 609: the clipping is the lion-and-bull story; the Allen item on that page is 610's clipping, so 609 is probably a duplicate.
+- 622 probably duplicates 621 (its clipping is only the column headline and horse-racing items).
+- 631 is only a headline from the same page as 632; merge or remove.
+- 614 is probably a duplicate of 615 (its clipping is the turf scandal story). 617: the OCR figures are wrong; the image says $250 and 250 days.
+- 655 and 657 are the same Globe-Democrat item on the same page; 657 is the better crop. 654: Allen caused the 1874 panic, not prevented it (current summary is backwards).
+- Gallagher 1869-08-17: 643 says Allen won at $500 a side; 647 says a draw at $1,000 a side (see 352). 646 duplicates 645 (headline only).
+- 688 is probably a duplicate of 689 (its clipping is the billiard tourney report).

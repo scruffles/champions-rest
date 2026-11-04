@@ -1,0 +1,26 @@
+{
+  "id": "624",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "One garbled phrase: 'will use light gloves' read as 'will use Ma cee'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported from New York that Tom Allen of St. Louis and Jack Stewart of Glasgow were matched to fight with light gloves for £200 a side at Glasgow in the first week of March." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, February 13, 1879, page 2. Dispatch dated New York, February 12." },
+  "facts": [
+    {
+      "fact": "Allen was matched to fight Jack Stewart of Glasgow under the new rules of the London prize ring, with light gloves, for £200 a side, the fight to take place at Glasgow the first week in March 1879",
+      "date": "1879-02-12",
+      "people": ["Jack Stewart"],
+      "places": ["Glasgow, Scotland"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The fight actually took place in London on April 22, 1879 (see 625)."
+}

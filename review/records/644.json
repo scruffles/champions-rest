@@ -1,0 +1,26 @@
+{
+  "id": "644",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The left edge of the column is clipped, so the first letters of many lines are missing. The item about the Sullivan-Ryan fight is otherwise complete." },
+  "ocr": { "status": "rough", "notes": "Gist readable; line starts are lost to the cropped edge and many words are garbled." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "St. Louis Experts Favor Sullivan over Ryan, Citing Allen's Win over Goss" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that St. Louis sporting men expected John L. Sullivan to beat Paddy Ryan, noting Ryan took an hour and a half to whip Joe Goss while Tom Allen had beaten Goss in thirty minutes." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Monday Morning, January 16, 1882, page 6 (day partly blurred; Monday matches the 16th)." },
+  "facts": [
+    {
+      "fact": "St. Louis sporting men said Allen had beaten Joe Goss in thirty minutes when Goss was in his prime",
+      "date": "",
+      "people": ["Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title ('Mace and Allen Championship Contest') is wrong: the item is about the coming Sullivan-Ryan fight, and Allen is mentioned once. The claim that Allen beat Goss in thirty minutes is the local experts' recollection; Goss beat Allen on a foul in 1876, so the claim may refer to an earlier English fight."
+}

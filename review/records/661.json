@@ -1,0 +1,96 @@
+{
+  "id": "661",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Allen's letter is complete, but the Boston Herald item below continues at the top of the next column and is cut off mid-sentence. crop-2 is blank paper."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "'$1,600' should be '$1,000'"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reprinted Tom Allen's letter to the New York Herald, written on his return from six years in England, challenging John L. Sullivan or any man to fight for $1,000 to $5,000 a side and the championship of the world."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Monday Morning, November 6, 1882"
+  },
+  "facts": [
+    {
+      "fact": "Allen returned to America after six years in England, where he had kept a standing challenge to fight any man in Great Britain",
+      "date": "1882",
+      "people": [],
+      "places": [
+        "England",
+        "America"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "016"
+    },
+    {
+      "fact": "Allen wrote that he held the heavyweight championship until his fight with Joe Goss in 1876",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "which title I held until my battle with Joe Goss in 1876",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen challenged John L. Sullivan or any man in the world, London prize ring rules, catch weight, for $1,000 or $5,000 a side and the championship of the world, the fight within three months within 100 miles of New Orleans; his backer posted $1,000 and Harry Hill was to be final stakeholder",
+      "date": "1882-11-02",
+      "people": [
+        "John L. Sullivan",
+        "Harry Hill"
+      ],
+      "places": [
+        "New York",
+        "Police Gazette office, New York",
+        "New Orleans"
+      ],
+      "quote": "I will fight John L. Sullivan or any man in the world, according to the rules of the London prize ring, at catch weight, for $1,000 or $5,000 a side and the championship of the world.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Richard K. Fox's representative arrived in Boston with full power to match Allen against Sullivan for $2,500 a side; Sullivan's backer named November 10 to sign articles but said Sullivan would not fight in New Orleans",
+      "date": "1882-11",
+      "people": [
+        "Richard K. Fox",
+        "John L. Sullivan"
+      ],
+      "places": [
+        "Boston",
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Recrop needed to include the rest of the Boston Herald item at the top of the next column."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "611",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Left and right edges of the column are cut off throughout, losing the first and last words of every line, including the headline ('TOM ALLEN'S VICTORY', 'Account of His Late Fight in England')." },
+  "ocr": { "status": "rough", "notes": "matches the cropped image, but every line is truncated by the crop" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican printed a London special on Tom Allen's victory over Charley Davis at St. George's Hall the previous Thursday for the championship of the world and £200 a side, won in five rounds." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Monday Morning, April 8, 1878, page 8 — the Missouri Republican (not yet the St. Louis Republic)" },
+  "facts": [
+    {
+      "fact": "Allen defeated Charley Davis, champion of the United Kingdom, at St. George's Hall for the championship of the world and £200 a side; Davis was knocked down senseless in the fifth round and the referee declared Allen the winner after cries of foul; the fight lasted eighteen and a half minutes",
+      "date": "1878-04-04",
+      "people": ["Charley Davis"],
+      "places": ["St. George's Hall, London, England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Same London account as 610 with an added intro calling Allen a St. Louisan and noting betting of £25 to £20 against him. Sides of the clipping are cut off; a wider recrop from the full page would recover the lost words."
+}

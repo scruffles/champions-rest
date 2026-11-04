@@ -1,0 +1,26 @@
+{
+  "id": "679",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "'The Ring. Mace vs. Sullivan.' item complete." },
+  "ocr": { "status": "rough", "notes": "Gist readable; several garbled words in Mace's letter." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat printed a letter from Jem Mace saying he was still champion of the world and could beat Sullivan as easily as he beat Tom Allen at New Orleans in 1870." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Friday Morning, January 5, 1883, page 5." },
+  "facts": [
+    {
+      "fact": "Jem Mace recalled beating Allen at New Orleans in 1870",
+      "date": "1870",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

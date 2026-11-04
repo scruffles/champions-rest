@@ -1,0 +1,52 @@
+{
+  "id": "649",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Clipping covers the first column only, ending mid-sentence ('Veterans like Arthur Chambers, Joe'); the report continues in the next column and on page 3. The bottom piece also takes in part of the masthead. The Allen line is inside the clipping."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; scattered errors (e.g. '17 pounds' for 175, 'Sohnny')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported John L. Sullivan's victory over Paddy Ryan at New Orleans, recalling in passing that Tom Allen had been swindled out of a victory over Joe Goss near Cincinnati in 1876 on a fraudulent claim of foul."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Front page masthead: 'St. Louis Globe-Democrat, Wednesday Morning, February 8, 1882'. Special dispatch from New Orleans dated February 7."
+  },
+  "facts": [
+    {
+      "fact": "The Globe-Democrat said Allen had been swindled out of a victory over Joe Goss near Cincinnati in 1876 on a fraudulent claim of foul",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "near Cincinnati"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective mention only; the fight was in Kentucky across from Cincinnati."
+}

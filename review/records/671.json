@@ -1,0 +1,26 @@
+{
+  "id": "671",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping includes City News ads and Sporting Sundries baseball notes; only the last paragraph of the NOTES section is about Allen" },
+  "ocr": { "status": "good", "notes": "Allen paragraph readable with small errors ('lust', 'or and')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen failed to appear in Chicago to put up a preliminary forfeit for a championship prize fight with James Elliott, though Elliott and his backer were on hand." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Tuesday, December 12, 1882, page 8" },
+  "facts": [
+    {
+      "fact": "Allen failed to appear in Chicago to put up the preliminary forfeit for a championship prize fight with James Elliott; Elliott and his backer were present",
+      "date": "1882-12-11",
+      "people": ["James Elliott"],
+      "places": ["Chicago"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same news as 670 and 672. Brief note at the end of a sporting column."
+}

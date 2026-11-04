@@ -1,0 +1,51 @@
+{
+  "id": "664",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Billiards and sporting notes; only the last paragraph (Jem Mace's letter) mentions Allen."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The Mace paragraph is mostly right ('nud', 'l rge', 'ou saw me'); the billiards text above has more errors."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch printed Jem Mace's claim that he was still world champion and would win as easily as when he fought Tom Allen in New Orleans in 1870, and said Richard K. Fox would back Mace against Sullivan."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: 'St. Louis Post-Dispatch, Wednesday, November 22, 1882', page 8."
+  },
+  "facts": [
+    {
+      "fact": "Jem Mace, in a letter to a New York friend, claimed he was still champion of the world and recalled beating Allen in New Orleans in 1870",
+      "date": "1870",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "New Orleans, Louisiana"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mace's account of the 1870 fight is his own claim, so the fact is marked medium."
+}

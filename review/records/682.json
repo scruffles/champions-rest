@@ -1,0 +1,26 @@
+{
+  "id": "682",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Right edge clips the last letter or two of many lines; text still readable from context." },
+  "ocr": { "status": "good", "notes": "Minor errors and truncated line endings." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Police Gazette's W. E. Harding Dismisses Tom Allen" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican quoted W. E. Harding of the Police Gazette calling the Tom Allen fuss all wind, saying Allen was a total wreck when brought from Boston and was spoiling for a fight with Sullivan." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Friday Morning, January 26, 1883, page 6. Missouri Republican until 1888." },
+  "facts": [
+    {
+      "fact": "W. E. Harding of the Police Gazette said Allen was spoiling for a fight with John L. Sullivan",
+      "date": "1883-01",
+      "people": ["W. E. Harding", "John L. Sullivan"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The quote is Harding's, not Allen's. Harding also said the Police Gazette brought Allen out from Boston as a 'total wreck'; context unclear, not recorded as a fact."
+}

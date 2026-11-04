@@ -1,0 +1,26 @@
+{
+  "id": "638",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Column of 'Tips. At Home and Abroad' sporting notes; only the fifth item (one sentence) is about Tom Allen. Allen item complete; last item about Paddy Ryan runs off the bottom." },
+  "ocr": { "status": "rough", "notes": "Allen item mostly readable but 'not a fighter in' garbled to 'nota ae'; other items have many errors" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat noted in a brief sporting item that Tom Allen said there was not a fighter in England among the would-be champions who would take £50 or £100 and fight him for it." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, December 5, 1880, page 6" },
+  "facts": [
+    {
+      "fact": "Allen, then in England, said no would-be champion in England would take £50 or £100 to fight him",
+      "date": "1880-12",
+      "people": [],
+      "places": ["England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Statement is reported indirectly, not a verbatim quote. Allen was living in England at this time (1877-1882)."
+}

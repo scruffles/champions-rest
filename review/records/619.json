@@ -1,0 +1,36 @@
+{
+  "id": "619",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Most of the text readable but several garbled passages, including parts of the Allen fight section and the 'other ring fights' answer." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted a New York World interview with Ben Hogan, now a reformed drinker and gambler, who said his match with Tom Allen was made in St. Louis and that their fight came out a draw." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: Monday Morning, November 4, 1878, page 2. Reprinted from the New York World." },
+  "facts": [
+    {
+      "fact": "Ben Hogan said he met Allen in St. Louis on his way to Hot Springs and put up the money for a match with him there",
+      "date": "1873",
+      "people": ["Ben Hogan"],
+      "places": ["St. Louis", "Hot Springs, Arkansas"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Ben Hogan later claimed his fight with Allen came out a draw",
+      "date": "1873",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Interview is mostly about Hogan's conversion and life; Allen is one section. Hogan's draw claim conflicts with other reports that Allen won. Fight year not stated in the article."
+}

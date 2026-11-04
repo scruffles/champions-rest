@@ -1,0 +1,50 @@
+{
+  "id": "648",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item 'Fistic Battles Again' (from the New York Herald, January 30), headline to closing rule."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable but key words garbled: the Allen line reads 'living in” Posten' where the image says 'living in England'; 'Big Ned 7 anaes' is 'Big Ned O'Baldwin'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Former Champions Recalled Before Sullivan-Ryan Fight"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reprinted a New York Herald piece on former heavyweight champions before the Sullivan-Ryan fight, noting that Tom Allen was living in England with money enough to pass his days in ease."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Monday Morning, February 6, 1882', page 6. Reprinted from the New York Herald of January 30."
+  },
+  "facts": [
+    {
+      "fact": "The New York Herald reported that Allen was living in England, having made money enough to pass the rest of his days there in ease",
+      "date": "1882-01",
+      "people": [],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary says Allen was living in Boston; the image clearly reads England (OCR error). The Herald's claim that he was retired in comfort is secondhand."
+}

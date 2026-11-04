@@ -1,0 +1,26 @@
+{
+  "id": "657",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Includes the unrelated 'An Unprofitable Contest' walking-match item above; 'The Ring: Tom Allen Challenges John Sullivan' below is the Allen item and is complete" },
+  "ocr": { "status": "rough", "notes": "'JOBN IVAN' is John Sullivan, '$1,' is $1,000, Allen's name garbled ('Alep'), the stakes and New Orleans line missing" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Richard K. Fox deposited $1,000 with Harry Hill to back Tom Allen against John L. Sullivan for the world championship within 100 miles of New Orleans." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, October 31, 1882, page 4. Duplicate of 655." },
+  "facts": [
+    {
+      "fact": "Richard K. Fox deposited $1,000 with Harry Hill and challenged on Allen's behalf any pugilist, John L. Sullivan preferred, for the championship of the world, $1,000 to $2,500 a side, within 100 miles of New Orleans within three months of signing articles",
+      "date": "1882-10-30",
+      "people": ["Richard K. Fox", "John L. Sullivan", "Harry Hill"],
+      "places": ["New York", "New Orleans"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same item and page as 655 but a fuller crop; this one is the better copy to keep."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "674",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The whole 'General Sporting Notes' column (rowing, horses, wrestling, quail); only the last paragraph, on the benefit for 'Gaffer' Johnson, mentions Allen." },
+  "ocr": { "status": "rough", "notes": "Gist readable but many character errors ('Tem Alien' for 'Tom Allen', 'Jobn-on, an old ime oe sporting nomin' for 'Johnson, an old time English sporting man')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Kelly to Spar at Benefit, First Time Since Allen Set-To" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Kelly would spar Fred Zacritz at a benefit for 'Gaffer' Johnson, his first public appearance since his memorable set-to with Tom Allen at the old Theatre Comique." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican: St. Louis, Sunday Morning, December 17, 1882', page 13. Filed as the Missouri Republican (St. Louis Republic only from 1888)." },
+  "facts": [
+    {
+      "fact": "Allen had a memorable set-to with Tom Kelly at the old Theatre Comique in St. Louis some years before 1882",
+      "date": "",
+      "people": ["Tom Kelly"],
+      "places": ["Theatre Comique, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Date of the Allen-Kelly set-to not given ('some years ago')."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "678",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "wrong_article", "notes": "Crop shows only the short 'Tips. At Home and Abroad' item (Allen and Fred Watkins weighed at 202 and 200 pounds). The article the title and summary describe, 'Tom Allen Returns to St. Louis After Six Years' Absence', sits at the top of column 1 of the page and is not in the crop. Needs a recrop." },
+  "ocr": { "status": "unusable", "notes": "Transcript matches the Tips item in the crop, not the return article; the return article has no transcript." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, the ex-champion, returned to St. Louis hale and hearty after six years' absence." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, December 30, 1882, page 5." },
+  "facts": [
+    {
+      "fact": "Allen returned to St. Louis after six years' absence",
+      "date": "1882-12",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "016"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Fact taken only from the headline and deck of the return article, readable on the scaled page; its body is too small to read. Summary 'several years in England' corrected to the headline's 'six years'; the body text cannot be checked until recropped."
+}

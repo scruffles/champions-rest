@@ -1,0 +1,26 @@
+{
+  "id": "681",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Right side of the column is cut off throughout, including the headline; the crop is a long multi-item sporting column (Muldoon, billiards, gymnasium). The Allen part is one line in 'The Sprinting Tourney', which is readable." },
+  "ocr": { "status": "rough", "notes": "Transcript follows the cropped column, so every line is truncated at the right." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen to Referee Sprint Handicap at Sportsman's Park" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that heats were drawn at Tom Kelly's for a 135-yard handicap sprint at Sportsman's Park the next Sunday, with Tom Allen to act as referee." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Friday Morning, January 26, 1883, page 6. Missouri Republican until 1888." },
+  "facts": [
+    {
+      "fact": "Allen was named referee of a 135-yard handicap sprint at Sportsman's Park, St. Louis",
+      "date": "1883-01-28",
+      "people": ["Tom Kelly"],
+      "places": ["Sportsman's Park, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "A wider crop of just 'The Sprinting Tourney' item would be better. Race date is 'next Sunday' after Friday Jan 26, 1883."
+}

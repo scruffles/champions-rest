@@ -1,0 +1,15 @@
+{
+  "id": "688",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "wrong_article", "notes": "Clipping is the Sporting column's billiard tourney report (Catton v. Reed at Mussey's) under the headline deck 'Ex-Champion Tom Allen Has a Set-To with Morris O'Connell.' The Allen item itself ('Ex-Champion Tom Allen in the Ring') is further down the same column and is clipped as article 689. Top deck line 'The Thirteenth Game of the Billiard Tourney Won by Catton' is partly cut off." },
+  "ocr": { "status": "good", "notes": "Transcript matches the billiards text in the clipping; first line is garbage from the cut-off deck." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican's sporting column, headed with Tom Allen's set-to with Morris O'Connell, reported mainly on W. H. Catton's win over Louis Reed in the billiard tourney at Mussey's parlors." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican: St. Louis, Thursday Morning, February 22, 1883', page 5. Before 1888, so Missouri Republican." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Likely a duplicate of 689 (same page, same headline group); the Allen text is only in 689. Consider removing 688 or re-cropping it to the Allen item. Allen facts recorded under 689."
+}

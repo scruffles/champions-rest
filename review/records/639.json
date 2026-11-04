@@ -1,0 +1,26 @@
+{
+  "id": "639",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Column of 'Tips. At Home and Abroad' sporting notes; only the Jack Stewart item (continues from crop-1 into crop-2) mentions Allen. That item is complete." },
+  "ocr": { "status": "good", "notes": "Stewart item readable; minor errors ('defeaied', 'gioves')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat noted that Jack Stewart, the giant pugilist of Glasgow, Scotland, spoken of as an opponent for Paddy Ryan, had been beaten by Tom Allen with the gloves for the championship before leaving England." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, December 12, 1880, page 15" },
+  "facts": [
+    {
+      "fact": "Allen defeated Jack Stewart, the giant pugilist of Glasgow, Scotland, with the gloves for the championship in England, before Stewart left for America",
+      "date": "1880",
+      "people": ["Jack Stewart"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Date of the Stewart contest not given; 1880 or earlier, during Allen's stay in England."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "651",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item 'Shot at the \"Shades\"'; the last piece also catches the next headline 'Hobbs' Horoscope'."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; scattered errors ('Durroi's' for Carroll's, 'Nat Y. Kelly')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Billy Carroll, Backer of Allen's Fights, Shoots Man in His Saloon"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Billy Carroll, once the banker for prize fights in which Tom Allen appeared, shot clerk Nat F. Kelly in his Pine Street saloon, the 'Carroll Shades'; Kelly was not expected to live."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Monday Morning, February 13, 1882', page 4. The shooting was the previous afternoon, Feb. 12."
+  },
+  "facts": [
+    {
+      "fact": "Billy Carroll, a St. Louis saloon and variety-theater manager, had been the banker in various sporting enterprises, notably the prize fights in which Allen appeared",
+      "date": "",
+      "people": [
+        "Billy Carroll"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article is about Carroll's shooting of Kelly; Allen is named only in Carroll's background. The current summary says Carroll managed fights 'with' Allen; the paper says he was the banker for fights in which Allen appeared."
+}

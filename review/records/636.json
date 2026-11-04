@@ -1,0 +1,15 @@
+{
+  "id": "636",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Single editorial paragraph, complete." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat joked that many Second District Democrats would prefer Tom Allen the prize fighter to his namesake, railroad man Thomas Allen, as their candidate for Congress." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Friday Morning, October 15, 1880, page 4 (editorial page)." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Political quip; the candidate is Thomas Allen the railroad builder, not the boxer. No facts about the boxer."
+}

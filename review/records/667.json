@@ -1,0 +1,92 @@
+{
+  "id": "667",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The headline and most of the story are included, but the clipping ends mid-sentence ('and the audience hissed. In the'). On the page the article continues at the top of the next column (the rest of the Allen-Rooke wind-up). The lower part of crop-3 is blank page."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "The first half is mostly right; the Sullivan speech has many garbled phrases ('stopped jb saggy Phare knocking', 'plibeg cod ol gays'), and the end is garbled."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reprinted a New York Times account of Tom Allen's first American appearance since his return, at Madison Square Garden, where Sullivan spoke and the crowd hissed Allen's tame bout with George Rooke."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Exhibitions",
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Friday Morning, December 1, 1882', page 2. Reprinted from the New York Times; 'last evening' there was Monday, November 27, 1882."
+  },
+  "facts": [
+    {
+      "fact": "Allen made his first public appearance in America since his return from abroad at an exhibition in the Art Gallery of Madison Square Garden; over 1,500 got in and about 3,800 were shut out",
+      "date": "1882-11-27",
+      "people": [],
+      "places": [
+        "Madison Square Garden, New York"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "John L. Sullivan took the platform and said he had not come to make a match with Allen and would not be permitted by the police to spar him",
+      "date": "1882-11-27",
+      "people": [
+        "John L. Sullivan"
+      ],
+      "places": [
+        "Madison Square Garden, New York"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, in a faint voice, told the crowd he had not invited Sullivan to spar, had been told they would not be permitted to, and was not responsible for what the Police Gazette printed",
+      "date": "1882-11-27",
+      "people": [
+        "John L. Sullivan"
+      ],
+      "places": [
+        "Madison Square Garden, New York"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's wind-up with George Rooke was a tame affair; after the first round the audience hissed, seeing Allen was not good enough for Rooke",
+      "date": "1882-11-27",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [
+        "Madison Square Garden, New York"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Recrop to take in the end of the article at the top of the next column. Allen's remarks are reported indirectly, so none is recorded as a quote. The current summary names the New York Times as the reporter; the article is filed under the Globe-Democrat, which reprinted it."
+}

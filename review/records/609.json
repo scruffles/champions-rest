@@ -1,0 +1,15 @@
+{
+  "id": "609",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "wrong_article", "notes": "Clipping is the lead sports story about a lioness and Texas bull fight in San Antonio; its headline deck only mentions 'The Way in Which Davis Was Whipped by Tom Allen'. The Allen item ('The Ring. How Allen Whipped Davis') is in the third column of the same page, which is the clipping used for article 610." },
+  "ocr": { "status": "unusable", "notes": "Transcript is a fair OCR of the lion-and-bull story, not of the Allen item" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat printed a London account of Tom Allen's victory over Charley Davis, champion of the United Kingdom, at St. George's Hall for the championship of the world and £200 a side." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, April 7, 1878" },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Probably a duplicate of 610 (same page, same date). A human should either recrop to the Ring column or remove this entry. No facts taken because the clipping does not contain the Allen text; summary is based on the page headline and the 610 item."
+}

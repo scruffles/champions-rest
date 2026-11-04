@@ -1,0 +1,56 @@
+{
+  "id": "630",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Gist readable; '$2 gg tel the prams beg pag' should be '$2,000 and the championship', 'SERINE LD' is 'according'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, in London, conditionally accepted John Dwyer's challenge for $2,000 and the American championship, the fight to be within fifty miles of St. Louis or Pittsburg." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, June 4, 1879, page 3. Dispatch reads 'New York, June 1' (could be June 3; small type)." },
+  "facts": [
+    {
+      "fact": "From London, Allen conditionally accepted John Dwyer's challenge to fight for $2,000 and the championship of America",
+      "date": "1879-06",
+      "people": ["John Dwyer"],
+      "places": ["London, England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's conditions: the fight within three months of signing articles, within fifty miles of St. Louis or Pittsburg, under the new London prize ring rules but with a sixteen-foot ring",
+      "date": "1879-06",
+      "people": ["John Dwyer"],
+      "places": ["St. Louis", "Pittsburg"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen claimed Dwyer could not claim the championship until he met him, since Allen had kept a challenge open to the world since his fight with Goss in Kentucky and had won the title three times",
+      "date": "1879-06",
+      "people": ["John Dwyer", "Joe Goss"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was in London, England, in June 1879",
+      "date": "1879-06",
+      "people": [],
+      "places": ["London, England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

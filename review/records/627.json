@@ -1,0 +1,26 @@
+{
+  "id": "627",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors (e.g. 'Gallagher' dropped, 'Billy Dwyer' garbled)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported from New York on the aftermath of John Dwyer's win over Elliott, adding that Tom Allen was expected to dispute Dwyer's title, having been sent letters guaranteeing him $1,000 stakes and expenses." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Monday Morning, May 12, 1879, page 7. Dispatch dated New York, May 11." },
+  "facts": [
+    {
+      "fact": "Allen was expected to dispute John Dwyer's claim to the championship, letters having been sent to him guaranteeing $1,000 for stakes and his expenses",
+      "date": "1879-05",
+      "people": ["John Dwyer"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper names Dwyer's opponent 'Jos. Elliott' (Jimmy Elliott); it adds that Dwyer was not thought likely to fight again."
+}

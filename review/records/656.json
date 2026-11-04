@@ -1,0 +1,26 @@
+{
+  "id": "656",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole 'News Notes and Comments' column of unrelated one-line items; only the Richard K. Fox item (piece 5) is about Allen. Last strip is from the next column (walking match)." },
+  "ocr": { "status": "good", "notes": "The Allen item is transcribed correctly" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican noted that Richard K. Fox wanted to back Tom Allen against John L. Sullivan or any other pugilist for the championship of the world." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Tuesday Morning, October 31, 1882, page 4 (Missouri Republican); not yet the St. Louis Republic" },
+  "facts": [
+    {
+      "fact": "Richard K. Fox offered to back Allen against John L. Sullivan or any other pugilist for the championship of the world",
+      "date": "1882-10-30",
+      "people": ["Richard K. Fox", "John L. Sullivan"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same challenge as 655/657, one-line brief."
+}

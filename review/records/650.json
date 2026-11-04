@@ -1,0 +1,124 @@
+{
+  "id": "650",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item 'About Prize-Fighters', headline to closing rule."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Readable with minor errors ('the te gent' for 'the championship', 'Gogs')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Famous American Prize Fights Listed, Including Allen's"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican listed famous American prize fights, including Tom Allen's wins over Bill Davis and McCoole, his loss to Charley Gallagher, and his 1876 loss to Joe Goss in Kentucky, after which he gave bonds and left for England."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Fights",
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead: 'The Republican: St. Louis, Thursday Morning, February 9, 1882', page 7. Before 1888 the paper is filed as the Missouri Republican, not the St. Louis Republic."
+  },
+  "facts": [
+    {
+      "fact": "Allen whipped Bill Davis at Chouteau Island in January 1869",
+      "date": "1869-01",
+      "people": [
+        "Bill Davis"
+      ],
+      "places": [
+        "Chouteau Island, near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Charley Gallagher knocked Allen out of time on Carroll Island near St. Louis on Feb. 23, 1869",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "Carroll Island, near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen whipped 'James C. Gallagher' near St. Louis on Nov. 5, 1870",
+      "date": "1870-11-05",
+      "people": [
+        "Gallagher"
+      ],
+      "places": [
+        "near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen whipped Mike McCoole near St. Louis on Sept. 23, 1873, in nine rounds lasting twenty minutes",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Joe Goss beat Allen for the championship in Kentucky on Sept. 7, 1876, in twenty-one rounds lasting fifty-three minutes; both principals were arrested",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the Goss fight Allen gave bonds and left for England, while Goss served out his sentence",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Kentucky",
+        "England"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "015"
+    }
+  ],
+  "needs_human": false,
+  "notes": "A general history of the American ring; Allen is one of several fighters, so focus is secondary. The paper names the Nov. 1870 opponent 'James C. Gallagher' (recorded as printed; likely Charley Gallagher). Fact 015 dates the England trip to May 1877, so the link is tentative."
+}

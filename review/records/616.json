@@ -1,0 +1,26 @@
+{
+  "id": "616",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Starts at the 'The Fight' subhead. The headline deck ('Hard Blows. A Rattling Glove-Fight in the Heart of Gotham...') and opening paragraph are cut off. The Allen mention is included." },
+  "ocr": { "status": "good", "notes": "Readable; small errors (Monstrey's, Colburn/Coburn, 'battering ram')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, May 19, 1878, page 6. Special dispatch from New York, May 18." },
+  "facts": [
+    {
+      "fact": "Joe Goss beat Allen in their Kentucky fight on a foul, which the paper said Goss 'invented' himself",
+      "date": "",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is named only once, in the description of Goss as one of Donovan's seconds. The fight date is not given in the article."
+}

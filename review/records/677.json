@@ -1,0 +1,96 @@
+{
+  "id": "677",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole Allen article from the 'Sporting' head to the end; the following 'Sprinting' item is excluded." },
+  "ocr": { "status": "rough", "notes": "Gist readable but many errors: 'Eooney's' for 'Looney's', 'emg iy' for 'Southern', 'ALLEN ILED' for 'ALLEN SAILED', 'Jack sang' for 'Jack Looney', 'Brettle' passage garbled." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Returns to St. Louis After Six Years' Absence" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen returned to St. Louis after six years away, looking healthy, blamed 'The Parson' of Chicago for stories of his dissipation, and planned to settle and reopen his old business." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Personal life", "Saloon", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Saturday Morning, December 30, 1882', page 5." },
+  "facts": [
+    {
+      "fact": "Allen returned to St. Louis after about six years' absence and was welcomed at Looney's, Kelly's and other sporting resorts",
+      "date": "1882-12-29",
+      "people": ["Jack Looney"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "016"
+    },
+    {
+      "fact": "Allen's old establishment, the Champion's Rest on Washington Avenue between Fourth and Fifth Streets, had been replaced by a large business building",
+      "date": "1882-12",
+      "people": [],
+      "places": ["Washington Avenue between Fourth and Fifth Streets, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had sailed for England about six years earlier",
+      "date": "1877",
+      "people": [],
+      "places": ["St. Louis", "England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "015"
+    },
+    {
+      "fact": "His benefit in Birmingham on first returning to England was said to be the largest there since Bob Brettle's seventeen years earlier",
+      "date": "1877",
+      "people": ["Bob Brettle"],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen blamed a Chicago sporting man known as 'The Parson' for stories of his dissipation and drunken street brawls, saying they began because he refused to take part in hippodromes under his management",
+      "date": "1882",
+      "people": ["\"The Parson\""],
+      "places": ["Chicago"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said his set-to with George Rooke was agreed to involve no rough work, and that he fell only because his foot broke through the staging",
+      "date": "1882",
+      "people": ["George Rooke"],
+      "places": [],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen suffered severe sea-sickness crossing the ocean, which he blamed for his reported poor condition",
+      "date": "1882",
+      "people": [],
+      "places": ["Atlantic Ocean"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen decided to make St. Louis his permanent home and planned to choose a location and resume his old saloon business",
+      "date": "1882-12",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Date and place of the Rooke set-to not stated in the article. Allen's statements are paraphrased, not direct quotes. The 1877 departure date is inferred from 'six years'."
+}

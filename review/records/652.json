@@ -1,0 +1,37 @@
+{
+  "id": "652",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "A 'Tips. Local and Elsewhere' sports column of unrelated items (baseball, billiards, pedestrian whip, Muldoon); only the last paragraph, Billy Madden's remarks, mentions Allen."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Readable; 'eyesore we match' should be 'Ryan-Sullivan match', 'palmy or.' should be 'palmy days.'"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Billy Madden Says Sullivan Could Have Beaten Allen"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat quoted Sullivan's trainer Billy Madden calling Tom Allen a first-class man and a hard hitter, but saying the Boston Boy could have whipped him in his palmy days."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Thursday Morning, March 2, 1882', page 6."
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Only an opinion of Allen by Madden; no events, travel or Allen quotes, so no facts recorded."
+}

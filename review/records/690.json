@@ -1,0 +1,26 @@
+{
+  "id": "690",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Billed for Athletic Tournament in Belleville" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen, \"the ex-champion of the world,\" was expected at a grand athletic tournament at the old Turner hall in Belleville the following Friday, with Tom Kelly and John Brooks." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican: St. Louis, Sunday Morning, February 25, 1883', page 2." },
+  "facts": [
+    {
+      "fact": "Allen was announced to appear at a grand athletic tournament at the old Turner hall in Belleville, Illinois, with Prof. John Brooks and Tom Kelly",
+      "date": "1883-03-02",
+      "people": ["John Brooks", "Tom Kelly"],
+      "places": ["Turner hall, Belleville, Illinois"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Event date is 'next Friday' after Sunday Feb 25, 1883, i.e. March 2; the paper says attendance 'it is claimed', so it was only announced."
+}

@@ -1,0 +1,98 @@
+{
+  "id": "659",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "gist readable; column rule causes many garbled words and dropped words"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "St. Louis Sporting Men Discuss Allen's Challenge to Sullivan"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen's challenge to John L. Sullivan set the St. Louis fancy gossiping; Tom Kelly, Billy Carroll and Jack Looney judged Allen the better boxer but younger, heavier Sullivan the favorite."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, November 1, 1882"
+  },
+  "facts": [
+    {
+      "fact": "Tom Kelly said he thought Allen was born in 1840, making him 42",
+      "date": "",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "low",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen and Bill Ryall came to St. Louis with a letter of introduction from Frank Queen to Jack Looney and Billy Carroll",
+      "date": "",
+      "people": [
+        "Bill Ryall",
+        "Frank Queen",
+        "Jack Looney",
+        "Billy Carroll"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Billy Carroll said Allen had left St. Louis a few years earlier and sailed for England, where he had been dissipating",
+      "date": "",
+      "people": [
+        "Billy Carroll"
+      ],
+      "places": [
+        "St. Louis",
+        "England"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "015"
+    },
+    {
+      "fact": "Carroll said Allen easily defeated every man he met in America except Mace, who beat him",
+      "date": "",
+      "people": [
+        "Billy Carroll",
+        "Jem Mace"
+      ],
+      "places": [
+        "America"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Tom Kelly seconded both Allen and McCoole in fights near St. Louis."
+}

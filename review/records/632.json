@@ -1,0 +1,56 @@
+{
+  "id": "632",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors ('Lofidon', 'Canaca', 'BHiliott')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen, formerly of St. Louis but now in London, challenged John Dwyer or any man for $1,000 a side, in Canada within 100 miles of Buffalo or within 50 miles of Pittsburg." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, Friday Morning, November 21, 1879 (page 1). New York dispatch dated Nov. 20." },
+  "facts": [
+    {
+      "fact": "From London, Allen challenged John Dwyer or any man in the world to fight at catch weights under London prize ring rules for $1,000 a side, to contest Dwyer's title to the championship of America",
+      "date": "1879-11",
+      "people": ["John Dwyer"],
+      "places": ["London, England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen proposed the fight take place in Canada within 100 miles of Buffalo or within 50 miles of Pittsburg",
+      "date": "1879-11",
+      "people": ["John Dwyer"],
+      "places": ["Canada", "Buffalo", "Pittsburg"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, formerly of St. Louis, was living in London in November 1879",
+      "date": "1879-11",
+      "people": [],
+      "places": ["London, England", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Dwyer, out of training and entering politics, was not expected to accept Allen's challenge",
+      "date": "1879-11-20",
+      "people": ["John Dwyer"],
+      "places": ["Brooklyn"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

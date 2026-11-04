@@ -1,0 +1,36 @@
+{
+  "id": "633",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Top of the item is missing: the headline 'A Ring Reminiscence. Rooke's Challenge for the Middle-Weight Championship' and Rooke's printed challenge above 'This Rooke will be remembered' are outside the clipping (visible on the page, top of column 1)." },
+  "ocr": { "status": "rough", "notes": "Gist readable; many garbled words (e.g. 'to x' for 'to Pittsburg', '£1,500' for '$1,500', the telegram's threat clause garbled)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat recalled that in May 1875 George Rooke lured Tom Allen to Pittsburg for a match, then never appeared and tried to recover his stakes; Allen had trained at McKee's Rocks." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights", "Challenges", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, December 18, 1879, page 7." },
+  "facts": [
+    {
+      "fact": "Allen trained at McKee's Rocks near Pittsburg for a match with George Rooke set for May 1875",
+      "date": "1875-05",
+      "people": ["George Rooke"],
+      "places": ["McKee's Rocks, Pennsylvania", "Pittsburg, Pennsylvania"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Allen-Rooke match fell through: Rooke never appeared in the ring, and his principal backer demanded the $1,500 stakes back from stakeholder Harry Hill on May 16, 1875, the day before the fight",
+      "date": "1875-05-16",
+      "people": ["George Rooke", "Harry Hill", "Arthur Chambers"],
+      "places": ["Pittsburg, Pennsylvania"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective prompted by Rooke's new 1879 challenge for the middle-weight championship (not in the clipping)."
+}

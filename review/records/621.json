@@ -1,0 +1,36 @@
+{
+  "id": "621",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping is the 'The Ring' section: 'Tom Allen Coming Back' (top, about Allen), then unrelated 'Clark and Chambers' and 'Kelly and M'Coole' items." },
+  "ocr": { "status": "rough", "notes": "Allen paragraph mostly readable ('remainehady' for 'remain shady', 'Johnny es wi Paddy Kyun' for 'Johnny Dwyer, Paddy Ryan'); later items more garbled." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Talks of Returning to America" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, out of sight since his Kentucky fight with Joe Goss, wrote a St. Louis friend that he might return to America, and that a San Francisco sport's unknown was said to be Allen." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: Sunday Morning, November 24, 1878, page 3; part of the 'Sporting Spice' column (see article 622, the same column's headline)." },
+  "facts": [
+    {
+      "fact": "Allen wrote to a St. Louis friend that he was thinking of returning to America, having stayed out of sight since his fight with Joe Goss in Kentucky",
+      "date": "1878-11",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Johnny Minan of San Francisco offered to match an unknown, said to be Allen, for $1,000 or $2,000 a side against Johnny Dwyer, Paddy Ryan or Mike McCoole",
+      "date": "1878-11",
+      "people": ["Johnny Minan", "Johnny Dwyer", "Paddy Ryan", "Mike McCoole"],
+      "places": ["San Francisco"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article does not say where Allen was writing from. Article 622 is the headline of the same column and likely a duplicate."
+}

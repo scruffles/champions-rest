@@ -1,0 +1,26 @@
+{
+  "id": "620",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "'MeCoole' for McCoole; otherwise accurate." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Post reported that Mike McCoole, who fought Tom Allen twice for the championship of America and had been steamboating since Allen beat him, had decided to re-enter the ring." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Post", "notes": "Masthead reads St. Louis Evening Post, Tuesday Evening, November 12, 1878 (Vol. I, No. 261), not the Post-Dispatch (merger came 1878-12)." },
+  "facts": [
+    {
+      "fact": "Allen and Mike McCoole fought twice for the championship of America; McCoole won the first on a wrangle and Allen beat him badly in the second",
+      "date": "",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

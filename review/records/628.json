@@ -1,0 +1,46 @@
+{
+  "id": "628",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full 'The Ring / Allen vs. Dwyer' item; the column-1 deck on the page also reads 'Tom Allen Almost Certain to be Matched Against Dwyer'." },
+  "ocr": { "status": "rough", "notes": "Mostly readable; several garbled words ('egpotiowen' for 'a gentleman', 'fag' for 'Dwyer', 'seooee' for 'sporting')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Expected to Return from England to Fight Johnny Dwyer" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen was expected to recross the Atlantic to contest Johnny Dwyer's claim to the American title, and his St. Louis backer said a match was only a question of time." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, May 13, 1879, page 3." },
+  "facts": [
+    {
+      "fact": "Allen was in England in May 1879 and was expected to recross the Atlantic to contest Johnny Dwyer's claim to the American championship",
+      "date": "1879-05",
+      "people": ["Johnny Dwyer"],
+      "places": ["England", "America"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's St. Louis backer said a match between Allen and Dwyer was a mere question of time, and Allen's friends would make it for as much money as the opposition wanted",
+      "date": "1879-05-12",
+      "people": ["Johnny Dwyer"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's backer said his brother was then in England and that Allen would almost certainly accompany him on his return to America",
+      "date": "1879-05",
+      "people": [],
+      "places": ["England", "America"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "'His brother' most likely means the backer's brother, though the wording is ambiguous."
+}

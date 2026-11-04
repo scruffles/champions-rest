@@ -1,0 +1,86 @@
+{
+  "id": "643",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping ends at the subhead 'Mike being cut to pieces'; the rest of the article (the 1873 McCoole fight and later) continues further down column 1 and is not in the crop. The bottom of the last piece also includes the end of an unrelated quoit-match item from another column." },
+  "ocr": { "status": "rough", "notes": "Gist and most names and dates are recoverable, but many words, figures and some dates are garbled (e.g. 'January 32, 1889' for January 12, 1869; 'Ryall' as 'Bye}'). OCR text also includes the unrelated quoit item at the end." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat published a history of prize fights around St. Louis since 1847, ahead of the Ryan-Sullivan fight, recounting Tom Allen's 1869 American debut against Bill Davis and his fights with Gallagher and McCoole." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights", "Legal", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Monday Morning, January 2, 1882, page 7." },
+  "facts": [
+    {
+      "fact": "Allen came to St. Louis from England along with Ryall and made his American debut beating Bill Davis on Chouteau Island in 43 rounds",
+      "date": "1869-01-12",
+      "people": ["Bill Davis", "Ryall"],
+      "places": ["Chouteau Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Charley Gallagher beat Allen on Carroll Island in two rounds lasting three minutes, for $1,000 a side",
+      "date": "1869-02-23",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Mike McCoole on Foster's Island for $1,000 a side; after nine rounds in thirteen minutes McCoole's friends cut the ropes and broke into the ring, and the referee gave McCoole the verdict",
+      "date": "1869-06-15",
+      "people": ["Mike McCoole"],
+      "places": ["Foster's Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the McCoole fight, Allen sued to recover his stake money and got it back",
+      "date": "1869",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Charley Gallagher on Foster's Island in eleven rounds lasting 26 minutes, for $500 a side",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher"],
+      "places": ["Foster's Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen bet $1,000 to $500 that he could whip the winner of the Jim C. Gallagher-Owen Meekin fight, and on November 5 he beat Gallagher in sixteen rounds lasting 23 minutes 30 seconds",
+      "date": "1870-11-05",
+      "people": ["James C. Gallagher", "Owen Meekin"],
+      "places": ["Carroll Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In the summer of 1873 Allen arranged a rematch with Mike McCoole, and they fought on Chouteau Island on September 23",
+      "date": "1873-09-23",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The year of the November 5 fight is inferred from the article's order (it follows a January 25 and an August 31 fight after the 1869 events), and the place is likely, not stated outright. The 1873 McCoole fight result is in the continuation outside the crop; only the subhead 'Mike being cut to pieces' is visible. Article 647 says the August 17, 1869 Gallagher fight was for $1,000 a side and was declared a draw, which contradicts this article."
+}

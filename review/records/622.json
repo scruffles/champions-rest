@@ -1,0 +1,15 @@
+{
+  "id": "622",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping is only the 'Sporting Spice' column headline deck (one line: 'Tom Allen Anxious to Again Enter the American Ring') and the turf items below it. The Allen text itself is further down the column and is article 621's clipping." },
+  "ocr": { "status": "good", "notes": "Matches the clipping; contains no Allen text beyond the headline." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Sporting Spice Headline: Tom Allen Anxious to Return" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's Sporting Spice column carried the headline 'Tom Allen Anxious to Again Enter the American Ring'; the clipping shows only the headline and horse-racing news." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: Sunday Morning, November 24, 1878, page 3." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Likely a duplicate of article 621 (same column, same date); a human should decide whether to merge, re-crop to include the Ring section, or remove."
+}

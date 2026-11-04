@@ -1,0 +1,55 @@
+{
+  "id": "658",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Headline 'Pedestrians and Pugilists'; first paragraph is about a pedestrian race, the second paragraph is the Allen item. Both complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "minor errors (Tem Allen, John 8S. Sullivan)"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported from New York that Richard K. Fox had deposited $1,000 with Harry Hill to back Tom Allen, ex-champion of America, against any pugilist, John L. Sullivan preferred, for the championship of the world."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Republican: St. Louis, Tuesday Morning, October 31, 1882'; the paper was the Missouri Republican until 1888."
+  },
+  "facts": [
+    {
+      "fact": "Richard K. Fox deposited $1,000 with Harry Hill and challenged on Allen's behalf any pugilist, John L. Sullivan preferred, for the championship of the world and $1,000 to $2,500 a side, the fight within 100 miles of New Orleans within three months of signing",
+      "date": "1882-10-30",
+      "people": [
+        "Richard K. Fox",
+        "Harry Hill",
+        "John L. Sullivan"
+      ],
+      "places": [
+        "New York",
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

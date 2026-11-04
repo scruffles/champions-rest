@@ -1,0 +1,15 @@
+{
+  "id": "653",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'How Pugilists Die Early' item under 'The Ring'" },
+  "ocr": { "status": "rough", "notes": "Gist readable but names garbled: 'Charley poliggner' is Charley Gallagher, 'tape-worm' lost, 'Country McCloskey' lost, ages wrong (Broughton 85, Jem Belcher 30, average 63)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Pugilists die early; Gallagher, who beat Allen, among them" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat listed the short lives of American prize fighters, noting that Charley Gallagher, who beat Tom Allen, died of a tapeworm in Florida before 40." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, April 8, 1882" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen appears only as the man Gallagher beat; no new facts about Allen himself. Current title's 'Tom Allen survives' is not stated in the article."
+}

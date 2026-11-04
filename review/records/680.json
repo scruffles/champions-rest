@@ -1,0 +1,26 @@
+{
+  "id": "680",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "'A Fool's Errand' item complete." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that George Morrow offered to bet $500 that Tom Allen could not knock out J. Miles in four rounds, but the offer proved a bluff; no man or money could be found." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, January 6, 1883, page 5." },
+  "facts": [
+    {
+      "fact": "George Morrow offered to bet $500 that Allen could not knock out J. Miles in four three-minute rounds under Queensberry rules; the challenge was judged a bluff and no backer or money was found",
+      "date": "1883-01-03",
+      "people": ["George Morrow", "J. Miles", "Tom Kelly", "Morris O'Connell"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary wrongly says Allen was to knock out 'J. Miles and other fighters'; the second offer was to match Miles against the O'Connell-Walling winner."
+}

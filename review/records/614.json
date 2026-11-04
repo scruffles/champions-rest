@@ -1,0 +1,15 @@
+{
+  "id": "614",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "wrong_article", "notes": "Clipping is the headline deck and the 'Turf Scandal' (John G. Blow / Bill Bass) story. Allen appears only in one deck line, 'O'Leary Pays His Respects to Tom Allen.' The O'Leary item itself ('Pedestrianism. Tom Allen Acts the Dog', top of column 6 on page 3) is not in the clipping." },
+  "ocr": { "status": "good", "notes": "Transcript matches the clipping, which is the horse-racing story, not the Allen item." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that champion pedestrian Daniel O'Leary, arriving in Chicago, said Tom Allen had sneered at and insulted him in London during the last hundred miles of his walk." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, May 19, 1878, page 3. Same page and story as article 615 (likely duplicate)." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Probable duplicate of 615: same page, same O'Leary item. This clipping holds only the headline deck. Re-crop to the Pedestrianism item or merge with 615. Facts are recorded on 615. Focus here is passing because the clipping only names Allen in the deck."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "672",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "'Tips. At Home and Abroad' sporting notes column; only the Tom Allen and James Elliott paragraph is about Allen" },
+  "ocr": { "status": "good", "notes": "Allen paragraph readable ('pustlists', 'lust')" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Fails to Appear for Elliott Match" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, December 12, 1882, page 5" },
+  "facts": [
+    {
+      "fact": "Allen failed to appear at Parson Davies' place in Chicago to put up the preliminary forfeit for a championship prize fight with James Elliott; Elliott and his backer were present",
+      "date": "1882-12-11",
+      "people": ["James Elliott", "Parson Davies"],
+      "places": ["Parson Davies' place, Chicago"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same news as 670 and 671. Current title wrongly implies both men failed to meet; only Allen was absent."
+}

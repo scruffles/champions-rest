@@ -1,0 +1,26 @@
+{
+  "id": "642",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Mathaei Murdered' article across three pieces; Allen mentioned only in the 'Their Record' section" },
+  "ocr": { "status": "rough", "notes": "column-rule streak causes dropped words on the right edge; gist readable" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Murder Suspect's Father Was Beaten by Allen's Opponent Dublin Tricks" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported the arrests in the fatal Turner Hall beating of John L. Mathaei, recalling that a suspect's father was maimed about ten years earlier by \"Dublin Tricks,\" then training to fight Tom Allen." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, November 6, 1881, page 7" },
+  "facts": [
+    {
+      "fact": "About ten years earlier, \"Dublin Tricks\" was in St. Louis training for a prize fight with Allen",
+      "date": "1871",
+      "people": ["Dublin Tricks"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title ('Tom Allen's Saloon Operating') and summary are wrong; the article is about a murder. Year is approximate ('some ten years ago')."
+}

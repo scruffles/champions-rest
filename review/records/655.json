@@ -1,0 +1,26 @@
+{
+  "id": "655",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Right edge of the column is cut off (ends of lines missing); 657 is a fuller crop of the same item on the same page" },
+  "ocr": { "status": "rough", "notes": "Line ends lost to the crop; 'JOBN IVAN' is John Sullivan, '$1,' is $1,000, '100 miles of New Orleans' garbled" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Richard K. Fox deposited $1,000 with Harry Hill to back Tom Allen against any pugilist, John L. Sullivan preferred, for the world championship near New Orleans." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, October 31, 1882, page 4. Duplicate of 657." },
+  "facts": [
+    {
+      "fact": "Richard K. Fox deposited $1,000 with Harry Hill and challenged on Allen's behalf any pugilist, John L. Sullivan preferred, for the championship of the world, $1,000 to $2,500 a side, within 100 miles of New Orleans within three months of signing articles",
+      "date": "1882-10-30",
+      "people": ["Richard K. Fox", "John L. Sullivan", "Harry Hill"],
+      "places": ["New York", "New Orleans"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same item and page as 657; consider keeping only one. Allen is called 'the ex-champion of America'."
+}

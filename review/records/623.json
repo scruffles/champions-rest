@@ -1,0 +1,26 @@
+{
+  "id": "623",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Top of 'The Fistic Folk' column: headlines, the Elliott record and the light-weight item; the rest of the sporting column (base ball, turf, etc.) is not included and does not concern Allen." },
+  "ocr": { "status": "rough", "notes": "Gist readable; many letter errors and a few garbled phrases (e.g. Kerrigan, Con Orem, 'subsequently backed out')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Named as a Second in Jimmy Elliott's Ring Record" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reviewed Jimmy Elliott's ring record before his match with Johnny Dwyer, noting that Tom Allen was one of Elliott's seconds when he beat Charley Gallagher near Detroit in 1868." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, December 29, 1878, page 6." },
+  "facts": [
+    {
+      "fact": "Allen was one of Jimmy Elliott's seconds when Elliott beat Charley Gallagher for $600 on Peach Island near Detroit, Elliott being declared the victor at the end of the 23rd round after 1 hour 17 minutes",
+      "date": "1868-11-12",
+      "people": ["Jimmy Elliott", "Charley Gallagher"],
+      "places": ["Peach Island, near Detroit, Michigan"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title ('Issues Challenge to Fight') is wrong: the challenge in the article is Elliott's, not Allen's. Article also calls Bill Davis 'Tom Allen's old competitor'."
+}

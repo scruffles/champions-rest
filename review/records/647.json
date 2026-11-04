@@ -1,0 +1,86 @@
+{
+  "id": "647",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The article continues at the top of the next column, after 'Instead of getting in the ring'; that continuation (which goes on to mention Allen and McCoole again) is not in the crop. The last piece (crop-7) is blank." },
+  "ocr": { "status": "good", "notes": "Readable with scattered errors; 'Ellicardville'/'Ki-ledvilie' for the training place is unclear in both the OCR and the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat described fixed or mob-ruled prize fights tied to St. Louis, saying mobs denied Allen his 1869 wins over McCoole and Gallagher and that he faked a broken arm to end his 1870 fight with Mace." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, February 5, 1882, page 6." },
+  "facts": [
+    {
+      "fact": "Allen came to St. Louis as a stranger, an Englishman sent to Billy Carroll as one willing to fight any man at any time",
+      "date": "1869",
+      "people": ["Billy Carroll"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In the McCoole fight on Foster's Island ($1,000 a side), Allen was winning after nine rounds when Jack Smith hit him in the eye with a stake and McCoole's backers cut the ropes and threatened referee Val McKinney with pistols and knives",
+      "date": "1869-06-15",
+      "people": ["Mike McCoole", "Jack Smith", "Val McKinney"],
+      "places": ["Foster's Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper said referee Val McKinney gave the McCoole fight to McCoole that night after Jack Looney and Tom Kehoe promised him $700, paying $300 down",
+      "date": "1869-06-15",
+      "people": ["Val McKinney", "Jack Looney", "Tom Kehoe", "Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In the Gallagher fight fifty miles from St. Louis ($1,000 a side), Allen was winning when Gallagher's second tossed the sponge as a trick; Gallagher struck Allen as he came to shake hands, Allen jumped the ropes and fled, and the fight was later declared a draw at a meeting on Fourth Street",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher", "Tom Kelly", "Jack Looney", "Larry Wessel"],
+      "places": ["fifty miles from St. Louis", "Fourth Street, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Jem Mace near New Orleans for $2,500 a side, entering the ring at 195 pounds instead of his usual 175 after being seen drunk days before; he claimed a broken arm when thrown and Mace was given the fight",
+      "date": "1870",
+      "people": ["Jem Mace", "Billy Carroll"],
+      "places": ["near New Orleans"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen trained for the Mace fight at the Wash Home (town name unreadable) and travelled from St. Louis to New Orleans for it",
+      "date": "1870",
+      "people": [],
+      "places": ["St. Louis", "New Orleans"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen got half the excursion money from the Mace fight, which he split with his backers Billy Carroll and John Franklin, and played the piano that night with both hands",
+      "date": "1870",
+      "people": ["Billy Carroll", "John Franklin", "Jem Mace"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "This conflicts with article 643 on the August 17, 1869 Gallagher fight: 643 gives $500 a side and says Gallagher was well whipped, while this article gives $1,000 a side and a draw. The name of the training place is unclear in the image, so it is not transcribed."
+}

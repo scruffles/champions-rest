@@ -1,0 +1,26 @@
+{
+  "id": "641",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Death of Billy Bronson' item" },
+  "ocr": { "status": "good", "notes": "minor errors ('put on the Fed ne' for 'put on the gloves', 'ihoorted' for 'good-hearted')" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Death of Billy Bronson, Gallagher's Saloon Boxer" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported the death of boxer Billy Bronson, 38, who was always at Charley Gallagher's in the days when Tom Allen, McCoole and Gallagher made their headquarters in St. Louis." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Friday Morning, April 15, 1881, page 3. Pre-1888, so Missouri Republican, not St. Louis Republic." },
+  "facts": [
+    {
+      "fact": "Allen, Mike McCoole and Charley Gallagher at one time all made their headquarters in St. Louis",
+      "date": "",
+      "people": ["Mike McCoole", "Charley Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Tag 'Legacy' is strictly for post-1903 retrospectives; this is a 1881 recollection, so tag choice could be revisited. Title suggested because Bronson did not 'recall' anything; it is his obituary."
+}

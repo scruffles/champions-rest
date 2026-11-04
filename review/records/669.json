@@ -1,0 +1,36 @@
+{
+  "id": "669",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Allen and Elliott to Fight' item" },
+  "ocr": { "status": "good", "notes": "minor errors ('econsaltation', 'tor')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported from New York that Tom Allen, after meeting R. K. Fox, agreed to accept James Elliott's challenge to fight for $1,000 and the championship of America within 1,000 miles of New Orleans." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Thursday Morning, December 7, 1882, page 3. Dateline New York, Dec. 6" },
+  "facts": [
+    {
+      "fact": "After a consultation with R. K. Fox in New York, Allen agreed to accept James Elliott's challenge to fight for $1,000 and the championship of America, within six weeks of signing articles and within 1,000 miles of New Orleans",
+      "date": "1882-12-06",
+      "people": ["James Elliott", "R. K. Fox"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was to go from New York to Chicago with W. E. Harding to arrange the match with Elliott",
+      "date": "1882-12-09",
+      "people": ["W. E. Harding", "Chas. E. Davis"],
+      "places": ["New York", "Chicago"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mike McDonald named final stakeholder. Travel date is 'Saturday' after Dec. 6, 1882 (Dec. 9); planned, not confirmed."
+}

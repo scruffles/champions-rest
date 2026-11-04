@@ -1,0 +1,36 @@
+{
+  "id": "637",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole reprinted interview with headline." },
+  "ocr": { "status": "good", "notes": "Minor errors ('1575' for 1875, 'Kenperville', 'Cioser')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Mike McCoole Recalls His Fights with Tom Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted a New Orleans Picayune interview with Mike McCoole, who survived the Florence Meyer wreck and recounted his ring career, including his two fights with Tom Allen in St. Louis." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, October 20, 1880, page 3. Reprinted from the New Orleans Picayune." },
+  "facts": [
+    {
+      "fact": "McCoole recalled beating Allen in St. Louis in eight rounds and seventeen minutes",
+      "date": "",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis, Missouri"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "McCoole recalled losing his second fight with Allen, near St. Louis, in forty minutes, and said he had not fought since",
+      "date": "1875",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis, Missouri"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "McCoole's dates are from memory: no year is given for the first Allen fight, and he puts the second in 1875, though the Allen-McCoole fight is usually dated 1873. Allen is only one paragraph of the interview."
+}

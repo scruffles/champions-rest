@@ -1,0 +1,26 @@
+{
+  "id": "693",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "East St. Louis Mayor Stops Boxing Exhibition Billed with Allen" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that a boxing entertainment at Flannigan's hall in East St. Louis, billed with Tom Allen and Tom Kelly as veterans, was abandoned after the mayor ordered police to stop it." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican: St. Louis, Friday Morning, March 30, 1883', page 6." },
+  "facts": [
+    {
+      "fact": "Allen, billed as 'the retired champion of the world', was advertised for a grand athletic entertainment at Flannigan's hall, East St. Louis, which Tom Kelly abandoned after the mayor's proclamation against it",
+      "date": "1883-03-29",
+      "people": ["Tom Kelly", "Morris O'Connell", "Fred Zachritz"],
+      "places": ["Flannigan's hall, East St. Louis, Illinois"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same event as 692. Allen is named only in the quoted poster."
+}

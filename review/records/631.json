@@ -1,0 +1,15 @@
+{
+  "id": "631",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Only part of the front-page 'Criminal Matters' headline deck: two unrelated decks (a duel, a Bates County mail robbery) plus the line 'The Pugilist Tom Allen Anxious to Fight With Dwyer'. The article itself is clipped as 632." },
+  "ocr": { "status": "good", "notes": "Headlines only; transcribed correctly." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Headline: Tom Allen Anxious to Fight Dwyer" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican's front-page news deck included the headline \"The Pugilist Tom Allen Anxious to Fight With Dwyer,\" introducing its report of Allen's challenge to John Dwyer." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, Friday Morning, November 21, 1879 (page 1). Not yet the St. Louis Republic." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Duplicate of 632 (same page; 632 is the article under this headline). Consider merging or removing."
+}

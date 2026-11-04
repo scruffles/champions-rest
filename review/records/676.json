@@ -1,0 +1,36 @@
+{
+  "id": "676",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Includes the end of an almanac notice, shop advertisements and the whole 'Sporting Sundries' column; only the Richard K. Fox paragraph is about Allen." },
+  "ocr": { "status": "good", "notes": "Readable; a few small errors elsewhere in the column." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Richard K. Fox telegraphed Charles Davies in Chicago that, after hearing of Tom Allen's conduct since leaving New York, he had dropped Allen and would not back him against Elliott." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: 'St. Louis Post-Dispatch, Thursday, December 21, 1882', page 8." },
+  "facts": [
+    {
+      "fact": "Richard K. Fox withdrew his backing of Allen for a match against Jimmy Elliott, telegraphing Charles Davies in Chicago that he had dropped Allen altogether because of his conduct",
+      "date": "1882-12",
+      "people": ["Richard K. Fox", "Charles Davies", "Jimmy Elliott"],
+      "places": ["Chicago"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had left New York for Chicago by December 1882",
+      "date": "1882-12",
+      "people": [],
+      "places": ["New York", "Chicago"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Item is solely about Allen, so focus raised to primary. The Chicago destination is implied by the telegram to Chicago, not stated outright."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "660",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "'Tips: At Home and Abroad' column of baseball notes; only the last paragraph is about Allen. Complete."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Allen paragraph mostly readable; other items garbled"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "St. Louis Fancy Await Sullivan's Answer to Allen Challenge"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that the St. Louis fancy were anxious to hear whether Sullivan would accept Fox's challenge on behalf of Tom Allen, and that a big delegation from the city would attend if the fight came off."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Same page as 659 (Nov 1, 1882, p. 5)"
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Current title and summary describe article 659 (the 'Pointers on Pugilism' discussion), not this brief item."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "675",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The 'Sparring' item ends mid-sentence ('The latter'); the rest is at the foot of the page column and not in the clipping. The Allen part, at the start, is complete." },
+  "ocr": { "status": "good", "notes": "Readable with minor errors ('did net pu inan uppvearance' for 'did not put in an appearance')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that a large crowd gathered at Tom Kelley's parlors for the Saturday night sparring, expecting Tom Allen, rumored to be on his way, but he did not appear." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican: St. Louis, Sunday Morning, December 17, 1882', page 13. Filed as the Missouri Republican (St. Louis Republic only from 1888)." },
+  "facts": [
+    {
+      "fact": "Allen was rumored to be on his way to St. Louis; a crowd waited for him at Tom Kelley's parlors but he did not appear",
+      "date": "1882-12-16",
+      "people": ["Tom Kelley"],
+      "places": ["Tom Kelley's parlors, St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "low",
+      "existing_fact": "016"
+    }
+  ],
+  "needs_human": false,
+  "notes": "'Last night' was Saturday, December 16, 1882."
+}

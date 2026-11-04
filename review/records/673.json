@@ -1,0 +1,36 @@
+{
+  "id": "673",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The whole 'Sporting Sundries' column (baseball, racing, rowing); only the paragraph beginning 'Tom Allen did not appear at Charles E. Davies' place' is about Allen." },
+  "ocr": { "status": "good", "notes": "Readable; minor errors such as 'net' for 'not', 'Eliott'/'L£ijiott' for 'Elliott', 'John 7' for 'John Troy'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen failed to appear at Charles E. Davies' place in Chicago to sign articles with Jimmy Elliott, saying he would fight the winner of the Sullivan-Elliott fight instead." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: 'St. Louis Post-Dispatch, Friday, December 15, 1882', page 8." },
+  "facts": [
+    {
+      "fact": "Allen failed to appear at Charles E. Davies' place in Chicago to sign articles for a prize fight with Jimmy Elliott",
+      "date": "1882-12-14",
+      "people": ["Jimmy Elliott", "Charles E. Davies"],
+      "places": ["Charles E. Davies' place, Chicago"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he would make no match until after the Sullivan-Elliott fight, then fight the winner with bare knuckles or gloves",
+      "date": "1882-12",
+      "people": ["John L. Sullivan", "Jimmy Elliott"],
+      "places": ["Chicago"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Event date taken as the day before publication ('yesterday')."
+}

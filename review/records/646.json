@@ -1,0 +1,15 @@
+{
+  "id": "646",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The clipping is the head of the 'The Oar' sporting column and its rowing lead item. Allen appears only in the subhead; the 'Tom Allen Terribly Handled' item itself is further down the same column and is not in the crop (it is clipped as article 645)." },
+  "ocr": { "status": "good", "notes": "Mostly right; the text covers the rowing item only." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's sporting column, led by rowing news, listed among its items a report that Tom Allen, the veteran pugilist, had been terribly handled." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, January 28, 1882, page 7. Same page and column as article 645." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "This duplicates article 645: same page, same column. 646 shows the column headline and 645 shows the Allen item. The two could be merged, or 646 dropped. The current summary's 'had gone to England' is not in the clipping. No facts are recorded here because 645 already covers them."
+}

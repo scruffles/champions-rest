@@ -1,0 +1,56 @@
+{
+  "id": "654",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Custer and the First Reunion' article" },
+  "ocr": { "status": "good", "notes": "Mostly right; Allen's quote garbled in places ('hevry bone in 'is 'and' is as printed)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen starts a theater panic at the 1874 Lincoln Monument reunion" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat recalled the 1874 Army of the Tennessee reunion in Springfield, where Tom Allen crushed a pickpocket's hand in the gallery, setting off a panic that Gen. Custer calmed." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Friday Morning, May 12, 1882, page 6" },
+  "facts": [
+    {
+      "fact": "Allen went from St. Louis to Springfield, Illinois, to attend the dedication of the National Lincoln Monument and the Army of the Tennessee reunion",
+      "date": "1874",
+      "people": [],
+      "places": ["St. Louis", "Springfield, Illinois"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At the reunion meeting in Jacob Bunn's opera house, Allen caught a pickpocket's hand and squeezed it; the man's scream began a panic in the crowded gallery, stilled when Gen. George A. Custer had the Arsenal band play",
+      "date": "1874",
+      "people": ["George A. Custer", "W. T. Sherman", "Ulysses S. Grant"],
+      "places": ["Jacob Bunn's opera house, Springfield, Illinois"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen explained why he attended the Lincoln monument dedication",
+      "date": "1874",
+      "people": ["Abraham Lincoln"],
+      "places": ["Springfield, Illinois"],
+      "quote": "'e was one of us, 'e was a man",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen on the pickpocket whose hand he crushed",
+      "date": "1874",
+      "people": [],
+      "places": ["Springfield, Illinois"],
+      "quote": "The bloody duffer, I think I broke hevry bone in 'is 'and.",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective written eight years after the event. The opening says Allen 'played a heroic part', but the story shows he caused the first outcry; the current summary's 'preventing disaster' is wrong. Quotes are secondhand, so medium confidence."
+}

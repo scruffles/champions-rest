@@ -1,0 +1,26 @@
+{
+  "id": "615",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping is a vertical strip that straddles two columns, so line starts and ends are missing. The Allen item ('Pedestrianism. Tom Allen Acts the Dog') appears at the bottom (crop-7) with its left edge cut off, and its right-cut twin appears at the top of the next column (crop-2). Most of the strip is unrelated baseball scores and the bench show." },
+  "ocr": { "status": "rough", "notes": "Transcript follows the cut strip, so every line is partial. Allen item gist is readable by combining both halves." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that champion pedestrian Daniel O'Leary, arriving in Chicago, said Tom Allen treated him shamefully in London, sneering at him from the track's edge during his last hundred miles." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, May 19, 1878, page 3. Dispatch dated Chicago, May 18. Same page as 614." },
+  "facts": [
+    {
+      "fact": "Allen was in London during Daniel O'Leary's championship walk, and O'Leary said Allen sat at the edge of the track and sneered at and insulted him during his last hundred miles",
+      "date": "1878",
+      "people": ["Daniel O'Leary"],
+      "places": ["London, England"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Item is only readable as two partial halves (left-cut in crop-7, right-cut in crop-2), so some words are reconstructed from context. A clean re-crop of the item at the top of column 6 on page 3 would help. The item calls Allen a 'low-flung dog' (O'Leary's words). Probable duplicate of 614."
+}

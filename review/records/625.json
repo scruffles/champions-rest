@@ -1,0 +1,66 @@
+{
+  "id": "625",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Allen item ('The Ring', bottom of column 1, continuing at top of column 2) is at the top; the rest is unrelated (Highway Robbery, Eureka, Nevada fire). The right edge of the Allen item is cut off, losing the ends of lines; the left edge of column 2 shows stray text from column 1."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Line ends missing because of the crop; stakes read as £100 but image appears to show £400; transcript also includes the unrelated items."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen and Jack Stewart Fight to a Draw in London"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported from London that Tom Allen and Jack Stewart of Scotland, fighting for the championship of the world, scarcely touched each other; the referee declared a draw after 24 rounds."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, April 23, 1879, page 3. Dispatch dated London, April 22."
+  },
+  "facts": [
+    {
+      "fact": "Allen fought Jack Stewart of Scotland for the championship of the world (reported from London); they scarcely touched each other except in the seventh round, where Allen had a slight advantage, and after 24 rounds the referee declared the fight a draw and bets off",
+      "date": "1879-04-22",
+      "people": [
+        "Jack Stewart"
+      ],
+      "places": [
+        "London, England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Allen-Stewart fight was for £400 (figure partly legible; OCR reads £100)",
+      "date": "1879-04-22",
+      "people": [
+        "Jack Stewart"
+      ],
+      "places": [
+        "London, England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title mistranslates the headline 'Tom Allen Indulges in a \"Barney\"' (a barney = a sham or fixed fight), not a hairnet. The word after 'proved to be a complete f...' is cut off. Members of the aristocracy were reported among a large crowd."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "634",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping is a long column of sporting notes, ads and city news; only one paragraph in the 'Tips' section (crop-2) is about Allen." },
+  "ocr": { "status": "rough", "notes": "The Allen paragraph is mostly readable; the top of the column (billiards item) is heavily garbled." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Plans to Return to America" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen had announced over his own signature that he planned to return to America in a few months, news expected to stir ring circles." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead too blurry to read the date; page 3; contents (New York, March 27 dispatch) fit 1880-03-28." },
+  "facts": [
+    {
+      "fact": "Allen, then abroad in England, announced over his own signature that he planned to return to America within a few months",
+      "date": "1880-03",
+      "people": [],
+      "places": ["England", "America"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Item is one sentence; England is implied (Allen went to England in 1877), not named in the paragraph."
+}

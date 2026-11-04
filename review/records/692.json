@@ -1,0 +1,36 @@
+{
+  "id": "692",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "East St. Louis column with several items (rail yard death of Herman Stepacher, arrest of Rep. Michael A. Sullivan, a wedding); only the third paragraph, on the cancelled sparring exhibition, is about Allen. Left edge slightly clipped." },
+  "ocr": { "status": "rough", "notes": "Left-edge letters dropped throughout; Allen paragraph readable in the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that East St. Louis Mayor McLean banned a sparring exhibition arranged by Tom Kelly featuring Tom Allen, and revived an old indictment against Allen for a prize fight there years before." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Exhibitions", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Friday Morning, March 30, 1883', page 8." },
+  "facts": [
+    {
+      "fact": "A sparring exhibition at Flannigan's Hall, East St. Louis, billed with Allen, Morris O'Connell, Tom Kelly and Charles Taylor, was called off after Mayor McLean prohibited it under Illinois law and threatened arrests",
+      "date": "1883-03-29",
+      "people": ["Tom Kelly", "Morris O'Connell", "Charles Taylor", "Mayor McLean"],
+      "places": ["Flannigan's Hall, East St. Louis, Illinois"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The mayor of East St. Louis revived an old indictment against Allen for a prize fight in East St. Louis some years earlier",
+      "date": "1883-03",
+      "people": ["Mayor McLean"],
+      "places": ["East St. Louis, Illinois"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same event as 693 (Missouri Republican, same date)."
+}

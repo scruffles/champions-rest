@@ -1,0 +1,26 @@
+{
+  "id": "617",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping is only the closing paragraph at the top of column 6. The item's headline ('The Ring. Goss and Dwyer to Fight') and opening, at the bottom of column 5 on page 3, are missing." },
+  "ocr": { "status": "rough", "notes": "Key figures are wrong in the transcript: image reads fine of $250, 250 days, and $250 (OCR has $50, 50 days, $750)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat noted that Joe Goss's last ring appearance was against Tom Allen in Kentucky, after which Goss was fined $250 and, unable to pay, imprisoned for 250 days." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, August 20, 1878, page 3." },
+  "facts": [
+    {
+      "fact": "After his fight with Allen in Kentucky, Joe Goss was arrested, fined $250 and, unable to pay, imprisoned for 250 days",
+      "date": "",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The item also says Goss's friends sent him the fine money halfway through his term but he kept it and served out the sentence. The opening paragraph (Goss-Dwyer match) is outside the clipping."
+}

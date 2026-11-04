@@ -1,0 +1,46 @@
+{
+  "id": "610",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "gist readable; many character errors in names (Dayis, Alieo); Davis weight 184 pounds in image, OCR garbled" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted a London account of Tom Allen's five-round win over Charley Davis at St. George's Hall for the world championship and £200 a side; the referee awarded Allen the fight after Davis's friends rushed the ring." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, April 7, 1878. Item credited as a special to the Cincinnati Enquirer, New York, April 5." },
+  "facts": [
+    {
+      "fact": "Allen defeated Charley Davis, champion of the United Kingdom, at St. George's Hall for the championship of the world and £200 a side, under the remodeled London prize ring rules with hard gloves; five rounds, eighteen and a half minutes",
+      "date": "1878-04-04",
+      "people": ["Charley Davis"],
+      "places": ["St. George's Hall, London, England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After Davis was knocked down senseless in the fifth round, his friends rushed the ring, cries of foul were raised, and the referee declared Allen winner of the stakes and the championship; about 2,000 were present",
+      "date": "1878-04-04",
+      "people": ["Charley Davis"],
+      "places": ["St. George's Hall, London, England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen trained for the Davis fight at Barnet, England, under Jack Hopkins, weighing 175 pounds",
+      "date": "1878-04",
+      "people": ["Jack Hopkins"],
+      "places": ["Barnet, England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Account says the fight took place 'last night' relative to April 5, i.e. April 4, 1878. Text skips the third round."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "618",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping holds two items: 'The Ring. Ben Hogan's Latest Bluff' (top, the Allen mention) and an unrelated 'Ten-Pins' item below." },
+  "ocr": { "status": "good", "notes": "Minor errors ('soper sees' for 'temperance', 'himseif'); Ten-Pins item also transcribed." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Ben Hogan Turns to Religion" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported from New York that Ben Hogan, who it said was beaten by Tom Allen at Omaha for $2,000 and the championship of America, had been converted by the Gospel Temperance Society." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Page 16 supplemental sheet; New York dispatch dated September 21." },
+  "facts": [
+    {
+      "fact": "The Globe-Democrat said Allen beat Ben Hogan at Omaha for $2,000 and the championship of America",
+      "date": "1873",
+      "people": ["Ben Hogan"],
+      "places": ["Omaha, Nebraska"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Hogan's own later account (article 619) calls the fight a draw; the paper's 'licked' claim is secondhand. Fight year not stated in the article."
+}

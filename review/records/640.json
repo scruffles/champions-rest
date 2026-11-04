@@ -1,0 +1,26 @@
+{
+  "id": "640",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item under 'The Ring' heading" },
+  "ocr": { "status": "good", "notes": "minor errors ('SHAT', 'Jourilan')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that prize-fighter Ben Hogan was shot and mortally wounded by saloon-keeper James Jourdan at Bisbee, Arizona, noting Hogan had been beaten by Tom Allen in short order at Omaha." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, March 12, 1881, page 6" },
+  "facts": [
+    {
+      "fact": "Allen defeated Ben Hogan in short order at Omaha",
+      "date": "",
+      "people": ["Ben Hogan"],
+      "places": ["Omaha, Nebraska"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fight date not given in the article."
+}

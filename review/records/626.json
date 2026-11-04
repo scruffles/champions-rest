@@ -1,0 +1,36 @@
+{
+  "id": "626",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping is a long stretch of the sporting column (trotting, track notes, sportsmen's tournament, cricket, target shooting, inter-state college athletics); only the final item, 'Elliott and Dwyer' (crops 7-9), concerns Allen." },
+  "ocr": { "status": "good", "notes": "Allen section readable; 'Tom Alein' for Tom Allen and some minor letter errors." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Johnny Dwyer Says He Wants to Fight Tom Allen" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican printed a Buffalo report after Johnny Dwyer beat Jimmy Elliott, in which Dwyer said Tom Allen had maligned him and he would go to England to fight him." },
+  "focus": { "current": "passing", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican: St. Louis, Sunday Morning, May 11, 1879', page 12. Filed as Missouri Republican (before 1888). Item reprinted from the Cincinnati Enquirer's Buffalo correspondent, dated May 9." },
+  "facts": [
+    {
+      "fact": "After beating Jimmy Elliott, Johnny Dwyer said he wanted to fight one more man, Tom Allen, who he said had maligned him; he offered to go to England to fight him and to send £10 to the editor of Bell's Life in London as a forfeit for a match",
+      "date": "1879-05-08",
+      "people": ["Johnny Dwyer"],
+      "places": ["Buffalo, New York", "England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jimmy Elliott, said to hate Allen, said he was glad it was Dwyer and not Allen who beat him, and hoped Dwyer would fight Allen, promising to back Dwyer",
+      "date": "1879-05-08",
+      "people": ["Jimmy Elliott", "Johnny Dwyer"],
+      "places": ["Buffalo, New York"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Dwyer and Elliott quotes are theirs, not Allen's, so quote fields are blank. Dwyer's remark implies Allen was in England at the time."
+}

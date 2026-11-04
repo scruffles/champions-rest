@@ -1,0 +1,26 @@
+{
+  "id": "689",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors, e.g. 'orem gmsiers J' for 'endeavoring', 'oapcte! ok engi applause' for 'amid merited applause'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen sparred three light rounds with Morris O'Connell to close O'Connell's farewell benefit at Kelly's, calling it the tamest set-to ever seen in the room." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican: St. Louis, Thursday Morning, February 22, 1883', page 5." },
+  "facts": [
+    {
+      "fact": "Allen sparred three rounds with middleweight Morris O'Connell as the wind-up of O'Connell's farewell benefit at Kelly's in St. Louis; the paper called it the tamest set-to ever seen there",
+      "date": "1883-02-21",
+      "people": ["Morris O'Connell"],
+      "places": ["Kelly's, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The headline group in 688 ('Ex-Champion Tom Allen Has a Set-To with Morris O'Connell') belongs to this item."
+}

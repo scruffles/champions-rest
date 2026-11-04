@@ -1,0 +1,26 @@
+{
+  "id": "608",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "minor errors (Pavis, Fire Rounds, Loxpon)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Defeats Davis in Five Rounds in London" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Post reported by cable from London that Tom Allen beat Davis for the championship in five rounds lasting 18½ minutes; Davis's seconds picked him up after a knockdown, and the referee gave Allen the fight." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Post", "notes": "Masthead reads St. Louis Evening Post, Friday evening, April 5, 1878 (2d edition); dispatch credited to the Evening Post, not the Post-Dispatch, which did not exist until 1878-12" },
+  "facts": [
+    {
+      "fact": "Allen defeated Charley Davis for the championship in London in five rounds lasting eighteen and a half minutes; Davis's seconds picked him up after a fifth-round knockdown, violating the rules, and the referee awarded Allen the victory",
+      "date": "1878-04-04",
+      "people": ["Charley Davis"],
+      "places": ["London, England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Dispatch dated London April 5 says the fight came off yesterday."
+}

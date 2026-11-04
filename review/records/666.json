@@ -1,0 +1,69 @@
+{
+  "id": "666",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The 'Sporting Sundries' column; the Allen item is the first paragraph under 'The Prize Ring' (crop-2). The right edge is clipped by a letter or two on most lines, but the text can still be followed."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; line endings are missing letters because the crop clips the right edge."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Fox Withdraws Backing for Tom Allen After Exhibition"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Allen's exhibition on Monday convinced his backer, Richard K. Fox, that the veteran was past his best, and Fox withdrew the $1,000 posted for a fight with Sullivan."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges",
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: 'St. Louis Post-Dispatch, Thursday, November 30, 1882', front page. The exhibition was Monday, November 27, not in December as the current summary says."
+  },
+  "facts": [
+    {
+      "fact": "After Allen's exhibition, his backer Richard K. Fox decided the veteran had seen his best days and could not stand before Sullivan, making an Allen-Sullivan fight unlikely",
+      "date": "1882-11-27",
+      "people": [
+        "Richard K. Fox",
+        "John L. Sullivan"
+      ],
+      "places": [
+        "New York"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Fox sent Mr. Harding to Harry Hill's to recover the $1,000 posted on Allen's behalf; Harry Hill refused to let Sullivan's man Bob Farrell cover it",
+      "date": "1882-11-28",
+      "people": [
+        "Richard K. Fox",
+        "Harry Hill",
+        "Bob Farrell"
+      ],
+      "places": [
+        "Harry Hill's, New York"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary dates the exhibition to December; it was Monday, November 27, 1882 (see 665 and 667)."
+}

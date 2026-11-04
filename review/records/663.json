@@ -1,0 +1,84 @@
+{
+  "id": "663",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "A column of short sporting paragraphs. Two concern Allen: the one beginning 'It is the desire of Sullivan that his prize fight with Tom Allen' (crop-2) and the Jim Mace cable item (crop-3 to crop-4). The rest are horse racing, base ball, billiards and duck shooting notes."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Readable with scattered character errors ('Suliivan', 'figist', 'Tom Alien')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that John L. Sullivan wanted his fight with Tom Allen held near Leadville, Colorado, and that Allen said he had come back to America to meet Sullivan, whom he believed he could beat."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead: 'The Republican: St. Louis, Sunday Morning, November 19, 1882', page 11. The paper was the Missouri Republican until 1888, not the St. Louis Republic."
+  },
+  "facts": [
+    {
+      "fact": "A prize fight between Allen and John L. Sullivan was under discussion; Sullivan wanted it held near Leadville, Colorado, fearing Louisiana would pass a law that could send them to the penitentiary",
+      "date": "1882-11",
+      "people": [
+        "John L. Sullivan"
+      ],
+      "places": [
+        "Leadville, Colorado",
+        "Louisiana"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had returned to America with the view of meeting Sullivan, whom he believed he could knock out",
+      "date": "1882",
+      "people": [
+        "John L. Sullivan"
+      ],
+      "places": [
+        "England",
+        "United States"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "016"
+    },
+    {
+      "fact": "Jim Mace cabled Richard K. Fox of the Police Gazette from New Zealand that he would come to America and fight any man for $5,000; Fox would match him with Sullivan if Sullivan defeated Allen",
+      "date": "1882-11",
+      "people": [
+        "Jem Mace",
+        "Richard K. Fox",
+        "John L. Sullivan"
+      ],
+      "places": [
+        "New Zealand"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary says Mace offered to fight 'whichever proved victorious', but the clipping says Fox would match Mace against Sullivan if Sullivan beat Allen. The paper name needs correcting."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "613",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Clipping is the Base Ball and Athletics sections of the 'Bonbons for the Boys' sporting column; Allen is named only in the Tommy Hogan obituary paragraph, which is fully included." },
+  "ocr": { "status": "good", "notes": "Minor errors: scores (18 to 3, 4 to 3), 'bore', 'hard labor', '51 1/4', '23 1/4', '18 feet' misread." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Pugilist Tommy Hogan, who attended the Allen-Davis fight, dies in London" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Post reported that the pugilist Tommy Hogan died of apoplexy in London on April 7, noting he had been at the championship fight between Tom Allen and Davis in apparent good health." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Post", "notes": "Masthead reads 'St. Louis Evening Post, Saturday, May 4, 1878' (page 4), not the Post-Dispatch (which only dates from 1878-12). Current summary wrongly says the Allen-Davis fight was in April 1878; the article gives no date or place for it." },
+  "facts": [
+    {
+      "fact": "Allen fought Davis for the championship in England; the pugilist Tommy Hogan attended the fight",
+      "date": "",
+      "people": ["Davis", "Tommy Hogan"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Only a one-sentence mention of Allen inside an unrelated obituary. Place of the Allen-Davis fight is not stated; England is inferred from context (Hogan was an English pugilist)."
+}

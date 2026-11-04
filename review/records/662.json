@@ -1,0 +1,68 @@
+{
+  "id": "662",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": ""
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Sullivan Agrees to Sign Articles to Fight Allen"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reprinted a New York dispatch saying Sullivan would sign articles to fight Tom Allen, backed by Richard K. Fox, for $5,000 a side, the battle to be in Colorado or the Indian Territory."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, November 14, 1882; item is a special dispatch to the Cincinnati Enquirer."
+  },
+  "facts": [
+    {
+      "fact": "Sullivan informed Harry Hill he would be in New York on November 20 to sign articles to fight Allen, and told Fox he would fight for $5,000 a side or any sum, in Colorado or the Indian Territory",
+      "date": "1882-11-12",
+      "people": [
+        "John L. Sullivan",
+        "Harry Hill",
+        "Richard K. Fox"
+      ],
+      "places": [
+        "New York",
+        "Colorado",
+        "Indian Territory"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen held the championship from 1870 to 1876, when Joe Goss won it on a foul blow by Allen",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title reverses who challenged whom."
+}

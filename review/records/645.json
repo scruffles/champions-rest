@@ -1,0 +1,46 @@
+{
+  "id": "645",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping also contains the unrelated 'The Modocs' rowing-club item above. The Allen item is the second paragraph, headed 'Tom Allen Terribly Handled', and is complete." },
+  "ocr": { "status": "good", "notes": "Minor errors only; includes the Modocs item." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported, from private advices from Birmingham, England, that Tom Allen had been ruined by dissipation and had been so badly beaten by a mob at Cork that his life was despaired of." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, January 28, 1882, page 7." },
+  "facts": [
+    {
+      "fact": "A private letter from Birmingham, England, said Allen had 'gone to the dogs': dissipation had made him a wreck, and the property he gained in America had vanished",
+      "date": "1882-01",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was attacked by a mob of roughs at Cork, Ireland, and so badly cut and bruised that his life was despaired of; welching on his part was said to be the cause",
+      "date": "1882-01",
+      "people": [],
+      "places": ["Cork, Ireland"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, who had made St. Louis his home for some years, was in England and Ireland around the start of 1882",
+      "date": "1882-01",
+      "people": [],
+      "places": ["St. Louis", "Birmingham, England", "Cork, Ireland"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The report is secondhand, from a private letter, so its facts are rated medium. The same item is the one the headline of article 646 refers to (same page, same column)."
+}

@@ -1,0 +1,65 @@
+{
+  "id": "665",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The 'Sporting Sundries' column: base ball notes, then 'The Pugilists' with the Allen paragraph (bottom of crop-1 into crop-2), then other boxing and billiards notes."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The Allen paragraph is readable with small errors ('Alien', 'wind-p', 'eenciusion')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Benefit Exhibition for Tom Allen at Madison Square Garden"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that at a benefit for Tom Allen at Madison Square Garden, John L. Sullivan spoke and shook hands with him, and Allen seemed no match for George Rooke in the wind-up."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: 'St. Louis Post-Dispatch, Wednesday, November 29, 1882', page 8. 'Monday evening' was November 27, 1882."
+  },
+  "facts": [
+    {
+      "fact": "A boxing exhibition complimentary to Allen was given at Madison Square Garden; Allen sparred the wind-up with George Rooke, seemed no match for him and fell heavily at the end of the last round",
+      "date": "1882-11-27",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [
+        "Madison Square Garden, New York"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "John L. Sullivan, in the audience, took the stage to deny he was afraid of Allen, and the two shook hands",
+      "date": "1882-11-27",
+      "people": [
+        "John L. Sullivan"
+      ],
+      "places": [
+        "Madison Square Garden, New York"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary leaves out that Allen sparred Rooke and did poorly, which is the main point. The paragraph is the lead item about Allen, so focus primary."
+}
