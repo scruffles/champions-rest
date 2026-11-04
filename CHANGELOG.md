@@ -74,7 +74,6 @@
 - Map of fight locations, bar locations, and other significant places pulled from the articles
 - Visual links from map locations to the relevant articles
 - Consider historic St. Louis map overlay for the city locations
-- Cover bar locations and fight locations (folds in the earlier Google Maps items)
 
 ### Bugs & Testing
 - Test the redesign in Safari and on iPhone (only desktop Chrome has been checked; replaces the old full-screen and iPhone bugs on the retired Articles page)
