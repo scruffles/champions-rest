@@ -1,0 +1,26 @@
+{
+  "id": "193",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item under the 'City Hall Police Court' standing head." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Arthur McNamara threw two paving stones through the window of Tom Allen's Champions' Rest on Market Street after a dispute over a razor sale; Judge Sidener fined him $10." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image; the full-page filename says Sat. Apr. 20, 1901." },
+  "facts": [
+    {
+      "fact": "Arthur McNamara threw two paving stones through the window of Allen's Champions' Rest; Allen testified in police court and Judge Sidener fined McNamara $10",
+      "date": "1901-04",
+      "people": ["Arthur McNamara", "Judge Sidener"],
+      "places": ["Champions' Rest, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

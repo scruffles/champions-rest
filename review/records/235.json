@@ -1,0 +1,25 @@
+{
+  "id": "235",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'In Corbett's Corner' column in two columns, to the copyright line. The crop also takes in unrelated items under it in the second column (three St. Louis soldiers, basketball, Bill Veeck, A.A.U.)." },
+  "ocr": { "status": "rough", "notes": "What is there is clean, but the transcript stops at the end of the Mace fight and leaves out the last section: the 1873 McCoole rematch, the Hogan win and the last fight with Goss ('Allen's Last Fight'). It also drops John C. Heenan as Mace's umpire, gives Feb. 22 for the image's 'February 23, 1869', and 'Foster's' where the image prints 'Boster's Island' for the McCoole fight." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Corbett on Tom Allen's American Fights" },
+  "summary": { "ok": false, "suggested": "In a column for The St. Louis Star, James J. Corbett traced Tom Allen's American fights, from his 1869 win over Bill Davis and losses to McCoole, Gallagher and Mace to his 1873 win over McCoole and his last fight, lost to Joe Goss." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights", "Legacy", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The St. Louis Star", "notes": "Masthead reads 'The St. Louis Star, Friday Evening, January 3, 1919', page 13. The Star and Times name dates from 1932." },
+  "facts": [
+    { "fact": "Allen's first American fight was a 43-round win over Bill Davis of California on Chouteau Island, St. Louis", "date": "1869-01-12", "people": ["Bill Davis"], "places": ["Chouteau Island, St. Louis"], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "After beating Davis, Allen claimed the championship of America and offered to fight anyone who disputed it", "date": "1869-01-12", "people": ["Bill Davis"], "places": ["St. Louis"], "quote": "By beating Davis, I have earned the right to claim the championship of America. If any fighter in this country thinks otherwise, I'll give him a battle any time he wants it and for any purse that he names.", "kind": "quote", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Charley Gallagher of Cleveland beat Allen on Carroll Island, near St. Louis, in about three minutes with a blow to the neck", "date": "1869-02-23", "people": ["Charley Gallagher"], "places": ["Carroll Island, near St. Louis"], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen fought Mike McCoole for $1,000 a side on 'Boster's' (Foster's) Island near St. Louis; after nine rounds McCoole's backers cut the ropes and the referee, threatened, gave the fight to McCoole", "date": "1869-07-15", "people": ["Mike McCoole"], "places": ["Foster's Island, near St. Louis"], "quote": "", "kind": "fight", "confidence": "low", "existing_fact": "" },
+    { "fact": "In a rematch with Gallagher on Foster's Island, Allen had the better of eleven rounds, but Gallagher's backers cut the ropes and threatened referee Larry Wessel, who gave Gallagher the fight", "date": "1869-08-17", "people": ["Charley Gallagher", "Larry Wessel"], "places": ["Foster's Island, near St. Louis"], "quote": "", "kind": "fight", "confidence": "low", "existing_fact": "" },
+    { "fact": "Jem Mace beat Allen at Kennersville, La., in the tenth round (40 minutes), for $2,500 a side and the championship of the world; Allen's seconds were Joe Coburn and Sherman Thurston, and Al Smith refereed", "date": "1870-05-10", "people": ["Jem Mace", "Joe Coburn", "Sherman Thurston", "Al Smith"], "places": ["Kennersville, La."], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen beat Mike McCoole in 29 rounds for $2,000 a side on Chouteau Island, near St. Louis", "date": "1873-09-23", "people": ["Mike McCoole"], "places": ["Chouteau Island, near St. Louis"], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen defeated Ben Hogan", "date": "", "people": ["Ben Hogan"], "places": [], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "In his last fight, for the championship of America and $2,000 a side in Kentucky, Allen lost to Joe Goss on a foul after 21 rounds", "date": "", "people": ["Joe Goss"], "places": ["Kentucky"], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "031" }
+  ],
+  "needs_human": false,
+  "notes": "A 1919 retrospective; several details differ from contemporary reports (for example, the McCoole fight of 1869 is usually dated June 15, and its result is told differently). Facts are marked medium or low for that reason. The column ends: 'That battle ended the pugilistic career of Allen, who died several years ago in St. Louis.' The Mace fact matches the unnumbered index item on losing the title to Mace in May 1870 (id 000)."
+}

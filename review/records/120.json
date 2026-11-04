@@ -1,0 +1,26 @@
+{
+  "id": "120",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full item, from headline 'The Greek Won.' to 'Philadelphia for $250 a side.'" },
+  "ocr": { "status": "good", "notes": "Transcript matches the image; headline 'The Greek Won.' omitted." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen backed a wrestler against Greek George" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Greek George beat Antonio Pierre, backed by Tom Allen, in two straight falls in a private catch-as-catch-can wrestling match for $200 a side." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image to check the masthead; date and paper taken from the file name." },
+  "facts": [
+    {
+      "fact": "Allen backed the wrestler Antonio Pierre, who lost two straight falls to Greek George in a private catch-as-catch-can match for $200 a side",
+      "date": "1886-08-02",
+      "people": ["Antonio Pierre", "Greek George", "John Delargy", "Tom Kelly"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary says Allen supported Greek George; the article says George was backed by John Delargy and Pierre by Allen. 'Backed' means he put up the stakes, not that he seconded him, so the title 'took the corner' is misleading. Place not named; St. Louis assumed from the paper."
+}

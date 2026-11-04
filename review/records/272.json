@@ -1,0 +1,36 @@
+{
+  "id": "272",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole short item under 'The Ring'." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Daily Globe-Democrat reprinted a Boston Star note on Tom Allen's arrival, saying he came only to visit friends, and described his silver cup, presented in London in 1878, on display in Boston." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Friday Morning, November 3, 1882, page 5. The current summary wrongly places the cup in St. Louis and the visit in 1878." },
+  "facts": [
+    {
+      "fact": "Allen said he had not come to America to fight anybody but simply to visit his friends",
+      "date": "1882-11",
+      "people": [],
+      "places": ["Boston"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "016"
+    },
+    {
+      "fact": "Allen's silver cup, presented to him as champion boxer of England by his backers and admirers on May 22, 1878, at Cambridge Hall, Newman Street, Oxford Street, London, was displayed on Mr. Shepherd's sideboard at the 'Abbey' in Boston",
+      "date": "1878-05-22",
+      "people": [],
+      "places": ["Cambridge Hall, Newman Street, Oxford Street, London", "Boston"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same Boston Star text as 270 and 271."
+}

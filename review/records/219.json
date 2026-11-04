@@ -1,0 +1,76 @@
+{
+  "id": "219",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, last column of page 8. The top line is the tail of the item above (John J. Ryan en route to Europe)." },
+  "ocr": { "status": "good", "notes": "Errors: 'Tilia' should be 'Tillie'; estate value reads '$300' in the image (blurred), not '$500'; 'Strode also informed' is 'Strode so informed'; headline and subhead are missing; the stray Ryan line from the item above is included." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Mrs. Hartgrove may not get Tom Allen's estate" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Allen's widow in Birmingham, England, may claim his small estate instead of Tillie Hartgrove, his heir. Daughter Polly Taylor said her parents never divorced." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead reads 'The Republic: Wednesday, July 29, 1903', page 8." },
+  "facts": [
+    {
+      "fact": "Allen's estate, willed to Tillie Hartgrove, was worth less than $300 in personal effects and might go instead to his widow in Birmingham, England",
+      "date": "1903-07",
+      "people": ["Tillie Hartgrove", "Garrard Strode"],
+      "places": ["Birmingham, England", "St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": "046"
+    },
+    {
+      "fact": "Allen's daughter Mrs. Polly Taylor told the public administrator that her mother was living and had never been divorced from Allen",
+      "date": "1903-04",
+      "people": ["Polly Taylor"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "040"
+    },
+    {
+      "fact": "Allen's will left $10 each to his daughters Mrs. Taylor of St. Louis and Mrs. J. H. Newey of Birmingham, England, and did not mention his wife",
+      "date": "1903",
+      "people": ["Polly Taylor", "Mrs. J. H. Newey"],
+      "places": ["St. Louis", "Birmingham, England"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "012"
+    },
+    {
+      "fact": "Attorney Simon Bass, named executor, declined to act, and Public Administrator Garrard Strode took charge of the estate and filed its inventory in probate",
+      "date": "1903-07-28",
+      "people": ["Simon Bass", "Garrard Strode"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The inventory listed the old concert piano from Allen's saloon on Market near Seventh Street, a champion's cup, a horse and harness, a barrel of whisky, furniture and pictures",
+      "date": "1903-07-28",
+      "people": [],
+      "places": ["Market Street near Seventh Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Tillie Hartgrove, who nursed Allen in his last illness and was to marry him, paid the undertaker in advance for his funeral",
+      "date": "1903-04",
+      "people": ["Tillie Hartgrove"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Estate value: image looks like '$300' (middle digit blurred); OCR says $500; the old summary says $300. The index fact about $10 bequests says 'sisters'; this article says daughters."
+}

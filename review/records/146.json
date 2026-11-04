@@ -1,0 +1,26 @@
+{
+  "id": "146",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "no_crop", "notes": "The clipping is the whole front page at low resolution. The Allen item is 'St. Louisans at the Ring Side', lower part of column 4." },
+  "ocr": { "status": "unusable", "notes": "Transcript is a jumbled round-by-round of McAuliffe-Myer and never mentions Allen. The Allen passage was read only from an enlarged view of the low-resolution page and is blurry." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen at ringside for McAuliffe-Myer fight in New Orleans" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, \"who defeated Mike McCool for the American heavyweight championship,\" and Tom Kelly were the best-known St. Louisans at the McAuliffe-Myer fight in New Orleans." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads St. Louis Post-Dispatch, Monday Evening, September 5, 1892 (Night Extra)." },
+  "facts": [
+    {
+      "fact": "Allen was at ringside in New Orleans for the Jack McAuliffe-Billy Myer lightweight fight, having gone down from St. Louis with Charley and Johnny Daly, \"Nobby\" Clark and Chris Lauff",
+      "date": "1892-09-05",
+      "people": ["Jack McAuliffe", "Billy Myer", "Tom Kelly", "Charley Daly"],
+      "places": ["Olympic Club, New Orleans", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Needs a proper crop of 'St. Louisans at the Ring Side' (column 4) and a fresh transcript; names read from a blurry enlargement. The current summary (Allen watching McCoole vs Mace) is wrong."
+}

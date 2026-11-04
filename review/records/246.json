@@ -1,0 +1,15 @@
+{
+  "id": "246",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping is Sid Keener's column on Baer beating Carnera and ends at the headline 'Heavyweight Ring History Dates Back to 1719', with that section's text cut off. Allen is not mentioned anywhere in the visible part; the Allen item is probably in the missing section." },
+  "ocr": { "status": "good", "notes": "Transcript matches the visible text ('Da Beez Preem' should be 'Da Beeg Preem')." },
+  "about_tom": "unsure",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Star and Times", "notes": "No page image; date and paper could not be checked against a masthead." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Nothing about Tom Allen appears in the clipping. It needs a new crop that includes the 'Heavyweight Ring History Dates Back to 1719' section (likely where Allen is mentioned), then a new transcript and summary. If Allen is not in that section either, the article should be dropped."
+}

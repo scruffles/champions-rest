@@ -1,0 +1,26 @@
+{
+  "id": "189",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline, subhead and the single paragraph all present." },
+  "ocr": { "status": "good", "notes": "Close; the year reads 1899 in print, not 1809. Headline missing from transcript." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that the murder case against ex-pugilist Tom Allen for killing Timothy Confoy in his saloon at Seventh and Market was dropped by the state in Judge Fisher's court for insufficient evidence." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Tuesday, St. Louis Post-Dispatch, November 14, 1899, page 11. The article gives the killing as Feb. 20, 1899; the earlier reports put the shooting early Sunday 1899-02-26." },
+  "facts": [
+    {
+      "fact": "The murder case against Allen for the killing of Timothy Confoy was nolle prossed in Judge Fisher's court for insufficient evidence",
+      "date": "1899-11-14",
+      "people": ["Timothy Confoy", "Judge Fisher"],
+      "places": ["Judge Fisher's court, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary wrongly says the death was in 1869."
+}

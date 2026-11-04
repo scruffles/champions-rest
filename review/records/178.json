@@ -1,0 +1,26 @@
+{
+  "id": "178",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Bottom cut off: the article continues below the clipping ('Nothing was left of the herculean McCoole ...') and the rest of the column is not in the crop. The page image is too small to read the remainder." },
+  "ocr": { "status": "good", "notes": "Matches the visible part of the clipping; the rest of the article is not transcribed." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Siler recalls McCoole's pauper death and Allen's help" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported referee George Siler's recollection that Mike McCoole died a pauper in New Orleans in the early 1880s and was saved from a pauper's grave by his old rival, Tom Allen." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Profiles", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Sunday Morning, St. Louis Post-Dispatch, November 28, 1897, page 33. Headline 'The Days of M'Coole'." },
+  "facts": [
+    {
+      "fact": "According to referee George Siler, Mike McCoole died a pauper in New Orleans and Allen saved him from a pauper's grave",
+      "date": "",
+      "people": ["Mike McCoole", "George Siler"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "024"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Needs a re-crop to capture the rest of the article. Siler says McCoole beat Allen for the world championship in 1870 and died 'early in the 80s'; both are secondhand recollections and the dates are doubtful."
+}

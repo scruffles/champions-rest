@@ -1,0 +1,53 @@
+{
+  "id": "217",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item, headline to last line."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Accurate; the headline 'SAYS HE'S BOGUS HAT WEARER' is missing and the subhead is run into the first paragraph."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Hartgrove Says Barrington's Silk Hat Was Tom Allen's"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tillie Hartgrove claimed the silk hat worn by \"Lord\" Barrington belonged to Tom Allen's estate; saloon keeper J. W. Gillespie said he had loaned it to him."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: WEDNESDAY—ST. LOUIS POST-DISPATCH—JULY 15, 1903, page 10."
+  },
+  "facts": [
+    {
+      "fact": "Hartgrove, Allen's housekeeper, claimed the silk hat worn by \"Lord\" Barrington, then held at the Clayton jail, was the property of the Allen estate; J. W. Gillespie said he had loaned Barrington the hat",
+      "date": "1903-07",
+      "people": [
+        "Tillie Hartgrove",
+        "Lord Barrington",
+        "J. W. Gillespie"
+      ],
+      "places": [
+        "Clayton, Missouri"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title misspells Hartgrove as 'Hargrove'."
+}

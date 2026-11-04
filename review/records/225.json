@@ -1,0 +1,38 @@
+{
+  "id": "225",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole boxed advertisement 'Great Fight for $10,000 and the World's Title'."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image apart from 'Letween' for 'Between'; the headline is not in the text."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Great Fight for $10,000 and the World's Title"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Star advertised that next Sunday's paper would carry Prof. Bill Clark's story, told to Billy Murphy, of the Tom Allen and Jem Mace fight for $10,000 and the world's title in New Orleans."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "The St. Louis Star",
+    "notes": "Masthead reads 'Monday, The St. Louis Star, January 22, 1912', page 4; the box is at the bottom of the right column."
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "A promotional box for the Star's 'Great Stories of the Ring' No. 4 by Prof. Bill Clark. It names Allen as the winner; Jem Mace won the 1870 fight, so no fight facts are taken from it. The current summary presents the ad as if it were the fight report."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "270",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole Sporting column item: headline, Boston Star reprint and New York dispatch. The subhead 'The Result of the Late Walk' belongs to a pedestrian item further down, not included and not about Allen." },
+  "ocr": { "status": "rough", "notes": "Gist right but garbled: 'Pat Wilson' should be Tug Wilson, 'hot fizzle' is the Elliot fizzle, Sheppard's resort on Hayward Place dropped, dispatch date is October 30 not 21, and the Fox offer was to match Allen 'against any man in America, Sullivan preferred'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Cincinnati Enquirer reprinted a Boston Star interview in which Tom Allen, visiting from England, called John L. Sullivan the best man in the world, and reported that Richard K. Fox offered to match Allen against Sullivan." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The Cincinnati Enquirer", "notes": "Masthead: The Enquirer, Cincinnati, Tuesday, October 31, 1882, page 2." },
+  "facts": [
+    {
+      "fact": "Allen arrived in America from England and stayed as the guest of Patsy Sheppard at his sporting resort on Hayward Place, Boston",
+      "date": "1882-10",
+      "people": ["Patsy Sheppard"],
+      "places": ["England", "Hayward Place, Boston"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "016"
+    },
+    {
+      "fact": "Allen planned to go to New York for a few weeks, probably giving exhibitions there, before returning to England",
+      "date": "1882-10",
+      "people": [],
+      "places": ["Boston", "New York", "England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said that although he had never met John L. Sullivan, judging from his record he considered him the best man in the world, and that he had come to America only to visit friends, not to fight",
+      "date": "1882-10",
+      "people": ["John L. Sullivan"],
+      "places": ["Boston"],
+      "quote": "",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's silver cup, inscribed as presented to him as champion boxer of England by his backers and admirers on May 22, 1878, at Cambridge Hall, Newman Street, Oxford Street, London, was displayed at Sheppard's 'Abbey' in Boston",
+      "date": "1878-05-22",
+      "people": [],
+      "places": ["Cambridge Hall, Newman Street, Oxford Street, London", "Boston"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Richard K. Fox posted $1,000 with Harry Hill offering to match Allen against any man in America, Sullivan preferred, under London prize ring rules for $1,000 to $2,500 a side and the championship of the world, within 100 miles of New Orleans",
+      "date": "1882-10-30",
+      "people": ["Richard K. Fox", "Harry Hill", "John L. Sullivan"],
+      "places": ["New York", "New Orleans"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's views are reported speech, not verbatim quotes. The 1878 cup may be the same as fact 022 (cup after the Davis fight); not linked because the article does not name the occasion."
+}

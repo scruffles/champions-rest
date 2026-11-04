@@ -1,0 +1,26 @@
+{
+  "id": "108",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole short item; no headline visible in the clipping (may be an untitled paragraph). Top line of the next item shows at the bottom." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen loses a wrestling match to sprinter William Richards" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, weighing 245 pounds, lost an impromptu $50-a-side wrestling match at his saloon to champion sprint runner Capt. William Richards, who threw him twice." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Exhibitions", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image to check the masthead; localCopyFull filename gives 'St Louis Post Dispatch Tue, Jan 1, 1884'." },
+  "facts": [
+    {
+      "fact": "Allen lost an impromptu wrestling match for $50 a side at his saloon to Capt. William Richards, champion sprint runner; Richards (160 lb) threw Allen (245 lb) twice in succession",
+      "date": "1883-12-31",
+      "people": ["William Richards"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title misspells 'loses'. Same fact as an unnumbered (000) entry in the facts index. Event date is 'last night' relative to Jan. 1, 1884."
+}

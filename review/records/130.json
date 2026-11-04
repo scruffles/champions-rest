@@ -1,0 +1,56 @@
+{
+  "id": "130",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, from the headline 'TOM ALLEN \"BESTED.\" The Ex-Heavy-Weight Champion Sustains a Black Eye and Bruised Ear' to the closing rule, in column 1 of page 5." },
+  "ocr": { "status": "good", "notes": "Readable and mostly right, but some words differ from the image: Dan was 'sitting' (not 'standing') before his door; 'that ain't right' (not 'fair'); Allen said 'Oh! what a puddin' I've got. This 'ere fellow thinks 'e's a fighter!' (OCR has 'nap'); 'fell like a log' (not 'rock'); 'four times in the face' (not 'twice'); Allen's 'Daly says he fought me' and 'you'd think a whole theater was out' (OCR 'got me', 'I think'); 'prompted Allen to make the fight' (not 'led ... attack')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen \"bested\" in a street fight with the Daly brothers" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen was knocked down by Dan Daly in a 2 a.m. street fight at Seventh and Market streets; Allen said a crowd tripped and kicked him, and the case was continued in Police Court." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch, Monday, June 18, 1888', page 5. The fight was 'yesterday morning about the hour of 2 o'clock', i.e. Sunday June 17, 1888." },
+  "facts": [
+    {
+      "fact": "Allen fought Dan Daly (middleweight champion of Missouri) in a street brawl near Seventh and Market streets, St. Louis; Daly's side said Allen was knocked down and begged him to quit, while Charley Daly chased Allen's friends 'Dutchy' Frank Neal and Steve Hearne",
+      "date": "1888-06-17",
+      "people": ["Dan Daly", "Charley Daly", "Frank Neal", "Steve Hearne"],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": "029"
+    },
+    {
+      "fact": "Allen said a crowd from Daly's place jumped on him, tripped him and kicked him, and that the matter was not over",
+      "date": "1888-06-17",
+      "people": ["Dan Daly"],
+      "places": ["St. Louis"],
+      "quote": "About fifty of 'em came out and jumped on me. There was too many of 'em to hurt me. ... This thing, though, ain't over yet by a long shot.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Charley Daly were taken to the station and gave bond; the Police Court case was continued until Thursday at Allen's request",
+      "date": "1888-06-18",
+      "people": ["Charley Daly"],
+      "places": ["Police Court, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was keeping a free-and-easy on Market Street, St. Louis",
+      "date": "1888-06",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Dalys' place of business was on Seventh Street near Market, close to Allen's."
+}

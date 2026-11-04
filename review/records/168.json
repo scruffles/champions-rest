@@ -1,0 +1,26 @@
+{
+  "id": "168",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, top of the right column on page 7." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Patrick Sullivan and Charles Dempsey picked a fight with Tom Allen in his saloon and ended up badly bruised at the Dispensary. Judge Peabody fined them $200 and $50 for disturbing the peace." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Thursday, St. Louis Post-Dispatch, November 21, 1895, page 7." },
+  "facts": [
+    {
+      "fact": "Patrick Sullivan and Charles Dempsey picked a fight with Allen in his saloon and were beaten; Judge Peabody fined Sullivan $200 and Dempsey $50 for disturbing the peace",
+      "date": "1895-11-19",
+      "people": ["Patrick Sullivan", "Charles Dempsey", "Judge Peabody"],
+      "places": ["Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The fight was Tuesday night (Nov. 19); the fines were Thursday morning (Nov. 21). The current summary calls the men 'drunks'; the paper says they 'had hallucinations'."
+}

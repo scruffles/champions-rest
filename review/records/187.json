@@ -1,0 +1,26 @@
+{
+  "id": "187",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline 'TOM ALLEN RELEASED ON BOND.', subhead and two short paragraphs all present." },
+  "ocr": { "status": "good", "notes": "Close to the image, but the victim is 'Timothy Confoy' in print, not 'Conroy'; the headline is missing from the transcript." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Released on Bond" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that the Prosecuting Attorney had Tom Allen arrested on a warrant for second-degree murder in the killing of Timothy Confoy, though the Coroner's jury had cleared him. Allen gave $5,000 bond." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": false, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image, so the date cannot be checked. 1899-05-04 looks wrong: the Coroner's jury cleared Allen on Tuesday 1899-02-28 (database article 'Tom Allen had to kill Confoy') and this warrant came 'Tuesday afternoon' after that, so the article is probably from about 1899-02-28 or 1899-03-01. The current title belongs to the May 4 indictment story (article 186); the titles of 186 and 187 look mixed up." },
+  "facts": [
+    {
+      "fact": "After the Coroner's jury cleared him, the Prosecuting Attorney had Allen arrested on a warrant charging second-degree murder in the killing of Timothy Confoy; Allen gave $5,000 bond",
+      "date": "1899-02-28",
+      "people": ["Timothy Confoy"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Fact date is inferred (warrant 'Tuesday afternoon' after the coroner's verdict); confirm the article's real date."
+}

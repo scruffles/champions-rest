@@ -1,0 +1,36 @@
+{
+  "id": "250",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Complete 'What Has Happened?' section of a sports column." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Wray's Column: the long lives of bare-knuckle fighters" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch argued bare-knuckle fighters lived long lives, recalling that Tom Allen opened the Champion's Rest on Market Street after leaving the ring and died at 65." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image; masthead not checked. Column name not visible in the crop; assumed Wray's Column from the style." },
+  "facts": [
+    {
+      "fact": "After quitting the ring Allen opened the Champion's Rest, a public house on Market Street, St. Louis",
+      "date": "",
+      "people": [],
+      "places": ["Champion's Rest, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen died at the age of 65",
+      "date": "1903",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "death",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title capitalisation ('The Health of retired boxers') is also inconsistent; suggested title assumes Wray's Column, drop the prefix if not."
+}

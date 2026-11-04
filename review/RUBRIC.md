@@ -47,6 +47,8 @@ Look at **every** crop piece and the page before writing the record.
 
 Be honest about uncertainty. If the image is unreadable, say so and set `needs_human: true`.
 
+If there are no crop pieces (no image), still write a complete record from `article.json`: `crop.status` `no_crop`, OCR judged on the text alone (`missing` if none), `title.ok`/`summary.ok` true unless the text shows they are wrong, `focus.suggested` = current focus, tags from what the title and text describe, facts only from text you can read, and `needs_human: true`.
+
 ## Record format
 
 ```json

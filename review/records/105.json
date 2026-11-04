@@ -1,0 +1,15 @@
+{
+  "id": "105",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "no_crop", "notes": "No image available; localCopyEdited/localCopyFull are placeholders ('misc/???.jpg')." },
+  "ocr": { "status": "missing", "notes": "No transcript in article.json." },
+  "about_tom": "unsure",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Joseph Weekly Gazette", "notes": "Date and paper cannot be checked; no image." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "No image and no text, so nothing could be reviewed. The title suggests Jem Mace recalling past fights, which may include his 1870 fight with Allen. focus.suggested \"secondary\" is a guess from the title (no current focus to copy). Needs the clipping located (image paths are '???')."
+}

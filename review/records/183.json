@@ -1,0 +1,46 @@
+{
+  "id": "183",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full headline stack and the whole article in five pieces." },
+  "ocr": { "status": "good", "notes": "Close to the image. Small differences: 'Thomas F. Rowe' is 'Thomas P. Rowe' in print; John Daly's time reads 'about 1 o'clock Sunday morning', not 11; 'Ninth and Market sts.'; Lyons' quote ends 'I'm game, ain't I?'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that a coroner's jury found Tom Allen's killing of Timothy Confoy in his saloon justifiable homicide, after witnesses testified that Confoy had a revolver and was drawing it when Allen fired." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Tuesday Evening, St. Louis, February 28, 1899, front page." },
+  "facts": [
+    {
+      "fact": "Allen shot and killed Timothy Confoy in his saloon and concert hall early Sunday morning, after an argument over a drink; Confoy fell on a revolver borrowed earlier that night",
+      "date": "1899-02-26",
+      "people": ["Timothy Confoy", "John Spencer"],
+      "places": ["Allen's saloon, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "028"
+    },
+    {
+      "fact": "A coroner's jury under Coroner Lloyd returned a verdict of justifiable homicide after 10 minutes; Allen was represented by Judge Harvey and Thomas P. Rowe",
+      "date": "1899-02-28",
+      "people": ["Coroner Lloyd", "Judge Harvey", "Thomas P. Rowe"],
+      "places": ["City Hall, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Per witness John Spencer, Allen warned Confoy before shooting",
+      "date": "1899-02-26",
+      "people": ["Timothy Confoy", "John Spencer"],
+      "places": [],
+      "quote": "You've come in here for trouble, and you've got a gun in your pocket. If you attempt to draw it I'll kill you.",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The street of the saloon is not named in this article; Market Street comes from other items (fact 011). Quote is secondhand testimony, hence medium."
+}

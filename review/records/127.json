@@ -1,0 +1,56 @@
+{
+  "id": "127",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article from 'M'MANUS WINS.' headline to the end of 'The Men and Their Records.' The clipping also carries unrelated items below it in the second column (Walking to St. Louis, Homeward Bound, Jack Crow Must Hang, The Southeastern Telegraph), which can be ignored." },
+  "ocr": { "status": "rough", "notes": "Transcript begins mid-fight (end of the 11th round); it omits the headlines, the opening account (train, spectators including Allen, stakes, rules, seconds) and rounds 1–11. Round labels are dropped. Errors in the records section: image says McManus arrived 'three months ago' and his fight of note was with Jim Fell (92 rounds, given on a foul), not Daly in 40 rounds; Flint's Daly fight was at Central Turner Hall in April 1886. The ending (Daly knocked Flint out in the 27th round; Flint is a saloon-keeper) is missing." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen seconds Artie Flint against Hugh McManus" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Hugh McManus knocked out Artie Flint in the 17th round of a prize fight near St. Clair, Mo., for $1,000 a side, with Tom Allen seconding Flint." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Post-Dispatch, Monday Evening, April 16, 1888, front page (Latest Edition)." },
+  "facts": [
+    {
+      "fact": "Allen seconded Arthur (Artie) Flint of St. Louis, with Flint's trainer Jack Brohn, in his prize fight against Hugh McManus of Kansas City; McManus was seconded by Tom Kelly and Jim Evans",
+      "date": "1888-04-16",
+      "people": ["Artie Flint", "Hugh McManus", "Jack Brohn", "Tom Kelly", "Jim Evans"],
+      "places": ["near St. Clair, Mo."],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "McManus knocked Flint out in the 17th round after 1 hour 15 minutes, in a fight for $1,000 stakes and a $1,000 purse under Queensberry rules with kid gloves, in a clearing about five miles from St. Clair, Mo.",
+      "date": "1888-04-16",
+      "people": ["Artie Flint", "Hugh McManus", "P. J. Tucker"],
+      "places": ["near St. Clair, Mo."],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen traveled from St. Louis to the fight on a chartered train from the 'Frisco depot at Grand Avenue, along with Tom Kelly, Charley Woods and Dan and Charley Daly",
+      "date": "1888-04-16",
+      "people": ["Tom Kelly", "Charley Woods", "Dan Daly", "Charley Daly"],
+      "places": ["St. Louis", "St. Clair, Mo."],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Flint was described as a former cab-driver who hung around Allen's and Kelly's places before taking up fighting",
+      "date": "1888",
+      "people": ["Artie Flint", "Tom Kelly"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen and Dan Daly are shown here on the same side (Daly helped Allen carry Flint away); they fought in the street two months later (index 029, June 1888). Allen's earlier planned sparring bout with McManus is article 125."
+}

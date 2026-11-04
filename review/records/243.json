@@ -1,0 +1,36 @@
+{
+  "id": "243",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping is the top of Wray's Column (continued from page one), two columns. Only the 'Long Time Between Fights.' item (lower left of crop-1 into crop-2) is about Allen; the rest is about a 1931 title-fight site, the Cubs and horse racing. The Allen item is complete." },
+  "ocr": { "status": "unusable", "notes": "Transcript covers only the right-hand column (Cubs, horse racing) and leaves out the 'Long Time Between Fights' item entirely." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch's Wray's Column recalled that the last heavyweight title fight near St. Louis was Allen's 1873 seven-round win over Mike McCoole on a Mississippi island above the city." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Legacy", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Page header: Page 2E, St. Louis Post-Dispatch, Sunday Morning, July 12, 1931." },
+  "facts": [
+    {
+      "fact": "Allen, weighing about 170 pounds, beat Mike McCoole in a seven-round bare-knuckle fight in 1873 on an island in the Mississippi a short distance above St. Louis, regaining the title McCoole had taken from him four years before; the island later merged with the mainland and became part of East St. Louis",
+      "date": "1873",
+      "people": ["Mike McCoole"],
+      "places": ["island in the Mississippi above St. Louis (now part of East St. Louis)"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen finally lost his crown to Joe Goss in a fight near Louisville, Ky.",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["near Louisville, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The transcript needs replacing with the 'Long Time Between Fights' text; it currently holds unrelated column items. The column says McCoole had taken the crown 'four years before under questionable circumstances' (i.e. 1869). The Goss fight year is not given in the article; 1876 is from the site's other records."
+}

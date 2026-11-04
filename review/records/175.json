@@ -1,0 +1,36 @@
+{
+  "id": "175",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline, subhead and full text in two pieces." },
+  "ocr": { "status": "good", "notes": "Subhead 'Tom Allen's Guests Expect to Get a Fight on While Here' is missing; 'Charley Daly' shortened to 'Daly'; 'taken up quarters' and 'awake him' slightly changed. Otherwise matches." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that heavyweight \"Denver Ed\" Smith and Ike Weir, the \"Belfast Spider,\" were staying at Tom Allen's place, where Allen would back Smith if he could get a match with one of the big fellows." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Monday, St. Louis Post-Dispatch, June 14, 1897, page 5." },
+  "facts": [
+    {
+      "fact": "\"Denver Ed\" Smith (from Cincinnati), his brother Pat (from Chicago) and Ike Weir of Boston, the \"Belfast Spider,\" took quarters at Tom Allen's place in St. Louis while seeking matches",
+      "date": "1897-06-14",
+      "people": ["Denver Ed Smith", "Pat Smith", "Ike Weir"],
+      "places": ["Tom Allen's place, St. Louis", "Cincinnati", "Chicago"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen agreed to back \"Denver Ed\" Smith if Smith could get a fight with any of the big heavyweights; Smith would train in St. Louis after a month at Hot Springs",
+      "date": "1897-06",
+      "people": ["Denver Ed Smith"],
+      "places": ["St. Louis", "Hot Springs"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Calls Allen 'the ex-heavy weight world's champion'. Arrival time (3 a.m. Monday) conflicts with article 174's 'last night'."
+}

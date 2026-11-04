@@ -1,0 +1,46 @@
+{
+  "id": "117",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Has the headline through the last paragraph, with the illustrations. But one paragraph is left out. On the page, below the 'A Sentimental Song' illustration at the foot of the first column, a paragraph begins 'With scarcely an exception, the songs sung while the artist was present...'. It is not in the crop. The crop's pieces are joined across a page fold, so a strip of the masthead appears in crop-6." },
+  "ocr": { "status": "rough", "notes": "What is there is accurate, but about a third of the article is missing. It ends partway through the Tom Kelly section ('...entering the ring again', where the image has 'entering the ranks with the new race of gladiators'). It leaves out the sparring room at Kelly's, Kelly being a grandfather, and the closing paragraph calling Allen 'an incorrigible bachelor' weighing about fifteen stone. It also drops the subheads and illustration captions." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch visited two saloons kept by retired prizefighters. At Tom Allen's English-style free-and-easy, Allen led songs with a gavel and joked that John Barleycorn could down any man. Tom Kelly kept the other, with a sparring ring." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Saloon", "Profiles", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch, Saturday, September 5, 1885', page 9. Headline 'STALWART, BUT STALE.' The artist visited 'yesterday evening'." },
+  "facts": [
+    {
+      "fact": "In 1885 Allen kept a free-and-easy in St. Louis on the English pattern. It had a bar, and a hall with tables and a piano platform where Allen presided, announcing songs with a gavel",
+      "date": "1885-09-04",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "019"
+    },
+    {
+      "fact": "Asked by a drunk patron if any man could down Tom Paddock, Allen said one could down John Sullivan or any of them: John Barleycorn",
+      "date": "1885-09-04",
+      "people": ["Tom Paddock", "John L. Sullivan"],
+      "places": ["St. Louis"],
+      "quote": "Yes, sir, and there's a man can down John Sullivan, or you or any of them. ... There he is in your tumbler, and his name's John Barleycorn.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Post-Dispatch called Allen 'an incorrigible bachelor', with hints of marriage that had come to nothing and a story about 'a certain pretty widow'. It said he weighed about fifteen stone",
+      "date": "1885-09",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Includes drawings captioned 'The Redoubtable Tom Allen', 'Enjoying the Music', 'Quite at Home' and 'Tom Kelly'. The bachelor claim matches the index note '1886 Referred to as a bachelor' (id 000, no unique id), but other facts say Allen was married (040), so it is marked medium."
+}

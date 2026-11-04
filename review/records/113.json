@@ -1,0 +1,78 @@
+{
+  "id": "113",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole 'Still a Mystery' article in 3 pieces."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors: 'concerts are given nightly' (OCR drops 'nightly'), 'fell against the window' (OCR 'by'), 'low quarter shoes', 'ball' for 'bullet', 'd—n you'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Frank Rush, a coal miner lodging over Tom Allen's saloon at 621 Market Street, was shot outside it by a stranger who escaped; Allen and others suspected revenge for an earlier ejection."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Post-Dispatch, Monday, December 22, 1884, page 5. article.json has no focus field."
+  },
+  "facts": [
+    {
+      "fact": "Allen's saloon, the Champion's Rest, was at 621 Market Street, with free and easy concerts given nightly",
+      "date": "1884-12",
+      "people": [],
+      "places": [
+        "Champion's Rest, 621 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Frank Rush, a coal miner who lodged over Allen's saloon, was shot in front of it at 1 a.m. by an unknown man who escaped",
+      "date": "1884-12-22",
+      "people": [
+        "Frank Rush"
+      ],
+      "places": [
+        "621 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen described the shooting to the paper",
+      "date": "1884-12-22",
+      "people": [
+        "Frank Rush",
+        "Christ Hoff"
+      ],
+      "places": [
+        "621 Market Street, St. Louis"
+      ],
+      "quote": "It wasn't half a minute before we heard the shots as fast as a man could fire a gun. When we got outside the man was gone.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Index line 'A man was shot in front of Allens Salloon in 1884' (id 000) matches the shooting fact; existing_fact left blank because 000 is not a unique id."
+}

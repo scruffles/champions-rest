@@ -1,0 +1,196 @@
+{
+  "id": "197",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole column item from headline to the closing rule, across five pieces."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right, but the transcript drops the whole 'Kentucky Authorities Try Requisition' section (Gov. Marmaduke refused requisition papers) and the last words 'Now he weighs more than 200'. Minor slips: 'fistic fun' for 'fistic functions', 'fighting condition' for 'fighting trim', 'merry old England' for the printed 'merry hold Hingland'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, 64, planned to marry his nurse, Mrs. Tillie Hartgrove, 21, once he recovered from his illness, and recalled his ring career and his Champion's Rest saloon at 619 Market Street."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Personal life",
+    "Saloon",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: Friday, St. Louis Post-Dispatch, March 27, 1903, page 6, column 1. Current summary wrongly says he 'marries' her; the article only announces the plan. article.json has no focus field."
+  },
+  "facts": [
+    {
+      "fact": "Allen planned to marry his nurse, Mrs. Tillie Hartgrove, 21, as soon as he recovered, around his 64th birthday on April 23",
+      "date": "1903-03",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "041"
+    },
+    {
+      "fact": "Allen had been ill since Christmas 1902 with kidney trouble and was said to be convalescing",
+      "date": "1902-12",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had kept the Champion's Rest saloon with an English concert hall annex at 619 Market Street for about 23 years, living alone in the apartments above",
+      "date": "1903-03",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen was born in Birmingham, England, on April 23, 1839",
+      "date": "1839-04-23",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "high",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen won the championship boxing cup of England by defeating Charlie Davis in five rounds for a purse of 100 pounds; the paper dates it April 17, 1878",
+      "date": "1878-04-17",
+      "people": [
+        "Charlie Davis"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": "022"
+    },
+    {
+      "fact": "Allen won the championship of America by defeating Mike McCool in seven rounds for a $2,000 purse on September 23, 1873, said to be in St. Louis",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCool"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought in England from 1860 to 1867, then came to America and kept a saloon in Cleveland by 1873",
+      "date": "1867",
+      "people": [],
+      "places": [
+        "England",
+        "Cleveland, Ohio"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "007"
+    },
+    {
+      "fact": "After his fight with Joe Goss in Kentucky on September 7, 1876, warrants were sworn out for both; Goss got two years, while Allen fled to England and waited out the five-year statute of limitations",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Kentucky",
+        "England"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Returning from England, Allen settled in St. Louis and kept a saloon on Washington Avenue between Fourth Street and Broadway for a few years before moving to Market Street",
+      "date": "",
+      "people": [],
+      "places": [
+        "England",
+        "Washington Avenue, St. Louis",
+        "Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "017"
+    },
+    {
+      "fact": "Kentucky authorities reportedly tried to have Allen brought back after he reached St. Louis, but Gov. Marmaduke refused to issue requisition papers",
+      "date": "",
+      "people": [
+        "Gov. Marmaduke"
+      ],
+      "places": [
+        "Kentucky",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was said to have invested some of his ring money in Missouri farms that he still owned",
+      "date": "",
+      "people": [],
+      "places": [
+        "Missouri"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper said Allen had been a widower for more than twenty years",
+      "date": "1903-03",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "family",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The dates and details of the old fights are as the paper gives them; the 1878 date for the Davis fight and 'in St. Louis' for McCool look doubtful. The widower claim is contradicted by article 198 (his daughter says her mother is alive in Birmingham). The statute-of-limitations, Missouri farms and Hartgrove items match index lines with id 000, so existing_fact is blank. Fact 043 dates the illness from Jan 31, 1903; this article says Christmas."
+}

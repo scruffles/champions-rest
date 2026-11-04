@@ -1,0 +1,36 @@
+{
+  "id": "164",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Allen's own letter, one of several pugilists' letters under 'Glove Fights Will Continue'; his letter is complete with signature." },
+  "ocr": { "status": "good", "notes": "Small differences: image reads 'clearly whipped then' (transcript 'clearly out then'), 'no use of', 'inclosed'; transcript drops the heading and the signature 'Thomas Allen, Retired Champion of the World.'" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen's letter on the death of Andy Bowen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch printed a letter from Tom Allen blaming Andy Bowen's seconds for not stopping his fatal fight with George Lavigne and predicting that boxing would survive any ban." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Sunday Morning, St. Louis Post-Dispatch, December 23, 1894, page 10." },
+  "facts": [
+    {
+      "fact": "Allen wrote to the Post-Dispatch blaming Andy Bowen's seconds for his death after the fight with George Lavigne",
+      "date": "1894-12-23",
+      "people": ["Andy Bowen", "George Lavigne"],
+      "places": ["New Orleans"],
+      "quote": "Had Bowen been fortunate enough to have a man behind him who understood his business, I believe he would be still in the land of the living.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he believed in fighting in the open air and that boxing would outlast the New Orleans clubs",
+      "date": "1894-12-23",
+      "people": [],
+      "places": ["New Orleans"],
+      "quote": "I am a firm believer in fighting in the open air, and if Bowen's death puts a quietus on legalized glove contests, the old-time methods will come into vogue once more.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Matches the facts-index line marked 000 ('Allen writes a letter about the Bowen/Lavigne fight'), which has no unique id. Signed 'Thomas Allen, Retired Champion of the World.'"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "111",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole 'Jefferson City' dispatch in 2 pieces; it opens with an unrelated jail-pardon paragraph, then 'A Plea for Tom Allen'."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Accurate apart from minor punctuation."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Judge Chester H. Krum asked Gov. Crittenden to refuse Kentucky's requisition for Tom Allen over an 1876 prize-fighting indictment; the Governor said he was not prepared to honor it."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Post-Dispatch, Thursday, February 21, 1884, page 2. article.json has no focus field."
+  },
+  "facts": [
+    {
+      "fact": "Allen was indicted in Kentucky in 1876 for prize fighting, a misdemeanor",
+      "date": "1876",
+      "people": [],
+      "places": [
+        "Kentucky"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Judge Chester H. Krum asked Missouri Gov. Crittenden at Jefferson City to refuse to surrender Allen on the requisition of Gov. Knott of Kentucky, arguing the effort was to collect a debt Allen owed to Farrell, the bearer of the requisition",
+      "date": "1884-02-21",
+      "people": [
+        "Chester H. Krum",
+        "Gov. Crittenden",
+        "Gov. Knott",
+        "Farrell"
+      ],
+      "places": [
+        "Jefferson City, Missouri"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Gov. Crittenden said he was not prepared to honor the Kentucky requisition for Allen, and the paper judged Allen would not be sent to Kentucky",
+      "date": "1884-02-21",
+      "people": [
+        "Gov. Crittenden"
+      ],
+      "places": [
+        "Jefferson City, Missouri"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

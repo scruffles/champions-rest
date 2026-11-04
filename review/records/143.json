@@ -1,0 +1,65 @@
+{
+  "id": "143",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The whole 'Old St. Louis' feature with its drawings, plus unrelated items in the right column (Good Luck to Bro. Cook, Greek Pirates, Sailed for Europe, Denver fares). Allen is mentioned only near the end of the middle column of crop-2 (the Market Street block between Sixth and Seventh)."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Transcript is an out-of-order, partly paraphrased selection of the feature and leaves out the only passage about Allen ('...it was there that Mike McCool, Tom Kelley and Tom Allen and their following of the fistic fraternity used to congregate and arrange their bruising matches. Tom Allen is in the same place yet...')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen's Market Street block among old buildings due to come down"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch surveyed old downtown buildings giving way to new ones, noting that the Market Street block between Sixth and Seventh, where Tom Allen still kept his saloon, would soon be torn down."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Sunday, July 24, 1892, page 13."
+  },
+  "facts": [
+    {
+      "fact": "Allen's place was in the Market Street block between Sixth and Seventh streets, St. Louis, which was expected to be torn down",
+      "date": "1892-07",
+      "people": [],
+      "places": [
+        "Market Street between Sixth and Seventh streets, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "The Market Street block between Sixth and Seventh had been the main haunt of St. Louis prize fighters, where Mike McCool, Tom Kelley, Allen and their followers met to arrange matches",
+      "date": "",
+      "people": [
+        "Mike McCool",
+        "Tom Kelley"
+      ],
+      "places": [
+        "Market Street between Sixth and Seventh streets, St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary's 'boxing venues' is loose: the article calls the block the haunt where fighters met, not a venue."
+}

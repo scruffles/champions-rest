@@ -1,0 +1,36 @@
+{
+  "id": "174",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole short item with headline and subhead." },
+  "ocr": { "status": "rough", "notes": "Leading junk, 'emith', 'stapes' (stopping), 'puxilisl', 'i=' and 'a ge' (pugilists) garbled; gist readable. Image text is clear." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Denver Ed Smith comes to St. Louis for Tom Allen's backing" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that \"Denver Ed\" Smith and his brother Paddy had come to St. Louis and were staying with Tom Allen, who would back Smith if he could get a match with a prominent pugilist." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Sunday Morning, St. Louis Post-Dispatch, June 13, 1897." },
+  "facts": [
+    {
+      "fact": "Heavyweight \"Denver Ed\" Smith and his brother Paddy came to St. Louis and stayed at Tom Allen's place",
+      "date": "1897-06",
+      "people": ["Denver Ed Smith", "Paddy Smith"],
+      "places": ["Tom Allen's place, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen offered to back \"Denver Ed\" Smith if he could get a match with a prominent pugilist, in which case Smith would train in St. Louis",
+      "date": "1897-06",
+      "people": ["Denver Ed Smith"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The subhead 'Here to Get Tom Allen's Money Back of Him' means Allen's financial backing, not a debt. This item says Denver Ed arrived 'last night' (June 12), but article 175 says he arrived at 3 a.m. Monday (June 14); dates left at month level. Current summary's McCoole/Mace mention is not in the article."
+}

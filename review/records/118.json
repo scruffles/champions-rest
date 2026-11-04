@@ -1,0 +1,26 @@
+{
+  "id": "118",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, from headline 'KELLY'S COURAGE.' through 'more confidence and pluck.'" },
+  "ocr": { "status": "good", "notes": "Close to the image. Small slips: 'the Irish provost' should be 'the principals'; 'and a city Councilman' is left out; Floto said he could stay four rounds 'like Kelly did' (OCR has 'like any did'). The subheads are left out." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Ed Kelly, seconded by his father Tom Kelly and Tom Allen, survived four rounds with English champion Jack Burke at the Casino Theater despite 19 knockdowns, so Burke forfeited $100." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch, Saturday, January 9, 1886', page 2. The contest was 'last night', Jan. 8." },
+  "facts": [
+    {
+      "fact": "Allen and Tom Kelly seconded Ed Kelly against Jack Burke, champion of England, in a four-round Queensberry contest at the Casino Theater, St. Louis. Burke had staked $100 that he would knock Kelly out and failed, though Kelly was down 19 times",
+      "date": "1886-01-08",
+      "people": ["Ed Kelly", "Tom Kelly", "Jack Burke"],
+      "places": ["Casino Theater, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Referee Dick Roche first called it a draw, then withdrew that and said only that Burke had failed to knock Kelly out. Burke's side said it was fixed."
+}

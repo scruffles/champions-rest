@@ -1,0 +1,26 @@
+{
+  "id": "192",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, headline, deck and single paragraph." },
+  "ocr": { "status": "good", "notes": "Image reads 'Timothy Confoy' (OCR 'Conroy') and 'Feb. 20, 1899' (OCR '1809'); otherwise right." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that the state dropped (nolle prosequi) the case against Tom Allen for the 1899 killing of Timothy Confoy in his saloon at Seventh and Market, the evidence being insufficient." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image to check the masthead. 1901-03-04 was a Monday, yet the item says the case was dropped 'Tuesday morning', so the filed date may be off by a few days." },
+  "facts": [
+    {
+      "fact": "The case against Allen for killing Timothy Confoy was nolle prosequied in Judge Fisher's court, the evidence being insufficient",
+      "date": "1901-03",
+      "people": ["Timothy Confoy", "Judge Fisher"],
+      "places": ["Saloon at Seventh and Market streets, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "028"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary wrongly says he was acquitted; the case was dropped by the state, not tried."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "152",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole 'Fistic Forecasts' sporting column (predictions for the New Orleans fights, McAuliffe-Mooney match, Ryan-Dawson, Sullivan, Pugilistic Pointers). Only the 'Tom Allen at New Orleans' paragraph (crop-6) is about Allen; it is complete." },
+  "ocr": { "status": "good", "notes": "Mostly right, but the transcript drops the Dan Murphy (Boston) prediction and the 'Pugilistic Pointers' item, and has some wrong numbers (side stake reads $2,500 in the image, not $2,700; Jim Hall '10 to 6', not '1 to 6'; Paddy Ryan 'Lewis at 2 to 1', not '11 to 1'; McCarthy '10 to 9 in favor of Hall'). The Allen paragraph is accurate ('They boxed six rounds', not 'fought')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen had arrived in New Orleans to second \"Denver\" Ed Smith against Joe Goddard. Allen, who had seconded Smith against Peter Jackson in Chicago, was sure Smith would win." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Thursday Evening, March 2, 1893, page 6, first column." },
+  "facts": [
+    {
+      "fact": "Allen arrived in New Orleans to second Ed Smith in his fight with Joe Goddard",
+      "date": "1893-03",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had handled and seconded Ed Smith in his six-round bout with Peter Jackson in Chicago",
+      "date": "",
+      "people": ["Ed Smith", "Peter Jackson"],
+      "places": ["Chicago"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Allen item is one short section of a general sporting column, so focus is secondary."
+}

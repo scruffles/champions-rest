@@ -1,0 +1,110 @@
+{
+  "id": "223",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole 'John L. Sullivan's Story of His Life' Chapter XII column, from headline and portrait to the signed 1882 challenge. Allen appears only in the 'Mace to the Top' section (crop-5)."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Close to the image, with a few errors in the figures: image reads '1872 Jem Mace drew with Joe Coburn' (OCR 1870), 'Keanville, New Orleans' (OCR 'Kenner'), Hogan fight 'for $2000' (OCR $200), Goss-Ryan 'May 30, 1880' and '$1000' (OCR May 20, $1600)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch ran a chapter of John L. Sullivan's memoir arguing he was the true world champion, with a list of past title fights that included Tom Allen's bouts with McCoole, Mace, Hogan and Goss."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead reads 'Saturday Evening, January 22, 1910. St. Louis Post-Dispatch', page 8, Live Sporting News and Comment."
+  },
+  "facts": [
+    {
+      "fact": "Sullivan's 1910 memoir listed McCoole as beating Allen in 1869 for the championship of the world",
+      "date": "1869",
+      "people": [
+        "Mike McCoole",
+        "John L. Sullivan"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Sullivan's memoir listed Jem Mace beating Allen in 1870 for the title and $5,000 at 'Keanville' (Kennerville), near New Orleans",
+      "date": "1870",
+      "people": [
+        "Jem Mace",
+        "John L. Sullivan"
+      ],
+      "places": [
+        "Kennerville, near New Orleans, Louisiana"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat McCoole on Sept. 23, 1873, at Chouteau Island near St. Louis, according to Sullivan's memoir",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCoole",
+        "John L. Sullivan"
+      ],
+      "places": [
+        "Chouteau Island, near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Ben Hogan fought Allen on Nov. 18, 1873, for $2,000 and the championship of the Pacific coast; Allen was winning when a wrangle broke up the fight, per Sullivan's memoir",
+      "date": "1873-11-18",
+      "people": [
+        "Ben Hogan",
+        "John L. Sullivan"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Joe Goss fought Allen on Sept. 7, 1876, in Kentucky for $2,000 and the championship of the world; Goss was declared winner, per Sullivan's memoir",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss",
+        "John L. Sullivan"
+      ],
+      "places": [
+        "Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "A secondhand retrospective by Sullivan; the Allen fights are a few lines in a longer list of champions. The current summary does not mention Allen."
+}

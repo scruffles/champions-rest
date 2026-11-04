@@ -21,3 +21,18 @@ Cross-article findings to resolve when merging records into the data. Per-articl
 ## Facts index cleanup
 
 - Some entries have id `000` or no id, so new facts cannot link to them.
+
+## Noted during the full run
+
+- 174 and 175 give different arrival dates for Denver Ed Smith (facts dated to the month only).
+- 106: the OCR says Brooks was knocked out; the image says Egan. 109: the OCR says "None" of the principals were arrested; the image says "Both". Fix the transcripts.
+- 119: the current title and summary credit Tom Kelly's opinions to Allen.
+- 133: "Tom Allen, the big middleweight" in a New York ear exhibit is probably a different boxer.
+- 192: filed 1901-03-04 (a Monday) but the item says the case was dropped "Tuesday morning"; the date may be off (no page image to check).
+- 185: the masthead date is 1899-03-03; check against the filed date.
+- 186/187: the titles look swapped, and 187's date (1899-05-04) is probably about 1899-02-28 to 03-01, after the coroner's verdict.
+- Burial: 208 says Calvary Cemetery, 209 says Bellefontaine.
+- 210: its image paths point at image-261 files; the images may be swapped between 210 and 261.
+- 201: the transcript gives the bride's age as 33; the clipped image suggests 21.
+- 202: the address is 3427 Clark (the OCR says 2427).
+- 237: no images or text; probably a duplicate of 236.

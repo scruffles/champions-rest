@@ -1,0 +1,46 @@
+{
+  "id": "162",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Not Money Savers' item, headline to the closing rule." },
+  "ocr": { "status": "good", "notes": "Close match; minor slips ('muellage' for mucilage, 'Billy Myer' printed 'Cilly Myer'); omits the subheads." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that few prizefighters saved their earnings, noting that Tom Allen had nothing to show for his ring career but a saloon on Market Street that kept him comfortably." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Saloon", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Thursday, St. Louis Post-Dispatch, February 1, 1894, page 4." },
+  "facts": [
+    {
+      "fact": "By 1894 Allen had nothing to show for his ring career but a saloon on Market Street, St. Louis, whose profits let him live comfortably",
+      "date": "1894-02",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Mike McCoole, Allen's old rival in St. Louis in the early 1870s, died in a New Orleans home for paupers",
+      "date": "",
+      "people": ["Mike McCoole"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "023"
+    },
+    {
+      "fact": "The paper said Jem Mace defeated Allen for the world's championship",
+      "date": "",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Market Street saloon fact matches the facts-index line marked 000 ('by 1894 Allen has nothing to show...'), which has no unique id, so 011 is linked."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "234",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole column from the headline 'Corbett Tells of Tom Allen Debut in American Ring' and decks to the King Features copyright line." },
+  "ocr": { "status": "good", "notes": "Mostly right. Small errors: image says 'In June, 1864' (OCR adds '21'), 'Acquia Creek, Vt.' (OCR 'Va.'), 'award the fight and the stakes to Parkinson', and 'none of Kelly's gangmen attempted to attack Harding, and he walked to the train unmolested' (OCR shortens it). Subheads omitted." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "In a column for The St. Louis Star, James J. Corbett recounted Tom Allen's English fights, his 1867 draw with Joe Goss, and his first U.S. appearance as Tom Kelly's second, when he drew a revolver on the referee and cut the ropes." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights", "Legacy", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The St. Louis Star", "notes": "Masthead reads 'The St. Louis Star, Thursday Evening, January 2, 1919', page 15. The Star and Times name dates from 1932." },
+  "facts": [
+    { "fact": "Corbett gives Allen's birthplace as Birmingham, England, and his birth year as 1840", "date": "1840", "people": [], "places": ["Birmingham, England"], "quote": "", "kind": "birth", "confidence": "medium", "existing_fact": "001" },
+    { "fact": "Allen's first prize fight was a win over a man named Waggner in Birmingham for a $25 side bet", "date": "1861", "people": ["Waggner"], "places": ["Birmingham, England"], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen then beat a fighter named Gould for a $200 stake", "date": "", "people": ["Gould"], "places": [], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen lost to Posh Price in fifty-five minutes", "date": "1862", "people": ["Posh Price"], "places": [], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen beat Bingley Rose at Nottingham, England, for $250 in twenty-nine minutes", "date": "", "people": ["Bingley Rose"], "places": ["Nottingham, England"], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen lost to Bob Smith of Liverpool after two hours and fifteen minutes, in a fight for $50 a side", "date": "1864-06", "people": ["Bob Smith"], "places": [], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen beat Jack Parkinson in twenty minutes", "date": "1865", "people": ["Jack Parkinson"], "places": [], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen beat Posh Price in a rematch for $125 a side, Price quitting after two hours and five minutes", "date": "1865", "people": ["Posh Price"], "places": [], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen beat George Iles on June 12, 1866", "date": "1866-06-12", "people": ["George Iles"], "places": [], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen and Joe Goss fought a draw for the championship of England and $500 a side after 35 rounds (1 hour 52 minutes)", "date": "1867-03-05", "people": ["Joe Goss"], "places": ["England"], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Bill Thorne, Mike Cocklin and Peter Millard each forfeited $250 rather than fight Allen", "date": "1867", "people": ["Bill Thorne", "Mike Cocklin", "Peter Millard"], "places": [], "quote": "", "kind": "challenge", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Unable to get another match in England, Allen went to the United States in 1867", "date": "1867", "people": [], "places": ["England", "United States"], "quote": "", "kind": "travel", "confidence": "medium", "existing_fact": "006" },
+    { "fact": "Allen's first U.S. ring appearance was as second to Tom Kelly against Bill Parkinson of Pottsville, Pa., for $1,000 a side at Aquia Creek (printed 'Acquia Creek, Vt.'); he drew a revolver on referee Wm. E. Harding, then cut the ropes and carried Kelly out, and Harding gave the fight and stakes to Parkinson on a foul", "date": "", "people": ["Tom Kelly", "Bill Parkinson", "William E. Harding"], "places": ["Aquia Creek, Va."], "quote": "", "kind": "fight", "confidence": "medium", "existing_fact": "" }
+  ],
+  "needs_human": false,
+  "notes": "A 1919 retrospective by Corbett; dates and details are secondhand. Birth year 1840 conflicts with fact 001 (April 23, 1839). The Kelly-Parkinson fact matches the unnumbered index item 'before he fought in america, he seconded Kelly in a fight...' (id 000). The paper calls Kelly both 'an old St. Louis fighter' and 'the Baltimore fighter'."
+}

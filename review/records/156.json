@@ -1,0 +1,36 @@
+{
+  "id": "156",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article from the 'Certainly Means Business' headline down to the end of the first column block, including the illustrations and the continuation in the next column." },
+  "ocr": { "status": "good", "notes": "Mostly right, but the transcript stops partway: it omits the closing paragraphs (the governor saying no decision but the supreme court's will deter him, the Tampa 'camp hunt' dispatch, and Corbett and Mitchell trading insults). Tom Sayers 'only 100 pounds' should be 160; 'English build' is 'British build'." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Florida governor vows to stop the Corbett-Mitchell fight" },
+  "summary": { "ok": false, "suggested": "The St. Joseph Gazette reported Florida Gov. Mitchell's vow to stop the Corbett-Mitchell fight, and that Tom Allen, who said Corbett had only jabbed his way to the title, would go to Jacksonville to cook for and help train Mitchell." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Joseph Weekly Gazette", "notes": "Page head reads 'THE GAZETTE: ST. JOSEPH, MO.'; no date visible on the page. Dispatches are datelined Dec. 29 (1893), consistent with a Jan. 2, 1894 weekly issue." },
+  "facts": [
+    {
+      "fact": "Allen was to go to Jacksonville to help prepare Charley Mitchell for his fight with James J. Corbett, taking charge of Mitchell's food and possibly acting as one of his seconds",
+      "date": "1893-12",
+      "people": ["Charley Mitchell", "James J. Corbett"],
+      "places": ["St. Louis", "Jacksonville, Florida"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Corbett had jabbed his way to the championship and never struck a decisive blow in his fight with Sullivan",
+      "date": "1893-12",
+      "people": ["James J. Corbett", "John L. Sullivan"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's remark about Corbett is reported indirectly, not quoted, so the quote field is blank. Paper name kept as filed (masthead shows only 'The Gazette')."
+}

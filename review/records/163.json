@@ -1,0 +1,26 @@
+{
+  "id": "163",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Foley Identified' item, through Harrington's closing remark." },
+  "ocr": { "status": "good", "notes": "Close match; drops the final sentence (Harrington knows of no enemies) and the 'you—you I mean—pointing to Carroll' aside; 'Capt. Klely' vs 'Kiely/Kelly' as printed." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Robbery suspect arrested at Tom Allen's saloon" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that police arrested John Foley, a suspect in the hold-up of Carroll & Harrington's saloon on North Broadway, at Tom Allen's saloon on Market Street, where a witness had seen him." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Thursday evening, March 8, 1894, front page." },
+  "facts": [
+    {
+      "fact": "Police arrested robbery suspect John Foley at Tom Allen's saloon on Market Street, St. Louis",
+      "date": "1894-03-08",
+      "people": ["John Foley"],
+      "places": ["Tom Allen's saloon, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen himself is not involved; only his saloon is the place of arrest. Arrest was the night of March 7 or early March 8 (the text says officers went after the robbery 'last night')."
+}

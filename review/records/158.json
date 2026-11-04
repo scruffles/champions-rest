@@ -1,0 +1,26 @@
+{
+  "id": "158",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The 'Tom Allen's Joke' subsection of a longer Mitchell training article; complete. A tear in the paper obscures a few words in one line." },
+  "ocr": { "status": "good", "notes": "Transcript drops 'finally no one remained but' before 'Tom Allen and the reporter' and garbles the reporter's question; the tear hides part of it ('Wher... going to get a chance to see Charley'). 'getting jokes' should be 'playing jokes'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, one of Charley Mitchell's trainers, played a joke on a visiting reporter, going in 'to see' about Mitchell and leaving him waiting on the porch while the trainers napped." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Friday, St. Louis Post-Dispatch, January 19, 1894." },
+  "facts": [
+    {
+      "fact": "Allen was one of Charley Mitchell's trainers at his Florida training quarters before the Corbett fight",
+      "date": "1894-01",
+      "people": ["Charley Mitchell"],
+      "places": ["Florida"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

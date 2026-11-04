@@ -1,0 +1,36 @@
+{
+  "id": "116",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Contains the whole '\"Charger\" Price' paragraph that mentions Allen. The top lines are the end of an unrelated item, and the last line ('...but little atten-') is cut off at the bottom; nothing about Allen is lost." },
+  "ocr": { "status": "good", "notes": "Matches the image. The subhead '\"Charger\" Price' is left out. The transcript's last words ('tion was paid') are below the crop and cannot be checked." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Policeman C. W. Price was once Allen's barkeeper" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that policeman C. W. Price, who brought charges against Harrigan, came to America with Tom Allen and had been the barkeeper at Allen's old Washington Avenue free-and-easy." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image to check the masthead. The source file name gives Saturday, May 30, 1885, St. Louis Post-Dispatch." },
+  "facts": [
+    {
+      "fact": "C. W. Price, an Englishman, came to America with Allen and was for some time his protégé in St. Louis",
+      "date": "",
+      "people": ["C. W. Price"],
+      "places": ["England", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Price was the barkeeper at the old Washington Avenue free-and-easy that Allen kept in his prime, a place known for the thugs and roughs who frequented it",
+      "date": "",
+      "people": ["C. W. Price"],
+      "places": ["Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Price joined the police in 1877. The free-and-easy is probably the one at 417 Washington Ave (facts 009/017), but the article gives no address."
+}

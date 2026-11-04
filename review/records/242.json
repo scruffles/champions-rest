@@ -1,0 +1,15 @@
+{
+  "id": "242",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "image is the full first page of a two-page feature (Sports Section, Fiftieth Anniversary Number); the continuation page is missing and the body text is too small to read" },
+  "ocr": { "status": "unusable", "notes": "transcript does not match the image: caption says ten thousand spectators and 49 rounds, not one thousand and four; the article body is not transcribed" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Famous St. Louis fights and fighters" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch's fiftieth-anniversary sports section ran John E. Wray's history of St. Louis prize fighting, which names Tom Allen and Mike McCoole among the bare-knuckle era fighters." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "masthead: St. Louis Post-Dispatch Sports Section, Fiftieth Anniversary Number, December 9, 1928" },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Body text is too small to read at this resolution; Allen and McCoole appear to be described, possibly their 1873 fight, but I cannot read it reliably. Needs higher-resolution images of both pages and a new transcript."
+}

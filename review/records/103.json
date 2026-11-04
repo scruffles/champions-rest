@@ -1,0 +1,36 @@
+{
+  "id": "103",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article from 'ALL FRAUDS' headline to 'bade the pugilist good-by'; a Howard's bar ad below is included but harmless." },
+  "ocr": { "status": "good", "notes": "Mostly right, but drops the dateline 'NEW YORK, March 27' and a passage ('Will I have su'thin'? ... the days of good ring fighters are gone.'); currency errors: '£20,000' should be '$20,000', '£2,500' should be '$2,500' (twice), '$5,000 to £10,000' should be '$5,000 to $10,000'; 'camp' should be 'manager', 'sent out Tom' should be 'brought out Tom'." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "An Old Pugilist Calls the Knocking-Out Matches Frauds" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch printed an old pugilist's claim that recent knocking-out matches were frauds, saying Allen was brought over to meet Sullivan but was dropped as a puffy old man after Rooke knocked him down twice." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Challenges", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Post-Dispatch, Tuesday, March 27, 1883, page 2. Telegraphed from New York. article.json has no focus field." },
+  "facts": [
+    {
+      "fact": "An unnamed old pugilist in New York said Allen was imported from England by a backer, heralded to meet John L. Sullivan for $2,500 a side, but the backer dropped him on seeing what a puffy old man he had become",
+      "date": "1882",
+      "people": ["John L. Sullivan"],
+      "places": ["England", "New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": "016"
+    },
+    {
+      "fact": "At his benefit at the Garden in New York, Allen wound up with George Rooke, who knocked him down twice wearing gloves 'as big as pillows'; Allen then went west",
+      "date": "1882",
+      "people": ["George Rooke"],
+      "places": ["Madison Square Garden, New York"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Both facts are the unnamed pugilist's hostile account; article 102 gives Allen's version (his foot went through the stage). 'The Garden' is presumably Madison Square Garden. Charley Mitchell's challenge naming Allen among others is general boxing news, left out."
+}

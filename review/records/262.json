@@ -1,0 +1,116 @@
+{
+  "id": "262",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Pieces 1 to the top of 5 are the weekend feature 'Bare knuckle boxing: Only strong survived' by Robert L. Burnes (the Allen article). The rest of piece 5 through 8 is Burnes's follow-up column 'Tales completed' (article 263) and its unrelated Henry Armstrong section." },
+  "ocr": { "status": "good", "notes": "Transcript covers the feature only and matches the image closely; typos in the print ('dcotor', 'nuscle', 'Alllen') are silently corrected." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's Robert L. Burnes recounted Tom Allen's bare-knuckle career, from his fights with McCoole to his 1876 loss to Joe Goss, and the silver cup given him in London in 1878, now owned by his great-grandson." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legacy", "Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "No page image. Article 263 (Tues. Apr. 4, 1978) says this story ran in 'the weekend edition', so it is probably April 1-2, 1978; the year is right." },
+  "facts": [
+    {
+      "fact": "Allen beat Bill Davis in 43 rounds on Chouteau Island and then challenged McCoole",
+      "date": "1869",
+      "people": ["Bill Davis", "Mike McCoole"],
+      "places": ["Chouteau Island, Mississippi River"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought McCoole on Carpenter's Island; the fight was broken up by gamblers and the referee later declared McCoole the winner on a foul, then said he had been intimidated",
+      "date": "1869-06-15",
+      "people": ["Mike McCoole"],
+      "places": ["Carpenter's Island, Mississippi River"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen supplied the whiskey for the island fights, saying about 1,400 or 1,500 men came to the first McCoole fight",
+      "date": "1869-06-15",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "Whenever we arranged a fight on one of the islands, I'd take care of the whiskey. For that first fight with McCoole, we must have had 1,400 or 1,500 men assembled and they all came to drink and watch the fight.",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jem Mace beat Allen at Kennersville, La., by a knockout in the 10th round",
+      "date": "1870",
+      "people": ["Jem Mace"],
+      "places": ["Kennersville (Kennerville), Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat McCoole in 11 rounds on Chouteau's Island in their rematch",
+      "date": "1871-09-23",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, Mississippi River"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost the title to Joe Goss on a foul in the 21st round on an island near Covington, Ky.",
+      "date": "1876-09-07",
+      "people": ["Joe Goss"],
+      "places": ["island near Covington, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen returned to England and was presented with a silver cup by friends and admirers at the Cambridge Hall, Newman St. and Oxford St., London",
+      "date": "1878-05-22",
+      "people": [],
+      "places": ["Cambridge Hall, Newman St. and Oxford St., London, England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen ran the Sportsmen's Rest saloon on Market Street between 6th and 7th, St. Louis, until his death",
+      "date": "",
+      "people": [],
+      "places": ["Market Street between 6th and 7th, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "A shot fired during Allen's fight with Charley Gallagher struck his right hand; a doctor removed the ball and Allen fought on and won",
+      "date": "",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "quote": "It didn't hit the nuscle, so I just kept on fighting and won.",
+      "kind": "health",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The father of Allen's great-grandson Thomas Allen Taylor retrieved Allen's silver cup from a pawn shop on Market Street in 1938",
+      "date": "1938",
+      "people": ["Thomas Allen Taylor"],
+      "places": ["Market Street, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "050"
+    }
+  ],
+  "needs_human": false,
+  "notes": "A 1978 retrospective, so fight facts are medium confidence. It names the opponent 'Bill McCoole' (he was Mike McCoole) and gives Allen's death as April 6, 1903 (existing fact 042 says April 5). The Gallagher gunshot story is unconfirmed family/lore and the quote is printed with the typo 'nuscle'. The silver cup is inscribed 'Champion Boxer of England'."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "199",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item from headline to closing rule."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Two errors: 'No. 1 North Broadway' should be 'No. 100 North Broadway', and 'Tom is the day bartender' drops 'Murphy' ('Tom Murphy is the day bartender')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic reported that J. W. L. Gillespie, holding a bill of sale from the sick Allen, tried to take over his Market Street saloon, but bartender Tom Murphy refused to give up the place or the day's receipts."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon",
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: The Republic, Friday, April 3, 1903, page 14, column 1. The St. Louis Republic is correct for 1903 (the database spells it 'The St Louis Republic'). Current summary's 'financial woes' is not in the item."
+  },
+  "facts": [
+    {
+      "fact": "J. W. L. Gillespie, a saloon keeper at 100 North Broadway, tried to take possession of Allen's saloon at 619 Market Street with a bill of sale made by Allen; bartender Tom Murphy refused to hand over the place or the receipts",
+      "date": "1903-04-02",
+      "people": [
+        "J. W. L. Gillespie",
+        "Tom Murphy"
+      ],
+      "places": [
+        "619 Market Street, St. Louis",
+        "100 North Broadway, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Matches the index line about Gillespie claiming a bill of sale from the hospital bed (id 000), so existing_fact is blank. Article 200 (Post-Dispatch, same day) says the Hyde Park brewery put Gillespie in charge and that Murphy took the place back on Wednesday morning; this one dates the attempt 'yesterday' (Thursday, April 2)."
+}

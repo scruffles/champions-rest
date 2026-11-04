@@ -1,0 +1,85 @@
+{
+  "id": "213",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole 'General News of the Ring and Gossip of the Fighters' column, with the Joe Goss portrait and caption. The Allen–Goss item is the second half of the column; the first half is about the Sullivan–Forbes bout."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right. Minor differences: 'Feeney' (image: 'Eezenah'), 'considered just' (image: 'considered proper'), 'a stake of $2,000' (image: 'side bets of $2,000'), 'battleground' printed as such where transcript says 'scene'. Goss photo caption not transcribed."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Recollection of the 1876 Allen–Goss Fight"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic recalled the September 7, 1876 Allen–Goss fight in Boone County, Kentucky, which Allen lost on a deliberate foul in the 21st round after Joe Goss's friends raised an uproar."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Legal",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "No page image; crop reads 'Written for the Sunday Republic'. Date Sunday April 26, 1903 consistent with the source filename."
+  },
+  "facts": [
+    {
+      "fact": "Allen fought Joe Goss on September 7, 1876, for side bets of $2,000; the ring, planned for Kenton County, Kentucky, was moved to Boone County after militia stopped it, on a farm of the father of horseman Rome Respass; Eph Holland promoted and refereed",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss",
+        "Eph Holland"
+      ],
+      "places": [
+        "Boone County, Kentucky",
+        "Kenton County, Kentucky",
+        "Cincinnati, Ohio"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was mastering Goss and knocked him off his feet in the 21st round, but when Goss's friends raised an uproar Allen, frightened, struck Goss while he was down, clearly intending to lose on a foul; Holland gave the fight to Goss",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss",
+        "Eph Holland"
+      ],
+      "places": [
+        "Boone County, Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the fight both Allen and Goss were arrested and released on bail",
+      "date": "1876-09",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Kentucky"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "This 1903 account (reprinted from a Cincinnati paper) puts the foul in the 21st round in Boone County, Kentucky; record 203 says the 37th round and 'near St. Louis'. It also says Allen deliberately fouled, against 203's claim he was swindled."
+}

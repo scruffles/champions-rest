@@ -1,0 +1,56 @@
+{
+  "id": "269",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'The Prize Ring' item, bottom of the first column." },
+  "ocr": { "status": "rough", "notes": "Gist right but errors: Wilson 'a fair man' (not 'big'); 'Elliott fizzle' (not 'El Rio'); 'came on a visit to see his friends' omitted; cup on 'Mr. Sheppard's sideboard of the Abbey', 'nearly twenty-four inches in height', inscribed 'champion boxer of England', dated May 22, 1878 (not 1875). An ink smear covers parts of a few lines about Wilson opening a public house and Sullivan." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Cleveland Leader, quoting the Boston Star, reported that Tom Allen had just arrived from England and was resting at Patsy Sheppard's in Boston, planning a few weeks in New York and possibly exhibitions." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Profiles", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: The Cleveland Leader, Wednesday Morning, November 1, 1882. article.json has no focus field." },
+  "facts": [
+    {
+      "fact": "Allen arrived in Boston from England and stayed at Patsy Sheppard's sporting resort on Hayward Place",
+      "date": "1882-10",
+      "people": ["Patsy Sheppard"],
+      "places": ["England", "Patsy Sheppard's, Hayward Place, Boston"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "016"
+    },
+    {
+      "fact": "Allen planned to go from Boston to New York for a few weeks, likely giving exhibitions, before returning to England, saying he had not come to fight anyone but to visit friends",
+      "date": "1882-11",
+      "people": [],
+      "places": ["Boston", "New York", "England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen called Tug Wilson a 'faker' for skipping out on his backer Richard K. Fox, and judged John L. Sullivan, whom he had never met, the best man in the world",
+      "date": "1882-10",
+      "people": ["Tug Wilson", "Richard K. Fox", "John L. Sullivan"],
+      "places": ["Boston"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had a silver cup presented to him as 'champion boxer of England' by his backers and admirers on May 22, 1878, at Cambridge Hall, Newman Street, Oxford Street, London",
+      "date": "1878-05-22",
+      "people": [],
+      "places": ["Cambridge Hall, Newman Street, Oxford Street, London"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's opinions are reported in indirect speech, so no verbatim quote. Article gives his age as forty-three."
+}

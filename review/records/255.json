@@ -1,0 +1,123 @@
+{
+  "id": "255",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "no_crop",
+    "notes": "crop-1 is the whole of page 13A (Mar 30, 1941), and page.jpg is page 14A. The Allen story is John E. Wray's 'It Happened 68 Years Ago! Tom Allen, 50 Pounds Lighter, Beat Mike McCoole in First Title Go Here' in the lower left of 13A, with a 'Champion's Rest' drawing. It continues on 14A as 'St. Louis' First Title Fight 68 Years Ago / Sure We Had a World Champion', with two photos and a 'When St. Louis Was Fight Center of the World' chronology box. Both parts need their own crops."
+  },
+  "ocr": {
+    "status": "unusable",
+    "notes": "The transcript is a different article: baseball (Browns vs. Bees, Cardinals vs. Phillies) and a Joe Louis caption. None of the Allen story is transcribed. I read the facts below from zoomed crops of the full-resolution page images."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "St. Louis' First Title Fight, 68 Years Ago"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch's John E. Wray retold Tom Allen's 1869 fight with Mike McCoole, lost on an intimidated referee's decision, and his 1873 win over McCoole on Chouteau Island, which the paper called St. Louis' first world title fight."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legacy",
+    "Fights",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Sunday Morning, March 30, 1941, pages 13A and 14A. The article says Allen died in 1904 at age 64; he died in 1903."
+  },
+  "facts": [
+    {
+      "fact": "Allen and Mike McCoole first fought in 1869 on Foster's Island in the Mississippi, not far from St. Louis, admittedly for the American title",
+      "date": "1869",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "Foster's Island, Mississippi River, near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In the 1869 fight a mob of McCoole supporters slashed the ropes and rushed the referee with knives and revolvers in the ninth round; that night, from the stage of the Casino Theater, referee Valentine McKinney gave the decision to McCoole on a foul, saying Allen had gouged his eye",
+      "date": "1869",
+      "people": [
+        "Mike McCoole",
+        "Valentine McKinney"
+      ],
+      "places": [
+        "Casino Theater, St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat McCoole on Sept. 23, 1873, on Chouteau Island (now part of the Illinois mainland at East St. Louis), in 16 minutes and seven rounds, when McCoole's second Tom Kelly threw in the towel; the fight was billed for the world title",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCoole",
+        "Tom Kelly"
+      ],
+      "places": [
+        "Chouteau Island, Mississippi River, near East St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen to McCoole's second during the 1873 fight, as the 1941 article quotes him",
+      "date": "1873-09-23",
+      "people": [
+        "Tom Kelly",
+        "Mike McCoole"
+      ],
+      "places": [
+        "Chouteau Island, Mississippi River"
+      ],
+      "quote": "It's a shame to keep such a man before me. Take him out!",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At 37, Allen lost the championship to Joe Goss in 21 rounds on a foul and then retired",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After retiring, Allen named his saloon on Market near Seventh Street \"Champion's Rest\"; the photo caption puts it where the American Hotel later stood",
+      "date": "",
+      "people": [],
+      "places": [
+        "Market Street near Seventh, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Needs proper crops of both parts (13A and 14A) and a new transcript. The OCR is a baseball story. I read the text from zoomed sections of public/images/articles/image-255b.jpg (13A) and image-255.jpg (14A); I did not read every paragraph of the continuation or the chronology box. The current summary says Jem Mace refereed the 1869 fight; the article names Valentine McKinney. The current title '2 pages' is a placeholder."
+}

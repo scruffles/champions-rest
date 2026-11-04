@@ -1,0 +1,26 @@
+{
+  "id": "126",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The 'Tom Allen's Ideas.' section of a larger article is complete; the end of the previous section and the 'Tom Kelly' sub-head below are just visible. No page image to check the masthead." },
+  "ocr": { "status": "good", "notes": "Minor wording error: 'managed to get away from Sullivan' should be 'managed to keep away from Sullivan'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch printed Tom Allen's view of the Mitchell–Sullivan fight: Charley Mitchell dodged and winded Sullivan, though one good blow from a fresh Sullivan would have ended it in the second round." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "No page image; date and paper taken from the file name (St. Louis Post-Dispatch, Sunday, March 11, 1888). The section is one of several local reactions to the news of the fight." },
+  "facts": [
+    {
+      "fact": "Allen, called the ex-champion, gave his opinion of the Mitchell–Sullivan fight, crediting Mitchell's dodging for winding Sullivan",
+      "date": "1888-03",
+      "people": ["Charley Mitchell", "John L. Sullivan"],
+      "places": ["St. Louis"],
+      "quote": "My ideas of the fight are that Mitchell, who is one of the cleverest dodgers in the ring, managed to keep away from Sullivan for a good while and winded the big fellow. ... If Sullivan could have got one good crack at Mitchell while fresh the fight would have stopped in the second round.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The clipping does not name the fight's date or place; it is presumably the Sullivan–Mitchell fight in France on March 10, 1888, but that is not stated in the text. Focus suggested secondary because this is one section of a larger round-up of reactions."
+}

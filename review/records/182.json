@@ -1,0 +1,46 @@
+{
+  "id": "182",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole wire item, headline to end." },
+  "ocr": { "status": "good", "notes": "Matches the image except 'heavy-weight champion' where the print reads 'heavy-weight championship'. The paper's 'Coupry' is a misspelling of Timothy Confoy." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Sedalia Democrat reported that Tom Allen was under arrest at the Four Courts in St. Louis, charged with murder after the man he shot in his saloon died, and that Allen said he thought the man was going to shoot him." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The Sedalia Democrat", "notes": "Masthead: Sedalia Democrat, Monday Evening, February 27, 1899, page 4. Dateline St. Louis, Feb. 27." },
+  "facts": [
+    {
+      "fact": "Allen shot a man (printed as Tom Coupry; Timothy Confoy) during a fracas in his St. Louis saloon; the man died at the City Hospital shortly before midnight",
+      "date": "1899-02-26",
+      "people": ["Timothy Confoy"],
+      "places": ["Allen's saloon, St. Louis", "City Hospital, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "028"
+    },
+    {
+      "fact": "Allen was held under arrest at the Four Courts, St. Louis, charged with murder",
+      "date": "1899-02-27",
+      "people": [],
+      "places": ["Four Courts, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he thought the man was going to shoot him and for that reason used his revolver",
+      "date": "1899-02-27",
+      "people": ["Timothy Confoy"],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same wire item as 185. The victim's name is misprinted 'Coupry'; St. Louis papers give Timothy Confoy."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "263",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole column 'Tales completed' (Robert L. Burnes, 'the bench warmer') with the photo 'Tom Taylor with trophy'. The column ends with an unrelated Henry Armstrong section, left out of the transcript." },
+  "ocr": { "status": "good", "notes": "Close to the image, with two omissions: 'and to a friend, Tillie Hartgrove' (name dropped) and 'it was discovered that he had gone the way of fighters up to this day' (shortened)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's Robert L. Burnes finished his weekend story on Tom Allen, writing that Allen quit boxing over the Queensberry rules, that his estate came to $278.35, and that his great-grandson holds his silver cup." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legacy", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Page header reads '2C St. Louis Globe-Democrat Tues. Apr. 4, 1978'." },
+  "facts": [
+    {
+      "fact": "Allen retired rather than fight under the Queensberry rules with gloves",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "They've made it a sissy sport. I want no part of it.",
+      "kind": "quote",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's daughter Mary, also called Polly, came to the United States with him and married Edward Taylor of St. Louis",
+      "date": "",
+      "people": ["Mary (Polly) Allen Taylor", "Edward Taylor"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's will left everything to his daughter Polly Allen Taylor and to a friend, Tillie Hartgrove",
+      "date": "1903",
+      "people": ["Polly Allen Taylor", "Tillie Hartgrove"],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "When Allen's will was probated, the estate amounted to $278.35",
+      "date": "1903",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": "049"
+    },
+    {
+      "fact": "Allen's silver cup went to Tillie Hartgrove after his death; it was later retrieved from a Market Street pawn shop in 1938 by the father of great-grandson Thomas Allen Taylor",
+      "date": "1938",
+      "people": ["Tillie Hartgrove", "Thomas Allen Taylor"],
+      "places": ["Market Street, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "050"
+    },
+    {
+      "fact": "A family story held that Allen owned a diamond belt for the world championship, but no one could verify it",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The 'sissy sport' quote is reported 75 years after the fact without a source, hence low confidence. Thomas Allen Taylor planned to offer the cup to the Missouri Historical Society (1978), not added as a fact."
+}

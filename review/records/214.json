@@ -1,0 +1,88 @@
+{
+  "id": "214",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item, headline to last line."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Short and mostly right, but one sentence is wrong: transcript 'it was announced that he would obtain her divorce' (image: 'it was announced that he was to wed the woman when she obtained her divorce'). Also 'dwindled to nothing' (image: 'dwindled almost to nothing'). Subheads not transcribed."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Judge Taylor curtly denied Tillie Hartgrove a divorce from Martin Hartgrove on learning she had been the late Tom Allen's housekeeper; Allen had willed her his property."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Legal",
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: FRIDAY—ST. LOUIS POST-DISPATCH—MAY 22, 1903, page 16."
+  },
+  "facts": [
+    {
+      "fact": "Judge Taylor denied Tillie Hartgrove's divorce from Martin Hartgrove when he learned she had been Allen's housekeeper; she testified her husband deserted her less than two weeks after their wedding seven years earlier",
+      "date": "1903-05",
+      "people": [
+        "Tillie Hartgrove",
+        "Martin Hartgrove",
+        "Judge Taylor"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Before Allen died it was announced that he was to wed Hartgrove when she obtained her divorce",
+      "date": "1903",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "041"
+    },
+    {
+      "fact": "Allen willed his property to Hartgrove for her services",
+      "date": "1903",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "046"
+    },
+    {
+      "fact": "Allen's estate had dwindled almost to nothing and was still in litigation",
+      "date": "1903-05",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "049"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

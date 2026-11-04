@@ -1,0 +1,46 @@
+{
+  "id": "251",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Continuation of Wray's Column from page one; the Allen passage (end of 'Will Max Regain Title?' running into the next column) is complete." },
+  "ocr": { "status": "good", "notes": "Accurate, but the paragraphs are out of order: the Allen passage that begins 'One world champion in past history...' appears last, after its own continuation. Omits the first few paragraphs about the Louis-Schmeling fight and the 'New Credit for German' section." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Wray's Column: Allen the only heavyweight to regain his title" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch, asking whether Max Schmeling could regain his title, noted Tom Allen had done it in 1873 by beating Mike McCoole, who had won an undeserved verdict over him four years earlier." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Sunday Morning, June 21, 1936, page 3B." },
+  "facts": [
+    {
+      "fact": "Mike McCoole got an undeserved verdict over Allen through rough-house ringside intimidation in a fight on an island in the Mississippi; the referee declined to decide at the time and later gave the decision from the stage of a downtown theater",
+      "date": "1869",
+      "people": ["Mike McCoole"],
+      "places": ["Island in the Mississippi, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen won back his title from McCoole in a return match in which he made sure he was protected, and was then widely recognized as champion",
+      "date": "1873",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A later defeat by Joe Goss ended Allen's claim to the title",
+      "date": "",
+      "people": ["Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title misspells 'lose' as 'loose'."
+}

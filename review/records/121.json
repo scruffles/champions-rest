@@ -1,0 +1,36 @@
+{
+  "id": "121",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full item from headline 'GET READY, ROSS!' and subheads to '...arrange the details of the match.' The subhead also lists unrelated baseball and sculling items that are not in the clipping." },
+  "ocr": { "status": "good", "notes": "Headlines omitted. Two figures wrong: Ross posted $300 (not $500) and Allen's offer was $500 a side (not $200)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen answered swordsman Duncan C. Ross's challenge with an unnamed man to meet him with broadswords for $500 a side, depositing $200 with the paper as forfeit." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image; the clipping mentions the POST-DISPATCH office." },
+  "facts": [
+    {
+      "fact": "Allen offered an unnamed man to meet champion swordsman Duncan C. Ross mounted or on foot with broadswords for $500 a side or a $1,000 stake, and deposited $200 forfeit with the Post-Dispatch",
+      "date": "1886-09-30",
+      "people": ["Duncan C. Ross"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": "035"
+    },
+    {
+      "fact": "Allen said his man was ready to meet Ross at any time",
+      "date": "1886-09-30",
+      "people": ["Duncan C. Ross"],
+      "places": ["St. Louis"],
+      "quote": "My man is ready to meet Ross at any time Ross wants him to, on a day's notice, the sooner the better. To show you that I mean business I will now deposit $200 with the POST-DISPATCH to be forfeited if we fail to come to time.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary places the challenge in Kansas City; Ross had arrived in St. Louis from Kansas City and the challenge was made at the Post-Dispatch office. Allen's man is named as August Schmitt in article 122."
+}

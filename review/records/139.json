@@ -1,0 +1,46 @@
+{
+  "id": "139",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Short reply in an answers-to-correspondents column ('H. O.'); the whole item is clipped." },
+  "ocr": { "status": "good", "notes": "Transcript drops the reader initials 'H. O.' and the numbering '1.' / '2.', otherwise matches." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Dates of the Allen-McCoole fights" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch told a reader that Tom Allen first fought Mike McCoole on June 15, 1869, and again on Sept. 3, 1873, when Allen kept a saloon on Washington Avenue between Fourth and Fifth streets." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image to check the masthead; date and paper taken from the source file name (St. Louis Post-Dispatch, Fri., Jul. 24, 1891)." },
+  "facts": [
+    {
+      "fact": "Allen's first fight with Mike McCoole took place June 15, 1869",
+      "date": "1869-06-15",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's second fight with Mike McCoole took place Sept. 3, 1873",
+      "date": "1873-09-03",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At the time of the second McCoole fight, Allen kept a saloon on Washington Avenue between Fourth and Fifth streets, St. Louis",
+      "date": "1873-09",
+      "people": [],
+      "places": ["Washington Avenue between Fourth and Fifth streets, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title calls it one fight; the item gives the dates of both."
+}

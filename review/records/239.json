@@ -1,0 +1,15 @@
+{
+  "id": "239",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "no_crop", "notes": "no image; localCopy paths are placeholders (misc/???.jpg)" },
+  "ocr": { "status": "missing", "notes": "no transcript" },
+  "about_tom": "unsure",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "Joplin Globe", "notes": "no masthead visible (no image); date and paper unconfirmed" },
+  "facts": [],
+  "needs_human": true,
+  "notes": "No image, no text and no summary. Title suggests a retrospective on small fighters beating big ones; cannot confirm Allen is mentioned. Focus set to passing as a placeholder. Needs a new screenshot."
+}

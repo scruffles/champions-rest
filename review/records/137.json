@@ -1,0 +1,26 @@
+{
+  "id": "137",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Transcript matches the print; the headlines ('They Are Under Arrest / And Charged With Robbing a Sleeping Stranger in Market Street Saloon') are not in the text." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that a watch and chain were stolen from a man asleep in Tom Allen's saloon at 619 Market Street, and that police called by Allen arrested two men and recovered the watch." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Tuesday, January 21, 1890, page 2." },
+  "facts": [
+    {
+      "fact": "Allen's saloon was at 619 Market Street, St. Louis",
+      "date": "1890-01",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

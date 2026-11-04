@@ -1,0 +1,51 @@
+{
+  "id": "201",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The whole short item is there, but the left edge clips the first letter of several lines, including the first digit of the bride's age ('_1-year-old')."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image except the age: the transcript says '33-year-old', but the image shows a two-digit number ending in 1, its first digit clipped (most likely 21, as in article 197). Title printed 'Tom Allen to Wed.'"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Sedalia Weekly Democrat reported that Tom Allen planned to marry his nurse, Mrs. Tillie Hartgrove, on his 64th birthday, April 23, as he recovered from an illness that began at Christmas."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "No page image, so the date and paper cannot be checked against a masthead. The text is the opening of the Post-Dispatch story of March 27, 1903 (article 197), so April 3, 1903 is plausible for a weekly."
+  },
+  "facts": [
+    {
+      "fact": "Allen planned to marry his nurse, Mrs. Tillie Hartgrove, on his 64th birthday, April 23",
+      "date": "1903-04",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": "041"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Needs a human to confirm the date and paper (no page image) and to correct the bride's age in the transcript (33 is wrong; the clipped digit is unreadable, likely 21)."
+}

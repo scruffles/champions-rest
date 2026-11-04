@@ -2,242 +2,242 @@
   "updated": "2026-11-04",
   "articles": {
     "100": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1882-12-07"
     },
     "101": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1882-12-13"
     },
     "102": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1882-12-30"
     },
     "103": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1883-03-27"
     },
     "104": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1883-05-21"
     },
     "105": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1883-09-20"
     },
     "106": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1883-10-29"
     },
     "107": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1883-10-30"
     },
     "108": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1884-01-01"
     },
     "109": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1884-02-11"
     },
     "110": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1884-02-13"
     },
     "111": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1884-02-21"
     },
     "112": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1884-05-09"
     },
     "113": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1884-12-22"
     },
     "114": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1885-03-28"
     },
     "115": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1885-04-02"
     },
     "116": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1885-05-30"
     },
     "117": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1885-09-05"
     },
     "118": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1886-01-09"
     },
     "119": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1886-05-12"
     },
     "120": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1886-08-03"
     },
     "121": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1886-09-30"
     },
     "122": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1886-10-02"
     },
     "123": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1886-10-11"
     },
     "124": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1886-10-23"
     },
     "125": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1888-02-19"
     },
     "126": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1888-03-11"
     },
     "127": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1888-04-16"
     },
     "128": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1888-05-19"
     },
     "129": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1888-05-20"
     },
     "130": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1888-06-18"
     },
     "131": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1888-06-21"
     },
     "132": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1888-07-20"
     },
     "133": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1888-10-25"
     },
     "134": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1888-12-10"
     },
     "135": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1889-02-11"
     },
     "136": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1889-06-26"
     },
     "137": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1890-01-21"
     },
     "138": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1891-06-24"
     },
     "139": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1891-07-24"
     },
     "140": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1891-12-08"
     },
     "141": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1892-04-24"
     },
     "142": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1892-05-26"
     },
     "143": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1892-07-24"
     },
     "144": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1892-08-29"
     },
     "145": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1892-09-02"
     },
     "146": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1892-09-05"
     },
     "147": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1892-09-13"
     },
@@ -247,92 +247,92 @@
       "date": "1892-09-18"
     },
     "149": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1892-11-10"
     },
     "150": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1892-11-12"
     },
     "151": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1893-02-05"
     },
     "152": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1893-03-02"
     },
     "153": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1893-03-07"
     },
     "154": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1893-10-21"
     },
     "155": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1893-12-29"
     },
     "156": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1894-01-02"
     },
     "157": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1894-01-15"
     },
     "158": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1894-01-19"
     },
     "159": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1894-01-22"
     },
     "160": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1894-01-27"
     },
     "161": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1894-01-28"
     },
     "162": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1894-02-01"
     },
     "163": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1894-03-08"
     },
     "164": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1894-12-23"
     },
     "165": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1895-01-11"
     },
     "166": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1895-01-11"
     },
@@ -342,177 +342,177 @@
       "date": "1895-01-13"
     },
     "168": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1895-11-21"
     },
     "169": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1896-01-02"
     },
     "170": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1896-09-26"
     },
     "171": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1897-01-22"
     },
     "172": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1897-04-27"
     },
     "173": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1897-04-30"
     },
     "174": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1897-06-13"
     },
     "175": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1897-06-14"
     },
     "176": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1897-06-16"
     },
     "177": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1897-08-20"
     },
     "178": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1897-11-28"
     },
     "179": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-02-26"
     },
     "180": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-02-27"
     },
     "181": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-02-27"
     },
     "182": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-02-27"
     },
     "183": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-02-28"
     },
     "184": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-03-01"
     },
     "185": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-03-02"
     },
     "186": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-05-04"
     },
     "187": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-05-04"
     },
     "188": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-09-05"
     },
     "189": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-11-14"
     },
     "190": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1901-02-01"
     },
     "191": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1901-03-04"
     },
     "192": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1901-03-04"
     },
     "193": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1901-04-20"
     },
     "194": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-01-31"
     },
     "195": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-01-31"
     },
     "196": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-02-01"
     },
     "197": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-03-27"
     },
     "198": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-03-30"
     },
     "199": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-03"
     },
     "200": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-03"
     },
     "201": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-03"
     },
     "202": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-06"
     },
@@ -522,277 +522,277 @@
       "date": "1903-04-06"
     },
     "204": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-09"
     },
     "205": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-09"
     },
     "206": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-09"
     },
     "207": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-09"
     },
     "208": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-11"
     },
     "209": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-12"
     },
     "210": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-12"
     },
     "211": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-21"
     },
     "212": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-22"
     },
     "213": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-04-26"
     },
     "214": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-05-22"
     },
     "215": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-05-23"
     },
     "216": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-06-20"
     },
     "217": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-07-15"
     },
     "218": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-07-19"
     },
     "219": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-07-29"
     },
     "220": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1903-08-02"
     },
     "221": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1907-01-19"
     },
     "222": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1909-01-11"
     },
     "223": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1910-01-22"
     },
     "224": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1910-04-24"
     },
     "225": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1912-01-22"
     },
     "226": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1912-01-23"
     },
     "227": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1912-01-25"
     },
     "228": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1912-01-27"
     },
     "229": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1914-03-17"
     },
     "230": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1918-03-12"
     },
     "231": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1918-03-13"
     },
     "232": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1918-03-14"
     },
     "233": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1918-03-15"
     },
     "234": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1919-01-02"
     },
     "235": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1919-01-03"
     },
     "236": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1919-01-04"
     },
     "237": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1919-01-04"
     },
     "238": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1920-10-26"
     },
     "239": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1924-02-10"
     },
     "240": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1927-07-09"
     },
     "241": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1928-05-01"
     },
     "242": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1928-12-09"
     },
     "243": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1931-07-12"
     },
     "244": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1933-01-30"
     },
     "245": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1933-07-29"
     },
     "246": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1934-06-15"
     },
     "247": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1934-12-03"
     },
     "248": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1935-08-20"
     },
     "249": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1935-10-22"
     },
     "250": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1936-02-13"
     },
     "251": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1936-06-21"
     },
     "252": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1936-12-13"
     },
     "253": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1937-10-29"
     },
     "254": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1939-03-08"
     },
     "255": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1941-03-30"
     },
     "256": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1875-06-17"
     },
     "257": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1875-06-29"
     },
     "258": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1875-08-23"
     },
@@ -802,222 +802,222 @@
       "date": "1903-04-10"
     },
     "260": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1899-05-04"
     },
     "262": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1978"
     },
     "263": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1978-04-04"
     },
     "264": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1875-05-10"
     },
     "265": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1892-01-01"
     },
     "266": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1894"
     },
     "267": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1865-01-21"
     },
     "268": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1882-12-01"
     },
     "269": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1882-11-01"
     },
     "270": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1882-10-31"
     },
     "271": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1882-11-02"
     },
     "272": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1882-11-03"
     },
     "273": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1896-12-09"
     },
     "274": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1896-12-11"
     },
     "275": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1882-11-29"
     },
     "276": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1873-11-04"
     },
     "277": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1876-06-10"
     },
     "278": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1869-03-20"
     },
     "279": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1900-03-18"
     },
     "280": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1898-02-01"
     },
     "281": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1910-05-08"
     },
     "282": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1870-05-01"
     },
     "283": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1876-04-15"
     },
     "284": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1876-04-15"
     },
     "285": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1876-04-12"
     },
     "286": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1870-01-08"
     },
     "287": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1870-03-23"
     },
     "288": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1870-04-29"
     },
     "289": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1875-02-21"
     },
     "290": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1873-05-25"
     },
     "291": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1875-03-16"
     },
     "292": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1867-04-08"
     },
     "293": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1868-03-12"
     },
     "294": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1868-05-29"
     },
     "295": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1868-11-13"
     },
     "296": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1868-12-02"
     },
     "297": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1868-12-05"
     },
     "298": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1868-12-05"
     },
     "299": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1868-12-07"
     },
     "300": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1868-12-27"
     },
     "301": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1869-01-07"
     },
     "302": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1869-01-11"
     },
     "303": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1869-01-13"
     },
     "304": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1869-01-13"
     },

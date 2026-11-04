@@ -1,0 +1,36 @@
+{
+  "id": "222",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Sport Notes From Old Files (The Kansas City Daily Times)' column across three pieces. No page image to check." },
+  "ocr": { "status": "good", "notes": "Text matches, but the heading and the dated entry labels (June 2, 3, 6, 10, 15, 18, 1869) are missing; '132 pounds' reads '132½' in the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "1869 sport notes mention Allen's fights with Gallagher and McCoole" },
+  "summary": { "ok": false, "suggested": "The Kansas City Times reprinted June 1869 notes on the Hickey-King prize fight, which mention that Charley Gallagher had lately beaten Tom Allen and recall disgraceful scenes at the Allen-McCoole fight." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The Kansas City Times", "notes": "No page image; date and paper could not be checked against a masthead. The notes themselves are dated June 1869 from the Kansas City Daily Times." },
+  "facts": [
+    {
+      "fact": "Charley Gallagher had lately beaten Tom Allen, and was expected in Kansas City for the Hickey-King stakes deposit",
+      "date": "1869-06-15",
+      "people": ["Charley Gallagher"],
+      "places": ["Kansas City"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Allen-McCoole fight of 1869 was marked by disgraceful scenes",
+      "date": "1869-06",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The old summary says 1860; the notes are from 1869. Most of the column is about Hickey and King and the Jackson baseball club."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "101",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "'CHICAGO NOTES' headline, deck and the Allen paragraph are all captured; the following 'Receipts of Grain' item is cut, which is fine." },
+  "ocr": { "status": "good", "notes": "Matches the image; dateline 'CHICAGO, December 13.' omitted and 'Pugilist Tom Allen' rendered 'Tom Allen, the pugilist'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported from Chicago that Tom Allen had arrived there after stopping at Pittsburgh for a jolly time, and that his match with Jim Elliott would be arranged on Friday." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "No page image, so the masthead cannot be checked; dateline 'December 13' agrees with the 1882-12-13 date. Current summary wrongly says December 1871 and brings in McCoole and Mace, who are not in the item. article.json has no focus field." },
+  "facts": [
+    {
+      "fact": "Allen arrived in Chicago, having stopped at Pittsburgh on the way",
+      "date": "1882-12-13",
+      "people": [],
+      "places": ["Pittsburgh", "Chicago"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A match between Allen and Jim Elliott was to be arranged in Chicago that Friday",
+      "date": "1882-12",
+      "people": ["Jim Elliott"],
+      "places": ["Chicago"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Article 102 (1882-12-30) says Allen refused a proposed hippodrome with Elliott in Chicago, so the match apparently did not come off."
+}

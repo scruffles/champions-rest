@@ -1,0 +1,96 @@
+{
+  "id": "102",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article from the 'AT THE OLD STAND' headline and both decks to the closing Joe Elliott quote." },
+  "ocr": { "status": "good", "notes": "Accurate; dialect normalized ('knocking' for 'knockin'', 'meeting' for 'meetin''), 'very reticent' shortened to 'reticent', crossheads 'A FOOL IF HE DID' and 'OLD MEN AT THE BUSINESS' run into the text." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen was back in St. Louis after six years, denied that Rooke had knocked him out, and planned to challenge any man for the championship, with a bare-knuckle fight in the Indian Nation." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Challenges", "Exhibitions", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Post-Dispatch, Saturday, December 30, 1882, page 8. article.json has no focus field." },
+  "facts": [
+    {
+      "fact": "Allen returned to St. Louis the evening before, six years after he left the city",
+      "date": "1882-12-29",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said his reported knockout by George Rooke was a friendly soft-glove set-to in which his foot went through a plank of the stage and he fell",
+      "date": "1882",
+      "people": ["George Rooke"],
+      "places": [],
+      "quote": "It was a friendly set-to with soft gloves, and before we went at it it was understood we should go light.",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he sparred with Cleary of Philadelphia just after the Rooke meeting and found him not nearly as clever as Rooke",
+      "date": "1882",
+      "people": ["Cleary"],
+      "places": [],
+      "quote": "I set to with him just after the meetin' with Rooke, and he isn't nearly as clever as George.",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said John L. Sullivan would not fight him",
+      "date": "1882-12",
+      "people": ["John L. Sullivan"],
+      "places": [],
+      "quote": "He's a stout young fellow, but bless you, he won't fight. He'd be a fool if he did, for he can make twice the money at knockin' out. I'd meet Sullivan, but he won't meet me. It wouldn't pay him to do so.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen came to St. Louis at the invitation of a gentleman who had backed him in nearly all his old fights and intended to set him up in business there",
+      "date": "1882-12",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen planned to challenge any man in the world for any sum and the championship, hoping to hear from Rooke, Cleary, Mace or Mace's protege; the fight would be held in the Indian Nation on the M., K. & T. road to avoid the police",
+      "date": "1882-12",
+      "people": ["George Rooke", "Cleary", "Jem Mace"],
+      "places": ["Indian Nation, on the M., K. & T. railroad"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In Chicago Allen refused to take part in a hippodrome (fixed fight) with Elliott proposed by 'the Parson' and others, who then spread reports that he was on a spree and a wreck",
+      "date": "1882-12",
+      "people": ["Jim Elliott", "the Parson"],
+      "places": ["Chicago"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen blamed Joe Elliott of the New York Herald for the story that he was played out",
+      "date": "1882-12",
+      "people": ["Joe Elliott"],
+      "places": [],
+      "quote": "Joe Elliott, the old fellow who writes for the New York Herald, started that story. He's had it in for me for something or other.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The backer is unnamed here; article 100 names John C. Gropper as his reported saloon partner (index fact id 000, so existing_fact left blank). The image prints 'knochin' ont' (a misprint) in Allen's first quote, so only the clean part is quoted."
+}

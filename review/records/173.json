@@ -1,0 +1,26 @@
+{
+  "id": "173",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole short item with headline." },
+  "ocr": { "status": "good", "notes": "Judge's name is 'Peabody' in the image, not 'Feay'; 'raised a disturbance' not 'caused'. Otherwise matches." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that the two cases against Tom Allen for disturbing the peace and firing his pistol at the rival Ohio music and beer hall were dismissed in Judge Peabody's court on payment of costs." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Friday, St. Louis Post-Dispatch, April 30, 1897, page 7." },
+  "facts": [
+    {
+      "fact": "The two cases against Allen for disturbing the peace and discharging firearms at the Ohio music hall were dismissed in Judge Peabody's court upon payment of costs",
+      "date": "1897-04-30",
+      "people": ["Judge Peabody"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Outcome of the shooting in article 172 (existing fact 025). The current summary's mention of Mike McCoole and Jem Mace is not in the article."
+}

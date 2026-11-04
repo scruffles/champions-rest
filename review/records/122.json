@@ -1,0 +1,26 @@
+{
+  "id": "122",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full item, headline 'WRESTLERS AND SWORDSMEN.' through 'paid no attention to it.'" },
+  "ocr": { "status": "good", "notes": "Headlines omitted. Daggett's stake is $50 in the image, not $350." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen withdrew his forfeit for a sword match with Ross" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen withdrew the $200 forfeit he had posted for a match between Duncan C. Ross and August Schmitt after Ross, in the city for two days, ignored the challenge." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image; the clipping mentions the Post-Dispatch office." },
+  "facts": [
+    {
+      "fact": "Allen withdrew his $200 forfeit for a sword match between Duncan C. Ross and his man August Schmitt after Ross ignored the challenge for two days",
+      "date": "1886-10-02",
+      "people": ["Duncan C. Ross", "August Schmitt"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": "035"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title says 'Swordsman'; the headline reads 'Swordsmen'. The suggested title names Allen's part, since the first paragraph (Daggett and Greek George) does not involve him. Follows article 121."
+}

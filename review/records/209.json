@@ -1,0 +1,96 @@
+{
+  "id": "209",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline, caption, illustration (night scene and portrait of Allen) and all text columns are present. The italic deck under the illustration ('The Old Shop's Name Will Be Retained...') is left out. The last lines are torn on the original page." },
+  "ocr": { "status": "rough", "notes": "Transcript stops mid-sentence at 'he would rather listen to a song' and omits the last third (the piano, McKenzie and 'Annie Laurie', women barred, the hoboes and spiked floor, his past and English income). Errors in what is there: 'Reema' for 'Certainly', 'square-faced' for 'hard-faced', 'city' for 'world', the big-necked pugilists sentence garbled, and the 63-round Dan Daly vs Ed Kelly fight (1892) is dropped." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Champion's Rest, Allen's saloon at 615 Market Street for 21 years, would be modernized, and recalled his nightly concerts and ring bouts, his feud with Dan Daly and his shelter for the homeless." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon", "Profiles", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Sunday Morning, April 12, 1903, Part Four. Illustration signed Gay Martin." },
+  "facts": [
+    {
+      "fact": "Allen ran Champion's Rest at 615 Market Street for 21 years, with a tap room, a concert hall with piano and, in earlier years, a prize ring",
+      "date": "1903-04",
+      "people": [],
+      "places": ["615 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen was buried in Bellefontaine Cemetery after a funeral on Wednesday",
+      "date": "1903-04-08",
+      "people": [],
+      "places": ["Bellefontaine Cemetery, St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen feuded with rival saloon keepers Tom Kelly and Dan Daly; in a street fight Daly beat him, and the feud lasted until Daly's death in 1895, when Allen offered Daly's family help and money",
+      "date": "1895",
+      "people": ["Dan Daly", "Tom Kelly"],
+      "places": ["Market Street and Sixth Street, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "029"
+    },
+    {
+      "fact": "Allen let homeless men sleep in the chairs and on the floor of his saloon on winter nights",
+      "date": "",
+      "people": [],
+      "places": ["615 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "027"
+    },
+    {
+      "fact": "Allen introduced his pianist's favorite number each night",
+      "date": "",
+      "people": ["Mr. McKenzie"],
+      "places": ["615 Market Street, St. Louis"],
+      "quote": "Mr. McKenzie will now render our favorite, 'Annie Laurie.'",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": "026"
+    },
+    {
+      "fact": "Allen barred women from his saloon",
+      "date": "",
+      "people": [],
+      "places": ["615 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "039"
+    },
+    {
+      "fact": "Allen was born in Birmingham, England, in 1839, was married and had several children, among them a married daughter, Mrs. Polly Taylor, of St. Louis",
+      "date": "1839",
+      "people": ["Polly Taylor"],
+      "places": ["Birmingham, England", "St. Louis"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "012"
+    },
+    {
+      "fact": "Allen received a small income from England, from a source he never named, enough to live on without the saloon",
+      "date": "",
+      "people": [],
+      "places": ["England"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Says Bellefontaine Cemetery; the Post-Dispatch of the day before (208) says Calvary. Also notes the championship cup from his English victory stood in front of the bar mirror (fact 018) and that he conducted concerts with a gavel (fact 019). The transcript should be completed from the image."
+}

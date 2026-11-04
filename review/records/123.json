@@ -1,0 +1,15 @@
+{
+  "id": "123",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "crop-1 ends mid-sentence at 'per cent of the'; the rest of the item is in page.jpg, which is really the continuation clipping (image-123b), not a full page." },
+  "ocr": { "status": "good", "notes": "Accurate for crop-1, but the continuation (Union Park, Thursday Oct. 14, Jimmy Carroll of Brooklyn, comparison to Dempsey fight) is not transcribed." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "LaBlanche visited Allen before the Daly contest" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that George LaBlanche, the Marine, visited Tom Allen and Tom Kelly on arriving in St. Louis, then signed to box Dan Daly six rounds at Union Park on Oct. 14." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No masthead visible in either image." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Headline reads 'THE DALY-LA BLANCHE CONTEST' (singular). The current summary says Allen and Kelly brokered the agreement; the article says only that LaBlanche visited them. Allen's role is a single mention, so no facts were recorded."
+}

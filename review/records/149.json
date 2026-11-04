@@ -1,0 +1,26 @@
+{
+  "id": "149",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Local Pugilistic Gossip' item clipped." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen said to back \"Dutch\" Niel against Johnnie Daly" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that \"Dutch\" Niel's representative said Tom Allen would back Niel against Johnnie Daly in a 140-pound glove finish fight for $500 a side." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No masthead in the clipping and no page image; date and paper taken from the source file name (Thu., Nov. 10, 1892)." },
+  "facts": [
+    {
+      "fact": "\"Dutch\" Niel's representative said Allen would back Niel against Johnnie Daly in a skin-tight glove finish contest at 140 pounds for $500 a side, and that Daly could find Niel at Allen's to talk business",
+      "date": "1892-11",
+      "people": ["\"Dutch\" Niel", "Johnnie Daly", "Charley Daly"],
+      "places": ["Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Secondhand claim; Allen denied the $500 backing two days later (article 150)."
+}

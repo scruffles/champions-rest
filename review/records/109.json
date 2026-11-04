@@ -1,0 +1,56 @@
+{
+  "id": "109",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, headline 'REMINISCENCE OF A MILL,' and subhead to the end." },
+  "ocr": { "status": "rough", "notes": "Gist right but key errors: image says 'Both of the principals were arrested' (transcript: 'None'), bondsman is W. P. Farrell (not W. T.), surety is Jos. Schnaider (not Scinnalder), and 'at several different places' is dropped." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen was arrested at the instance of W. P. Farrell of Covington, Ky., one of the bondsmen whose $3,000 bond Allen forfeited after his 1876 fight with Goss." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch Monday, February 11, 1884', page 8; item in the fourth column." },
+  "facts": [
+    {
+      "fact": "After his prize fight with Joe Goss in Kentucky, Allen was arrested and gave $3,000 bond to answer an indictment, with W. P. Farrell and P. C. Murphy as bondsmen; Goss was convicted, paid a $300 fine and served a little time",
+      "date": "1876-09",
+      "people": ["Joe Goss", "W. P. Farrell", "P. C. Murphy"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen went to England and let his Kentucky bond be forfeited; his bondsmen's property was sold to pay the State",
+      "date": "",
+      "people": ["W. P. Farrell", "P. C. Murphy"],
+      "places": ["Kentucky", "England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "015"
+    },
+    {
+      "fact": "Allen was arrested in St. Louis on a Kentucky requisition procured by bondsman W. P. Farrell of Covington, Ky., after refusing Farrell's money demand; he said he had already paid each surety $250",
+      "date": "1884-02-09",
+      "people": ["W. P. Farrell"],
+      "places": ["St. Louis", "Covington, Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen gave $2,000 bond with Fred Walters and Jos. Schnaider as sureties and said he would prosecute Farrell for attempted extortion",
+      "date": "1884-02",
+      "people": ["Fred Walters", "Jos. Schnaider", "W. P. Farrell"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article dates the Goss fight September 10, 1876; recorded the fight-related fact as 1876-09. Arrest was 'Saturday evening' before Monday Feb. 11, i.e. Feb. 9, 1884. Article 110 appears to be the follow-up (release by Judge Noonan)."
+}

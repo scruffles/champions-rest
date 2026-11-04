@@ -1,0 +1,15 @@
+{
+  "id": "267",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full-page engraved portrait; the page is the item, with masthead and caption included." },
+  "ocr": { "status": "good", "notes": "Only the caption 'Tom Allen, the Birmingham Pugilist' exists, and it is transcribed correctly; '(From a Photograph)' and engraver 'J. Gooding Sc' omitted." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Illustrated Sporting News printed a full-page engraved portrait of Tom Allen, 'the Birmingham Pugilist,' drawn from a photograph, showing him in a frock coat beside a pedestal." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: The Illustrated Sporting News, Jan. 21, 1865, page 697. The current summary mentions McCoole and Mace, who are not on the page and whom he fought only after 1869. article.json has no focus field." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Portrait only; no text beyond the caption, so no facts."
+}

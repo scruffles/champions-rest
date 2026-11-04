@@ -1,0 +1,36 @@
+{
+  "id": "205",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole short item with headline." },
+  "ocr": { "status": "good", "notes": "Accurate but omits the headline 'Tom Allen, Retired Pugilist, Dead.' and the dateline 'St. Louis, Mo., April 6.'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Mexico Weekly Ledger reported that Allen, retired champion pugilist of the world, died at the Baptist Hospital in St. Louis, and that as proprietor of the Champion's Rest on Market Street he insisted on being called the champion." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "Mexico Weekly Ledger", "notes": "Masthead: The Weekly Ledger (Mexico, Mo.), Thursday, April 9 [1903]. Item datelined St. Louis, April 6." },
+  "facts": [
+    {
+      "fact": "Allen died at the Baptist Hospital in St. Louis",
+      "date": "1903-04-05",
+      "people": [],
+      "places": ["Baptist Hospital, St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": "042"
+    },
+    {
+      "fact": "Allen was proprietor of the Champion's Rest at 615 Market Street, St. Louis, and would settle with any man who called him the ex-champion",
+      "date": "1903",
+      "people": [],
+      "places": ["Champion's Rest, 615 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Gives the address as 615 Market Street; the Post-Dispatch (202) says 619."
+}

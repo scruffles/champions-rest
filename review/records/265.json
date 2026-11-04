@@ -1,0 +1,26 @@
+{
+  "id": "265",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The image is the book pages themselves (illustration 'With an air of gentle dignity' plus pp. 35-38, the chapter 'A Little Salvationist'); the whole chapter is present." },
+  "ocr": { "status": "good", "notes": "Matches the printed text; only the illustration caption, chapter heading and running heads are omitted." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "Annie Bronson King's book Our Children of the Slums told of a Salvation Army woman and her little girl who sold The War Cry and sang hymns on a Saturday night at Tom Allen's saloon." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Our Children of the Slums (book by Annie Bronson King)", "notes": "Book chapter, not a newspaper. The publication field holds the author's name; the 1892 date is not visible in the images and could not be checked. Allen himself does not appear; only his saloon is the setting. article.json has no focus field." },
+  "facts": [
+    {
+      "fact": "Annie Bronson King's book Our Children of the Slums set its story 'A Little Salvationist' in Tom Allen's saloon, describing stained glass doors, drinking, dice and card playing on a Saturday night",
+      "date": "1892",
+      "people": ["Annie Bronson King"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "020"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The city is not named in the chapter; St. Louis is assumed from Allen's saloon. Date of the book not confirmed from the image."
+}

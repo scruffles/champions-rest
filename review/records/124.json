@@ -1,0 +1,46 @@
+{
+  "id": "124",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The full McCoole column, signed 'MACON'. The last piece also includes unrelated, torn sporting gossip (Hearld-Killian, McCaffrey-Golden) and ad fragments." },
+  "ocr": { "status": "good", "notes": "Headlines, the dateline 'PHILADELPHIA, October 22' and the closing gossip paragraphs are omitted; the McCoole text matches." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch printed a Philadelphia correspondent's memories of the late Mike McCoole, recalling that Tom Allen beat him twice, though Allen's enemies broke into the ring the first time and robbed him of the fight." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch, Saturday, October 23, 1886', page 10." },
+  "facts": [
+    {
+      "fact": "In their first fight, Allen's enemies broke into the ring and robbed him of the fight against Mike McCoole",
+      "date": "",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In their second fight, Allen beat McCoole so badly that Tom Kelly gave in for him at the end of twenty minutes",
+      "date": "",
+      "people": ["Mike McCoole", "Tom Kelly"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Around the Sullivan-Ryan fight, McCoole was boss of a cotton press gang in New Orleans and looked gray and grizzled",
+      "date": "1882-02",
+      "people": ["Mike McCoole"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "023"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fight facts are a correspondent's recollection and give no dates; confidence medium. The Sullivan-Ryan fight at Mississippi City was in Feb. 1882 (date from that well-known fight, not stated in the article)."
+}

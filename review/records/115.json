@@ -1,0 +1,36 @@
+{
+  "id": "115",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, from headline 'SULLIVAN-M'CAFFERY. Warrants for the Sluggers' Arrest Issued To-day—Local Opinion.' to Allen's last answer." },
+  "ocr": { "status": "good", "notes": "Close to the image. Small slips: 'Judge Hill' prints as 'Judge Fill'; Allen 'laughed heartily', not 'openly'; 'why I don't call that a fight', not 'they don't'. The Philadelphia dateline and the 'Tom Allen' subhead are left out." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen's opinion of the Sullivan–McCaffery fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch asked Tom Kelly and Tom Allen about the Sullivan–McCaffery fight, threatened by arrest warrants in Philadelphia. Allen called McCaffery a 'newspaper wind-bag' and a coward Sullivan would knock out in one round." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch, Thursday, April 2, 1885', page 7. The item is in the fourth column." },
+  "facts": [
+    {
+      "fact": "Allen predicted that John L. Sullivan would knock out Dominick McCaffery in one round if allowed to fight to win, and dismissed McCaffery as a coward after gate money",
+      "date": "1885-04-02",
+      "people": ["John L. Sullivan", "Dominick McCaffery"],
+      "places": ["St. Louis"],
+      "quote": "Why that old newspaper wind-bag McCaffery couldn't lick anybody. Of course if they are going to stop the fight as soon as Sullivan sails in, why I don't call that a fight. But if they let Sullivan go in to win he'll knock him out in one round.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Asked whether McCaffery would fight Sullivan outside the city if police stopped the bout, Allen said he would not",
+      "date": "1885-04-02",
+      "people": ["Dominick McCaffery", "John L. Sullivan"],
+      "places": ["St. Louis"],
+      "quote": "No, sir; he won't. He's too big a coward and besides, that would let him out of the gate money.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The arrest warrant for Sullivan and McCaffery was issued in Philadelphia, not St. Louis. It is general boxing news, so it is left out of the facts."
+}

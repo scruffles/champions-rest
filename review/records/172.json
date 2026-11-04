@@ -1,0 +1,46 @@
+{
+  "id": "172",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline, subhead and full text in two pieces; ends at 'continued until April 30.'" },
+  "ocr": { "status": "rough", "notes": "First two-thirds matches well, but the ending is altered: the image says 'In a spirit of desperation', that Patrolman Maher thought the soliloquy incendiary but did not interfere until the bullets began whizzing, that Allen was locked up at the Central District Station, had $137 (not $5) in his pockets, and the case was continued until April 30 (not 'April'). 'headquarters for sports' and 'come and spend' also changed." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, angry that the Ohio saloon across lower Market Street had taken his customers, fired his revolver at it around 2 a.m. and was arrested for disturbing the peace and carrying concealed weapons." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Tuesday, St. Louis Post-Dispatch, April 27, 1897, page 10." },
+  "facts": [
+    {
+      "fact": "Allen fired his revolver at the rival Ohio saloon across the street from his own place, angry that it had drawn away his customers, and was arrested by Patrolman Maher for disturbing the peace and carrying concealed weapons",
+      "date": "1897-04-27",
+      "people": ["Patrolman Maher"],
+      "places": ["Ohio saloon, lower Market Street, St. Louis", "Central District Station, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "025"
+    },
+    {
+      "fact": "Allen's police court case was continued until April 30",
+      "date": "1897-04-27",
+      "people": [],
+      "places": ["Police Court, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In 1897 Allen ran a saloon and dance hall on lower Market Street, St. Louis",
+      "date": "1897-04",
+      "people": [],
+      "places": ["lower Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The shooting happened about 2 a.m. the morning of publication (article 173 says 'early last Tuesday morning'). The rival saloon keeper is called 'this German'."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "231",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Complete twenty-first chapter from the banner to '(To Be Continued Tomorrow.)'. No page image to check the masthead." },
+  "ocr": { "status": "rough", "notes": "The whole Peter Jackson section ('Jackson Issues Defi', 'Draws Color Line', Sullivan's quotes) and Sullivan's Queensberry claim are left out. 'September 22, 1873' should be 'September 23'; '$500 left' should be '$75,000 left'. The Allen paragraphs are otherwise right." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "John L. As I Knew Him, chapter 21 (Corbett)" },
+  "summary": { "ok": false, "suggested": "The St. Louis Star printed Corbett's account that Mace beat Allen in 1870, that Allen beat McCoole in St. Louis in 1873 to be recognized as champion, and that Goss took the title from Allen in 1876." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The St. Louis Star", "notes": "No page image. The paper was 'The St. Louis Star' in March 1918 (masthead of article 230, the day before); the Star and Times name came later. Date fits the series (chapter 21, after chapter 20 on March 12)." },
+  "facts": [
+    {
+      "fact": "Mace came to the United States and beat Allen in 10 rounds at 'Kennersville, Ind.' (as printed), then declared himself world champion",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": ["Kennerville, Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Mike McCoole in seven rounds in St. Louis and was then recognized as heavyweight champion",
+      "date": "1873-09-23",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Joe Goss beat Allen after one hour and fifty-two minutes of fighting and took the championship (Corbett gives May 7, 1876)",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is in the first three paragraphs only. Corbett places the Mace fight in Indiana (it was near New Orleans) and dates the Goss fight May 7, 1876; both look like the writer's errors, so the Goss fact is given the year only."
+}

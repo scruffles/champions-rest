@@ -1,0 +1,26 @@
+{
+  "id": "166",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, headline 'He Thought It Fun.' and subhead included." },
+  "ocr": { "status": "good", "notes": "Minor errors: transcript has 'to amuse himself' for 'began to amuse himself' and 'his fist' for 'his right'; image spells 'Mathew' in the body." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Bartender breaks prankster's jaw at Allen's saloon" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Matthew Groves, a hanger-on at Tom Allen's Market Street saloon, had his jaw slightly fractured by bartender Andrew Flynn after pulling chairs from under patrons." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image; date and paper taken from the source file name (St. Louis Post-Dispatch, Fri., Jan. 11, 1895)." },
+  "facts": [
+    {
+      "fact": "Allen's saloon was on Market Street near Seventh, St. Louis, in January 1895",
+      "date": "1895-01",
+      "people": [],
+      "places": ["Market Street near Seventh, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen himself does not appear; the item concerns his saloon and its 'chair-warmers' (compare fact 027). The fight and title concern the bartender, so the current title 'Pranks gone wrong' is acceptable but vague; the current summary's 'saloon-era dynamics' is opinion."
+}

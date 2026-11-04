@@ -1,0 +1,81 @@
+{
+  "id": "114",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Clipping is the 'Joe Goss' American Career' item within the sporting column 'A Lurid Orient'; it is complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Small errors: Goss sentenced 'March 16' (OCR '18'); Ryan fight '1h. 28m.' (OCR '23m.'); 'fighter' for 'man'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch recounted Joe Goss' American career, including his 1876 Kentucky fight with Tom Allen, won by Goss on a foul after 21 rounds, after which Allen jumped his bail and left for England."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Fights",
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Post-Dispatch, Saturday, March 28, 1885, page 11. article.json has no focus field."
+  },
+  "facts": [
+    {
+      "fact": "Joe Goss came to America in April 1876 partly to make another match with Allen, then generally regarded as the rightful champion; Allen accepted his challenge for $2,500 a side",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Boston, Massachusetts"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Joe Goss on Sept. 7, 1876, on Kentucky soil, the ring first pitched in Kenton County and then moved to Boone County; after 21 rounds in 48 minutes Goss was given the fight on a foul",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Kenton County, Kentucky",
+        "Boone County, Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Indicted by the Kenton County grand jury, Allen jumped his $3,000 bail and crossed into Canada, from where he went by steamer to England",
+      "date": "1877",
+      "people": [],
+      "places": [
+        "Kenton County, Kentucky",
+        "Canada",
+        "England"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

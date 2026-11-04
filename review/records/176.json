@@ -1,0 +1,36 @@
+{
+  "id": "176",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Two items: 'Crack Athletes Will Compete' (Hibernian games, not about Allen) and 'Will Fight Any Man' (\"Denver Ed\" Smith interview, which mentions Allen). Only the second item concerns Allen. Both complete." },
+  "ocr": { "status": "good", "notes": "Second headline and subhead ('Will Fight Any Man' / '\"Denver Ed\" Smith Ambitious to Mix With the Top-Notchers') missing. Minor errors: image says 'put my nut into his wind' (not 'rammed'), 'would have broke into the ropes', Goddard weighs '260 pounds' (not 220)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Denver Ed Smith will fight any man" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch printed an interview with \"Denver Ed\" Smith, who said he would fight any man and that he beat Joe Goddard in New Orleans when Tom Allen handled him, but lost the rematch in South Africa without Allen." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Wednesday, St. Louis Post-Dispatch, June 16, 1897, page 5." },
+  "facts": [
+    {
+      "fact": "Allen handled (seconded) \"Denver Ed\" Smith when Smith beat Joe Goddard in eighteen rounds before the Olympic Club in New Orleans, according to Smith",
+      "date": "",
+      "people": ["Denver Ed Smith", "Joe Goddard"],
+      "places": ["Olympic Club, New Orleans"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen believed \"Denver Ed\" Smith could beat Sharkey, Maher, Corbett, Fitzsimmons or Goddard",
+      "date": "1897-06",
+      "people": ["Denver Ed Smith"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The quotes in this item are Smith's, not Allen's. Smith says 'If Allen had been handling me I would have won' the South Africa rematch. The Goddard fight date is not given. The Hibernian games portion has nothing about Allen."
+}

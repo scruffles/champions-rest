@@ -1,0 +1,15 @@
+{
+  "id": "195",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "no_crop", "notes": "No crop pieces or page image in the work folder." },
+  "ocr": { "status": "missing", "notes": "No transcript." },
+  "about_tom": "unsure",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Cannot check; no image. The image paths point at the Sat. Jan. 31, 1903 Republic." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "No image, transcript or summary, so nothing could be checked. Whether and how Allen figures in the Robert Jackson story is unknown; a human should locate the clipping."
+}

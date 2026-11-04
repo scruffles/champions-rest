@@ -1,0 +1,36 @@
+{
+  "id": "279",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Main headline 'HOME TIES OF THE BOXERS' is missing (garbled as '40M'); 'stern fighter' should be 'ferocious fighter'; otherwise accurate." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Home Ties of the Boxers" },
+  "summary": { "ok": false, "suggested": "The St. Paul Globe described the home lives of boxers, noting that Tom Allen's devoted daughter lived above his Market Street concert hall in St. Louis and had never once entered it." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Personal life", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The Saint Paul Globe", "notes": "Masthead: The St. Paul Globe, Sunday, March 18, 1900. Signed Willie Green." },
+  "facts": [
+    {
+      "fact": "Allen ran a concert hall in a building on Market Street in the St. Louis 'Tenderloin', directing a concert nightly, and lived upstairs with his daughter",
+      "date": "1900-03",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen's unmarried daughter, Miss Allen, devoted her life to keeping his home and was said never to have entered his concert hall; her name was romantically linked with the late Col. Fred Watkins, Allen's lifelong friend and backer",
+      "date": "1900",
+      "people": ["Miss Allen", "Col. Fred Watkins"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Only the 'That Girl of Allen's' section concerns Tom Allen; the rest is about other boxers. The romance is reported as rumor ('it is related')."
+}

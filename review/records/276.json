@@ -1,0 +1,76 @@
+{
+  "id": "276",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor wording slips: 'above the turf' should be 'above the belt'; 'Why do you think he challenged you' / 'just to get a little cheap notoriety'; 'How so?' rendered as 'Did he make any propositions to back out?'; omits 'go East and'; 'fins' and 'just now' slightly altered." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Kansas City Times reported that Tom Allen arrived in Kansas City with Arthur Chambers and said Ben Hogan never meant to fight him, refusing Hogan's offer of a draw; the fight was set near Omaha for November 18." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Exhibitions", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The Kansas City Times", "notes": "Masthead: Kansas City Times, Tuesday, November 4, 1873." },
+  "facts": [
+    {
+      "fact": "Allen arrived in Kansas City with lightweight champion Arthur Chambers, joined by his trainer Jack Madden",
+      "date": "1873-11-03",
+      "people": ["Arthur Chambers", "Jack Madden"],
+      "places": ["Kansas City, Missouri"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Hogan had offered through Jack Looney to forfeit his $1,000 share if the fight were called a draw, and Allen refused",
+      "date": "1873-11",
+      "people": ["Ben Hogan", "Jack Looney"],
+      "places": [],
+      "quote": "Oh! just this. He don't want to meet me. He never intended to meet me. Why, he refused to fight Jack Madden, my trainer, and then had the impudence to challenge me. Any d--d fool can challenge me, but coming into the ring is another thing.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said the fight with Hogan would take place at or near Omaha on November 18, with excursion tickets sold from St. Louis",
+      "date": "1873-11-18",
+      "people": ["Ben Hogan"],
+      "places": ["Omaha, Nebraska", "St. Louis"],
+      "quote": "At or near Omaha. Excursion tickets are being sold from St. Louis and return for $20, and we expect to see a pretty large mob there.",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen believed the officers of the steamer Continental, not Hogan, arranged its capture the previous week",
+      "date": "1873-10",
+      "people": [],
+      "places": ["steamer Continental"],
+      "quote": "I do. I don't think Hogan or his friends had anything to do with it, but I think the officers of the boat put up the entire job.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he could not fight in Missouri because of bonds, and that Illinois was seeking a requisition for him over his fight with Mike McCoole",
+      "date": "1873-11",
+      "people": ["Mike McCoole"],
+      "places": ["Missouri", "Illinois"],
+      "quote": "Oh, you see we are bound so by bonds that Missouri soil ain't good to dance on just now. Besides, they say they are after me with a requisition from Illinois for my fight with Mike McCoole. But I don't think they want me very bad.",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was to give an exhibition in Kansas City that week with Arthur Chambers and Jack Madden",
+      "date": "1873-11",
+      "people": ["Arthur Chambers", "Jack Madden"],
+      "places": ["Kansas City, Missouri"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Hogan's first name is not printed in the article; Ben Hogan is assumed from context. The steamer Continental capture relates to the unnumbered facts-index entry about Hogan's supporters and the riverboat."
+}

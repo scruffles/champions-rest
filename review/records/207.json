@@ -1,0 +1,56 @@
+{
+  "id": "207",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article with headline and subhead. No page image." },
+  "ocr": { "status": "rough", "notes": "Body mostly right but the pallbearer list is wrong: the image reads Chris Lauff, Jack Fletcher, Charley Daly, Tom Kelly, Andy Kirk, Theodore Neusel, Tom O'Donnell and Gus Ellis (OCR invents 'Charlie Johnson' and drops four names). 'straighten out the tangle' (not 'the estate'); 'ex-prize-fighting fraternity'; 'heavy weight division'. Last line reads 'on the store [same?] side', OCR says 'other side'. Subhead not transcribed." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Public Administrator Garrard Strode took charge of Allen's tangled estate after executor Simon S. Bass refused to act, and that crowds came to his funeral at Farley & Wand's undertaking rooms." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "No page image; the source file name says The St Louis Republic, Thu Apr 9 1903, which fits. Standard form would be 'St. Louis Republic'." },
+  "facts": [
+    {
+      "fact": "Public Administrator Garrard Strode took charge of Allen's estate after attorney Simon S. Bass, named executor in the will, refused to act",
+      "date": "1903-04-08",
+      "people": ["Garrard Strode", "Simon S. Bass"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's funeral took place at 2 p.m. on April 8, 1903, from the Farley & Wand undertaking establishment, 211 South Sixth Street, St. Louis",
+      "date": "1903-04-08",
+      "people": [],
+      "places": ["Farley & Wand, 211 South Sixth Street, St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Pallbearers, mostly former prize fighters, were Chris Lauff, Jack Fletcher, Charley Daly, Tom Kelly, Andy Kirk, Theodore Neusel, Tom O'Donnell and Gus Ellis",
+      "date": "1903-04-08",
+      "people": ["Chris Lauff", "Jack Fletcher", "Charley Daly", "Tom Kelly", "Andy Kirk", "Theodore Neusel", "Tom O'Donnell", "Gus Ellis"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At the funeral, Allen's daughter Mrs. Polly Taylor stood with her four children, and Mrs. Tillie Hartgrove also stood by the coffin",
+      "date": "1903-04-08",
+      "people": ["Polly Taylor", "Tillie Hartgrove"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Last sentence says Taylor and Hartgrove stood on 'opposite sides of the coffin', then 'on the store [same?] side stood Mrs. Tillie Hartgrove' - likely a typo; 204 says opposite sides. Matches unnumbered fact '000: a public administrator was assigned...'."
+}

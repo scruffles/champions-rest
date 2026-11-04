@@ -1,0 +1,36 @@
+{
+  "id": "241",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Runyon column is complete (left column, crops 1-4); clipping also holds the Heeney training story, Facts and Figures baseball stats and short items" },
+  "ocr": { "status": "rough", "notes": "drops the last paragraphs (Mace-Allen 1870, Jackson, Jeffries, Burns) and the list items; 'Kennerville, La.' for 'Io.'; reworded several sentences (e.g. Heenan 'defrauded of his victories')" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Old ring expert traces the world heavyweight title back past Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Star ran Damon Runyon's column quoting Charles Mathison, who argued the world title did not pass from Tom Allen to Joe Goss in 1876 because Jem Mace had beaten Allen in 1870." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Star", "notes": "masthead reads THE ST. LOUIS STAR, Tuesday evening, May 1, 1928" },
+  "facts": [
+    {
+      "fact": "Jem Mace beat Allen by knockout in ten rounds at Kennerville for the world heavyweight championship; Allen then held the American title",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": ["Kennerville, Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Joe Goss beat Allen on a foul; only Allen's American title was at stake",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective opinion piece; the image prints Kennerville 'Io.' (a typo for La.)."
+}

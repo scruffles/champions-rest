@@ -1,0 +1,26 @@
+{
+  "id": "119",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Burke and Mitchell.' item from the Sporting Matters column." },
+  "ocr": { "status": "good", "notes": "Matches the image almost word for word." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and Tom Kelly attend the Burke–Mitchell fight in Chicago" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Kelly returned from Chicago, where he and Tom Allen had watched the Burke–Mitchell fight. Kelly said the draw was wrong and Mitchell should have won." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch, Wednesday, May 12, 1886', page 7, first column." },
+  "facts": [
+    {
+      "fact": "Allen went to Chicago with Tom Kelly to watch the Jack Burke–Charley Mitchell fight",
+      "date": "1886-05",
+      "people": ["Tom Kelly", "Jack Burke", "Charley Mitchell"],
+      "places": ["St. Louis", "Chicago"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title and summary credit the opinions to Allen, but every quoted opinion is Tom Kelly's. The summary also wrongly calls it a bare-knuckle bout, when two-ounce gloves were used. The Mitchell–Dempsey match news doesn't involve Allen."
+}

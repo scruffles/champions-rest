@@ -1,0 +1,84 @@
+{
+  "id": "200",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item; it runs in two columns and the crop pieces join them in order. Headline is misprinted 'Rveolver' in the paper."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Mostly right, but a few errors change the meaning: 'Mrs. Hartgrove was at the saloon to urge the wed' should be 'His daughter, Mrs. Polly Taylor, called at the saloon to urge her father not to wed'; 'Any complications' should be 'Many complications'; the sentence 'Murphy and brewery representatives will also be present' is dropped; the brewery paragraph should read 'W. J. L. Gillespie, proprietor of a saloon at 100 North Broadway' and 'took hold Monday last'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Revolver Guards Champion's Rest"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that bartender John Murphy held Allen's Champion's Rest with a revolver against W. J. L. Gillespie, whom the Hyde Park brewery had put in charge, while Allen lay in the hospital."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon",
+    "Legal",
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: Friday, St. Louis Post-Dispatch, April 3, 1903, page 3, columns 4 and 7. The current title ('plans to wed and change his inheritance') misses the story, which is about the fight for the saloon; the current summary states the will as fact, but the article says 'it is said'."
+  },
+  "facts": [
+    {
+      "fact": "Bartender John Murphy held Allen's saloon at 619 Market Street with a revolver against W. J. L. Gillespie and William Burns, telling them he was running the Champion's Rest",
+      "date": "1903-04-01",
+      "people": [
+        "John Murphy",
+        "W. J. L. Gillespie",
+        "William Burns"
+      ],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "048"
+    },
+    {
+      "fact": "The Hyde Park brewery placed W. J. L. Gillespie in charge of Allen's saloon; he paid $125 rent from April 1 and installed William Burns and his family in Allen's apartments above it",
+      "date": "1903-03-30",
+      "people": [
+        "W. J. L. Gillespie",
+        "William Burns"
+      ],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was said to have made a will at the Baptist Hospital leaving his championship cup and other possessions to Mrs. Tillie Hartgrove",
+      "date": "1903-03",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [
+        "Baptist Hospital, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": "046"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The daughter is called 'Mrs. Polly Taylor' here (Mary Taylor elsewhere). 'William Burns' here is probably the 'W. A. Byrnes' of fact 048 and article 202. Murphy is 'John' here and 'Tom' in article 199."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "181",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, 'Pugilist Tom Allen Arrested.'" },
+  "ocr": { "status": "good", "notes": "Matches the image. Dateline 'ST. LOUIS, Feb. 26.' not transcribed." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Kansas City Journal reported that Tom Allen was under arrest at the St. Louis Four Courts, charged with murder after a man he shot in his saloon died; Allen said he thought the man was about to shoot him." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "Kansas City Journal", "notes": "Masthead: The Kansas City Journal, Monday, February 27, 1899, page 5." },
+  "facts": [
+    {
+      "fact": "Allen was charged with murder and held at the Four Courts after the man he shot in his saloon died; he said he thought the man was going to shoot him",
+      "date": "1899-02-26",
+      "people": ["Timothy Confoy"],
+      "places": ["Four Courts, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "028"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper misspells the victim as 'Tom Coupry'; he is Timothy Confoy (articles 179, 180)."
+}

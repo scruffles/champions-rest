@@ -1,0 +1,46 @@
+{
+  "id": "271",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Sporting News column. The 'Prospective Prize Fight' and 'Tom Allen' items are about Allen; the 'Stray Notes' below (running, rowing, baseball, a Kansas City prize fight) are unrelated." },
+  "ocr": { "status": "rough", "notes": "The first item, 'Prospective Prize Fight', is mostly lost to a few garbled lines; 'Pat Wilson' should be Tug Wilson. The Tom Allen item and Stray Notes are otherwise close." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Fall River Daily Herald reported that Richard K. Fox's agent arrived in Boston to match Tom Allen against John L. Sullivan for $2,500 a side, and that Allen, visiting Boston, called Sullivan the best man in the world." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Fall River Daily Herald", "notes": "Masthead: Fall River Daily Herald, Fall River, Mass., Thursday, November 2, 1882." },
+  "facts": [
+    {
+      "fact": "Richard K. Fox's representative arrived in Boston with full power to match Allen against John L. Sullivan for $2,500 a side and the championship of America; Sullivan's backer said Sullivan would not fight at New Orleans and would name November 10 to sign articles",
+      "date": "1882-11-01",
+      "people": ["Richard K. Fox", "John L. Sullivan"],
+      "places": ["Boston", "New Orleans"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was in Boston as the guest of Patsy Sheppard and planned to go to New York for a few weeks, likely giving exhibitions, before returning to England",
+      "date": "1882-11",
+      "people": ["Patsy Sheppard"],
+      "places": ["Boston", "New York", "England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "016"
+    },
+    {
+      "fact": "Allen said that from Sullivan's record he considered him the best man in the world, and that he had come to America only to visit friends, not to fight",
+      "date": "1882-11",
+      "people": ["John L. Sullivan"],
+      "places": ["Boston"],
+      "quote": "",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Tom Allen item reprints the Boston Star interview also in 270. 'Yesterday' in the first item dates the Fox agent's arrival to about November 1, 1882."
+}

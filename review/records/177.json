@@ -1,0 +1,26 @@
+{
+  "id": "177",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headline 'John L. for Mayor' through the closing ornament." },
+  "ocr": { "status": "good", "notes": "Mostly right. Missing the sentence 'But Fitzpatrick is not the only man who has jumped from the prize ring into political place.' Image reads 'fought Yankee Sullivan' (OCR 'fought Sullivan'), 'apotheosis of the prize ring' (OCR 'pugilist'), 'Feneuil Hall' as printed." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen among the St. Louis crowd at the Sullivan-Kilrain fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that John L. Sullivan would run for Mayor of Boston, and recalled that Tom Allen was among the St. Louis party at the 1889 Sullivan-Kilrain fight at Richburg, Miss." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Friday, St. Louis Post-Dispatch, August 20, 1897, page 6." },
+  "facts": [
+    {
+      "fact": "Allen traveled with a St. Louis party to see the Sullivan-Kilrain championship fight at Richburg, Mississippi",
+      "date": "1889-07",
+      "people": ["John L. Sullivan", "Jake Kilrain", "Tom Kelly"],
+      "places": ["Richburg, Mississippi"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title says Allen supported Sullivan's mayoral run; the article says nothing of the kind. Allen is named once, as present at the 1889 fight."
+}

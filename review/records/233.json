@@ -1,0 +1,15 @@
+{
+  "id": "233",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Starts at the 'John L. Sullivan As I Knew Him' box and editor's note; the bottom is cut off mid-sentence at 'John L.'s attitude toward me', so the end of the installment is missing." },
+  "ocr": { "status": "good", "notes": "Transcript matches the visible text; it omits the editor's note, the subhead 'Compliments of John L.' and 'I waited.' Ends where the crop ends." },
+  "about_tom": "no",
+  "title": { "ok": false, "suggested": "John L. Sullivan As I Knew Him (chapter 23)" },
+  "summary": { "ok": false, "suggested": "In the 23rd chapter of his series for The St. Louis Star, James J. Corbett recalled meeting John L. Sullivan in Chicago in 1891 and touring the city's bars with him. Tom Allen is not mentioned." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The St. Louis Star", "notes": "No page image, so the masthead cannot be checked; the source file name gives The St. Louis Star and Times, Fri., Mar. 15, 1918. In 1918 the paper was The St. Louis Star (the Star and Times name dates from 1932); the other 1919 pages in this series have the masthead 'The St. Louis Star'." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "The visible clipping never mentions Tom Allen; it is about Corbett and Sullivan only. Consider removing it from the site, or find whether the missing rest of the installment mentions Allen. The title says 'pt 4' but the editor's note calls it the twenty-third chapter."
+}

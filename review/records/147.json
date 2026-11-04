@@ -1,0 +1,26 @@
+{
+  "id": "147",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "no_crop", "notes": "The clipping is the whole of page 8 at low resolution. The Allen item is 'Varying Views: Tom Kelly and Tom Allen Differ on the Big Fight', column 2, with 'Tom Allen's Views' near the middle of the column." },
+  "ocr": { "status": "unusable", "notes": "Transcript covers part of Kelly's remarks, then repeats one sentence hundreds of times and never reaches Allen's section. Allen's paragraph was read only from an enlarged view of the low-resolution page." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Kelly and Allen differ on the Sullivan-Corbett fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Kelly backed Corbett after his win over Sullivan, while Tom Allen said it was a question of condition and that a properly trained Sullivan could still beat Corbett." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads St. Louis Post-Dispatch, Tuesday, September 13, 1892, page 8." },
+  "facts": [
+    {
+      "fact": "Allen said Sullivan lost to Corbett because he was out of condition and overweight, and that he did not recognize Corbett as Sullivan's superior",
+      "date": "1892-09-13",
+      "people": ["John L. Sullivan", "James J. Corbett"],
+      "places": ["St. Louis"],
+      "quote": "It was all a question of condition. Sullivan was unfit to enter the ring; he was away over-weight and unable to cope with a man of Corbett's agility. I don't recognize Corbett as Sullivan's superior.",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Quote read from a blurry enlargement of the low-resolution page; check the wording against a proper crop. Needs a crop of column 2 and a fresh transcript. The current summary's '1899 discussion' is wrong (1892)."
+}

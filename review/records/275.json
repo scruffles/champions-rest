@@ -1,0 +1,56 @@
+{
+  "id": "275",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Readable but several errors: 'office of the garden' should be 'office of the Police Gazette'; 'Long Island for a rest' should be 'Coney Island for a plunge in the surf'; omits that Sullivan had returned to Boston and that Robert Farrell was Sullivan's confidential friend; Farrell claimed the $1,000 'for Mr. Sullivan', and it was Mr. Hill (not Fox) who objected; omits last sentence about Sullivan's match with Elliott in Chicago being postponed." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The New York Times reported that after Tom Allen's poor showing at Madison Square Garden, his representative failed to appear, and Sullivan's friend Robert Farrell claimed the $1,000 Richard K. Fox had posted for an Allen-Sullivan match." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The New York Times", "notes": "Masthead: The New-York Times, Wednesday, November 29, 1882." },
+  "facts": [
+    {
+      "fact": "Allen made an unsatisfactory appearance as a boxer in the art gallery of Madison Square Garden, New York",
+      "date": "1882-11-27",
+      "people": [],
+      "places": ["Madison Square Garden, New York"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Richard K. Fox proposed to wager $5,000 that Allen could defeat John L. Sullivan and posted $1,000 with Harry Hill as a challenge to Sullivan",
+      "date": "1882-11",
+      "people": ["Richard K. Fox", "John L. Sullivan", "Harry Hill"],
+      "places": ["Harry Hill's, New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's representative Harding failed to appear at Harry Hill's to settle the match, and Sullivan's friend Robert Farrell claimed Fox's $1,000; Hill refused to give it up without Harding declaring Allen would not fight",
+      "date": "1882-11-28",
+      "people": ["Harding", "Robert Farrell", "Harry Hill", "Richard K. Fox"],
+      "places": ["Harry Hill's, New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the exhibition Allen was said to have gone to Coney Island",
+      "date": "1882-11",
+      "people": [],
+      "places": ["New York", "Coney Island, New York"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Monday evening before the Wednesday Nov 29 paper = Nov 27, 1882."
+}

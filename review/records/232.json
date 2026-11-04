@@ -1,0 +1,15 @@
+{
+  "id": "232",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The second column begins mid-sentence ('leans' to fight Kilrain on February 18, 1890, Jack Dempsey ...'), so a passage between the end of the first column and the top of the second appears to be missing. No page image to check." },
+  "ocr": { "status": "rough", "notes": "Leaves out the Dempsey prediction lead-in and the 'Corbett's Message' paragraphs about the Kilrain win and the Peter Jackson match; merges sentences ('decided to become a champion. Some had declared ...' should be 'decided to become a professional')." },
+  "about_tom": "no",
+  "title": { "ok": false, "suggested": "John L. As I Knew Him, chapter 22 (Corbett)" },
+  "summary": { "ok": false, "suggested": "The St. Louis Star printed a chapter of James J. Corbett's Sullivan series on his own rise, from watching Sullivan as a boy to beating Choynski and Kilrain and going after a title match. Tom Allen is not mentioned." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The St. Louis Star", "notes": "No page image. The paper was 'The St. Louis Star' in March 1918; date fits the series (chapter 22)." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Tom Allen does not appear anywhere in the clipping; it was probably added as part of the Corbett series. Consider removing it. A passage between the columns seems to be missing."
+}

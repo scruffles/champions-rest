@@ -1,0 +1,66 @@
+{
+  "id": "196",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Pieced together from two columns; the line at the join ('Joe Choynski ... spoken of in') is mostly lost, and the last line at the bottom ('...that had the career') is cut." },
+  "ocr": { "status": "rough", "notes": "Gist right but key errors: image reads 'fighter in 1860' (OCR 1857), '39 years old' when he beat Davis (OCR 29), '39-year mark' (OCR 30-year), Leary killed by a 'brick' (OCR bullet), Kelly 'around 154 pounds'. OCR drops the Choynski/Maher/Corbett passage." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Sunday Republic, noting Tom Allen's illness at his Market Street home, cited him as a bare-knuckle fighter with a long career, recalling his 1867 Goss fight broken up by an armed mob and his 1870 bout with Jem Mace." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Profiles", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead: The Republic: Sunday, February 1, 1903; 'Written for the Sunday Republic'." },
+  "facts": [
+    {
+      "fact": "Allen fought Joe Goss in late September 1867 for $2,500 a side; after 37 rounds (1 hour 50 minutes), with Goss beaten, Goss's friends including Red Leary and Blinky Morgan stormed the ring with revolvers, and Allen was shot in the hand and hit in the eye with a club",
+      "date": "1867-09",
+      "people": ["Joe Goss", "Red Leary", "Blinky Morgan"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Jem Mace in Louisiana in 1870 for the championship of the world and $2,500 a side; his seconds threw up the sponge after ten rounds (50 minutes)",
+      "date": "1870",
+      "people": ["Jem Mace"],
+      "places": ["Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen knocked out Charlie Davis in five rounds in England in 1878 under Queensberry rules, winning the British championship at age 39",
+      "date": "1878",
+      "people": ["Charlie Davis"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": "037"
+    },
+    {
+      "fact": "Allen beat Mike McCool easily in seven rounds on Bloody Island near St. Louis",
+      "date": "",
+      "people": ["Mike McCool"],
+      "places": ["Bloody Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen started fighting in 1860 at age 21",
+      "date": "1860",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "005"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Secondhand 1903 retrospective. The Mace stake ($2,500 a side) differs from the previous day's article 194 ($5,000 purse). Also profiles Tom Kelly, another St. Louis veteran (born Roscommon, Ireland, 1836)."
+}

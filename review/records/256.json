@@ -1,0 +1,90 @@
+{
+  "id": "256",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "The whole article, including all five headline decks: 'The Expected Mill / Chicanery of Rooke and His New York Backers / A Row Raised About the Final Stake-Holder / Rooke Not to Appear in the Ring To-Day / He Sends a New Proposition to Allen.'"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The body is accurate. It leaves out the subheads and the '[Special to the St. Louis Republican.] NEW YORK, June 16' dateline, and it modernizes 'Pittsburg' to 'Pittsburgh'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republican reported from New York that the Allen–Rooke fight for the American championship and $3,000 fell through over the choice of a final stakeholder. Rooke's backers offered a new match for $1,000 near Pittsburg."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Republican",
+    "notes": "Masthead: The St. Louis Republican, Thursday, June 17, 1875, front page. The dispatch is datelined New York, June 16."
+  },
+  "facts": [
+    {
+      "fact": "The planned fight between Allen and George Rooke of New York for the championship of America and $3,000, to be fought near Pittsburg, fell through when the final stakeholder, John Chamberlain, withdrew and Rooke's backer Shaughnessy put an attachment on the stakes held by Harry Hill",
+      "date": "1875-06",
+      "people": [
+        "George Rooke",
+        "John Chamberlain",
+        "Shaughnessy",
+        "Harry Hill"
+      ],
+      "places": [
+        "New York",
+        "Pittsburg"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Chamberlain was told that Joe Coburn had organized a gang to go to Pittsburg and win the fight for Rooke on a staged foul if Rooke could not win; the paper said no blame attached to Allen",
+      "date": "1875-06",
+      "people": [
+        "Joe Coburn",
+        "George Rooke"
+      ],
+      "places": [
+        "Pittsburg"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Rooke's backer Muldoon, through Allen's representative Billy Edwards, offered to match Rooke with Allen for $1,000 within ten days, 50 miles from Pittsburg, with Harry Hill as stakeholder",
+      "date": "1875-06-16",
+      "people": [
+        "George Rooke",
+        "Muldoon",
+        "Billy Edwards",
+        "Harry Hill"
+      ],
+      "places": [
+        "New York",
+        "Pittsburg"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary is mostly right but editorializes. The second paragraph is the paper's general comment on the decline of prize fighting."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "244",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole Wray's Column, both columns. Allen is mentioned only in the 'Two Champions Ran Saloons Here' item at the foot of the left column (crop-3)." },
+  "ocr": { "status": "good", "notes": "Left column is mostly right, but the first sentence is garbled by mixing in the right column's opening ('Time to Loosen Up'); the right column (baseball) is otherwise left out." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Two Champions Ran Saloons Here" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch's Wray's Column, on English boxer Seaman Watson being a bartender, noted that Mike McCoole and Tom Allen both held the heavyweight title while running saloons in St. Louis." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Legacy", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image; date and paper could not be checked against a masthead." },
+  "facts": [
+    {
+      "fact": "Allen owned and operated a saloon in St. Louis while he held the heavyweight title and was still active in the ring",
+      "date": "",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title has a typo ('Wrav's'). The current summary describes only the Watson items and does not mention Allen."
+}

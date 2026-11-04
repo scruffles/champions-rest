@@ -1,0 +1,36 @@
+{
+  "id": "134",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole lead item, headline 'IT WILL BE CALLED OFF. The Stakes in the Daly-M'Manus Fight Taken Down.' through 'He was at it five weeks.' The rest of the deck ('A Short and Decisive Mill—Sporting News and Notes—Ball Gossip') refers to separate items below in the column, which are not about Allen." },
+  "ocr": { "status": "good", "notes": "Accurate; small changes only (the image reads 'living at his house', OCR 'staying')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Daly-McManus fight called off; Allen said to have put up the whole $1,000 stake" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that the Daly-McManus fight was off and the stakes would be returned, and repeated talk that Tom Allen had put up all of McManus's $1,000 and stuck on technicalities rather than lose it." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch, Monday, December 10, 1888', page 8. The current title is misleading: the stakes were to be returned to both sides, so Allen did not lose the $1,000." },
+  "facts": [
+    {
+      "fact": "Allen backed McManus, 'the stranger from Kansas City', against Dan Daly; a well-known sporting man said Allen put up the first $250 forfeit and, when other backers failed to come forward, every later deposit until the whole $1,000 was his",
+      "date": "1888-12",
+      "people": ["McManus", "Dan Daly"],
+      "places": ["St. Louis", "Kansas City"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Daly-McManus fight was called off, with stakeholder Bill Clark to return the money to both sides; Daly said McManus had got Allen mixed up in it and both wanted out, and it was said Allen stuck on technicalities rather than fight or forfeit",
+      "date": "1888-12-10",
+      "people": ["Dan Daly", "McManus", "Bill Clark"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "McManus's first name is not given; facts-index has 'Spars with Hugh McManus in 1888', possibly the same man. Allen is called 'the fat and festive Thomas'."
+}

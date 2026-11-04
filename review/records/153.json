@@ -1,0 +1,36 @@
+{
+  "id": "153",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "'The Ring' sporting column: Gibbons-Daly preview, 'Tom Allen's Opinion', Bat Masterson, Baird on Mitchell, Pugilistic Pointers. Only the 'Tom Allen's Opinion' section (crop-2/3) is about Allen; it is complete. The left edge of the Gibbons paragraph is torn (crop-1/2), not affecting the Allen section." },
+  "ocr": { "status": "good", "notes": "Mostly right, but the transcript drops the end of the Gibbons paragraph ('His tactics are to wear his opponent out... Gibbons flunked, but Austin denies this'). Small slips: 'a draw he made with Jack McAuliffe in Boston', 'Solly Smith', 'bet a quart' (not 'round'), 'possible match'. The Allen section matches." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen on Smith's win over Goddard" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, who was in Ed Smith's corner, said Smith fairly beat Joe Goddard. Allen had told Smith to fight close, head in Goddard's body, and let his right do the rest." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Tuesday Evening, March 7, 1893, page 5. The column starts at the bottom of the first column and continues at the top of the second." },
+  "facts": [
+    {
+      "fact": "Allen seconded Ed Smith when Smith defeated Joe Goddard at New Orleans",
+      "date": "1893-03-03",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen said Smith won the Goddard fight fairly, and that he had told Smith to get his head into Goddard's body and stick close rather than stand off and exchange blows",
+      "date": "1893-03",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fight date taken from the column's 'Friday night' (Friday before Tuesday, March 7, 1893), hence medium confidence. Allen's view is reported indirectly, not quoted."
+}

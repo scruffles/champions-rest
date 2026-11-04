@@ -1,0 +1,36 @@
+{
+  "id": "165",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Allen to Back Him' item down to the next subhead ('Knocked McVey Out')." },
+  "ocr": { "status": "good", "notes": "Close match; small slips ('the past year' for 'during the past year', 'hesitate in' for 'hesitate any in')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen backs Al Neist in a wrestling challenge to Mike Mooney" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen offered to back Al J. Neist against Mike Mooney in a lightweight wrestling match for $250 a side, saying no fight could be held around St. Louis." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Friday, St. Louis Post-Dispatch, January 11, 1895, page 5." },
+  "facts": [
+    {
+      "fact": "Allen offered to back Al J. Neist against Mike Mooney in a lightweight wrestling match, any style, for $250 a side, winner take all",
+      "date": "1895-01-11",
+      "people": ["Al J. Neist", "Mike Mooney"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen said no prizefight could be held around St. Louis, so he advised Neist to wrestle",
+      "date": "1895-01-11",
+      "people": ["Al J. Neist"],
+      "places": ["St. Louis"],
+      "quote": "There is no chance to pull off a fight in any kind of shape around St. Louis nowadays, however, and for that reason, I advised Neist to try and get Mooney to wrestle him.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title says boxing is 'now illegal'; the article only says no fight could be pulled off around St. Louis."
+}

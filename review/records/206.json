@@ -1,0 +1,46 @@
+{
+  "id": "206",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole short item with headline. No page image to check masthead." },
+  "ocr": { "status": "good", "notes": "Accurate but omits the headline 'Tom Allen, the Pugilist, Dies.' and the dateline 'St. Louis, April 6.'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Current Local reported that Allen, born in Birmingham, England, in 1839, died in St. Louis of general debility after 25 years keeping a small saloon there, and called him the only pugilist to lose, regain and retire with the world's title." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Personal life", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The Current Local", "notes": "No page image, so the paper and the April 9 date cannot be checked against a masthead. Item is datelined St. Louis, April 6, which fits a weekly printed April 9." },
+  "facts": [
+    {
+      "fact": "Allen died in St. Louis of general debility",
+      "date": "1903-04-05",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": "042"
+    },
+    {
+      "fact": "Allen was born in Birmingham, England, on April 23, 1839",
+      "date": "1839-04-23",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "high",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen had kept a small saloon in St. Louis for the past 25 years",
+      "date": "1903",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "needs_human only to confirm the paper name and date (no page image; localCopyFull is 'misc/??? (1).jpg')."
+}

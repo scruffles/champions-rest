@@ -1,0 +1,26 @@
+{
+  "id": "211",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Horse value is $150 in the image, not $350; 'Constable Leng' should be 'Lenz'; 'went to Clayton' drops 'yesterday'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Tillie Heitgrove (Hartgrove), Allen's housekeeper, got a writ of replevin at Clayton for a $150 driving horse she said Allen gave her, which the Public Administrator claimed for the estate." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead: The Republic: Tuesday, April 21, 1903. Headline: 'Asks Possession of Horse.'" },
+  "facts": [
+    {
+      "fact": "Tillie Hartgrove (printed Heitgrove), Allen's housekeeper, had a writ of replevin issued at Clayton for his $150 driving horse, kept at William W. Heapes's farm, saying Allen gave it to her; the Public Administrator told Heapes to hold it for the estate",
+      "date": "1903-04-20",
+      "people": ["Tillie Hartgrove", "William W. Heapes", "Constable Lenz"],
+      "places": ["Clayton, Missouri", "St. Louis County"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The name is printed 'Heitgrove' here; the next day's Republic (212) prints 'Hartgrove'."
+}

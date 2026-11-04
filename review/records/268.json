@@ -1,0 +1,46 @@
+{
+  "id": "268",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole column item with main headline 'Tom Allen as a Boxer' and subheads." },
+  "ocr": { "status": "rough", "notes": "Main headline missing; 'Telegraph to the Express' should be 'to the Record'; Allen (not Fox) failed to appear at the Police Gazette office and went to Coney Island 'for a plunge in the surf'; Harding 'did not go to the theatre'; Hill would not allow articles signed in his house; last line is Sullivan's match with Mr. Elliott, not Allen, postponed; several sentences paraphrased." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen as a Boxer" },
+  "summary": { "ok": false, "suggested": "The Wilkes-Barre Record reported that Tom Allen's poor showing as a boxer at Madison Square Garden left friends urging backer Richard K. Fox to drop his $5,000 offer to match Allen against John L. Sullivan." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Exhibitions", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The Wilkes-Barre Record", "notes": "Masthead: The Wilkes-Barre Record, Friday Morning, December 1, 1882; dispatch dated New York, Nov. 30. article.json has no focus field." },
+  "facts": [
+    {
+      "fact": "Allen gave an unsatisfactory boxing exhibition in the art gallery of Madison Square Garden, New York, on a Monday evening",
+      "date": "1882-11-27",
+      "people": [],
+      "places": ["Madison Square Garden, New York"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Richard K. Fox of the Police Gazette proposed to wager $5,000 that Allen could defeat John L. Sullivan in the prize ring and posted $1,000 with Harry Hill",
+      "date": "1882-11",
+      "people": ["Richard K. Fox", "John L. Sullivan", "Harry Hill"],
+      "places": ["Harry Hill's, New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the exhibition Fox tried to withdraw the $1,000, while Sullivan's friend Robert Farrell claimed it for Sullivan; Hill refused to give it up until Fox's man declared Allen would not fight",
+      "date": "1882-11-29",
+      "people": ["Richard K. Fox", "Robert Farrell", "Harry Hill", "John L. Sullivan"],
+      "places": ["Harry Hill's theatre, New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Exhibition date inferred: 'Monday evening' before the Nov. 30 dispatch is Nov. 27, 1882."
+}

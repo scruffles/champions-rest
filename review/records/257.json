@@ -1,0 +1,70 @@
+{
+  "id": "257",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "The whole article, headline 'Allen and Rooke / Arrangements Again Made for the Fight', with the 'Interview with Allen' subsection."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Accurate. It leaves out the 'Interview with Allen' subhead, and it normalizes Allen's Cockney ''Arry 'Ill' to 'Harry Hill' and 'telegraphing to 'Arry' to 'Harry'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republican reported that a new Allen–Rooke match was arranged at Harry Hill's in New York for July 15 within 50 miles of Detroit, for $1,000 a side. Found at his Free and Easy, Allen said he had not yet heard."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges",
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Republican",
+    "notes": "Page header: The St. Louis Republican, Tuesday, June 29, 1875, page 5. The telegram is datelined New York, June 28."
+  },
+  "facts": [
+    {
+      "fact": "A new match between Allen and George Rooke was arranged at Harry Hill's in New York, to be fought within fifty miles of Detroit on July 15, 1875, for the championship of America and $1,000 a side, with Rooke choosing the ground",
+      "date": "1875-06-28",
+      "people": [
+        "George Rooke",
+        "Harry Hill"
+      ],
+      "places": [
+        "Harry Hill's, New York",
+        "Detroit"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The $3,000 stakes from the first Allen–Rooke match were returned; Harry Hill kept $1,000 of Allen's money for the new contest",
+      "date": "1875-06-28",
+      "people": [
+        "George Rooke",
+        "Harry Hill"
+      ],
+      "places": [
+        "New York"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's reply to the reporter is paraphrased, not quoted, so there is no quote fact. He was interviewed at 'Tom Allen's Free and Easy' in St. Louis (then 417 Washington Ave per fact 017, but the article gives no address)."
+}

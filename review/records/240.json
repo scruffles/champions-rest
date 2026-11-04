@@ -1,0 +1,46 @@
+{
+  "id": "240",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "the 'It Has Been Done' item from Gray's Column, complete" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch noted that Tom Allen, longtime keeper of the Champion's Rest saloon, had regained a lost heavyweight title, and that his fights with Mike McCoole led to Missouri's 1873 law making prize fighting a felony." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights", "Saloon", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "no page image; masthead not visible, date and paper unconfirmed" },
+  "facts": [
+    {
+      "fact": "Allen regained the heavyweight title after losing it, the only heavyweight to do so before 1927",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen ran the Champion's Rest saloon in St. Louis for many years, up to his death",
+      "date": "",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's fights with Mike McCoole near St. Louis led indirectly to the 1873 Missouri statute making prize fighting a felony, which held for fifty years",
+      "date": "1873",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis", "Missouri"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Paper gives Allen's death as 1904; he died in 1903 (fact 042). The current summary wrongly says the ban lasted until 1972; the paper says fifty years, until the law passed in spring 1927."
+}

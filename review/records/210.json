@@ -1,0 +1,56 @@
+{
+  "id": "210",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline, both photos and full text. The photo captions ('TOM ALLEN', 'JOE GOSS') are not in the crop; the second photo is Joe Goss." },
+  "ocr": { "status": "good", "notes": "A few errors: 'Jem Wace' for 'Jem Mace'; 'prepared their race' for 'prepared their togs'; 'the state was colored stopped' for 'the fight was ordered stopped'; 'Goss party' for 'Goss partisans'." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Cincinnati recalls the 1876 Allen-Goss fight" },
+  "summary": { "ok": false, "suggested": "The Cincinnati Enquirer recalled Allen's 1876 fight with Joe Goss in Boone County, Kentucky, which Allen lost on a deliberate foul in the 21st round, fearing for his life from Goss's supporters." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The Cincinnati Enquirer", "notes": "Masthead: The Cincinnati Enquirer, Sunday Morning, April 12, 1903, Section 4. Headline: 'A Bit of Ancient Pugilistic History.'" },
+  "facts": [
+    {
+      "fact": "Allen fought Joe Goss for $2,000 a side; stopped by militia in Kenton County, the fight moved to a farm in Boone County, Kentucky, where Allen lost in the 21st round on a deliberate foul and Goss was declared champion of America",
+      "date": "1876-09-07",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Kenton County, Kentucky", "Boone County, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen trained for the Goss fight beyond Carthage, near Cincinnati",
+      "date": "1876",
+      "people": [],
+      "places": ["Carthage, Ohio", "Cincinnati"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Both men were arrested after the fight; Allen got out on bail and fled to England",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky", "England"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After returning to America Allen settled in St. Louis and ran the Champion's Rest saloon until a few weeks before his death",
+      "date": "",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The localCopyEdited/localCopyFull paths point at image-261 files (and appear swapped: edited = 261.jpg, full = 261b.jpg); worth checking. The England flight may be the same trip as fact 015 (May 1877) but the article gives no date."
+}

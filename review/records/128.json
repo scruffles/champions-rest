@@ -1,0 +1,15 @@
+{
+  "id": "128",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "no_crop", "notes": "No clipping or page image (localCopyEdited is 'missing'). The full-page file is named St__Louis_Post_Dispatch_Sat__May_19__1888_ (1).jpg but was not available for review." },
+  "ocr": { "status": "missing", "notes": "No transcript." },
+  "about_tom": "unsure",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Cannot be checked without an image." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Nothing to review: no image and no text. Only the title ('Allen arrested in connection to a fight') suggests the content. The article needs to be found on the May 19, 1888 page, clipped and transcribed. It may relate to article 129 (May 20, 1888), which mentions the crowd at Allen's expecting something from 'Tom's pugnacity', or to the April 16 McManus–Flint fight (127)."
+}

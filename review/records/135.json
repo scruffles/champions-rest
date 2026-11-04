@@ -1,0 +1,66 @@
+{
+  "id": "135",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Arresting detectives are 'Burke and Fitzgerald' in the image, not 'Hogan and Fitzgerald'; image spells 'McMannus' once."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that St. Louis County issued prize-fighting warrants over the Kelly-McManus fight at Florissant, and that Tom Allen and others were arrested and gave $500 bond each."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Monday, February 11, 1889, page 2."
+  },
+  "facts": [
+    {
+      "fact": "A St. Louis County warrant for prize-fighting was issued against Allen and others as seconds and aiders in the Ed Kelly-Hugh McManus fight at Florissant",
+      "date": "1889-02-11",
+      "people": [
+        "Ed Kelly",
+        "Hugh McManus",
+        "Tom Kelly"
+      ],
+      "places": [
+        "Florissant, St. Louis County, Missouri"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "036"
+    },
+    {
+      "fact": "Allen was arrested in St. Louis and released on $500 bond for his part in the Florissant prize fight",
+      "date": "1889-02-11",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "036"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

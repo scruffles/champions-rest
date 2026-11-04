@@ -1,0 +1,37 @@
+{
+  "id": "142",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Only the closing Allen paragraph of a longer article ('The Australians', on the coming Slavin-Jackson fight in London); the Allen part is whole."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen backed Frank Slavin to beat Peter Jackson in their London fight and wanted to bet on him, though no Jackson money had appeared in St. Louis."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Thursday, May 26, 1892, page 8."
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "No biography-level facts; Allen only gives a betting opinion on someone else's fight."
+}

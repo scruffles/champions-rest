@@ -1,0 +1,36 @@
+{
+  "id": "221",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Only the paragraph about Allen. The headline ('Only One Fighter Ever Came Back: Corbett's Failure but a Sample of Pugilistic Dope—Only Instance of Reversal of Form When Allen Won From McCool') and the rest of the article are on the page but outside the clipping." },
+  "ocr": { "status": "good", "notes": "Matches the clipping." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen called the only fighter to regain a title after losing it" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch, writing on aging champions, said Tom Allen lost the heavyweight title to Jem Mace in 1870 and won it back from Mike McCool in 1873, calling him the only fighter to come back." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'Saturday—St. Louis Post-Dispatch—January 19, 1907', page 6." },
+  "facts": [
+    {
+      "fact": "Jem Mace defeated Allen for the heavyweight championship in 1870",
+      "date": "1870",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen won the heavyweight championship back by defeating Mike McCool in 1873, the only noted fighter said to have come back after being beaten and retiring",
+      "date": "1873",
+      "people": ["Mike McCool"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper says Allen died 'about two years ago'; he died in 1903, nearly four years earlier. Relates to the index fact about losing the title to Mace and regaining it (id 000)."
+}

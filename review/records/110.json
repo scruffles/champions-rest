@@ -1,0 +1,108 @@
+{
+  "id": "110",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole 'Tom Need Not Go' report in 4 pieces; the Allen hearing is the first part, followed by the Birmingham and Allen Moore cases under the same headline. No page image to check the masthead."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right. Small errors: Goss 'fined $300' (amount dropped), 'owing to the floods and delayed mails' (OCR 'late'), 'trouble over the bond' (OCR 'old affair'), 'begun to right the forfeited bond business' (OCR 'settle'), 'Singleton D. Cave' (OCR 'I.')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Judge Noonan released Tom Allen rather than hold him for Kentucky over his 1876 prize fight with Joe Goss, finding the case was an attempt by his bondsman Farrell to collect a debt."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "No page image; date and paper taken from the file name (Post-Dispatch, Wed Feb 13 1884). article.json has no focus field."
+  },
+  "facts": [
+    {
+      "fact": "Allen fought Joe Goss in 1876 on the Kentucky side of the river near Covington; the whole party was arrested",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "near Covington, Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the Goss fight Allen took a steamer to England and took up his residence there, while Goss returned to Kentucky, stood trial and was fined $300",
+      "date": "1877",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Kentucky",
+        "England"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On returning to America Allen came to St. Louis, where trouble over his forfeited Kentucky bond began",
+      "date": "",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was arrested in St. Louis at the instance of his former bondsman Farrell to await a requisition from Kentucky",
+      "date": "1884-02",
+      "people": [
+        "Farrell"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At a hearing in the Court of Criminal Correction, the defense said the case was an attempt by Farrell to collect a debt; the prosecutor declined to press it and Judge Noonan released Allen from custody",
+      "date": "1884-02-13",
+      "people": [
+        "Farrell",
+        "Judge Noonan",
+        "Rochester Ford"
+      ],
+      "places": [
+        "Court of Criminal Correction, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "No page.jpg was provided, so the masthead could not be checked. Index line 'Allen waited out the statute of limitations on his problems in kentucky' (id 000) is related; existing_fact left blank."
+}

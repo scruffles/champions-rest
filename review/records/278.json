@@ -1,0 +1,36 @@
+{
+  "id": "278",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "A crease runs down the left edge, clipping a few letters at the start of lines, but the text is readable." },
+  "ocr": { "status": "rough", "notes": "Names wrong: saloon keeper is Alex. McKee (not Mefgeo), Allen's second representative is Sherman Thurston (not Rinor); garbles the 'play or pay' clause; the last propositions were 'all rejected'; omits McCoole's 'repetition of the Coburn affair' and Allen's backers' unwillingness to put up a large sum; the closing rule quote is only partly transcribed." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Daily National Intelligencer, reprinting the St. Louis Times, reported that backers of Mike McCoole and Tom Allen met at McKee's saloon in St. Louis but failed to agree on a $2,500 match." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily National Intelligencer", "notes": "Masthead: Daily National Intelligencer, Washington, Saturday, March 20, 1869. Article reprinted from the St. Louis Times." },
+  "facts": [
+    {
+      "fact": "Backers of Allen and Mike McCoole met at Alex. McKee's Broad Gauge saloon on Chestnut Street to arrange a match for $2,500 a side, but every proposition was rejected and no match was made",
+      "date": "1869-03",
+      "people": ["Mike McCoole", "Billy Carroll", "Sherman Thurston", "Alex. McKee"],
+      "places": ["Broad Gauge saloon, Chestnut Street, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was busy superintending the opening of his new saloon on Fifth Street, St. Louis",
+      "date": "1869-03",
+      "people": [],
+      "places": ["Fifth Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "008"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Exact date of the meeting not given ('last night' in the St. Louis Times); placed in March 1869. Fact 008 dates the Fifth Street saloon June-Aug 1869; this shows it opening by March 1869."
+}

@@ -1,0 +1,87 @@
+{
+  "id": "224",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Magazine-section feature 'Death's \"Policy\" Game' by Lyne S. Metcalfe, pieced together from several columns, from the art and byline to the end of the text ('premium of $50 a year on his life'). The headline is only partly in crop-1 but is on the page; the Lottery Mania item beside it is correctly left out. Page is torn on the right side, with small losses at line edges in crop-8."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image through 'morphine, strychnine'; the rest (Mr. Card's quote, 'Looks Like Whisky' section and the closing paragraphs) is missing. Knight was insured for '$1,000' in the image (OCR $1,400)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Death's \"Policy\" Game"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Star reported that dive keepers insured the lives of drunkards and fed them drugged whisky, and recalled Tom Allen's saloon at Seventh and Market, where as many as 200 men slept on cold nights."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Saloon",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "The St. Louis Star",
+    "notes": "Page header reads 'The St. Louis Star Magazine Section'; no date is printed on the visible page, so the 1910-04-24 date could not be checked. The paper was The St. Louis Star in 1910 (Star and Times only from 1932)."
+  },
+  "facts": [
+    {
+      "fact": "Allen's saloon stood at Seventh and Market streets, where the American Theater stood by 1910",
+      "date": "",
+      "people": [],
+      "places": [
+        "Seventh and Market streets, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen's saloon was one big barroom in a tumble-down frame building, with Allen living above it; a sign on the front window read 'We are lower than the lowest'",
+      "date": "",
+      "people": [],
+      "places": [
+        "Seventh and Market streets, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The saloon stayed open all night and as many as 200 men, aged 18 to 65, slept in the barroom on chairs, benches and the floor on cold nights",
+      "date": "",
+      "people": [],
+      "places": [
+        "Seventh and Market streets, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "027"
+    },
+    {
+      "fact": "In 1910 the St. Louis Star charged that Allen's saloon had dragged scores of men to the gutter with 'doped' liquor",
+      "date": "",
+      "people": [],
+      "places": [
+        "Seventh and Market streets, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Knight insurance story is told 'in the hey-day of Tom Allen's activities' but the dive is not named as Allen's, so it is not recorded as a fact about him. The 'doped liquor' charge is a retrospective accusation with no specific evidence."
+}

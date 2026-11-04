@@ -1,0 +1,36 @@
+{
+  "id": "274",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The 'Ring Robbers' article (crops 1-3) is the part about Allen. The rest is unrelated: 'Allen's Testimony' (an assistant trainer for Sharkey in the Fitzsimmons trial, not Tom Allen), Corbett, and horse-racing results." },
+  "ocr": { "status": "rough", "notes": "Heenan section close; Allen/Goss/Watkins/McCool passage garbled; OCR invents a line ('Allen's testimony stands as a memento...') not in the image and misreads the trainer's name as 'Dow Allen' (the image appears to read George Allen, partly struck through)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Ring Robbers" },
+  "summary": { "ok": false, "suggested": "The Buffalo Express reprinted a Washington Post piece on fixed prize fights, including Tom Allen's losses on fouls to Joe Goss in Kentucky, where referee Eph Holland was said to be bought, and to Mike McCool." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The Buffalo Express", "notes": "Masthead: The Buffalo Express, Friday Morning, December 11, 1896, page 11. 'Buffalo Courier Express' did not exist until 1926." },
+  "facts": [
+    {
+      "fact": "Allen fought Joe Goss in Kentucky; a sheriff and deputies broke up the fight and it moved to an adjoining county, where referee Eph Holland of Boston, said to be fixed, gave Goss the decision on a foul",
+      "date": "",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper claimed the referee called a foul against Allen in his fight with Mike McCool, and that McCool afterward acknowledged he was fairly beaten by Allen",
+      "date": "",
+      "people": ["Mike McCool"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Reprint of the Washington Post article in 273 with the same facts. The 'Allen's Testimony' item in the clipping is not about Tom Allen."
+}

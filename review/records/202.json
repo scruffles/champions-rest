@@ -1,0 +1,86 @@
+{
+  "id": "202",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article including the top headline, portrait, 'Allen's Big Victories' sidebar and the 'There Is Unrest at the Champions' Rest' story. Also includes the unrelated 'Smoked Hundred Cigarettes a Day' headline beside the portrait. A tear at the end of the 'age of 6_' line hides a digit and part of the undertaker's name." },
+  "ocr": { "status": "good", "notes": "Mostly right. Errors: Mary Taylor's address is 3427 Clark avenue in the image (OCR says 2427, twice); OCR drops 'of ... Wand' after 'undertaking rooms'; the subhead spells the name 'Byrnes' while the body says 'Byrne'. The victories sidebar is not transcribed." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that, the day after Allen's death, W. A. Byrne held the Champion's Rest living rooms at gunpoint for a creditor while bartender John Murphy kept the bar for Allen's daughter, and that his will left nearly everything to Tillie Hartgrove." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon", "Legal", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Monday evening, April 6, 1903, front page." },
+  "facts": [
+    {
+      "fact": "Allen died on Sunday morning, April 5, 1903, at the Baptist Hospital in St. Louis",
+      "date": "1903-04-05",
+      "people": [],
+      "places": ["Baptist Hospital, St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": "042"
+    },
+    {
+      "fact": "After Allen's death, W. A. Byrne, representing J. W. L. Gillespie of the Hyde Park bar, held the living rooms over the Champion's Rest at 619 Market Street with a revolver, while bartender John Murphy held the barroom in the interest of Allen's daughter Mrs. Mary Taylor",
+      "date": "1903-04-06",
+      "people": ["W. A. Byrne", "J. W. L. Gillespie", "John Murphy", "Mary Taylor"],
+      "places": ["Champion's Rest, 619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "048"
+    },
+    {
+      "fact": "J. W. L. Gillespie claimed a bill of sale transferring the saloon to him and tried to make John Murphy hand it over; guns were drawn but Murphy stayed in charge",
+      "date": "1903-04",
+      "people": ["J. W. L. Gillespie", "John Murphy"],
+      "places": ["Champion's Rest, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's daughter Mrs. Mary Taylor of 3427 Clark Avenue tried to see him at the Baptist Hospital after hearing he would marry Mrs. Hartgrove, but was told he was too ill to talk to anyone",
+      "date": "1903",
+      "people": ["Mary Taylor", "Tillie Hartgrove"],
+      "places": ["Baptist Hospital, St. Louis", "3427 Clark Avenue, St. Louis"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "044"
+    },
+    {
+      "fact": "Allen's will, dated March 24, 1903, was filed in probate court by attorney Simon Bass on April 6, 1903; it left $10 each to his two sisters and the balance to Mrs. Tillie Hartgrove",
+      "date": "1903-04-06",
+      "people": ["Tillie Hartgrove", "Simon Bass"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "046"
+    },
+    {
+      "fact": "Mrs. Hartgrove, reported to be engaged to Allen, was said to have an undivorced husband living in England",
+      "date": "1903-04",
+      "people": ["Tillie Hartgrove"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was champion of England when he came to the United States in 1869, and St. Louis was his home from then on",
+      "date": "1869",
+      "people": [],
+      "places": ["England", "United States", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The 'Allen's Big Victories' sidebar lists 15 wins with years and rounds (e.g. Bill Davis 1869, 43 rounds; Mike McCool, 19 rounds; Ben Hogan 1873, 3 rounds; Joe Goss 1876, 37 rounds) and could be checked against the fight record. Its Goss entry calls the 1876 fight a win, which conflicts with his loss to Goss. The 1869 arrival date conflicts with fact 006 (1867). Age at death torn ('6_'); OCR's 61 is a guess. The estate dispute facts overlap fact '000: J.W.L. Gillespie tried to take possession...' and '000: Allen's revised will leaves $10...' (unnumbered)."
+}

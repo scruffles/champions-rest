@@ -1,0 +1,36 @@
+{
+  "id": "107",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item from headline 'BUT HE KNOCKED 'EM OUT.' and subhead to 'He discharged the Hon. Tom.'; two pieces overlap by two lines." },
+  "ocr": { "status": "good", "notes": "Matches the image closely. Transcript opens 'Tom Allen' where the image reads 'The Hon. Tom Allen'; subhead 'Tom Allen Prosecuted on a Charge of Keeping a Disorderly House' omitted." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen tried for keeping a disorderly house and discharged" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen was tried in Police Court for keeping a disorderly house, with police and a neighboring hotel keeper describing singing and fights, but Judge Cady discharged him." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch Tuesday, October 30, 1883', page 2; item in the fourth column." },
+  "facts": [
+    {
+      "fact": "Allen was tried in the St. Louis Police Court on a charge of keeping a disorderly house at his saloon; Judge Cady found it not proved and discharged him. Cornelius McBride was his attorney",
+      "date": "1883-10-30",
+      "people": ["Judge Cady", "Cornelius McBride", "Officer Hamilton", "Officer Welch", "Mr. Daly"],
+      "places": ["Police Court, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "032"
+    },
+    {
+      "fact": "Allen's saloon adjoined the Metropolitan Hotel on Seventh Street between Chestnut and Market streets, whose proprietor Mr. Daly complained of the noise",
+      "date": "1883-10",
+      "people": ["Mr. Daly"],
+      "places": ["Seventh Street between Chestnut and Market, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Saloon location is inferred: Daly's hotel rooms 'fronting on Allen's property'. The current title is a headline pun; a plainer title is suggested."
+}

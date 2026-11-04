@@ -1,0 +1,26 @@
+{
+  "id": "190",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Top of the Real Estate Transfers list including the Allen line; the list continues below the crop but nothing more about Allen is needed." },
+  "ocr": { "status": "rough", "notes": "Many names and figures garbled or dropped: 'Wash; Geo. O'Neil to Bertha Dahm', '50 ft.' / '175 ft.' sizes, 'KEOKUK' read as 'PONCE', most dollar amounts missing. The Allen line is right: GEYER, 50 ft., s. s., bet. Ninth and Tenth; Tom Allen to Henry Steinmeyer, w. d., $2,500." },
+  "about_tom": "unsure",
+  "title": { "ok": false, "suggested": "Tom Allen sells Geyer Avenue lot" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic's real estate transfers listed a deed from Tom Allen to Henry Steinmeyer for 50 feet on the south side of Geyer Avenue, between Ninth and Tenth, for $2,500." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead: The Republic, Friday, February 1, 1901, page 10." },
+  "facts": [
+    {
+      "fact": "A Tom Allen sold 50 feet on the south side of Geyer Avenue, between Ninth and Tenth, to Henry Steinmeyer for $2,500",
+      "date": "1901-02-01",
+      "people": ["Henry Steinmeyer"],
+      "places": ["Geyer Avenue between Ninth and Tenth, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Nothing in the listing says this Tom Allen is the boxer; it could be another man of the same name. Fact date is the listing date; the deed date is not given."
+}

@@ -1,0 +1,86 @@
+{
+  "id": "247",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article: headline, photo panel and caption, deck, byline Harry Sharpe, text through 'Another article tomorrow...'. The crop pieces stack the article's columns into one." },
+  "ocr": { "status": "good", "notes": "Mostly right. The 'Officials Wink at Fighting' paragraph is condensed: it omits 'representing the rival resorts', 'or on the stages of variety theaters', 'but they were savage nevertheless' and the sentence about authorities being indifferent. Subheads are dropped." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Star-Times began Harry Sharpe's series on St. Louis boxing, saying prize fighting revived when Allen came back in 1884 and opened the Champion's Rest at Seventh and Market, rivaling the Daly brothers and Tom Kelly." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Legacy", "Saloon", "Fights", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Star and Times", "notes": "Front page masthead reads 'Green Streak Edition, St. Louis Star-Times', St. Louis, Monday, December 3, 1934. Filed as The St. Louis Star and Times like the other issues; a human may want to decide whether 'St. Louis Star-Times' should be used." },
+  "facts": [
+    {
+      "fact": "Allen defeated Mike McCoole in 1873 on Chouteau Island, nicknamed 'Bloody' Island, in the river a short distance above St. Louis",
+      "date": "1873",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, above St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Allen-McCoole fight so outraged St. Louis that the next January the Missouri Legislature made prize fighting a felony and public boxing exhibitions a misdemeanor",
+      "date": "1874-01",
+      "people": ["Mike McCoole"],
+      "places": ["Missouri"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen returned to London, England, after his victory over McCoole",
+      "date": "",
+      "people": [],
+      "places": ["St. Louis", "London, England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Richard K. Fox of the Police Gazette sent for Allen to fight John L. Sullivan and arranged an exhibition with Joe Goss at Madison Square Garden in New York; Allen's poor showing ended the plan",
+      "date": "",
+      "people": ["Richard K. Fox", "Joe Goss", "John L. Sullivan"],
+      "places": ["Madison Square Garden, New York City"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen came to St. Louis in 1884 and opened the 'Champion's Rest' saloon at the northeast corner of Seventh and Market streets",
+      "date": "1884",
+      "people": [],
+      "places": ["Champion's Rest, northeast corner of Seventh and Market streets, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Professional jealousy caused a long feud between Allen, the Daly brothers (saloon at 12 North Seventh Street) and Tom Kelly (saloon at Sixth and Market) that lasted until death",
+      "date": "",
+      "people": ["Dan Daly", "Charley Daly", "Johnny Daly", "Tom Kelly"],
+      "places": ["12 North Seventh Street, St. Louis", "Sixth and Market streets, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The photo caption says Allen died in St. Louis on April 5, 1904 (other records give 1903)",
+      "date": "1904-04-05",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "low",
+      "existing_fact": "042"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective by Harry Sharpe, written 1934. Known errors: caption calls Allen 'heavyweight champion in the 80's' and gives his death as 1904 (it was April 5, 1903). The 1884 arrival conflicts with the Dec 1882 return in the facts index. The photo shows Allen driving a buggy with 'Denver' Ed Smith (c. 1893), which could be used as an image of Allen."
+}

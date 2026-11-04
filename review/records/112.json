@@ -1,0 +1,67 @@
+{
+  "id": "112",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Clipping is the 'Allen's Defi' subsection of a longer Sullivan item ('Caught at the Depot'); the Allen part is complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor wording errors: 'another difficulty' (OCR drops 'another'), 'a good deal of feeling between' (OCR 'rivalry between'), 'for some time past'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, angered by John L. Sullivan's remarks about Zachritz, confronted Sullivan behind the footlights of the People's Theater before friends hustled the two apart."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Post-Dispatch, Friday, May 9, 1884, page 4. article.json has no focus field."
+  },
+  "facts": [
+    {
+      "fact": "Allen confronted John L. Sullivan behind the footlights of the People's Theater in St. Louis over Sullivan's remarks about Zachritz; friends separated them before a row",
+      "date": "1884-05-08",
+      "people": [
+        "John L. Sullivan",
+        "Zachritz",
+        "Tom Kelly"
+      ],
+      "places": [
+        "People's Theater, St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen told Sullivan he could beat any man in Sullivan's gang except Sullivan",
+      "date": "1884-05-08",
+      "people": [
+        "John L. Sullivan"
+      ],
+      "places": [
+        "People's Theater, St. Louis"
+      ],
+      "quote": "Of course you can come here and make your bluffs. We can't stop that, but I can do up any man in your gang except Sullivan, and I'm just as good a man as Sullivan with my clothes on.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "136",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The whole article is clipped. The page itself is torn at the bottom left, so the last paragraph (Cole Ullman's remarks) is partly lost in the original." },
+  "ocr": { "status": "good", "notes": "Minor slips: 'I or Sullivan' should be 'I regard Sullivan'; 'I found everybody for Sullivan' is 'everybody Sullivan' in print. The torn final paragraph (Cole Ullman) is missing from the transcript." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen would travel with a St. Louis delegation to the Sullivan-Kilrain fight, and that, unlike most local sports, he picked Kilrain to win under London prize ring rules." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Wednesday, June 26, 1889." },
+  "facts": [
+    {
+      "fact": "Allen planned to leave St. Louis with a delegation including Fred Watkins, Tom Kelly and Dan Daly to attend the Sullivan-Kilrain fight",
+      "date": "1889-07",
+      "people": ["Fred Watkins", "Tom Kelly", "Dan Daly", "John L. Sullivan", "Jake Kilrain"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen predicted Kilrain would beat Sullivan and said he would bet on Kilrain",
+      "date": "1889-06-26",
+      "people": ["John L. Sullivan", "Jake Kilrain"],
+      "places": ["St. Louis"],
+      "quote": "Kilrain will win, sure. The people generally greatly overestimate Sullivan. He made reputation by going around the country sparring and knocking people out with gloves, but has never done anything in the ring except whip Paddy Ryan, who never could fight. This man Kilrain is a very clever fighter or he could never have given Jem Smith the battle he did. He takes good care of himself and, I think, is a much better man than Sullivan under London prize ring rules. My money shall certainly be placed on Kilrain.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article calls Allen 'the ex-champion of the world' and Fred Watkins 'his old backer'. The travel fact is a stated plan; the article does not name the fight site."
+}

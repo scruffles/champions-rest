@@ -1,0 +1,94 @@
+{
+  "id": "253",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole Wray's Column in its two columns; the Allen section ('The Champion's Rest' and 'Did He Maintain Order!') is complete."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "The Allen part is mostly right, but there are errors: 'head and gavel in hand' should be 'skull cap on his bald head and gavel in hand'; 'a handlebar mustache and a heavy hand' is dropped; 'six rounds' should be 'four rounds'. The second column (Routis, Sarron, Armstrong) is left out entirely."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch's Wray's Column recalled Tom Allen as the only St. Louis resident to claim a world title, beating Mike McCoole in 1873, and described the ring and piano in the back room of his Champion's Rest saloon."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Legacy",
+    "Saloon",
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Friday, October 29, 1937, page 2C. The column says Allen died in 1904; he died in 1903."
+  },
+  "facts": [
+    {
+      "fact": "In the 1869 championship match with Mike McCoole, Allen won the fight, but the referee, intimidated by McCoole's backers and a mob, gave the decision to McCoole",
+      "date": "1869",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Four years later Allen beat McCoole in seven rounds on an island in the Mississippi and regained the championship",
+      "date": "1873",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "island in the Mississippi River, near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen held the title until beaten by Joe Goss, then retired and renamed his saloon on Market Street east of Seventh the \"Champion's Rest\"",
+      "date": "",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Market Street east of Seventh, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Behind the saloon was a large back room with a ring in one corner and a piano platform in another; Allen sat by the doorway with a gavel as master of ceremonies and bouncer, and noisy disputants were gloved up and put in the ring to fight it out",
+      "date": "",
+      "people": [],
+      "places": [
+        "Champion's Rest, Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "019"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective column (1937), mainly about Henry Armstrong vs. Petey Sarron. Its facts are secondhand, hence medium confidence. The current summary is wrong: it says Allen took the title from McCoole in 1869 and mentions Jem Mace, who is not in this article."
+}

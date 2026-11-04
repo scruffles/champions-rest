@@ -1,0 +1,36 @@
+{
+  "id": "106",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, headline 'A Fighter on His Muscle.' to the end; the clipping is split into two stacked pieces in one image." },
+  "ocr": { "status": "rough", "notes": "Mostly right but with meaning errors: the image says Allen knocked out Egan (not Brooks), Egan 'once kept' the Canterbury (not 'owned'), the dog was a 'quiet spectator', and Tom 'shook himself away' from the men. Headline missing from transcript." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen knocks out Jim Egan in a fight at his free-and-easy" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen knocked out Jim Egan, once keeper of the Canterbury, in a quarrel at Allen's free-and-easy, then drew a pistol on Egan's dog but put it away and had the men ejected." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Saloon", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch Monday, October 29, 1883', page 2; item near bottom of the fifth column." },
+  "facts": [
+    {
+      "fact": "A short time before Oct. 29, 1883, a couple of thugs attacked Allen and tried to rob him, believing he was past his prime",
+      "date": "1883-10",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen knocked out Jim Egan, who once kept the Canterbury, in a quarrel at Allen's free-and-easy; Egan's friend Brooks and Egan's dog joined in, Allen drew his pistol on the dog but put it away, and Egan and his friends were ejected",
+      "date": "1883-10",
+      "people": ["Jim Egan", "Brooks"],
+      "places": ["Allen's free-and-easy, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title says 'trouble maker'; the item names Jim Egan and Brooks. The brawl happened 'a couple of days ago', i.e. about Oct. 27, 1883."
+}

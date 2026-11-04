@@ -1,0 +1,76 @@
+{
+  "id": "141",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole 'The Ring' item about Allen's birthday."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Small slips: 'said Tom' should be 'said he'; 'Tom and his two are all' drops 'daughters'; 'banquet yesterday' drops 'morning'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen celebrates his birthday"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen celebrated his birthday with friends at his Market Street saloon, recalling St. George's Day in England in 1882 and saying both his daughters were married."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Personal life",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Sunday, April 24, 1892, page 6. 'Yesterday' makes the birthday April 23, 1892."
+  },
+  "facts": [
+    {
+      "fact": "Allen celebrated his birthday, St. George's Day, with friends at his headquarters on Market Street, St. Louis",
+      "date": "1892-04-23",
+      "people": [],
+      "places": [
+        "Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "high",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen said he was in England in 1882 and took part in the St. George's Day celebrations",
+      "date": "1882-04-23",
+      "people": [],
+      "places": [
+        "England"
+      ],
+      "quote": "In the old country it is known also as St. George's Day and I tell you they celebrate it in royal style. When I was over there in 1882 I had the pleasure of participating, and it was one of the happiest periods of my life.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": "016"
+    },
+    {
+      "fact": "Allen said both of his daughters were married, one living in England and the other caring for him at home in St. Louis",
+      "date": "1892-04",
+      "people": [],
+      "places": [
+        "England",
+        "St. Louis"
+      ],
+      "quote": "Both of my girls are married; one of them resides in the old country and the other endeavors to make my last days comfortable at home,",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "012"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's quote says Shakespeare was born and died on 'the 22d of April'; transcribed as printed in the image."
+}

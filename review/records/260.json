@@ -1,0 +1,26 @@
+{
+  "id": "260",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole short item, headline 'TOM ALLEN GAVE BOND.' through 'went his bond'." },
+  "ocr": { "status": "rough", "notes": "Short and the gist is there, but several garbled words ('admitt>ad', 'ip', 'cout', 'Ma streot'); the image reads 'Thomas J. Rowe, 619 Market street, went his bond'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, charged with the murder of Timothy Confoy, was released on $5,000 bond in Judge Klein's court; Thomas J. Rowe of 619 Market Street went his bond." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image, so the masthead and date could not be checked. May 4, 1899 was a Thursday, which fits 'Thursday morning' in an evening paper." },
+  "facts": [
+    {
+      "fact": "Allen, charged with the murder of Timothy Confoy, was released on $5,000 bond in Judge Klein's court; Thomas J. Rowe of 619 Market Street went his bond",
+      "date": "1899-05-04",
+      "people": ["Timothy Confoy", "Judge Klein", "Thomas J. Rowe"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Related to existing fact 028 (Allen killed Timothy Confoy in 1899), but this is the bail, not the killing."
+}

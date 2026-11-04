@@ -1,0 +1,46 @@
+{
+  "id": "179",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headline through the closing rule." },
+  "ocr": { "status": "good", "notes": "Image reads 'held the world's championship' (OCR 'mortal championship'); otherwise right." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen shot stage hand Tim Confoy four times in his Champions' Rest saloon on Market Street, also wounding his bartender John Spencer, and was locked up." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Sunday Morning, St. Louis Post-Dispatch, February 26, 1899, page 20." },
+  "facts": [
+    {
+      "fact": "Allen shot Tim Confoy, a stage hand at Havlin's Theater, four times in his saloon, also wounding his bartender John Spencer in the hand",
+      "date": "1899-02-26",
+      "people": ["Tim Confoy", "John Spencer"],
+      "places": ["Champions' Rest, Market Street near Sixth, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "028"
+    },
+    {
+      "fact": "Allen was arrested and locked up at the Chestnut Street police station, along with most of the saloon's patrons",
+      "date": "1899-02-26",
+      "people": [],
+      "places": ["Chestnut Street police station, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen ran the Champions' Rest, a saloon and dance hall on Market Street near Sixth",
+      "date": "1899",
+      "people": [],
+      "places": ["Champions' Rest, Market Street near Sixth, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary has an opinion ('highlighting 19th-century nightlife dangers'). The shooting was about 2 a.m. Sunday, the morning of publication."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "171",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article in three pieces, including the illustration and both statements." },
+  "ocr": { "status": "good", "notes": "Close to the image. Transcript gives 'go into the ring' for 'step into the ring', 'way too fast' for 'away too fast', and drops the end: 'regular training about Feb. 6.' and the final line 'Manager Garen says that Corbett will, on Saturday night, announce from the stage where the fight will take place.'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen and Tom Kelly watched Jim Corbett at Havlin's Theater and judged him fit, with Allen calling him the fastest big man he ever saw and predicting he would beat Fitzsimmons." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Saloon", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Friday, St. Louis Post-Dispatch, January 22, 1897. The theater visit was the Thursday matinee, Jan. 21." },
+  "facts": [
+    {
+      "fact": "Allen ran a saloon and concert hall on Market Street between Sixth and Seventh streets, St. Louis, and presided over the concert hall every night",
+      "date": "1897-01",
+      "people": [],
+      "places": ["Market Street between Sixth and Seventh streets, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen and Tom Kelly inspected Jim Corbett from a box at a Havlin's Theater matinee at the Post-Dispatch's request and declared him fit to fight",
+      "date": "1897-01-21",
+      "people": ["Jim Corbett", "Tom Kelly"],
+      "places": ["Havlin's Theater, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had seen Corbett beat Kilrain, Mitchell and Sullivan, and lost money betting against him in the Sullivan fight",
+      "date": "",
+      "people": ["Jim Corbett", "John L. Sullivan"],
+      "places": [],
+      "quote": "I lost money on him in the Sullivan fight, because I misjudged him, thinking him too light and spare.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen judged Corbett the fastest big man he had seen",
+      "date": "1897-01-21",
+      "people": ["Jim Corbett"],
+      "places": [],
+      "quote": "He is the fastest and quickest big man I ever saw in my life, bar none.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had fought at 145 pounds",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "He don't measure about the chest by eight inches what I did when I fought at 145 pounds, but he is a taller man than I was then.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Tags: no clean fit; 'Profiles' for Allen's expert opinion piece. The current summary is close but says 'health rumors' and 'retired champions'; acceptable to replace."
+}

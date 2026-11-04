@@ -1,0 +1,46 @@
+{
+  "id": "252",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Crop is the page-one portion of Wray's Column, ending 'Our own belief is that Allen is / Continued on Page 2, Column 2.' The continuation is on page.jpg (page 2D, top of Wray's Column), which appears to read '...entitled to be considered the first bona-fide world title claimant ever to lose a heavyweight championship crown and then win it back again.' The rest of the continuation is about football." },
+  "ocr": { "status": "good", "notes": "Accurate; omits the 'Sharkey had no right or claim...by DECREE' sentences and the continuation on page 2." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Wray's Column: Allen first to regain the heavyweight title" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch argued Tom Allen, late keeper of the Champion's Rest, was the first heavyweight to regain the title, beating Mike McCoole in seven rounds in 1873 after a biased verdict on Chouteau Island." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Saloon", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Page image is the continuation page: St. Louis Post-Dispatch, Sunday Morning, December 13, 1936, page 2D. Page one masthead not seen." },
+  "facts": [
+    {
+      "fact": "Allen ran the Champion's Rest, a sawdust-floored tavern on Market Street near Seventh, St. Louis, opened after his retirement from the ring and operated until his death",
+      "date": "",
+      "people": [],
+      "places": ["Champion's Rest, Market Street near Seventh, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen fought Mike McCoole on Chouteau Island in the Mississippi; Allen was winning but the referee, intimidated by roughs, gave the verdict to McCoole, who claimed the title for four years",
+      "date": "1869",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, Mississippi River"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen met McCoole again and cut him to ribbons, making him quit in seven rounds and regaining his title",
+      "date": "1873",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The column contains errors: it says Allen died in 1904 (he died in 1903) and settled in St. Louis 'in the early sixties' (he came to America in 1867). These are not recorded as facts."
+}

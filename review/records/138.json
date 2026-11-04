@@ -1,0 +1,36 @@
+{
+  "id": "138",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "A few words differ from the print: 'great grit' is 'great ingenuity', 'shirt and rags' is 'shirt and pants', and 'a face like Craig's' is 'a bloody face like Craig's'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that John Craig, charged with disturbing the peace of Tom Allen at his Market Street saloon, came to court badly beaten, and the judge discharged him." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Wednesday, June 24, 1891, page 4." },
+  "facts": [
+    {
+      "fact": "Allen, described as the retired prize-fighter, kept a saloon on Market Street near Seventh Street, St. Louis",
+      "date": "1891-06",
+      "people": [],
+      "places": ["Market Street near Seventh Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "John Craig was charged in the First District Police Court with disturbing Allen's peace; Judge Morris discharged him because Craig was the one badly beaten",
+      "date": "1891-06-24",
+      "people": ["John Craig", "Judge Morris"],
+      "places": ["First District Police Court, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

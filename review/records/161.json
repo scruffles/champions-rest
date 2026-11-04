@@ -1,0 +1,66 @@
+{
+  "id": "161",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full item 'Changed His Mind' with subhead, through the 'Allen's Ox-Tail Jelly' paragraph." },
+  "ocr": { "status": "good", "notes": "Matches the image closely; transcript omits the subheads 'Can Whip Jackson.' and 'Allen's Ox-Tail Jelly.' and has small spelling fixes (Masterson for 'Matterson', referee for 'refree')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, one of Charley Mitchell's seconds, returned from Florida calling the Corbett-Mitchell fight a farce and predicting Corbett would beat Peter Jackson." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Sunday Morning, St. Louis Post-Dispatch, January 28, 1894, page 8." },
+  "facts": [
+    {
+      "fact": "Allen was one of Charley Mitchell's seconds in his fight with James J. Corbett in Florida, which Corbett won",
+      "date": "1894-01-25",
+      "people": ["Charley Mitchell", "James J. Corbett"],
+      "places": ["Florida"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen returned to St. Louis from Florida after the Corbett-Mitchell fight",
+      "date": "1894-01-27",
+      "people": [],
+      "places": ["Florida", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Mitchell was outclassed and Corbett would have chopped him into ribbons",
+      "date": "1894-01-27",
+      "people": ["Charley Mitchell", "James J. Corbett"],
+      "places": ["St. Louis"],
+      "quote": "Mitchell was outclassed in every respect, and Corbett would have chopped him into ribbons in a few more rounds.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen predicted Corbett would beat Peter Jackson",
+      "date": "1894-01-27",
+      "people": ["James J. Corbett", "Peter Jackson"],
+      "places": [],
+      "quote": "Yes sir, I am thoroughly convinced this Californian can whip them all, including Peter Jackson and Ed Smith.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen prepared his ox-tail jelly to harden Mitchell's stomach for the Corbett fight",
+      "date": "1894-01",
+      "people": ["Charley Mitchell"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "034"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fight date inferred from 'Thursday' before the Sunday Jan. 28 paper (Jan. 25, 1894); the article names only Florida, not Jacksonville."
+}

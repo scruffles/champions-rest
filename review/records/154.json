@@ -1,0 +1,46 @@
+{
+  "id": "154",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item 'Why Allen Is a Mitchell Man', headline and deck included." },
+  "ocr": { "status": "good", "notes": "Matches the image; one slip: 'beyond the point at which he could train properly', not 'the fact at which'. The headline and deck are not in the transcript." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Why Allen is a Mitchell man" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen picked Charley Mitchell to beat Jim Corbett because both he and Mitchell were born in Birmingham, the same reasoning that led him to back Ed Smith against Joe Goddard." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Saturday Evening, October 21, 1893, page 8, second column." },
+  "facts": [
+    {
+      "fact": "Allen was born in Birmingham, England",
+      "date": "",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "high",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen backed Ed Smith, a Birmingham man, against Joe Goddard and won heavily on the bet",
+      "date": "1893-03",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen predicted Charley Mitchell, also born in Birmingham, would beat Jim Corbett, holding that a Birmingham-born man can always beat one who is not",
+      "date": "1893-10",
+      "people": ["Charley Mitchell", "Jim Corbett"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title has a typo ('Fighers'); suggested title is the printed headline."
+}

@@ -1,0 +1,96 @@
+{
+  "id": "245",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article: headline, deck, byline Homer Bassford, both columns, through the closing note about Monday's article." },
+  "ocr": { "status": "rough", "notes": "Transcript starts partway down the right column and leaves out the whole left column (intro, Encyclopaedia Britannica, 'lydylike sport' quote, 'Evaded Sheriffs', the long-hair story, 'Britons Visited Him'). Errors: 'master's Island' should be 'Foster's Island', 'Coney Island' should be 'Chouteau's Island', 'young boy' should be 'strong boy', 'challenge the title' should be 'challenge the winner', 'I yelled back' should be 'I told him'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Star and Times profiled Allen as a bare-knuckle champion of 23 major battles who ran the Champion's Rest saloon and scorned gloved boxing as a 'sissy game', with his account of being shot in the hand fighting Charley Gallagher." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legacy", "Profiles", "Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Star and Times", "notes": "No page image; date and paper could not be checked against a masthead." },
+  "facts": [
+    {
+      "fact": "Allen fought twenty-three major battles with bare fists, six of them in less than two years, and was said to have held the heavyweight title for seven years",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen recalled that his June 1869 fight with McCoole on Foster's Island ended in a draw when McCoole's gang came into the ring and broke it up",
+      "date": "1869-06",
+      "people": ["Mike McCoole"],
+      "places": ["Foster's Island"],
+      "quote": "In the McCool fight on Foster's Island in June of sixty-nine there was a draw. McCool's gang came into the ring and messed things up and the fight was off.",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen recalled that Charley Gallagher challenged him after the McCoole fight; they fought on Chouteau's Island two months later before 1,400 men, Allen was shot in the back of the right hand in the fourth or fifth round, Dr. Nidelet removed the ball, and Allen won in the eleventh round",
+      "date": "1869",
+      "people": ["Charley Gallagher", "Dr. Nidelet"],
+      "places": ["Chouteau's Island"],
+      "quote": "The fight had gone four or five rounds when someone fired a shot. The bullet struck the back of my right hand, but it didn't cut any of the muscles. Dr. Nidelet was there and took the ball out and bandaged the wound, all in the few minutes. Then the referee stood back and we went at it. In the eleventh round Charley was on the ground and I got the money.",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Joe Goss thirty-four rounds for a $100 stake; the referee called it a draw when both men were exhausted",
+      "date": "",
+      "people": ["Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost a $1,000-a-side match to Joe Goss in Kentucky; Goss's stake was found to be a corncob wrapped in a fifty-dollar bill, Goss was jailed, and Allen fled to England",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky", "England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost the roughly $25,000 he had made fighting while in England, then returned to St. Louis and opened the Champion's Rest saloon, about where the American Hotel later stood",
+      "date": "",
+      "people": [],
+      "places": ["England", "St. Louis", "Champion's Rest (site of the American Hotel)"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen complained that gloved boxing had made prize fighting a ladylike sport",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "Prize fightin' 'as got to be a lydylike sport. W'y, the blokes axchully wear gloves, they do.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he let homeless men sleep by the fire in his saloon on cold nights in return for cleaning up",
+      "date": "",
+      "people": [],
+      "places": ["Champion's Rest, St. Louis"],
+      "quote": "Here me and me old woman is happy. I'm too old to fight and, anyhow, it's a sissy game now. I hev me saloon, me friends, a bit of gab about the old times and that's enough. On cold winter nights I invite the bums in out of the cold and they sleep about the fire. Next mornin' they clean up for me and I give 'em breakfast. I've been cold and hungry meself.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": "027"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective by Homer Bassford, written 30 years after Allen's death; quotes are as the writer remembered them, so fight details are medium/low confidence. The Kentucky/corncob story conflicts with other accounts (Goss won on a foul in 1876) and is marked low. The current summary mentions Jem Mace, who is not in the article. The transcript should be replaced to include the left column."
+}

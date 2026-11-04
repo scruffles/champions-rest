@@ -1,0 +1,146 @@
+{
+  "id": "180",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article in one column with portraits of Allen and McCoole, headline through 'four friendly rounds'." },
+  "ocr": { "status": "rough", "notes": "Transcript stops at the 1873 McCoole fight and drops the last three paragraphs (1876 Goss fight, Kentucky arrest and bond jumping, year in England, Sullivan challenge, Market St. saloon, habeas corpus before Judge Claiborne, last ring appearance July 4, 1884). Number errors: image reads $2,000 purse (OCR $250), $1000 purse (OCR $100), $5000 prize (OCR $500), 815 Walnut (OCR 8168), 5 feet 9 1/2 (OCR 5 feet 8), 'weeks ago' (OCR 'some time ago'), 'advertising agent', 'spectators begged McCoole's seconds to take him out of the ring'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Timothy Confoy died at City Hospital after being shot in Allen's Champions' Rest saloon, and that Allen claimed he fired when Confoy moved as if to draw a pistol." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Saloon", "Profiles", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Monday, St. Louis Post-Dispatch, February 27, 1899, page 8. Headline 'Tom Allen's Victim Dead.'" },
+  "facts": [
+    {
+      "fact": "Timothy Confoy died of his gunshot wounds late Sunday night on the operating table at City Hospital, saying he knew of no reason Allen should have fired on him",
+      "date": "1899-02-26",
+      "people": ["Timothy Confoy"],
+      "places": ["City Hospital, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "028"
+    },
+    {
+      "fact": "Allen claimed self-defense, saying he shot Confoy when Confoy moved as if to draw a pistol, and that the two had had trouble weeks before; a revolver was found on the floor near where Confoy fell",
+      "date": "1899-02-26",
+      "people": ["Timothy Confoy"],
+      "places": ["Champions' Rest, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was held in the Four Courts holdover and refused to see visitors; a coroner's inquest was set for Tuesday morning",
+      "date": "1899-02-27",
+      "people": ["Capt. Reynolds"],
+      "places": ["Four Courts, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Soon after arriving in America, Allen seconded Tommy Kelly against Billy Parkinson at Acquia Creek, threatened referee William E. Harding with a navy pistol, and cut the ropes to carry Kelly out of the ring",
+      "date": "1867",
+      "people": ["Tommy Kelly", "Billy Parkinson", "William E. Harding"],
+      "places": ["Acquia Creek"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Bill Davis in 43 rounds on Chouteau Island near St. Louis, his first fight in America",
+      "date": "1869-01-12",
+      "people": ["Bill Davis"],
+      "places": ["Chouteau Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost to Charley Gallagher of Cleveland after about three minutes on Carroll Island near St. Louis",
+      "date": "1869-02-24",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Mike McCoole on Foster's Island for a $1,000 purse; McCoole's crowd started a riot and demanded the decision for McCoole",
+      "date": "1869-07-15",
+      "people": ["Mike McCoole"],
+      "places": ["Foster's Island"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost to Jem Mace in ten rounds at Kennerville near New Orleans for a $5,000 prize",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": ["Kennerville, near New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Mike McCoole on Chouteau Island so badly that spectators begged McCoole's seconds to take him out",
+      "date": "1873-09-23",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost his last fight, with Joe Goss for the championship of America and $2,000, on a foul after 21 rounds in Boone County, Kentucky",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["Boone County, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Arrested in Kentucky for prize fighting, Allen jumped his bond and spent a year in England on the race tracks, then returned and challenged John L. Sullivan in New York",
+      "date": "",
+      "people": ["John L. Sullivan"],
+      "places": ["Kentucky", "England", "New York"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Back in St. Louis, Allen was freed by writ of habeas corpus before Judge Claiborne when his Kentucky bondsmen came with requisition papers",
+      "date": "",
+      "people": ["Judge Claiborne"],
+      "places": ["Court of Criminal Correction, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's last ring appearance as a boxer was four friendly rounds with Tom Kelly at Union Baseball Park",
+      "date": "1884-07-04",
+      "people": ["Tom Kelly"],
+      "places": ["Union Baseball Park, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper says Confoy was shot 'early Thursday morning', but article 179 (Feb 26) puts it at 2 a.m. Sunday; Thursday looks like an error. Birth year in the image is blurred (1830 or 1840; facts index has 1839), so it is left out. Profile also says Allen drew with Joe Goss in March 1867, came to America that July, and beat Gallagher on Aug. 17, 1869 (Gallagher declared winner); career recap is secondhand, hence medium confidence."
+}

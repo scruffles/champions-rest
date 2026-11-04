@@ -1,0 +1,66 @@
+{
+  "id": "194",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole column item. The Allen part ends with Don Murphy's remarks; the rest is unrelated boxing notes (Nick Santora, Hugo Kelly, Jake Chain) under the same headline." },
+  "ocr": { "status": "good", "notes": "Small errors: image reads 'purse of £100' (OCR '11%'), 'Allen's fights around this city' (OCR 'path'), 'manager of Allen's place', 'defeated Sport Sullivan' (OCR 'Roe'), 'Andy Sorensen', 'Cooney Kelly', '115 pounds' (OCR '113')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Tom Allen lay seriously ill with persistent colds at his home on Market Street between Sixth and Seventh, and recalled his fights with Joe Goss, Jem Mace, Mike McCool and Charlie Davis." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Personal life", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead: The Republic: Saturday, January 31, 1903, page 4." },
+  "facts": [
+    {
+      "fact": "Allen was confined to his bed and believed seriously ill with persistent colds of two or three weeks, at his home on Market Street between Sixth and Seventh",
+      "date": "1903-01-31",
+      "people": ["Don Murphy"],
+      "places": ["Market Street between Sixth and Seventh, St. Louis"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": "043"
+    },
+    {
+      "fact": "Allen knocked out Charlie Davis in five rounds for the championship of England, said to be the first championship fight in England under Queensberry rules; he received a purse of £100 and a silver cup that hung over his bar",
+      "date": "",
+      "people": ["Charlie Davis"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": "037"
+    },
+    {
+      "fact": "Allen fought Joe Goss for the heavyweight championship in 1867; the bout ended in a riot and Allen's seconds were mobbed",
+      "date": "1867",
+      "people": ["Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Jem Mace in Louisiana in 1870 for the heavyweight championship and $5,000; his seconds threw up the sponge after ten rounds (50 minutes) when he injured his arm",
+      "date": "1870",
+      "people": ["Jem Mace"],
+      "places": ["Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Mike McCool in seven rounds on Bloody Island near St. Louis",
+      "date": "",
+      "people": ["Mike McCool"],
+      "places": ["Bloody Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Career facts are a 1903 retrospective and secondhand (medium confidence); it puts his start at age 21 in 1860 and his birth in 1839. Don Murphy is named as manager of Allen's place."
+}

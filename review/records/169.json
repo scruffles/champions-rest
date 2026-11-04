@@ -1,0 +1,36 @@
+{
+  "id": "169",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Watkins item complete; the following unrelated Vanderbeck item (mentioned in the subhead) is left out." },
+  "ocr": { "status": "good", "notes": "Matches the image; 'unles' and 'ring side' in the image are normalized in the transcript." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Fred Watkins, who backed Tom Allen when he was champion, picked Peter Maher to beat Fitzsimmons, noting that Allen lost to Posh Price as a green youth but later beat him." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Thursday, St. Louis Post-Dispatch, January 2, 1896." },
+  "facts": [
+    {
+      "fact": "St. Louis sportsman Fred Watkins backed Allen when he was the acknowledged champion",
+      "date": "",
+      "people": ["Fred Watkins"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "As a green youth Allen was beaten by Posh Price, but later beat Price decisively in a rematch",
+      "date": "",
+      "people": ["Posh Price"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Posh Price claim is Watkins's recollection, secondhand. Current summary's 'prominent 19th-century sportsman' is generic."
+}

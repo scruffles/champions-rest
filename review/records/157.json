@@ -1,0 +1,36 @@
+{
+  "id": "157",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full 'Are Stubborn' article from headline through the 'Mitchell's Faithful Training' section ending 'very little kicking'. The separate 'Check and Letter to Kelly' item that follows is not included, which is fine." },
+  "ocr": { "status": "rough", "notes": "First half is good, but the transcript stops in Mitchell's speech and garbles its end; it omits the 'Thought Corbett Was Entering' and 'A Rabbit Foot' sections, including the passage naming Tom Allen at the camp and the Anastasia lighthouse. '$4,500 winner' should be '$4,800'; 'idiots' is 'driveling idiots'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported the standoff between Duval Athletic Club promoter Bowden and Gov. Mitchell over the Corbett-Mitchell fight, and noted Tom Allen among the company at Mitchell's camp near St. Augustine." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead not on the page image; dispatches are dated Jan. 14 and Jan. 15, consistent with Jan. 15, 1894." },
+  "facts": [
+    {
+      "fact": "Allen was with Charley Mitchell's training party at Anastasia Island near St. Augustine, spending much of his time on the beach or atop the old Anastasia lighthouse beside Mitchell's cottage",
+      "date": "1894-01-15",
+      "people": ["Charley Mitchell", "Bat Masterson", "Jim Hall"],
+      "places": ["Anastasia Island, St. Augustine, Florida"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Bat Masterson were said to want to bet $5,000 against Corbett beating Mitchell within twenty rounds",
+      "date": "1894-01-14",
+      "people": ["Bat Masterson", "James J. Corbett", "Charley Mitchell"],
+      "places": ["Jacksonville, Florida"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The lighthouse passage about Allen is in the image but missing from the transcript."
+}

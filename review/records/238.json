@@ -1,0 +1,36 @@
+{
+  "id": "238",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "whole item, headline through the end of the list" },
+  "ocr": { "status": "good", "notes": "minor errors: 'time' for 'tone', 'La Dunn' for 'Jimmy Dunn', 'Felts' for 'Feltz', 'Packey' for 'Packy'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Star, ahead of the Pal Moore-Joe Lynch bout, listed the 39 greatest fights ever held near St. Louis, beginning with Tom Allen's win over Bill Davis and Mike McCoole's over Allen." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Star", "notes": "masthead reads THE ST. LOUIS STAR, Tuesday evening, October 26, 1920 (the Star and Times merger came later)" },
+  "facts": [
+    {
+      "fact": "Allen's win over Bill Davis was listed among the greatest fights ever held near St. Louis",
+      "date": "",
+      "people": ["Bill Davis"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mike McCoole's win over Allen was listed among the greatest fights ever held near St. Louis",
+      "date": "",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "List gives winners first but no dates. Current focus not set in article.json."
+}

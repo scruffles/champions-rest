@@ -1,0 +1,65 @@
+{
+  "id": "140",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole 'Old Time Fighters' column with its subheads and the boxing news items that follow under the same headline; Allen appears in the opening paragraph and the Ben Hogan paragraph."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; errors: 'Len Hogan' should be 'Ben Hogan', 'Poot Harris' is 'Dooney Harris', 'Joe McAuliffe' is 'Ted McAuliffe', 'Ardy Hanley' is 'Andy Hanley', 'Dick Hellywood' is 'Dick Hollywood', 'Stokes'' is 'Ed Stokes'', Plimmer-Hogan stake '$300' is '$500'. Subheads and the Callaghan/Sullivan section heads are omitted."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch surveyed what old prize fighters were doing, noting that Tom Allen, for years the heavyweight champion of America, now ran a saloon on Market Street in St. Louis."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Tuesday, December 8, 1891, page 10."
+  },
+  "facts": [
+    {
+      "fact": "Allen ran a saloon on Market Street, St. Louis, in the same block as former middleweight champion Tom Kelly's saloon",
+      "date": "1891-12",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Ben Hogan was matched against Allen in a scheme to rob Allen and his backers, a plot carried out by a crowd of toughs; by 1891 Hogan was touring as the 'reformed prize-fighter evangelist'",
+      "date": "",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Hogan fact matches the unnumbered facts-index entry about the Hogan fight (listed as 000), so existing_fact is left blank."
+}

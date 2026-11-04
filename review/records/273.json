@@ -1,0 +1,46 @@
+{
+  "id": "273",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article with headline 'Robbers of the Ring'." },
+  "ocr": { "status": "rough", "notes": "Mostly readable, but some passages are wrong: the image says McCool 'afterward acknowledged that he was fairly beaten by Allen' (OCR reverses it), the Morrissey/Sullivan and Abingdon Baird paragraphs are garbled, and 'spring of '0' should be '60." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Robbers of the Ring" },
+  "summary": { "ok": false, "suggested": "The Washington Post recalled famous fixed prize fights, including Tom Allen's losses on fouls to Joe Goss in Kentucky, where referee Eph Holland was said to be bought, and to Mike McCool." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The Washington Post", "notes": "Masthead: The Washington Post, Wednesday, December 9, 1896, page 8." },
+  "facts": [
+    {
+      "fact": "Allen fought Joe Goss in Kentucky; a sheriff and deputies broke up the fight and it moved to an adjoining county, where referee Eph Holland of Boston, said to be fixed, gave Goss the decision on a foul",
+      "date": "",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's backer Fred Watkins was said to have been swindled out of $1,000 by referee Eph Holland at the Goss fight",
+      "date": "",
+      "people": ["Fred Watkins", "Eph Holland", "Joe Goss"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper claimed the referee called a foul against Allen in his fight with Mike McCool, and that McCool afterward acknowledged he was fairly beaten by Allen",
+      "date": "",
+      "people": ["Mike McCool"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective written 1896 (Allen still alive, so not Legacy). The article gives no dates for the Goss and McCool fights; its account of the McCool fight ending in a foul is doubtful and may confuse fights."
+}

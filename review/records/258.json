@@ -1,0 +1,26 @@
+{
+  "id": "258",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, from headline 'RAIDS. How the Gamesters Bear Up Under Adversity.' to the end." },
+  "ocr": { "status": "good", "notes": "Matches the image; the print reads 'persecuted' where the transcript has 'prosecuted'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republican reported police raids that netted 168 prisoners at Central district gambling houses, and noted that Tom Allen had a game running upstairs over his free and easy on Washington Avenue." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Republican", "notes": "Masthead reads 'The St. Louis Republican, Monday, August 23, 1875', page 8, so the paper is filed as printed. The item is in the middle of the page. The current summary implies Allen and Tom Kelly were both running games; only Allen was, and Kelly was rumored to be planning one." },
+  "facts": [
+    {
+      "fact": "Allen had a gambling game running upstairs over his free and easy on Washington Avenue, St. Louis, while police were raiding the city's gaming houses",
+      "date": "1875-08",
+      "people": [],
+      "places": ["Allen's free and easy, Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

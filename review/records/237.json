@@ -1,0 +1,15 @@
+{
+  "id": "237",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "no_crop", "notes": "No crop pieces or page image were prepared. The image paths point to star-and-times files for Sat., Jan. 4, 1919, not to images/articles." },
+  "ocr": { "status": "missing", "notes": "No transcript." },
+  "about_tom": "unsure",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The St. Louis Star", "notes": "Cannot check; no image. The file names give The St. Louis Star and Times, Sat., Jan. 4, 1919; the masthead in 1919 read 'The St. Louis Star' (see 236, same date)." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "No text, no summary and no images. The title 'The career of Ben Hogan' and the date (1919-01-04, The St. Louis Star) match article 236, Corbett's column on Ben Hogan, which covers Hogan's bouts with Allen. This is probably a duplicate of 236. Check the star-and-times image files and either remove it or merge it with 236. Focus and tags are guessed from the title."
+}

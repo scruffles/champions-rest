@@ -1,0 +1,56 @@
+{
+  "id": "229",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline 'How an Irishman Won a Ring Title for United States' through the closing quote; nothing cut off." },
+  "ocr": { "status": "good", "notes": "Matches the image closely." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The New St. Louis Star printed Bill Clark's account of how the ring championship came to America, recalling Allen's arrest in England before a planned Goss fight, his 1867 arrival and his fights with McCoole and Goss." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "New St. Louis Star", "notes": "Masthead: 'New St. Louis Star, Tuesday Evening, March 17, 1914', page 11. By Billy Murphy, from Prof. Bill Clark. The current summary wrongly calls McCoole British." },
+  "facts": [
+    {
+      "fact": "Before leaving England, Allen and Joe Goss signed articles to fight for the English championship, but both were arrested on bench warrants on the eve of the fight",
+      "date": "1867",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen came to America in 1867 with other English pugilists, then about 5 feet 10 inches and 164 pounds",
+      "date": "1867",
+      "people": [],
+      "places": ["England", "America"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "Clark said that in Allen's fight with Mike McCoole, McCoole's friends stopped the fight with gunfire when Allen was winning",
+      "date": "1869",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Clark said Allen and Goss fought for the championship of the world in America, and Goss's armed backers forced the referee to decide for Goss when he was losing",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["America"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Most of the article is about Paddy Ryan, Goss and Sullivan; Allen is in the first half. Clark's account of the McCoole fight is a loose recollection; the fight is not dated in the text (dates on facts are inferred)."
+}

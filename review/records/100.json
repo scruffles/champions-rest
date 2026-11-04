@@ -1,0 +1,36 @@
+{
+  "id": "100",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Short 'About Town' item, whole paragraph captured." },
+  "ocr": { "status": "good", "notes": "Matches the image ('down-town' printed hyphenated)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, the ex-prize fighter, would arrive next week to settle permanently in St. Louis, reportedly to open a downtown saloon with John C. Gropper." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Saloon", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Post-Dispatch, Thursday, December 7, 1882, page 6. article.json has no focus field. Current summary's 'rising public interest in pugilism' is not in the item." },
+  "facts": [
+    {
+      "fact": "Allen was expected in St. Louis the following week to locate there permanently",
+      "date": "1882-12",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was reported to be opening a downtown saloon in St. Louis in company with John C. Gropper",
+      "date": "1882-12",
+      "people": ["John C. Gropper"],
+      "places": ["downtown St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Both facts match the index line 'Dec 1882 returns to St Louis for good to setup a saloon with John C Gropper', which has id 000, so existing_fact is blank."
+}

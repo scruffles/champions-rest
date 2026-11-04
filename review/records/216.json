@@ -1,0 +1,88 @@
+{
+  "id": "216",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole article, headline and all deck lines through the closing rule."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right. Errors: 'nice ring simplicity' (image: 'prize ring simplicity'); 'where Joe Allen used to sit' (image: 'where Allen used to sit'); 'turned out' (image: 'fired out'); 'shutting' (image: 'closing'); 'no one had used it' (image: 'no one had ever pressed it'); 'I never touched it' (image: 'I nevar tetched it'). Deck headlines not transcribed."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen's bell rang and glasses smashed when the new manager of the Champion's Rest planned linoleum and new mirrors, so the sawdust and old fixtures were kept."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: SATURDAY—ST. LOUIS POST-DISPATCH—JUNE 20, 1903, page 3."
+  },
+  "facts": [
+    {
+      "fact": "Allen named his saloon \"Champion's Rest\" thinking of the rest for his old age it was to be; it stood among the Market Street saloons between Sixth and Tenth streets",
+      "date": "",
+      "people": [],
+      "places": [
+        "Champion's Rest, Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Hartgrove took possession of the Champion's Rest under a document said to be Allen's will, leaving his daughter out; the daughter brought proceedings to dispossess her before Allen was buried, but the court probated the will and a manager, a former bartender of Allen's, was put in",
+      "date": "1903",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [
+        "Champion's Rest, Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "046"
+    },
+    {
+      "fact": "In Allen's time the saloon's doors were never locked, sawdust covered the floor, and \"Weary Willies\" bunked under the piano",
+      "date": "",
+      "people": [],
+      "places": [
+        "Champion's Rest, Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "027"
+    },
+    {
+      "fact": "After Allen's death, a bell behind the bar that only Allen had used rang by itself and glasses broke when the new manager planned linoleum and new mirrors; the changes were dropped and Market Street believed it was Allen's spirit",
+      "date": "1903-06",
+      "people": [],
+      "places": [
+        "Champion's Rest, Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

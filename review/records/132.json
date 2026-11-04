@@ -1,0 +1,36 @@
+{
+  "id": "132",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, headline 'IN GRAPHIC STYLE. John Ryan Describes His Punishment at the Hands of Tom Allen.' through 'Judge Cady fined Ryan $15.'" },
+  "ocr": { "status": "good", "notes": "Accurate apart from a few dialect spellings in Ryan's quote ('de jaw' as 'de juw', 'h'I' as 'h'l', ''im' as ''lm', 'habout' as 'hbabout')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "John Ryan describes his punishment at the hands of Tom Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that John Ryan, beaten by Tom Allen for refusing to keep away from his saloon, threw stones through the saloon windows and was fined $15 for malicious trespass." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch, Friday, July 20, 1888', page 3." },
+  "facts": [
+    {
+      "fact": "Allen ordered his former friend John Ryan, a young Englishman, to keep away from his saloon and gave him a terrible beating when he would not; Ryan then threw stones through the saloon's windows",
+      "date": "1888-07",
+      "people": ["John Ryan"],
+      "places": ["Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On Allen's charge of malicious trespass, Judge Cady fined John Ryan $15",
+      "date": "1888-07-20",
+      "people": ["John Ryan", "Judge Cady"],
+      "places": ["Police Court, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Only the title's capitalization is wrong ('tom allen')."
+}

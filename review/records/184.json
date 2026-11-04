@@ -1,0 +1,26 @@
+{
+  "id": "184",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item with headline and deck." },
+  "ocr": { "status": "good", "notes": "Two errors: the victim is 'Timothy Confoy' in print, not 'Conroy'; the bond is $5000, not $500." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that, though a coroner's jury had cleared him, the Prosecuting Attorney charged Tom Allen with second-degree murder in the killing of Timothy Confoy, and Allen gave $5,000 bond." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Wednesday, St. Louis Post-Dispatch, March 1, 1899, page 2." },
+  "facts": [
+    {
+      "fact": "The Prosecuting Attorney issued a warrant charging Allen with second-degree murder in the killing of Timothy Confoy; Allen was arrested and gave bond of $5,000",
+      "date": "1899-02-28",
+      "people": ["Timothy Confoy"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

@@ -1,0 +1,46 @@
+{
+  "id": "208",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, headline to closing rule, top of the far-right column of the sporting page." },
+  "ocr": { "status": "good", "notes": "Small errors: 'Charlie Day' should be 'Charlie Daly'; 'who knew Allen' drops 'well'; 'boxing bouts' drops 'and feats of strength'; 'hope to have' should be 'hope to arrange to have'; 'Park Hall' should be 'Lemp's Park Hall'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Allen's friends, led by R. W. L. Gillespie and his pallbearers, planned a boxing benefit to buy a monument for his grave in Calvary Cemetery, saying he left no estate." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Saturday, St. Louis Post-Dispatch, April 11, 1903 (sporting page)." },
+  "facts": [
+    {
+      "fact": "Allen was buried in Calvary Cemetery, St. Louis, on Wednesday after his death",
+      "date": "1903-04-08",
+      "people": [],
+      "places": ["Calvary Cemetery, St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's pallbearers were Charlie Daly, Chris Lauff, Jack Fletcher, Tom Kelly, T. Neusel, Tom O'Donnell and Gus Ellis",
+      "date": "1903-04-08",
+      "people": ["Charlie Daly", "Chris Lauff", "Jack Fletcher", "Tom Kelly", "T. Neusel", "Tom O'Donnell", "Gus Ellis"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Friends led by R. W. L. Gillespie planned a benefit of boxing bouts, probably at the West End Club, to pay for a monument and care of Allen's grave, Gillespie saying Allen left no estate",
+      "date": "1903-04",
+      "people": ["R. W. L. Gillespie"],
+      "places": ["West End Club, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "047"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Burial place given as Calvary Cemetery here; the Post-Dispatch of the next day (209) says Bellefontaine Cemetery. The facts index lists both."
+}

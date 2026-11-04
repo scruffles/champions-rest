@@ -1,0 +1,26 @@
+{
+  "id": "104",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article across 10 pieces, from 'A COCKING MAIN' headline to the closing paragraph ('over $10,000 changing hands'). Allen is mentioned only as the saloon where the reporter met his guide." },
+  "ocr": { "status": "rough", "notes": "Transcript stops at 'The first fight was the most interesting', omitting the fight accounts and close (about a third of the article). Name list errors: 'Dogtown' should be 'Dry Hill', 'Ward Reilly' 'Edward Rielly', 'Harry Higgins, Joe Murray' should be 'Harry Holland, John Hennessy, Joe Murray', 'J. B. Smith, Wm. J. Aetna' should be 'J. B. Henry, Wm. J. Gleeson', 'M. McHugh' 'M. McDonough', 'John Butler' 'John Buttermore', 'Robert Lewis' 'Henry Lewis'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that its reporter, guided by a sport he met at Tom Allen's saloon, saw a cocking main at Venice attended by nearly 1,000 people, with over $10,000 changing hands." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Post-Dispatch, Monday, May 21, 1883, page 8. The main was held Sunday, May 20, 1883. article.json has no focus field." },
+  "facts": [
+    {
+      "fact": "Allen's St. Louis saloon was a meeting place for the city's sporting men; the cockfighting crowd arranged to meet there before a large cocking main",
+      "date": "1883-05-19",
+      "people": [],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen himself does not appear; only his saloon is named, twice."
+}

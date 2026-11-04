@@ -1,0 +1,46 @@
+{
+  "id": "170",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, right column of page 2." },
+  "ocr": { "status": "rough", "notes": "Gist right but several errors: transcript says 'the '70s' where the image says 'the '60s'; 'majority' given as 'margin'; Allen's dialect normalized ('picter', 'ras'lers', 'goin''); the heckler's 'McKinsey ... gone back on protection' rendered as 'McKinley has gone back on it'; last line 'And politics were called off' dropped 'politics'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen tried to start a McKinley club at Champion's Rest, decking the wall with McKinley's picture, but his patrons were unconvinced and politics were called off." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Saloon", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Saturday, St. Louis Post-Dispatch, September 26, 1896, page 2. The event was Friday night, Sept. 25." },
+  "facts": [
+    {
+      "fact": "Allen backed William McKinley for president in 1896 and tried to form a McKinley club at Champion's Rest, hanging his picture among the boxers and wrestlers",
+      "date": "1896-09-25",
+      "people": ["William McKinley"],
+      "places": ["Champion's Rest, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen declared his support for McKinley and against Cleveland, the Democrats and free trade",
+      "date": "1896-09-25",
+      "people": ["William McKinley", "Grover Cleveland"],
+      "places": ["Champion's Rest, St. Louis"],
+      "quote": "I'm for McKinley, lads, and I've decked the wall with his picter. I've put 'im among the best of the pugs and ras'lers, for he's goin' to scoop in the prize money by the biggest majority any President ever got. I had enough of Cleveland and the Democrats and free trade, and I think a club ought to be got up for this man McKinley.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper described Allen's last battle as the one with Joe Goss in 1876",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper's dialect quote is kept verbatim. The current summary's 'political tensions of the era' is opinion."
+}

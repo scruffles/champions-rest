@@ -1,0 +1,26 @@
+{
+  "id": "249",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Short item within Wray's Column; 'That generosity' refers back to the preceding unrelated item about A. G. Vanderbilt." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Wray's Column: McCoole lends Allen money to bet against him" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch recalled that just before a title fight, Mike McCoole offered Tom Allen a $500 side bet and, when Allen said he had only $300, lent him the other $200 to cover it." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Tuesday, October 22, 1935, page 3B." },
+  "facts": [
+    {
+      "fact": "In the ring before a title fight, Mike McCoole bet Allen $500 more that he would win; Allen said he had only $300 and McCoole lent him the other $200 to cover the bet",
+      "date": "",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "I've only got $300,",
+      "kind": "quote",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Anecdote told 65 years after the event; which Allen-McCoole fight is not stated."
+}

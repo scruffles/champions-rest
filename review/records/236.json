@@ -1,0 +1,20 @@
+{
+  "id": "236",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'In Corbett's Corner' column in two columns, from the header box to the copyright line." },
+  "ocr": { "status": "rough", "notes": "Mostly clean, but a passage is dropped and merged wrongly: the image reads 'back him for \"any amount\" against Allen, but the latter ignored the challenge. Hogan then went into the oil fields of Pennsylvania...' and 'Hogan hurled a challenge at Tom Allen for a side bet of $2,000 and for \"the heavyweight championship of America.\" Allen accepted and Hogan sold out his oil interests'. The OCR makes Allen the oil investor and leaves out the challenge. Also 'Benedeil Hagan' (OCR 'Benedict'), '190-pound Hogan' (OCR '150-pound'), 'Jack Holliday'." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Corbett on Ben Hogan's Career and His Fight with Tom Allen" },
+  "summary": { "ok": false, "suggested": "In a column for The St. Louis Star, James J. Corbett profiled Ben Hogan, who sparred with Tom Allen at Rochester, N.Y., then fought him for $2,000 at Council Bluffs, Iowa, where a foul claim and a crowd rush led to a draw." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights", "Exhibitions", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The St. Louis Star", "notes": "Masthead reads 'The St. Louis Star, Saturday Evening, January 4, 1919', page 9 (as far as the page number can be read). The Star and Times name dates from 1932." },
+  "facts": [
+    { "fact": "Allen sparred an exhibition with Ben Hogan at Rochester, N.Y.; Hogan was given the popular verdict and his backers offered to back him for any amount against Allen, who ignored the challenge", "date": "", "people": ["Ben Hogan"], "places": ["Rochester, N.Y."], "quote": "", "kind": "exhibition", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Hogan challenged Allen for $2,000 a side and the heavyweight championship of America, and Allen accepted", "date": "", "people": ["Ben Hogan"], "places": [], "quote": "", "kind": "challenge", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen and Hogan were arrested as they were about to board a steamer for a battleground on the Illinois shore of the Mississippi, and were released on promising not to fight in Illinois", "date": "", "people": ["Ben Hogan"], "places": ["Illinois shore of the Mississippi"], "quote": "", "kind": "legal", "confidence": "medium", "existing_fact": "" },
+    { "fact": "Allen and Hogan then fought at Council Bluffs, Iowa; Allen had the best of three rounds, Hogan claimed a foul, Allen's backers broke into the ring, and referee Eagan called it a draw and returned the stakes", "date": "", "people": ["Ben Hogan", "Eagan"], "places": ["Council Bluffs, Iowa"], "quote": "", "kind": "fight", "confidence": "low", "existing_fact": "" }
+  ],
+  "needs_human": false,
+  "notes": "Corbett's previous column (article 235) says Allen defeated Hogan; this one says the referee called it a draw, so the result is marked low. The arrest before the steamer matches the unnumbered index item about the Hogan fight and the Illinois shore (id 000). No dates are given for the Hogan bouts. Article 237 ('The career of Ben Hogan', same date and paper) is probably a duplicate of this one."
+}

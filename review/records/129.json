@@ -1,0 +1,36 @@
+{
+  "id": "129",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The 'At Tom Allen's.' section is complete. It is one section of the larger 'Closed at Midnight' article about saloons obeying the Sunday closing law; the headline and the rest of the article are on the page but not in the clipping." },
+  "ocr": { "status": "good", "notes": "Drops 'and the crowd lingered' after 'the officer had disappeared'; otherwise accurate." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen's saloon closes at midnight under the Sunday law" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that on the first night saloons had to close at midnight for Sunday, the largest crowd was at Tom Allen's, which threw out a drunk and closed its doors at 12:40." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Post-Dispatch, Sunday, May 20, 1888, page 7. The section sits within 'Closed at Midnight. Saloon-keepers observe the Sunday law all over the city.'" },
+  "facts": [
+    {
+      "fact": "When St. Louis saloons were made to close at midnight on Saturday under the Sunday law, Allen's saloon drew the largest crowd and closed its doors at 12:40 a.m. after a policeman's warning",
+      "date": "1888-05-20",
+      "people": [],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen led a bloodied man who had refused to leave out of his saloon after a bouncer knocked him down",
+      "date": "1888-05-20",
+      "people": [],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "It don't pay to monkey with the talent.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The crowd 'expected something to develop out of Tom's pugnacity', which may refer to the arrest in article 128 (May 19, 1888); not explained in the clipping. The saloon's address is not given here."
+}

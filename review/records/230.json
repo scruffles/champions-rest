@@ -1,0 +1,36 @@
+{
+  "id": "230",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Complete chapter from the 'John L. as I Knew Him by James J. Corbett' banner to '(To Be Continued Tomorrow.)'." },
+  "ocr": { "status": "good", "notes": "Accurate; 'January 15, 1861' should be 'January 18, 1861', and 'As John L. Sullivan ever' should be 'Was John L. Sullivan ever'. Subheads not transcribed." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "John L. As I Knew Him, chapter 20 (Corbett)" },
+  "summary": { "ok": false, "suggested": "The St. Louis Star printed a chapter of James J. Corbett's Sullivan series tracing the championship line, saying Allen claimed the British title, came to America and lost to McCoole on a foul in St. Louis in 1869." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The St. Louis Star", "notes": "Masthead: 'The St. Louis Star, Tuesday Evening, March 12, 1918', page 13. Twentieth chapter, King Feature Syndicate." },
+  "facts": [
+    {
+      "fact": "Corbett wrote that Allen, after vainly challenging Mace, claimed the British heavyweight title, then came to the United States",
+      "date": "1867",
+      "people": ["Jem Mace"],
+      "places": ["England", "United States"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "Allen and Mike McCoole fought in St. Louis for the heavyweight championship of the world; McCoole won on a foul in the ninth round, but Allen refused to concede his claim",
+      "date": "1869",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mostly about the Sullivan-Kilrain fight and the early championship line; Allen appears in the last two paragraphs."
+}

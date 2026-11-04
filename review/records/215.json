@@ -1,0 +1,78 @@
+{
+  "id": "215",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Body correct; headline 'MRS. HARTGROVE LOST SUIT.' missing from the transcript and a stray garbage line at the end."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic reported that Judge Taylor refused Tillie Hartgrove, Tom Allen's nurse, a divorce; Allen had willed her his property except a nominal sum to each of his two daughters."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Legal",
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: THE REPUBLIC: SATURDAY, MAY 23, 1903, page 8."
+  },
+  "facts": [
+    {
+      "fact": "Circuit Judge Taylor refused Tillie Hartgrove, who nursed Allen, a divorce from her husband Martin, who she said deserted her soon after they married",
+      "date": "1903-05",
+      "people": [
+        "Tillie Hartgrove",
+        "Martin Hartgrove",
+        "Judge Taylor"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen willed his property to Hartgrove, except a nominal sum to each of his two daughters",
+      "date": "1903",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "046"
+    },
+    {
+      "fact": "Had he recovered, Allen was to have married Hartgrove if she obtained a divorce, it was stated",
+      "date": "1903",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": "041"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Says the nominal sums went to his two daughters; the facts index (000 line) says $10 to each of two sisters. The current summary is note-style, not house style."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "150",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'The Ring' item about Niel and the Dalys, column 2, across two pieces." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen denies backing \"Dutch\" Niel for $500" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen said \"Dutch\" Niel exaggerated: Allen had offered $50 toward a purse for a Niel-Johnnie Daly fight, not a $500 side bet." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads St. Louis Post-Dispatch, Saturday, November 12, 1892, page 8." },
+  "facts": [
+    {
+      "fact": "Allen denied he would put up a $500 side bet for \"Dutch\" Niel against Johnnie Daly, saying he had offered only $50 toward a purse",
+      "date": "1892-11-11",
+      "people": ["\"Dutch\" Niel", "Johnnie Daly", "Charley Daly", "Jack Wilkes"],
+      "places": ["St. Louis"],
+      "quote": "I told him that I would give $50 towards a purse for such a contest, but he certainly had no grounds for putting me down as saying I would furnish a $500 side bet for him. I would like to see \"Dutch\" and Johnnie brought together, but I am not prepared to wager $500 on the result.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Follows article 149."
+}

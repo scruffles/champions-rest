@@ -1,0 +1,83 @@
+{
+  "id": "144",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole 'The Ring' item. A stray closing quote mark ends the first paragraph."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "'Allen's old friends' should be 'Allen's particular friends'; 'Chris Louff' is printed 'Louff' then 'Lauff'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen backs Sullivan and heads to New Orleans"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, who had backed Mitchell and Kilrain against John L. Sullivan, would now back Sullivan, and would leave for New Orleans the next Sunday with his old backer Fred Watkins."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "No page image to check the masthead; date and paper taken from the source file name (St. Louis Post-Dispatch, Mon., Aug. 29, 1892)."
+  },
+  "facts": [
+    {
+      "fact": "Allen planned to leave St. Louis for New Orleans on Sunday morning to see the fights there, with his old backer Fred Watkins, Billy Dacre, Tom Riley, 'Nobby' Clarke and Chris Louff",
+      "date": "1892-09-04",
+      "people": [
+        "Fred Watkins",
+        "Billy Dacre",
+        "Tom Riley",
+        "Nobby Clarke",
+        "Chris Louff"
+      ],
+      "places": [
+        "St. Louis",
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen backed John L. Sullivan in his coming championship fight, having backed Charlie Mitchell at Chantilly and Jake Kilrain at Richburg against Sullivan",
+      "date": "1892-08",
+      "people": [
+        "John L. Sullivan",
+        "Charlie Mitchell",
+        "Jake Kilrain"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Charlie Mitchell was one of Allen's particular friends",
+      "date": "1892-08",
+      "people": [
+        "Charlie Mitchell"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Travel date is 'next Sunday' after Monday Aug. 29 (Sept. 4, 1892), a planned trip; medium confidence. Related to the unnumbered facts-index entry about Allen returning from a New Orleans fight in early September 1892."
+}

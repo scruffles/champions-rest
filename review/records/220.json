@@ -1,0 +1,56 @@
+{
+  "id": "220",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full-page Sunday feature: banner headline, illustration with portraits of Tom Allen and J. W. F. Gillespie, and all text columns across eight pieces." },
+  "ocr": { "status": "rough", "notes": "Main text is mostly right but leaves out sentences (e.g. 'Jack Gillespie'; the 'served in large glasses' line; 'Liquor caused them to fail') and the whole ending after 'derelict in his duty': Gillespie's aim to stop crime, Allen at the piano, the championship cup and Waterloo picture, the 5 o'clock closing, World's Fair work. Subheads and captions are missing." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen's \"Champion's Rest\" becomes a hobo retreat under Jack Gillespie" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic described Tom Allen's old \"Champion's Rest\" on Market Street, now run by Klondike man Jack Gillespie, as a refuge for hoboes, with fight films, illustrated songs and Allen's championship cup still on show." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Saloon", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead reads 'The Republic: Sunday, August 2, 1903'; 'Written for the Sunday Republic.'" },
+  "facts": [
+    {
+      "fact": "After Allen's death his saloon, the \"Champion's Rest\" on Market Street, was run by J. W. F. (Jack) Gillespie, a Klondike fortune-seeker, who added moving pictures and vaudeville",
+      "date": "1903-08",
+      "people": ["J. W. F. Gillespie"],
+      "places": ["Champion's Rest, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen used to direct the entertainment at the Champion's Rest, sang love songs at the piano and told patrons stories of his famous fights",
+      "date": "",
+      "people": [],
+      "places": ["Champion's Rest, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "019"
+    },
+    {
+      "fact": "Homeless patrons of the Champion's Rest were welcome to sleep in its chairs even with no money, as in Allen's day",
+      "date": "1903-08",
+      "people": [],
+      "places": ["Champion's Rest, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "027"
+    },
+    {
+      "fact": "The cup awarded to Allen when he won the heavyweight championship of England still stood in the Champion's Rest, with pictures of his fights on the walls",
+      "date": "1903-08",
+      "people": [],
+      "places": ["Champion's Rest, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "018"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The page shows a portrait captioned 'Tom Allen, as he appeared when champion heavyweight of England' and one of 'J. W. F. Gillespie, the man from the Klondike, who now owns Champion's Rest.' Gillespie is probably the J.W.L. Gillespie of the index (id 000)."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "186",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Misses the top headlines 'WINE ROOMS SCORED. / GRAND JURY STATES THAT THEY CAUSE CRIME.' and the list of other indictments after the grand jury report; the Allen paragraph is complete." },
+  "ocr": { "status": "good", "notes": "Close to the image. Williams' bond is $5000 in print, not $500; first sentence order is 'Ex-Detective Jack Williams and ex-Champion Pugilist Tom Allen'." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen indicted for murder" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that a grand jury indicted Tom Allen for murder in the killing of Tim Confoy in his saloon, though he had been discharged after a preliminary hearing on a plea of self-defense." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Thursday, St. Louis Post-Dispatch, May 4, 1899, page 9." },
+  "facts": [
+    {
+      "fact": "After a preliminary hearing in the Court of Criminal Correction, Allen was discharged on a plea of self-defense in the killing of Tim Confoy",
+      "date": "1899",
+      "people": ["Timothy Confoy"],
+      "places": ["Court of Criminal Correction, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A St. Louis grand jury indicted Allen for murder in the killing of Tim Confoy",
+      "date": "1899-05-03",
+      "people": ["Timothy Confoy"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title 'Tom Allen Gave Bond' does not match: the article reports the indictment, and the bond mentioned is Jack Williams'. Allen shares the item with Williams and the grand jury report, so secondary. Date of the preliminary hearing discharge is not given."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "254",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "The whole Wray's Column. The Allen item ends at the top of the second column ('Rest.' There Tom flourished...); the rest of that column is horse racing."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The Allen section is mostly right, with small slips: the image reads 'That was in the seventies and Allen retired soon afterwards and opened a saloon' (the OCR has 'early seventies' and drops 'retired'). Elsewhere it drops 'in 1937', 'Johnny Risko in Miami' and a few phrases. The horse racing items in column two are not transcribed."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Wray's Column: Fighters in the Saloon Business"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch's Wray's Column said the custom of retired boxers going into the saloon business got its start in America with Tom Allen, who opened the Champion's Rest on Market Street near Seventh after losing to Joe Goss."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Legacy",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "There is no page image, so the masthead can't be checked. The source filename gives Wed, Mar 8, 1939, and that date was a Wednesday."
+  },
+  "facts": [
+    {
+      "fact": "After losing to Joe Goss in the seventies, Allen retired and opened a saloon on Market Street near Seventh, which he named \"Champion's Rest\"; he ran it until his death",
+      "date": "",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Market Street near Seventh, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective column (1939). Allen is one short item in it. The current summary names McCoole and Mace, who do not appear in it."
+}

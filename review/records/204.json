@@ -1,0 +1,46 @@
+{
+  "id": "204",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole two-column item with headline and subhead." },
+  "ocr": { "status": "rough", "notes": "Gist right but the text is reordered and abridged. Missing: the subhead, 'once champion heavy weight pugilist', 'Persons who have a bill of sale have possession of the living rooms', and the list of pallbearers. Executor is 'Simon S. Bass', not 'Simon'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Public Administrator Garrard Strode took charge of Allen's estate after executor Simon S. Bass refused to serve, and that his daughter and Tillie Hartgrove stood on opposite sides of the bier at his funeral." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Page header: Thursday, St. Louis Post-Dispatch, April 9, 1903, page 20." },
+  "facts": [
+    {
+      "fact": "Executor Simon S. Bass refused to serve, and Public Administrator Garrard Strode took charge of Allen's estate",
+      "date": "1903-04",
+      "people": ["Simon S. Bass", "Garrard Strode"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's funeral was held Wednesday, April 8, 1903, from Wand's undertaking establishment; his daughter Mrs. Polly Taylor and Mrs. Tillie Hartgrove stood on opposite sides of the bier",
+      "date": "1903-04-08",
+      "people": ["Polly Taylor", "Tillie Hartgrove"],
+      "places": ["Wand's undertaking establishment, St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Pallbearers at Allen's funeral were Chris Lauff, Jack Fletcher, Charley Daly, Tom Kelly, Andy Kirk, Theodore Neusel, Tom O'Donnell and Gus Ellis",
+      "date": "1903-04-08",
+      "people": ["Chris Lauff", "Jack Fletcher", "Charley Daly", "Tom Kelly", "Andy Kirk", "Theodore Neusel", "Tom O'Donnell", "Gus Ellis"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Matches unnumbered fact '000: a public administrator was assigned to sort out the mess'. Says it is 'reported' Hartgrove has a husband in England."
+}

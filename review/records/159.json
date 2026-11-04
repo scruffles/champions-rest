@@ -1,0 +1,15 @@
+{
+  "id": "159",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The 'Allen and the Porpoise' subsection of the 'At Mitchell's Quarters' article; complete." },
+  "ocr": { "status": "good", "notes": "Minor errors: 'You're not playing hearts, and I'll have an even thing on the gig' should be 'playing hearts now, and I'll have an even thing on the luck'; 'clutch bet' is 'cinch bet'; 'blind me' is 'bloind me'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, at Mitchell's camp on the Florida coast, took a beached porpoise for a shark; Mitchell then lost a $100 bet to Doc Robbins on its weight, 131 pounds." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Monday, St. Louis Post-Dispatch, January 22 (1894)." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Anecdote only; Allen's presence at the camp is recorded as a fact on 157."
+}

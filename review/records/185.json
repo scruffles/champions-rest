@@ -1,0 +1,26 @@
+{
+  "id": "185",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Only the headline and first paragraph; the item continues at the top of the next column (death at the City Hospital and Allen's claim he thought Coupry would shoot him)." },
+  "ocr": { "status": "good", "notes": "Matches the cropped part ('championship' in print for 'champion'); transcript stops where the crop does." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Sedalia Democrat reported that Tom Allen, once heavyweight champion, was under arrest at the Four Courts in St. Louis, charged with murder after a man he shot in his saloon died." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": false, "publication_ok": false, "publication": "Sedalia Democrat", "notes": "Masthead: 'Sedalia Democrat: Friday, March 3, 1899', page 11, so the date is 1899-03-03 (not 03-02). Printed name is Sedalia Democrat; possibly its weekly edition, check before changing." },
+  "facts": [
+    {
+      "fact": "Allen was held under arrest at the Four Courts, St. Louis, charged with murder",
+      "date": "1899-02-27",
+      "people": [],
+      "places": ["Four Courts, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Reprint of the wire item in 182 (Feb. 27 dateline). The victim's name is misprinted 'Coupry' (Timothy Confoy). Recrop to include the continuation at the top of the fourth column."
+}

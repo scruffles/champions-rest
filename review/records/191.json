@@ -1,0 +1,36 @@
+{
+  "id": "191",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headline to closing rule, across two pieces." },
+  "ocr": { "status": "good", "notes": "Accurate. The musician is spelled 'Garraher' at first mention and 'Carraher' later in print; headline missing from transcript." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Stranger's skull fractured at Allen's saloon" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Edward Hodo of Granite City, Ill., fractured his skull falling down the stairs at Tom Allen's saloon, 619 Market Street. Jesse Carraher, a musician at the saloon, was arrested pending investigation." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead: The Republic, Monday, March 4, 1901, page 12." },
+  "facts": [
+    {
+      "fact": "Allen's saloon was at No. 619 Market Street, St. Louis",
+      "date": "1901-03",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Edward Hodo of Granite City, Ill., fractured his skull falling down the stairs at Allen's saloon; Jesse Carraher, a musician employed there, was arrested pending investigation",
+      "date": "1901-03-03",
+      "people": ["Edward Hodo", "Jesse Carraher"],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

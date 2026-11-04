@@ -1,0 +1,15 @@
+{
+  "id": "133",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The article runs two columns on page 7. The clipping joins them but skips the last few lines at the foot of column 1 (after 'The fighting men seemed hurt at finding that aurally they bore so much resemblance to'), which are too small to read on page.jpg. Column 2 is complete to the end ('...often and soundly cuffed')." },
+  "ocr": { "status": "rough", "notes": "The transcript is a paraphrase in places and stops early: it ends at 'ranks next to a broken nose' and omits the closing third (Barnes 'in the West', 'Tom Allen is a middle-weight of credit and renown', the A-marked tumors, Dempsey, Kilrain, John L. Sullivan, Donovan, McClellan, Edwards, and the closing remarks on asylums). It invents an opening sentence from the deck, writes 'hematoma' for the printed 'othaematoma'/'haematoma', and '1833' for the printed '1883'. Picture captions ('Tom Allen's Beauty', 'Joe Fowler's Ear', 'Jim McHugh's', 'Tommy Barnes' Pet', 'Jack McCormick's') are missing." },
+  "about_tom": "unsure",
+  "title": { "ok": false, "suggested": "Big ears of crazy men: boxers' ears shown to New York doctors" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Dr. Mathew D. Field showed the swollen ears of five boxers, among them a 'Tom Allen, the big middleweight', to the New York Neurological Society, arguing the 'insane ear' comes from blows." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch, Thursday, October 25, 1888', page 7. The meeting in New York took place 'lately'." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Probably not our Tom Allen: the Allen here is 'the big middleweight' and 'a middle-weight of credit and renown', who appeared in New York with working glove boxers (Joe Fowler, Tommy Barnes, Jim McHugh, Jack McCormick) said to spar some 200 times a year. The St. Louis Allen was a 47-year-old ex-heavyweight champion keeping a saloon on Market Street in 1888. No facts recorded until a human decides. The current summary's mention of Mike McCoole and Jem Mace is wrong; neither appears in the article."
+}

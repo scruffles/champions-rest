@@ -1,0 +1,36 @@
+{
+  "id": "131",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headline 'THE DALY-ALLEN FIGHT. Judge Cady Hears Both Sides and Distributes the Fines Evenly.' through the $10 fines." },
+  "ocr": { "status": "good", "notes": "Mostly right, but one error changes the meaning: the image reads 'Harry Allen, an employe of the Dalys, testified', while the OCR has 'Allen, an employee of the Dalys' (making it read as Tom Allen). The OCR also drops the dropped-h dialect in Allen's quotes ('Hi 'ave two Dutchmen 'ere hand heither one hov 'em', 'hand hif you don't believe it I'll take hof my clothes hand show you')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "The Daly-Allen fight in Police Court" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Judge Cady heard conflicting testimony on the Daly-Allen street fight and fined Tom Allen, Charley Daly and John Ryan $10 each for disturbing the peace." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch, Thursday, June 21, 1888', page 5." },
+  "facts": [
+    {
+      "fact": "Allen, Charley Daly and John Ryan were tried before Judge Cady on counter charges of disturbing the peace over the Sunday-morning street fight; Judge Cady called the testimony very mixed and fined each $10",
+      "date": "1888-06-21",
+      "people": ["Charley Daly", "John Ryan", "Judge Cady"],
+      "places": ["Police Court, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "029"
+    },
+    {
+      "fact": "Allen testified that Bob Farrell tripped him and Dan Daly and a crowd kicked him while he was down",
+      "date": "1888-06-21",
+      "people": ["Bob Farrell", "Dan Daly"],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "quote": "There was too many of them to 'urt me. My ribs were kicked, hand hif you don't believe it I'll take hof my clothes hand show you.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is called 'the ex-champion of the world'. Allen showed a bloodshot eye, a cut and discolored ear and a bruise on the face."
+}

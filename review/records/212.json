@@ -1,0 +1,26 @@
+{
+  "id": "212",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "'No accurate appraisal' should be 'No accurate description'; 'ask Slew' should be 'ask Heapes'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that a constable failed to seize Allen's driving horse for Tillie Hartgrove, as the horse was also claimed by administrator G. A. Strode and by William W. Heapes for a $17 feed bill." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead: The Republic: Wednesday, April 22, 1903, page 18. Headline: 'Allen's Horse in Dispute.'" },
+  "facts": [
+    {
+      "fact": "Constable Fred Lenz failed to replevin Allen's driving horse for Tillie Hartgrove; it was also claimed by G. A. Strode as administrator of Allen's estate and by William W. Heapes for a $17 feed bill",
+      "date": "1903-04-21",
+      "people": ["Tillie Hartgrove", "Fred Lenz", "G. A. Strode", "William W. Heapes"],
+      "places": ["St. Louis County"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Names G. A. Strode as administrator of the estate (the public administrator in fact list)."
+}

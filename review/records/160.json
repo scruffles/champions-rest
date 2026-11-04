@@ -1,0 +1,46 @@
+{
+  "id": "160",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article from the 'Tom Allen Back' headline to the end of 'Allen's Dreams'." },
+  "ocr": { "status": "good", "notes": "Closely matches; 'Ask 'im when 'e gets home' is ''ome' in the image, 'per cent' printed as two words." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen returned to St. Louis from Jacksonville after backing the loser, Charley Mitchell, against Corbett, and was too busy hunting a lost diamond ring to be interviewed." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Saturday, St. Louis Post-Dispatch, Jan[uary 27, 18]94 (partly torn; Saturday matches Jan. 27, 1894)." },
+  "facts": [
+    {
+      "fact": "Allen returned to St. Louis from Jacksonville by the L. & N. railroad after the Corbett-Mitchell fight, the only one of the St. Louis sports to make the trip",
+      "date": "1894-01-27",
+      "people": ["Charley Mitchell", "James J. Corbett", "Jim Cronin"],
+      "places": ["Jacksonville, Florida", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had picked Mitchell to beat Corbett and had prepared his ox tail jelly 'stomach hardener' for Mitchell",
+      "date": "1894-01",
+      "people": ["Charley Mitchell", "James J. Corbett"],
+      "places": ["Jacksonville, Florida"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "034"
+    },
+    {
+      "fact": "Asked how he liked the Corbett-Mitchell fight, Allen answered that there was no fight",
+      "date": "1894-01-27",
+      "people": ["Charley Mitchell", "James J. Corbett"],
+      "places": ["East St. Louis"],
+      "quote": "Foight! Foight! There was no fight",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

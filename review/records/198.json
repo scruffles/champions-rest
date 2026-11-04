@@ -1,0 +1,110 @@
+{
+  "id": "198",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item, headline, decks, portrait of Mrs. Tillie Hartgrove and text to the closing rule."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image except 'when the Star called', which the image prints as 'when the daughter called'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Allen's daughter, Mrs. Mary Taylor, was twice refused leave to see him at the Baptist Hospital, and said her mother was alive in Birmingham and that Mrs. Hartgrove had taken charge of his money."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Personal life",
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: Monday, St. Louis Post-Dispatch, March 30, 1903, page 6, column 1. The current summary mentions an 'open letter'; the article says a statement to the Post-Dispatch."
+  },
+  "facts": [
+    {
+      "fact": "Allen's daughter, Mrs. Mary Taylor, was refused admittance to him at his rooms over the saloon and twice at the Baptist Hospital",
+      "date": "1903-03-30",
+      "people": [
+        "Mary Taylor",
+        "Robert Lyons"
+      ],
+      "places": [
+        "619 Market Street, St. Louis",
+        "Baptist Hospital, Garrison and Franklin avenues, St. Louis"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "044"
+    },
+    {
+      "fact": "Allen's doctor diagnosed pneumonia and Allen was moved to the Baptist Hospital at Garrison and Franklin avenues on Saturday",
+      "date": "1903-03-28",
+      "people": [],
+      "places": [
+        "Baptist Hospital, Garrison and Franklin avenues, St. Louis"
+      ],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": "043"
+    },
+    {
+      "fact": "Mrs. Taylor said her mother and sister were living in Birmingham, England",
+      "date": "1903-03-30",
+      "people": [
+        "Mary Taylor"
+      ],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": "040"
+    },
+    {
+      "fact": "Mrs. Taylor said Mrs. Hartgrove had assumed power of attorney and took charge of the money in the saloon's cash register",
+      "date": "1903-03-30",
+      "people": [
+        "Mary Taylor",
+        "Tillie Hartgrove"
+      ],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": "045"
+    },
+    {
+      "fact": "Mrs. Taylor put the case in the hands of attorney Frank A. C. MacManus, an old friend of her father, to gain access to him by law",
+      "date": "1903-03-30",
+      "people": [
+        "Mary Taylor",
+        "Frank A. C. MacManus"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The claim that Mrs. Hartgrove has a husband in Kansas City whom she is suing for divorce matches an index line with id 000, so it is not repeated as a fact here. This contradicts article 197's claim that Allen was a widower and that her first husband was dead."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "228",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full article from the series banner 'Great Stories of the Prize Ring', the editor's box ('This is No. 4 in this great series'), the headline 'The Fight Between Tom Allen and Jem Mace for $10,000, Part I' through '(To Be Continued in Sunday's Star, January 28.)'." },
+  "ocr": { "status": "good", "notes": "Close to the image with minor wording slips ('speaking of' for 'discussing', 'start for the ground' for 'start for the battle ground', 'He was not as muscular or well-built' for 'He was nothing like as muscular or well-made about the bust'). The editor's box and subheads are not transcribed." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Bill Clark recalls the Allen-Mace fight (part 1)" },
+  "summary": { "ok": false, "suggested": "The St. Louis Star printed the first part of Bill Clark's recollection of the Allen-Mace fight for $10,000 and the world championship, fought May 10, 1870, at Kennerville near New Orleans." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The St. Louis Star", "notes": "Masthead: 'Saturday, The St. Louis Star, January 27, 1912', page 6. Written by Billy Murphy from Prof. Bill Clark's reminiscences." },
+  "facts": [
+    {
+      "fact": "Allen and Jem Mace signed articles on January 17, 1870, to fight for $10,000 and the championship of the world",
+      "date": "1870-01-17",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen trained for the Mace fight in St. Louis under Jack Goulding and Joe Coburn",
+      "date": "1870",
+      "people": ["Jack Goulding", "Joe Coburn"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Mace fought under London Prize Ring rules at Kennerville, about eight miles from New Orleans, reached by special train from the Jackson Railway depot; Allen was seconded by Joe Coburn and Thurston",
+      "date": "1870-05-10",
+      "people": ["Jem Mace", "Joe Coburn", "Thurston"],
+      "places": ["Kennerville, Louisiana", "New Orleans"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Clark recalled Allen as 27 years old and 175 pounds for the Mace fight, an inch taller than Mace, who weighed 168",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": ["Kennerville, Louisiana"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "A 1912 reminiscence; facts are medium confidence. Allen's age of 27 does not fit the 1839 birth date in the facts index. The result of the fight is not in this part (continued January 28)."
+}

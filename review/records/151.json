@@ -1,0 +1,26 @@
+{
+  "id": "151",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Clipping holds the 'Book Table' headings and the whole review of Annie Bronson King's book, ending at the '* * *' break. The rest of the column (Claretie and other literary notes) is left out, which is fine." },
+  "ocr": { "status": "good", "notes": "Matches the image closely. The decks (subheadings) are not in the transcript." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reviewed Annie Bronson King's \"The Children of the Slums,\" sketches of St. Louis life, one set at Tom Allen's saloon. The reviewer said the place described is not really like Tom Allen's." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Sunday Morning, February 5, 1893, page 30." },
+  "facts": [
+    {
+      "fact": "Annie Bronson King's book \"The Children of the Slums\" (D. D. Merrill, New York) includes a fictional sketch set at Tom Allen's saloon, beginning \"Saturday night, and 9 o'clock at Tom Allen's\"",
+      "date": "1893",
+      "people": ["Annie Bronson King"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "020"
+    }
+  ],
+  "needs_human": false,
+  "notes": "A book review that only mentions Allen's saloon as the setting of one sketch."
+}

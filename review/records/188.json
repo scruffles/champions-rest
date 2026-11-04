@@ -1,0 +1,26 @@
+{
+  "id": "188",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article from headline to end. Includes a portrait whose caption is cut to '...AND L. S. GOODNER.' (not about Allen)." },
+  "ocr": { "status": "good", "notes": "Mostly right. Errors: 'said Mr. Jackson' should be 'said Mr. Thompson'; the bartender's line 'He said it must be delivered to Mr. Doyle personally' is garbled; 'as he saw fit' is 'as he pleased'; 'parsing the order' is 'obeying the order'; 'curious outfit' is 'complete outfit'; the ending 'in two or three days' is changed to 'in due course'; headlines missing." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Order to close the winerooms" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Excise Commissioner Higgins ordered downtown winerooms removed or nailed up. At Tom Allen's Market Street saloon, Allen argued that no woman had been in his one room in six months." },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image; 1899-09-05 was a Tuesday, which fits 'Tuesday morning' in an evening paper." },
+  "facts": [
+    {
+      "fact": "Excise officers served Allen's Market Street saloon with the order to remove its wineroom; Allen said no woman had been in the place in six months and offered to take the room's door off its hinges",
+      "date": "1899-09-05",
+      "people": ["R. P. Thompson", "Tim Danaher"],
+      "places": ["Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's words are reported, not quoted. Related to fact 039 (women not allowed in the bar)."
+}
