@@ -44,13 +44,17 @@
 - Replace keyword-guessed topics with real per-article tags
 - Fix automatic crops that cut off multi-column headlines (e.g. article 1000)
 
+### Home & Highlights
+- "On this day" can disagree between pages: on about 72 days a year the Home box shows a supporting article or passing mention while the Articles hero falls back to Article of the day. Pick one rule for both
+
 ### Article Viewer
-- Better zoom for full-page newspaper images (pinch/scroll zoom, not just fullscreen)
+- Pinch and scroll-wheel zoom on clippings and full pages (the +/− buttons already work)
 - Cite sources in existing biography and fact pages using the new articles as references
 
 ### Record Page
 - Re-calculate Tom Allen's match history (wins/losses/opponents) by cross-referencing all 1,017 articles - current record page may be incomplete or inaccurate
 - Update Record page format with more textual summaries and quotes
+- Check two likely date typos in `data/fights.js`: George Rooke "1978-07-15" and Cleary "1978 ish" (probably 1878); they currently show under "Uncertain dates"
 
 ### Biography
 - Extract new facts from the 736 new articles (dates, opponents, locations, results, quotes)
@@ -70,14 +74,15 @@
 - Map of fight locations, bar locations, and other significant places pulled from the articles
 - Visual links from map locations to the relevant articles
 - Consider historic St. Louis map overlay for the city locations
+- Cover bar locations and fight locations (folds in the earlier Google Maps items)
 
-### Maps
-- Google maps of bar locations (maybe use a historic St. Louis map)
-- Google maps of fight locations
+### Bugs & Testing
+- Test the redesign in Safari and on iPhone (only desktop Chrome has been checked; replaces the old full-screen and iPhone bugs on the retired Articles page)
+- Pages opened directly by URL (e.g. `/articles/579`) return HTTP 404 while still rendering, because S3 serves the app as its error page. Search engines may treat them as missing; fix with a CloudFront rule that rewrites them to 200
 
-### Bugs
-- Fix full-screen articles for Safari
-- Fix articles page on iPhone
+### Performance & Maintenance
+- First load is 2.4 MB (about 900 KB compressed), mostly the article database bundled up front. Split it or load it on demand
+- Resolve the 55 Dependabot security alerts on old dependencies
 
 ### Housekeeping
 - Finish going over articles for references (stopped at article 221)
