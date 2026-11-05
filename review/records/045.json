@@ -1,0 +1,26 @@
+{
+  "id": "045",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "one-line local item among unrelated notices" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Macon Republican remarked in a one-line local item that St. Louis had Tom Allen on exhibition as an attraction to its fair." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The Macon Republican", "notes": "no page image; date and paper could not be checked against a masthead (crop shows only the end of a title ending '...can.')" },
+  "facts": [
+    {
+      "fact": "Allen was shown as an attraction at the St. Louis fair",
+      "date": "1873-10",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "the current summary's mention of Mike McCoole and Jem Mace is not in the item; 'on exhibition' may be a joke about his post-fight celebrity"
+}

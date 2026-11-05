@@ -1,0 +1,56 @@
+{
+  "id": "075",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor differences: image reads 'Ned Donelly' and 'give another sparring exhibition'; the 'THE FIGHT TO COME OFF.' subhead is omitted." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Allen returned from Cincinnati, where $500 a side had been posted as forfeit for a fight with Joe Goss, and that Ned Donelly's $125 suit against him was postponed." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch. St. Louis, Monday Evening, May 1, 1876'; the Post-Dispatch name dates from 1878-12." },
+  "facts": [
+    {
+      "fact": "Allen returned to St. Louis from Cincinnati, where he had gone to cover Joe Goss's $500 forfeit money",
+      "date": "1876-05-01",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Joe Goss each put up $500 forfeit at Cincinnati for a fight, to be raised to $1,000 once the time and place were set",
+      "date": "1876-05",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Ned Donelly sued Allen for $125 before Justice Walther, 406 Morgan Street, claiming it was due for sparring exhibitions at the Comique; the hearing was postponed",
+      "date": "1876-05-01",
+      "people": ["Ned Donelly", "Justice Walther"],
+      "places": ["406 Morgan Street, St. Louis", "Theatre Comique, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he would continue living in St. Louis and had never intended otherwise",
+      "date": "1876-05-01",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Donelly suit matches the unnumbered (000) index entry 'pay dispute with Ned Donnelly'."
+}

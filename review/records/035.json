@@ -1,0 +1,46 @@
+{
+  "id": "035",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "the Allen item (top) is complete; the clipping also includes an unrelated 'Lexington Races' dispatch below it" },
+  "ocr": { "status": "good", "notes": "stakes are $5,000 or less, not $500; dateline 'New York, May 17' omitted; race times slightly off" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican printed a New York dispatch that Tom Allen, admitting his defeat by Jem Mace near New Orleans, challenged all professional fighters except Mace and Heenan for $5,000 or less, hoping Coburn would accept." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads 'The Missouri Republican--St. Louis, May 18, 1870'; dispatch dated New York, May 17" },
+  "facts": [
+    {
+      "fact": "Allen admitted his defeat by Jem Mace in their fight near New Orleans",
+      "date": "1870-05",
+      "people": ["Jem Mace"],
+      "places": ["near New Orleans"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "From New York, Allen challenged all professional fighters except Mace and Heenan to fight for $5,000 or less, particularly wanting Coburn to accept",
+      "date": "1870-05-17",
+      "people": ["Jem Mace", "John C. Heenan", "Joe Coburn"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen signed his challenge as champion of America by Mace's permission",
+      "date": "1870-05-17",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "champion of America, by permission of Mr. James Mace, champion of the world",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Dispatch is datelined New York; it does not say Allen himself was in New York. Coburn and Heenan first names not printed."
+}

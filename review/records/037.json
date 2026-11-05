@@ -1,0 +1,26 @@
+{
+  "id": "037",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "matches the image" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen invited his friends to a \"free and easy\" that evening at his place, No. 417 Washington Avenue, where he would take the chair and serve refreshments." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads 'The Missouri Republican--St. Louis, July 16, 1870'" },
+  "facts": [
+    {
+      "fact": "Allen hosted a \"free and easy\" at his place, No. 417 Washington Avenue, St. Louis, in July 1870",
+      "date": "1870-07-16",
+      "people": [],
+      "places": ["417 Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

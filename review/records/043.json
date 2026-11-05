@@ -1,0 +1,36 @@
+{
+  "id": "043",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "includes the whole Allen anecdote; the crop ends at the start of the unrelated Pleasant Hill town description, which continues below" },
+  "ocr": { "status": "good", "notes": "body mostly right, but the closing paragraph is garbled: the transcript drops 'It appears that when I called upon the editor ... that of \"Tom Allen's,\" which had got mixed in with my own. It was my first appearance as a \"prize fighter,\" but when the joke was explained, the citizens enjoyed it hugely, and the saloons took in many a dime on the \"sell.\"' and replaces it with an invented line; 'the ill luck' read as 'the luck'" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Correspondent mistaken for Tom Allen in Pleasant Hill" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican's correspondent at Pleasant Hill, Missouri, was mistaken for Tom Allen and hunted by the sheriff after leaving Allen's card, handed to him days earlier in Sedalia, at the local newspaper office." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads THE MISSOURI REPUBLICAN, ST. LOUIS, WEDNESDAY MORNING, JUNE 14, 1871; letter datelined Pleasant Hill, Cass Co., Mo., June 9, 1871" },
+  "facts": [
+    {
+      "fact": "Allen was in Sedalia, Missouri, handing out his cards reading 'Tom Allen, Champion, St. Louis'",
+      "date": "1871-06",
+      "people": [],
+      "places": ["Sedalia, Missouri"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A false rumor that Allen (supposedly with Jem Mace) was in Pleasant Hill, Missouri, sent the sheriff and deputies hunting for him",
+      "date": "1871-06",
+      "people": ["Jem Mace"],
+      "places": ["Pleasant Hill, Cass County, Missouri"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

@@ -1,0 +1,46 @@
+{
+  "id": "028",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article from headline decks to 'The Close' (spans 13 pieces). The bottom also carries two unrelated short items, 'Meat-Shop Cases in Police Court' and 'Application for Pardon', plus an ad." },
+  "ocr": { "status": "rough", "notes": "Transcript stops at 'The Ground for the Ring' (about a third of the article); the ring-making, both fights and the close are missing. Errors in the part present: 'Charley Satine' for Charley Gallagher, 'Cy Sayers ... Henry Sayers' for George Seddons ... Henry Reinsaeder, 'Carey' for Carty, 'Pat. Malloy' for Pat. Hafford, 'faro bank' for 'bank of chuck-a-luck', boat hirers given wrongly (image: Dick Roche, Mike McCoole and Jack Looney)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported two prize fights on Carroll Island below St. Louis: Tom Allen seconded George Seddons to victory over John Lafferty in 19 rounds, then seconded George Carey and threw up the sponge after 14 rounds against James C. Gallagher." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, January 26, 1870. The fights were 'yesterday', January 25, 1870. Article runs pg 3, cols 5-6." },
+  "facts": [
+    {
+      "fact": "Allen seconded George Seddons (with Patsey Curtin) in his fight with John Lafferty for $500 a side on Carroll Island, Illinois, about twelve miles below St. Louis; Seddons won in 19 rounds, 43 minutes",
+      "date": "1870-01-25",
+      "people": ["George Seddons", "John Lafferty", "Patsey Curtin"],
+      "places": ["Carroll Island, Illinois (Mississippi River below St. Louis)"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen seconded George Carey (with Patsey Curtin) against James C. Gallagher of Albany, N.Y., for a $50 purse on Carroll Island; Allen threw up the sponge for Carey after 14 rounds, 18 minutes",
+      "date": "1870-01-25",
+      "people": ["George Carey", "James C. Gallagher", "Patsey Curtin"],
+      "places": ["Carroll Island, Illinois"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "The paper recalled that Allen had been 'knocked out of time' by Charley Gallagher on the same spot, by the old distillery on Carroll Island, 'last summer'",
+      "date": "1869",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll Island, Illinois"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Passengers discussed the coming Mace-Allen fight. The paper's 'last summer' for the Allen-Gallagher loss may be wrong; check against the fight record. Allen is a second, not a principal, so focus is secondary."
+}

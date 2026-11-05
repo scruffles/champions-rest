@@ -79,3 +79,5 @@ Cross-article findings to resolve when merging records into the data. Per-articl
 - 969 and 970 are parts of one article (Allen's quote is missing from both crops); re-crop and merge.
 - 998 is a different Tom Allen (Barnes Medical College graduate); remove. 974: the crop is the wrong article; the "Badly Beaten" item is lower in the same column on a torn part of the page.
 - 1005 and 1006 are two partial crops of one obituary (middle column missing); 1008 is an exact duplicate of 1007; 1009 is a store ad plus headline only.
+- 021 belt presentation: 033 says set for April 30; 034 says postponed twice. Family: 036 mentions his sister teaching school in Corydon, Ind.
+- 1001 duplicates 1000 (caption only). 1004: check whether the saloon year reads 1868 or 1863.

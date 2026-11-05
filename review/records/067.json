@@ -1,0 +1,46 @@
+{
+  "id": "067",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "includes headline 'Bloody Bad Luck.'" },
+  "ocr": { "status": "good", "notes": "image has 'Hingland' (mock accent) where transcript has 'England'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republican reported that Tom Allen closed his Free and Easy on Washington Avenue, and that Ed. Donnelly, saying he was owed $125 for sparring and was knocked down when he asked, had Allen's trunks attached." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Republican", "notes": "masthead reads 'The St. Louis Republican, Wednesday Morning, April 12, 1876' (pg 8), kept as printed" },
+  "facts": [
+    {
+      "fact": "Allen closed his Free and Easy on Washington Avenue and packed up, reportedly for a trip to England or the East",
+      "date": "1876-04-11",
+      "people": [],
+      "places": ["Free and Easy, Washington Avenue, St. Louis", "England"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "010"
+    },
+    {
+      "fact": "Ed. Donnelly claimed Allen owed him $25 for each of five sparring exhibitions, said Allen knocked him down when he asked for money, and had Allen's trunks attached for $125 at Justice Walton's office",
+      "date": "1876-04-11",
+      "people": ["Ed. Donnelly", "Justice Walton"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "000"
+    },
+    {
+      "fact": "Allen asked police to arrest Donnelly for carrying off a coat; Donnelly went to the Third District station but nothing came of it",
+      "date": "1876-04-11",
+      "people": ["Ed. Donnelly"],
+      "places": ["Third District police station, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "the England trip is the paper's claim; Allen denied it the next day (articles 068, 069). existing_fact 000 = 'pay dispute with Ned Donnelly'"
+}

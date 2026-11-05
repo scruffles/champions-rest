@@ -1,0 +1,56 @@
+{
+  "id": "058",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Column label 'THE PRIZE RING.' above the headline is outside the crop, and the bottom stops at the heading 'ANOTHER RICHMOND IN THE FIELD', a further section of the same story (the sub-headline 'The Irish Giant on the War Path' refers to it) that is not in the clipping and is unreadable on the scaled page." },
+  "ocr": { "status": "good", "notes": "Image reads 'Monday, June the 28th', not 25th; 'stockholder' printed for stakeholder in the first paragraph; '$1,500' and '$3,000'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch printed George Rooke's reply to Tom Allen's retirement card, saying their June 17 match fell through over the choice of stakeholder, and challenging Allen to fight him without stakes." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'The St. Louis Dispatch', Tuesday Evening, June 22, 1875; named per rubric rule for pre-1878 Dispatch." },
+  "facts": [
+    {
+      "fact": "Allen published a card announcing his retirement from the ring",
+      "date": "1875-06",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's match with George Rooke, for $1,500 a side to be fought June 17, 1875, was declared off after the two sides failed to agree on a final stakeholder",
+      "date": "1875-06-17",
+      "people": ["George Rooke"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen went to the fight ground on June 17, stepped into the ring alone and claimed the stakes when Rooke did not appear",
+      "date": "1875-06-17",
+      "people": ["George Rooke"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Rooke challenged Allen to fight him without stakes, offering to bet $1,000 that he would win",
+      "date": "1875-06-22",
+      "people": ["George Rooke"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Rooke's account of the broken match is one-sided. The missing 'Another Richmond in the Field' section may also concern Allen; it needs a human to check the original page."
+}

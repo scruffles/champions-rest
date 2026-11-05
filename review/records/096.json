@@ -1,0 +1,86 @@
+{
+  "id": "096",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole front-page article: portraits and records of Ryan and Sullivan, 'The Gladiators' review across several columns, and the short 'Ryan All O.K.' follow-up." },
+  "ocr": { "status": "good", "notes": "Accurate as far as it goes, but the transcript stops partway through the Coburn paragraph ('his brother Mickey being a splendid lightweight fighter') and omits the rest, including every passage about Allen. Sullivan's fighting weight is 182 in the image, not 152; the 'Paudeen' sentence about Morrissey is dropped." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported Sullivan's nine-round win over Paddy Ryan and reviewed the American ring, including Allen's 1869 fights with Davis, Gallagher and McCoole and his 1870 loss to Jem Mace near New Orleans." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Post-Dispatch, Wednesday, February 8, 1882, front page." },
+  "facts": [
+    {
+      "fact": "Allen came to America on the same voyage ('on one invoice') as Billy Ryall and Peter Morris, the English lightweight champion",
+      "date": "",
+      "people": ["Billy Ryall", "Peter Morris"],
+      "places": ["England", "America"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "In 1869 Allen beat Bill Davis, and Charley Gallagher beat Allen at Carroll Island near St. Louis",
+      "date": "1869",
+      "people": ["Bill Davis", "Charley Gallagher"],
+      "places": ["Carroll Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In June 1869 Allen and Mike McCoole met on an island (printed 'Boster's Island'); the fight was broken up after McCoole was well whipped",
+      "date": "1869-06",
+      "people": ["Mike McCoole"],
+      "places": ["Foster's Island (printed 'Boster's Island')"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In August 1869 Allen beat Charley Gallagher badly in a rematch",
+      "date": "1869-08",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost to Jem Mace at Kennerville near New Orleans in 1870 for $2,500 a side; Mace threw him in the tenth round, Allen was knocked insensible, Coburn threw up the sponge, and it was feared Allen's neck was broken",
+      "date": "1870",
+      "people": ["Jem Mace", "Joe Coburn", "John C. Heenan"],
+      "places": ["Kennerville, near New Orleans"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen seconded Jem Mace, with Jim Cusick, in Mace's drawn fight with Joe Coburn at Bay St. Louis on November 30, 1871",
+      "date": "1871-11-30",
+      "people": ["Jem Mace", "Joe Coburn", "Jim Cusick"],
+      "places": ["Bay St. Louis, Mississippi"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper said Allen could never have won his fight with Joe Goss under any circumstances, 'being robbed out of the battle'",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mainly about Sullivan-Ryan; Allen appears in the historical review (crops 9-12). The retrospective is secondhand, so fight facts are medium confidence. The transcript should be completed from the image so that the Allen passages can be searched."
+}

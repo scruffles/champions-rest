@@ -1,0 +1,119 @@
+{
+  "id": "1001",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Clipping shows only the 'TOM ALLEN.' portrait caption and the last five lines of the column ('…nounced to take place in the city, but it was prevented by the police…'), plus the next headline 'Yates Not Behind…'. The headline, deck and almost all the text are missing. This is the same story as article 1000 (page 3, 'Champion Tom Allen and \"Apple Mary\" Choose Mates…')."
+  },
+  "ocr": {
+    "status": "unusable",
+    "notes": "Transcript is only the caption and a few line fragments. The facts below were read from the full-resolution page image."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen would marry Mrs. Tillie Hartgrove, 21, the English-born trained nurse who had attended him through several months of illness, on April 23, his 65th birthday."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Personal life",
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, March 28, 1903, page 3. Duplicate of article 1000."
+  },
+  "facts": [
+    {
+      "fact": "Allen announced on March 27, 1903 that he would marry Mrs. Tillie Hartgrove, 21, a trained nurse who had been attending him in an illness of several months, on April 23, his 65th birthday",
+      "date": "1903-03-27",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "041"
+    },
+    {
+      "fact": "Mrs. Hartgrove, like Allen a native of England, was born in Manchester and came to St. Louis at the age of 9",
+      "date": "",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [
+        "Manchester, England",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper said Allen had been a widower for thirty years and his future wife a widow for about two years",
+      "date": "1903",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "family",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper said Allen's first battle was with Charlie Davis on April 17, 1878, whom he beat in five rounds for the championship of England",
+      "date": "1878-04-17",
+      "people": [
+        "Charlie Davis"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's fight with Mike McCool for the American championship, with a $2,000 purse, was announced to take place in St. Louis but stopped by police; the party chartered a steamer up the Mississippi to Gabaret Island, where it was fought out of doors",
+      "date": "",
+      "people": [
+        "Mike McCool"
+      ],
+      "places": [
+        "St. Louis",
+        "Gabaret Island, Mississippi River"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had been confined since Christmas 1902 with a chronic malady at the home of his sister-in-law, 3516 Arsenal Street, and was to be moved to the Baptist Hospital, Garrison and Franklin avenues",
+      "date": "1902-12",
+      "people": [],
+      "places": [
+        "3516 Arsenal Street, St. Louis",
+        "Baptist Hospital, Garrison and Franklin avenues, St. Louis"
+      ],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": "043"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Duplicate of article 1000 (same story, same page) with a far worse crop; consider removing 1001 or merging it into 1000. If kept, recrop to the full story (two-column headline, first column, and continuation in the second column above 'Apple Mary's Wedding'). Contradictions: 'first battle' with Davis in 1878 is wrong for his career; 'widower for thirty years' vs 1004's 'left a wife' in England (index 040); Hartgrove 'a widow' vs her divorce suit (1003); 65th birthday implies 1838, vs 1839 elsewhere."
+}

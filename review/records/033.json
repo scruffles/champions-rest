@@ -1,0 +1,36 @@
+{
+  "id": "033",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "headline, subheads and full article across two pieces" },
+  "ocr": { "status": "good", "notes": "some errors: belt is 'forty inches' long (not thirty); side plates 3 1/2 inches; excursion fare is 'thirty-two dollars' (not two dollars) and wording 'to take those who wish to see the fight'; 'fistic circles'/'excursionists' misread; omits sentence 'The belt to be given him he has won by stout hardihood and hard knocks.'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen was to be presented that evening at the Theatre Comique with a $1,000 gold and silver belt from his St. Louis admirers, ahead of his coming fight with Jem Mace near New Orleans." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads 'The Missouri Republican--St. Louis, April 30, 1870'" },
+  "facts": [
+    {
+      "fact": "Allen was to be presented with a $1,000 gold and silver belt by his St. Louis friends at the Theatre Comique, St. Louis, on the evening of April 30, 1870; it was made under the supervision of Wm. Walsh, who had overseen McCoole's belt",
+      "date": "1870-04-30",
+      "people": ["Wm. Walsh", "Mike McCoole"],
+      "places": ["Theatre Comique, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "021"
+    },
+    {
+      "fact": "Allen's coming fight with Jem Mace was to take place near New Orleans, with Billy Carroll arranging railroad excursions from St. Louis",
+      "date": "1870-05",
+      "people": ["Jem Mace", "Billy Carroll"],
+      "places": ["New Orleans", "St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Existing fact 021 dates the presentation April 29, 1870; this article says the evening of April 30, and article 034 says it was postponed twice and not yet held by May 5."
+}

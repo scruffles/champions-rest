@@ -1,0 +1,129 @@
+{
+  "id": "049",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item from THE PUGS head to the closing rule, in two pieces."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right, but the first challenge reads '$1,000 to $5,000' (OCR '$3,000'), and the stakes in Allen's quote are dollars, not pounds ('$1,000 to $5,000'). 'Pittsburg', 'begged of McCoole's seconds' and 'proved' in the image."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "The Pugs - Allen and Mace Bantering Each Other for Another Bruising Match"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republican reprinted a New York Times item in which Tom Allen answered Jem Mace, offering to fight him under the new London prize ring rules for $1,000 to $5,000 a side in Kansas, New Orleans or Canada."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Republican",
+    "notes": "Masthead reads 'The St. Louis Republican, Saturday Morning, February 28, 1874', page 5. Item is a New York dispatch dated Feb. 26 quoting the next day's New York Times."
+  },
+  "facts": [
+    {
+      "fact": "Allen issued a challenge to fight Jem Mace, Joe Coburn or any man in the world for $1,000 to $5,000",
+      "date": "1874-02",
+      "people": [
+        "Jem Mace",
+        "Joe Coburn"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mace, then in London, sent word that he would return to America and fight Allen on Allen's terms",
+      "date": "1874-02",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "London",
+        "America"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen offered to fight Mace under the new London prize ring rules for $1,000 to $5,000 a side in Kansas, New Orleans or Canada, and to meet Mace's backers at Pittsburg or Cincinnati to sign articles with a $500 deposit",
+      "date": "1874-02",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "Kansas",
+        "New Orleans",
+        "Canada",
+        "Pittsburg",
+        "Cincinnati"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen offered as alternatives to fight Joe Coburn, wagering $2,500 to $1,500, or Ben Hogan for $1,000 to $5,000",
+      "date": "1874-02",
+      "people": [
+        "Joe Coburn",
+        "Ben Hogan"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's reply to Mace",
+      "date": "1874-02",
+      "people": [
+        "Jem Mace",
+        "Joe Coburn",
+        "Ben Hogan"
+      ],
+      "places": [],
+      "quote": "I am surprised that Jem Mace thinks I do not mean business. He knows that I never backed out. ... I mean business, and hope Mace, Coburn and Hogan will not refuse to meet me.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The paper recalled that Mace defeated Allen in New Orleans in May 1870, and that Allen's last fight, against McCoole on Chouteau Island, Illinois, was in the fall of 1873",
+      "date": "1870-05",
+      "people": [
+        "Jem Mace",
+        "Mike McCoole"
+      ],
+      "places": [
+        "New Orleans",
+        "Chouteau Island, Illinois"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title has 'The Bugs'; the head reads 'THE PUGS'. The paper says Mace would be backed from New York and Allen from St. Louis."
+}

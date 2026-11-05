@@ -1,0 +1,36 @@
+{
+  "id": "077",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Errors: stake is '$1,000 a side' in the image, not '£1,000'; dateline is 'Coloseum Grounds, New York'; 'paragraphs' not 'reports'; 'coming over here'; 'herewith challenge'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republican printed Joe Goss's challenge to Allen to fight for the championship of the world and $1,000 a side, four months after signing, and reported Allen would meet Goss in Cincinnati May 12 to sign articles." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Republican", "notes": "Masthead reads 'The St. Louis Republican, Thursday Morning, May 4, 1876', pg 2." },
+  "facts": [
+    {
+      "fact": "Joe Goss, champion of England, challenged Allen from New York to a London prize ring fight for the championship of the world and $1,000 a side, to take place four months after signing articles",
+      "date": "1876-05-02",
+      "people": ["Joe Goss"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen accepted Goss's challenge by telegraph and agreed to meet him in Cincinnati on May 12 to draw up articles",
+      "date": "1876-05-03",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary's '£1,000' comes from the OCR error; the image clearly reads '$1,000 a side'."
+}

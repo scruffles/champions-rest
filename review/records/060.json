@@ -1,0 +1,26 @@
+{
+  "id": "060",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Outraging the Law' column item, headline through the Tom Allen saloon paragraph at the end." },
+  "ocr": { "status": "rough", "notes": "Gist is there but the opening is garbled (drops 'Judge' and his rebuke of Maloney, 'common sense remarks' for 'commonsense view of police matters'), 'prosecuted' for 'nolle pros'd', drops the names Wm. Flynn and John Williams, 'Officer Nena' for 'Officer Nan', and the saloon paragraph omits that it was these officers ('A evenings ago went into')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that special officers Maloney and Nan made arrests without cause, and that at Tom Allen's saloon, when Allen asked Maloney to show his authority, the officer pulled a revolver." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Page masthead reads 'St. Louis Dispatch, Saturday Evening, December 18, 1875', matching the date. Pre-1878 Dispatch, so not the Post-Dispatch." },
+  "facts": [
+    {
+      "fact": "Special officer Maloney caused a commotion in Tom Allen's saloon by seizing a young man; when Allen told him to show his authority, Maloney drew a revolver and said 'there it is!'",
+      "date": "1875-12",
+      "people": ["Officer Maloney"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Most of the article concerns arrests by special officers Maloney and Nan; Allen appears only in the last paragraph. The current summary's mention of McCoole and Mace is not in the article."
+}

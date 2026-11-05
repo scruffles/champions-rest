@@ -1,0 +1,36 @@
+{
+  "id": "099",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Complete short item." },
+  "ocr": { "status": "good", "notes": "One significant error: the last quoted sentence reads 'There is another good fight left in me yet', not 'good night'. Headline and 'Special to the Post-Dispatch' not in the transcript." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported from New York that the Allen-Sullivan match was off: neither side's representative appeared at Harry Hill's, and Hill would return Richard K. Fox's $1,000 forfeit posted for Allen, who said he had been sick." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Post-Dispatch, Wednesday, December 6, 1882, page 5." },
+  "facts": [
+    {
+      "fact": "The proposed Allen-Sullivan match fell through when neither W. E. Harding for Allen nor Bob Farrell for Sullivan appeared at Harry Hill's; Hill said he would return Richard K. Fox's $1,000 forfeit check posted for Allen",
+      "date": "1882-12-05",
+      "people": ["John L. Sullivan", "W. E. Harding", "Bob Farrell", "Harry Hill", "Richard K. Fox"],
+      "places": ["Harry Hill's, New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had been sick and had not left the house since his exhibition, and that he was going to Chicago to see the Sullivan-Elliott glove contest and would fight the winner if he mended",
+      "date": "1882-12-05",
+      "people": ["John L. Sullivan", "Elliott"],
+      "places": ["New York", "Chicago"],
+      "quote": "I have not been out of the house since the exhibition. I have been sick. I am going to Chicago to see a glove contest between Sullivan and Elliott, and if I mend a bit I will have a go with the winner. There is another good fight left in me yet.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fact dates are 'yesterday' and 'last evening' relative to the December 6 dispatch. 'Elliott' is presumably Jimmy Elliott, but the article gives only the surname."
+}

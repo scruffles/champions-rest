@@ -1,0 +1,53 @@
+{
+  "id": "048",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item with the NEW YORK section head and headline."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Text matches, but the second amount is printed '$5,000', not '£5,000'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Evening Dispatch reported from New York that Jem Mace had written from England accepting Tom Allen's challenge to fight for $1,000 to $5,000, if Allen would put up a forfeit to show he meant business."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Evening Dispatch",
+    "notes": "No page image, so masthead and date cannot be checked. The Post-Dispatch did not exist until 1878-12; 1874 Dispatch items are the St. Louis Evening Dispatch. Dateline New York, Feb. 23."
+  },
+  "facts": [
+    {
+      "fact": "Jem Mace wrote from England accepting Allen's challenge to fight for $1,000 to $5,000, on condition that Allen put up a forfeit",
+      "date": "1874-02",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "England",
+        "New York"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Publication changed by rule; masthead not visible."
+}

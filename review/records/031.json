@@ -1,0 +1,26 @@
+{
+  "id": "031",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item with headline. No page image in the work folder." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen and Mike McCoole had split the excursion money from their 1869 fight, McCoole taking $1,232.50 and Allen $1,000, while the stakes remained tied up in a lawsuit." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "No page image here, but the same headline appears on pg 3, col 3 of the April 21, 1870 Missouri Republican page seen for 030." },
+  "facts": [
+    {
+      "fact": "Allen and Mike McCoole had gone to law over the stakes of their 1869 fight, which were still undecided; they compromised on the excursion money, McCoole taking $1,232.50 and Allen $1,000",
+      "date": "1870-04",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "041",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Grand Opening of Tom Allen's Concert Hall" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican carried a notice that Tom Allen's new concert hall at 417 Washington Avenue would open Saturday, March 4, with concerts every Saturday, Sunday and Monday evening at 7 o'clock." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads THE MISSOURI REPUBLICAN--ST. LOUIS, MARCH 3, 1871" },
+  "facts": [
+    {
+      "fact": "Allen opened a new concert hall at 417 Washington Avenue, St. Louis, with concerts every Saturday, Sunday and Monday evening",
+      "date": "1871-03-04",
+      "people": [],
+      "places": ["417 Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "009"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

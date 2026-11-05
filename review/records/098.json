@@ -1,0 +1,15 @@
+{
+  "id": "098",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "no_crop", "notes": "No crop pieces or page image in the work folder; the image paths in the data are placeholders (misc/???.jpg, misc/??? (1).jpg)." },
+  "ocr": { "status": "missing", "notes": "No transcript." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Not verifiable without an image. 1882-11-16 was a Thursday, consistent with a weekly paper." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "No image, no text and no summary; the image filename is unknown ('???'). Going by the title, this concerns Allen's November 1882 challenge to John L. Sullivan (see 097 and 099). The owner needs to locate the clipping and run prep again."
+}

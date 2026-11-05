@@ -1,0 +1,36 @@
+{
+  "id": "065",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "transcript has 'in the interest of the other party'; image reads 'in the interest of the Gypsey' (i.e. Mace); 'bluff any bluster to business' in image" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Bell's Life had not printed Tom Allen's acceptance of Jem Mace's challenge, which Allen said favored Mace. Allen said Mace would not fight and repeated his wish to meet him." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "no page image; filed as Post-Dispatch but 1876 predates the 1878-12 merger; masthead date not verified" },
+  "facts": [
+    {
+      "fact": "Allen wrote an acceptance of Jem Mace's challenge and sent it to Bell's Life in London, which did not publish it; Allen wrote to London asking for its return",
+      "date": "1876",
+      "people": ["Jem Mace"],
+      "places": ["London, England", "St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Mace had no intention of fighting for the championship of the two countries and repeated his desire to meet Mace in the prize ring whenever and wherever their friends chose",
+      "date": "1876-03",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's 'in the interest of the Gypsey' is a reported short quote, not recorded as a quote fact"
+}

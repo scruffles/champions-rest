@@ -1,0 +1,67 @@
+{
+  "id": "038",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "boat leaves at 9 o'clock Tuesday morning, not 7; image reads 'Jem Mace Morris' (one name), not 'Jem Mace, Morris'"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that the Allen–Gallagher prize fight set for Tuesday stirred little excitement, with Allen the betting favorite and the steamboat Belle Ida chartered to carry spectators."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "masthead reads THE MISSOURI REPUBLICAN ST. LOUIS, OCTOBER 30, 1870"
+  },
+  "facts": [
+    {
+      "fact": "Allen's prize fight with Gallagher was set for Tuesday, with the steamboat Belle Ida chartered to carry spectators from the foot of Walnut street, St. Louis; Allen was the betting favorite",
+      "date": "1870-11-01",
+      "people": [
+        "Gallagher"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jem Mace and Barney Aaron were named as Allen's seconds for the Gallagher fight",
+      "date": "1870-11-01",
+      "people": [
+        "Jem Mace",
+        "Barney Aaron"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Charley Gallagher is listed as one of Gallagher's seconds, so the opponent is a different Gallagher (James Cornelius Gallagher per article 039)."
+}

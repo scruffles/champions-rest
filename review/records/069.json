@@ -1,0 +1,76 @@
+{
+  "id": "069",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "includes subhead 'What he says of Donnelly, Coburn and Others—A Challenge to Coburn and his Friends'" },
+  "ocr": { "status": "good", "notes": "image reads 'return here on the 28th' (transcript 25th), 'while I am gone to Chicago', 'where a man can fight a week without being molested'; name printed Bruer, Brurer and Burer" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch printed Tom Allen's denial that he was leaving for England. He blamed Ned Donnelly (George Bruer) and Billy Allen of the Adelphi, and posted a $500 challenge to Joe Coburn." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Saloon", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "no page image; filed as Post-Dispatch but 1876 predates the 1878-12 merger; masthead date not verified" },
+  "facts": [
+    {
+      "fact": "Allen denied he was leaving St. Louis for England, saying he had lived there seven years and intended to stay",
+      "date": "1876-04-13",
+      "people": [],
+      "places": ["St. Louis", "England"],
+      "quote": "Do you think I would go from St. Louis, where I have lived seven years? No; I intend to live in St. Louis.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Donnelly's real name was George Bruer, a laborer he had trained as a boxer, and that he knocked Donnelly down after Donnelly broke their engagement to go to Chicago",
+      "date": "1876-04-11",
+      "people": ["Ned Donnelly (George Bruer)"],
+      "places": ["Washington Avenue saloon, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "000"
+    },
+    {
+      "fact": "Allen planned to go to Chicago to fill a sparring engagement and return to St. Louis on the 28th",
+      "date": "1876-04",
+      "people": [],
+      "places": ["St. Louis", "Chicago"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen refused to spar with Joe Coburn at Billy Allen's Adelphi Theater, saying Coburn had refused to spar with him in New York",
+      "date": "1876-04",
+      "people": ["Joe Coburn", "Billy Allen"],
+      "places": ["Adelphi Theater, St. Louis", "New York"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen authorized his backer Fred Watkins of 720 Main Street to accept any challenge from Coburn or his friends for $500 a side or more",
+      "date": "1876-04-13",
+      "people": ["Joe Coburn", "Fred Watkins"],
+      "places": ["720 Main Street, St. Louis"],
+      "quote": "I have made arrangements with Fred Watkins, my backer, of 720 Main street, to accept any challenge Coburn or his friends may offer for $500 a side or more, and if they mean business, the money will be up in two hours.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said the lease on his Washington Avenue saloon had expired because the building was to be torn down, and his goods were stored at 1222 Collins Street, not sold",
+      "date": "1876-04",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis", "1222 Collins Street, St. Louis"],
+      "quote": "The lease on the place I had expired and as they are going to tear down the old house, and re-build of course I had to get out, but I am looking for another place.",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "010"
+    }
+  ],
+  "needs_human": false,
+  "notes": "existing_fact 000 = 'pay dispute with Ned Donnelly'"
+}

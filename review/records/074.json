@@ -1,0 +1,36 @@
+{
+  "id": "074",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item. The page image is the same clipping, so no masthead is visible." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen and Joe Goss" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Allen had left Chicago for St. Louis, where he was expected to keep living, and that he and Joe Goss were both eager for a match." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "No masthead visible (page image is the clipping); date not verifiable. 1876 Dispatch items are filed as the St. Louis Evening Dispatch per rubric." },
+  "facts": [
+    {
+      "fact": "Allen left Chicago on Wednesday evening for St. Louis, not expected there before Monday; Fred Watkins thought he would continue to live in St. Louis",
+      "date": "1876-04-26",
+      "people": ["Fred Watkins"],
+      "places": ["Chicago", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Joe Goss were both said to be anxious to meet, with arrangements for a fight expected soon",
+      "date": "1876-04",
+      "people": ["Joe Goss"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Title typo 'Gross' should be 'Goss' (headline reads 'Tom Allen and Joe Goss'). Event date assumes the paper date 1876-04-28 (Friday), so Wednesday = April 26."
+}

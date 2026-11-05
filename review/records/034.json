@@ -1,0 +1,36 @@
+{
+  "id": "034",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "matches the image" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that the presentation of a belt to Tom Allen at the Theatre Comique was postponed a second time, owing to a caved-in sewer, poor lighting and Coburn's absence, until after his fight with Mace." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads 'The Missouri Republican--St. Louis, May 5, 1870'; page/column not determined" },
+  "facts": [
+    {
+      "fact": "The belt presentation to Allen at the Theatre Comique, St. Louis, was postponed a second time on May 4, 1870; Coburn, who was to spar with him, was out of town, and the presentation was put off until after the Mace fight",
+      "date": "1870-05-04",
+      "people": ["Joe Coburn"],
+      "places": ["Theatre Comique, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's fight with Jem Mace was set for May 10, 1870",
+      "date": "1870-05-10",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Contradicts existing fact 021 (belt presented April 29, 1870). Coburn's first name is not printed; assumed Joe Coburn."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "070",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article in three pieces, from headline decks to closing rule." },
+  "ocr": { "status": "good", "notes": "Minor slips: 'who is up in New York' should be 'who is now in New York'; 'whip him too' is printed 'to'; Coburn says 'he don't mean business' (OCR 'doesn't'); the 'ALLEN CHALLENGES COBURN.' subhead is omitted." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Allen, in Chicago, telegraphed that Joe Goss was not in America and offered to fight Joe Coburn with gloves for any money; Coburn called it an advertising dodge." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch, Monday Evening, April 17, 1876'; filed as the Evening Dispatch per rubric (pre-1878-12)." },
+  "facts": [
+    {
+      "fact": "Allen was in Chicago, appearing at the Chicago Adelphi, amid rumors he had left St. Louis to avoid Joe Coburn",
+      "date": "1876-04",
+      "people": ["Joe Coburn"],
+      "places": ["Adelphi, Chicago", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen telegraphed the Dispatch from Chicago that Joe Goss was not in the country and that the story was got up by Coburn and his friends",
+      "date": "1876-04-17",
+      "people": ["Joe Goss", "Joe Coburn"],
+      "places": ["Chicago"],
+      "quote": "I learn that Joe Goss is not in this country, as reported. This story was gotten up by Joe Coburn and his friends.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen challenged Joe Coburn to a glove fight for all the money Coburn could get; Coburn refused, calling it an advertising dodge, and offered only to fight for fun without gloves in St. Louis",
+      "date": "1876-04-17",
+      "people": ["Joe Coburn"],
+      "places": ["Chicago", "St. Louis"],
+      "quote": "Say through the DISPATCH for me, that I will fight Coburn with the gloves for all the money he can get.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jem Mace wrote to Coburn that Joe Goss had come to America on a special mission to fight Allen (Allen denied Goss was in the country)",
+      "date": "1876-04",
+      "people": ["Jem Mace", "Joe Goss", "Joe Coburn"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

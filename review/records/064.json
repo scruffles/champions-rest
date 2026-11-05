@@ -1,0 +1,36 @@
+{
+  "id": "064",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Fistic Compliments' item. No page image." },
+  "ocr": { "status": "good", "notes": "Matches the image; 'organized' should be 'got off'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Tom Allen's Gymnasium club held a Washington's Birthday entertainment honoring Ned Donnelly, Allen's trainer for the Rooke fight that did not come off, and that Allen sparred with Donnelly." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "No page image or masthead in the crop, so the date could not be checked; 'last night' in honor of Washington's birthday fits Feb. 22, consistent with a Feb. 23 paper. Pre-1878 Dispatch." },
+  "facts": [
+    {
+      "fact": "Allen sparred with his trainer Ned Donnelly at an entertainment held by Tom Allen's Gymnasium club in honor of Donnelly on Washington's Birthday",
+      "date": "1876-02-22",
+      "people": ["Ned Donnelly"],
+      "places": ["Tom Allen's Gymnasium club, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Ned Donnelly had trained Allen for the fight with George Rooke, which did not come off",
+      "date": "1876",
+      "people": ["Ned Donnelly", "George Rooke"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Paper prints 'Rook fight'; presumably George Rooke. Event date inferred from 'last night'."
+}

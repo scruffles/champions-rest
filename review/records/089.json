@@ -1,0 +1,36 @@
+{
+  "id": "089",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Short item, complete. No page image to check against." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Allen was living in Toronto, beyond the reach of Kentucky officers pursuing those involved in the Goss fight, since his offense was not extraditable." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "No page image, so date and masthead cannot be checked. 1877-02-23 is before 1878-12, so the Dispatch was not yet the Post-Dispatch. Current summary wrongly ties this to the McCoole fight; it is the Goss fight." },
+  "facts": [
+    {
+      "fact": "Allen was living in Toronto, Canada, out of reach of Kentucky authorities over the Goss fight, since his offense was not extraditable",
+      "date": "1877-02",
+      "people": [],
+      "places": ["Toronto, Canada"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "City Marshal Boland of Covington, Kentucky, who was pursuing those involved in the Goss-Allen fight, met Allen in Toronto",
+      "date": "1877-02-20",
+      "people": ["City Marshal Boland"],
+      "places": ["Toronto, Canada", "Covington, Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "'On Tuesday' taken as 1877-02-20, the Tuesday before the Friday 1877-02-23 paper."
+}

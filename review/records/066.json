@@ -1,0 +1,26 @@
+{
+  "id": "066",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "two pieces joined: the 'Variety Theatres' notice (pg 5 col 4) and the Theatre Comique advertisement (col 7)" },
+  "ocr": { "status": "good", "notes": "minor: 'Jutauz' is 'Jutau' in image; 'Ladies Admitted Free' line is 'This (FRIDAY) Evening'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republican reported that Tom Allen and Ned Donnelly were sparring with gloves in the crib scene of \"Tom and Jerry\" at the Theatre Comique, a star engagement closing that week." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Republican", "notes": "masthead reads 'The St. Louis Republican, Friday Morning, March 24, 1876' (pg 5), so kept as printed rather than Missouri Republican" },
+  "facts": [
+    {
+      "fact": "Allen and Ned Donnelly sparred with gloves nightly in the crib scene from \"Tom and Jerry\" in a one-week star engagement at the Theatre Comique, Pine Street between Third and Fourth, St. Louis",
+      "date": "1876-03",
+      "people": ["Ned Donnelly"],
+      "places": ["Theatre Comique, Pine Street between Third and Fourth, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": "000"
+    }
+  ],
+  "needs_human": false,
+  "notes": "existing_fact 000 = 'performs Tom and Jerry on stage' (id 000 is shared by several facts)"
+}

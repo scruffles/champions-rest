@@ -1,0 +1,56 @@
+{
+  "id": "086",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article in pieces across several columns, from the headline to 'Allen Arrested'. A pencil mark obscures a few words in crop-6/7." },
+  "ocr": { "status": "rough", "notes": "What is transcribed is accurate, but the transcript stops at the Twelfth Round of the special report; rounds 13-17, 'Goss Blind', the Associated Press report (all 21 rounds, the foul) and 'Allen Arrested' are missing." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Weekly Dispatch reported that Allen badly beat Joe Goss near Walton, Kentucky, on Sept. 7, 1876, but referee Eph Holland gave Goss the fight on a foul, and Allen was arrested at Newport." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'The Weekly Dispatch: St. Louis, Thursday, September 14, 1876', page 3. Before 1878-12, so not the Post-Dispatch; this is the weekly edition of the Dispatch (summary names it the Weekly Dispatch). The reports are dated Sept. 7, 1876, the day of the fight." },
+  "facts": [
+    {
+      "fact": "Allen fought Joe Goss in Kentucky; the first ring, at Rodemacher's farm three miles below Walton, was broken up by the Covington Light Guards after seven rounds, with Allen ahead and credited with first blood and first knockdown",
+      "date": "1876-09-07",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Rodemacher's farm, near Walton, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The fight was resumed the same day at a second ring on the Pat Lane farm near Walton, Boone County, Kentucky, and referee Eph Holland gave it to Goss on a foul in the 21st round for striking Goss while down; the fight lasted 1 hour 52 minutes",
+      "date": "1876-09-07",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Pat Lane farm, near Walton, Boone County, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's seconds against Goss were Tom Kelly and George Chambers; Goss was seconded by Barney Aaron and Johnny Dwyer",
+      "date": "1876-09-07",
+      "people": ["Tom Kelly", "George Chambers", "Barney Aaron", "Johnny Dwyer"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was arrested when the train from the fight arrived at Newport, Kentucky, and was held in the Newport jail",
+      "date": "1876-09-07",
+      "people": [],
+      "places": ["Newport, Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The two reports disagree on the round of the foul: the Dispatch special says the 17th round (Allen struck Goss while down), the Associated Press report says the 21st round and 11:50 a.m.; the headline says twenty-one rounds. Jem Mace was present. The headline says Allen was 'swindled out of the fight by the referee and the New York mob'."
+}

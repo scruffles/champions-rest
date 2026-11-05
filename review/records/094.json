@@ -1,0 +1,106 @@
+{
+  "id": "094",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headline to end; runs from column 1 into column 2 and the pieces are stitched" },
+  "ocr": { "status": "rough", "notes": "What is transcribed is accurate, but it stops mid-sentence at the July 10, 1861 fight; everything from 1861 on, including all of Allen's 1869-1870 fights and the closing paragraph on his rumored return, is missing. Small errors too (Gabaret for Gabree Island, 45° for 95°, Fahey for Fagan)" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post and Dispatch listed every prize fight in and around St. Louis since 1847, including Allen's 1869-1870 fights with Davis, the Gallaghers and McCoole, and reported a rumor he would return to St. Louis." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Page header reads 'St. Louis Post and Dispatch, Saturday, December 28, 1878', page 7" },
+  "facts": [
+    {
+      "fact": "Allen made his American ring debut against Bill Davis for $1,000, winning in 42 rounds",
+      "date": "1869-01-12",
+      "people": ["Bill Davis"],
+      "places": ["St. Louis vicinity"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost to Charley Gallagher on Carroll Island for $2,000 a side, knocked out by a round-arm blow to the neck in the second round",
+      "date": "1869-02-23",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Mike McCoole at Foster's Island for $1,000 a side; referee Val McKinney awarded McCoole the stakes",
+      "date": "1869-06-15",
+      "people": ["Mike McCoole", "Val McKinney"],
+      "places": ["Foster's Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Charley Gallagher in 11 minutes at Foster's Island",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher"],
+      "places": ["Foster's Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, staking $1,000 to $500, defeated James C. Gallagher",
+      "date": "1869-11-05",
+      "people": ["James C. Gallagher"],
+      "places": ["St. Louis vicinity"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and McCoole, rematched in July, were to fight on 10 November for the championship of America, but the match fell through when they could not agree on a final stakeholder",
+      "date": "1869-11-10",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat McCoole on Chouteau Island for $2,500 a side and the championship of America, cutting him up badly without receiving a scratch",
+      "date": "1870",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In the Hogan-Allen fiasco, Hogan's friends let the excursion boat drift to the East St. Louis shore, where several people prominent in the affair were arrested by Illinois authorities",
+      "date": "",
+      "people": ["Hogan"],
+      "places": ["East St. Louis, Illinois"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Rumor had it that Allen intended to return to St. Louis from England",
+      "date": "1878-12",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "OCR transcript needs to be completed from the image (crops 7-11). The paper puts the Chouteau Island win over McCoole in fall 1870 (it is usually dated 1873), and says Allen 'defeated Goss at Cincinnati' (Allen lost to Goss in 1876), so those are low confidence and the Goss claim is not recorded. The stake in the November 1869 McCoole match looks like $5,000 but is blurred. The Hogan fiasco matches an existing fact listed only under id 000, so it is left unlinked."
+}

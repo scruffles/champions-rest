@@ -1,0 +1,26 @@
+{
+  "id": "029",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item with headline 'Preparing for the Battle.'" },
+  "ocr": { "status": "good", "notes": "Drops 'in May next' after 'near New Orleans'; 'traing' in image is a misprint for training." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen was going into training at the Wash House, under Jack Gelding, for his $5,000-a-side fight with Jem Mace near New Orleans in May." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, March 29, 1870." },
+  "facts": [
+    {
+      "fact": "Allen went into training at the Wash House, under Jack Gelding, for his fight with Jem Mace near New Orleans in May for $5,000 a side",
+      "date": "1870-03-29",
+      "people": ["Jem Mace", "Jack Gelding"],
+      "places": ["Wash House", "New Orleans"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

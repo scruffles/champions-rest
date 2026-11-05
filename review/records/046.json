@@ -1,0 +1,36 @@
+{
+  "id": "046",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "'deri' should be 'defi' throughout; 'company' should be 'romany'; 'use for a flyer' is 'just for a flyer'; drops 'of M. A.' and reads 'hotterer' as 'harder'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republican reported Tom Allen's challenge to fight any man in the country for $10,000, aimed at Joe Coburn, and urged him to quit the ring while calling for Mudd's bill outlawing prize-fighting." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Republican", "notes": "page head reads THE ST. LOUIS REPUBLICAN, TUESDAY MORNING, JANUARY 13, 1874, page 5" },
+  "facts": [
+    {
+      "fact": "Allen sent a challenge to the New York World offering to back himself for $10,000 to fight any man in the country, aimed particularly at Joe Coburn of New York",
+      "date": "1874-01",
+      "people": ["Joe Coburn"],
+      "places": ["St. Louis", "New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A bill by Mr. Mudd to outlaw prize-fighting and match-making in Missouri was before the legislature that winter",
+      "date": "1874-01",
+      "people": ["Mudd"],
+      "places": ["Missouri"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "editorial also refers to 'that other fraud that swindled him out of his money at Omaha' without naming him"
+}

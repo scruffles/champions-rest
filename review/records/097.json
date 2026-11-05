@@ -1,0 +1,36 @@
+{
+  "id": "097",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Complete item with headline and subhead." },
+  "ocr": { "status": "good", "notes": "Dateline 'BOSTON, November 3' and subhead missing. Errors: 'John I. Sullivan' for John L.; 'Kilbride' printed 'Killbride'; 'posted with Hill' should be 'Harry Hill'; 'the representative' should be 'the champion's representative'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported from Boston that a match between John L. Sullivan and Tom Allen, just back from England, for $5,000 and the championship of the world was being arranged, to be fought within 100 miles of Kansas City." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Post-Dispatch, Thursday, November 2, 1882. The dispatch is datelined 'Boston, November 3', apparently a misprint for November 2." },
+  "facts": [
+    {
+      "fact": "A challenge issued on Allen's behalf to fight John L. Sullivan for $5,000 and the championship of the world was accepted by Sullivan, the fight to be within three months and within one hundred miles of Kansas City",
+      "date": "1882-11",
+      "people": ["John L. Sullivan", "Richard K. Fox", "Harry Hill"],
+      "places": ["Boston", "Kansas City"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, just returned from England, was in Boston with his backer and was to leave for New York the next day, to meet Sullivan's representative there on November 10 to arrange the match",
+      "date": "1882-11",
+      "people": ["John L. Sullivan"],
+      "places": ["England", "Boston", "New York"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "016"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Richard K. Fox's $1,000 forfeit was posted with Harry Hill; Sullivan's backer Kilbride was to cover it. The text implies but does not say outright that Allen himself was in Boston."
+}

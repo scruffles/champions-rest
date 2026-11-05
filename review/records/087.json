@@ -1,0 +1,46 @@
+{
+  "id": "087",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen arrives home after the Goss fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Weekly Dispatch reported that Allen arrived home in St. Louis from Cincinnati, unmarked after the Goss fight, and repeated that he would never again enter the ring." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'The Weekly Dispatch: St. Louis, Thursday, September 21, 1876', page 5. Before 1878-12, so not the Post-Dispatch; the weekly edition of the Dispatch. 'This morning' suggests it first ran in the daily a few days earlier." },
+  "facts": [
+    {
+      "fact": "Allen returned to St. Louis by train from Cincinnati after the Goss fight and went to Tom Kelly's saloon at 9 North Ninth Street",
+      "date": "1876-09",
+      "people": ["Tom Kelly"],
+      "places": ["Cincinnati, Ohio", "St. Louis", "Tom Kelly's saloon, 9 North Ninth Street, St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen weighed about 180 pounds after the Goss fight",
+      "date": "1876-09",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen repeated that he would never again enter the ring, saying that to win in the prize ring of the day a man must take his chances with thieves and duffers",
+      "date": "1876-09",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "031"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's remarks are reported speech, not verbatim, so no quote is given. He also said Goss had hurried to New York and would soon sail for England."
+}

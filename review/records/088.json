@@ -1,0 +1,15 @@
+{
+  "id": "088",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "no_crop", "notes": "No crop pieces or page image in the work folder." },
+  "ocr": { "status": "missing", "notes": "No transcript." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Cannot check without an image. 1876-09-22 is before 1878-12, so the Dispatch was not yet the Post-Dispatch." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "No image, transcript or summary; only the title ('Allen and Kelly appear on stage'). Focus and tag are guessed from the title. Needs the image (post-dispatch/St__Louis_Post_Dispatch_Fri__Sep_22__1876_.jpg) to review."
+}

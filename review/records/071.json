@@ -1,0 +1,36 @@
+{
+  "id": "071",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "'besieged' should be 'bearded' (bearded the former lion in his den); otherwise accurate." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Joe Coburn, at Hurst's hotel, said he would have nothing to do with Allen, bare-fisted or with gloves, and would leave for Chicago Monday as Allen returned to St. Louis." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch, Friday Evening, April 21, 1876'." },
+  "facts": [
+    {
+      "fact": "Joe Coburn refused any encounter with Allen, either bare-fisted or with gloves, saying he had had no personal communication with him",
+      "date": "1876-04-21",
+      "people": ["Joe Coburn"],
+      "places": ["Hurst's hotel, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was expected back in St. Louis from Chicago by Monday, as Coburn left St. Louis for a week's engagement at the Coliseum in Chicago",
+      "date": "1876-04-24",
+      "people": ["Joe Coburn"],
+      "places": ["Chicago", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "030",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item with headline 'Movements of Pugilists.'" },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Joe Coburn, newly arrived from California, visited Tom Allen's training quarters at the Wash House with Mike McCoole and Billy Carroll, and would reportedly second Allen against Jem Mace." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": false, "publication_ok": false, "publication": "Missouri Republican", "notes": "Page masthead reads The Missouri Republican, St. Louis, April 21, 1870 (not March 29); the item is on pg 3, col 4. Monday = April 18, Tuesday = April 19. The link (id 2198) is shared with 029 and 031." },
+  "facts": [
+    {
+      "fact": "Joe Coburn, just arrived from California, visited Allen's training quarters at the Wash House with Mike McCoole and Billy Carroll, a reunion of former ring rivals",
+      "date": "1870-04-19",
+      "people": ["Joe Coburn", "Mike McCoole", "Billy Carroll"],
+      "places": ["Wash House"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Coburn was reported to be Allen's second for his fight with Jem Mace on May 10",
+      "date": "1870-05-10",
+      "people": ["Joe Coburn", "Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The day of May is slightly blurred in the image (10th or 19th); 10th matches the transcript. Text says 'Wash Home', a misprint for Wash House (see 029)."
+}

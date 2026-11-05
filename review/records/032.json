@@ -1,0 +1,26 @@
+{
+  "id": "032",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole notice." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Grand Testimonial for Allen at Theatre Comique" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican announced a grand testimonial for Tom Allen, champion of America, at the Theatre Comique, Fifth and Biddle, on Saturday evening, April 30, where he would be presented with his colors and the champion belt of America." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, April 29, 1870. Current summary wrongly gives 1880." },
+  "facts": [
+    {
+      "fact": "A grand testimonial benefit for Allen, 'champion of America', was announced at the Theatre Comique, Fifth and Biddle, St. Louis, where he would be presented with his colors and the champion belt of America",
+      "date": "1870-04-30",
+      "people": [],
+      "places": ["Theatre Comique, Fifth and Biddle, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": "021"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fact 021 gives the belt presentation as April 29, 1870; this notice (dated April 29) sets it for Saturday April 30."
+}

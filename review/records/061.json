@@ -1,0 +1,26 @@
+{
+  "id": "061",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Matches the image; minor modernised spelling (Shakespeare for Shakspeare)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republican reported a rumor that Tom Allen was preparing for the stage, to debut in St. Louis as the hero of an American drama written for him, as Jem Mace had appeared on stage in New York." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Republican", "notes": "Masthead reads 'The St. Louis Republican, Sunday Morning, December 19, 1875', page 8, as printed." },
+  "facts": [
+    {
+      "fact": "Allen was rumored to be preparing a stage debut in St. Louis as the hero of an American drama written expressly for him",
+      "date": "1875-12",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper itself calls it a 'wild rumor'."
+}

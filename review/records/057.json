@@ -1,0 +1,36 @@
+{
+  "id": "057",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full article with headlines 'FIGHT. Tom Allen and Geo. Rooke. For $5,000 and the Championship.'" },
+  "ocr": { "status": "good", "notes": "'Harry Mill' should be 'Harry Hill'; 'recall' is 'call to mind'; 'wince' is 'whack'; 'Pittsburgh' printed 'Pittsburg'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republican reported that Tom Allen was matched to fight George Rooke of New York for $2,500 a side and the championship in the spring, and saw the match as a move against Allen by Joe Coburn's New York crowd." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Republican", "notes": "Masthead: 'The St. Louis Republican, Tuesday, February 16, 1875', page 8." },
+  "facts": [
+    {
+      "fact": "Allen was matched to fight George Rooke of New York for $2,500 a side and the championship, early in the spring, within 500 miles of New York at catch weights under London prize ring rules; Arthur Chambers put up a $250 binder for Allen",
+      "date": "1875-02",
+      "people": ["George Rooke", "Arthur Chambers"],
+      "places": ["New York"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A quiet feud existed between Allen and Joe Coburn; Allen had repeatedly challenged Coburn, and Coburn's crowd was said to have put Rooke up against him",
+      "date": "1875",
+      "people": ["Joe Coburn", "George Rooke"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

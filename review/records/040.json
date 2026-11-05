@@ -1,0 +1,36 @@
+{
+  "id": "040",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "minor: 'assented to by his opponent', not 'his associates'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that after the police broke up their fight, Tom Allen and J. C. Gallagher signed new articles to fight next Tuesday within fifty miles of Kansas City." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads THE MISSOURI REPUBLICAN ST. LOUIS, NOVEMBER 3, 1870" },
+  "facts": [
+    {
+      "fact": "Gallagher visited Allen at his saloon on Washington avenue and proposed fighting in Louisiana, Kansas, Arkansas or Kentucky; Allen agreed to any of them",
+      "date": "1870-11-02",
+      "people": ["J. C. Gallagher"],
+      "places": ["Allen's saloon, Washington avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    },
+    {
+      "fact": "Allen and J. C. Gallagher signed new articles to fight the following Tuesday within fifty miles of Kansas City, with other conditions unchanged and no excursion",
+      "date": "1870-11-02",
+      "people": ["J. C. Gallagher", "Jack Madden"],
+      "places": ["saloon on Locust street between Fourth and Fifth, St. Louis", "Kansas City"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "A later conference at the Broadgauge saloon (Allen, Kelly, Mike McCoole) made no changes; Allen expected a different agreement because Gallagher's backers feared losing their money."
+}

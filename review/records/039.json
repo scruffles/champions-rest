@@ -1,0 +1,86 @@
+{
+  "id": "039",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "long article in 11 pieces, complete from headline to end" },
+  "ocr": { "status": "rough", "notes": "transcript is accurate but stops partway (after the description of Allen's clothes); the second half is missing: Allen's remarks and quotes, the habeas corpus petition and court hearing, Allen's release, Gallagher's arrest at Carondelet and statement, the prize-fight law, and the 'No Fight' section" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that police arrested Tom Allen aboard the Belle Ida and Gallagher at Carondelet, breaking up their planned fight; Allen was freed the same day on a writ of habeas corpus." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads THE MISSOURI REPUBLICAN--ST. LOUIS, NOVEMBER 2, 1870" },
+  "facts": [
+    {
+      "fact": "Allen was arrested by Capt. Burgess of the St. Louis police aboard the steamboat Belle Ida at the levee before his fight with James C. Gallagher, and held at the Central police station",
+      "date": "1870-11-01",
+      "people": ["James C. Gallagher", "Capt. Burgess", "James McDonough"],
+      "places": ["Belle Ida, levee, St. Louis", "Central police station, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Gallagher was arrested the same morning at Carondelet; the fight had been planned for Foster's Island, 23 miles from St. Louis",
+      "date": "1870-11-01",
+      "people": ["James C. Gallagher"],
+      "places": ["Carondelet", "Foster's Island"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was released on a writ of habeas corpus granted by Judge Stewart of the court of criminal correction, with no charges brought against him",
+      "date": "1870-11-01",
+      "people": ["Judge Stewart", "Seymour Voullaire", "James McDonough"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In the calaboose Allen said Gallagher's backers should have told him their man was sick, mentioning that Pendergast's wife had told his wife",
+      "date": "1870-11-01",
+      "people": ["Patsy Curten", "Billy Pendergast"],
+      "places": ["Central police station, St. Louis"],
+      "quote": "Why didn't these men come and tell me their man (Gallagher) was sick? Had they told me, it would have saved all this trouble. Billy Pendergast's wife told my wife that he had been sick three days.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Asked whether he wanted anyone sent for, Allen asked that his wife not be told of his arrest",
+      "date": "1870-11-01",
+      "people": ["Patsy Curtin"],
+      "places": ["Central police station, St. Louis"],
+      "quote": "No; but don't let my wife know about this. I suppose there is no use getting bail.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he weighed 186 pounds after ten days' training, stood five feet ten and a half inches, and had been lightest (175 pounds) when he fought McCoole; he proposed to open a sparring school and abandon the ring",
+      "date": "1870-11-01",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Tom Kelly said the fight would not take place, since the articles said the stakes would not be forfeited in case of magisterial interference",
+      "date": "1870-11-01",
+      "people": ["Tom Kelly", "James C. Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Earlier in the article Allen is said to weigh 180 pounds stripped; later he says 186. The article shows Allen had a wife in St. Louis in 1870."
+}

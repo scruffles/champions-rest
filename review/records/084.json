@@ -1,0 +1,330 @@
+{
+  "id": "084",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole article in 15 pieces: special dispatch, AP report, second dispatch, arrest of Allen, Kentucky law, 'Going to the Fight' and 'Record of the Men'."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "What is transcribed matches the image, but the transcript stops at round seven of the special dispatch; the AP report, the resumed fight and foul, Allen's arrest, the Kentucky law, 'Going to the Fight' and 'Record of the Men' (most of the article) are missing. Also 'care-devil' should be 'dare-devil' and the 'shall not win' sentence is dropped."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen led Joe Goss for seven rounds near Walton, Ky., until militia broke up the fight; it resumed in Boone County, Goss won on a foul in the 21st round and Allen was arrested at Newport."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Legal",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Page masthead reads 'The St. Louis Republican, Friday Morning, September 8, 1876', page 5. Dispatches dated Sept. 7. Filed under Missouri Republican per the rubric."
+  },
+  "facts": [
+    {
+      "fact": "Allen and Joe Goss fought near Walton, Ky., on the Louisville Short Line 18 miles from Cincinnati, starting at 7:35 a.m.; the Covington Light Guard militia stopped it at the seventh round with Allen ahead",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "near Walton, Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The fight resumed in a second ring a short distance below Walton in Boone County; Goss won on a foul in the 21st round when Allen struck him while he was on his knees, at 11:50 a.m., after 1 hour 52 minutes",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Boone County, Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was arrested when the trains from the fight arrived at Newport, Ky.",
+      "date": "1876-09-07",
+      "people": [],
+      "places": [
+        "Newport, Kentucky"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Goss stayed at the Gibson House in Cincinnati the night before the fight; Allen's seconds were Tom Kelly and Arthur Chambers",
+      "date": "1876-09-06",
+      "people": [
+        "Joe Goss",
+        "Tom Kelly",
+        "Arthur Chambers"
+      ],
+      "places": [
+        "Gibson House, Cincinnati, Ohio"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen came from a fighting family in Birmingham, England, and learned gun-making as a youth",
+      "date": "",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": "002"
+    },
+    {
+      "fact": "Allen served in the army in the Crimean War and won several 'turn-ups' in front of Sevastopol, which convinced him he could be a champion",
+      "date": "",
+      "people": [],
+      "places": [
+        "Sevastopol, Crimea"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "003"
+    },
+    {
+      "fact": "Allen beat Jack Gould for 15 pounds a side in 51 rounds, 1 hour 22 minutes",
+      "date": "1861-09",
+      "people": [
+        "Jack Gould"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost to Bob Smith, an American Black fighter, after 108 rounds lasting 3 hours 57 minutes, for 5 pounds a side",
+      "date": "",
+      "people": [
+        "Bob Smith"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat George Iles for 100 pounds a side in 15 rounds, 52 minutes",
+      "date": "",
+      "people": [
+        "George Iles"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Joe Goss in England for 100 pounds a side; the fight lasted until night and was declared a draw",
+      "date": "",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Goss then matched himself with Allen's brother Harry for 100 pounds a side, but police arrested Harry and the fight never took place",
+      "date": "",
+      "people": [
+        "Harry Allen",
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen came to America with featherweight Peter Morris, arriving in 1867",
+      "date": "1867",
+      "people": [
+        "Peter Morris"
+      ],
+      "places": [
+        "England",
+        "United States"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "Allen's first fight in America was with Bill Davis for $1,000 a side, won by Allen in 40 rounds, 40 minutes",
+      "date": "1869-01",
+      "people": [
+        "Bill Davis"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Charley Gallagher of Cleveland knocked Allen out in two rounds, three minutes, for $1,000 a side",
+      "date": "1869",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Mike McCoole fought for $1,000; Allen had the best of it, but the crowd cut the ring and the fight was drawn after seven rounds",
+      "date": "1869-06",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Charley Gallagher in a rematch for $1,000 a side in 17 rounds, 22 minutes",
+      "date": "1869",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jem Mace beat Allen near New Orleans for $1,500 a side in 10 rounds, 44 minutes",
+      "date": "",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "near New Orleans, Louisiana"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Jim Gallagher for $500 a side in 15 rounds, 22 minutes",
+      "date": "",
+      "people": [
+        "Jim Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mike McCoole forfeited $1,000 on a match with Allen",
+      "date": "1870-12",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Mike McCoole near St. Louis in eight rounds, 19 minutes, in a match for $2,500",
+      "date": "1873-09",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Ben Hogan for $1,000 a side in three rounds, six minutes",
+      "date": "",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "George Rooke of Newark matched himself with Allen for $1,500 a side but did not appear; the stakes were drawn",
+      "date": "1875",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Headline says Goss won 'at the Twenty-Third Round' but the round-by-round AP report gives the foul in the 21st. 'Record of the Men' is reprinted from the Cincinnati Enquirer, so career facts are medium confidence; minor early English fights (Jack White, Morris Conner, Hall, Posh Price twice, 'Bingy' Rose, Jack Parkison) were left out. OCR transcript should be completed from the image."
+}

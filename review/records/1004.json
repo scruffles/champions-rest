@@ -1,0 +1,171 @@
+{
+  "id": "1004",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Clipping is a single column from the front page: it starts with the Shiloh monuments story (unrelated) and includes only the first column of the Allen obituary, ending 'in which Allen'. The right half of the headline ('…Tom Allen Has Gone to His Rest') and the second column (rest of the will paragraph, the 'TOM ALLEN.' portrait, and the final paragraphs) are outside the clipping. Facts from the second column were read from the full-resolution page."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Shiloh story transcribed with errors; obituary readable but '1830' for 1839, '1878' for 1879, '£50' as 'S0'. Second-column text not transcribed."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen, Former Champion, Dies at the Baptist Hospital"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, retired champion pugilist, died at the Baptist Hospital on April 5, 1903, and that a recent will left nearly everything to his nurse, Mrs. Hartgrave."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Personal life",
+    "Legal",
+    "Fights",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Globe-Democrat, Monday Morning, April 6, 1903, page 1. Full headline: 'Champion Tom Allen Has Gone to His Rest.'"
+  },
+  "facts": [
+    {
+      "fact": "Allen died at the Baptist Hospital, Garrison and Franklin avenues, at 7:35 a.m. on April 5, 1903, after being very low for several days",
+      "date": "1903-04-05",
+      "people": [],
+      "places": [
+        "Baptist Hospital, Garrison and Franklin avenues, St. Louis"
+      ],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": "042"
+    },
+    {
+      "fact": "Allen was taken to the Baptist Hospital on Friday, March 27, 1903, after three months of poor health",
+      "date": "1903-03-27",
+      "people": [],
+      "places": [
+        "Baptist Hospital, St. Louis"
+      ],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": "043"
+    },
+    {
+      "fact": "Allen was born in Birmingham, England, on April 23, 1839",
+      "date": "1839-04-23",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "high",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "According to his own record Allen fought fourteen prize-ring matches in England and ten in America",
+      "date": "",
+      "people": [],
+      "places": [
+        "England",
+        "America"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's last fight, by his own record, was with Jim Stewart in England on March 10, 1879, for £50 a side; it lasted fifty-five minutes and sixteen rounds and Allen won",
+      "date": "1879-03-10",
+      "people": [
+        "Jim Stewart"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen opened a saloon near the present Boatmen's Bank, Fourth Street and Washington Avenue, in 1868 (last digit faint, could be 1863) and remained a tenant of the real estate firm J. C. Kaime & Bro. ever since",
+      "date": "1868",
+      "people": [
+        "J. C. Kaime & Bro."
+      ],
+      "places": [
+        "Fourth Street and Washington Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At the time of his death Allen kept 'Tom Allen's Champion's Rest' at 619 Market Street",
+      "date": "1903-04",
+      "people": [],
+      "places": [
+        "Champion's Rest, 619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "A will made a few weeks earlier, witnessed by Dr. Heine Marks and Dr. C. A. Newcomb, left $10 to each of his daughters, Mrs. 'Polly' Taylor of St. Louis and one in England, and the rest to Mrs. Hartgrave, his housekeeper and nurse",
+      "date": "1903-03",
+      "people": [
+        "Polly Taylor",
+        "Tillie Hartgrove",
+        "Heine Marks",
+        "C. A. Newcomb"
+      ],
+      "places": [
+        "St. Louis",
+        "England"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "046"
+    },
+    {
+      "fact": "The paper said Allen had left a wife in England",
+      "date": "",
+      "people": [],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": "040"
+    },
+    {
+      "fact": "A man at the opening of Allen's strong box in a safe deposit vault said it held only $500; claims by the Hyde Park brewery ($350) and others, paid by Mrs. Hartgrave under power of attorney, used up all but a small balance",
+      "date": "1903-04",
+      "people": [
+        "Tillie Hartgrove"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": "045"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Recrop needed: include the full two-column headline and the second column of the obituary (below the portrait, ending '…after 64 years of eventful life on two continents'), and drop the Shiloh story above it. The 1868/1863 saloon date should be checked against the image (1868 fits his 1867 arrival). The will's '$10 to each daughter' differs from the index's '$10 to each of his two sisters'."
+}

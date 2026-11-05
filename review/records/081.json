@@ -1,0 +1,36 @@
+{
+  "id": "081",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headlines through the end." },
+  "ocr": { "status": "good", "notes": "Matches the image except the second bout was under 'Graeco-Roman rules', not 'fair catch rules'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen refereed the wrestling match at the Temple in which Thiebaud Bauer beat Julius Schroeder in two straight bouts, after Allen introduced visiting champions Arthur Chambers and Billy Edwards." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Page masthead reads 'The St. Louis Republican, Sunday Morning, May 7, 1876', page 10. Filed under Missouri Republican per the rubric (the paper's name until 1888)." },
+  "facts": [
+    {
+      "fact": "Allen refereed the wrestling match between Thiebaud Bauer and Julius Schroeder at the Temple in St. Louis, won by Bauer in two straight bouts",
+      "date": "1876-05-06",
+      "people": ["Thiebaud Bauer", "Julius Schroeder"],
+      "places": ["The Temple, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "030"
+    },
+    {
+      "fact": "Allen introduced the lightweight champions Arthur Chambers and Billy Edwards to the St. Louis audience on their arrival in the city",
+      "date": "1876-05-06",
+      "people": ["Arthur Chambers", "Billy Edwards"],
+      "places": ["The Temple, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Match was 'last night' in the Sunday May 7 paper, so Saturday May 6."
+}

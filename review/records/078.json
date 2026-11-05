@@ -1,0 +1,26 @@
+{
+  "id": "078",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Allen would box with pugilist Tom Kelly in the crib scene from \"Tom and Jerry\" at Kelly's benefit at the Theatre Comique, with wrestler Bauer also appearing." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch, Thursday Evening, May 4, 1876'; the Post-Dispatch name dates from 1878-12." },
+  "facts": [
+    {
+      "fact": "Allen was to box with Tom Kelly in the crib scene from \"Tom and Jerry\" at Kelly's benefit at the Theatre Comique",
+      "date": "1876-05-05",
+      "people": ["Tom Kelly", "Bauer"],
+      "places": ["Theatre Comique, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Matches the unnumbered (000) index entry 'performs Tom and Jerry on stage'. The item is about Kelly's benefit, so focus is secondary."
+}

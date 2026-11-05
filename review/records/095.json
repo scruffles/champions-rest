@@ -1,0 +1,15 @@
+{
+  "id": "095",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "no_crop", "notes": "No crop pieces or page image in the work folder; the files named in localCopyEdited/localCopyFull (post-dispatch/St__Louis_Post_Dispatch_Sat__Nov_22__1879_.jpg and '... (1).jpg') were not found in the project." },
+  "ocr": { "status": "missing", "notes": "No transcript." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Not verifiable without an image. 1879-11-22 was a Saturday, matching the filename; the St. Louis Post-Dispatch name is correct for that date." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "No image and no text, and no summary exists. Going by the title, Allen said he was open to fight anyone. The owner needs to find the source image and run prep again; a summary and facts can then be written."
+}

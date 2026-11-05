@@ -1,0 +1,50 @@
+{
+  "id": "051",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole ad; includes the 'Bars, Bars' and 'Mosquito, Mosquito' filler lines above and below, which are separate ads."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Ad for Tom Allen's Free and Easy"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Evening Dispatch ran an ad for Tom Allen's Free and Easy at 417 Washington Avenue, calling it the best and coolest place of amusement in the city, with the latest songs nightly and the champion keeping order."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Evening Dispatch",
+    "notes": "Masthead reads 'The Dispatch, Saturday Evening, August 15, 1874', matching the date. The Post-Dispatch did not exist until 1878-12."
+  },
+  "facts": [
+    {
+      "fact": "Allen advertised Tom Allen's Free and Easy at 417 Washington Avenue as a place of amusement with the latest songs every night, the champion keeping order",
+      "date": "1874-08-15",
+      "people": [],
+      "places": [
+        "417 Washington Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Not his first bar: he opened at 417 Washington in 1871 and earlier ran places in Cleveland and on Fifth Street."
+}

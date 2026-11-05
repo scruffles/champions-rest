@@ -1,0 +1,138 @@
+{
+  "id": "1003",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole story included; a small Mills & Averill Tailoring ad sits above the headline."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Most text readable but with errors in names and numbers ('Hartgrave' as printed; '$2%' for '$25', 'Swand's' for 'Wand's'); last paragraph partly garbled."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that friends of the gravely ill Tom Allen said he was being robbed, and that his daughter would ask the probate court to appoint a conservator over his property."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal",
+    "Saloon",
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, April 5, 1903, page 16. The paper spells the nurse's name 'Hartgrave'."
+  },
+  "facts": [
+    {
+      "fact": "Allen's friends planned to apply to the probate court on Monday, April 6, 1903 for a conservator, saying 'quasi strangers' were taking advantage of his mental condition to get his property; his daughter Mrs. Mary Taylor of 3427 Clark Avenue was to make the affidavit",
+      "date": "1903-04-06",
+      "people": [
+        "Mary Taylor"
+      ],
+      "places": [
+        "3427 Clark Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was proprietor of the Champion's Rest, a saloon and dance hall at 619 Market Street",
+      "date": "1903",
+      "people": [],
+      "places": [
+        "Champion's Rest, 619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Robert Lyons, Allen's bartender for sixteen years and now proprietor of his own place at 732 South Seventh Street, said Mrs. Tillie Hartgrave, Allen's housekeeper, gave Gillespie a bill of sale for the saloon for $52.60",
+      "date": "1903-04",
+      "people": [
+        "Robert Lyons",
+        "Tillie Hartgrove",
+        "J. W. L. Gillespie"
+      ],
+      "places": [
+        "732 South Seventh Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Lyons and Allen's daughter Mary Taylor went to the Baptist Hospital, where Allen had been for several days, and were refused permission to see him",
+      "date": "1903-04",
+      "people": [
+        "Robert Lyons",
+        "Mary Taylor"
+      ],
+      "places": [
+        "Baptist Hospital, St. Louis"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "044"
+    },
+    {
+      "fact": "Lyons said Mrs. Hartgrave had announced she would marry Allen as soon as she won the divorce she was suing for in the St. Louis circuit court; her maiden name was Sachs, her husband had been a salesman for Nelson Morris & Co. of Chicago, and she came from Kansas City",
+      "date": "1903-04",
+      "people": [
+        "Tillie Hartgrove",
+        "Robert Lyons"
+      ],
+      "places": [
+        "Kansas City",
+        "Chicago"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On April 3, 1903 Gillespie, an attorney and a notary came from Allen's room with a second bill of sale bearing Allen's 'mark', under which Gillespie would pay the hospital $25 a week for Allen's care if the Champion's Rest earned that much above expenses",
+      "date": "1903-04-03",
+      "people": [
+        "J. W. L. Gillespie"
+      ],
+      "places": [
+        "Baptist Hospital, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "It was rumored that others were trying to sell Allen's horse and buggy at Wand's livery stable, that his safety deposit box had been opened and $500 taken, and that a gold watch and chain given him by admirers and the deeds to his property were missing",
+      "date": "1903-04",
+      "people": [],
+      "places": [
+        "Wand's livery stable, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Index facts without ids also cover the deposit box and the horse."
+}

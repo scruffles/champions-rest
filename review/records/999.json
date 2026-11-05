@@ -1,0 +1,36 @@
+{
+  "id": "999",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Clipping is the continuation of the 'Pugilism' sports column (Dunleavy/Cornwell, Creedon, Erne, Ruhlin/Sharkey items). Allen appears only in one sentence of the Dan Creedon paragraph, which is fully inside the clipping; the column's start and end are outside it."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable, many errors; the Allen sentence is readable ('Tom Al-len'). End of transcript is garbled."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat, writing about Dan Creedon's latest defeat, said Dannie Daly, Tom Kelly and Tom Allen had been real St. Louis champions but belonged to an earlier, \"mastodonic\" period of boxing."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, April 20, 1902, page 14."
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Single passing mention; no biographical facts beyond Allen being remembered as a former St. Louis champion."
+}

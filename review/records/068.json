@@ -1,0 +1,46 @@
+{
+  "id": "068",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "image reads 'Tom stopped Ned under the chin' (not 'tapped'), 'Goss ever contemplated such an action' (not 'took'), 'promptly accept'; subhead 'Canstable' is a printing error" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Ned Donnelly had the outfit of Tom Allen's saloon attached over a $125 claim after Allen struck him, and that Allen would open a new saloon at 611 Fifth Street." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon", "Legal", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "masthead reads 'St. Louis Dispatch, Wednesday Evening, April 12, 1876'; pre-1878 Dispatch filed as St. Louis Evening Dispatch per rubric" },
+  "facts": [
+    {
+      "fact": "Ned Donnelly claimed $125 from Allen for five lessons at $25 each; when Allen struck him, Donnelly had a constable attach the outfit of Allen's saloon, and the counters and bottles were hauled away",
+      "date": "1876-04-11",
+      "people": ["Ned Donnelly"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "000"
+    },
+    {
+      "fact": "Allen was expected to open another saloon at 611 Fifth Street within a few days, and said he never intended to return to England",
+      "date": "1876-04",
+      "people": [],
+      "places": ["611 Fifth Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "010"
+    },
+    {
+      "fact": "Allen dismissed a Philadelphia report that Joe Goss had come to America to challenge him, saying he would accept a challenge from Goss or anyone for as big stakes as desired",
+      "date": "1876-04",
+      "people": ["Joe Goss"],
+      "places": ["Philadelphia"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "existing_fact 000 = 'pay dispute with Ned Donnelly'"
+}

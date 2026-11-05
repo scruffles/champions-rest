@@ -1,0 +1,36 @@
+{
+  "id": "056",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Paragraph within the Amusements column; complete." },
+  "ocr": { "status": "good", "notes": "Minor: 'all such exhibitions' in image; 'to-night'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that authorities stopped a planned sparring exhibition between Tom Allen and Jimmy Walsh at the Comique under a new state law, so Allen appeared in his champion's belt and sang three or four songs instead." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'The Dispatch: St. Louis, Friday Evening, January 22, 1875'." },
+  "facts": [
+    {
+      "fact": "A sparring exhibition between Allen and Jimmy Walsh of London at the Comique, St. Louis, was stopped by authorities under a new Missouri statute prohibiting public sparring exhibitions",
+      "date": "1875-01-21",
+      "people": ["Jimmy Walsh"],
+      "places": ["Comique theatre, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen appeared on stage at the Comique wearing his champion's belt and, at the audience's demand, sang three or four songs",
+      "date": "1875-01-21",
+      "people": [],
+      "places": ["Comique theatre, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

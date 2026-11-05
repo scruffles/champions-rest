@@ -1,0 +1,46 @@
+{
+  "id": "090",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline, subhead and full Kelly interview present" },
+  "ocr": { "status": "good", "notes": "Subheadline omitted; minor wording slips ('full as ready', 'regular fight')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Allen had turned up in London matched with Tompkins Gilbert for £50 a side; Tom Kelly explained it was a sparring match with blackened hands, not a ring fight." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Exhibitions", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch', Saturday evening, September 29, 1877" },
+  "facts": [
+    {
+      "fact": "Allen was reported to be in London, having left St. Louis under a cloud owing mostly to unfortunate business ventures",
+      "date": "1877",
+      "people": [],
+      "places": ["St. Louis", "London, England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "015"
+    },
+    {
+      "fact": "Allen was matched in London against Tompkins Gilbert, styled champion sparrer of England, in a sparring match for £50 a side",
+      "date": "1877",
+      "people": ["Tompkins Gilbert"],
+      "places": ["London, England"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was described as having resided in St. Louis over ten years and gained the title of Champion of America",
+      "date": "1877",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Gilbert match details come secondhand from Tom Kelly, interviewed at his saloon, 11 North Sixth Street."
+}

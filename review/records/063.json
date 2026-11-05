@@ -1,0 +1,46 @@
+{
+  "id": "063",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Tom Allen' interview from the 5 P.M. Extra column." },
+  "ocr": { "status": "good", "notes": "Mostly right, but 'tending to his menagerie' should read 'tending to his little poultry business'; also 'hasn't' for 'hain't', 'anybody else thinks' for 'any body else think', 'someone' for 'somebody'. The opening 'Well, I think' of Allen's first answer is partly obscured by a fold." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch interviewed Tom Allen, who said business was dull, that Jem Mace never meant to come to America to fight, and that though retired he would fight anyone and cover any amount." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Profiles", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch ... Monday Evening, February 7, 1876', matching the date. Item is in the 5 P.M. Extra column." },
+  "facts": [
+    {
+      "fact": "Allen said Jem Mace never intended to come to America to fight and was telling the English he had challenged Allen and that Allen would not fight",
+      "date": "1876-02-07",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis"],
+      "quote": "Jem Mace has never intended to come to America to do any fighting. He is tending to his little poultry business and giving sparring exhibitions, telling the English people he has challenged me and that I wouldn't fight him.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had retired from the ring but would fight Mace or anyone else and cover any amount",
+      "date": "1876-02-07",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis"],
+      "quote": "So I have, but then I'll not stand any bullying. If Jem Mace or any body else think they can whip me let 'em stick the stamps; I'll cover any amount.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had only retired until an opportunity came to get back in the ring",
+      "date": "1876-02-07",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "I have only retired from the ring until opportunity is offered for me to get back in; or somebody feels a pressing desire to take the champion's belt from me. In other words, business is dull and I'm open for engagements.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen also predicted Carteron would beat Rigal in a wrestling match at the Comique and said he held over $600 in stakes (stakeholder detail skipped)."
+}

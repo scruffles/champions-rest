@@ -1,0 +1,26 @@
+{
+  "id": "080",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item under 'The Prize Ring' heading." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reprinted a New York Sun report that Joe Goss had come to America to fight Tom Allen, and that a match was made in Cincinnati through William Allen, with a $500 forfeit put up." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch, Friday Evening, May 5, 1876'. Before 1878-12, so not the Post-Dispatch. Item is reprinted from the New York Sun of the day before." },
+  "facts": [
+    {
+      "fact": "A match between Allen and Joe Goss was made in Cincinnati: William Allen, authorized by Tom Allen, put up a $500 forfeit, covered by Goss's admirer John Brown, with Eph. Holland of Cincinnati as stakeholder",
+      "date": "1876-05",
+      "people": ["Joe Goss", "William Allen", "John Brown", "Eph. Holland"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The facts index has an unnumbered (000) fact about a relative named William in Cincinnati scheduling a match; this is probably that fact."
+}

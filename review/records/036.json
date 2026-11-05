@@ -1,0 +1,26 @@
+{
+  "id": "036",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "whole 'Items About Women' column; the Allen line is one short item in the first piece" },
+  "ocr": { "status": "good", "notes": "transcript is readable but omits the only Allen item: 'Tom Allen, the prize-fighter, has a pretty sister teaching school in Corydon, Ind.' (after the Paris typesetting item)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen's Sister Teaches School in Corydon" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican's \"Items About Women\" column noted in passing that Tom Allen, the prize-fighter, had a pretty sister teaching school in Corydon, Indiana." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads 'The Missouri Republican, St. Louis, Sunday Morning, June 12, 1870'; column is on page 1" },
+  "facts": [
+    {
+      "fact": "Allen had a sister teaching school in Corydon, Indiana",
+      "date": "1870-06",
+      "people": [],
+      "places": ["Corydon, Indiana"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "013"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Transcript should be corrected to include the Allen line. Current summary does not mention Allen at all."
+}

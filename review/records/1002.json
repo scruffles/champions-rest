@@ -1,0 +1,94 @@
+{
+  "id": "1002",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Clipping is a full column strip: 'Robbery in Office Building', the end of the Mrs. Burdette portrait story, the Allen story 'Champion's Rest Has New Troubles' (complete, crops 3-4), 'Wrecked the Safe, But Got No Booty', and part of a Browning, King & Co. ad. Only the 'Champion's Rest' story is about Allen."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Allen story mostly readable, but diagonal scan lines garble several sentences ('wos Shey ante Nara' for 'old man had been buncoed'); unrelated items and ad text included."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that J. W. L. Gillespie, who had bought Tom Allen's Champion's Rest on Market Street, was driven off at gunpoint by bartender John Murphy when he tried to take possession."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Saloon",
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Friday Morning, April 3, 1903, page 14. Headline: 'Champion's Rest Has New Troubles'."
+  },
+  "facts": [
+    {
+      "fact": "J. W. L. Gillespie, owner of the Klondyke saloon, was given a bill of sale for Allen's Champion's Rest, a concert hall and saloon on Market Street, on Monday evening, March 30, 1903, and stocked the place the next morning",
+      "date": "1903-03-30",
+      "people": [
+        "J. W. L. Gillespie"
+      ],
+      "places": [
+        "Champion's Rest, Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "When Gillespie went to take possession on April 2, 1903, bartender John Murphy, who had run the saloon since Allen's illness, met him with a revolver and ordered him out",
+      "date": "1903-04-02",
+      "people": [
+        "J. W. L. Gillespie",
+        "John Murphy"
+      ],
+      "places": [
+        "Champion's Rest, Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Murphy said Polly Taylor, a near relative of Allen, had been told Allen was 'buncoed' and was non compos mentis when he signed the bill of sale",
+      "date": "1903-04-02",
+      "people": [
+        "John Murphy",
+        "Polly Taylor"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Gillespie said several doctors were present at the Baptist Hospital when Allen read and signed the papers, and that Allen wanted the place transferred because goods were being sold at cut rates without accounting",
+      "date": "1903-04-02",
+      "people": [
+        "J. W. L. Gillespie"
+      ],
+      "places": [
+        "Baptist Hospital, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Index has a related fact without an id ('J.W.L. Gillespie tried to take possession of Allen's bar…')."
+}

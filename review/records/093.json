@@ -1,0 +1,76 @@
+{
+  "id": "093",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headline through the closing paragraph; it runs into a second column and the pieces are stitched together" },
+  "ocr": { "status": "rough", "notes": "Main text mostly right, but '1859' should be 1869 and '$1,900' should be $1,500; subheads missing; the ending (McKinney's written decision for McCoole, the November rematch at Chouteau Island, the Mace-Coburn fiasco, Harry Hill's) is missing entirely" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Post looked back on St. Louis as a prize-ring center, noting Allen was in England and recalling his 1869 fights with Mike McCoole, including his speech to a hostile crowd." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights", "Profiles", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Post", "notes": "Page header reads 'St. Louis Evening Post, Saturday, August 10, 1878', page 7" },
+  "facts": [
+    {
+      "fact": "Allen was in England, and well-informed parties said he intended to return to St. Louis to end his days there",
+      "date": "1878-08",
+      "people": [],
+      "places": ["England", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's establishment on Washington Avenue was a favorite resort of fighting men passing through St. Louis",
+      "date": "",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "009"
+    },
+    {
+      "fact": "In May 1869 Allen and Mike McCoole signed articles to fight under London prize ring rules for $1,000 a side on June 15",
+      "date": "1869-05",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Mike McCoole at Foster's Island, 26 miles below St. Louis; after 17 rounds referee Val McKinney gave the fight to McCoole on a claimed foul for gouging, amid threats from McCoole's armed friends",
+      "date": "1869-06-15",
+      "people": ["Mike McCoole", "Val McKinney"],
+      "places": ["Foster's Island, Mississippi River, below St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Before the McCoole fight Allen addressed the hostile crowd, saying he had declared his intention to become a US citizen two years earlier",
+      "date": "1869-06-15",
+      "people": ["Mike McCoole"],
+      "places": ["Foster's Island, Mississippi River, below St. Louis"],
+      "quote": "Gentlemen, I have no money, or I would freely bet it, and I am very sorry that so much prejudice exists in regard to my nationality. I declared my intention to become a citizen of the United States two years ago, and, if you will give me time enough, I will prove myself as worthy a citizen as any of you. I came here to-day to fight this gentlemen, and all I ask of you is to give me a fair show. I ask no favors. I have no money, but I am going to try to win some, and will do my best.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat McCoole in a rematch for $2,500 a side and the championship of America at Chouteau Island, in 17 rounds, McCoole's sponge being thrown up",
+      "date": "1869-11-10",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, Mississippi River, near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper dates the Chouteau Island rematch 10 November 1869, which looks like a conflation: Allen's 1869-11-10 fight was with Charley Gallagher, and his win over McCoole at Chouteau Island is usually dated 1873. Hence low confidence. McCoole's levee work in New Orleans matches existing fact 023 but is about McCoole, so it is not recorded."
+}

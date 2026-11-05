@@ -1,0 +1,37 @@
+{
+  "id": "073",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "no_crop",
+    "notes": "No crop pieces or page image in the work folder."
+  },
+  "ocr": {
+    "status": "missing",
+    "notes": "No transcript."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": true,
+    "suggested": ""
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "St. Louis Evening Dispatch",
+    "notes": "Date and paper not verifiable without an image; 1876 Dispatch items are filed as the St. Louis Evening Dispatch per rubric."
+  },
+  "facts": [],
+  "needs_human": true,
+  "notes": "No image and no text. The existing summary (Allen expected to face Joe Goss; mentions McCoole and Mace) cannot be checked and is in an editorial style the house style avoids. Needs the image (post-dispatch/St__Louis_Post_Dispatch_Tue__Apr_25__1876_.jpg). Focus defaults to primary (no focus set in data)."
+}

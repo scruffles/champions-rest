@@ -1,0 +1,66 @@
+{
+  "id": "059",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Two consecutive items under THE CITY: the Mace challenge story and a short follow-up 'Allen Returned. No Truth in the Report of a Fight.' Both about Allen." },
+  "ocr": { "status": "good", "notes": "Several errors: image has '$5,000 aside' and '$2,500 aside' where OCR has pounds; 'will give him a grand benefit'; 'back up their opinions with big money'; final item 'it may be accepted' not 'realized'. Place printed 'Neenerville' (Kennerville)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Prospects of a fight between Tom Allen and Jem Mace" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Jem Mace challenged Tom Allen from London and that Allen accepted, but a later item the same day said Allen, back from Chicago, called the report of a match a fraud." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch', Saturday Evening, November 20, 1875; named per rubric rule for pre-1878 Dispatch." },
+  "facts": [
+    {
+      "fact": "After the failed Rooke match, Allen issued a challenge to fight any man in or out of the country for $2,500 to $5,000 a side and the championship of the world, catch weights, London rules",
+      "date": "1875",
+      "people": ["George Rooke"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A letter signed by Jem Mace, dated London Oct. 27, challenged Allen to fight within fifty miles of Detroit or Pittsburgh for £200 or £1,000 a side, saying Mace would sail from London Dec. 5",
+      "date": "1875-10-27",
+      "people": ["Jem Mace"],
+      "places": ["York Hotel, Waterloo Road, London", "Detroit", "Pittsburgh"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mace's letter stated he beat Allen at Kennerville (printed 'Neenerville'), Louisiana, in May 1870, in ten rounds and forty-four minutes, for $2,500 a side and the title",
+      "date": "1870-05",
+      "people": ["Jem Mace"],
+      "places": ["Kennerville, Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen went to Chicago and was reported to have met Harry Hill and Barney Aaron and signed articles for a $5,000-a-side fight with Mace",
+      "date": "1875-11-18",
+      "people": ["Harry Hill", "Barney Aaron", "Mike McDonald", "Jem Mace"],
+      "places": ["St. Louis", "Chicago"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen returned from Chicago and said there was no truth in the report that he had put up a forfeit for a fight with Mace, calling the whole thing a fraud",
+      "date": "1875-11-20",
+      "people": ["Jem Mace"],
+      "places": ["Chicago", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper contradicts itself: the main story reports the Mace challenge and signed articles, the follow-up says Allen denied it and Mace was in Leeds in the poultry business."
+}

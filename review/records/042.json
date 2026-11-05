@@ -1,0 +1,36 @@
+{
+  "id": "042",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "several errors: stakes are $1,000 a side and the money $2,000 (not pounds); 'About 9 o'clock' not 5; ropes 'used in New Orleans when Mace and Allen fought' (not 'when Tom Allen fought'); Holcomb was 'formerly yard-master' of the Kansas Pacific; headquarters St. Nicholas Hotel 'and Billy Carroll's theatre'; credit line '[From the Kansas City Times.]' omitted; quotes paraphrased" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican, reprinting the Kansas City Times, reported that Joe Coburn failed to appear near Kansas City and Jem Mace was awarded the stakes, with Tom Allen acting as master of ceremonies." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads THE MISSOURI REPUBLICAN, ST. LOUIS, TUESDAY MORNING, JUNE 6, 1871; article is reprinted from the Kansas City Times, and the events were on June 2, 1871" },
+  "facts": [
+    {
+      "fact": "Allen arrived in Kansas City with Jem Mace and trainer Jim Cusick for the Mace–Coburn fight, taking rooms at the St. Nicholas Hotel",
+      "date": "1871-06-01",
+      "people": ["Jem Mace", "Jim Cusick"],
+      "places": ["St. Louis", "Kansas City", "St. Nicholas Hotel, Kansas City"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen acted as master of ceremonies when Mace entered the ring near Kansas City and was declared winner of the $1,000-a-side stakes after Joe Coburn failed to appear",
+      "date": "1871-06-02",
+      "people": ["Jem Mace", "Joe Coburn", "Dick Hollywood"],
+      "places": ["behind John J. Mastin's residence, near Kansas City"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The ring ropes and stakes were the same ones used in New Orleans when Mace and Allen fought (1870)."
+}

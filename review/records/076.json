@@ -1,0 +1,15 @@
+{
+  "id": "076",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "no_crop", "notes": "No crop pieces or page image were produced; the source files (post-dispatch/St__Louis_Post_Dispatch_Tue__May_2__1876_.jpg) were not available locally." },
+  "ocr": { "status": "missing", "notes": "No transcript." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Not checked against a masthead (no image). A May 1876 'Dispatch' item is the St. Louis Evening Dispatch; the Post-Dispatch name dates from 1878-12." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Article has no text, no summary and no available image; it needs the image located, transcribed and summarized. The title suggests it covers Goss's challenge (see 077, the same challenge in the Republican)."
+}

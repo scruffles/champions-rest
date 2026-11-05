@@ -1,0 +1,36 @@
+{
+  "id": "062",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, with the St. Louis Dispatch dateline 'Tuesday, February 1' at the top. No page image." },
+  "ocr": { "status": "good", "notes": "Matches the image; omits the subhead, the 'From the Chicago Times' credit and the 'New York, January 27' dateline; 'Sharvard Street' should be 'Harvard Street'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch, reprinting the Chicago Times, reported New York talk after Johnny Dwyer beat Steve Taylor, noting that champion Tom Allen awaited Jem Mace and might seek a rematch with Dwyer, who had once beaten him." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Crop shows the 'St. Louis Dispatch' nameplate, 'Tuesday ... February 1'; Feb. 1, 1876 was a Tuesday. Reprinted from the Chicago Times, New York dispatch of Jan. 27. No page image to check further." },
+  "facts": [
+    {
+      "fact": "Allen, holding the title of champion of America, was said to be awaiting the arrival of Jem Mace in America, and to be ready to seek another match if Mace did not come",
+      "date": "1876-01",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Johnny Dwyer was said to have beaten Allen several years earlier in a contest at Central Hall on the Bowery, New York",
+      "date": "",
+      "people": ["Johnny Dwyer"],
+      "places": ["Central Hall, Bowery, New York"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mostly about the Dwyer-Taylor glove contest; Allen appears in one paragraph. Taylor offered to fight any man in America except Allen."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "085",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Bottom cut off: the headline promises 'His Benefit at Robinson's Opera-House', and on the page the article continues below 'a trick.' with a further section (subhead partly visible at the bottom of crop-3) that is not in the clipping." },
+  "ocr": { "status": "good", "notes": "Matches the image closely (image reads 'Porkopolis', 'Frence Nation' typo in print). Transcript ends where the clipping ends, so the benefit section is missing." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reprinted a Cincinnati Gazette report that Allen was released on $3,000 bail at Covington after the Goss fight, and that he accused referee Eph Holland of dishonesty." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "Masthead reads 'St. Louis Dispatch, Wednesday Evening, September 13, 1876'. Before 1878-12, so filed as the St. Louis Evening Dispatch, not the Post-Dispatch. Item is reprinted 'From the Cincinnati Gazette of Yesterday' (Sept. 12)." },
+  "facts": [
+    {
+      "fact": "After the Goss fight Allen was released from custody in Covington, Kentucky, when Judge Perkins of the Kenton Criminal Court reduced his bail to $3,000 on a writ of habeas corpus",
+      "date": "1876-09-11",
+      "people": ["Judge Perkins", "D. D. Farrell", "Wilson J. Farrell"],
+      "places": ["Kenton Criminal Court, Covington, Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On his release Allen left Covington for Cincinnati, where crowds followed him through the streets",
+      "date": "1876-09-11",
+      "people": [],
+      "places": ["Covington, Kentucky", "Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had put up his own stake money and now believed referee Eph Holland had used it against him, and claimed that in a fair fight he could have whipped Goss in half an hour",
+      "date": "1876-09",
+      "people": ["Eph Holland", "Joe Goss"],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A benefit for Allen was announced at Robinson's Opera-House in Cincinnati",
+      "date": "1876-09",
+      "people": [],
+      "places": ["Robinson's Opera-House, Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Release date taken as the day before the Gazette of Sept. 12 ('yesterday morning'). The benefit fact comes only from the headline; the section describing it is outside the clipping. Allen's statements are reported speech, not verbatim quotes."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "047",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "minor slips: 'where he calls himself' is 'whereof he calleth himself'; 'work me' is 'mark me'; 'fighter' is 'fightist'; 'say any more against me' is 'agin me'; dialect 'foight'/'whoame' normalized" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republican interviewed Tom Allen at his Washington Avenue saloon, where he called the bill against prize-fighting unnecessary yet agreed the ring was so corrupt that a fair fight was impossible." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Profiles", "Legal", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Republican", "notes": "page head reads THE ST. LOUIS REPUBLICAN, FRIDAY MORNING, FEBRUARY 20, 1874, page 8; interview took place 'yesterday'" },
+  "facts": [
+    {
+      "fact": "Allen was interviewed at his saloon on Washington Avenue by the tunnel in St. Louis",
+      "date": "1874-02-19",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said the Missouri law against prize-fighting was unnecessary because fights were always held outside the state",
+      "date": "1874-02-19",
+      "people": [],
+      "places": ["Missouri", "Illinois", "Louisiana"],
+      "quote": "I think it's unnecessary and uncalled for in this state.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said the ring had become so corrupt that he sided with the legislature",
+      "date": "1874-02-19",
+      "people": [],
+      "places": [],
+      "quote": "I side with the legislature about this bill against prize-fighting. If it's got so that there can't be a fair fight, why, stop it.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said his name had been put in the bill and denied being a refugee, saying he meant to stay in St. Louis",
+      "date": "1874-02-19",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "I'm no refugee; I can go back whenever I want to go. I'm a prize-fighter, and they can't say any more agin me than that. No man can ever say I've done wrong against him. I came here to live, and I'm going to stay here.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Arthur Chambers and Billy Edwards were coming to St. Louis about March 7 to give sparring exhibitions at Deagle's for a week, to test Mudd's bill",
+      "date": "1874-03-07",
+      "people": ["Arthur Chambers", "Billy Edwards", "Deagle"],
+      "places": ["Deagle's Theatre, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Washington Avenue saloon is likely the 417 Washington Ave concert hall (facts 009/017), but no number is given"
+}

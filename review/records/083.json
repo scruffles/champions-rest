@@ -1,0 +1,26 @@
+{
+  "id": "083",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole short item." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Apologizes to the New York Clipper" },
+  "summary": { "ok": false, "suggested": "The St. Louis Evening Dispatch reported that Tom Allen had published an apology admitting he had written unjust criticism of the New York Clipper, and that a Clipper interview with him might soon follow." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "St. Louis Evening Dispatch", "notes": "No page image, so masthead and date cannot be checked; source file name says Aug 11, 1876. Before 1878-12, so not the Post-Dispatch." },
+  "facts": [
+    {
+      "fact": "Allen published an apology (amende honorable) admitting he had written unjust criticism of the New York Clipper",
+      "date": "1876-08",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary mentions Mike McCoole and Jem Mace, who are not in the item."
+}

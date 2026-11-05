@@ -5,6 +5,7 @@
 ### Added
 - Article review pipeline (`npm run review`): a restartable checklist of all 1,010 articles, a review rubric, per-article review records, a generated issues list and a findings file
 - Pilot review of 20 key articles (crop, OCR, title, summary, importance, tags, paper name and extracted facts)
+- Full review of all 1,010 articles: 2,194 extracted facts (455 linked to existing facts, 230 quotes), proposed title/summary/paper fixes, 440 articles flagged for new screenshots or checks in `review/ISSUES.md`, cross-article conflicts in `review/FINDINGS.md`. Not yet merged into the site data
 
 ## 2026-11-03
 
@@ -63,8 +64,13 @@
 - Update Record page format with more textual summaries and quotes
 - Check two likely date typos in `data/fights.js`: George Rooke "1978-07-15" and Cleary "1978 ish" (probably 1878); they currently show under "Uncertain dates"
 
+### Article review follow-up
+- Merge approved review records into `data/database.js` (titles, summaries, focus, tags, paper names at the time)
+- Consolidate the 2,194 extracted facts into `data/facts.js`, keeping existing fact ids
+- Resolve the conflicts in `review/FINDINGS.md` (birth year, 1869 Gallagher result, burial place, saloon address, duplicates)
+- Re-capture the articles in `review/ISSUES.md` from newspapers.com
+
 ### Biography
-- Extract new facts from the 736 new articles (dates, opponents, locations, results, quotes)
 - Build a new, more complete biography grounded in primary sources
 
 ### Timeline
