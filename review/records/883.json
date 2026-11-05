@@ -1,0 +1,61 @@
+{
+  "id": "883",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "A 'Sporting Notes' column of four items; only the first (the Allen saloon notice) is about Allen. The others concern the National Trotting Association, George LaBlanche's tour, and a Lynch-Connery fight."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Allen line mostly right ('Spam gion' for 'champion', 'ee concert' for 'Free concert'); a few dropped words in the last item."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen Notice: Free Concerts at 619 Market Street"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's sporting notes for December 24, 1892 carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only the best singers."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead reads St. Louis Daily Globe-Democrat, Saturday Morning, December 24, 1892, page 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen's saloon was at 619 Market Street, where he advertised himself as retired champion pugilist of the world",
+      "date": "1892-12",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen's saloon offered a free concert every evening, advertising that only the best singers were engaged",
+      "date": "1892-12",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "019"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Allen line reads like a paid reading notice placed among the sporting news, repeated weekly (see 870)."
+}

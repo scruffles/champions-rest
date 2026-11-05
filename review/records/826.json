@@ -1,0 +1,49 @@
+{
+  "id": "826",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "A column of unrelated items (election wagers, weather bulletin and forecasts, diphtheria reports); only the 'Sporting Notes' item at the foot of the first column (crop-2) is about Allen. Its last word ('here.') is cut off at the column foot; nothing else is missing."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Allen notice read correctly ('Fres concert') but the OCR drops the final line; the Allen in the election item is the Massachusetts candidate, not Tom Allen."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's sporting notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only the best singers engaged."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead reads St. Louis Daily Globe-Democrat, Saturday Morning, October 31, 1891, page 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen advertised his saloon at 619 Market Street, St. Louis, as the place of the \"retired champion pugilist of the world,\" with a free concert every evening",
+      "date": "1891-10",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "A recurring paid reading notice placed under 'Sporting Notes', not a news item."
+}

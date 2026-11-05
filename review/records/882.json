@@ -1,0 +1,36 @@
+{
+  "id": "882",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The main headline 'For the America's Cup' and the first deck lines are cut off at the top; the crop begins mid-deck at '...Made him Conceited—To-Day's Entries and Selections.' The letter runs to its 'Quarter-Stretch' signature. Allen is named once, in the Goddard paragraph."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Body text mostly right; first line of the transcript is garbage from the cut-off deck."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "New York Letter Likens Joe Goddard's Old-Style Fighting to Tom Allen's"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic's New York sporting letter said Joe Goddard, conceited after beating Peter Maher, was \"no more of a prize fighter in the modern sense of the word than Tom Allen is,\" all arms and legs in the ring."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead reads The Republic: St. Louis, Mo., Monday Morning, December 19, 1892, page 5; letter dated New York, Dec. 18, 1892."
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen appears only as a byword for old-fashioned prize fighting; the title's current wording ('Not a Prize Fighter Like Tom Allen') reverses the comparison. No biographical facts to extract."
+}

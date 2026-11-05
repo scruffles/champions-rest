@@ -1,0 +1,37 @@
+{
+  "id": "852",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Sporting Notes column of unrelated boxing and racing items; only the seventh paragraph (reprinted from the Chicago Mail) is about Allen"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Allen paragraph reads correctly apart from 'Alien' and 'Siavin'"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Chicago Mail mocks Tom Allen's prediction about Peter Jackson"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reprinted a Chicago Mail note that Tom Allen was keeping quiet in St. Louis after wrongly predicting before the Jackson-Slavin fight that Peter Jackson's lungs were gone."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Monday, June 20, 1892, page 12"
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Current title (training for a championship fight) and summary (Peter Jackson in London) are wrong. No biographical facts: the item is a mocking secondhand remark about Allen's pre-fight opinion, not his own quote."
+}

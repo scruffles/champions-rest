@@ -1,0 +1,26 @@
+{
+  "id": "810",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "'The Ring' item by Macon is complete; crop ends partway into the unrelated 'Sullivan and Slavin' item." },
+  "ocr": { "status": "good", "notes": "'Tom Allienand' for 'Tom Allen and'." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Ryan Recalled Sparring With Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch printed Macon's comments on Fitzsimmons' defeat of Dempsey, recalling that the late Tom Ryan, a sporting printer, had sparred well with Joe Coburn, Tom Allen and Jem Mace." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Tuesday, January 20, 1891, page 8. Current title ('in Prize Fight') is misleading and summary is a raw quote." },
+  "facts": [
+    {
+      "fact": "Allen sparred with Tom Ryan, a sporting printer, who also sparred with Joe Coburn and Jem Mace",
+      "date": "",
+      "people": ["Tom Ryan", "Joe Coburn", "Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Recollection by the writer Macon; no date or place given."
+}

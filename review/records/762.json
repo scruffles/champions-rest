@@ -1,0 +1,53 @@
+{
+  "id": "762",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Crop is a run of the 'Local Gossip' column (fruit prices, milliner, hotel clerk, waiter, aurist, gripman, Dr. Maughs). Only the 'France Chandler' item (crop-4) is about Allen, and it is complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Whole column transcribed; the Chandler item reads well apart from small slips (Alien, McOool)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat printed France Chandler's memory of the Tom Allen-Mike McCool prize fight, held at an island below the city. He said Allen outclassed McCool, cutting him badly while taking little punishment himself."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Running head: St. Louis Daily Globe-Democrat, Sunday Morning, September 16, 1888, page 6."
+  },
+  "facts": [
+    {
+      "fact": "France Chandler recalled that Allen beat Mike McCool in a prize fight on an island some distance below St. Louis, reached by river steamer; Allen took little punishment",
+      "date": "",
+      "people": [
+        "Mike McCool",
+        "France Chandler"
+      ],
+      "places": [
+        "island in the Mississippi below St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fight date is not given in the item; this is a later eyewitness recollection (the Allen-McCool fight of 1873). The current summary wrongly says McCool 'remained relatively unhurt'; the item says he seemed to feel little pain while being cut up."
+}

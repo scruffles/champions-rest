@@ -1,0 +1,50 @@
+{
+  "id": "803",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Sporting Notes column; the first item is the Tom Allen notice, the rest (foot race, Frank Hart pedestrian) are unrelated."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": ""
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat carried a notice in its Sporting Notes that Tom Allen, retired champion pugilist of the world, offered free concerts every evening at 619 Market Street with only the best singers engaged."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead is faint; date appears to read December 13, 1890, page 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen, billed as retired champion pugilist of the world, ran a concert saloon at 619 Market Street, St. Louis, with free concerts every evening",
+      "date": "1890-12",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Recurring paid-style notice; same text as 805 and 807. Focus primary because the item itself is about Allen."
+}

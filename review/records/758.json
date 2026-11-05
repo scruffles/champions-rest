@@ -1,0 +1,26 @@
+{
+  "id": "758",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Sporting Notes' column; the Allen item is the second note." },
+  "ocr": { "status": "good", "notes": "Allen item correct; scattered errors elsewhere ('Reppy GatuaGHER', 'Eist St. Louls')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Sunday Morning, May 20, 1888', page 10." },
+  "facts": [
+    {
+      "fact": "Allen placed a boxing ring in his saloon, joining a popular craze",
+      "date": "1888-05",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same column notes the Daly brothers buying a saloon and gymnasium in East St. Louis; not about Allen."
+}

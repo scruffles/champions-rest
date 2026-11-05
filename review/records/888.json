@@ -1,0 +1,68 @@
+{
+  "id": "888",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Headline ('Ed Smith's Victory. The Denver Man Put Goddard to Rest in the Eighteenth Round') and opening paragraph are missing at the top; the clipping ends at Round 9 and the rest of the fight continues in the next column"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "illustration caption garbage at top; body mostly right with first letters of lines often dropped"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen Seconds Ed Smith Against Joe Goddard in New Orleans"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, in a shiny silk hat and diamond stud, was one of Ed Smith's seconds when the Denver heavyweight beat Joe Goddard in 18 rounds at New Orleans."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, March 4, 1893; dispatch datelined New Orleans, March 3; Olympic Club carnival"
+  },
+  "facts": [
+    {
+      "fact": "Allen was one of Ed Smith's seconds (with Bat Masterson, Jack Fogarty and Pat Smith) when Smith fought Joe Goddard; Smith won in the eighteenth round",
+      "date": "1893-03-03",
+      "people": [
+        "Ed Smith",
+        "Joe Goddard",
+        "Bat Masterson",
+        "Jack Fogarty"
+      ],
+      "places": [
+        "Olympic Club, New Orleans"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen traveled to New Orleans for the Olympic Club carnival to attend the Smith-Goddard fight",
+      "date": "1893-03",
+      "people": [],
+      "places": [
+        "St. Louis",
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Article first says 'Big Tom Allen ... occupied a private box' and 'took more than ordinary interest,' then lists him among Smith's seconds entering the ring; both are in the clipping. The 18th-round result is from the headline on the page, outside the clipping."
+}

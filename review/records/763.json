@@ -1,0 +1,98 @@
+{
+  "id": "763",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Headline, decks and the full Allen item through the stakeholder's reply. The other column items listed in the decks are not included, which is fine."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor slips (80 for 30 years, 188k, $75) for $750)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen Goes to Law to Recover Stake Money"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic reported that Tom Allen sued Bill Clark, final stakeholder in the Daly-McManus boxing match, for $1,000 and $750, claiming Hugh McManus won a forfeit because Dan Daly's last deposit was late."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal",
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Saturday Morning, December 8, 1888, page 6."
+  },
+  "facts": [
+    {
+      "fact": "Allen backed Hugh McManus in a gloved boxing match against Dan Daly set for December 11, 1888, wagering with Daly on October 16, 1888",
+      "date": "1888-10-16",
+      "people": [
+        "Hugh McManus",
+        "Dan Daly"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen claimed a forfeit for McManus at noon on December 5, 1888, saying Daly's final $250 deposit, due December 4 at the Globe-Democrat office, was not up; the temporary stakeholder said Daly's money was up on time",
+      "date": "1888-12-05",
+      "people": [
+        "Dan Daly",
+        "Hugh McManus",
+        "Murphy"
+      ],
+      "places": [
+        "Globe-Democrat office, St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen sued Bill Clark, final stakeholder of the Daly-McManus match, for $1,000 he had deposited and $750 Clark received from the Globe Printing Co.; attorneys Rowe & Morris",
+      "date": "1888-12-07",
+      "people": [
+        "Bill Clark"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen offered to let the sporting papers settle his forfeit claim",
+      "date": "1888-12-07",
+      "people": [
+        "Hugh McManus"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "I am willing to leave the matter to the Clipper, the Spirit of the Times or the Police Gazette, and will abide by their decision on my claim for $750 forfeit for Hugh McManus.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Suit filed 'yesterday' (December 7, 1888). Allen's card to The Republic is signed TOM ALLEN."
+}

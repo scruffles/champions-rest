@@ -1,0 +1,50 @@
+{
+  "id": "866",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Allen notice is the second of four Sporting Notes items; others are unrelated wrestling and Corbett notes"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "minor errors ('West of singers' for 'Best of singers')"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's Sporting Notes carried a notice for Tom Allen, retired champion pugilist of the world, at No. 619 Market Street, offering free concerts every evening with only the best singers."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday, October 4, 1892, page 4"
+  },
+  "facts": [
+    {
+      "fact": "Allen, billed as retired champion pugilist of the world, ran a concert saloon at 619 Market Street, St. Louis, with free concerts every evening",
+      "date": "1892-10",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Short recurring advertising card under Sporting Notes; same text ran repeatedly in 1892."
+}

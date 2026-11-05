@@ -1,0 +1,26 @@
+{
+  "id": "800",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The right edge of the column is cut off, losing the last few letters or words of every line (headline reads 'An Example for Tom Alle'). The item sits in the 'St. Louis and St. Louisans' column at far right of page 4; the page image is too small to recover the missing words." },
+  "ocr": { "status": "rough", "notes": "Transcribes what the crop shows, but every line is truncated by the crop." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "An Example for Tom Allen: Ben Hogan turns evangelist" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reprinted a Spokane Review item, headed \"An Example for Tom Allen,\" on Ben Hogan, a former gambler and prize fighter who had once fought men like Allen for the championship of America, now preaching as an evangelist." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads St. Louis Post-Dispatch, Thursday, November 27, 1890, page 4. Item credited to the Spokane Review." },
+  "facts": [
+    {
+      "fact": "Ben Hogan, later an evangelist, had once measured muscle and science with Tom Allen for the championship of America",
+      "date": "",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Needs a wider crop: the right side of the column is missing, so the exact wording around Allen ('...measured muscle and science [...] such men as Tom Allen for the [champi]onship of America') cannot be confirmed. Facts-index has an undated note about a planned Allen-Hogan fight (id 000)."
+}

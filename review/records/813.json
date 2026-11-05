@@ -1,0 +1,50 @@
+{
+  "id": "813",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The clipping is the end of a long 'Local Gossip' column: a Mafia item, 'A Stage Manager' on thunder effects and W. J. Florence's Memphis story come first; only the last item, 'Ex-Champion Tom Allen' (crop-4 to crop-6), is about Allen. That item is complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right through the Allen item; the last few lines are garbled ('Lo will be slumbering in, say, ten minutes' and the final sentence are missing or mangled)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen Answers 'A Sporting Man' on a Sioux Boxer"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat printed Tom Allen's reply to a reader's idea of putting a Sioux Indian in the prize ring. Allen called pugilism a product of civilization and offered to work the white man's corner."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, January 25, 1891, page 26."
+  },
+  "facts": [
+    {
+      "fact": "Allen wrote that in pugilism, as in war, the Anglo-Saxon and Celt were superior to all other races, and offered to officiate in the corner of anyone who fought a Sioux Indian",
+      "date": "1891-01",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "In pugilism, as in war, the Anglo-Saxon and Celt are superior to all other races of men.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary quotes the W. J. Florence item, not the Allen item. Allen's piece also touches on Sullivan-Kilrain, Dempsey-Fitzsimmons, Brettle-Sayers and Broughton-Slack, but only as general boxing talk."
+}

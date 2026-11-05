@@ -1,0 +1,53 @@
+{
+  "id": "816",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": ""
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": true,
+    "suggested": ""
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Monday, March 16, 1891, page 5."
+  },
+  "facts": [
+    {
+      "fact": "Rev. William Jones, pastor of the Floating Bethel of Cincinnati, said that at 16 he had been a prize fighter backed as a boy wonder by Tom Allen of St. Louis",
+      "date": "",
+      "people": [
+        "Rev. William Jones"
+      ],
+      "places": [
+        "Cincinnati",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Tags changed from Profiles to Fights: the article only mentions Allen backing a young fighter. The date of Jones's fighting is not given."
+}

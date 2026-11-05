@@ -1,0 +1,26 @@
+{
+  "id": "836",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping is a middle section of the front-page story 'Fitzsimmons Wins Again'; the headline, the dateline opening and the later rounds are not in the clipping. The single Allen mention is included." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen at the Maher-Fitzsimmons Fight in New Orleans" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat listed Tom Allen, 'retired pugilist,' among the boxers in the boxes and reserved seats at the Olympic Club in New Orleans, where Bob Fitzsimmons beat Peter Maher." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Globe-Democrat, Thursday Morning, March 3, 1892, page 1. Fight dated New Orleans, March 2." },
+  "facts": [
+    {
+      "fact": "Allen attended the Fitzsimmons-Maher fight at the Olympic Club in New Orleans, won by Fitzsimmons in the twelfth round",
+      "date": "1892-03-02",
+      "people": ["Bob Fitzsimmons", "Peter Maher"],
+      "places": ["Olympic Club, New Orleans"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Result (Fitzsimmons in the twelfth) is from the page headline 'Maher Succumbs to the Australian in the Twelfth Round', outside the clipping."
+}

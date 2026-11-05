@@ -1,0 +1,15 @@
+{
+  "id": "769",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Only a fragment from the bottom of one column of 'Old and New Fighters' by Billy Edwards; the headline and the rest of the article are missing, the right edge clips the last letter of each line, and the sentence continues past the bottom." },
+  "ocr": { "status": "good", "notes": "Matches the image except for letters clipped at the right edge." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch printed veteran Billy Edwards on old and new pugilism. He named Tom Allen with John Morrissey, Barney Aaron and Mike Donovan as old-school fighters known for great endurance." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Sunday, June 23, 1889. Article 'Old and New Fighters', written for the Sunday Post-Dispatch by Billy Edwards." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen is named once, in a list of old-school fighters; no biographical facts."
+}

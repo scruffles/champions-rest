@@ -1,0 +1,37 @@
+{
+  "id": "780",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "wrong_article",
+    "notes": "Clipping is the top of 'The World of Sport' (Clifton races, Sullivan exhibition, McAuliffe-Carroll match, Mitchell bests Mace); no mention of Allen. The only Allen item visible on the page is the 'Tom Allen' card in column 3, which is article 779."
+  },
+  "ocr": {
+    "status": "unusable",
+    "notes": "Transcript matches the World of Sport columns but contains no Allen text."
+  },
+  "about_tom": "unsure",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen advertises free concert at his Market Street saloon"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic carried a card for Tom Allen, \"Retired Champion Pugilist of the World,\" at 619 Market Street, offering a free concert every evening."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St. Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Saturday Morning, February 8, 1890, page 6 (same page as 779)."
+  },
+  "facts": [],
+  "needs_human": true,
+  "notes": "The current summary ('Roche, representing the Wizard, and Tom Allen ... has already placed his money') is not on this clipping or anywhere I can see on this page; it may come from another article. Suggested title/summary assume this is a duplicate of 779's card; a human should check the source image and either recrop or remove."
+}

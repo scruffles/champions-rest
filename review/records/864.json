@@ -1,0 +1,66 @@
+{
+  "id": "864",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Answers to Correspondents column; Allen appears in two one-line answers (Mace, and his 1892 picks). Bottom of the column continues beyond the crop, but both Allen items are inside it"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "mostly right ('AJlen', 'SUBSCRIBEK')"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Answers to Correspondents: Allen Never Fought Mace"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch's Answers to Correspondents told readers that Tom Allen never fought Jem Mace, and that Allen had picked Sullivan, McAuliffe and Dixon to win and backed all three."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Tuesday, September 20, 1892, page 4"
+  },
+  "facts": [
+    {
+      "fact": "The Post-Dispatch answered a reader that Allen never fought Jem Mace (contradicts the 1870 Allen-Mace fight recorded elsewhere)",
+      "date": "",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen picked Sullivan, McAuliffe and Dixon to win their September 1892 New Orleans fights and bet on all three",
+      "date": "1892-09",
+      "people": [
+        "John L. Sullivan",
+        "Jack McAuliffe",
+        "George Dixon"
+      ],
+      "places": [
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title 'Jem Mace Defeats Tom Allen' is the opposite of what the item says. The column does not name New Orleans; the link to the Sept. 1892 Olympic Club carnival is inferred from the trio named."
+}

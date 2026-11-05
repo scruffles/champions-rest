@@ -1,0 +1,62 @@
+{
+  "id": "861",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Clipping holds the end of a Sullivan conditioning article and several 'Pugilistic Pointers' items; the Allen item is the paragraph in crop-2, complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Allen paragraph mostly right ('ses pgs much' for 'injured much')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen had been confined to bed since Tuesday, after being thrown from his buggy the previous Saturday when his horse became uncontrollable; his illness was painful but not thought serious."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Thursday, September 15, 1892, page 12."
+  },
+  "facts": [
+    {
+      "fact": "Allen was thrown from his buggy during his usual afternoon drive when his horse became uncontrollable",
+      "date": "1892-09-10",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was confined to bed with a very painful illness from the shaking up, not thought to be serious",
+      "date": "1892-09-13",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Dates computed from 'last Saturday' and 'since Tuesday' relative to Thursday, Sept 15, 1892. Same event as the unnumbered (000) facts-index entry 'Early September 1892 ... Allen was thrown into a post while driving'."
+}

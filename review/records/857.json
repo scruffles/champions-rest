@@ -1,0 +1,50 @@
+{
+  "id": "857",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The article starts under 'Get a Good Line' in column 1 and runs through column 2; the clipping ends mid-sentence in the Jack Skelly section ('contended that'), which continues at the top of column 3. The Allen mention (crops 1-2, Sullivan section) is complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Readable with scattered errors ('Ton Allen', 'STLLIVAYN')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Fighters' records recall Goss taking the title from Allen"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch printed the records of the six New Orleans fighters. Its Sullivan sketch said Joe Goss had won the heavyweight title \"by disgraceful methods\" from Tom Allen, who \"beat his opponent to ribbons.\""
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Wednesday, August 31, 1892, page 5."
+  },
+  "facts": [
+    {
+      "fact": "The Post-Dispatch said Joe Goss won the heavyweight championship from Allen by disgraceful methods, although Allen had beaten him to ribbons",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary is wrong: it says Allen beat Goss for the title; the article says Goss won it from Allen. Fight date not given in the article (1876 from context). Allen called 'of this city' (St. Louis)."
+}

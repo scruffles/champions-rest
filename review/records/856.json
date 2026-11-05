@@ -1,0 +1,55 @@
+{
+  "id": "856",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Continuation (column 2) of the article that begins in 855; the headline and first half are not in this clipping, and the top line (T. R. Adams entry) is partly cut. Allen's betting line is in crop-5. The clipping ends at the end of the article."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Top of the expert list badly garbled; the press list, letters and betting section are mostly readable. Allen line right except 'tq' and '3-i\\nxon'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen gives betting odds on the New Orleans fights"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "In the St. Louis Globe-Democrat's survey of betting on the September 1892 New Orleans fights, Tom Allen, \"the heavy-weight champion,\" quoted 7 to 4 on Sullivan over Corbett, 5-4 McAuliffe and 3-1 Dixon."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, August 21, 1892, page 29 (same page as 855)."
+  },
+  "facts": [
+    {
+      "fact": "Allen quoted betting odds of 7 to 4 on Sullivan over Corbett, 5-4 on McAuliffe over Myer and 3-1 on Dixon over Skelly for the September 1892 New Orleans fights",
+      "date": "1892-08",
+      "people": [
+        "John L. Sullivan",
+        "James J. Corbett",
+        "Jack McAuliffe",
+        "George Dixon"
+      ],
+      "places": [
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Second half of the article in 855 (same page, same date); consider linking or merging. Allen is one line among dozens, so focus is passing. The current title's 'Heavyweight Champion Assessment' is misleading."
+}

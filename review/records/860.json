@@ -1,0 +1,52 @@
+{
+  "id": "860",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Clipping is a small fragment of 'Champions of the Ring' (sketch of John L. Sullivan); its last sentence ('before the most lawless ...') continues in the next column, outside the crop."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "'Tem Allen' for Tom Allen."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic, in a sketch of John L. Sullivan, noted that Joe Goss had some years earlier fought Tom Allen for the championship of America, the fight taking place in Kentucky."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St. Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, September 4, 1892, page 3."
+  },
+  "facts": [
+    {
+      "fact": "Allen fought Joe Goss for the championship of America in Kentucky",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Year 1876 is from the known Goss fight, not stated in the clipping. The sentence is cut off; the rest (likely describing the crowd) is in the next column."
+}

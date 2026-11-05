@@ -1,0 +1,26 @@
+{
+  "id": "835",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The first one or two letters of every line are cut off on the left; text still readable. The article continues on the page under 'Eastern View of Wednesday's Fight' (not about Allen). The Allen passages are complete." },
+  "ocr": { "status": "good", "notes": "Follows the clipped image, so line starts are missing; Allen passages readable ('Yom Allen' for Tom Allen)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen to Go to New Orleans with Frank Slavin for the Maher-Fitzsimmons Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, ex-champion of America, would leave St. Louis for New Orleans with Frank Slavin to see the Maher-Fitzsimmons and Ryan-Needham fights. Allen picked Ryan and favored Maher." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Sunday, February 28, 1892, page 24." },
+  "facts": [
+    {
+      "fact": "Allen was to leave St. Louis for New Orleans with Frank Slavin to see the Maher-Fitzsimmons fight at the Olympic Club",
+      "date": "1892-02-29",
+      "people": ["Frank Slavin"],
+      "places": ["St. Louis", "New Orleans"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is mentioned in two sentences of a long fight preview. Departure 'to-morrow night' from a Sunday paper; a later paragraph says Slavin and Allen would 'probably' leave 'to-night', so the date is approximate. Allen and Tom Kelly thought Ryan would beat Needham and preferred Maher to Fitzsimmons."
+}

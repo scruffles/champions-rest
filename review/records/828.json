@@ -1,0 +1,50 @@
+{
+  "id": "828",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Notice heads a 'Sporting Notes' column; the clipping holds only the Allen item."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the print apart from 'sireet' and a stray trailing character."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen's Concert Hall on Market Street"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat ran a standing notice under Sporting Notes for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only the best singers."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday, November 14, 1891, page 7. Recurring paid notice; the same text appears in records 828-832."
+  },
+  "facts": [
+    {
+      "fact": "Allen ran a concert saloon at 619 Market Street, St. Louis, advertising free concerts every evening and billing himself as retired champion pugilist of the world",
+      "date": "1891-11",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

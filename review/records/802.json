@@ -1,0 +1,55 @@
+{
+  "id": "802",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Column spliced from the bottom of one column to the top of the next; a line or so is lost at the join ('Mike McCool, the terror of the ... feated him'). Allen passage complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; 'Bill Rayel' rendered as 'Bill =' and a few words garbled at the splice."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic marked the death of Joe Coburn with a career profile, noting that before his match with Jem Mace in England, Mace's party pitted Joe Goss, Tom Allen and Bill Rayel against Coburn, who bested them all."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Monday Morning, December 8, 1890, page 5."
+  },
+  "facts": [
+    {
+      "fact": "In England, before Joe Coburn's championship match with Jem Mace, the Mace party pitted Joe Goss, Tom Allen and Bill Rayel against Coburn to test him; Coburn bested them all",
+      "date": "",
+      "people": [
+        "Joe Coburn",
+        "Jem Mace",
+        "Joe Goss",
+        "Bill Rayel"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective obituary of Coburn; no date given for the trials. Article 804 (McManus) dates the Coburn-Mace match to 1868 and spells the third man 'Bill Rayne'."
+}

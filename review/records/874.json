@@ -1,0 +1,26 @@
+{
+  "id": "874",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Clipping is the whole '\"Parson\" Davies in Chicago' dispatch; Allen is named only at the end. The 619 Market street notice the current title/summary describe is a separate item (article 875)." },
+  "ocr": { "status": "good", "notes": "Minor errors (Josepa, batten, aefitie)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Parson Davies Denies Donovan Letter to Tom Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that \"Parson\" Davies, in Chicago, said Mike Donovan never wrote the published letter to Tom Allen of St. Louis calling Peter Jackson a physical wreck, and that Jackson was in prime shape." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, November 19, 1892, page 7." },
+  "facts": [
+    {
+      "fact": "Papers had printed an alleged letter from Mike Donovan to Allen saying Peter Jackson was a physical wreck; Parson Davies said Donovan never wrote it",
+      "date": "1892-11",
+      "people": ["Mike Donovan", "Peter Jackson", "Parson Davies"],
+      "places": ["Chicago"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title and summary belong to article 875 (Sporting Notes ad on the same page)."
+}

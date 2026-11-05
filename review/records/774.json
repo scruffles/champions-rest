@@ -1,0 +1,26 @@
+{
+  "id": "774",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Left edge of the column is cut off, losing the first word or two of most lines (e.g. '[Memph]is', '[the] fighter', '[Kansas] City road')." },
+  "ocr": { "status": "good", "notes": "Matches the visible text; the missing words are missing from the clipping itself." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Former Saloon Partner of Tom Allen Injured in Memphis" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported from Memphis that railroad switchman James Kelly, who had been associated with Tom Allen, the fighter, in the saloon business in St. Louis, had his right arm amputated after an accident." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Dispatch dated Memphis, August 21; page masthead too small to read in page.jpg, date taken from metadata." },
+  "facts": [
+    {
+      "fact": "James Kelly, a switchman later injured in Memphis, had been associated with Allen in the saloon business in St. Louis",
+      "date": "",
+      "people": ["James Kelly"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The word before 'fighter' is cut off (likely 'prize'), so 'prize fighter' is not confirmed from the image. Date of the partnership not given."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "757",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'General Sporting' column of brief items, two pieces; the Allen item is one notice in the middle." },
+  "ocr": { "status": "good", "notes": "Allen item readable; minor errors elsewhere ('Fi nothing' for 'given nothing', 'Nompareii')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Opens Boxing School on Market Street" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican noted that Tom Allen, the retired champion pugilist of the world, was opening his new boxing school that night at 619 Market Street, promising the finest singing in the city." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican: St. Louis, Saturday Morning, May 19, 1888', page 6. Before the paper became The Republic (by June 2, 1888)." },
+  "facts": [
+    {
+      "fact": "Allen opened a new boxing school with singing entertainment at 619 Market Street, St. Louis",
+      "date": "1888-05-19",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Allen item is a short paid-style notice within the sporting column."
+}

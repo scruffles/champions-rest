@@ -1,0 +1,26 @@
+{
+  "id": "841",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Sporting Notes column; only the first item is about Allen. The others concern a postponed Browns ball game and billiardist Lew Shaw." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's Market Street concert saloon advertised" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's Sporting Notes carried a notice for Tom Allen, retired champion pugilist of the world, at 619 Market Street, offering a free concert every evening with only the best singers." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, March 19, 1892, page 7. Same notice as article 842." },
+  "facts": [
+    {
+      "fact": "Allen's saloon at 619 Market Street, St. Louis, advertised a free concert every evening",
+      "date": "1892-03",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title and summary say he announced his retirement; the item is an advertising notice that calls him the retired champion."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "823",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "The whole three-line 'Sporting Notes' notice."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Short text with errors ('pugilltst oi', 'the Woue', 'Ai pening'); the image reads 'retired champion pugilist of the world, 619 Market street. Free concert every evening. The best singers only engaged.'"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen's concert saloon notice at 619 Market Street"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's sporting notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only the best singers engaged."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead reads St. Louis Daily Globe-Democrat, Saturday Morning, September 19, 1891, page 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen advertised his saloon at 619 Market Street, St. Louis, as the place of the \"retired champion pugilist of the world,\" with a free concert every evening",
+      "date": "1891-09",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "A recurring paid reading notice placed under 'Sporting Notes', not a news item. The current title ('Announces Retirement From Prize Ring') is misleading: the notice only calls him a retired champion."
+}

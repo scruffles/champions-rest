@@ -1,0 +1,36 @@
+{
+  "id": "878",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Sparrer Cut With Glass at Tom Allen's Champions' Retreat" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that William Reed, knocked down twice by performer Mark Tuohy in a challenge bout at Tom Allen's \"Champions' Retreat,\" 619 Market street, broke a window and cut Tuohy about the head with the glass." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, November 26, 1892, page 6." },
+  "facts": [
+    {
+      "fact": "Allen's place at 619 Market Street was called the \"Champions' Retreat\" and engaged song-and-dance sparrer Mark Tuohy",
+      "date": "1892-11",
+      "people": ["Mark Tuohy"],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "William Reed cut performer Mark Tuohy with window glass after losing a challenge bout at Allen's Champions' Retreat",
+      "date": "1892-11-25",
+      "people": ["Mark Tuohy", "William Reed"],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is the venue owner only; he takes no part in the incident."
+}

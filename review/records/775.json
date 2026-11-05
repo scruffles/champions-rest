@@ -1,0 +1,36 @@
+{
+  "id": "775",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item; a small E. Jaccard Jewelry ad sits above it." },
+  "ocr": { "status": "good", "notes": "Accurate apart from the jewelry ad text at the top." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Lincoln County Sheriff Seeks Tom Allen and Others for Prize Fighting" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that the Lincoln County, Mo., sheriff came to St. Louis to arrest Tom Allen and five other sporting men over the Ed Kelly-Dan Daly prize fight of two years earlier, but his papers were defective." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead on page 6: St. Louis Daily Globe-Democrat, Friday Morning, September 6, 1889." },
+  "facts": [
+    {
+      "fact": "Sheriff Jessie Coomes of Lincoln County, Mo., sought to arrest Allen, Tom Kelly, Ed Kelly, Dan Daly, Artie Flint and Charley Woods in St. Louis on charges of prize fighting and abetting a fight; his papers were defective and he returned to Troy to have them corrected",
+      "date": "1889-09-05",
+      "people": ["Jessie Coomes", "Tom Kelly", "Ed Kelly", "Dan Daly", "Artie Flint", "Charley Woods"],
+      "places": ["Four Courts, St. Louis", "Troy, Lincoln County, Mo."],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "About two years earlier Allen was a second or trainer at a prize fight in Lincoln County, Mo., in which Dan Daly defeated Ed Kelly",
+      "date": "1887",
+      "people": ["Dan Daly", "Ed Kelly"],
+      "places": ["Lincoln County, Mo."],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article says the others besides the principals 'were seconds and trainers' without saying which role Allen had. The 1887 date is inferred from 'two years ago'. Same case as article 776."
+}

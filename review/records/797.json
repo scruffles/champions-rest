@@ -1,0 +1,26 @@
+{
+  "id": "797",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole Joe Coburn article from headline to closing rule; the following 'Slavin and Jackson' item is correctly excluded." },
+  "ocr": { "status": "good", "notes": "Readable throughout; scattered errors ('Tom Aflen', 'Fivuan' for Flynn, '18363' for 1863, '1572' for 1872, 'Bay City, Miss.')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch, reprinting the New York Sun, recounted the career of the dying Joe Coburn, saying that before his match with Jem Mace in England, Mace's party pitted Joe Goss, Tom Allen and Bill Rayel against him and he bested them all." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads St. Louis Post-Dispatch, Wednesday, November 5, 1890, page 12. Article credited to the New York Sun." },
+  "facts": [
+    {
+      "fact": "Before Joe Coburn's match with Jem Mace in England, Mace's party pitted Joe Goss, Tom Allen and Bill Rayel against Coburn to test him, and Coburn bested them all",
+      "date": "",
+      "people": ["Joe Coburn", "Jem Mace", "Joe Goss", "Bill Rayel"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article gives no date for the trial bouts; it places them after Coburn's 1867 fights and before Mace came to America in 1870 (historically the Coburn-Mace match in Ireland was 1864). Retrospective claim, unconfirmed."
+}

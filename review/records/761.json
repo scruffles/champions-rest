@@ -1,0 +1,46 @@
+{
+  "id": "761",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article with headline, three pieces." },
+  "ocr": { "status": "good", "notes": "Minor errors ('A lien', 'AJlon', 'leavi#§g', 'enougk')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Knocked Out by Dan Daly in Street Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Dan Daly knocked Tom Allen down in a street fight outside Daly's Seventh Street saloon after Allen accused him of hurting his business. Allen and Charley Daly were arrested and bonded." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: 'The Republic: St. Louis, Mo., Monday Morning, June 18, 1888', page 8." },
+  "facts": [
+    {
+      "fact": "About 1:30 a.m., Dan Daly, champion middleweight of Missouri, knocked Allen down in a street fight in front of Daly's saloon on Seventh Street between Market and Chestnut; Allen cried 'enough'",
+      "date": "1888-06-17",
+      "people": ["Dan Daly", "Charley Daly", "Dutch Neil", "Steve Hearn", "Jack Ryan"],
+      "places": ["Seventh Street between Market and Chestnut, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "029"
+    },
+    {
+      "fact": "The fight began when Allen, chasing men who had called him names, accused Dan Daly of hiding them and of doing things to hurt his business",
+      "date": "1888-06-17",
+      "people": ["Dan Daly"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Charley Daly were taken to the Chestnut Street police station and released on bond",
+      "date": "1888-06-17",
+      "people": ["Charley Daly"],
+      "places": ["Chestnut Street station, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "029"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Account is from spectators friendly to the Dalys ('it is said', 'it is alleged'). The current title reads as if Allen knocked out Daly."
+}

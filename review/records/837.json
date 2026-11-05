@@ -1,0 +1,26 @@
+{
+  "id": "837",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping ends mid-sentence at the start of the main bout ('the men met in the centre of the ring'); the round-by-round account continues on the page. The Allen passage is complete." },
+  "ocr": { "status": "good", "notes": "Scattered character errors; names readable." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen in Charley Mitchell's Corner at the Olympic Club, New Orleans" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Tom Allen, with Frank Slavin and Pat Allen, accompanied Charley Mitchell into the ring for his sparring bout with Arthur Upham before the Fitzsimmons-Maher fight in New Orleans. Allen was applauded." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The St. Louis Republic, Thursday Morning, March 3, 1892, page 1. Dispatch dated New Orleans, March 2." },
+  "facts": [
+    {
+      "fact": "Allen, with Frank Slavin and Pat Allen, accompanied Charley Mitchell into the ring for his four-round sparring bout with Arthur Upham at the Olympic Club, New Orleans, before the Fitzsimmons-Maher fight, and was received with applause",
+      "date": "1892-03-02",
+      "people": ["Charley Mitchell", "Frank Slavin", "Pat Allen", "Arthur Upham"],
+      "places": ["Olympic Club, New Orleans"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The text says Mitchell was 'accompanied by' Allen, not that Allen seconded him, so the current title's 'Seconds' overstates it. Publication name given with period as on masthead."
+}

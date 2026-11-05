@@ -1,0 +1,46 @@
+{
+  "id": "838",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The Allen section (TOM ALLEN DISCUSSES THE FIGHT) is complete. The clipping also takes in the end of the preceding Mitchell/Slavin interview, the BOUND FOR CHICAGO paragraph and Tom Kelly's opinion." },
+  "ocr": { "status": "good", "notes": "readable with scattered errors (e.g. 'Loew gtd trained' for 'properly trained', 'ba ar' for 'weights', 'Il. would' for 'I would')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen returned from the Fitzsimmons-Maher fight, where he had taken a party of St. Louisans and Frank Slavin, and said Maher was slow, poorly trained and overrated." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Saturday, March 5, 1892, page 2." },
+  "facts": [
+    {
+      "fact": "Allen attended the Fitzsimmons-Maher fight, chaperoning a party of wealthy St. Louisans including his old backer Fred Watkins and Frank P. Slavin, and arrived home in St. Louis the night of March 4",
+      "date": "1892-03-04",
+      "people": ["Fred Watkins", "Frank P. Slavin", "Bob Fitzsimmons", "Peter Maher"],
+      "places": ["New Orleans", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Maher was overrated and that he had tried to bet on Maher before the fight but could not place the money",
+      "date": "1892-03-05",
+      "people": ["Peter Maher", "Bob Fitzsimmons"],
+      "places": ["Allen's place of business, Market Street, St. Louis"],
+      "quote": "I would like you to say for me that Maher is not what he was cracked up to be. I was one of the parties who was fooled by him.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Maher lacked everything a prize-fighter needs",
+      "date": "1892-03-05",
+      "people": ["Peter Maher"],
+      "places": ["St. Louis"],
+      "quote": "Maher lacks everything essential to a prize-fighter. He is too slow and has no experience.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "New Orleans is not named in the clipping; the fight was at New Orleans on March 2, 1892, as stated elsewhere on the page. The quotes at the top of the clipping (Hall and Pritchard, 'not twenty blows struck') belong to the preceding interview, not to Allen."
+}

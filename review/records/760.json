@@ -1,0 +1,26 @@
+{
+  "id": "760",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Long strip with baseball briefs, a large Sparks' Perfect Health medicine ad, amateur athletics, other notes; only one 'Sporting Notes' item (crop-6) is about Allen." },
+  "ocr": { "status": "rough", "notes": "Allen item correct, but the ad section is transcribed as garbage and the rest is unrelated." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic carried a notice for Tom Allen, retired champion pugilist of the world, at 619 Market Street, offering a free concert and the best boxing in the city every evening." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: 'The Republic: St. Louis, Mo., Saturday Morning, June 2, 1888', page 6." },
+  "facts": [
+    {
+      "fact": "Allen's place at 619 Market Street advertised a free concert and the best boxing in the city every evening",
+      "date": "1888-06-02",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Crop and transcript should be trimmed to the single Allen notice."
+}

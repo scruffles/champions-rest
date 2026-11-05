@@ -1,0 +1,50 @@
+{
+  "id": "853",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Only the three-line 'Sporting Notes' item at the top of crop-1 is about Allen (a notice for his place). The rest of the clipping is an unrelated reprint, 'The Dog's Origin' from Harper's Young People."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The Allen notice is transcribed correctly ('Tom ALLEN'); the dog article has minor errors."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Notice of free concerts at Tom Allen's, 619 Market Street"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "A notice under \"Sporting Notes\" in the St. Louis Globe-Democrat advertised Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, with free concerts every evening and only the best singers engaged."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, June 25, 1892, page 7."
+  },
+  "facts": [
+    {
+      "fact": "In June 1892 Allen's place at 619 Market Street, St. Louis, advertised free concerts every evening; he styled himself retired champion pugilist of the world",
+      "date": "1892-06-25",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Recurring notice (same text as 805, 919, 854). Focus suggested primary because the item itself is entirely about Allen, though it is only a three-line notice."
+}

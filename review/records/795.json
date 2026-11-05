@@ -1,0 +1,53 @@
+{
+  "id": "795",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Headline OCR'd as \"Bis\" for \"His\"; otherwise matches."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Edward Reilly was taken to the Dispensary with severe head injuries, saying Tom Allen, the Market Street saloon-keeper and prize-fighter, had slugged him without provocation; his skull was thought fractured."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Monday, October 13, 1890, page 4."
+  },
+  "facts": [
+    {
+      "fact": "Edward Reilly said Allen slugged him without provocation, leaving him with severe head injuries and a suspected fractured skull; Reilly was sent to the hospital",
+      "date": "1890-10-12",
+      "people": [
+        "Edward Reilly"
+      ],
+      "places": [
+        "Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Reilly's accusation only; no arrest or response from Allen is reported. Event was 'yesterday', i.e. Sunday, October 12, 1890."
+}

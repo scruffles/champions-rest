@@ -1,0 +1,15 @@
+{
+  "id": "768",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The 'Local Gossip' column of quoted opinions from many people; only the Tommy Murphy item mentions Allen. The column continues in the next page column, which is not needed for Allen." },
+  "ocr": { "status": "good", "notes": "Readable with scattered errors; the Tommy Murphy item is accurate." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tommy Murphy recalls the second Allen-McCoole fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat quoted Tommy Murphy, who said the ring was now run for money, and that the second Allen-McCoole fight had more fighting in one round than the 64 rounds of the Myer-McAuliffe fight." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, February 17, 1889, page 6." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen appears only as a remembered fighter in one man's comment; no new facts."
+}

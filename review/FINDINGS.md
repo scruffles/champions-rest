@@ -66,3 +66,7 @@ Cross-article findings to resolve when merging records into the data. Per-articl
 - Gallagher 1869-08-17: 643 says Allen won at $500 a side; 647 says a draw at $1,000 a side (see 352). 646 duplicates 645 (headline only).
 - 688 is probably a duplicate of 689 (its clipping is the billiard tourney report).
 - Birth year: 738 also gives 1840.
+- 778 probably duplicates 777 and 780 probably duplicates 779 (no Allen text in their crops).
+- 834 duplicates 833 (same notice, same page and date).
+- 864 (1892) says "Tom Allen never fought Jem Mace", contradicting the 1870 Mace-Allen fight (400 etc.); its current title says the opposite.
+- 876 holds only the headline deck for the Mitchell letter whose text is 877; merge or re-crop.

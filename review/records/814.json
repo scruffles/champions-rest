@@ -1,0 +1,50 @@
+{
+  "id": "814",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The Allen notice is the first paragraph under 'Sporting Notes'; the rest is the unrelated 'A Wealthy New Yorker Robbed of $1000' story."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The Allen notice is cut off after 'The best of singers only' (missing 'engaged'); otherwise readable."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat carried a sporting note advertising Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, with a free concert every evening."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, February 21, 1891, page 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen's saloon at 619 Market Street, St. Louis, advertised free concerts every evening with 'the best of singers only engaged'",
+      "date": "1891-02",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The same notice ran in many issues."
+}

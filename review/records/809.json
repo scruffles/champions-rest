@@ -1,0 +1,15 @@
+{
+  "id": "809",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole sporting column (Pendragon on Coburn, McAuliffe-Myer, Fogarty); the Allen item is the last one, 'Jack King to Mike Boden', complete." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "In a letter to the St. Louis Post-Dispatch, Jack King said he had $50 in Tom Allen's hands to fight Mike Boden in any style, and told Boden to cover it or stop talking." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Saturday, January 17, 1891, page 8." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen only holds the stake for King's challenge; stakeholder detail skipped per rubric."
+}

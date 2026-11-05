@@ -1,0 +1,26 @@
+{
+  "id": "811",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Column of unrelated sporting and news items; the Allen item is a two-line notice in crop-5 ('Tom Allen, retired champion pugilist of the world, 619 Market street. Free concert every evening.')." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Notice for Tom Allen's Saloon at 619 Market Street" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic carried a notice for Tom Allen, 'retired champion pugilist of the world,' at 619 Market Street, with a free concert every evening." },
+  "focus": { "current": "passing", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Saturday Morning, January 24, 1891, page 6. This version does not include 'Best of singers' (that is in 812); summary corrected." },
+  "facts": [
+    {
+      "fact": "Allen advertised himself as 'retired champion pugilist of the world' at 619 Market Street, St. Louis, with a free concert every evening",
+      "date": "1891-01",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Focus suggested primary since the item itself is entirely about Allen, though it is only a brief notice; passing is also defensible."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "771",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "One column of the Post-Dispatch's 'Going to the Fight' New Orleans report; the headline and start are in the previous column and the end runs to another page. A strip of a dry-goods ad is stuck on the top. The Allen passage is complete." },
+  "ocr": { "status": "good", "notes": "Readable; minor errors ('he e', 'Heisagoodun')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen picks Kilrain to win" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported from New Orleans that Tom Allen, Joe Coburn and Tom Kelly were there for the Sullivan-Kilrain fight and all picked Kilrain. Allen said he must be good or the big money would not be staked on him." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Monday, July 8, 1889, page 2 (Second Extra, after Sullivan won in the 75th round)." },
+  "facts": [
+    {
+      "fact": "Allen was in New Orleans with Joe Coburn and Tom Kelly for the Sullivan-Kilrain fight",
+      "date": "1889-07-07",
+      "people": ["Joe Coburn", "Tom Kelly", "John L. Sullivan", "Jake Kilrain"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen predicted Kilrain would beat Sullivan",
+      "date": "1889-07-07",
+      "people": ["Jake Kilrain", "John L. Sullivan"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "He is a good un, or the big money would not be staked for him.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen gets two short paragraphs in a long fight report, so passing rather than secondary. Same trip as 770."
+}

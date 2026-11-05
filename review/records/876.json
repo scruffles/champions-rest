@@ -1,0 +1,15 @@
+{
+  "id": "876",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping is the 'Crimson and Blue' column (football, Greggains-Costello, Dixon, Al Smith). Only the headline deck mentions Allen; the Mitchell letter itself is under 'The Ring' in a later column on the page, not in this clipping (it is article 877)." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch headlined its sporting page with a letter Charley Mitchell wrote to Tom Allen, saying he would give Corbett a surprise before the tenth round; the letter appears in a separate item." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Saturday Evening, November 19, 1892, page 8." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Headline for the letter text in article 877; consider merging 876 into 877 or recropping. Facts recorded under 877."
+}

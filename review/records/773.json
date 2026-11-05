@@ -1,0 +1,26 @@
+{
+  "id": "773",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole list, reprinted from the Cleveland Plain Dealer." },
+  "ocr": { "status": "rough", "notes": "Most names and dates readable; a fold down the middle garbles several dates (e.g. '1ao™ Allen, from July 3551669')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Daily Globe-Democrat reprinted a Cleveland Plain Dealer list of American champions since 1841, crediting Tom Allen with the title from July 15, 1869, to May 10, 1870, and again from Mace's retirement to September 7, 1876." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead on page 8: St. Louis Daily Globe-Democrat, Friday Morning, July 19, 1889." },
+  "facts": [
+    {
+      "fact": "The Cleveland Plain Dealer's list of American champions credited Allen with the title from July 15, 1869 (after Mike McCool) to May 10, 1870 (Jem Mace), and again from Mace's retirement until his loss to Joe Goss on September 7, 1876",
+      "date": "1889-07-19",
+      "people": ["Mike McCool", "Jem Mace", "Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The list's dates are the Plain Dealer's claims, not verified. Related to the index lines on Allen losing the title to Mace in May 1870 and regaining it, but those have no id."
+}

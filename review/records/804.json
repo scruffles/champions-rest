@@ -1,0 +1,56 @@
+{
+  "id": "804",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Local Gossip column of several speakers; only the Hugh McManus paragraph (crop pieces 1-2) concerns Allen. Others (Tim Farrell, Dr. Robinson, James McDonald, C. L. Stoker, Walter Collier) unrelated; column continues past the end of the crop."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": ""
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": true,
+    "suggested": ""
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Globe-Democrat, Sunday Morning, December 14, 1890, Part Third."
+  },
+  "facts": [
+    {
+      "fact": "Before Joe Coburn's 1868 match with Jem Mace in England, the Mace party pitted Joe Goss, Tom Allen and Bill Rayne against Coburn to test and wear him out; Coburn bested them all",
+      "date": "1868",
+      "people": [
+        "Joe Coburn",
+        "Jem Mace",
+        "Joe Goss",
+        "Bill Rayne",
+        "Hugh McManus"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Hugh McManus's recollection, secondhand. Same episode as 802, which spells the third man 'Bill Rayel'."
+}

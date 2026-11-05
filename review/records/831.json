@@ -1,0 +1,50 @@
+{
+  "id": "831",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Allen notice is the first three lines; crops 1-3 are otherwise an unrelated 'Graduating Exercises' story on the Normal School and Central High School."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "The Allen line is garbled ('gat ALLEN, leech ene be pugilist'); the rest is the graduation story, mostly readable."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen's Concert Hall on Market Street"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat ran a standing notice under Sporting Notes for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only the best singers."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday, January 23, 1892, page 7. Recurring paid notice; the same text appears in records 828-832."
+  },
+  "facts": [
+    {
+      "fact": "Allen ran a concert saloon at 619 Market Street, St. Louis, advertising free concerts every evening and billing himself as retired champion pugilist of the world",
+      "date": "1892-01",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

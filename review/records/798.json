@@ -1,0 +1,36 @@
+{
+  "id": "798",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "A 'Sporting Notes' column of six items; only the second (a short notice for Allen's place) is about Allen. Others concern racing at Washington and Nashville, the Hibernian Football Club, amateur billiards and Comiskey's return to the Browns." },
+  "ocr": { "status": "good", "notes": "The Allen notice is readable apart from 'Marke:stresat' and 'Frese'; the rest has minor errors." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's Market Street saloon advertises free concerts" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's sporting notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only the best singers engaged." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead reads St. Louis Daily Globe-Democrat, Saturday Morning, November 8, 1890, page 7." },
+  "facts": [
+    {
+      "fact": "Allen's saloon was at 619 Market Street, where he advertised himself as retired champion pugilist of the world",
+      "date": "1890-11",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen's saloon offered a free concert every evening, advertising that only the best singers were engaged",
+      "date": "1890-11",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "019"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Allen line reads like a paid reading notice placed among the sporting news. The notice does not say 'concert hall'; current title slightly overstates it."
+}

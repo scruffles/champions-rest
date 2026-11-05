@@ -1,0 +1,50 @@
+{
+  "id": "884",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Sporting Notes column with three items; the middle one is Allen's notice"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "minor errors ('phasipion', 'ee coneert'); trailing garbage line"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's Sporting Notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only the best singers."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, December 25, 1892"
+  },
+  "facts": [
+    {
+      "fact": "Allen advertised his concert hall at 619 Market Street as \"retired champion pugilist of the world,\" with a free concert every evening",
+      "date": "1892-12",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Item is a short advertising notice in the Sporting Notes column; focus primary because the item is about him alone."
+}

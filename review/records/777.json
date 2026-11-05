@@ -1,0 +1,86 @@
+{
+  "id": "777",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Clipping is mostly other items (English Racing table, Wyoming Races, Turf Notes, Rabbit Chasing illustration); only the last six lines of the Allen story are included at the bottom of crop-5. The headline 'St. Louis Sports Arraigned' and the opening of the dispatch (bottom of column 2 on the page, below Rabbit Chasing) are missing."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Most of the transcript is the racing table and other items. The Allen lines are readable but garbled ('Tom kelly ander Paly', 'Mr. Boo' for 'Mr. Boe')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen arraigned at Troy over Lincoln County prize fight"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, Dan Daly, Ed Kelly, Tom Kelly and Artie Flint were arraigned at Troy, Mo., over a Lincoln County prize fight two years earlier; their cases were continued on $500 bonds."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, September 21, 1889, page 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen, with Dan Daly, Ed Kelly, Tom Kelly and Artie Flint, was arraigned before Judge Hughes in the Circuit Court at Troy, Mo., as a party to a prize fight in Lincoln County two years earlier; the cases were continued to the next term of court",
+      "date": "1889-09-20",
+      "people": [
+        "Dan Daly",
+        "Ed Kelly",
+        "Tom Kelly",
+        "Artie Flint",
+        "Judge Hughes"
+      ],
+      "places": [
+        "Circuit Court, Troy, Lincoln County, Missouri"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Each defendant was held in a $500 bond for his appearance, with Allen, Tom Kelly and Dan Daly becoming bondsmen for all; they were represented by N. C. Dryden of Troy and Mr. Boe of St. Louis",
+      "date": "1889-09-20",
+      "people": [
+        "Tom Kelly",
+        "Dan Daly",
+        "N. C. Dryden",
+        "Mr. Boe"
+      ],
+      "places": [
+        "Troy, Missouri"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and the other defendants traveled from St. Louis to Troy, Mo., for the arraignment and took the 4 o'clock train home the same day",
+      "date": "1889-09-20",
+      "people": [],
+      "places": [
+        "St. Louis, Missouri",
+        "Troy, Missouri"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Not a racing matter: it is the end of a Troy, Mo., dispatch 'St. Louis Sports Arraigned' (Sept. 20) about a Lincoln County prize fight (about 1887). The opening, read from page.jpg, names Dan Daly, Ed Kelly, Tom Kelly, Tom Allen and Artie Flint, arriving on the 11 o'clock train and registering at the Colbert Hotel. Crop should be redone to include the start. Article 778 is the same story on the same page; the two are likely duplicates."
+}

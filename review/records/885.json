@@ -1,0 +1,66 @@
+{
+  "id": "885",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full Sporting Notes column; two items mention Allen"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "a few errors ('Soppen' for Koppen, 'rene cores fms' for twenty-seven games)"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat noted that Denver heavyweight Ed Smith and his brother Paddy had spent a few days with their old friend Tom Allen, and carried Allen's notice for free nightly concerts at 619 Market Street."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon",
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, January 1, 1893"
+  },
+  "facts": [
+    {
+      "fact": "Allen advertised his concert hall at 619 Market Street as \"retired champion pugilist of the world,\" with a free concert every evening",
+      "date": "1892-12-31",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Denver heavyweight Ed Smith and his brother Paddy spent a few days visiting their old friend Tom Allen in St. Louis",
+      "date": "1892-12",
+      "people": [
+        "Ed Smith",
+        "Paddy Smith"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Smith visit is the week before Jan 1, 1893; Allen later seconded Smith against Joe Goddard (article 888)."
+}

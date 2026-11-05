@@ -1,0 +1,26 @@
+{
+  "id": "877",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'The Ring' section; the Allen item is the first paragraph, followed by unrelated pugilistic notes. Its headline deck is at the top of the 'Crimson and Blue' column (article 876)." },
+  "ocr": { "status": "good", "notes": "Minor errors (poms, m@ch)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Charley Mitchell Writes Tom Allen from London" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen received a letter from Charley Mitchell, dated London, Nov. 7, saying he was sure to fight Corbett and would surprise him within ten rounds, and discussing his pending assault appeal." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Saturday Evening, November 19, 1892, page 8." },
+  "facts": [
+    {
+      "fact": "Allen received a letter from Charley Mitchell in London about Mitchell's coming fight with Corbett and his assault appeal",
+      "date": "1892-11-07",
+      "people": ["Charley Mitchell", "James J. Corbett"],
+      "places": ["London", "St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Quotes in the item are Mitchell's, not Allen's."
+}

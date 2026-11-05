@@ -1,0 +1,64 @@
+{
+  "id": "781",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Includes the Lexington Live-Bird Shoot and 'A Bear Walks Into Town' items; the Allen part is the 'Sporting Notes' paragraph in the middle."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors ('worid', 'evehing', 'guestior ; tew')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen's Market Street concert notice; Edward Smith to visit"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's Sporting Notes carried a card for Tom Allen, retired champion pugilist of the world, at 619 Market Street with free concerts nightly, adding that Edward Smith would be his guest."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, April 5, 1890, page 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen advertised as 'retired champion pugilist of the world' at 619 Market Street, St. Louis, with a free concert every evening",
+      "date": "1890-04",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Edward Smith was to be Allen's guest for a few days",
+      "date": "1890-04",
+      "people": [
+        "Edward Smith"
+      ],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The title 'Announces Retirement From Prize Ring' is wrong; this is a standing notice. The same page has an 'Ed Smith as a Fighter' item (Denver pugilist), probably the same Edward Smith, but that is outside the clipping."
+}

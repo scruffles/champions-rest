@@ -1,0 +1,26 @@
+{
+  "id": "839",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "minor errors ('[ saw', '@eakened')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Tom Allen, waiting at the Southern Hotel to take Frank P. Slavin for a drive, said Fitzsimmons was clever but could not hit hard and that Maher weakened when he might have won." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, March 6, 1892, page 15. Short item in the Rotunda Talk column." },
+  "facts": [
+    {
+      "fact": "Allen said he saw the Fitzsimmons-Maher fight and that Fitzsimmons could not hit hard",
+      "date": "1892-03-05",
+      "people": ["Bob Fitzsimmons", "Peter Maher", "Frank P. Slavin"],
+      "places": ["Southern Hotel, St. Louis"],
+      "quote": "I saw the Fitzsimmons-Maher fight. Fitz is a clever man, but he can't 'it 'ard, you know. Maher just weakened when the fight might 'ave been 'is.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

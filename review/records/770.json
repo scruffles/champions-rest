@@ -1,0 +1,46 @@
+{
+  "id": "770",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'It's All the Talk' New Orleans dispatch, headline to end." },
+  "ocr": { "status": "good", "notes": "Readable; a few garbled words (Joe Coburn rendered as 'Joe pangs ME'), Allen's quotes correct apart from small errors." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen in New Orleans backs Kilrain" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported from New Orleans, on the eve of the Sullivan-Kilrain fight, that Tom Allen was among the pugilists at the St. Charles Hotel. He said he was for Kilrain but thought him too fat." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead: The St. Louis Republic, Monday Morning, July 8, 1889. Dispatch dated New Orleans, July 7." },
+  "facts": [
+    {
+      "fact": "Allen was in New Orleans for the Sullivan-Kilrain championship fight, among the pugilists gathered at the St. Charles Hotel",
+      "date": "1889-07-07",
+      "people": ["John L. Sullivan", "Jake Kilrain", "Joe Coburn"],
+      "places": ["St. Charles Hotel, New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Asked about the Sullivan-Kilrain fight, Allen said he backed Kilrain",
+      "date": "1889-07-07",
+      "people": ["Jake Kilrain"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "I am for Kilrain.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Kilrain's condition was good but he was too fat",
+      "date": "1889-07-07",
+      "people": ["Jake Kilrain"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "It is good, but I would like him better if he were not so fat. I like to see the cheek-bones sticking out.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same trip and topic as 771 (Post-Dispatch, same day)."
+}

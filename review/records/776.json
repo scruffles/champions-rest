@@ -1,0 +1,46 @@
+{
+  "id": "776",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Accurate." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen and Other Pugilists Leave for Trial in Lincoln County" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, Dan Daly, Artie Flint and Tom and Ed Kelly took the train to Troy, Lincoln County, Mo., for trial over the Daly-Kelly fight of two years earlier." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead on page 2: St. Louis Post-Dispatch, Monday, September 16, 1889." },
+  "facts": [
+    {
+      "fact": "Allen, Dan Daly, Artie Flint, Tom Kelly and Ed Kelly were arrested in St. Louis by Detectives Burke and Fitzgerald at the request of Lincoln County authorities over the Daly-Kelly prize fight",
+      "date": "1889-09",
+      "people": ["Dan Daly", "Artie Flint", "Tom Kelly", "Ed Kelly"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and the others took a Wabash train from Union Depot, St. Louis, to Troy, Lincoln County, Mo., to stand trial, expected that afternoon",
+      "date": "1889-09-16",
+      "people": ["Dan Daly", "Artie Flint", "Tom Kelly", "Ed Kelly"],
+      "places": ["Union Depot, St. Louis", "Troy, Lincoln County, Mo."],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Two years earlier the party went to Lincoln County, Mo., for the Dan Daly-Ed Kelly fight, in which Daly won the middleweight championship of Missouri",
+      "date": "1887",
+      "people": ["Dan Daly", "Ed Kelly"],
+      "places": ["Lincoln County, Mo."],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Arrest was 'about a week ago', so roughly 1889-09-09. Allen is one of five named, so focus suggested secondary. Follows article 775."
+}

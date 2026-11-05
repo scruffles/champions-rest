@@ -1,0 +1,51 @@
+{
+  "id": "863",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Full sporting column (Corbett/Donovan, Goddard, Burge, Pugilistic Pointers); Allen appears only in the 'A Well Known St. Louis Pugilist' item about Dublin Tricks in crops 3-4"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "readable with scattered errors ('fefeating', 'Dubiin')"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Dublin Tricks, Trainer of McCoole and Gallagher"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch profiled William Blake, known as Dublin Tricks, who trained Mike McCoole and Charlie Gallagher; it noted Gallagher met Tom Allen twice, defeating him the first time."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Tuesday, September 20, 1892, page 12"
+  },
+  "facts": [
+    {
+      "fact": "Charlie Gallagher fought Allen twice, defeating him the first time; Gallagher was trained by William Blake (Dublin Tricks)",
+      "date": "",
+      "people": [
+        "Charlie Gallagher",
+        "William Blake (Dublin Tricks)"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title wrongly implies Dublin Tricks trained Allen; he trained Allen's opponents McCoole and Gallagher."
+}

@@ -1,0 +1,50 @@
+{
+  "id": "887",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Sporting Notes column; Allen's notice is the first item, the rest is unrelated sports news"
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Allen item garbled ('champion goats', 'nota pillow Se gee Se 618 rket', 'test new songs' for 'Latest new songs'); rest mostly readable"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's Sporting Notes carried a notice for Tom Allen, \"retired champion pugilist of the world, not a pillow champion,\" at 618 Market Street, with a concert every evening and the latest new songs."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, February 4, 1893"
+  },
+  "facts": [
+    {
+      "fact": "Allen advertised himself as \"retired champion pugilist of the world, not a pillow champion,\" with a concert every evening at his Market Street hall",
+      "date": "1893-02",
+      "people": [],
+      "places": [
+        "618 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The image clearly prints 618 Market street; the other notices (884-886) say 619, so 618 is probably a misprint."
+}

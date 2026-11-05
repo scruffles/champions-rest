@@ -1,0 +1,26 @@
+{
+  "id": "840",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole Mitchell article; Allen appears only once, in the second paragraph." },
+  "ocr": { "status": "rough", "notes": "gist readable but many character errors, especially in the letters and headings" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Charles Mitchell dictated a reply refusing John L. Sullivan's challenge at the Southern Hotel, with Frank Slavin and Tom Allen, the retired heavy-weight champion, present." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Sunday, March 6, 1892, page 24." },
+  "facts": [
+    {
+      "fact": "Allen was present in Charles Mitchell's room at the Southern Hotel when Mitchell dictated his reply to John L. Sullivan's challenge, just before Mitchell and Slavin left for Buffalo",
+      "date": "1892-03-05",
+      "people": ["Charles Mitchell", "Frank P. Slavin", "Charles Tate", "John L. Sullivan"],
+      "places": ["Southern Hotel, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

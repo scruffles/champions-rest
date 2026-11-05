@@ -1,0 +1,53 @@
+{
+  "id": "764",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The item breaks off mid-sentence at the bottom ('Mr. Allen is himself a reformed prize-fighter and we may sup-'); it continues at the top of the next column on the page, outside the crop."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the crop; ends where the crop ends."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Republic Defends Tom Allen's Move to Stop Daly-McManus Fight"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic chided 'Deacon Houser's paper' (the Globe-Democrat) for protesting Tom Allen's interference with the Daly-McManus prize fight, noting that Allen was himself a reformed prize-fighter."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, December 9, 1888, page 4 (editorial page)."
+  },
+  "facts": [
+    {
+      "fact": "Allen's attempt to stop the Daly-McManus prize fight drew a protest from the Globe-Democrat, which said the fight should go on",
+      "date": "1888-12-07",
+      "people": [
+        "Dan Daly",
+        "Hugh McManus"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "The end of the item is in the next column and cannot be read at page.jpg resolution; recrop to include it. D. M. Houser was president of the Globe Printing Co. (Globe-Democrat), per the masthead in article 762."
+}

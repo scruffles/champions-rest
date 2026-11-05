@@ -1,0 +1,50 @@
+{
+  "id": "779",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Nine pieces covering General Sporting notes and many railroad items; the Allen part is only the two-line 'Tom Allen' card at the top of crop-2."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Allen card read correctly apart from 'Pugil@st'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic carried a card for Tom Allen, \"Retired Champion Pugilist of the World,\" at 619 Market Street, offering a free concert every evening."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St. Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Saturday Morning, February 8, 1890, page 6."
+  },
+  "facts": [
+    {
+      "fact": "Allen advertised himself as 'Retired Champion Pugilist of the World' at his place at 619 Market Street, St. Louis, with a free concert every evening",
+      "date": "1890-02",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Crop could be tightened to the two-line card. Article 780 is on the same page."
+}

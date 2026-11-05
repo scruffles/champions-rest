@@ -1,0 +1,36 @@
+{
+  "id": "801",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The 'Sporting Notes' heading and the single Allen notice. A vertical fold runs through the middle, obscuring a few letters, but the text is the standard notice." },
+  "ocr": { "status": "rough", "notes": "Fold damage garbles a few words ('str#@4', 'bh at A evening', 'aysers'); the image reads 'Free concert every evening. Best of singers only engaged.'" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's Market Street saloon advertises free concerts" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's sporting notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only the best singers engaged." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead reads St. Louis Daily Globe-Democrat, Saturday Morning, December [day obscured by fold], 1890, page 7; Saturday is consistent with December 6." },
+  "facts": [
+    {
+      "fact": "Allen's saloon was at 619 Market Street, where he advertised himself as retired champion pugilist of the world",
+      "date": "1890-12",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen's saloon offered a free concert every evening, advertising that only the best singers were engaged",
+      "date": "1890-12",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "019"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same recurring paid notice as 798 and 799."
+}

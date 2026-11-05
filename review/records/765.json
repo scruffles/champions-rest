@@ -1,0 +1,62 @@
+{
+  "id": "765",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole reprinted article, headline to end."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Readable; a few dropped letters."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Few Champion Pugilists Kept Their Money"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic reprinted a New York Herald piece on how champion pugilists made and lost fortunes. It noted that old Tom Allen, beaten by Jem Mace, was 'living after a fashion in St. Louis.'"
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Friday Morning, December 28, 1888, page 6. Reprinted from the New York Herald."
+  },
+  "facts": [
+    {
+      "fact": "Allen lost to Jem Mace, said to be not far from the spot where John L. Sullivan beat Paddy Ryan",
+      "date": "",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In late 1888 Allen was described as 'living after a fashion in St. Louis', one of many old champions without much money",
+      "date": "1888-12",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title 'Jem Mace Defeats Tom Allen' is misleading; the article is a general piece on boxers' finances and mentions Allen in one sentence. Current summary does not mention Allen."
+}

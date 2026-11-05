@@ -1,0 +1,15 @@
+{
+  "id": "808",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Excerpt (crowd section) of the long Fitzsimmons-Dempsey fight report; the passage naming Allen is complete. Ends with the first line of the next paragraph." },
+  "ocr": { "status": "good", "notes": "Many letter errors but names readable ('Tom Alien', 'Frea Walker')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Backer Fred Walker at Fitzsimmons-Dempsey Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Daily Globe-Democrat, listing the crowd at the Fitzsimmons-Dempsey fight in New Orleans, noted Fred Walker of St. Louis, who had bet on Tom Allen in his fights with Mace and others." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, January 15, 1891, page 2. The fight was Fitzsimmons vs. Dempsey, not Sullivan; current title is wrong." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Only fact about Allen is that Fred Walker bet on him against Mace and others; too minor for the facts list."
+}

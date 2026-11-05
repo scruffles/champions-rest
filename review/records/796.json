@@ -1,0 +1,50 @@
+{
+  "id": "796",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Includes unrelated Hibernian Foot-ball Club and Blue Bells football notes below the Allen item."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor character errors only."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat carried a sporting note advertising Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, with a free concert every evening and \"the best of singers only engaged.\""
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, October 25, 1890, page 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen's saloon at 619 Market Street, St. Louis, advertised free concerts every evening",
+      "date": "1890-10",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "A short paid-style notice, the same advertisement that ran in other 1890 issues."
+}

@@ -1,0 +1,50 @@
+{
+  "id": "830",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Whole 'Sporting Notes' column; only the first paragraph is about Allen. The others are a benefit for Charley and John Daly, a Steinitz chess decision and pedestrian Norman J. Taylor."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Readable with scattered errors; covers the whole 'Sporting Notes' column."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen's Concert Hall on Market Street"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat ran a standing notice under Sporting Notes for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only the best singers."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday, December 19, 1891, page 7. Recurring paid notice; the same text appears in records 828-832."
+  },
+  "facts": [
+    {
+      "fact": "Allen ran a concert saloon at 619 Market Street, St. Louis, advertising free concerts every evening and billing himself as retired champion pugilist of the world",
+      "date": "1891-12",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title 'Tom Allen in Prize Fight' is wrong; the item is a concert-hall notice."
+}

@@ -1,0 +1,51 @@
+{
+  "id": "766",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole 'Concerning Sluggers' letter, headline to the 'P. J.' signature."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Readable; small slips (John ELE, teibs)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Writer Says Old-Time Champions Like Tom Allen Were All Beaten"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch's New York correspondent mocked a critic of Jack Dempsey, arguing that old champions such as Sayers, Heenan, Mace and Tom Allen had all been beaten, while Dempsey never had."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Running head: St. Louis Post-Dispatch, Sunday, January 20, 1889, page 16. Telegraph letter from New York dated January 19, signed P. J."
+  },
+  "facts": [
+    {
+      "fact": "The writer listed Allen among old champions who were beaten: Mace beat Allen, and Allen was whipped by Joe Goss",
+      "date": "",
+      "people": [
+        "Jem Mace",
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen appears only in the closing paragraph."
+}

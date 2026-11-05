@@ -1,0 +1,36 @@
+{
+  "id": "772",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping covers the full first column of the story; it continues in the next column (Sullivan party's journey to the train), which is not in the crop. Both Allen mentions are inside the clipping." },
+  "ocr": { "status": "rough", "notes": "Gist and names readable (Tom Allen, Tom Kelley, Dalys, Fred Watkins, Hugh McManus) but many broken words and line-edge errors." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported from New Orleans on the eve of the Sullivan-Kilrain fight that Tom Allen and Tom Kelley had arrived with a St. Louis party and both favored Jake Kilrain." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Globe-Democrat, Monday Morning, July 8, 1889, front page. Dispatch dated New Orleans, July 7." },
+  "facts": [
+    {
+      "fact": "Allen traveled from St. Louis to New Orleans with a St. Louis sporting party (the Dalys, Tom Kelley, Fred Watkins, Hugh McManus) for the Sullivan-Kilrain championship fight, stopping at the St. Charles Hotel",
+      "date": "1889-07-07",
+      "people": ["Tom Kelley", "Dan Daly", "Fred Watkins", "Hugh McManus"],
+      "places": ["St. Louis", "St. Charles Hotel, New Orleans"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Tom Kelley favored Jake Kilrain to beat John L. Sullivan in their championship fight",
+      "date": "1889-07-07",
+      "people": ["Tom Kelley", "Jake Kilrain", "John L. Sullivan"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is only two short mentions in a long fight-eve story, so focus suggested passing."
+}

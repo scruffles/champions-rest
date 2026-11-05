@@ -1,0 +1,69 @@
+{
+  "id": "859",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Clipping starts mid-article (headline 'Monday Night's Battle' and New Orleans dateline in the column to the left are not in the crop); the Allen part, 'The St. Louis Delegation' subsection at the end, is complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; a few garbled names (e.g. 'Ben hee g' for Ben Brady)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen Arrives in New Orleans with the St. Louis Delegation"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported from New Orleans that Tom Allen and Tom Kelly, \"the prize ring veterans,\" arrived with a large St. Louis delegation for the championship fights; Allen was very positive Sullivan would win."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, September 4, 1892, page 3. Dispatch from New Orleans dated September 3."
+  },
+  "facts": [
+    {
+      "fact": "Allen traveled from St. Louis to New Orleans with a large St. Louis sporting delegation, including Tom Kelly and his old backer Fred Watkins, for the Sullivan-Corbett, Myer-McAuliffe and Dixon-Skelly fights",
+      "date": "1892-09-03",
+      "people": [
+        "Tom Kelly",
+        "Fred Watkins"
+      ],
+      "places": [
+        "St. Louis",
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was very positive that John L. Sullivan would beat Corbett",
+      "date": "1892-09-03",
+      "people": [
+        "John L. Sullivan",
+        "James J. Corbett"
+      ],
+      "places": [
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fred Watkins described as 'Allen's old backer'. Related to the existing (unnumbered, 000) fact about Allen returning from a New Orleans fight in early September 1892."
+}
