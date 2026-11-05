@@ -47,6 +47,20 @@
 
 ## Backlog
 
+### Article review follow-up (from the full review, see `review/`)
+- Approve and merge the review records into `data/database.js`: 458 title fixes, 979 summary rewrites, 503 focus changes, and tags for every article (replaces the keyword-guessed topics)
+- Rename papers to their name at the time (424 records): Daily Missouri Democrat / St. Louis Democrat before May 1875, St. Louis Evening Dispatch or Evening Post before Dec 1878, Missouri Republican before 1888. Normalize "St. Louis Democrat" vs "Daily Missouri Democrat" and "The Republican" vs "Missouri Republican" first
+- Fix 8 article dates flagged against the masthead (e.g. 030, 185, 187, 192, 394, 398, 405, 428)
+- Remove the 3 articles that are not about him (232, 233, 998) and decide on the 14 marked unsure (e.g. 133, 190, 332, 362, 683, 714, 918)
+- Remove or merge about 25 duplicate and split articles listed in `review/FINDINGS.md` (e.g. 328/329, 403/402, 518/517, 1007/1008, 297+298, 303+304, 855+856)
+- Consolidate the 2,194 extracted facts into `data/facts.js`, keeping existing fact ids; give the facts with id `000` or no id real ids first
+- Resolve the fact conflicts in `review/FINDINGS.md`: birth year (1839 vs 1840/1841), arrival in America, Crimean War vs Indian Mutiny, belt presentation date, Halifax sailing date, burial (Calvary vs Bellefontaine), saloon address (615/618/619 Market), will, widower, brothers and sister
+- Fix `data/fights.js`: the 1869-08-17 Gallagher fight is recorded as a win but was decided a draw (352, 647; 643 disagrees); 1876 Goss fight lost on a foul in round 21
+- Re-capture from newspapers.com the 440 articles in `review/ISSUES.md` (cut-off and mixed crops, wrong articles, unreadable full pages), then re-review them
+- Re-OCR or hand-transcribe the 23 unusable and 12 missing transcripts, and the transcripts with meaning-changing errors noted in `FINDINGS.md` (e.g. 106, 109, 203, 617)
+- Find source images for the articles with none (055, 072, 073, 076, 095, 098, 105, 128, 195, 239)
+- Bring the full transcripts of articles 000–281 into `data/new_articles.json` so search covers them
+
 ### Filtering & Navigation
 - Tag the remaining articles (32 have real tags; the rest still use keyword-guessed topics)
 - The `not_tom` flag was wrong for 32 of 39 articles, so the automatic `focus` levels may also be unreliable; spot-check them
@@ -63,12 +77,6 @@
 - Re-calculate Tom Allen's match history (wins/losses/opponents) by cross-referencing all 1,017 articles - current record page may be incomplete or inaccurate
 - Update Record page format with more textual summaries and quotes
 - Check two likely date typos in `data/fights.js`: George Rooke "1978-07-15" and Cleary "1978 ish" (probably 1878); they currently show under "Uncertain dates"
-
-### Article review follow-up
-- Merge approved review records into `data/database.js` (titles, summaries, focus, tags, paper names at the time)
-- Consolidate the 2,194 extracted facts into `data/facts.js`, keeping existing fact ids
-- Resolve the conflicts in `review/FINDINGS.md` (birth year, 1869 Gallagher result, burial place, saloon address, duplicates)
-- Re-capture the articles in `review/ISSUES.md` from newspapers.com
 
 ### Biography
 - Build a new, more complete biography grounded in primary sources
