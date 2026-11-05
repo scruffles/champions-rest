@@ -1,0 +1,26 @@
+{
+  "id": "702",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Main headline 'THE CHAMPION HERE.' above the decks is not in the clipping; article text complete through the baseball line-up." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that John L. Sullivan, arriving in St. Louis with his company, visited Tom Kelly's and Tom Allen's saloons on Market Street; at Allen's the party drank champagne in a private room, though Sullivan drank nothing." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, November 4, 1883. Sullivan arrived November 3." },
+  "facts": [
+    {
+      "fact": "Champion John L. Sullivan and his party visited Tom Allen's saloon on Market Street, where they drank champagne in a private room",
+      "date": "1883-11-03",
+      "people": ["John L. Sullivan", "Al Smith", "Tom Kelly"],
+      "places": ["Tom Allen's saloon, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

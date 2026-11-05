@@ -1,0 +1,26 @@
+{
+  "id": "708",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The Fourth of July Sports article is complete; the bottom of the clip also has unrelated Marine Intelligence and a Horsford's Acid Phosphate ad." },
+  "ocr": { "status": "good", "notes": "Minor errors (e.g. 'Allon', 'tha')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen and Tom Kelly to spar at Fourth of July tournament" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen, Tom Kelly and Bill Richards had arranged an athletic and sparring tournament at the Union grounds for July 4, ending with Allen and Kelly sparring for the Union club cup." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Wednesday Morning, June 25, 1884, page 6. It was the Missouri Republican until 1888." },
+  "facts": [
+    {
+      "fact": "Allen, Tom Kelly and Bill Richards arranged an athletic and sparring tournament at the Union grounds for July 4, 1884, ending with a sparring wind-up between Allen ('ex-champion of the world') and Kelly for a silver Union club cup",
+      "date": "1884-07-04",
+      "people": ["Tom Kelly", "Bill Richards"],
+      "places": ["Union grounds, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Announcement only; whether the exhibition took place is not stated."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "740",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headline to end, with portraits of Ed Kelly and Dan Daly." },
+  "ocr": { "status": "rough", "notes": "Most of the narrative is readable, but the text around the two portraits and rounds 26-37 are badly garbled." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Dan Daly beat Ed Kelly, son of Tom Kelly, in a brutal 62-round glove fight at Hurricane, Missouri, the longest on record. Tom Allen and Tom Kelly seconded young Kelly." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Wednesday Morning, April 27, 1887', page 8. The fight was 'yesterday', April 26." },
+  "facts": [
+    {
+      "fact": "Allen and Tom Kelly seconded Ed Kelly in his 62-round fight with Dan Daly under Queensberry rules for a $500 stake; Daly was given the fight after about four hours",
+      "date": "1887-04-26",
+      "people": ["Ed Kelly", "Tom Kelly", "Dan Daly"],
+      "places": ["Hurricane, Missouri (near Richfield, on the Chicago, Burlington and Quincy line)"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is mentioned only once, as Ed Kelly's second; the article is about the Daly-Kelly fight. The deck says four hours seven minutes, while the text gives 12:25 to 4:20 p.m."
+}

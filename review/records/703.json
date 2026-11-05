@@ -1,0 +1,15 @@
+{
+  "id": "703",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors (Zachritz spelled several ways)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Sullivan declines match with Zachritz, backed by Allen's former backer" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that John L. Sullivan, fearing Missouri's prize-fighting laws, refused Tom Kelly's proposal to match Fred Zachritz against him; Zachritz was backed by a doctor and a former backer of Tom Allen." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, November 8, 1883." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Current title ('Tom Allen in Prize Fight') is wrong; Allen is mentioned only as the former client of one of Zachritz's backers."
+}

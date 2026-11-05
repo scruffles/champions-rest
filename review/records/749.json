@@ -1,0 +1,36 @@
+{
+  "id": "749",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping is the whole Sporting column. The Allen items are the first, 'Flint and McManus Matched', and the second, 'McMillan Stands Off Muldoon' (Allen as time-keeper); the rest (Wilmington fight, Kansas City wrestling, horse sale, New Orleans entries, paper chase, gun club, Diamond Dust) is unrelated." },
+  "ocr": { "status": "rough", "notes": "The Flint-McManus paragraph is badly garbled (headline missing, 'Tom Allen'sat 2', 'make the spe 160 pound$', '$160 deposited'); the image clearly reads a 150-pound limit and a $100 deposit. Later items are better." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Arranges Flint-McManus Match" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, acting for Flint, signed articles at Tom Kelly's for a finish fight with Hugh McManus at 150 pounds for $500 a side. Allen was also time-keeper at the Standard." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, February 22, 1888, page 8. Events took place February 21, 1888." },
+  "facts": [
+    {
+      "fact": "Acting for Flint, Allen arranged a fight to a finish between Flint and McManus with skin gloves under Marquis of Queensberry rules, at 150 pounds, for $500 a side; the parties met at Allen's place and signed articles at Tom Kelly's, Allen signing as witness",
+      "date": "1888-02-21",
+      "people": ["Flint", "McManus", "Jim Sweeney", "Tom Kelly"],
+      "places": ["Tom Allen's, St. Louis", "Tom Kelly's, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen was time-keeper at the Standard when Detroit wrestler D. McMillan stayed fifteen minutes with William Muldoon at Graeco-Roman wrestling",
+      "date": "1888-02-21",
+      "people": ["D. McMillan", "William Muldoon", "Prof. Clark"],
+      "places": ["Standard Theatre, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Muldoon's first name and 'Theatre' are not printed (the article says 'Muldoon' and 'The Standard'). McManus is likely Hugh McManus (see existing fact on sparring with Hugh McManus in 1888) but the first name is not given here."
+}

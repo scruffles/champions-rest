@@ -1,0 +1,26 @@
+{
+  "id": "736",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Mike McCoole's Death' item; top two lines belong to the previous item" },
+  "ocr": { "status": "good", "notes": "Readable; stray column-rule characters and small errors ('pngilist', 'MeCoole', 'Aechieved')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Mike McCoole died at the Charity Hospital in New Orleans, noting he had twice fought Tom Allen, the first battle interrupted and Allen winning the second." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Monday, October 18, 1886, page 7" },
+  "facts": [
+    {
+      "fact": "McCoole's obituary said he twice fought Allen, the first battle being interrupted and Allen winning the second",
+      "date": "",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen appears only in the last sentence of a McCoole career sketch. The article gives no dates or places for the two fights. McCoole's death relates to existing fact 023/024 but is not about Allen."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "700",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Minor errors; McFadden's name garbled in OCR ('pe adtan')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen doubts report of St. Louis pugilist beaten in Idaho" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, shown a dispatch about a $1,000 prize fight at Caldwell, Idaho, between McFadden of Winnipeg and Martland of St. Louis, said he knew neither man and doubted the account. Tom Kelly agreed." },
+  "focus": { "current": "passing", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, November 1, 1883." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen's view is paraphrased, not quoted; no biography-level facts."
+}

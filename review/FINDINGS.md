@@ -65,3 +65,4 @@ Cross-article findings to resolve when merging records into the data. Per-articl
 - 655 and 657 are the same Globe-Democrat item on the same page; 657 is the better crop. 654: Allen caused the 1874 panic, not prevented it (current summary is backwards).
 - Gallagher 1869-08-17: 643 says Allen won at $500 a side; 647 says a draw at $1,000 a side (see 352). 646 duplicates 645 (headline only).
 - 688 is probably a duplicate of 689 (its clipping is the billiard tourney report).
+- Birth year: 738 also gives 1840.

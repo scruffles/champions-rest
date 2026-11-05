@@ -1,0 +1,26 @@
+{
+  "id": "738",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "The intro is mostly right; the table of names and years is largely garbled ('MTOM AMeM' for Tom Allen, years unreadable)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reprinted a Pittsburg Dispatch table of famous pugilists' lifespans, meant to show boxers are not short-lived. Tom Allen was listed as born in 1840 and still living." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Wednesday Morning, February 2, 1887', page 8." },
+  "facts": [
+    {
+      "fact": "A table of pugilists' lifespans gave Allen's birth year as 1840 and listed him as still living",
+      "date": "1840",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The 1840 birth year differs from fact 001 (April 23, 1839)."
+}

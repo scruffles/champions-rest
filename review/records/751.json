@@ -1,0 +1,46 @@
+{
+  "id": "751",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole 'Answers to Correspondents' column; only the answer to 'Sport' concerns Allen." },
+  "ocr": { "status": "good", "notes": "Accurate apart from the first lines ('P pee ROC eee' for 'Subscriber.—Heenan and Sayers fought in 1860') and 'Oambridge' for 'Cambridge'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch answered a reader that Tom Allen was never prize-ring champion of England, but won the silver cup for the championship at boxing in England from Charles Davis at Cambridge in 1878." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Thursday, March 15, 1888, page 4." },
+  "facts": [
+    {
+      "fact": "Allen won the silver cup for the championship at boxing in England against Charles Davis at Cambridge in 1878, and still held the cup in 1888",
+      "date": "1878",
+      "people": ["Charles Davis"],
+      "places": ["Cambridge"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "022"
+    },
+    {
+      "fact": "The Post-Dispatch stated that Allen was never champion of the prize ring in England",
+      "date": "",
+      "people": [],
+      "places": ["England"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen won the championship of America from Mike McCoole",
+      "date": "",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper's claim that Allen was never English prize-ring champion conflicts with the existing fact that he claimed the English title on arriving in America."
+}

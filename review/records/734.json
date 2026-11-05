@@ -1,0 +1,15 @@
+{
+  "id": "734",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Between the Races' column of race-day gossip; the Allen line is in crop 2" },
+  "ocr": { "status": "good", "notes": "Mostly right; a few small errors (e.g. 'M. J. Murray' for M. J. Murphy, 'Bap Gay' for Bad day)" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican's race-day gossip column noted that prize-fighter Tom Allen, ex-champion, bet on Cuban Queen at the St. Louis races because her father was named Strathmore." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Wednesday Morning, June 16, 1886, page 6 (Missouri Republican, not yet the St. Louis Republic)" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "One-line mention in a gossip column; a bet at the races is too minor for a biography fact."
+}

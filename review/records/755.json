@@ -1,0 +1,26 @@
+{
+  "id": "755",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article; the top includes an unrelated one-line Snow Flake Bread advertisement." },
+  "ocr": { "status": "good", "notes": "Transcript starts with the bread advertisement." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Warrants Issued for Allen and Others in McManus-Flint Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that the Franklin County sheriff came to St. Louis with nine warrants over the McManus-Flint fight, including one for Tom Allen as Flint's second, charged with aiding and abetting a prize fight." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Wednesday, April 18, 1888, page 5." },
+  "facts": [
+    {
+      "fact": "A Franklin County justice issued a warrant charging Allen, as one of Artie Flint's seconds, with aiding and abetting the McManus-Flint prize fight, a felony carrying two to ten years in the penitentiary",
+      "date": "1888-04-18",
+      "people": ["Sheriff Ehlers", "Artie Flint", "Hugh McManus", "Jack Brohan"],
+      "places": ["Franklin County, Missouri", "St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title 'Tom Allen in Prize Fight' is misleading; the article is about warrants. Current summary is a garbled sentence fragment."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "730",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Bottom cut off mid-sentence ('He opened several objectiona-'); the rest of the obituary continues on the page. Crop also includes part of a large 'SALE' advertisement below." },
+  "ocr": { "status": "rough", "notes": "Address and stake garbled ('LM Chestuut', '5H.'); image reads 1314 Chestnut street and $5,000 a side." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported the death of Billy Carroll, a St. Louis sporting man who ran excursions to local fights and once backed Tom Allen against Jem Mace for $5,000 a side." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, November 26, 1885, page 8." },
+  "facts": [
+    {
+      "fact": "Billy Carroll, a St. Louis sporting man, backed Allen against Jem Mace for $5,000 a side",
+      "date": "",
+      "people": ["Billy Carroll", "Jem Mace"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Which Mace match is not stated. Re-crop to include the end of the obituary if wanted."
+}

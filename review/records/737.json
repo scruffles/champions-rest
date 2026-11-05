@@ -1,0 +1,36 @@
+{
+  "id": "737",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The main headline is missing. On the page the column opens 'PRIZE-RING RULES. Why Fights for Championships Must Be Governed by Them.' above the deck that starts the clipping. The body and Allen's statement are complete." },
+  "ocr": { "status": "good", "notes": "Mostly right, with scattered errors ('gem Allen' for 'Tom Allen', 'Jem in correspondence' for 'I am in correspondence', 'Qmaha' for 'Omaha')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported Tom Allen's word that Jem Smith, with whom he was corresponding, would fight Sullivan only under London prize-ring rules with bare fists, and not east of Omaha." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'St. Louis Post-Dispatch, Tuesday, January 4, 1887', page 5. Most of the item is Tom Kelly's view on championships; Allen's statement is the last paragraph." },
+  "facts": [
+    {
+      "fact": "Allen said he was in correspondence with English champion Jem Smith, who told him he would not fight Sullivan east of Omaha and only under London prize-ring rules with bare fists",
+      "date": "1887-01",
+      "people": ["Jem Smith", "John L. Sullivan"],
+      "places": ["Omaha"],
+      "quote": "I am in correspondence with Smith and he tells me that he will not fight Sullivan east of Omaha. He doesn't think he would be given a fair show in any city in the Eastern country and if he fights he's got to fight fair.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said a Smith-Sullivan fight would be for the championship and no championship could be won under any rules but the London prize-ring rules",
+      "date": "1887-01",
+      "people": ["Jem Smith", "John L. Sullivan"],
+      "places": [],
+      "quote": "If Jem Smith of England fights Sullivan, he must fight him under London prize-ring rules, with bare fists, of course. A fight between Smith and Sullivan would be for the championship and no championship could be won under any other rules. No gloves can be used at all.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Recrop to include the 'PRIZE-RING RULES' headline if wanted."
+}

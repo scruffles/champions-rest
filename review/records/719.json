@@ -1,0 +1,52 @@
+{
+  "id": "719",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "The ad's top banner 'THE GLORIOUS FOURTH' is cut off; the rest of the ad is complete."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Two-column ad read across columns; key names and details readable."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch carried an ad for a Fourth of July athletic tournament at the Union Base Ball Grounds, where ex-champions Tom Allen and Tom Kelly would spar the wind-up."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Thursday, July 3, 1884."
+  },
+  "facts": [
+    {
+      "fact": "Allen and Tom Kelly, billed as ex-champion pugilists of the world, were advertised to spar the wind-up of a Fourth of July athletic tournament at the Union Base Ball Grounds, Cass and Jefferson avenues, St. Louis",
+      "date": "1884-07-04",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Union Base Ball Grounds, Cass and Jefferson Avenues, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Advertisement. Same ad as 720 and 722."
+}

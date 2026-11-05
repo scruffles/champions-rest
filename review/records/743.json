@@ -1,0 +1,15 @@
+{
+  "id": "743",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping is the last column of the 'Local Gossip' column: items on mail theft, etchings (Andrew Redheffer), St. Louis buildings (Sergt. McFarland), the prize ring (Tom Kelly) and glass eyes (an optician). Only the Tom Kelly item mentions Allen." },
+  "ocr": { "status": "rough", "notes": "Gist readable but many errors from the column rules; the Allen sentence is mostly correct." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Kelly cites Tom Allen on Jem Mace's left hand" },
+  "summary": { "ok": false, "suggested": "In the St. Louis Globe-Democrat's Local Gossip column, Tom Kelly said Tom Allen credited Jem Mace's success chiefly to his left hand, and referred readers to Allen for details of Kelly's fight with Jack Rooke in England." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, November 27, 1887, page 6." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen's view of Mace is reported secondhand by Tom Kelly, not in Allen's own words, so no quote fact was recorded."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "741",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "A 'Sporting Notes' column of unrelated items; only the fourth item is about Allen." },
+  "ocr": { "status": "good", "notes": "First item garbled ('neers Noran' for Pete Nolan, 'bi ry' for Mike Cleary); the rest right." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat noted that Tom Allen, the ex-champion, said Jem Smith would not only beat Jake Kilrain but would whip John L. Sullivan if they ever met." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Thursday Morning, August 4, 1887', page 8. The note says only 'Smith'; Jem Smith is implied by the Kilrain match." },
+  "facts": [
+    {
+      "fact": "Allen predicted that Smith would beat Jake Kilrain and would whip John L. Sullivan if they ever met",
+      "date": "1887-08",
+      "people": ["Jem Smith", "Jake Kilrain", "John L. Sullivan"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

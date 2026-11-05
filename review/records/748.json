@@ -1,0 +1,26 @@
+{
+  "id": "748",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The 'A Fighter's Memory' interview with Bob Farrell continues into the next column on the page (illustration 'The Side-Step' and more dialogue); the clipping ends at '\"Yes.\"'. The Allen mention is inside the clipping." },
+  "ocr": { "status": "good", "notes": "Mostly right, but the key Allen passage near the Farrell illustration is garbled ('Mace went to Hew Ogleans to fight wom jie and Cobara'); image reads 'Mace went to New Orleans to fight Tom Allen and Coburn went along as Mace's second.'" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Bob Farrell Recalls Mace Going to New Orleans to Fight Tom Allen" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican printed veteran pugilist Bob Farrell's reminiscences of Jem Mace, recalling that Mace went to New Orleans to fight Tom Allen, with Joe Coburn going along as Mace's second." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican: St. Louis, Sunday Morning, January 29, 1888', page 14 (the Missouri Republican, before its rename to the St. Louis Republic)." },
+  "facts": [
+    {
+      "fact": "Jem Mace went to New Orleans to fight Tom Allen, with Joe Coburn as Mace's second, according to Bob Farrell's recollection",
+      "date": "1870",
+      "people": ["Jem Mace", "Joe Coburn", "Bob Farrell"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The fight date (1870) is from the known Mace-Allen fight, not stated in the article; the article gives no date. Most of the item is other sporting news and Mace-Coburn anecdotes."
+}

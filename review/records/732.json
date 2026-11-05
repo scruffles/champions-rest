@@ -1,0 +1,26 @@
+{
+  "id": "732",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Paddy Ryan's Guff' letter from headline to the MACON signature; Allen is mentioned once in the first paragraph" },
+  "ocr": { "status": "good", "notes": "Mostly right; scattered garbles (e.g. 'GUFE', 'George ites mig' for George Freyer, 'Polo Gioonta', several phrases in the Ashton and Fogarty paragraphs)" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Philadelphia Letter Says Goss's Backers Robbed Allen at Walton" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch printed a Philadelphia sporting letter on Paddy Ryan, which said Joe Goss had been dubbed Champion of America because his backers robbed Tom Allen out of their fight at Walton, Kentucky." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Saturday, May 29, 1886, page 9; letter datelined Philadelphia, May 27, signed MACON" },
+  "facts": [
+    {
+      "fact": "A Philadelphia correspondent wrote that Joe Goss was dubbed Champion of America because the gang behind him robbed Allen out of their fight at Walton, Kentucky",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["Walton, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen appears in one sentence of a long column about Paddy Ryan, Arthur Chambers, McCaffrey and others, so focus is passing. The claim is the correspondent's opinion; the fight date (1876) comes from the known Goss fight, not this article, which gives none."
+}

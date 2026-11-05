@@ -1,0 +1,15 @@
+{
+  "id": "731",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Jack and Joe' Macon column, headline to signature, including the continuation at the top of column 2." },
+  "ocr": { "status": "rough", "notes": "Mostly readable but later sections have many garbled words." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch's Philadelphia correspondent Macon listed Tom Allen among the English fighters who had come to America, fought there and received fair treatment, in a column on Sullivan, Dempsey and Illingsworth." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Saturday, April 3, 1886, page 12." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen appears only in a list of English pugilists who fought in America."
+}

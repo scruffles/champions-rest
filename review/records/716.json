@@ -1,0 +1,52 @@
+{
+  "id": "716",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Ad complete except the 'The Glorious Fourth' heading above it; a strip of the next 'Fair Grounds!' ad is included at the bottom"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; a few garbled lines"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": true,
+    "suggested": ""
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, June 29, 1884"
+  },
+  "facts": [
+    {
+      "fact": "Allen and Tom Kelly, billed as the ex-champion pugilists of the world, were advertised to do the sparring wind-up at the Fourth of July athletic tournament at the Union Base Ball Grounds, Cass and Jefferson avenues, St. Louis",
+      "date": "1884-07-04",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Union Base Ball Grounds, Cass and Jefferson avenues, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same advertisement as 715 and 717."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "726",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Crop is the 'Death of Joe Goss' item, a sub-item under the 'JOE GOSS' sporting column on page 7; complete." },
+  "ocr": { "status": "rough", "notes": "Gist readable but many character errors (e.g. 'Toe' for Joe, 'Barlercern' for Barleycorn, garbled lines near Sullivan/Donelson)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Joe Goss Dies; Recollections of His Fights with Tom Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported Joe Goss's death of Bright's disease in Boston. Macon recalled Goss's draw with Tom Allen in England and their fight near Walton, Ky., which Allen lost on two foul blows though the better man." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Tuesday, March 24, 1885, page 7." },
+  "facts": [
+    {
+      "fact": "Allen and Joe Goss fought a draw in England, with Goss untrained",
+      "date": "",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Goss was brought to America by Eph Holland of Cincinnati to fight Allen",
+      "date": "",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Cincinnati", "England"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Goss near Walton, Kentucky, fighting defensively; he struck two foul blows and the fight was given to Goss",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["Walton, Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Existing summary is wrong: it says Allen won; the article says the fight was given against him on fouls. The reminiscence is by the columnist 'Macon', not a boxer. Fight date not in the article (1876 from context)."
+}

@@ -1,0 +1,68 @@
+{
+  "id": "723",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Stops at 'THE RICHARDS CUP'. The page shows the report continuing down column 1 (foot races, pole-leaping, light- and heavy-weight sparring) and possibly into column 2, which may mention Allen again. Left edge of the text is slightly clipped."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors at the clipped left edge."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen Umpires Boxing at Union Club Athletic Sports"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that about 4,000 people attended the Union Club athletic sports, where Tom Allen and Tom Kelly umpired the boxing and drew an ovation when they put on the mittens."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, July 5, 1884."
+  },
+  "facts": [
+    {
+      "fact": "Allen and Tom Kelly served as umpires for the boxing contests at the Union Club athletic sports, attended by about 4,000, at the Union Base Ball Park, St. Louis",
+      "date": "1884-07-04",
+      "people": [
+        "Tom Kelly",
+        "John Johnson",
+        "Bill Richards"
+      ],
+      "places": [
+        "Union Base Ball Park, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Tom Kelly received an ovation when they put on the mittens to spar at the Union Club athletic sports",
+      "date": "1884-07-04",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Union Base Ball Park, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Recrop to include the rest of the report; the omitted sparring section may describe the Allen-Kelly bout."
+}

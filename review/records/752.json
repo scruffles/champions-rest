@@ -1,0 +1,26 @@
+{
+  "id": "752",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, headline to closing rule." },
+  "ocr": { "status": "good", "notes": "Minor errors ('Alen', 'bim', 'Hie')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican quoted John Sweeney, Ben Hogan's old trainer, recalling the Allen-Hogan fight: he claimed a foul after two rounds, the armed crowd cut into the ring, and the referee called it a draw." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Republican: St. Louis, Tuesday Morning, April 3, 1888'; the paper was not yet renamed the St. Louis Republic." },
+  "facts": [
+    {
+      "fact": "Ben Hogan's fight with Allen was declared a draw by referee Bill Riley after Hogan's corner claimed a foul in the second round and the crowd cut into the ring with knives and revolvers, according to Hogan's trainer John Sweeney",
+      "date": "",
+      "people": ["Ben Hogan", "John Sweeney", "Bill Riley"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Recollection given in 1888; the article does not give the fight's date or place (the fight itself was in 1873). It also says Hogan put up $1,000 of his own money and that this was Hogan's last fight."
+}

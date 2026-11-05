@@ -1,0 +1,50 @@
+{
+  "id": "742",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Clipping covers only the first column of the Thurston story and runs into the St. Bernard Dollar Store ad (crops 5-6). The article continues for two more columns on the page; the continuation is not in the clipping."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Mostly readable with scattered errors; the transcript also includes the ad text at the end. The Allen passage is transcribed correctly."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Obituary of rough-and-tumble fighter Sherman Thurston mentions Allen"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat recalled the life of rough-and-tumble fighter Sherman Thurston, who died in Chicago. It said he had wrongly been written up as Tom Allen's trainer and that Allen was always afraid of him."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, October 23, 1887, page 20."
+  },
+  "facts": [
+    {
+      "fact": "The Globe-Democrat denied reports that rough-and-tumble fighter Sherman Thurston had been Allen's trainer, saying Allen was always afraid of him",
+      "date": "1887",
+      "people": [
+        "Sherman Thurston"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "The crop misses the article's continuation in the next two columns, which may mention Allen again; a recrop is needed to check."
+}

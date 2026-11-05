@@ -1,0 +1,49 @@
+{
+  "id": "789",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "A Hambrick & Co. book-betting notice at the top, then the Tom Allen 'Sporting Notes' notice, then an unrelated story, 'A Narrow Escape', about a falling stone on North Fourth Street."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The Allen notice is read correctly apart from small errors ('cf', 'eo-gaged')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat carried a notice for Tom Allen, retired champion pugilist of the world, at 619 Market Street, with a free concert every evening and only the best singers engaged."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "The masthead is too small to read on the scaled page; the page's dispatches are dated August 15, which fits an August 16, 1890 paper."
+  },
+  "facts": [
+    {
+      "fact": "Allen, billed as retired champion pugilist of the world, ran his saloon at 619 Market Street with a free concert every evening and only the best singers engaged",
+      "date": "1890-08",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Recrop to the 'Sporting Notes' item; the betting notice and the falling-stone story are not about Allen."
+}

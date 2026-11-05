@@ -1,0 +1,37 @@
+{
+  "id": "714",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "wrong_article",
+    "notes": "Clipping is the 'Aquatic Notes' rowing column; its 'Tom Allen' is a Modoc Boat Club oarsman, not the boxer. The Allen item on the page is 'The Union Club's Tournament' in the fourth column, which the clipping misses."
+  },
+  "ocr": {
+    "status": "unusable",
+    "notes": "Transcript is the Aquatic Notes column (accurate for that), not the Union Club's Tournament article the title and summary describe"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": true,
+    "suggested": ""
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Saturday, June 28, 1884"
+  },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Needs re-crop to 'The Union Club's Tournament' (column 4 of the page). The page image is too small to read that article, so title and summary could not be checked against it and no facts were taken."
+}

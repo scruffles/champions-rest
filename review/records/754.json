@@ -1,0 +1,26 @@
+{
+  "id": "754",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "Some names dropped ('Stephen' Frazee, Deputy Sheriff 'Bagby')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen was the first man arrested on the McManus-Flint prize-fight warrants, taken just before breakfast and released on $500 bond to appear at Union, Franklin County." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Wednesday, April 18, 1888, page 7." },
+  "facts": [
+    {
+      "fact": "Allen was the first arrested on Franklin County warrants over the McManus-Flint prize fight; he gave $500 bond at the Four Courts to appear before Justice Stephen Frazee at Union",
+      "date": "1888-04-18",
+      "people": ["Stephen Frazee", "Hugh McManus", "Artie Flint"],
+      "places": ["Four Courts, St. Louis", "Union, Franklin County, Missouri"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Focus raised to primary: the item leads with and is mostly about Allen's arrest, though others were also arrested."
+}

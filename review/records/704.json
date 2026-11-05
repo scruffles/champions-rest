@@ -1,0 +1,86 @@
+{
+  "id": "704",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping is the whole Sporting column (crops 1-12). The Allen arrest story is complete in crops 1-2, ending with 'Farrell's complaint.' Everything after (Colored Sluggers, college base ball, Hengle letter, New Orleans races, gymnasium notes, Diamond Dust, Sporting Notes, The Wheel) is unrelated." },
+  "ocr": { "status": "rough", "notes": "Allen section mostly readable with many character errors (e.g. 'Toi Allen', '3080 o'cloek', 'qacemons' for 'judgment', 'Furreli'); the time of arrest is '3:30 o'clock' in the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen was arrested at his Market Street saloon as a fugitive from Kentucky justice over his 1876 fight with Joe Goss, after bondsman W. J. Farrell filed a complaint." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Saloon", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, February 10, 1884, page 9. Arrest was 'yesterday afternoon', February 9." },
+  "facts": [
+    {
+      "fact": "Allen was arrested at his saloon on Market Street between Sixth and Seventh as a fugitive from Kentucky justice, and released that night on a $2,000 bond to appear before Judge Noonan",
+      "date": "1884-02-09",
+      "people": ["Thomas Donegan", "Chief Harrigan", "Joseph M. Schnaider", "Frederick Watkins", "Chester H. Krum", "Judge Noonan"],
+      "places": ["Market Street between Sixth and Seventh, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Joe Goss were both arrested after their September 1876 fight near Covington, Ky.; Goss was tried and fined $300, while Allen gave a $3,000 bond with Patrick Murphy of Cincinnati and W. J. Farrell and his brother of Covington as sureties",
+      "date": "1876-09",
+      "people": ["Joe Goss", "Patrick Murphy", "W. J. Farrell"],
+      "places": ["Covington, Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After giving bond in Kentucky, Allen left for England and stayed away about five years",
+      "date": "1877",
+      "people": [],
+      "places": ["Covington, Kentucky", "England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "015"
+    },
+    {
+      "fact": "Allen returned to St. Louis from England about a year and a half before February 1884",
+      "date": "1882",
+      "people": [],
+      "places": ["England", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": "016"
+    },
+    {
+      "fact": "Allen opened his saloon on Market Street about a year before February 1884",
+      "date": "1883",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "The bond was forfeited and Farrell's property sold to satisfy it; Allen said he had paid Farrell and Murphy $250 each, and a row over Farrell's demand for $200 more led to Farrell's complaint and the arrest",
+      "date": "1884-02",
+      "people": ["W. J. Farrell", "Patrick Murphy"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen told Farrell he wanted a fair show and would not be bled",
+      "date": "1884-02",
+      "people": ["W. J. Farrell"],
+      "places": ["St. Louis"],
+      "quote": "all he wanted was a fair show; that he didn't want to be bled, and didn't propose to be, and wanted time",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Quote is indirect speech as printed by the paper."
+}

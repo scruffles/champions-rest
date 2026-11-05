@@ -1,0 +1,26 @@
+{
+  "id": "735",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Mike M'Coole Dead' dispatch" },
+  "ocr": { "status": "good", "notes": "Readable; '1573' for 1873 and 'mat on . wang ... 53%. Quis.' for 'mate on a boat running between this city and St. Louis'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Mike McCoole died at the Charity Hospital in New Orleans, saying his last fight was with Tom Allen in that city in 1873, after which he worked as a mate on a steamboat." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, Monday Morning, October 18, 1886; dispatch datelined New Orleans, Oct. 17" },
+  "facts": [
+    {
+      "fact": "McCoole's obituary dispatch said his last fight was with Allen in New Orleans in 1873",
+      "date": "1873",
+      "people": ["Mike McCoole"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The dispatch places the 1873 Allen-McCoole fight 'in this city' (New Orleans); other sources put that fight near St. Louis, so the place is doubtful. McCoole's death and work as a steamboat mate relate to existing fact 023 but are about McCoole, not Allen. Allen is a single sentence, so focus is passing."
+}

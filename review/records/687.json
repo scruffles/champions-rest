@@ -1,0 +1,26 @@
+{
+  "id": "687",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Left edge clipped: the first one or two letters of most lines are missing. Otherwise the whole item." },
+  "ocr": { "status": "rough", "notes": "Matches the crop, but line starts are missing because of the left-edge cut (e.g. 'Tom ... would enter the ring')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen sparred three friendly rounds with Morris O'Connell at O'Connell's farewell benefit at Tom Kelly's, still moving with the ease and grace of a dancing master." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Thursday Morning, February 22, 1883', page 5." },
+  "facts": [
+    {
+      "fact": "Allen sparred three rounds with Morris O'Connell in a friendly exhibition of skill at O'Connell's farewell benefit at Tom Kelly's, before an overflowing crowd",
+      "date": "1883-02-21",
+      "people": ["Morris O'Connell", "Tom Kelly"],
+      "places": ["Tom Kelly's, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Announced in article 686. Allen's bout was the drawing feature, so focus is primary."
+}

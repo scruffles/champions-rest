@@ -1,0 +1,36 @@
+{
+  "id": "756",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item; top of the crop shows part of the masthead date." },
+  "ocr": { "status": "rough", "notes": "Column rule runs through the left edge, so many line starts are garbled, but names and facts are recoverable." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that a Franklin County sheriff arrested Tom Allen at his saloon on warrants over the Flint-McManus prize fight; he gave $500 bond to appear at Union the next morning." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, April 19, 1888, page 5." },
+  "facts": [
+    {
+      "fact": "Sheriff Oscar Ehlers of Franklin County arrested Allen at his St. Louis saloon on a warrant for aiding and abetting the Flint-McManus prize fight; his bond was set at $500",
+      "date": "1888-04-18",
+      "people": ["Oscar Ehlers", "Artie Flint", "Hugh McManus"],
+      "places": ["Tom Allen's saloon, St. Louis", "Four Courts, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The arrested sports left St. Louis by train for a preliminary hearing before Justice Frazee at Union, Franklin County",
+      "date": "1888-04-18",
+      "people": [],
+      "places": ["St. Louis", "Union, Franklin County, Missouri"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article says 'the sports' left on the same train as the sheriff, without naming Allen; expected to waive examination."
+}

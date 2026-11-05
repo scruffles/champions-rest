@@ -1,0 +1,26 @@
+{
+  "id": "705",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "General Sporting Notes column with several unrelated items (Mussey, Richards' dog, Bullock billiard manual, billiards); the third item is about Allen and is complete." },
+  "ocr": { "status": "good", "notes": "Minor errors; OCR 'pail' is 'ball' in the image." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Union grounds championship ball to be presented to Tom Allen" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Capt. Wm. Richards secured the ball from the first championship game at the Union base ball grounds and, on Mr. Lucas's instructions, would have it gilded and presented to Tom Allen for his Market Street saloon." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Monday Morning, April 21, 1884, page 3. It was the Missouri Republican until 1888. The item is a ball, not a cup." },
+  "facts": [
+    {
+      "fact": "The ball from the first championship game at the Union base ball grounds was to be gilded and presented to Allen to hang in his Market Street saloon",
+      "date": "1884-04",
+      "people": ["William Richards", "Henry Lucas"],
+      "places": ["Market Street, St. Louis", "Union base ball grounds, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "'Mr. Lucas' is presumably Henry V. Lucas of the Union Association club; the text gives only 'Mr. Lucas'."
+}

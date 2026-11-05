@@ -1,0 +1,26 @@
+{
+  "id": "696",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping spans Amusements, the lower part of 'Betrayed by a Bicyclist' (its headline and opening are in the previous column, not in the crop), Local Brevities, religious notes, personals, a St. Jacobs Oil ad and a 'Seven Bad Days' ad. Allen appears only in the 'Booth's Record in St. Louis' paragraph (crop-4/5)." },
+  "ocr": { "status": "rough", "notes": "Allen paragraph is mostly readable in OCR; other parts of the column are rough and the bicyclist story's start is garbled." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that C. A. Booth, a self-styled champion bicyclist accused of robbing his St. Louis fiancee, had earlier come to St. Louis on the same train as Tom Allen, who said he had never heard of Booth as a racer." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, May 16, 1883 (datelines May 15)." },
+  "facts": [
+    {
+      "fact": "Allen arrived in St. Louis by train, on the same train as the bicyclist C. A. Booth, a short time before mid-May 1883",
+      "date": "1883",
+      "people": ["C. A. Booth"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Arrival date and origin not given ('a short time ago'). Allen's remark about Booth is reported speech, not a verbatim quote."
+}

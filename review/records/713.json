@@ -1,0 +1,67 @@
+{
+  "id": "713",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole article including revised programme"
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Mostly readable; several garbled words and figures"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen and Tom Kelly would spar the wind-up at the Union Club's July 4 tournament at the Union Base-Ball Grounds, and would supervise most of the arrangements."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Saturday, June 28, 1884"
+  },
+  "facts": [
+    {
+      "fact": "Allen was billed to spar the wind-up with Tom Kelly, ex-middleweight champion, at the Union Club's Fourth of July tournament, both in full ring costume, for the Union Club Cup",
+      "date": "1884-07-04",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Union Base Ball Grounds, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Tom Kelly supervised the arrangements for the Union Club's July 4 athletic tournament, apart from Bill Richards' handicapping",
+      "date": "1884-07",
+      "people": [
+        "Tom Kelly",
+        "Bill Richards"
+      ],
+      "places": [
+        "Union Base Ball Grounds, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "712 is a truncated duplicate of this article."
+}

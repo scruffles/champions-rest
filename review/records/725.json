@@ -1,0 +1,94 @@
+{
+  "id": "725",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Bottom cut mid-sentence in the Jack Looney paragraph; the article continues at the top of the next column. The Allen and Coburn portions are complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "A few word errors ('Pom' for 'palmy', 'og' for 'dizzy')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Gone to the Dogs: Allen and McCoole Fall on Hard Times"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reprinted a Minneapolis Tribune piece on fighters ruined by defeat, saying Allen had lost the fortune he made and now barely made a living from a saloon on Market Street."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Profiles",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, December 6, 1884. Reprinted from the Minneapolis Tribune."
+  },
+  "facts": [
+    {
+      "fact": "Allen was said to be running a 'rather dizzy concern' on Market Street, St. Louis, barely making a living, having lost the money he made in his prime",
+      "date": "1884-12",
+      "people": [],
+      "places": [
+        "Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "After the Coburn fight Allen was said to have fled to Birmingham, England, to escape going to the penitentiary",
+      "date": "",
+      "people": [
+        "Coburn"
+      ],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Coburn was said to have served a term in the Pennsylvania State Prison on account of his fight with Allen",
+      "date": "",
+      "people": [
+        "Coburn"
+      ],
+      "places": [
+        "Pennsylvania"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "About eighteen months after Mike McCoole's wedding, Allen beat him, after which McCoole lost his bar and ended up working cotton bales on the New Orleans levee",
+      "date": "",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "St. Louis",
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": "023"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Secondhand recollections by an unnamed Minneapolis fighter; the Coburn first name is not given in the article."
+}

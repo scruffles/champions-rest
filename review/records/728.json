@@ -1,0 +1,15 @@
+{
+  "id": "728",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Reflections' column of race-track quips from the Sporting page." },
+  "ocr": { "status": "good", "notes": "Minor errors (e.g. 'Alien' for Allen)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen loses at the Fair Grounds races" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican's joking notes on the Fair Grounds races said Tom Allen, the ex-champion pugilist, was \"knocked out in the first round,\" a jest about his betting losses." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Republican: St. Louis, Saturday Morning, September 12, 1885' - the Missouri Republican (renamed St. Louis Republic only in 1888)." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "One-line mention; 'knocked out in the first round' is a betting pun, not a fight. Current title could be read as a real knockout."
+}

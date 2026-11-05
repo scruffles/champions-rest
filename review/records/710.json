@@ -1,0 +1,52 @@
+{
+  "id": "710",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Clipping is a whole advertising column (furniture, amusements, excursion, real estate, McNichols refrigerator, insurance, truss ads); only the SPORTS tournament programme in crop-2/crop-3 is about Allen"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Tournament section mostly right; covers the whole column"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen to spar Tom Kelly at Union Grounds tournament"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican printed the programme for a July 4 tournament at Union Base Ball Grounds, closing with a sparring wind-up between Tom Allen, ex-champion of the world, and Tom Kelly for the Union Club Cup."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead: The Republican: St. Louis, Wednesday Morning, June 25, 1884, p. 5; Missouri Republican until 1888"
+  },
+  "facts": [
+    {
+      "fact": "Allen was billed to spar the wind-up with Tom Kelly, ex-middleweight champion, at the Union Club's Fourth of July tournament, both in full ring costume, for the Union Club Cup",
+      "date": "1884-07-04",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Union Base Ball Grounds, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same advertisement as 709 (Globe-Democrat, same day). Crop could be tightened to the SPORTS ad."
+}

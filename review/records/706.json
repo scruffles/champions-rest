@@ -1,0 +1,15 @@
+{
+  "id": "706",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Two-item General Sporting Notes clip; the first item is about Allen and is complete, the second (Thistle club) is unrelated." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that the two prize fighters of St. Louis, Tom Kelly and Tom Allen, would soon give a steamboat excursion." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Wednesday Morning, June 11, 1884, page 6. It was the Missouri Republican until 1888." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "A single-sentence notice; no biography-level fact."
+}

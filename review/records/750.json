@@ -1,0 +1,15 @@
+{
+  "id": "750",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole 'Sporting Notes' column of short unrelated items; only the Rusty Evans note mentions Allen." },
+  "ocr": { "status": "rough", "notes": "Right margin clipped in the transcript ('Rusty 16 Tor Allen's age, but nks he tedDityet'); image reads 'Rusty is Tom Allen's age, but thinks he can fight a bit yet.'" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's sporting notes reported that Rusty Evans, the East St. Louis fighter, was trying to arrange a go with an East Sider, and was Tom Allen's age but thought he could fight a bit yet." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Same page as 749: St. Louis Daily Globe-Democrat, Wednesday Morning, February 22, 1888, page 8." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Passing comparison only; no citable fact about Allen."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "747",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'International Pugilism' item, reprinted from the Boston Globe, two pieces." },
+  "ocr": { "status": "good", "notes": "Minor errors ('nistory', 'figets', 'at 2 death' for 'an early death', 'posewee' for 'pugilistic')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reprinted a Boston Globe history of American pugilists abroad, which listed Tom Allen among nineteen champions of the American prize ring." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Saturday, January 7, 1888, page 8. Article by T. P. Evans in the Boston Globe." },
+  "facts": [
+    {
+      "fact": "A Boston Globe history listed Tom Allen among the nineteen champions of the American prize ring, between Aaron Jones and Ned O'Baldwin",
+      "date": "1888-01",
+      "people": ["T. P. Evans"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The article said Bob Smith, the colored fighter, won decisive victories over Tom and Harry Allen; it is unclear whether this Tom Allen is the St. Louis champion",
+      "date": "",
+      "people": ["Bob Smith", "Harry Allen"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The 'Tom and Harry Allen' beaten by Bob Smith may be different fighters (Bob Smith fought in England in the 1860s); check before using."
+}

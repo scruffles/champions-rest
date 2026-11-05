@@ -1,0 +1,15 @@
+{
+  "id": "701",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Subsection 'Exhibition on the East Side' of the larger 'The Champion Here' Sullivan story (see 702)." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Sullivan knocks out the 'Gipsy' Miles at East St. Louis exhibition" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that John L. Sullivan's combination gave an exhibition at Flanagan's Hall, East St. Louis, where Jim 'the Gipsy' Miles, who boasted he could hold his own against Tom Allen, was knocked off the stage in seconds." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, November 4, 1883. Exhibition was the night of November 3." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Current title (Kelly benefit) and summary (copied from 702) are wrong. Allen is named only as someone Miles claimed he could match."
+}

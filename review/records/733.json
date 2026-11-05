@@ -1,0 +1,15 @@
+{
+  "id": "733",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Capt. Dalton' item from headline to the Jack King line" },
+  "ocr": { "status": "good", "notes": "Mostly right; weight garbled ('bee: gem' for seventy-two), 'Tom —-' for Tom Kelly, a few small errors" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Capt. Dalton Says He Is Nephew of Charley Gallagher, Allen's Old Opponent" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch interviewed Chicago pugilist Capt. Dalton before his bout with Jack King, who said he was a nephew of Charley C. Gallagher, \"who fought Tom Allen here a few years ago.\"" },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Thursday, June 10, 1886, page 8" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen is mentioned only as Gallagher's past opponent; no new fact about him. The current summary's claim that this establishes Allen's continued prominence is opinion and was removed. The Tom who is getting boxers together for the preliminaries is Tom Kelly, not Allen."
+}

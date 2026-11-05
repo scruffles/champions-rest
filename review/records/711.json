@@ -1,0 +1,52 @@
+{
+  "id": "711",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Column of base ball and sporting brevities; only one paragraph (crop-1) is about Allen"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican noted that Tom Allen, who was to spar with Tom Kelly at the Union grounds' Fourth of July tournament, said a score of local boxers would compete for the middle- and heavyweight prizes."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead: The Republican: St. Louis, Thursday Morning, June 26, 1884, p. 6"
+  },
+  "facts": [
+    {
+      "fact": "Allen was billed to spar the wind-up with Tom Kelly, ex-middleweight champion, at the Union Club's Fourth of July tournament, both in full ring costume, for the Union Club Cup",
+      "date": "1884-07-04",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Union Base Ball Grounds, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's claim about local boxers is paraphrase, not a direct quote."
+}

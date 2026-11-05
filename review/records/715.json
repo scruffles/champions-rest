@@ -1,0 +1,52 @@
+{
+  "id": "715",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Display ad 'The Glorious Fourth', Union Base Ball Grounds, complete"
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Ad text mostly readable; 'ex-Champion Pugilists of the World' and some lines garbled"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen and Kelly Billed for Fourth of July Tournament"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch carried an advertisement for a Fourth of July athletic tournament at the Union Base Ball Grounds, with Tom Allen and Tom Kelly, the ex-champion pugilists of the world, doing the wind-up."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: St. Louis Post-Dispatch, Saturday, June 28, 1884"
+  },
+  "facts": [
+    {
+      "fact": "Allen and Tom Kelly, billed as the ex-champion pugilists of the world, were advertised to do the sparring wind-up at the Fourth of July athletic tournament at the Union Base Ball Grounds, Cass and Jefferson avenues, St. Louis",
+      "date": "1884-07-04",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Union Base Ball Grounds, Cass and Jefferson avenues, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title mentions the Theatre Comique, which is not in this clipping. Current summary is fragments of the Union Club's Tournament article (see 714)."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "718",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Only the continuation at the top of column 5; the headline 'Fourth of July Sport' and the opening paragraphs at the foot of column 4 are missing"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; a few prize amounts garbled ($75 heavyweight prize, $10 light-weight second prize, 1885 date)"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen and Kelly to Spar at Union Club Tournament"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican listed the entries for the Union Club's Fourth of July tournament, closing with a sparring match for the Union Club cup between Tom Allen, ex-champion of the world, and Tom Kelly."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead: The Republican: St. Louis, Thursday Morning, July 3, 1884 (Missouri Republican, not yet the St. Louis Republic)"
+  },
+  "facts": [
+    {
+      "fact": "Allen, billed as ex-champion of the world, was entered to spar Tom Kelly, ex-champion middleweight of the world, for the Union Club cup at the Union Club's Fourth of July tournament in St. Louis",
+      "date": "1884-07-04",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Union Base Ball Grounds, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen was to wear his regular ring costume and the old colors. The article is a list of all tournament entries, so focus is secondary rather than primary. The venue comes from the companion ads (715-717); the clipped portion names only the Union club cup."
+}

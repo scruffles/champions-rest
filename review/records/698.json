@@ -1,0 +1,26 @@
+{
+  "id": "698",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Only the end of 'Champion Mitchell in the City'; the headline and opening paragraphs are in the previous column and missing from the crop." },
+  "ocr": { "status": "good", "notes": "Minor errors ('Pir! eel theatre' for People's theatre)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen calls Charley Mitchell the coming man" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported on English boxer Charley Mitchell's sparring exhibition with Madden at the People's Theatre in St. Louis; Tom Allen, among the old sports present, thought Mitchell the coming man." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, Monday Morning, June 25, 1883." },
+  "facts": [
+    {
+      "fact": "Allen attended Charley Mitchell's sparring exhibition with Billy Madden at the People's Theatre in St. Louis and judged Mitchell the coming man",
+      "date": "1883-06-24",
+      "people": ["Charley Mitchell", "Billy Madden", "Tom Kelly"],
+      "places": ["People's Theatre, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mitchell's first name comes from the page headline 'Champion Mitchell in the City'/'Arrival of Charley Mitchell'; Madden is identified only by surname in the crop. Allen's view is reported speech, not a direct quote."
+}

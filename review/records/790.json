@@ -1,0 +1,49 @@
+{
+  "id": "790",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "The complete 'Sporting Notes' notice."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors ('treet', 'cencert')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": true,
+    "suggested": ""
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, August 24, 1890, page 9."
+  },
+  "facts": [
+    {
+      "fact": "Allen, billed as retired champion pugilist of the world, ran his saloon at 619 Market Street with a free concert every evening and only the best singers engaged",
+      "date": "1890-08",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

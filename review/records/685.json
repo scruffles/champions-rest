@@ -1,0 +1,26 @@
+{
+  "id": "685",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Item runs from the bottom of one column to the top of the next; the crop skips the lines in between (the Sportsman's park track plan and the sentence saying the tournament is today at Grand Avenue park). Read on the page." },
+  "ocr": { "status": "good", "notes": "Matches the crop; the missing lines are a crop problem, not OCR." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican announced that Tom Allen had agreed to referee a sprinting tournament at Grand Avenue park that day, with fifteen or more sprinters entered and William Richards as timekeeper." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican: St. Louis, Sunday Morning, January 28, 1883', page 11." },
+  "facts": [
+    {
+      "fact": "Allen agreed to referee a sprinting tournament at Grand Avenue park, St. Louis",
+      "date": "1883-01-28",
+      "people": ["Wm. Richards"],
+      "places": ["Grand Avenue park, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary puts the races at Sportsman's park; the page says Sportsman's park is only planning a track, and the tournament itself is at Grand Avenue park."
+}

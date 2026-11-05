@@ -1,0 +1,15 @@
+{
+  "id": "727",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Crop holds 'A Promising Fighter' (the Allen mention) plus a following unrelated paragraph on San Francisco fights (Dempsey, Hallinan, Maynard) from the same Gazette column." },
+  "ocr": { "status": "good", "notes": "First item reads well; the San Francisco paragraph is rough in places." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Wednesday, July 29, 1885, page 5. Item credited to the Gazette." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen is only named by an eyewitness who saw Goss and Allen fight; no citable fact about Allen."
+}

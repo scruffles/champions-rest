@@ -1,0 +1,26 @@
+{
+  "id": "695",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item 'Only a Rumor.'; right edge trims a letter or two at line ends but text is readable." },
+  "ocr": { "status": "good", "notes": "A few letter errors ('Remor', 'dispatet', 'erty')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Rumor that Tom Allen will pick training quarters for Charley Mitchell" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported a rumor that Tom Allen had received a dispatch from Billy Madden of New York asking him to select training quarters near St. Louis for Mitchell, the English pugilist matched to fight Slade." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Wednesday Morning, April 18, 1883, page 7. Before 1888 it is the Missouri Republican." },
+  "facts": [
+    {
+      "fact": "Allen was rumored to have been asked by Billy Madden of New York to select training quarters within fifty miles of St. Louis for English pugilist Mitchell, matched to fight Slade within 200 miles of Kansas City",
+      "date": "1883-04-17",
+      "people": ["Billy Madden", "Charley Mitchell", "Herbert Slade"],
+      "places": ["St. Louis", "Kansas City"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Headed 'Only a Rumor.' Mitchell's and Slade's first names are not printed; identified as Charley Mitchell and Herbert Slade from context (Madden managed Mitchell in 1883)."
+}

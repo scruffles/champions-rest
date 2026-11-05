@@ -1,0 +1,64 @@
+{
+  "id": "709",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole SPORTS programme advertisement"
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable; many character errors (Anheuser-Busch, prize amounts, names garbled)"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat printed the programme for a July 4 tournament at Union Base Ball Grounds, closing with a sparring wind-up between Tom Allen, ex-champion of the world, and Tom Kelly for the Union Club Cup."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, June 25, 1884, p. 7"
+  },
+  "facts": [
+    {
+      "fact": "Allen was billed to spar the wind-up with Tom Kelly, ex-middleweight champion, at the Union Club's Fourth of July tournament, both in full ring costume, for the Union Club Cup",
+      "date": "1884-07-04",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Union Base Ball Grounds, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Entries for the tournament were taken at Tom Allen's saloon, among other places",
+      "date": "1884-06",
+      "people": [],
+      "places": [
+        "Tom Allen's, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same advertisement as 710 (Missouri Republican, same day)."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "786",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Article is complete; the lower part of the clipping is an unrelated Mermod & Jaccard advertisement and the next headline."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors ('slugring', 'vetting', 'Poolalley', 'cauowed'); also includes the following advertisement text."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic reported that Lem McGregor, \"the St. Joe Kid,\" knocked Tom Allen down in a quarrel at Allen's saloon, and was himself beaten later that day by Billy Zachritz in Pool alley."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Saloon",
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St. Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Saturday Morning, July 26, 1890, page 8."
+  },
+  "facts": [
+    {
+      "fact": "Lem McGregor, \"the St. Joe Kid,\" got into a quarrel with Allen in Allen's saloon, knocked him down and punished him considerably",
+      "date": "1890-07-25",
+      "people": [
+        "Lem McGregor"
+      ],
+      "places": [
+        "Tom Allen's saloon, St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Zachritz-McGregor street fight is not about Allen, so it is left out of the facts."
+}

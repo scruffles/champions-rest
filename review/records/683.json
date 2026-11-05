@@ -1,0 +1,15 @@
+{
+  "id": "683",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Bobbie Burns' Birthday' item, headline to end of guest list." },
+  "ocr": { "status": "good", "notes": "Readable; minor errors ('Krle' = Kyle, 'Seottish', 'revis' = reels)." },
+  "about_tom": "unsure",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that a Mr. Tom Allen was among the guests at the Order of Scottish Clans ball held at Masonic hall on January 25, 1883, in memory of Robert Burns." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: 'The Republican: St. Louis, Friday Morning, January 26, 1883', page 6. Missouri Republican until 1888." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Only a name in a guest list ('Mr. Tom Allen'); nothing identifies him as the boxer (who was English, not Scottish). Human should decide whether to keep. No facts recorded."
+}

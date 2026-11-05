@@ -1,0 +1,26 @@
+{
+  "id": "744",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The Allen notice is the first paragraph; the rest of the clipping is the unrelated 'Amusements / National Opera' item." },
+  "ocr": { "status": "good", "notes": "Accurate except 'Smith' read as 'hagede' and 'bar' split." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican carried a notice for Tom Allen, \"the retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening and showing Smith and Kilrain's colors at the bar." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Republican: St. Louis, Saturday Morning, December 3, 1887', page 6; before 1888 the paper is filed as the Missouri Republican, not the St. Louis Republic." },
+  "facts": [
+    {
+      "fact": "Allen ran a saloon at 619 Market Street, St. Louis, advertising free concerts every evening and displaying Jem Smith's and Jake Kilrain's colors at the bar",
+      "date": "1887-12",
+      "people": ["Jem Smith", "Jake Kilrain"],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same notice appeared the same day in the Globe-Democrat (article 745)."
+}

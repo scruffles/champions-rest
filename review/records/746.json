@@ -1,0 +1,15 @@
+{
+  "id": "746",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Gist readable; many character errors from the column rule running through the text (e.g. 'thirty seconds' read as 'egpek 4 seconds', '24 foot' as '44 foot')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen among those favoring Kilrain over Sullivan under prize-ring rules" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat explained the differences between Queensberry and London prize-ring rules and said local authorities such as Bob Farrell and Tom Allen thought Kilrain could beat Sullivan under prize-ring rules." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, December 22, 1887, page 8." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen is named only once, as one of several local authorities; no biographical facts."
+}

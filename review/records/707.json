@@ -1,0 +1,26 @@
+{
+  "id": "707",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The complete advertisement-style notice." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Notice for Tom Allen's saloon at 619 Market Street" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican carried a notice for Tom Allen's place at 619 Market Street, calling him the retired champion of the world and hero of twenty-four prize battles, with a free-and-easy every evening." },
+  "focus": { "current": "passing", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Wednesday Morning, June 11, 1884, page 6 (same page as 706). It was the Missouri Republican until 1888." },
+  "facts": [
+    {
+      "fact": "Allen ran his saloon at 619 Market Street with a free-and-easy every evening, billed as the retired champion of the world and hero of twenty-four prize battles",
+      "date": "1884-06",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

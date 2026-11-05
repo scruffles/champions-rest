@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "articles": {
     "100": {
       "status": "reviewed",
@@ -2907,27 +2907,27 @@
       "date": "1883-01-26"
     },
     "683": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1883-01-26"
     },
     "684": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1883-01-28"
     },
     "685": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1883-01-28"
     },
     "686": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "key",
       "date": "1883-02-18"
     },
     "687": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1883-02-22"
     },
@@ -2962,547 +2962,547 @@
       "date": "1883-03-30"
     },
     "694": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1883-04-09"
     },
     "695": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1883-04-18"
     },
     "696": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1883-05-16"
     },
     "697": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1883-06-12"
     },
     "698": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1883-06-25"
     },
     "699": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1883-10-05"
     },
     "700": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1883-11-01"
     },
     "701": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1883-11-04"
     },
     "702": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1883-11-04"
     },
     "703": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1883-11-08"
     },
     "704": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "key",
       "date": "1884-02-10"
     },
     "705": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1884-04-21"
     },
     "706": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1884-06-11"
     },
     "707": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1884-06-11"
     },
     "708": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-06-25"
     },
     "709": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-06-25"
     },
     "710": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-06-25"
     },
     "711": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-06-26"
     },
     "712": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-06-28"
     },
     "713": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-06-28"
     },
     "714": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-06-28"
     },
     "715": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1884-06-28"
     },
     "716": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-06-29"
     },
     "717": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-06-30"
     },
     "718": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "key",
       "date": "1884-07-03"
     },
     "719": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-07-03"
     },
     "720": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-07-03"
     },
     "722": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-07-04"
     },
     "723": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1884-07-05"
     },
     "725": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1884-12-06"
     },
     "726": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1885-03-24"
     },
     "727": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1885-07-29"
     },
     "728": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1885-09-12"
     },
     "730": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1885-11-26"
     },
     "731": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1886-04-03"
     },
     "732": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1886-05-29"
     },
     "733": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1886-06-10"
     },
     "734": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1886-06-16"
     },
     "735": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1886-10-18"
     },
     "736": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1886-10-18"
     },
     "737": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1887-01-04"
     },
     "738": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1887-02-02"
     },
     "739": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1887-02-28"
     },
     "740": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1887-04-27"
     },
     "741": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1887-08-04"
     },
     "742": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1887-10-23"
     },
     "743": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1887-11-27"
     },
     "744": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1887-12-03"
     },
     "745": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "key",
       "date": "1887-12-03"
     },
     "746": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1887-12-22"
     },
     "747": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1888-01-07"
     },
     "748": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1888-01-29"
     },
     "749": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1888-02-22"
     },
     "750": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1888-02-22"
     },
     "751": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1888-03-15"
     },
     "752": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1888-04-03"
     },
     "753": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1888-04-17"
     },
     "754": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1888-04-18"
     },
     "755": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1888-04-18"
     },
     "756": {
-      "status": "assigned",
+      "status": "reviewed",
       "importance": "support",
       "date": "1888-04-19"
     },
     "757": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1888-05-19"
     },
     "758": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1888-05-20"
     },
     "759": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1888-05-27"
     },
     "760": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1888-06-02"
     },
     "761": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1888-06-18"
     },
     "762": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1888-09-16"
     },
     "763": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1888-12-08"
     },
     "764": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1888-12-09"
     },
     "765": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1888-12-28"
     },
     "766": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1889-01-20"
     },
     "767": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1889-02-17"
     },
     "768": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1889-02-17"
     },
     "769": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1889-06-23"
     },
     "770": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1889-07-08"
     },
     "771": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1889-07-08"
     },
     "772": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1889-07-08"
     },
     "773": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1889-07-19"
     },
     "774": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1889-08-22"
     },
     "775": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1889-09-06"
     },
     "776": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1889-09-16"
     },
     "777": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1889-09-21"
     },
     "778": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1889-09-21"
     },
     "779": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1890-02-08"
     },
     "780": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1890-02-08"
     },
     "781": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1890-04-05"
     },
     "782": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1890-05-24"
     },
     "783": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1890-05-31"
     },
     "784": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "support",
       "date": "1890-06-21"
     },
     "785": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1890-07-12"
     },
     "786": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "support",
       "date": "1890-07-26"
     },
     "787": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "key",
       "date": "1890-08-02"
     },
     "788": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "support",
       "date": "1890-08-09"
     },
     "789": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "support",
       "date": "1890-08-16"
     },
     "790": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1890-08-24"
     },
     "791": {
-      "status": "pending",
+      "status": "reviewed",
       "importance": "mention",
       "date": "1890-09-06"
     },
     "792": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1890-09-27"
     },
     "793": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1890-10-04"
     },
     "794": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1890-10-07"
     },
     "795": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1890-10-13"
     },
     "796": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1890-10-25"
     },
     "797": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1890-11-05"
     },
     "798": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1890-11-08"
     },
     "799": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1890-11-15"
     },
     "800": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1890-11-27"
     },
     "801": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1890-12-06"
     },
     "802": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1890-12-08"
     },
     "803": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1890-12-13"
     },
     "804": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1890-12-14"
     },
     "805": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1890-12-20"
     },
@@ -3512,157 +3512,157 @@
       "date": "1891-01-08"
     },
     "807": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1891-01-10"
     },
     "808": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-01-15"
     },
     "809": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-01-17"
     },
     "810": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1891-01-20"
     },
     "811": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-01-24"
     },
     "812": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-01-24"
     },
     "813": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-01-25"
     },
     "814": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1891-02-21"
     },
     "815": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-03-14"
     },
     "816": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-03-16"
     },
     "817": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-03-21"
     },
     "818": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-06-13"
     },
     "819": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1891-06-27"
     },
     "820": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-07-04"
     },
     "821": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-08-15"
     },
     "822": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-08-22"
     },
     "823": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1891-09-19"
     },
     "824": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-10-06"
     },
     "825": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-10-24"
     },
     "826": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-10-31"
     },
     "827": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-11-07"
     },
     "828": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1891-11-14"
     },
     "829": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1891-11-28"
     },
     "830": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1891-12-19"
     },
     "831": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "key",
       "date": "1892-01-23"
     },
     "832": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1892-01-24"
     },
     "833": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1892-01-30"
     },
     "834": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1892-01-30"
     },
     "835": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1892-02-28"
     },
     "836": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "mention",
       "date": "1892-03-03"
     },
     "837": {
-      "status": "pending",
+      "status": "assigned",
       "importance": "support",
       "date": "1892-03-03"
     },

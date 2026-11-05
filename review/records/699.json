@@ -1,0 +1,15 @@
+{
+  "id": "699",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Headline and decks ('A WET BLANKET. Unpropitious Elements Caused Postponement of the Parade...') at top of column are not in the clipping; the Allen paragraph is complete. Clipping ends in the start of 'The Military Ball' section." },
+  "ocr": { "status": "rough", "notes": "Gist readable; many character errors, including in the Allen paragraph ('Hity ihehts in frent of his sa-loon')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen struggles to light the Fair Week illumination at his saloon" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that, after rain postponed the Fair Week trades parade and illuminations, ex-champion Tom Allen spent nearly an hour with a twelve-foot torch trying to light some fifty gas jets in front of his saloon, without success." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Friday Morning, October 5, 1883. The incident took place the evening of Thursday, October 4." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "One paragraph about Allen inside a long weather/parade story; anecdote only, no biography-level facts."
+}

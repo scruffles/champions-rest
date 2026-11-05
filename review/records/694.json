@@ -1,0 +1,26 @@
+{
+  "id": "694",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping is a run of Belleville local briefs (the BELLEVILLE column heading is just above the crop); only the quoits-game paragraph mentions Allen." },
+  "ocr": { "status": "good", "notes": "Minor errors (e.g. 'alion' for 'a lion', 'Leuis')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, ex-pugilist, attended a $100 quoits match at Sam Swancut's in West Belleville, where about 400 people watched and the sporting crowd made a lion of him." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Monday, April 9, 1883, page 8." },
+  "facts": [
+    {
+      "fact": "Allen went to West Belleville, Illinois, to watch a quoits match between Dr. Truman of St. Louis and G. Knowles at Sam Swancut's",
+      "date": "1883-04-08",
+      "people": ["Dr. Truman", "G. Knowles"],
+      "places": ["Sam Swancut's, West Belleville, Illinois"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Match was 'yesterday' relative to the Monday April 9 paper, so Sunday April 8."
+}

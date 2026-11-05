@@ -1,0 +1,26 @@
+{
+  "id": "697",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole classified notice." },
+  "ocr": { "status": "good", "notes": "Notice text correct; trailing junk lines from rules below." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican carried a notice that Champion's Rest, Tom Allen's grand concert hall at 619 Market street, was open every evening with free singers and dancers, \"Tom Allen in the chair.\"" },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Republican: St. Louis, Tuesday Morning, June 12, 1883, page 8. Before 1888 it is the Missouri Republican." },
+  "facts": [
+    {
+      "fact": "Allen ran Champion's Rest, a concert hall at 619 Market street, St. Louis, open every evening with free singers and dancers and Allen in the chair",
+      "date": "1883-06",
+      "people": [],
+      "places": ["Champion's Rest, 619 Market street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Notice describes Allen as 'the retired champion of the world'. Item appears in the City Items column."
+}

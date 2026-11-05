@@ -1,0 +1,49 @@
+{
+  "id": "788",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The top three lines are the Tom Allen notice; the rest of the clipping is an unrelated Baltimore burglary story, 'Cool Burglars'."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The Allen notice is read correctly; the rest is the unrelated burglary story."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic carried a notice for Tom Allen, retired champion pugilist of the world, at 619 Market Street, with a free concert every evening."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: The Republic: St. Louis, Mo., Saturday Morning, August 9, 1890, page 6."
+  },
+  "facts": [
+    {
+      "fact": "Allen, billed as retired champion pugilist of the world, ran his saloon at 619 Market Street with a free concert every evening",
+      "date": "1890-08",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Recrop to the first three lines; the burglary story is not about Allen."
+}

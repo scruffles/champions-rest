@@ -1,0 +1,46 @@
+{
+  "id": "753",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline through the end of the 'Incidents of the Fight' section. The Kilrain-Mitchell and baseball items named in the deck are separate items not about Allen." },
+  "ocr": { "status": "good", "notes": "A few garbled words ('<1p' for 'rap', 'wa gpa' for 'Flint's persistent', 'coGarem pee! poe' for 'horseback just')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen, who seconded Artie Flint in his loss to Hugh McManus near St. Clair, Mo., said Flint ignored his advice, proved a quitter, and forced Allen to throw up the sponge." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Tuesday, April 17, 1888, page 8." },
+  "facts": [
+    {
+      "fact": "Allen seconded Artie Flint in his prize fight against Hugh McManus near St. Clair, Missouri; Flint lost and Allen threw up the sponge",
+      "date": "1888-04-16",
+      "people": ["Artie Flint", "Hugh McManus", "Tom Kelly"],
+      "places": ["near St. Clair, Franklin County, Missouri"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Flint lost by ignoring his advice to stay in his own corner",
+      "date": "1888-04-17",
+      "people": ["Artie Flint"],
+      "places": ["St. Louis"],
+      "quote": "I kept telling him to stay in his corner, not to go out over to the other man's and that he'd win but, no, he knew more about it than I did and he got licked.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen called Flint a quitter",
+      "date": "1888-04-17",
+      "people": ["Artie Flint"],
+      "places": ["St. Louis"],
+      "quote": "No, sir, Flint showed himself to be a quitter, and I had to throw up the sponge.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The quote 'Well, we won the fight' is Tom Kelly's, not Allen's. The fight was reached by excursion train from St. Louis."
+}

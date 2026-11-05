@@ -1,0 +1,49 @@
+{
+  "id": "787",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "The complete 'Sporting Notes' notice."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Minor errors ('cltr' for city)."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat carried a notice for Tom Allen, retired champion pugilist of the world, at 619 Market Street, with a free concert every evening and 'the best singing in the city.'"
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, August 2, 1890, page 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen, billed as retired champion pugilist of the world, ran his saloon at 619 Market Street with a free concert every evening",
+      "date": "1890-08",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}
