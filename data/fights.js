@@ -268,9 +268,13 @@ export const fights = [
       "096",
       "148",
       "230",
+      "352",
+      "643",
+      "647",
     ],
     details: [
       "230 states the crowd rushed the ref and forced him to call the fight for Gallagher",
+      "352 headline: 'Allen the Winner, but the Fight Decided a Draw'; 647 also reports a draw. 643 reports an Allen win at $500 a side. Result unresolved",
     ],
     time: "22 minutes or 11 min",
     rounds: "17 or 11",

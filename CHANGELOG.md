@@ -55,7 +55,7 @@
 - Remove or merge about 25 duplicate and split articles listed in `review/FINDINGS.md` (e.g. 328/329, 403/402, 518/517, 1007/1008, 297+298, 303+304, 855+856)
 - Consolidate the 2,194 extracted facts into `data/facts.js`, keeping existing fact ids; give the facts with id `000` or no id real ids first
 - Resolve the fact conflicts in `review/FINDINGS.md`: birth year (1839 vs 1840/1841), arrival in America, Crimean War vs Indian Mutiny, belt presentation date, Halifax sailing date, burial (Calvary vs Bellefontaine), saloon address (615/618/619 Market), will, widower, brothers and sister
-- Fix `data/fights.js`: the 1869-08-17 Gallagher fight is recorded as a win but was decided a draw (352, 647; 643 disagrees); 1876 Goss fight lost on a foul in round 21
+- Settle the 1869-08-17 Gallagher result in `data/fights.js`: it is still listed as a win, while 352 and 647 say draw and 643 says Allen won (the sources are now linked and noted there)
 - Re-capture from newspapers.com the 440 articles in `review/ISSUES.md` (cut-off and mixed crops, wrong articles, unreadable full pages), then re-review them
 - Re-OCR or hand-transcribe the 23 unusable and 12 missing transcripts, and the transcripts with meaning-changing errors noted in `FINDINGS.md` (e.g. 106, 109, 203, 617)
 - Find source images for the articles with none (055, 072, 073, 076, 095, 098, 105, 128, 195, 239)
