@@ -1,0 +1,116 @@
+{
+  "id": "912",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Contains the subheads and the first two columns of the feature with the portrait and the 'shot was fired' sketch; the main 'Twenty Years a Prize Fighter' banner is above the crop, and the story continues in columns not included (see 913, 914). Ends mid-sentence." },
+  "ocr": { "status": "rough", "notes": "Column text is readable but OCR mixes in garbage from the sketches and has errors such as '1889' for 1869." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic published Tom Allen's recollections of his 23 battles from 1860 to 1879, including his 1869 fight with Charley Gallagher on Chouteau Island, where a ringside shot struck his right hand." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Profiles", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, March 31, 1895, page 40." },
+  "facts": [
+    {
+      "fact": "Allen fought Posh Price in England in 1862 as a lightweight and was beaten in 35 rounds",
+      "date": "1862",
+      "people": ["Posh Price"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Three years after his first fight with Posh Price, Allen, then a middleweight at 146 pounds, beat him in 41 rounds",
+      "date": "1865",
+      "people": ["Posh Price"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought 23 battles between 1860 and 1879, six of them between January 12, 1869 and November 5, 1870; McCool forfeited $1,000 on a further match",
+      "date": "1860",
+      "people": ["Mike McCool"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Bill Davis on January 12, 1869",
+      "date": "1869-01-12",
+      "people": ["Bill Davis"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost to Charley Gallagher in the second round when he stepped into a snow-filled hole in the ring, slipped, and was struck on the neck",
+      "date": "1869",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's fight with Mike McCool on June 15, 1869 at Foster's Island was declared a draw when the McCool party broke into the ring in the tenth round",
+      "date": "1869-06-15",
+      "people": ["Mike McCool"],
+      "places": ["Foster's Island"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Charley Gallagher in the eleventh round on August 17, 1869 at Chouteau Island before about 1,400 spectators, after a shot from the ringside struck his right hand; Dr. Nidelet removed the bullet and the fight resumed",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher", "Dr. Nidelet"],
+      "places": ["Chouteau Island, Mississippi River"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he knew who fired the shot at the Gallagher fight and that it was meant for him",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher"],
+      "places": ["Chouteau Island, Mississippi River"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he trained down from 231 to 160 pounds for his fight with McCool",
+      "date": "",
+      "people": ["Mike McCool"],
+      "places": [],
+      "quote": "Talk about coming down to the bottom—in my fight with McCool I went from 231 to 160.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In England Allen fought Baltimore Bob Smith barefoot, the day after the match was made, and was beaten in fifty minutes; Smith had twice beaten Allen's brother Harry",
+      "date": "",
+      "people": ["Baltimore Bob Smith", "Harry Allen"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The first column repeats 911. The fight record list on the page lies outside this clipping and was not used. Allen's Bob Smith story uses a racial slur."
+}

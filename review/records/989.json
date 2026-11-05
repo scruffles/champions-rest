@@ -1,0 +1,50 @@
+{
+  "id": "989",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "whole Sporting Notes column; the Allen item is one short paragraph"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "minor errors ('coftcert', 'Kia'' ulette' for 'Kid' Goulette)"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's sporting notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with \"best of singers only.\""
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "masthead: St. Louis Daily Globe-Democrat, Saturday Morning, March 25, 1899, page 7"
+  },
+  "facts": [
+    {
+      "fact": "Allen's place at 619 Market Street advertised a free concert every evening",
+      "date": "1899-03",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "reads like a paid notice inserted among the sporting notes"
+}

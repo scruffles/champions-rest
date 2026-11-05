@@ -1,0 +1,52 @@
+{
+  "id": "026",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item 'The Rumored Match'."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "First part right; 'generous boast' should be 'generous proposition', and the last sentence is garbled: the image reads 'has so much plain lying before and after it, that even \"the fancy\" ought to be well sick of the whole business.'"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Allen's backers denied a telegraphed report that Jem Mace had been matched to fight Tom Allen for $5,000 a side, saying Allen wanted time to arrange matters properly."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "No page image; date not checked against a masthead. Filed under the paper's 1869 name, the Missouri Republican."
+  },
+  "facts": [
+    {
+      "fact": "A telegram reported that Jem Mace had been matched to fight Allen for $5,000 a side; Allen's friends and backers in St. Louis denied any such arrangement",
+      "date": "1869-12",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article says only 'Mace of London'. The current summary's 'historical prizefighting controversies' is not in the article."
+}

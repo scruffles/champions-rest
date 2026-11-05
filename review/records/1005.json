@@ -1,0 +1,115 @@
+{
+  "id": "1005",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Contains only the first column of the obituary (headline through the Jim Stewart fight) plus Allen's portrait; the continuation in the next column (saloon history, debts, will) is not in the clipping. Top of the clipping is the end of the unrelated Shiloh monuments story."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Allen portion mostly readable but garbled where the fold crosses (birth date, rounds, stakes); gives 1878 for the Stewart fight where the image shows 1879. Shiloh text at top is badly garbled."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, retired champion pugilist of the world, died at the Baptist hospital on April 5, 1903, and recounted a career that ended with a win over Jim Stewart in England in 1879."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Personal life",
+    "Profiles",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Globe-Democrat, Monday Morning, April 6, 1903, page 1."
+  },
+  "facts": [
+    {
+      "fact": "Allen died at the Baptist hospital, Garrison and Franklin avenues, St. Louis, at 7:35 a.m. after being very low for several days",
+      "date": "1903-04-05",
+      "people": [],
+      "places": [
+        "Baptist hospital, Garrison and Franklin avenues, St. Louis"
+      ],
+      "quote": "",
+      "kind": "death",
+      "confidence": "high",
+      "existing_fact": "042"
+    },
+    {
+      "fact": "Allen had been taken to the Baptist hospital a week before the Friday preceding his death",
+      "date": "1903-03-27",
+      "people": [],
+      "places": [
+        "Baptist hospital, St. Louis"
+      ],
+      "quote": "",
+      "kind": "health",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was born at Birmingham, England, April 23, 1839",
+      "date": "1839-04-23",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "high",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "By his own official record Allen fought fourteen prize ring matches in England and ten in America",
+      "date": "",
+      "people": [],
+      "places": [
+        "England",
+        "America"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's last fight was against Jim Stewart in England, for £50 a side; it lasted fifty-five minutes and sixteen rounds and was won by Allen",
+      "date": "1879-03-10",
+      "people": [
+        "Jim Stewart"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At his death Allen's saloon was 'Tom Allen's Champion's Rest,' 619 Market Street, where he had served drinks and told sporting stories",
+      "date": "1903-04",
+      "people": [],
+      "places": [
+        "Champion's Rest, 619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Same obituary as 1006 (1006 is its last column); the middle column of the article is missing from both clippings. Fold obscures part of the birth date, stakes and rounds. Consider recropping the whole article into one record."
+}

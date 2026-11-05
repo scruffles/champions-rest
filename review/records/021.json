@@ -1,0 +1,15 @@
+{
+  "id": "021",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "\"a few days since\" should read \"a few evenings since\"" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican mocked the Hannibal Courier for scolding the St. Louis press over its Allen-Gallagher fight coverage while reprinting those accounts and running its own report of two women fighting over a dog." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads THE MISSOURI REPUBLICAN--ST. LOUIS, AUGUST 24, 1869" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Press commentary only; no new facts about Allen."
+}

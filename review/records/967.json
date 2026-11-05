@@ -1,0 +1,26 @@
+{
+  "id": "967",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping runs from the Helen Bertram whooping-cough article (top) into the end of Macon McCormick's boxing column (Irish fights, Dan Stuart, Corbett, Kid McCoy). Only the final subsection 'Allen and Joe Goss' (crops 6-7) is about Allen; it is complete." },
+  "ocr": { "status": "good", "notes": "Allen section transcribed accurately." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic ran Macon McCormick's boxing column, in which a gentleman recalled that Tom Allen, fearing for his life, deliberately fouled Joe Goss in Kentucky, and Goss offered to fight on before the referee gave him the win." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic, St. Louis, Mo., Sunday Morning, August 8, 1897, page 6. Column is special correspondence from New York." },
+  "facts": [
+    {
+      "fact": "A recollection printed in 1897 said that in his fight with Joe Goss in Kentucky near Cincinnati, Allen, seeing his life in danger from Goss's backers, deliberately struck a foul blow; Goss offered to fight on but the referee awarded the fight to Goss",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky, near Cincinnati"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Secondhand account from an unnamed gentleman, written about 21 years after the fight; the article gives no date for the fight (1876 is from the fight record)."
+}

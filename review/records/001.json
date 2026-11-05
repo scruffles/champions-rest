@@ -1,0 +1,56 @@
+{
+  "id": "001",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article with headline and decks ('Mike McCoole Matches Tom Allen of England', 'His Friends Prevail Upon Him to Withdraw')." },
+  "ocr": { "status": "good", "notes": "Close to the image with small slips: 'Loones's' for Looney's, 'knows much' for 'knows anything', 'I have time' for 'I have plenty of time', 'without ceremony' for 'without shaking hands', 'A voice' for 'Voices', 'well attended' for 'largely attended'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Mike McCoole was matched to fight Tom Allen for $1,000 on March 17 after a heated sparring exhibition, but his friends persuaded him to withdraw until after his fight with Joe Coburn." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges", "Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, March 9, 1868 (Monday); 'Saturday night' is March 7." },
+  "facts": [
+    {
+      "fact": "Allen and Bill Ryall, both from England, had been in St. Louis only a few weeks and were unknown there",
+      "date": "1868-02",
+      "people": ["Bill Ryall"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A complimentary testimonial exhibition was given for Ryall and Allen; in the wind-up Allen sparred Mike McCoole so earnestly that McCoole bled and the two left without shaking hands",
+      "date": "1868-03-07",
+      "people": ["Bill Ryall", "Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the exhibition, at Looney's, McCoole was matched to fight Allen for $1,000 on March 17 within 60 miles of St. Louis; articles were signed and a $150 forfeit put up",
+      "date": "1868-03-07",
+      "people": ["Mike McCoole"],
+      "places": ["Looney's, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "McCoole's friends, who had money on his coming fight with Joe Coburn, persuaded him to withdraw; he offered instead to fight Allen for $2,500 ninety days after the Coburn fight, with $500 forfeit",
+      "date": "1868-03-08",
+      "people": ["Mike McCoole", "Joe Coburn"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary's 'planned pacification with Joe Coburn' is wrong; McCoole was preparing to fight Coburn."
+}

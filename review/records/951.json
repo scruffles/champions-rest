@@ -1,0 +1,26 @@
+{
+  "id": "951",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping is the whole 'Sporting Notes' column; only the first paragraph (the 619 Market Street notice) is about Allen. The other items (Prof. Crow's ball, 'Denver Ed' Smith, ladies' bicycle race) are unrelated." },
+  "ocr": { "status": "good", "notes": "Allen paragraph transcribed correctly; small errors in the later items ('Chott -Deikgmery 3', 'yeveS', 'rexue')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with \"best of singers only.\"" },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead reads St. Louis Daily Globe-Democrat, Saturday Morning, February 6, 1897, page 4." },
+  "facts": [
+    {
+      "fact": "Allen advertised his saloon at 619 Market Street, St. Louis, as the place of the \"retired champion pugilist of the world,\" with a free concert every evening and \"best of singers only\"",
+      "date": "1897-02",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Recurring Sporting Notes advertisement; same text as 954."
+}

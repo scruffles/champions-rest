@@ -1,0 +1,50 @@
+{
+  "id": "991",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "clipping holds 'Long-Distance Yacht Race', 'Dr. McDowell \"Too Late\"' and the Allen notice under 'Sporting Notes'; bottom edge cuts into the next note (Smith and Mudd match), which is not about Allen"
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "yacht and rowing items fine; the Allen notice is garbled ('Tom glen', 'Tiaatig, \"Bett cf singers cals sagaged')"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's sporting notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with \"best of singers only.\""
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, June 20, 1899, page 10"
+  },
+  "facts": [
+    {
+      "fact": "Allen's place at 619 Market Street advertised a free concert every evening",
+      "date": "1899-06",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "reads like a paid notice inserted among the sporting notes"
+}

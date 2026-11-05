@@ -1,0 +1,46 @@
+{
+  "id": "016",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article, headline to 'FINALLY, AND TO CONCLUDE.' A fold or overlapping scrap in crop-2 hides the right edge of several lines in the Gallagher paragraph (e.g. 'He st[ruck] Tom Allen under the left ear'), but the article is otherwise complete." },
+  "ocr": { "status": "good", "notes": "Mostly right. Drops the sub-heads (the first call was at 'M'COOLE'S own saloon', not 'a saloon'); 'He faced Tom Allen' should be about 'He struck'; 'arbiter' is 'manager'; 'Jack Loosey' is 'Jack Looney'; 'fistic' omitted before 'preliminaries'. Words in the fold-hidden lines are reconstructed." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican toured St. Louis sporting saloons, including McCoole's and Allen's Concert Saloon on Fifth Street, on the eve of the Allen–McCoole fight and found little excitement; Allen was said to be waiting at Venice." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican—St. Louis, June 15, [1]869' (first digit cut). Article is at the top of the sixth column." },
+  "facts": [
+    {
+      "fact": "On the eve of the McCoole fight, Allen's Concert Saloon on Fifth Street between O'Fallon and Biddle was crowded for a 'Free and Easy' night, mostly with Englishmen; a photograph of Allen hung over the bar",
+      "date": "1869-06-14",
+      "people": [],
+      "places": ["Tom Allen's Concert Saloon, Fifth Street between O'Fallon and Biddle, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "008"
+    },
+    {
+      "fact": "On the night before the McCoole fight Allen was away from St. Louis, reportedly at Venice (the paper jokes about a 'steam gondola' to carry him to the battle)",
+      "date": "1869-06-14",
+      "people": ["Mike McCoole"],
+      "places": ["Venice (probably Venice, Illinois)"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Carroll, of Carroll's Dramatic Saloon near the Varieties, was understood to have been the go-between through whom Allen and McCoole arranged their match",
+      "date": "1869",
+      "people": ["Mike McCoole", "Carroll"],
+      "places": ["Carroll's Dramatic Saloon, near the Varieties, St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "'Venice' is a humorous reference; Venice, Illinois, across the river, is the likely meaning but the article does not say so. The Gallagher paragraph recalls his blow under Allen's left ear in their earlier fight; left out of the facts as already covered by the fight record."
+}

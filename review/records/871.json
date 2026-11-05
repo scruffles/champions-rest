@@ -1,0 +1,26 @@
+{
+  "id": "871",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article; the first letter or two of some lines is trimmed at the left edge but all text is recoverable" },
+  "ocr": { "status": "good", "notes": "Minor errors from the trimmed left edge" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Charley Daly offered $500 to back his brother Johnnie Daly in a finish fight with skin or two-ounce gloves against Frank \"Dutch\" Neil, and Neil said Tom Allen would put up his $500 stake." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Tuesday, November 8, 1892, page 8" },
+  "facts": [
+    {
+      "fact": "Allen agreed to furnish Frank \"Dutch\" Neil's $500 stake for a proposed finish fight against Johnnie Daly, backed by his brother Charley Daly, at catch weights with skin or two-ounce gloves",
+      "date": "1892-11-07",
+      "people": ["Frank \"Dutch\" Neil", "Johnnie Daly", "Charley Daly"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's backing is reported secondhand from Neil. The rivalry is between two Market Street resorts, Tom Kelly's (Neil) and Charley Daly's."
+}

@@ -1,0 +1,50 @@
+{
+  "id": "933",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The Allen notice at the top of 'Sporting Notes', followed by unrelated notes (sharpshooters' tournament, Christian Brothers' College field day, St. Louis Cricket Club). Only the first item is about Allen."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The rest is readable, but Allen's name is lost ('ae pp retired champion pugilist')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen's Concert Hall Advertised"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's Sporting Notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only first-class singers."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead reads 'St. Louis Daily Globe-Democrat, Saturday Morning, June 13, 1896', page 18. The item is lower in the fourth column."
+  },
+  "facts": [
+    {
+      "fact": "Allen advertised his place at 619 Market Street, St. Louis, as the 'retired champion pugilist of the world', with a free concert every evening",
+      "date": "1896-06-13",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Paid notice in the Sporting Notes column; the same notice ran on several days in June 1896. Focus is primary for the notice itself, though it is only three lines."
+}

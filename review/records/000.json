@@ -1,0 +1,26 @@
+{
+  "id": "000",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Short local item, complete." },
+  "ocr": { "status": "good", "notes": "Matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Bill Ryall and Tom Allen, two pugilists from England, would spar at Prof. Henry's hall on Saturday night for the benefit of the poor, with Mike McCoole also appearing." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead: The Missouri Republican, St. Louis, February 27, 1868." },
+  "facts": [
+    {
+      "fact": "Allen and Bill Ryall, 'two distinguished pugilists from England', were to give a sparring set-to at Prof. Henry's hall, St. Louis, for the benefit of the poor, with Mike McCoole also appearing",
+      "date": "1868-02-29",
+      "people": ["Bill Ryall", "Mike McCoole"],
+      "places": ["Prof. Henry's hall, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fact date is the Saturday after the paper's date (Thursday, February 27, 1868). Item 001 describes a testimonial exhibition for Ryall and Allen on Saturday, March 7, so this one may have been postponed."
+}

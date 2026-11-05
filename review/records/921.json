@@ -1,0 +1,26 @@
+{
+  "id": "921",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "One paragraph from 'Sports at Hot Springs: Veterans Who Attended the Recent Pugilistic Fiasco' (headline not in clipping). The Allen part is complete; the bottom right is covered by a paper flaw that hides the end of the following sentences about Bob Farrell." },
+  "ocr": { "status": "rough", "notes": "First letters of many lines dropped ('ittracted', 'Natkins', 'eather'); 'Allen's apg' should be 'Allen's backing'; the end is garbled where the paper flaw is." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch noted that Fred Watkins of St. Louis, who backed Tom Allen in all his great battles in America, had made a fortune in the leather business and had come to Hot Springs for the failed championship fight." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'The Sunday Post-Dispatch, Part Four, St. Louis, Sunday Morning, November 10, 1895'." },
+  "facts": [
+    {
+      "fact": "Fred Watkins of St. Louis backed Allen in all his great battles in America, furnishing his backing about twenty years earlier",
+      "date": "",
+      "people": ["Fred Watkins"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen appears only as the man Watkins backed; 'passing' fits better than 'secondary'. Article 922 is the end of the same article."
+}

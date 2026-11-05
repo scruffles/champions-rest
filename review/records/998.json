@@ -1,0 +1,37 @@
+{
+  "id": "998",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Barnes Medical College commencement story without its headline ('Many New Doctors'); also includes unrelated 'Memphis Makes Her Argument' and 'Averted Panic in a School' items."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Opening lines garbled and 'Allen, of Missouri, won the first faculty prize' line dropped; graduate list mostly readable."
+  },
+  "about_tom": "no",
+  "title": {
+    "ok": false,
+    "suggested": "Barnes Medical College Graduate Tom Allen Wins Faculty Prize"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported the Barnes Medical College commencement, where a graduate named Tom Allen, of Missouri, won the first faculty prize. He is not the boxer."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, April 13, 1901."
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Different Tom Allen: a medical graduate (apparently T. C. Allen of Ware, Mo., elected alumni association president). Candidate for removal."
+}

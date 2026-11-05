@@ -1,0 +1,26 @@
+{
+  "id": "971",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "'Pugilistic Pointers' item (Joe Campbell on Billy Brady) complete; a Madison Turf Exchange train notice sits above the headline. The Kid McCoy/Mitchell part named in the subhead is not in the clipping, but the Allen passage is whole." },
+  "ocr": { "status": "rough", "notes": "Gist readable but many errors ('Alles', 'IStd' for 1870, 'Uarson', 'diradts')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic quoted Joe Campbell suggesting Billy Brady's Corbett-Fitzsimmons tour scheme was inspired by the profitable tour Jem Mace and Tom Allen made after Mace beat Allen in 1870." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Thursday Morning, January 6, 1898, page 5. The article places the 1870 Mace-Allen fight in Mississippi (it was near New Orleans, Louisiana)." },
+  "facts": [
+    {
+      "fact": "After Mace's victory over Allen in 1870, Jem Mace and Tom Allen made a tour of the country together that made a big pot of money for both",
+      "date": "1870",
+      "people": ["Jem Mace"],
+      "places": ["United States"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective remark by Joe Campbell, 28 years after the event."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "930",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "A paragraph from the bottom of column 1 of 'Macon's Ring Gossip' (a column on Billy Edwards' victories); it ends mid-sentence ('who was credited') and continues at the top of the next column, which is not in the crop. The Allen mention itself is complete." },
+  "ocr": { "status": "good", "notes": "Minor errors ('fom Allen', 'Horan', 'Bdwards')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Ben Hogan Recalled as Allen's Opponent for the Title" },
+  "summary": { "ok": false, "suggested": "In a column on Billy Edwards' career, the St. Louis Republic recalled that Ben Hogan, who later reformed and became an evangelist, fought Tom Allen for the championship and gave him a fair fight." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: The Republic, St. Louis, Sunday Morning, May 10, 1896, page 14. Column datelined New York (Special Correspondence)." },
+  "facts": [
+    {
+      "fact": "Allen fought Ben Hogan, later an evangelist, for the championship; Hogan gave him a fair fight",
+      "date": "",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective mention; no date or place given. The facts index has an unnumbered (000) entry about Allen being set to fight [Ben?] Hogan, which this supports that it was Ben Hogan."
+}

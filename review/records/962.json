@@ -1,0 +1,26 @@
+{
+  "id": "962",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "General Sporting Gossip column with unrelated items (trap shooting, sprinter, Parson Davies); the Smith/Weir item, the last one, is cut off mid-sentence at 'Weir has not'. crop-2 is blank paper." },
+  "ocr": { "status": "good", "notes": "matches the image; ends where the crop ends" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "masthead reads 'The Republic: St. Louis, Mo., Tuesday Morning, June 15, 1897', page 4" },
+  "facts": [
+    {
+      "fact": "Boxers 'Denver Ed' Smith, his brother Paddy Smith and Ike Weir, the 'Belfast Spider', arrived in St. Louis and stayed at Tom Allen's place",
+      "date": "1897-06",
+      "people": ["Denver Ed Smith", "Paddy Smith", "Ike Weir"],
+      "places": ["Tom Allen's place, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same visit as article 963 (Post-Dispatch, same day). Rest of the item after 'Weir has not' is not in the crop; it is about Weir, not Allen."
+}

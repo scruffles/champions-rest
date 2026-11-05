@@ -1,0 +1,79 @@
+{
+  "id": "898",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Clipping is a middle section of 'They Fight To-Day' (continued from page 1), a history of the championship: it starts mid-sentence and the right edge of every line is cut off, losing words, years and round counts. The Allen material is under the 'Mace and Allen' subhead. Bottom includes unrelated 'The Governor's Only Picture' item."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Right-edge words missing in both image and OCR; OCR misreads $5,000 as 15,000 and 6,000, and Mace's round count as 14 (image shows '10' cut off)"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Championship History Recounts Tom Allen's Fights With Mace, McCoole and Goss"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic, on the day of the Corbett-Mitchell fight, ran a history of the championship recounting Tom Allen's loss to Jem Mace at New Orleans, his win over Mike McCoole and his loss to Joe Goss on a foul in 1876."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Thursday Morning, January 25, 1894, page 2. The year of the McCoole fight (1873 in the current summary) is not visible in the clipping."
+  },
+  "facts": [
+    {
+      "fact": "Jem Mace challenged Allen, who claimed the championship of America, and beat him at New Orleans on May 10 in about 10 rounds lasting 44 minutes, for $5,000",
+      "date": "1870-05-10",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen defeated Mike McCoole near St. Louis in seven rounds and again claimed the American championship",
+      "date": "",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "near St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Joe Goss challenged Allen and won their fight on September 7, 1876, on a foul, for a purse of $5,000",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Right edge cut off: years for the Mace fight and McCoole fight and the round in which Goss won are lost ('Goss won in the ... first round on a foul'). A wider crop from the page image would recover them. Fact dates for Mace fight taken from text ('May 10') plus known 1870 context."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "963",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "the main headline 'NOT KEEPING TRAINING HOURS.' (visible on the page) is cut off; crop starts at the subhead. Body is complete." },
+  "ocr": { "status": "good", "notes": "small errors ('Allea's', 'heid', 'tye')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen would back \"Denver Ed\" Smith for $2,000 in a return match with Choynski or Goddard, and that Smith, his brother and Ike Weir held a reception at Allen's Market Street place." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Saloon", "Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "masthead reads 'Tuesday—St. Louis Post-Dispatch—June 15, 1897', page 2" },
+  "facts": [
+    {
+      "fact": "Allen offered to back 'Denver Ed' Smith to the extent of $2,000 in a return match with Joe Choynski or Joe Goddard",
+      "date": "1897-06-15",
+      "people": ["Denver Ed Smith", "Joe Choynski", "Joe Goddard"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "'Denver Ed' Smith, Paddy Smith and Ike Weir held a reception at Allen's place on Market Street that ran until 2 a.m.",
+      "date": "1897-06-14",
+      "people": ["Denver Ed Smith", "Paddy Smith", "Ike Weir"],
+      "places": ["Tom Allen's place, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Companion to article 962 (Republic, same day)."
+}

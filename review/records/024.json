@@ -1,0 +1,94 @@
+{
+  "id": "024",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item, from 'THE PRIZE RING. The Allen-McCoole Mill — Difficulties Arranged.' to the end, in two pieces."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "A paraphrase rather than a transcript: wording is modernized throughout, the opening line 'The Cincinnati Enquirer of yesterday has the following' is dropped, and Bill Carroll's first name is omitted. Facts and names match."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reprinted a Cincinnati Enquirer report that a dispute over the stakeholder for the $2,500-a-side Allen-McCoole fight was being settled, and that Allen would fight for nothing if need be."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, November 7, 1869', matching the date. The item is a reprint from the Cincinnati Enquirer."
+  },
+  "facts": [
+    {
+      "fact": "The Allen-McCoole match was for $2,500 a side; Allen's backers rejected McCoole's choice of stakeholder, Murray, fearing he would let himself be sued rather than pay out if Allen won",
+      "date": "1869-11",
+      "people": [
+        "Mike McCoole",
+        "Murray"
+      ],
+      "places": [
+        "Cincinnati, Ohio"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was said to have been twice cheated in St. Louis over stake money",
+      "date": "1869",
+      "people": [],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Bill Carroll represented Allen's side and Mr. Thorweger of St. Louis, who had $1,100 in Allen's stake, came to Cincinnati to settle the stakeholder dispute",
+      "date": "1869-11-06",
+      "people": [
+        "Bill Carroll",
+        "Thorweger",
+        "Jack Looney"
+      ],
+      "places": [
+        "Cincinnati, Ohio"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he was ready to fight McCoole for the excursion money or for nothing to settle who was superior",
+      "date": "1869-11",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's remark is reported indirectly, so it is not recorded as a verbatim quote. The current summary is vague about how the dispute was resolved."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "929",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Complete item 'Death of Fred Watkins.'" },
+  "ocr": { "status": "good", "notes": "Few errors: 'ides' for the year he came to St. Louis (image looks like 1868 but is smudged), 'to-wef' for 'to-day', '<4 Be arnae' for 'sportsman'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported the death of Fred Watkins, a Birmingham-born St. Louis hide and leather merchant who had backed Tom Allen when Allen was champion and was a familiar figure at ringside." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, May 3, 1896, page 12." },
+  "facts": [
+    {
+      "fact": "Fred Watkins, a native of Birmingham, England, and partner in the St. Louis hide and leather firm Watkins & Lieber, who had backed Allen when Allen was champion, died of a stroke in St. Louis",
+      "date": "1896-05-01",
+      "people": ["Fred Watkins"],
+      "places": ["St. Louis", "Birmingham, England"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same event as 928. Watkins, like Allen, was from Birmingham."
+}

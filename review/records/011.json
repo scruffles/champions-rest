@@ -1,0 +1,64 @@
+{
+  "id": "011",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full short item, headline 'FISTIANA. Another Big Fight—Allen Challenges McCoole.' to the end."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen had sent a card to a morning paper challenging Mike McCoole to fight for $2,500 within three months and fifty miles of St. Louis, and that McCoole readily accepted."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, March 11, 1869'. McCoole heard of the challenge late the night before, Mar. 10."
+  },
+  "facts": [
+    {
+      "fact": "Allen challenged Mike McCoole, by a card in a morning paper, to fight for $2,500, within three months and within fifty miles of St. Louis",
+      "date": "1869-03-10",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "McCoole said he was willing to accept Allen's challenge",
+      "date": "1869-03-10",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

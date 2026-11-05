@@ -1,0 +1,15 @@
+{
+  "id": "942",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Same article as 943 (same page, same date), but the left side of the column is cut off throughout, so the start of every line is missing." },
+  "ocr": { "status": "rough", "notes": "Matches the cut-off image; line beginnings missing. 943 has the complete text." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Advises Peter Maher at Maher-Choynski Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Tom Allen returned from New York, where he sat ringside as an adviser to Peter Maher in his win over Joe Choynski at Tom O'Rourke's Broadway Club." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Friday Morning, November 20, 1896, page 5." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Duplicate of 943, which is a complete crop of the same article. Facts are recorded in 943 only; consider removing 942 or replacing its image with 943's."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1010",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The clipping starts at the sub-deck 'Threats of Replevin Suit Cause \"Lord\" Barrington to Return Tile'. The main headline above it on the page, 'TOM ALLEN'S HEIRS REGAIN HIS SILK HAT', is cut off. The body text is complete." },
+  "ocr": { "status": "rough", "notes": "Most of the first two-thirds is readable. The last paragraph is garbled: it drops 'with a simple note, reading: \"From Barrington.\"', 'Paddy Nalty', 'worked for Allen six years' and the line about the cup." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's heirs regain his silk hat from \"Lord\" Barrington" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that \"Lord\" Barrington, jailed on a murder charge, returned Tom Allen's famous silk hat after Tillie Hartgrove threatened a replevin suit. It was put on display with Allen's championship cup." },
+  "focus": { "current": "passing", "suggested": "primary" },
+  "tags": ["Legacy", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead reads 'St. Louis Daily Globe-Democrat, Sunday Morning, July 19, 1903', page 2." },
+  "facts": [
+    {
+      "fact": "After Tillie Hartgrove and J. W. Gillespie threatened a replevin suit, \"Lord\" Barrington, jailed at Clayton on a charge of murdering James P. McCann, sent Tom Allen's silk hat back to Allen's heirs",
+      "date": "1903-07-17",
+      "people": ["\"Lord\" Barrington", "Tillie Hartgrove", "J. W. Gillespie"],
+      "places": ["Clayton, Missouri", "St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Paddy Nalty, who had worked for Allen for six years, said the hat was the real one. It was put on display with the silver cup Allen won with the heavyweight championship of England (the paper gives the year as 1878)",
+      "date": "1903-07",
+      "people": ["Paddy Nalty"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Follows up the index fact that Lord Barrington had Allen's top hat and Hartgrove was trying to get it back (id 000). The 1878 date for the English championship cup is what the paper printed and may be wrong; compare with fact 022 (cup presented after the Davis fight)."
+}

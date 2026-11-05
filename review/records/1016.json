@@ -1,0 +1,26 @@
+{
+  "id": "1016",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping is a run of political items: 'Brewster and Swanger Address Large Audience', 'Many Register From One Small Building', 'Republican Primaries To-Day', 'Bay State Congressional Nominees' and part of the 'Levelers' (C. W. Post) advertisement. Only 'Many Register From One Small Building' mentions Allen, and it is complete." },
+  "ocr": { "status": "rough", "notes": "The Allen item is readable ('61) Market street' for 619, 'nest ei' for 'nest egg', 'Pines' for 'place'); the surrounding items have many errors." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "102 Voters Registered From Tom Allen's Old Saloon Building" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Republican clerks copying the registration books found 102 voters registered from the small two-story building at 619 Market Street, whose ground floor had been Tom Allen's saloon." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, October 5, 1904, page 11. The item also says John L. Sullivan was employed in the place but was not among those registered." },
+  "facts": [
+    {
+      "fact": "The lower floor of the two-story building at 619 Market Street, St. Louis, had formerly been Allen's saloon",
+      "date": "1904-10",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary calls 619 Market Street 'Tom Allen's address'; the article says only that the ground floor was formerly his saloon."
+}

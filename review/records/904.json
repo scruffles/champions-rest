@@ -1,0 +1,36 @@
+{
+  "id": "904",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "One complete paragraph from the long column 'Gossip of the Boxers' (New York, Jan. 11, signed Macon McCormick); the rest of the column does not concern Allen." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen recalled among post-Civil War prize fighters" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic printed a boxing history noting that Mike McCool and Tom Allen made pugilism lively in the West after the Civil War, that Jem Mace fought Allen, and that Allen and Joe Goss later fought for the championship of America." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Profiles", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, January 13, 1895, page 32. Stored name lacks the period ('The St Louis Republic')." },
+  "facts": [
+    {
+      "fact": "Allen fought Jem Mace in America before Mace left the country",
+      "date": "",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Joe Goss, described as two bald-headed old men, fought for the championship of America",
+      "date": "",
+      "people": ["Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective by a New York writer; facts are secondhand and undated in the text."
+}

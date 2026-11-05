@@ -1,0 +1,26 @@
+{
+  "id": "966",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping holds only the Allen/Mrs. Duffy section of the longer story 'Drunken Brawl Ends Fatally'; the headline and opening paragraphs on Brown's death are left out. The Allen passage itself is complete." },
+  "ocr": { "status": "rough", "notes": "Gist readable but a vertical fold line garbles many words (e.g. 'whole thing', 'new turn', 'seized', 'strike')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen helps police solve fatal saloon assault" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen told police his housekeeper, Mrs. Mary Duffy, saw from a window over his saloon the assault on William C. Brown at the Ohio saloon opposite, leading to bartender William Damm's arrest for murder." },
+  "focus": { "current": "passing", "suggested": "secondary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Friday Morning, July 16, 1897, page 12." },
+  "facts": [
+    {
+      "fact": "Allen informed police that his housekeeper, Mrs. Mary Duffy, had witnessed the fatal assault on William C. Brown at the Ohio saloon across the street from Allen's saloon; Allen and Duffy were summoned before Chief Desmond and bartender William Damm was charged with first-degree murder",
+      "date": "1897-07-15",
+      "people": ["Mary Duffy", "William C. Brown", "William Damm", "Chief Desmond"],
+      "places": ["Tom Allen's saloon, opposite the Ohio saloon, St. Louis", "Four Courts, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mrs. Mary Duffy is named as Allen's housekeeper and sat at a window over his saloon."
+}

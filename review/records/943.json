@@ -1,0 +1,76 @@
+{
+  "id": "943",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Full article from headline 'Maher Closed In Upon Him' to the end." },
+  "ocr": { "status": "good", "notes": "Minor errors (e.g. 'Joe Willman' for Joe Ullman, 'Jim Mali' for Jim Hall, 'a0 per cent' for 30 per cent)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Tom Allen returned from New York, where he sat ringside as an adviser to Peter Maher in his win over Joe Choynski, and gave his account of the fight and of old fighters he met." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Friday Morning, November 20, 1896, page 5. The fight was 'Monday night', i.e. 1896-11-16." },
+  "facts": [
+    {
+      "fact": "Allen travelled from St. Louis to New York to attend the Maher-Choynski fight at Tom O'Rourke's Broadway Club",
+      "date": "1896-11-16",
+      "people": ["Peter Maher", "Joe Choynski", "Tom O'Rourke"],
+      "places": ["Broadway Club, New York", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was given a special ringside seat to advise Peter Maher during his fight with Joe Choynski and was credited by Maher's friends for the style of fight he mapped out",
+      "date": "1896-11-16",
+      "people": ["Peter Maher", "Joe Choynski"],
+      "places": ["Broadway Club, New York"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen returned to St. Louis from New York",
+      "date": "1896-11-19",
+      "people": [],
+      "places": ["New York", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen on Maher's confidence before the Choynski fight",
+      "date": "1896-11-19",
+      "people": ["Peter Maher", "Joe Choynski"],
+      "places": ["St. Louis"],
+      "quote": "Peter was the most confident fighter I have ever seen enter the ring.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he won several hundred dollars betting on Maher",
+      "date": "1896-11-16",
+      "people": ["Peter Maher"],
+      "places": ["New York"],
+      "quote": "The betting was all in Maher's favor. I won several hundred, but was forced to give big odds to get my money on.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said that in New York he was kept busy giving money to old-time fighters, naming Billy Edwards, Barney Aaron, Dan Dwyer, Dick Roche and Al Smith",
+      "date": "1896-11",
+      "people": ["Billy Edwards", "Barney Aaron", "Dan Dwyer", "Dick Roche", "Al Smith", "Jim Hall"],
+      "places": ["New York"],
+      "quote": "New York is full of old-time fighters. During my stay they kept me busy handing out money to them. I never fed less than a dozen at every meal.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "942 is a cut-off duplicate of this article."
+}

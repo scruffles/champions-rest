@@ -1,0 +1,67 @@
+{
+  "id": "027",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The clipping has the SPORTING header, the Mace-Allen item (about Allen), and an unrelated Chicago base ball item below it."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image, including the unrelated base ball item."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that articles for the Mace-Allen prize fight were signed in New York for $2,500 and the championship, the fight to take place within fifty miles of New Orleans on May 10."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, January 18, 1870', matching the date. Item is a New York dispatch dated Jan. 17."
+  },
+  "facts": [
+    {
+      "fact": "Articles for the Mace-Allen fight were signed at the Clipper office in New York, by Mace in person and by Frank Burns for Allen",
+      "date": "1870-01-17",
+      "people": [
+        "Jem Mace",
+        "Frank Burns"
+      ],
+      "places": [
+        "New York Clipper office, New York"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Mace-Allen fight was set for May 10, 1870, within fifty miles of New Orleans, for $2,500 and the championship",
+      "date": "1870-05-10",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "within fifty miles of New Orleans"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper prints 'John Mace'; this is Jem Mace. The current summary gives the stakes as $2,590; the image reads $2,500."
+}

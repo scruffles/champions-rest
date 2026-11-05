@@ -1,0 +1,26 @@
+{
+  "id": "917",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "small errors ('champlon puigillst')" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's Free Concerts at 619 Market Street" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "passing", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "masthead: St. Louis Daily Globe-Democrat, October 19, 1895" },
+  "facts": [
+    {
+      "fact": "Allen ran a saloon at 619 Market Street, St. Louis, advertising free concerts every evening with first-class singers",
+      "date": "1895-10",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Repeat of the 619 Market Street notice (see 916, 920). Whole item is about Allen, so focus primary."
+}

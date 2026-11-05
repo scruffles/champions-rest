@@ -1,0 +1,56 @@
+{
+  "id": "893",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article 'May Not Fight', page 5." },
+  "ocr": { "status": "good", "notes": "Mostly right; small errors (e.g. 'i' for '15' in November 10 and 15)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Stakeholder Allen's Views on the Sharpe-Crosby Match" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Tom Allen, stakeholder of the $1,000 for the Sharpe-Crosby fight, would try to get bail for the jailed Sharpe and wanted the match postponed so both men got a square deal." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Wednesday Morning, November 1, 1893, page 5." },
+  "facts": [
+    {
+      "fact": "Allen was stakeholder for the Sharpe-Crosby fight, holding the $1,000 posted by the backers and empowered to name the time and place if no club offered a suitable purse",
+      "date": "1893-11",
+      "people": ["Sharpe", "Crosby", "Ed Burke"],
+      "places": ["Armourdale Club, Kansas City, Kansas"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen said he would try to secure bail bonds for the imprisoned Sharpe and offered a cash guarantee",
+      "date": "1893-11-01",
+      "people": ["Sharpe"],
+      "places": ["Edwardsville, Illinois"],
+      "quote": "I will see my brewer this morning and make a last effort to get bonds for Sharpe. I am willing to put up a cash guarantee, and if we can find an owner of real estate in Illinois who will consent to go bail for him we will have him out.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen urged postponing the fight to early December, citing his own experience",
+      "date": "1893-11-01",
+      "people": ["Sharpe", "Crosby"],
+      "places": [],
+      "quote": "A man can't step out of prison into a ring and do himself justice. I have had experience and know what I am talking about.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he would see both fighters treated fairly with the stake money",
+      "date": "1893-11-01",
+      "people": [],
+      "places": [],
+      "quote": "I have the $1,000 the men's backers posted, and, while I do not say what I will do with it, I am determined to see that both men get a square deal.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Sharpe and Crosby had fought earlier at Nameoki, Illinois; Sharpe was jailed awaiting trial at Edwardsville."
+}

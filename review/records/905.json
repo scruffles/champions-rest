@@ -1,0 +1,36 @@
+{
+  "id": "905",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Pugilistic Points' column; Allen appears only in the Kilrain age paragraph." },
+  "ocr": { "status": "rough", "notes": "Gist readable but ages and numbers garbled (Goss 38 read as $8, Ryan 42 as 32, 87 rounds as ST, Mace 40 as 49, McCool 36 as 0)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Kilrain's Age Compared With Old Champions Including Goss and McCool" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic, discussing Jake Kilrain's age, noted that Joe Goss was 38 when he beat Tom Allen in Kentucky for the American championship and that Mike McCool was 36 when he fought Allen for $2,000." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Saturday Morning, February 2, 1895, page 6. Only punctuation fix (St. with period). Dateline New York, Feb. 1. Tag Legacy does not strictly apply (written before 1903); retrospective mention." },
+  "facts": [
+    {
+      "fact": "Joe Goss, aged 38, defeated Allen in Kentucky for the championship of America",
+      "date": "",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mike McCool, aged 36, fought Allen for $2,000 and the championship",
+      "date": "",
+      "people": ["Mike McCool"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Fight dates not given in the article."
+}

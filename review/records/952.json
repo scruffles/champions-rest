@@ -1,0 +1,66 @@
+{
+  "id": "952",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Has the top quote, the Allen drawing and the headline, and the first column of text, but the right side is cut: the second column is clipped mid-line and the article continues into a third column (ending 'R. J. Collins') that is not in the clipping. The Tom Allen's Idea vignette in the center of the page is also outside the crop." },
+  "ocr": { "status": "rough", "notes": "The drawing produced a long block of garbage; the first text column is mostly right, but the second column is truncated words because of the crop." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Says Corbett Has the Speed to Beat Fitzsimmons" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Tom Allen, who saw the Sullivan-Corbett fight and was with Charlie Mitchell at Jacksonville, picked Corbett to beat Fitzsimmons, calling him the fastest big man he had ever seen." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St Louis Republic", "notes": "Page header reads The Republic: St. Louis, Mo., Sunday Morning, February 7, 1897, page 8, under the banner 'Veteran Boxers Give Their Views on the Fight.'" },
+  "facts": [
+    {
+      "fact": "Allen witnessed the Sullivan-Corbett championship fight in New Orleans",
+      "date": "1892-09-07",
+      "people": ["John L. Sullivan", "James J. Corbett"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was with Charlie Mitchell at Jacksonville when Mitchell was beaten by Corbett",
+      "date": "1894-01-25",
+      "people": ["Charlie Mitchell", "James J. Corbett"],
+      "places": ["Jacksonville, Florida"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had witnessed all of Fitzsimmons' fights in New Orleans",
+      "date": "",
+      "people": ["Bob Fitzsimmons"],
+      "places": ["New Orleans, Louisiana"],
+      "quote": "I have witnessed all of Fitz's fights in New Orleans.",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen predicted Corbett would beat Fitzsimmons with his left and a blow to the stomach",
+      "date": "1897-02",
+      "people": ["James J. Corbett", "Bob Fitzsimmons"],
+      "places": [],
+      "quote": "Jim will bring out his left, block it and he will go for a smash into the lanky fellow's stomach that will wind his clock before many rounds have been fought.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen called Corbett the fastest big man he had ever seen in the ring",
+      "date": "1897-02",
+      "people": ["James J. Corbett"],
+      "places": [],
+      "quote": "Corbett is the fastest big man I have ever seen in the ring, and has a left hand, the equal of which was never before produced.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The end of the top quote ('will go for a smash into the lanky fellow's stomach ... before many rounds') is cut in the crop and was read from the page image. The rest of the interview (second and third columns) is cut off and was not reviewed."
+}

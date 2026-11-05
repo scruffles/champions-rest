@@ -1,0 +1,36 @@
+{
+  "id": "889",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Single paragraph from the 'Heard in the Corridors' column, page 7; complete." },
+  "ocr": { "status": "good", "notes": "Minor errors (e.g. 'Gallaghefdoup' for 'Gallagher do up', 'equates circle' for 'squared circle')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Andrew Carlson Recalls Allen's Fights With McCoole and Gallagher" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat quoted Andrew Carlson of New Orleans, who recalled seeing Tom Allen fight Mike McCoole down the river and Charley Gallagher beat Allen in three rounds near Chester, Ill." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Thursday Morning, April 6, 1893, page 7." },
+  "facts": [
+    {
+      "fact": "Andrew Carlson recalled seeing Allen fight Mike McCoole down the river from St. Louis by steamboat",
+      "date": "",
+      "people": ["Mike McCoole", "Andrew Carlson"],
+      "places": ["Mississippi River below St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Andrew Carlson recalled seeing Charley Gallagher beat Allen in three rounds somewhere near Chester, Illinois",
+      "date": "",
+      "people": ["Charley Gallagher", "Andrew Carlson"],
+      "places": ["near Chester, Illinois"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Secondhand recollection decades later; the three rounds and Chester location may not match the record of the 1869 Gallagher fight."
+}

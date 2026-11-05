@@ -1,0 +1,26 @@
+{
+  "id": "907",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The Mace/Allen paragraph from the 'Gossip of the Boxers' column (headline clipped as 906); ends mid-sentence in the unrelated O'Donnell-Maher paragraph. Right edge trims a letter or two." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Jem Mace Wants to Fight Tom Allen Again" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Jem Mace, close to 60, wanted to come to America and fight Tom Allen again after hearing Allen had said he could whip him; the writer doubted Allen would fare better than 25 years before." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, February 24, 1895, page 11. New York correspondence dated Feb. 22." },
+  "facts": [
+    {
+      "fact": "Jem Mace, close to 60, reportedly wanted to come to America to fight Allen again after being told Allen said he could whip him; informant Billy Delaney",
+      "date": "1895-02",
+      "people": ["Jem Mace", "Billy Delaney"],
+      "places": ["England", "St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same article as 906. Title 'Mace and Allen Championship Contest' is misleading: no contest took place."
+}

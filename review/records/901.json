@@ -1,0 +1,15 @@
+{
+  "id": "901",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The clipping is the top of the 'Spring Race Meet' sporting column (horse racing items). Allen is named only in the headline deck; his 'Chance Blows' item, at the foot of column 1 and the head of column 2, is not in the clipping (it is article 900)." },
+  "ocr": { "status": "good", "notes": "Matches the clipping closely; the clipping itself contains no Allen text beyond the deck." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch sporting column, led by Fair Grounds racing news, included Tom Allen's account of how Charley Gallagher knocked him out with a chance blow." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Friday, St. Louis Post-Dispatch, October 26, 1894, page 7." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Duplicate of article 900 (same page and column); the clipping misses the Allen section entirely. Consider merging with or removing in favor of 900, or recropping. Facts recorded under 900."
+}

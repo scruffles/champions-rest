@@ -1,0 +1,48 @@
+{
+  "id": "995",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Whole 'Gossip of the Boxers' column (Broad-Sullivan, Phoenix A.C., Peter Jackson, Connolly, Stift, Sieloff items); only the Alfred Mace item near the end mentions Allen."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mace item transcribed correctly; small errors elsewhere."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": true,
+    "suggested": ""
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, January 16, 1901, page 10."
+  },
+  "facts": [
+    {
+      "fact": "Jem Mace fought Allen during a tour of America about thirty years earlier",
+      "date": "1870",
+      "people": ["Jem Mace"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "One-sentence mention; date is the article's 'thirty years ago'."
+}

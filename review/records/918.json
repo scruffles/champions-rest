@@ -1,0 +1,15 @@
+{
+  "id": "918",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "main headline 'MR. \"BOB\" FARRELL, EX-LIGHTWEIGHT.' is cut off; crop starts at the subhead. Body is complete." },
+  "ocr": { "status": "rough", "notes": "first half good; second half (from the Coburn contest on) badly garbled" },
+  "about_tom": "unsure",
+  "title": { "ok": false, "suggested": "Bob Farrell, Ex-Lightweight, Suggested as Referee" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch profiled Bob Farrell, St. Louis boxing instructor proposed as referee for Corbett-Fitzsimmons, listing among his early New York victims a boxer called \"Young Tom Allen.\"" },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "masthead: Sunday Morning, St. Louis Post-Dispatch, October 20, 1895, page 32" },
+  "facts": [],
+  "needs_human": true,
+  "notes": "The only mention is 'Young Tom Allen and \"Fiddler\" Neary were his next victims' among Farrell's early New York lightweight bouts. 'Young Tom Allen' is probably a different, younger boxer, not the champion; a human should decide whether to keep this article. No facts recorded."
+}

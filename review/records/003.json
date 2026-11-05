@@ -1,0 +1,26 @@
+{
+  "id": "003",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole short 'FISTIANA' paragraph." },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image except the last line: the image reads 'when they met the party at Doyle's training quarters at the gate of the Fair Grounds', not 'met the lively Buck Sahe quarters'. 'Conzallin' is hard to read in the image too."
+  },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that McCoole, Charlie Gallagher, Bill Ryall and other sporting men visited Bill Davis at his Fair Grounds training quarters as he prepared for his fight with Tom Allen."
+  },
+  "focus": { "current": "", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, December 22, 1868'."
+  },
+  "facts": [],
+  "needs_human": false,
+  "notes": "The item is about Davis's training; Allen is named only as his opponent, so no facts about Allen are recorded."
+}

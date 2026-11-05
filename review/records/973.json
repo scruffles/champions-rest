@@ -1,0 +1,15 @@
+{
+  "id": "973",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'A Very Queer Minister' item; the tail of a preceding club item is at the top." },
+  "ocr": { "status": "good", "notes": "Accurate; '200' should be '300' in the preceding item, 'Jen Mace' as printed." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Minister Likens Old Bare-Knuckle Fights to Football" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch quoted an Indianapolis Methodist minister who praised Kid McCoy's gloved exhibition, saying the bare-knuckle fights of McCool, Tom Allen and Morrissey were kin to college football." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Sunday Morning, St. Louis Post-Dispatch, March 20, 1898, page 14." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "The current summary has it backwards: the minister did not favor the bare-knuckle fights; he compared them to the football he was criticizing. Allen is only named in a list."
+}

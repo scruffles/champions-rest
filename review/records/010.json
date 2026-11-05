@@ -1,0 +1,68 @@
+{
+  "id": "010",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full article in three pieces, from headline 'AFTER THE BATTLE. Excitement Among the Fancy.' to the end."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image. Small errors: 'bar-room fighter' for 'bar-room fightist', 'Bill Ryan's' for Bill Ryall's, 'take note of' for 'take exception to'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that after the Gallagher fight, Allen told Gallagher at McCoole's saloon he was no bar-room fighter but would meet him again in the ring for $1,000 to $5,000; Gallagher's party then started a brawl."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, February 25, 1869'. The McCoole's scene was Tuesday night, Feb. 23; the Hennessy's dispute was Feb. 24."
+  },
+  "facts": [
+    {
+      "fact": "At McCoole's saloon, Allen refused Gallagher's offer to renew the fight on the spot, saying he was no bar-room fighter, but offered to meet him in the ring in a week to a month for $1,000 to $5,000",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher",
+        "Mike McCoole"
+      ],
+      "places": [
+        "McCoole's saloon, opposite the Court-House, St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jack Looney offered $1,500 to $1,200 that Allen could whip Gallagher in another fight; a rematch was expected",
+      "date": "1869-02-24",
+      "people": [
+        "Jack Looney",
+        "Charley Gallagher"
+      ],
+      "places": [
+        "Hennessy's, Fourth Street near Morgan, St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's words are reported indirectly ('Allen said he was no bar-room fightist'), so no quote is recorded. The brawl and the referees' fee dispute do not involve Allen directly. Bill Ryall's typhoid fever is not about Allen."
+}

@@ -1,0 +1,81 @@
+{
+  "id": "899",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Clipping is a long column of unrelated sports and state news, a Cuticura ad and medical-society report. Only the first short item, 'Tom Allen's Return,' is about Allen, and it is complete."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Allen item is garbled: its first line and part of the quote are missing ('Tom Allen's Return. The veteran ex-pugilist Tom Allen, who'); later columns mostly good"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, one of Charley Mitchell's seconds at Jacksonville, returned to St. Louis saying Corbett was the bigger, stronger man and Mitchell lacked the strength to hold his own."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, January 28, 1894, page 11."
+  },
+  "facts": [
+    {
+      "fact": "Allen was one of Charley Mitchell's seconds in his fight with James J. Corbett at Jacksonville",
+      "date": "1894-01-25",
+      "people": [
+        "Charley Mitchell",
+        "James J. Corbett"
+      ],
+      "places": [
+        "Jacksonville, Florida"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen returned to St. Louis from Jacksonville after the Corbett-Mitchell fight",
+      "date": "1894-01-27",
+      "people": [],
+      "places": [
+        "Jacksonville, Florida",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said Mitchell might have prolonged the fight with defensive tactics but lacked the strength to hold his own with Corbett",
+      "date": "1894-01-27",
+      "people": [
+        "Charley Mitchell",
+        "James J. Corbett"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "Charley might have prolonged the fight if he had employed defensive tactics, but the result would have been the same in the end. He had not the strength to hold his own with Corbett.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The Allen item is a short paragraph; focus suggested primary because that item is entirely about him."
+}

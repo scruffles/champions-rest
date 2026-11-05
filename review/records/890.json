@@ -1,0 +1,56 @@
+{
+  "id": "890",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article 'The Fortunes in Fists', page 26." },
+  "ocr": { "status": "good", "notes": "Readable; scattered errors in names and numbers (e.g. 'Gallagner', 'Ken-ae' for Kentucky)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Stakes in Old-Time Prize Fights, Including Allen's" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reviewed prize-fight stakes since 1776, noting Tom Allen beat Mike McCoole near St. Louis in 1873 for $2,000 and lost the championship and $5,000 to Joe Goss in 1876." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, April 23, 1893, page 26." },
+  "facts": [
+    {
+      "fact": "Allen beat Mike McCoole in seven rounds (twenty minutes) near St. Louis in 1873 for stakes of $2,000",
+      "date": "1873",
+      "people": ["Mike McCoole"],
+      "places": ["near St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen won $2,000 stakes by defeating Charley Gallagher",
+      "date": "",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jem Mace beat Allen at New Orleans in ten rounds for $5,000 (the paper says 1871)",
+      "date": "1871",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Joe Goss took the championship and $5,000 from Allen in 1876, winning on a foul in Kentucky after twenty-one rounds",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen is one paragraph of a long general history. The paper dates the Mace fight 1871; it is usually given as May 1870 at Kennerville near New Orleans."
+}

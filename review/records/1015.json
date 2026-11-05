@@ -1,0 +1,36 @@
+{
+  "id": "1015",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Most of the clipping is the unrelated 'Jockey Dugan in the Ascendency on Local Tracks' racing column (headline cut on the right). Only the last part, below a rule ('about 170 pounds. Few of the great English fighters...' to '...equal in other respects.'), mentions Allen. From the page layout this fragment appears to be a jump of the adjacent interview 'John L. Sullivan Says He Wants to Become a Farmer' (the speaker says 'no kind of argument could ever convince me'), not part of the jockey story. The rest of that interview is not in the clipping." },
+  "ocr": { "status": "rough", "notes": "Jockey text mostly readable; the Allen passage has key errors ('16-pounder' and '2-pounder' for 165-pounder and 200-pounder, '= Mitchell' for Charlie Mitchell). Headline garbled." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "John L. Sullivan Recalls Tom Allen's Fighting Weight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch printed remarks, apparently by John L. Sullivan, that Tom Allen fought at 165 pounds and always held that a well-conditioned 165-pounder could beat a 200-pounder under London prize ring rules." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: Sunday Morning, St. Louis Post-Dispatch, September 18, 1904, page 7B (sports page). Attribution of the passage to Sullivan is inferred from the page layout and should be checked on the full-resolution page." },
+  "facts": [
+    {
+      "fact": "Allen fought at 165 pounds",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen always maintained that a thoroughly conditioned 165-pounder could beat a 200-pounder under London prize ring rules (reported secondhand, apparently by John L. Sullivan, who disagreed)",
+      "date": "",
+      "people": ["John L. Sullivan"],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Recrop needed: drop the jockey column and clip the Allen passage together with the John L. Sullivan interview it seems to belong to; confirm the speaker on the full page."
+}

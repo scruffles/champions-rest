@@ -1,0 +1,46 @@
+{
+  "id": "1011",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article: headline 'Tom Allen Was Worth Only $279', deck, the boxed list of possessions and the full body. The top of the clipping includes the lower part of an unrelated portrait of Senator Charles A. Smith." },
+  "ocr": { "status": "rough", "notes": "The body text is mostly right. The headline is missing and most of the amounts in the possessions box are garbled; the image shows them clearly (e.g. whisky $18.00, cup and shade $25.00, horse and harness $80.00, other effects $102.15, total $279.80)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Public Administrator Garrard Strode's inventory of Tom Allen's estate, filed in probate court, valued it at only $279.80, including his champion's cup at $25." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'St. Louis Post-Dispatch, Tuesday Evening, July 28, 1903', front page." },
+  "facts": [
+    {
+      "fact": "Public Administrator Garrard Strode filed the inventory and appraisal of Allen's estate in probate court; it valued everything at $279.80",
+      "date": "1903-07-28",
+      "people": ["Garrard Strode"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "049"
+    },
+    {
+      "fact": "The inventory listed Allen's champion's cup and shade at $25, a horse and harness at $80, an old piano and stool at $11, and $11 cash from John Murphy",
+      "date": "1903-07-28",
+      "people": ["John Murphy"],
+      "places": ["Champion's Rest, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After Allen's death the Champion's Rest fell into other hands, and a will was produced leaving his property to his two married daughters, one in St. Louis and one in England",
+      "date": "1903",
+      "people": [],
+      "places": ["Champion's Rest, St. Louis", "England"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The will described here (to the two daughters) matches the index entry 'Another article says Allen left everything to his two daughters' (id 000); it conflicts with the Globe-Democrat of the next day (1012), which says the will left $10 to each daughter and the rest to Tillie Hartgrove. The inventory does not include the mallet Allen used to rap for order at his concerts."
+}

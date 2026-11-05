@@ -1,0 +1,136 @@
+{
+  "id": "007",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full article in ten pieces, from headline 'THE PRIZE RING. The Davis and Allen \"Mill.\"' through all 43 rounds to the closing paragraph; the column continues across a break between pieces 7 and 8 of the image but nothing is lost."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "The transcript stops at 'Bill Davis was ensconced in room No. 12' and omits everything after: Allen boarding at Venice, the scene of the fight, the officers, all 43 rounds and the aftermath. What is there is mostly right, but with errors: 'Symonds' for Waggoner, 'Binge Rose' for Bingey Rose, '163' for 165 pounds, 'June 13, 1868' for 1866 (Lees), 'twenty-two' for twenty-five pounds, 'half-past 10' for half-past 9, 'Darlings' for 'Darbies'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen beat Wm. M. Davis in 43 rounds and 44 minutes at Ben. Reddish's farm near Rhodes' Point, up the Mississippi from St. Louis, after which a match with Charlie Gallagher was made."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Challenges",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, January 13, 1869'. The fight took place the day before, Jan. 12, 1869."
+  },
+  "facts": [
+    {
+      "fact": "Allen beat Wm. M. (Bill) Davis in 43 rounds lasting 44 minutes; McCoole threw up the sponge for Davis",
+      "date": "1869-01-12",
+      "people": [
+        "Wm. M. Davis",
+        "Mike McCoole"
+      ],
+      "places": [
+        "Ben. Reddish's farm, near Rhodes' Point, Mississippi River above St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, then living in Cleveland, boarded the fight boat Henry Adkins at Venice, Illinois, with his trainer Tom Kelly, on the way to the Davis fight",
+      "date": "1869-01-12",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Venice, Illinois",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was described as a native of Birmingham, England, aged about 28, 5 ft 9½ in, fighting weight 165 pounds",
+      "date": "1869-01",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen came to the United States in July 1867 and had since made Cleveland his home",
+      "date": "1867-07",
+      "people": [],
+      "places": [
+        "England",
+        "Cleveland, Ohio"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "006"
+    },
+    {
+      "fact": "Allen fought a draw with Joe Goss for £100 a side after 34 rounds in 1 hour 53 minutes",
+      "date": "1867-03-05",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was beaten by Posh Price; he later beat Price in 41 rounds (2 hours 5 minutes), claiming the stakes when Price was arrested",
+      "date": "1864-06-02",
+      "people": [
+        "Posh Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the Davis fight, a match was made between Charlie Gallagher and Allen (or Tom Kelly) for $500 or $2,000 a side, to come off in five weeks",
+      "date": "1869-01-12",
+      "people": [
+        "Charley Gallagher",
+        "Tom Kelly"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen also took up a collection of about $150 on the boat for Davis. The second Posh Price fight was Nov. 28, 1865 (combined into one fact with the 1864 loss). The earlier English record (Waggoner, Clarke, Wight, Young Gould, Bingey Rose, J. Perkinson, Geo. Lees, Bob Smith) is printed in the article but left out of the facts beyond the main bouts; the transcript should be re-OCRed to include the missing two-thirds of the article."
+}

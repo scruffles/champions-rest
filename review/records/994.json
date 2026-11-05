@@ -1,0 +1,48 @@
+{
+  "id": "994",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole Joe Goddard paragraph, one item in the 'Gossip of the Prize Ring' column."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right; '\"Denver Fa\" Smith' should be '\"Denver Ed\" Smith', '$6.08)' is $6,000, 'Sim Corbett' is Jim Corbett."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Allen Seconded \"Denver Ed\" Smith Against Joe Goddard"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic, noting Joe Goddard's new job as a Philadelphia matchmaker, recalled that Tom Allen coached and seconded \"Denver Ed\" Smith when Smith beat the favored Goddard at New Orleans."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Republic",
+    "notes": "Masthead: The Republic, Friday, December 21, 1900, page 6."
+  },
+  "facts": [
+    {
+      "fact": "Allen coached and seconded \"Denver Ed\" Smith in his fight with Joe Goddard at New Orleans, which Smith won after a desperate fight though Goddard was an odds-on favorite",
+      "date": "",
+      "people": ["\"Denver Ed\" Smith", "Joe Goddard"],
+      "places": ["New Orleans"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Date of the Smith-Goddard fight is not given in the article. The item is about Goddard; Allen is one sentence, so focus passing."
+}

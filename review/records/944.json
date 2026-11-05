@@ -1,0 +1,26 @@
+{
+  "id": "944",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The Allen item is the first paragraph of 'Sporting Notes'; the other two paragraphs (revolver championship, Yale-Princeton and Penn-Harvard football) are unrelated." },
+  "ocr": { "status": "good", "notes": "'Free concert' and 'engaged' are garbled ('ee', 'eng'); otherwise readable." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's Saloon Notice, 619 Market Street" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market street, offering a free concert every evening with only the best talent engaged." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, November 21, 1896, page 4." },
+  "facts": [
+    {
+      "fact": "Allen advertised his place at 619 Market Street, St. Louis, as offering a free concert every evening, styling himself the retired champion pugilist of the world",
+      "date": "1896-11",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same notice as 941 (1896-10-06)."
+}

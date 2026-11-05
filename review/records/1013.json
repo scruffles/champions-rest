@@ -1,0 +1,26 @@
+{
+  "id": "1013",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The front-page 'Index' and 'News Summary' column. Allen appears only in one index line and one summary paragraph; the full story is in 1012." },
+  "ocr": { "status": "good", "notes": "Mostly right. The index line for Allen is garbled ('ee Allen's 6s! Provokes Legal'); the image reads 'Tom Allen's Estate Provokes Legal Fight.' 'H. A. Bradford' is misread." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "News summary: Tom Allen's widow demands dower interest" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's front-page news summary noted that the widow of Tom Allen, late heavyweight champion of the world, demanded a dower interest in his estate, valued at $279.80." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Legal", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead reads 'St. Louis Globe-Democrat, Wednesday Morning, July 29, 1903', front page." },
+  "facts": [
+    {
+      "fact": "Allen's widow demanded a dower interest in his estate, valued at $279.80",
+      "date": "1903-07",
+      "people": [],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current title 'Echoes of the Streets' and summary (boy drowning) describe other index entries, not the Allen item. Brief pointer to the full story on page 14 (article 1012); same fact as there."
+}

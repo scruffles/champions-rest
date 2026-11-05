@@ -1,0 +1,26 @@
+{
+  "id": "965",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "crop ends mid-sentence at Mrs. Duffy's testimony ('saw Brown assaulted after'); the article continues on the page below, including a portrait of Mrs. Brown and further testimony, too small to read in page.jpg" },
+  "ocr": { "status": "good", "notes": "matches the crop; first line of headline garbled ('BEAT BROWN TO DEATH')" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's Housekeeper Testifies at Brown Murder Inquest" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that a coroner's jury held John \"Nig\" Rodgers responsible for beating William C. Brown to death outside the Ohio saloon. Mrs. Duffy, Tom Allen's housekeeper, was the only witness to the assault." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "masthead reads 'Friday—St. Louis Post-Dispatch—July 16, 1897', page 9" },
+  "facts": [
+    {
+      "fact": "Mrs. Duffy, Allen's housekeeper, was the only witness at the coroner's inquest to say she saw William C. Brown assaulted outside the Ohio saloon",
+      "date": "1897-07-16",
+      "people": ["Mrs. Duffy", "William C. Brown", "John 'Nig' Rodgers"],
+      "places": ["Ohio saloon, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Rest of the article (Mrs. Duffy's testimony and any further mention of Allen) is outside the crop and unreadable at page.jpg scale; a recrop of the full column is needed. The Ohio saloon is not stated to be Allen's."
+}

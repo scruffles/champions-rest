@@ -1,0 +1,26 @@
+{
+  "id": "977",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Whole 'Sporting Notes' column; only the second paragraph is the Allen notice. Other items: Dupont Park bird shoot, Maroons baseball, Kid McCoy/Tommy Ryan offer, swimming championship, Kerwin vs. Everhart." },
+  "ocr": { "status": "rough", "notes": "Allen notice garbled; OCR reads '610 Market' and 'ree tions', image clearly reads '619 Market street. Free concert every evening.'" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's Free Concerts at 619 Market Street" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat carried a notice that Tom Allen, retired champion pugilist of the world, offered a free concert every evening at 619 Market Street, with only the best singers engaged." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, August 20, 1898, page 7. Current summary has the wrong address (610); image reads 619." },
+  "facts": [
+    {
+      "fact": "Allen's place at 619 Market Street, St. Louis, offered free concerts every evening; he was billed as retired champion pugilist of the world",
+      "date": "1898-08",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same notice as 976 and 978."
+}

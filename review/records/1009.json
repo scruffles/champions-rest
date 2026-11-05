@@ -1,0 +1,53 @@
+{
+  "id": "1009",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Clipping is a Schaper Bros. 'Extra Specials' basement-sale ad with only the headline 'Tom Allen's Heirs Regain His Silk Hat' at the bottom; the subhead and the whole article body are missing."
+  },
+  "ocr": {
+    "status": "unusable",
+    "notes": "Transcript is only the store ad; no article text."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": true,
+    "suggested": ""
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, July 19, 1903, page 2."
+  },
+  "facts": [
+    {
+      "fact": "Allen's heirs regained his silk hat from 'Lord' Barrington",
+      "date": "1903-07",
+      "people": [
+        "Lord Barrington"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Article body is not in the clipping or transcript, so the current summary (Barrington's arrest, Paddy Nalty) cannot be checked. The page subhead appears to read 'Threats of replevin suit cause \"Lord\" Barrington to return tile' but is too small to confirm. Recrop the article from the page (bottom center)."
+}

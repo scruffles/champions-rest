@@ -1,0 +1,50 @@
+{
+  "id": "984",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Only the three-line 'Sporting Notes' item at the top is about Allen; the rest is 'Has an Escaping Record' (Sheriff Puchta and escaped prisoner William Conrad)."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Allen notice readable with typos ('Alien', 'retirsd'); rest has scattered errors."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Notice of Free Concerts at Tom Allen's, 619 Market Street"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "A notice under \"Sporting Notes\" in the St. Louis Globe-Democrat advertised Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, with a free concert every evening and only the best singers engaged."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, February 25, 1899, page 7."
+  },
+  "facts": [
+    {
+      "fact": "Allen's saloon at 619 Market Street, St. Louis, advertised a free concert every evening (\"best of singers only engaged here\"); he styled himself retired champion pugilist of the world",
+      "date": "1899-02-25",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Standing saloon notice. Focus primary because the item is entirely about Allen, though only three lines."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "953",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Long column of unrelated items (checkers, cycling, Sporting Notes, Nellie McHenry, rowing, baseball, Local Brevities). Allen is named once, in the Charley White paragraph in crop-4." },
+  "ocr": { "status": "rough", "notes": "Gist is there but many errors, including in the Allen sentence ('the ot whee about', 'pe of Jem Mace')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead reads St. Louis Daily Globe-Democrat, Wednesday Morning, February 24, 1897, page 6." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen appears only as an old-time name: White mocked men 'who rarely discuss fighters this side of the days of Jem Mace, Joe Goss and Tom Allen.' No facts about Allen."
+}

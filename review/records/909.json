@@ -1,0 +1,46 @@
+{
+  "id": "909",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping is only the bottom of the first column of a full-page feature ('Twenty Years a Prize Fighter. Stories From the Experience of Tom Allen, Who Fought 23 Battles in the Ring'), plus part of an illustration. Headline, most text, portrait, fight record and other columns are missing; left edge also trims the first letters of each line." },
+  "ocr": { "status": "rough", "notes": "Matches the small clipping but loses the first letters of each line; covers only a fragment of the article." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Twenty Years a Prize Fighter: Tom Allen Recalls His Career" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Profiles", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, March 31, 1895, page 40." },
+  "facts": [
+    {
+      "fact": "Allen recalled an off-hand fight with Posh Price in England in 1862, when Price outweighed him by 35 or 40 pounds; Price beat him in 35 rounds",
+      "date": "1862",
+      "people": ["Posh Price"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen recalled fighting Posh Price again three years later as a middleweight at 146 pounds and beating him in 41 rounds",
+      "date": "1865",
+      "people": ["Posh Price"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Republic said Allen fought 23 battles between 1860 and 1879",
+      "date": "1860",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Needs a full recrop: the page holds a major profile of Allen (his saloon Champion's Rest on Market Street, shot in the hand during a Gallagher fight, full fight record, McCool, Goss, Mace and Gallagher contests, a portrait and a drawing of his scarred right hand). Facts above are only from the clipped fragment. Quotes not recorded because the left edge cuts letters."
+}

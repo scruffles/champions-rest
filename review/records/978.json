@@ -1,0 +1,26 @@
+{
+  "id": "978",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "'Sporting Notes' with three items; only the first is the Allen notice. Others: St. Louis Coursing Club programme and George Kerwin vs. Jerome Quigley at Toronto." },
+  "ocr": { "status": "good", "notes": "Minor errors ('pugiiist', 'engeged', 'Cxeb')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's Free Concerts at 619 Market Street" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat carried a notice that Tom Allen, retired champion pugilist of the world, offered a free concert every night at 619 Market Street, with only the best singers engaged." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, September 24, 1898, page 7. Current summary describes the unrelated Kerwin item, not Allen." },
+  "facts": [
+    {
+      "fact": "Allen's place at 619 Market Street, St. Louis, offered free concerts every night; he was billed as retired champion pugilist of the world",
+      "date": "1898-09",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same notice as 976 and 977."
+}

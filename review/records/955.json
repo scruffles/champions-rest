@@ -1,0 +1,36 @@
+{
+  "id": "955",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping is the continuation of 'Expressions of the Sports' (part of 'Stirring Scenes in St. Louis'); it starts mid-list ('...Grounds Association') and the headline and opening are in the column to the left. The Allen mention, in Al Spink's diagnosis (crop-4), is complete." },
+  "ocr": { "status": "good", "notes": "Mostly right, with scattered errors (e.g. 'Sepppaced', 'ig, eagle', 'idea < blow'). The Allen sentence is transcribed correctly." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Al Spink Recalls Tom Allen at the Sullivan-Kilrain Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat printed St. Louis sporting men's views on Fitzsimmons' win over Corbett. Al Spink recalled Tom Allen at ringside at the Sullivan-Kilrain fight at Richburg saying, \"They fight like a pair of old wash women.\"" },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead reads St. Louis Daily Globe-Democrat, Thursday Morning, March 18, 1897, page 4." },
+  "facts": [
+    {
+      "fact": "Allen was at ringside for the bare-knuckle Sullivan-Kilrain fight at Richburg",
+      "date": "1889-07-08",
+      "people": ["John L. Sullivan", "Jake Kilrain", "Al Spink"],
+      "places": ["Richburg, Mississippi"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "At the Sullivan-Kilrain fight Allen said of the two fighters that they fought like a pair of old wash women",
+      "date": "1889-07-08",
+      "people": ["John L. Sullivan", "Jake Kilrain", "Al Spink"],
+      "places": ["Richburg, Mississippi"],
+      "quote": "They fight like a pair of old wash women.",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary is wrong: Allen was not quoted about the Corbett-Fitzsimmons fight and nothing about bare hands without gloves or play acting appears. His only mention is Al Spink's recollection of him at the 1889 Sullivan-Kilrain fight; facts are medium because they are Spink's secondhand memory. Fight date is from the known Sullivan-Kilrain bout, not stated in the article."
+}

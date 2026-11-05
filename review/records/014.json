@@ -1,0 +1,26 @@
+{
+  "id": "014",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Includes the 'AMUSEMENTS.' section head, the 'Special Dispatch' line and the 'A MILL IN PROSPECT' item in full." },
+  "ocr": { "status": "good", "notes": "Transcript omits the dateline 'CINCINNATI, May 8.' and the subhead; otherwise matches." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican carried a Cincinnati dispatch of May 8 saying Tom Allen was expected there that night and would go straight into training at the Buckeye House, near the city, for his fight with McCoole." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican—St. Louis, May 10, 1869'. Dispatch is dated Cincinnati, May 8." },
+  "facts": [
+    {
+      "fact": "Allen was expected in Cincinnati on May 8, 1869, to go into training at the Buckeye House, near the city, for his fight with Mike McCoole",
+      "date": "1869-05-08",
+      "people": ["Mike McCoole"],
+      "places": ["Buckeye House, near Cincinnati, Ohio", "Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary says he 'arrives'; the dispatch says he was expected that night."
+}

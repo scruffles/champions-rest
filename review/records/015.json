@@ -1,0 +1,36 @@
+{
+  "id": "015",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The 'SPORTING.' column holds two dispatches: a Chicago pigeon-shooting match (Ward vs. Bogardus), not about Allen, and 'PUGILIST ARRESTED' (Cincinnati, May 14), which is about Allen. Both are complete." },
+  "ocr": { "status": "rough", "notes": "Allen item has real errors: '£500' should be '$500', 'not to train' should be 'not to fight', and the closing sentences ('and was released. He returned immediately to his quarters at the Buckeye House, and will continue there his preparation for the mill with McCoole.') are missing. Pigeon item: 'shots' should be 'minutes', and 'and doing his own loading' is missing." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen was arrested in Cincinnati on May 14 for training for a prize fight in Ohio, gave $500 bond not to fight in the state for a year, and returned to training at the Buckeye House." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican—St. Louis, May 15, 1869'. Item is at the bottom of the second column." },
+  "facts": [
+    {
+      "fact": "Allen was arrested in Cincinnati on May 14, 1869, on a charge of training for a prize fight in Ohio; he gave bonds of $500 not to fight in the state within a year and was released",
+      "date": "1869-05-14",
+      "people": [],
+      "places": ["Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "038"
+    },
+    {
+      "fact": "After his release Allen went back to his quarters at the Buckeye House near Cincinnati to continue training for the McCoole fight",
+      "date": "1869-05-14",
+      "people": ["Mike McCoole"],
+      "places": ["Buckeye House, near Cincinnati, Ohio"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The transcript should be corrected ($500, 'not to fight', missing last sentences)."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "018",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "quotation marks around \"confident of victory in the coming mill\" and \"go in\" dropped" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen came into the city from his training quarters in excellent condition and confident of beating Charley Gallagher in their fight the following Tuesday." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads THE MISSOURI REPUBLICAN--ST. LOUIS, AUGUST 14, 1869" },
+  "facts": [
+    {
+      "fact": "Allen was training outside St. Louis for his fight with Charley Gallagher, set for Tuesday, August 17, 1869, and was said to be in excellent condition and confident",
+      "date": "1869-08-13",
+      "people": ["Charley Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Second paragraph concerns a postponed presentation of colors to Gallagher at his saloon; not an Allen fact."
+}

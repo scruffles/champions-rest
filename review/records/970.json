@@ -1,0 +1,15 @@
+{
+  "id": "970",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Main headline 'Fitz and Corbett.' is missing at the top, the left edge clips first letters, and the bottom is torn; the story continues in the next column (under the McGiboney portrait) where Allen's own comment appears, which is not in the clipping." },
+  "ocr": { "status": "good", "notes": "Readable; first letters of lines lost at the cut left edge, and the torn last lines garbled." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Wednesday, St. Louis Post-Dispatch, December 29, 1897, page 5." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Allen is named as 'the ex-champion of the world' among St. Louis veterans who thought Fitzsimmons' terms fair. His quoted comment is in the continuation (article 969's area) and needs a re-crop; consider merging 969 and 970."
+}

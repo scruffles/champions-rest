@@ -1,0 +1,15 @@
+{
+  "id": "922",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "The closing paragraphs of 'Sports at Hot Springs: Veterans Who Attended the Recent Pugilistic Fiasco'; the headline and start are elsewhere on the page (and the Watkins paragraph is article 921). The Allen mention, the last paragraph, is complete." },
+  "ocr": { "status": "good", "notes": "Minor errors ('Mast' for East, 'Fc' for from, 'Tom Alle' and '\"Bat —terson' for Bat Masterson)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch listed Tom Allen and Tom Kelly of St. Louis, Mike Donovan and Bat Masterson among the old-time ring regulars who stayed away from the failed championship fight gathering at Hot Springs." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'The Sunday Post-Dispatch, Part Four, St. Louis, Sunday Morning, November 10, 1895'." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "A one-line mention with no biographical fact beyond Allen not attending, so no facts recorded."
+}

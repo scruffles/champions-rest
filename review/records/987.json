@@ -1,0 +1,82 @@
+{
+  "id": "987",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "gist and names readable; many character errors ('Kiting', 'ehereing', 'eoromey')"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen was charged with second-degree murder for killing Timothy Confoy and released on $5,000 bond, after a coroner's jury returned a verdict of justifiable homicide."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, March 1, 1899, page 12."
+  },
+  "facts": [
+    {
+      "fact": "A coroner's jury returned a verdict of justifiable homicide in the killing of Timothy Confoy at Allen's saloon after about ten minutes; Allen made no statement on his attorney's advice",
+      "date": "1899-02-28",
+      "people": [
+        "Timothy Confoy"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "028"
+    },
+    {
+      "fact": "At the request of his attorney, ex-Judge Thomas B. Harvey, Allen was charged with second-degree murder so he could be released on bond, and was freed on $5,000 bond signed by attorney Thomas J. Rowe",
+      "date": "1899-02-28",
+      "people": [
+        "Thomas B. Harvey",
+        "Thomas J. Rowe"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "028"
+    },
+    {
+      "fact": "Inquest evidence: a revolver was found under Confoy's body, which L. G. Perry, a member of the Legislature, said Confoy had borrowed from him; witnesses said Confoy had threatened to 'clean out' Allen's place",
+      "date": "1899-02-28",
+      "people": [
+        "Timothy Confoy",
+        "L. G. Perry"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

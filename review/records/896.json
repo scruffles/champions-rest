@@ -1,0 +1,69 @@
+{
+  "id": "896",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Top line of the main headline ('Only a Few Will Go.') is mostly cut off; the rest of the column is complete. Clipping also includes unrelated Pastime Athletic Club and Forest Park road race items at the bottom."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly accurate; one garbled line in Kelly's quote ('I base my opinions with his cash' repeats an earlier line)"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen Helps Train Mitchell; St. Louis Backers Head to Jacksonville"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic reported that Fred Watkins left for Jacksonville with $5,000 to bet on Charley Mitchell, carrying letters from Tom Allen, who was helping train Mitchell and wrote that he could not lose."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, January 21, 1894, page 10. 'Supports His Candidacy' in the current title has no basis in the text."
+  },
+  "facts": [
+    {
+      "fact": "Allen was in the South assisting in Charley Mitchell's training for his fight with James J. Corbett at Jacksonville, writing to St. Louis friends that Mitchell could not lose and was in the pink of condition",
+      "date": "1894-01",
+      "people": [
+        "Charley Mitchell",
+        "James J. Corbett",
+        "Fred Watkins"
+      ],
+      "places": [
+        "Jacksonville, Florida"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Tom Kelly recalled that around 1869 Charley Gallagher knocked Allen out in three rounds in St. Louis, and that Allen won the rematch easily, with Kelly seconding Gallagher",
+      "date": "1869",
+      "people": [
+        "Charley Gallagher",
+        "Tom Kelly"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Gallagher recollection is Kelly's from memory ('I think it was back in '69')."
+}

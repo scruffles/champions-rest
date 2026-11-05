@@ -1,0 +1,26 @@
+{
+  "id": "972",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The top headline lines ('TOM TRACY AND BOB DOUGLASS. The Great Light-Weights to Meet in St. Louis Next Month.') are above the clipping; the clipping starts at the third deck. The Madden/Siler paragraph mentioning Allen is complete." },
+  "ocr": { "status": "good", "notes": "Mostly right; minor errors ('Anron', 'are cate' for 'bare-knuckle', 'Jor Goss', 'payed')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Billy Madden Recalls Touring With Tom Allen in 1872" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat quoted manager Billy Madden recalling that he and referee George Siler, as young boxing partners, traveled all over the United States in 1872 with Tom Allen, Joe Goss and Joe Coburn." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Monday Morning, January 17, 1898. Main item is the Tracy-Douglass match; Allen appears only in the last note." },
+  "facts": [
+    {
+      "fact": "In 1872 Allen toured all over the United States in a combination with Joe Goss and Joe Coburn, with young boxers Billy Madden and George Siler, according to Madden",
+      "date": "1872",
+      "people": ["Joe Goss", "Joe Coburn", "Billy Madden", "George Siler"],
+      "places": ["United States"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

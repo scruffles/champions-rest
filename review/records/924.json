@@ -1,0 +1,36 @@
+{
+  "id": "924",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The clipping is mostly a column of unrelated items (Melba Opera Company, a confidence game, a civil rights suit, fires at Purcell, Dallas and Jonesboro, etc.). Only the headline 'Tom Allen Fires Three Shots' and the first three lines of the Allen item are included before the crop jumps to the Home Comfort and The Union ads. The rest of the item is at the bottom of the fifth column on the page, too small to read in page.jpg." },
+  "ocr": { "status": "unusable", "notes": "The transcript is almost entirely the unrelated items and ads; only a fragment of the Allen item's first lines survives (and 'Tom Alien' for Tom Allen)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, the ex-pugilist who kept a saloon on Market Street between Sixth and Seventh, fired three shots when he wanted two quarrelsome men put out of his place at 1 o'clock." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'St. Louis Daily Globe-Democrat, Wednesday Morning, November 20, 1895', page 5." },
+  "facts": [
+    {
+      "fact": "Allen, the ex-pugilist, kept a saloon on Market Street between Sixth and Seventh streets",
+      "date": "1895-11",
+      "people": [],
+      "places": ["Market Street between Sixth and Seventh, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen fired three shots when he wanted two quarrelsome men ejected from his saloon at 1 o'clock",
+      "date": "1895-11",
+      "people": [],
+      "places": ["Market Street between Sixth and Seventh, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Recrop to the 'Tom Allen Fires Three Shots' item at the bottom of the fifth column only. The current summary's 'into the air' and the outcome cannot be checked: only the headline and first three lines are visible. The item is short and entirely about Allen, so 'primary'. Possibly related to existing fact 025 (firing his gun in the street), but that cannot be confirmed from the visible text."
+}

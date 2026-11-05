@@ -1,0 +1,50 @@
+{
+  "id": "934",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The Allen notice under 'Sporting Notes', between a baseball line and an unrelated story 'DUE TO THE TORNADO' (C. H. Sawyer Manufacturing Company). Only the Allen notice is about him."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The Allen notice is readable ('puetiist' for 'pugilist'); the Sawyer story is mostly right."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen's Concert Hall Advertised"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's Sporting Notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only the best singers."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead reads 'St. Louis Daily Globe-Democrat, Wednesday Morning, June 17, 1896', page 7. The item is at the top of the far-right column."
+  },
+  "facts": [
+    {
+      "fact": "Allen advertised his place at 619 Market Street, St. Louis, as the 'retired champion pugilist of the world', with a free concert every evening",
+      "date": "1896-06-17",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Paid notice in the Sporting Notes column; the same notice ran on several days in June 1896. Focus is primary for the notice itself, though it is only three lines."
+}

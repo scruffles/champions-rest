@@ -1,0 +1,26 @@
+{
+  "id": "928",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Short item 'Prof. Watkins Dead.' complete." },
+  "ocr": { "status": "good", "notes": "Minor errors in the headline ('Wetkins') and stray characters at top." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Fred Watkins, a noted sporting man in the leather business, died at his room in St. Louis on Friday evening. He had backed Tom Allen in many of his big fights." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: The Republic, St. Louis, Sunday Morning, May 3, 1896, page 10." },
+  "facts": [
+    {
+      "fact": "Fred Watkins, St. Louis sporting man and leather merchant who backed Allen in many of his big fights, died in St. Louis",
+      "date": "1896-05-01",
+      "people": ["Fred Watkins"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Died 'Friday evening'; the paper is Sunday May 3, 1896, so May 1. Same event as 929."
+}

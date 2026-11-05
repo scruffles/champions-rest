@@ -1,0 +1,36 @@
+{
+  "id": "974",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "wrong_article", "notes": "The clipping is real estate transfers, 'May Be Prosecuted' (Alaska Mining Co.) and the start of an Austin court item. The Allen item ('Tom Allen ... Badly Beaten') is further down the same column, below 'Important Precedent Established' and above 'Free Fireworks for the Boys'; a tear runs through it." },
+  "ocr": { "status": "unusable", "notes": "Transcript is of the wrong items; it has no Allen text." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen Badly Beaten in Front of His Market Street Saloon" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen was badly beaten in front of his saloon on Market Street near Sixth early that morning; shots missed him, and his barkeeper came to his rescue." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Saloon", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Friday Morning, July 1, 1898. Allen item read from the full page image; a tear hides words in the middle of each line." },
+  "facts": [
+    {
+      "fact": "Allen was badly beaten in front of his saloon on Market Street near Sixth early on July 1, 1898; he was at first reported shot but the bullets missed, and his barkeeper came to his rescue",
+      "date": "1898-07-01",
+      "people": [],
+      "places": ["Allen's saloon, Market Street near Sixth, St. Louis"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In 1898 Allen's saloon was on Market Street near Sixth, St. Louis",
+      "date": "1898-07",
+      "people": [],
+      "places": ["Market Street near Sixth, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Needs a re-crop to the 'Tom Allen ... Badly Beaten' item lower in the column, and a new transcript. Readable text: 'Tom Allen, the [..]champion pugilist, was badly beaten in [..] of his saloon on Market, near Sixth st[..], early this morning. It was at first re[..] that he had been shot, but the [..] not hit him. His assailant made his [..]. Allen was badly punished and would have been killed but for his barkeeper, w[..] to his rescue.' Same event as article 975."
+}

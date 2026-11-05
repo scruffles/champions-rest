@@ -1,0 +1,15 @@
+{
+  "id": "1017",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The left edge of the column is cut off throughout (first letters of most lines missing) and the headline 'Here They Are, A Goodly Crew of Old Prizefighters' and deck are cut on the right; the byline (J. B. Sheridan) is cut. The article continues in a second column not in the clipping. Both Allen mentions are inside the clipping." },
+  "ocr": { "status": "rough", "notes": "Gist readable but many errors from the cut left edge ('Tom Adlen', 'inkee Sullivan', 'Guss')." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Roundup of Old Prizefighters Lists Tom Allen Among the Dead" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch, in a survey of old prizefighters, listed Tom Allen and Joe Goss among those who had died, and named Allen among the fighters known to Prof. Bill Clark of St. Louis." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: Sunday Morning, St. Louis Post-Dispatch, November 12, 1905, page 10. The current title ('Goss and Allen Match Arrangements') and summary do not describe the article." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Only passing mentions of Allen (as dead, and in a list of fighters Bill Clark knew); no new facts about his life."
+}

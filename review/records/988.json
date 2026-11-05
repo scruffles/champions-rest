@@ -1,0 +1,50 @@
+{
+  "id": "988",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "clipping holds three items: 'Senators at Newport News' (baseball), 'Sporting Notes' with the one-paragraph Allen notice, and 'Lecture at the Central Y. M. C. A.'; only the middle item is about Allen"
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "the Allen paragraph itself is garbled in the transcript ('i hampi pugil th ...'); the surrounding items read fine"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen Concert Hall Notice"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's sporting notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with \"best of singers only.\""
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "masthead: St. Louis Daily Globe-Democrat, Saturday Morning, March 18, 1899, page 7"
+  },
+  "facts": [
+    {
+      "fact": "Allen's place at 619 Market Street advertised a free concert every evening",
+      "date": "1899-03",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "current title ('Announces Retirement From Prize Ring') and summary (Washington baseball team) are wrong; the item is a paid notice for his concert hall"
+}

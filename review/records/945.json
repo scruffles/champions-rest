@@ -1,0 +1,67 @@
+{
+  "id": "945",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Covers the headline and the Slavin section including Allen's remarks. The article continues on the page with unrelated gossip about jack rabbits and greyhounds (W. A. Maxwell), which is not about Allen."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Headline line 'RISE AND FALL' missing from the transcript; body reads well."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic reported on Frank Slavin's decline and his loss to Bob Armstrong. Tom Allen, who met Slavin in New York, said Slavin had wrenched his back and took the fight out of financial need."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St. Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Friday Morning, November 27, 1896, page 10. 942/943 spell it 'The St Louis Republic' (no period); align spellings when merging."
+  },
+  "facts": [
+    {
+      "fact": "While in New York for the Maher-Choynski fight, Allen met Frank Slavin, who told him he was in hard luck",
+      "date": "1896-11",
+      "people": [
+        "Frank Slavin"
+      ],
+      "places": [
+        "New York"
+      ],
+      "quote": "He told me that he was in hard luck.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen on Slavin's loss to Bob Armstrong",
+      "date": "1896-11-26",
+      "people": [
+        "Frank Slavin",
+        "Bob Armstrong"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "I guess the poor fellow knew he was up against it, and was willing to take a good beating for the coin. From what I know of the condition he was in the fight could not have resulted other than it did.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

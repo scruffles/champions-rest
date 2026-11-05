@@ -1,0 +1,46 @@
+{
+  "id": "020",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "whole article, headline to closing rule" },
+  "ocr": { "status": "good", "notes": "accurate but the transcript stops partway through the Gallagher's saloon paragraph; missing the rest of that paragraph, the McCoole's and Billy Carroll's sections (list of visiting sporting men) and the closing paragraph about Allen and Gallagher joining the steamer beyond the city" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican called St. Louis the fistic centre of the nation, home to champions Allen, Gallagher and McCoole, and on the eve of the Allen-Gallagher fight visited their saloons, starting with Allen's English-crowded Concert Saloon." },
+  "focus": { "current": "primary", "suggested": "secondary" },
+  "tags": ["Saloon", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads THE MISSOURI REPUBLICAN--ST. LOUIS, AUGUST 17, 1869" },
+  "facts": [
+    {
+      "fact": "Allen ran a \"Concert Saloon\" on Fifth Street between Biddle and O'Fallon streets, with a bar in front and a back room with tables and a piano on a platform; its patrons were mostly English",
+      "date": "1869-08-16",
+      "people": [],
+      "places": ["Fifth Street between Biddle and O'Fallon, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "008"
+    },
+    {
+      "fact": "Allen, Charley Gallagher and Mike McCoole were all permanent residents of St. Louis, each keeping a saloon",
+      "date": "1869-08",
+      "people": ["Charley Gallagher", "Mike McCoole"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On the eve of the Allen-Gallagher fight, Allen and Gallagher planned to stay out of sight and join the excursion steamer at some point beyond St. Louis",
+      "date": "1869-08-17",
+      "people": ["Charley Gallagher"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Most of the article is general color about St. Louis prize-fighting and the saloons of Gallagher, McCoole and Billy Carroll; Allen's saloon gets one section."
+}

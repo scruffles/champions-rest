@@ -1,0 +1,26 @@
+{
+  "id": "980",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Excerpt (three paragraphs) from the longer article 'As to Tommy White: The Matchmaker of the Commercial Club Did Not Know Him'. The headline is not in the clipping, but the whole Allen passage is." },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen at the Champion's Rest Named Among Ring Veterans" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch, mocking a Chicago matchmaker who did not know Tommy White, said Tom Allen at the Champion's Rest could tell the history of the prize ring in the new and old country." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Saloon", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Wednesday, St. Louis Post-Dispatch, November 16, 1898, page 5." },
+  "facts": [
+    {
+      "fact": "Allen was at his saloon, the Champion's Rest, in St. Louis, around the corner from Tom Kelly's",
+      "date": "1898-11",
+      "people": ["Tom Kelly"],
+      "places": ["Champion's Rest, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Wording is loose; the passage compares Allen, Kelly and Jack Looney with old Chicago fighters Bussey and Duffy."
+}

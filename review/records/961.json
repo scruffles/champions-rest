@@ -1,0 +1,26 @@
+{
+  "id": "961",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "whole Macon McCormick column from headline to signature; the column wraps across the top of the page (the 'Uptown Office' masthead strip appears mid-crop)" },
+  "ocr": { "status": "good", "notes": "minor errors (e.g. 'Frank Iirne' for Frank Erne, 'hg be prey to' for 'exceptions to'); Allen sentence readable" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Macon McCormick Cites Allen-Gallagher Rematch" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic printed Macon McCormick's column on ring fatalities and rematches, citing Tom Allen, easily beaten by Charley Gallagher in their first fight but the winner of the second, as an exception to the rule." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights", "Legacy"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "masthead reads 'The Republic: St. Louis, Mo., Sunday Morning, May 2, 1897', page 9" },
+  "facts": [
+    {
+      "fact": "Allen was easily defeated by Charley Gallagher in their first fight and beat Gallagher in their second",
+      "date": "",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen appears in one sentence of a general boxing column. 'Legacy' tag is debatable since he was alive (1897); it is a retrospective mention."
+}

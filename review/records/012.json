@@ -1,0 +1,52 @@
+{
+  "id": "012",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full short item, 'Prospective Prize Fight', complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image except 'in 9 weeks' for 'in 8 or 9 weeks', and the paper's sarcastic '(?)' after 'his friend' is dropped."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen and Mike McCoole met at John Looney's saloon on Green Street and agreed to fight in 8 or 9 weeks for $1,000 a side, putting up $200 as earnest money."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, April 16, 1869'. The meeting was the evening before, Apr. 15."
+  },
+  "facts": [
+    {
+      "fact": "Allen and Mike McCoole made a match to fight in 8 or 9 weeks for $1,000 a side and the excursion money, with $200 put up as earnest money; Allen allowed the long delay so McCoole could train",
+      "date": "1869-04-15",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "John Looney's saloon, Green Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

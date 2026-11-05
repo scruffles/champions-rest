@@ -1,0 +1,15 @@
+{
+  "id": "910",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping is a vertical slice through the middle of the 'Twenty Years a Prize Fighter' feature: the 'Portrait of Tom Allen' sketch with the right half of one column and the left edge of another, so every text line is cut on one side. The headline and full columns are not included (other parts are articles 911-914)." },
+  "ocr": { "status": "rough", "notes": "Text matches the image but is mostly half-lines from cut columns, plus garbage from the sketch." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Portrait of Tom Allen, Sketched from Life" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic printed a portrait of Tom Allen sketched from life, part of a long feature on his 23 ring battles; only cut-off fragments of the surrounding text are in this clipping." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Profiles", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, March 31, 1895, page 40." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "No facts taken: every line of text in this clipping is cut off on one side. The same stories are readable in full in the clippings for 912 and 913. Consider re-cropping or treating as the portrait image only."
+}

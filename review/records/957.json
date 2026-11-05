@@ -1,0 +1,26 @@
+{
+  "id": "957",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "left and right edges of the column are cut off, losing the first and last words of every line" },
+  "ocr": { "status": "rough", "notes": "matches the clipped image; words at the line ends are missing" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen's case continued" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, ex-champion pugilist, arrested for firing a revolver in front of his saloon at Seventh and Market streets, had his case before Judge Peabody continued until April 30." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, April 28, 1897, page 10; item headed \"Tom Allen's Case Continued.\"" },
+  "facts": [
+    {
+      "fact": "Allen was arrested at about 2 a.m. for shooting off a revolver in front of his saloon at Seventh and Market streets, charged with disturbing the peace and discharging firearms; his case before Judge Peabody was continued until April 30",
+      "date": "1897-04-27",
+      "people": ["Judge Peabody"],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": "025"
+    }
+  ],
+  "needs_human": true,
+  "notes": "a recrop to include the full column width would recover the missing words; same event as 958/959"
+}

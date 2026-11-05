@@ -1,0 +1,57 @@
+{
+  "id": "006",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole article from 'THE PRIZE RING. The Coming Fight—And Two Others in the Same Ring' through 'THE FIN-ALE' paragraph." },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly right, but Davis's letter is garbled in places: it drops 'DEAR SIR' and the sentences 'I turned around to see what was the matter... I dodged again and caught him left and right', 'begged my pardon for having assaulted me', and 'approached me, held out his hand and begged my pardon again. I saw there was deceit in his eyes'. Also 'put up job' (not 'job'), 'Jim Hallornan' (not 'Tim Halloran'), 'fightists' (not 'fighters'), and the subheads 'ANOTHER FIGHT', 'A THIRD FIGHT', 'THE FIN-ALE' are omitted."
+  },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "The Prize Ring - The Coming Fight - And Two Others in the Same Ring" },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican previewed the January 12 Davis-Allen prize fight for $1,000 a side, reporting that Allen had arrived in St. Louis and was training on the Gravois road under Tom Kelly."
+  },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights"],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, January 10, 1869' (Sunday). Title fix is only the 'Comming' misspelling."
+  },
+  "facts": [
+    {
+      "fact": "Allen arrived in St. Louis from Cleveland a few days before January 10, 1869, for the Davis fight",
+      "date": "1869-01",
+      "people": [],
+      "places": ["Cleveland, Ohio", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen trained for the Davis fight on the Gravois road, about nine miles from St. Louis, under trainer Tom Kelly",
+      "date": "1869-01",
+      "people": ["Tom Kelly"],
+      "places": ["Gravois road, near St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Davis-Allen fight for $1,000 a side was set for Tuesday, January 12, 1869, at a point 40 or 50 miles from St. Louis, with the party to travel by chartered steamer",
+      "date": "1869-01-12",
+      "people": ["William M. Davis"],
+      "places": ["40 or 50 miles from St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Davis's letter, the Gallagher-Elliott and Looney-Adams undercard, and the ring arrangements are left out of the facts as not about Allen or minor detail."
+}

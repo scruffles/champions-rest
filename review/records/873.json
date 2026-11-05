@@ -1,0 +1,26 @@
+{
+  "id": "873",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping starts mid-sentence at the top of column 3; the start of the item ('Some Facts About a Noted Referee', about referee 'Al' Smith) is at the foot of column 2 and is missing. Left edge of every line is also trimmed. The rest of the clipping (Pugilistic Pointers) does not involve Allen." },
+  "ocr": { "status": "rough", "notes": "Line starts lost to the trimmed left edge; verified against the full page image" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Referee Al Smith Recalled for Mace-Allen Fight" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch, profiling referee \"Al\" Smith, quoted Billy Harding that Smith first refereed in May 1870, at the fight between Jem Mace of England and Tom Allen of America for $2,000 and the world championship." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: St. Louis Post-Dispatch, Friday Evening, November 18, 1892, page 10" },
+  "facts": [
+    {
+      "fact": "Allen, as champion of America, fought Jem Mace, champion of England, in May 1870 for $2,000 and the championship of the world, with \"Al\" Smith as referee",
+      "date": "1870-05",
+      "people": ["Jem Mace", "Al Smith", "Billy Harding"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Recollection by Billy Harding 22 years later; the $2,000 stake differs from other accounts ($2,500 or $5,000 a side). Recrop to include the item's start at the foot of column 2."
+}

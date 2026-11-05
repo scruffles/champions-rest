@@ -1,0 +1,86 @@
+{
+  "id": "913",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "One column of the feature below the 'Allen's right hand' sketch (caption cut on the right). Starts mid-quote about Ben Hogan and ends mid-sentence about Professor Davis; the rest of the feature is in 910-912 and 914." },
+  "ocr": { "status": "good", "notes": "Text is accurate apart from the sketch at the top; '$1.00' should be $1,000." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "The Last Goss Fight and Allen's Flight to England" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic recalled Tom Allen's September 1876 fight with Joe Goss in Kentucky, given to Goss on an alleged foul, after which Allen fled through Canada to England while Goss was jailed." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Legal", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, March 31, 1895, page 40." },
+  "facts": [
+    {
+      "fact": "Allen beat Ben Hogan in three rounds in November; Hogan's friends rushed into the ring and pointed pistols at him",
+      "date": "",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "quote": "and in November of the same year I got away with Ben Hogan in three rounds. Hogan's friends rushed into the ring with their pistols and pointed them at me, but I was not hurt and got the fight.",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's fight with Joe Goss in Kentucky in September 1876 was given to Goss on an alleged foul by referee 'Eph' Holland of New York, chosen against the wishes of the Allen side",
+      "date": "1876-09",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Goss was arrested and jailed for a year and a half in Kentucky for the 1876 fight",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After the Goss fight Allen escaped through Canada and took a steamer to England, staying away a long time",
+      "date": "1877",
+      "people": [],
+      "places": ["Kentucky", "Canada", "England"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": "015"
+    },
+    {
+      "fact": "Allen was about $25,000 ahead when he left, and lost most of it making a book through England",
+      "date": "1877",
+      "people": [],
+      "places": ["England"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's last fight in England before coming to America in 1869 was a draw with Joe Goss after 34 rounds for the middleweight championship",
+      "date": "",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "On his return to England Allen beat Tompkin Gilbert in sixteen minutes for £100 and the championship of England",
+      "date": "",
+      "people": ["Tompkin Gilbert"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article dates Allen's arrival in America to 1869, unlike fact 006 (July 1867). The year of the Hogan fight is in the preceding text, outside this clipping. '100 pounds' for the Gilbert stakes is read as pounds sterling."
+}

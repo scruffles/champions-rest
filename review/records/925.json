@@ -1,0 +1,15 @@
+{
+  "id": "925",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Headline 'Macon's Ring Talk' and decks through the first paragraph, which ends with the Allen mention. The column continues on the page about Fitzsimmons and Maher with no further Allen content in the clipping." },
+  "ocr": { "status": "rough", "notes": "Headline decks are good; the body paragraph is garbled in the middle ('MOTI ot \"thre (ould feart', the list of American-born champions lost)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen named among English-born American champions" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic's ring column, noting the next American champion would be foreign-born, said England gave America two of its champions, Tom Allen and Joe Goss." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'The Republic: St. Louis, Mo., Sunday Morning, February 9, 1896', page 17. Dateline New York, Feb. 7, by Macon McCormick." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "The article does not say 'bare-knuckle'; it lists Allen among English-born holders of the American championship. No new biographical fact beyond his English birth (already fact 001)."
+}

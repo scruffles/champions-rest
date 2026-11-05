@@ -1,0 +1,66 @@
+{
+  "id": "1006",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Mostly the unrelated Shiloh monuments story and the 'Kaiser Concludes His Stay at Copenhagen' item; the Allen part is only the right half of the headline, the portrait and the final column (debts, World's Fair hopes, closing). The opening and middle columns are not in the clipping."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Shiloh text good; Allen column readable in gist but garbled by diagonal lines across the image."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported Tom Allen's death and that brewery and other creditors' claims had used up nearly all of his saloon's value, with Mrs. Hartgrave, holding his power of attorney, paying the bills."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Personal life",
+    "Saloon",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Globe-Democrat, Monday Morning, April 6, 1903, page 1."
+  },
+  "facts": [
+    {
+      "fact": "The Hyde Park brewery had a $350 claim against Allen, and a soda dealer and others had claims that used up all but a small balance of his saloon's value",
+      "date": "1903-04",
+      "people": [
+        "Hyde Park brewery"
+      ],
+      "places": [
+        "Champion's Rest, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Mrs. Hartgrave, acting with Allen's power of attorney, paid all the bills",
+      "date": "1903-04",
+      "people": [
+        "Tillie Hartgrave"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": "045"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Same obituary as 1005 (this is its last column). Neither clipping has the middle column. Current summary's details (7:35 o'clock, Baptist hospital) come from the part in 1005, not this clipping. Consider merging with 1005 under one full crop."
+}

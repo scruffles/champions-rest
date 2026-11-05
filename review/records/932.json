@@ -1,0 +1,50 @@
+{
+  "id": "932",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "The three-line Allen notice under 'Sporting Notes', followed by an unrelated story 'THE STEIN BABY DEAD'. Only the first item is about Allen."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The Allen notice is readable except 'Tom ei' for 'Tom Allen'; the Stein story is mostly right."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's Sporting Notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with only first-class singers."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead reads 'St. Louis Daily Globe-Democrat, Saturday Morning, June 6, 1896', page 7. The item is near the bottom of the sixth column."
+  },
+  "facts": [
+    {
+      "fact": "Allen advertised his place at 619 Market Street, St. Louis, as the 'retired champion pugilist of the world', with a free concert every evening",
+      "date": "1896-06-06",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Paid notice in the Sporting Notes column; the same notice ran on several days in June 1896. Focus is primary for the notice itself, though it is only three lines."
+}

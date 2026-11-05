@@ -1,0 +1,101 @@
+{
+  "id": "009",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Full article in five pieces, from headline 'THE PRIZE FIGHT. A Brief but Exciting Mill.' to the closing paragraph."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Matches the image, but the last paragraph ('The fight was even looked upon in a national sense...' about Allen as an Englishman of the 'Queen's own' and Gallagher as a Fenian) is missing. Small errors: 'Dan Ryan' for Dad Ryan, '6 feet 1 inch' for 6 feet 1½ inches, 'John Lyoney' for John Looney."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Charlie Gallagher knocked out Tom Allen in the second round on Carroll's Island, below St. Louis, with a right-hand blow behind the ear that left Allen senseless, to the surprise of the fancy."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, February 24, 1869'. The fight took place the day before, Feb. 23, 1869."
+  },
+  "facts": [
+    {
+      "fact": "Charlie Gallagher beat Allen in two rounds, about three minutes, knocking him senseless with a right-hander behind the ear",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "Carroll's Island, about one mile below Quarantine, Mississippi River below St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen boarded the steamer Galatea at Bissell's Point, St. Louis, to travel down the river to the fight with Gallagher",
+      "date": "1869-02-23",
+      "people": [],
+      "places": [
+        "Bissell's Point, St. Louis",
+        "Carroll's Island"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Gallagher were both described as of Cleveland, Ohio; Allen, about 30, claimed to be the English champion of the prize ring",
+      "date": "1869-02",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "Cleveland, Ohio"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was reported to have said he was England's champion and could whip any Irishman this side of the Atlantic",
+      "date": "1869-02",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After Allen revived there was talk of his re-challenging Gallagher for $5,000 a side, but nothing definite was arranged",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The 'could whip any Irish &c.' remark is secondhand ('is reported to have said'), so it is not recorded as a quote. Seconds and umpires are left out of the facts."
+}

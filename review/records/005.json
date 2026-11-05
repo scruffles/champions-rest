@@ -1,0 +1,34 @@
+{
+  "id": "005",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The clipping is the whole 'PERSONAL AND NEWS' column of unrelated items; only the highlighted paragraph beginning 'Tom Allen, the pugilist, was arrested in Cleveland' (in crop-1) is about Allen." },
+  "ocr": { "status": "good", "notes": "The Allen paragraph matches the image exactly." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen Arrested in Cleveland for Training" },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen was arrested in Cleveland for violating the prize-fighting laws, but the court ruled that training for a prize fight was not illegal and discharged him."
+  },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Legal"],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, December 31, 1868' (Thursday). The current title is just the column heading."
+  },
+  "facts": [
+    {
+      "fact": "Allen was arrested in Cleveland, charged with violating the prize-fighting laws; the court held that training for a prize fight did not break Ohio law and discharged him",
+      "date": "1868-12",
+      "people": [],
+      "places": ["Cleveland, Ohio"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "038"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The arrest was 'on Wednesday'; which Wednesday is not clear from a Thursday paper reprinting news, so the fact date is left as 1868-12."
+}

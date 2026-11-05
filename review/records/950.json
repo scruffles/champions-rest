@@ -1,0 +1,50 @@
+{
+  "id": "950",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole 'Sporting Notes' column; the Allen notice is the first three-line item, followed by unrelated items (Matt Palmer, English football, ladies' bicycle race, Philadelphia cricketers)."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Allen notice transcribed correctly ('pugiliist' typo); the rest mostly right."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Notice of Free Concerts at Tom Allen's, 619 Market Street"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "A notice under \"Sporting Notes\" in the St. Louis Globe-Democrat advertised Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, with a free concert every evening and only the best singers engaged."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, January 30, 1897, page 4."
+  },
+  "facts": [
+    {
+      "fact": "Allen's saloon at 619 Market Street, St. Louis, advertised a free concert every evening (\"best of singers only engaged here\"); he styled himself retired champion pugilist of the world",
+      "date": "1897-01-30",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Standing saloon notice. Focus primary because the item is entirely about Allen, though only three lines."
+}

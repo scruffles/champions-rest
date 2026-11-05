@@ -1,0 +1,112 @@
+{
+  "id": "1007",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Clipping is almost entirely classified ads (loans, for sale, lost and found, personal, musical, dancing); the Allen article starts at the bottom and is cut off mid-sentence after its first paragraphs. The page shows it continuing further down the column."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Allen portion readable with minor errors ('Polly Taper', '34 Clark'); most of the transcript is the ads."
+  },
+  "about_tom": "yes",
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that, with Allen's will leaving nearly everything to Mrs. Tillie Hartgrave, two armed factions were fighting for possession of his saloon, the Champion's Rest, 619 Market Street."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon",
+    "Legal",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Tuesday Morning, April 7, 1903, page 11. Headline: 'Tom Allen's Property Causes a Dispute.'"
+  },
+  "facts": [
+    {
+      "fact": "Allen's will, filed for probate, left all his estate except $20 to Mrs. Tillie Hartgrave",
+      "date": "1903-04-06",
+      "people": [
+        "Tillie Hartgrave"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "046"
+    },
+    {
+      "fact": "W. A. Byrne, acting for J. W. L. Gillespie, who claimed a bill of sale for the goods and fixtures of the Champion's Rest, fortified himself in the upstairs living rooms and said he would hold them by force of arms",
+      "date": "1903-04",
+      "people": [
+        "W. A. Byrne",
+        "J. W. L. Gillespie"
+      ],
+      "places": [
+        "Champion's Rest, 619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "048"
+    },
+    {
+      "fact": "John Murphy, Allen's bartender for several years, refused to give up the saloon until the courts settled it, reportedly acting for Allen's daughter Mrs. Polly Taylor of 3427 Clark Avenue",
+      "date": "1903-04",
+      "people": [
+        "John Murphy",
+        "Polly Taylor"
+      ],
+      "places": [
+        "Champion's Rest, 619 Market Street, St. Louis",
+        "3427 Clark Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "048"
+    },
+    {
+      "fact": "Allen's daughter Mrs. Polly Taylor was cut off with $10 in his will and said she would contest it in the courts",
+      "date": "1903-04",
+      "people": [
+        "Polly Taylor"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "When it was reported Allen would marry his nurse Mrs. Tillie Hartgrave, his daughter Mrs. Taylor tried to see him at the Baptist hospital but was refused because he was too ill",
+      "date": "1903",
+      "people": [
+        "Polly Taylor",
+        "Tillie Hartgrave"
+      ],
+      "places": [
+        "Baptist hospital, St. Louis"
+      ],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": "044"
+    }
+  ],
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "needs_human": true,
+  "notes": "Article is cut off at the bottom of the clipping; recrop to the full article. 1008 is an exact duplicate of this record (same image and transcript)."
+}

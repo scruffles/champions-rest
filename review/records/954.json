@@ -1,0 +1,26 @@
+{
+  "id": "954",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping holds the Cannes regatta, the Sporting Notes column and an advertisement; only the first Sporting Notes paragraph is about Allen." },
+  "ocr": { "status": "good", "notes": "Allen paragraph correct; minor errors elsewhere ('TT. H. Russell', '15)-point', 'De Orn')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with \"best of singers only.\"" },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead reads St. Louis Daily Globe-Democrat, Saturday Morning, March 13, 1897, page 4." },
+  "facts": [
+    {
+      "fact": "Allen advertised his saloon at 619 Market Street, St. Louis, as the place of the \"retired champion pugilist of the world,\" with a free concert every evening and \"best of singers only\"",
+      "date": "1897-03",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary says Allen was 'living at' 619 Market Street; the notice gives it as the address of his concert place. Same notice as 951."
+}

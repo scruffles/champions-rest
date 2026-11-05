@@ -1,0 +1,15 @@
+{
+  "id": "958",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "only the headline and a strip of the article with both sides cut off, then the page header and unrelated ads (shoes, Crawford's jewelry); the last line is missing" },
+  "ocr": { "status": "unusable", "notes": "headline and one fragment, the rest is ad text" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "masthead: The Republic, St. Louis, Wednesday Morning, April 28, 1897, page 12" },
+  "facts": [],
+  "needs_human": true,
+  "notes": "duplicate of 959 (same item, same page) with a worse crop; facts recorded under 959. Candidate for removal."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "911",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Only the first column of the 'Twenty Years a Prize Fighter' feature; the right side of the headline is cut off and the article continues in further columns (see 912-914). Ends mid-sentence after the Bob Smith story." },
+  "ocr": { "status": "good", "notes": "Readable; minor errors (e.g. '18459' for 1869, 'Hehters')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic profiled Tom Allen, 54, at his Champion's Rest saloon on Market Street, where he argued that old open-air bare-knuckle fighting was safer than the indoor gloved bouts of 1895." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Profiles", "Saloon", "Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, March 31, 1895, page 40." },
+  "facts": [
+    {
+      "fact": "Allen was shot in the back of the right hand during his fight with Charley Gallagher at Chouteau Island, up the Mississippi, in August 1869, leaving a deep scar",
+      "date": "1869-08",
+      "people": ["Charley Gallagher"],
+      "places": ["Chouteau Island, Mississippi River"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In 1895 Allen kept the Champion's Rest saloon on Market Street near Seventh, St. Louis, and lived upstairs with his trophies",
+      "date": "1895-03",
+      "people": [],
+      "places": ["Champion's Rest, Market Street near Seventh, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "The English championship cup, won in a fight with Prof. Davis in 1878, was kept in a glass case behind the bar of Champion's Rest; the case had been broken half a dozen times in saloon rows",
+      "date": "1895-03",
+      "people": ["Prof. Davis"],
+      "places": ["Champion's Rest, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "018"
+    },
+    {
+      "fact": "Allen said open-air bare-knuckle fighting was safer than modern indoor gloved fighting",
+      "date": "1895-03",
+      "people": [],
+      "places": [],
+      "quote": "When we fought in the open, the air was always changing. A man would get a good breath when he was resting, instead of having to breathe the foul stuff that they get to-day.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "In England Allen fought Baltimore Bob Smith barefoot in the open country the day after the match was made, and was beaten in fifty minutes",
+      "date": "",
+      "people": ["Baltimore Bob Smith"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen had a brother, Harry, who was a fighter and had twice been beaten by Bob Smith",
+      "date": "",
+      "people": ["Harry Allen", "Baltimore Bob Smith"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "family",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's own account uses a racial slur for Smith; the quote chosen avoids it. Overlaps with the first column of 912."
+}

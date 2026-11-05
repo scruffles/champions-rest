@@ -1,0 +1,89 @@
+{
+  "id": "025",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item 'Tom Allen and his Intentions'."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Errors: the forfeit is $100 in the image, not $160; 'of Boston' after Sporting Times is dropped; 'fighter' is printed 'fightest'."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen offered to fight any man in America for $500 to $10,000 under London prize ring rules, would meet Joe Coburn in Wyoming Territory, and rated Mike McCoole only No. 3 as a fighter."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, December 1, 1869', matching the date. The item is under the SPORTING heading."
+  },
+  "facts": [
+    {
+      "fact": "Allen offered to fight any man in America for $500 to $10,000 in a stand-up fight under London prize ring rules",
+      "date": "1869-12",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen offered to meet Joe Coburn, whom he called the leading scientific pugilist in the United States, anywhere in Wyoming Territory",
+      "date": "1869-12",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [
+        "Wyoming Territory"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said McCoole was very good as a private citizen but stood No. 3 as a fighter, and had a bad crowd of backers",
+      "date": "1869-12",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Billy Carroll was authorized to make arrangements for Allen's fights; challengers had to deposit at least $100 with the New York Clipper or the Sporting Times of Boston",
+      "date": "1869-12",
+      "people": [
+        "Billy Carroll"
+      ],
+      "places": [
+        "New York",
+        "Boston"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen's opinions are paraphrased by the paper, not quoted, so no quote text is recorded."
+}

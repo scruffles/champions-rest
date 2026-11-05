@@ -1,0 +1,26 @@
+{
+  "id": "019",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "ticket date misread as 1888; image reads August 17, 1869" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that the last deposit of stakes for the Tom Allen and Charley Gallagher fight was made at Allen's saloon, and tickets were out for a steamboat excursion to the battleground on August 17, 1869." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads THE MISSOURI REPUBLICAN--ST. LOUIS, AUGUST 15, 1869" },
+  "facts": [
+    {
+      "fact": "The final stakes for the Allen-Gallagher fight were deposited at Allen's saloon; the fight was set for August 17, 1869, with spectators taken to the battleground by steamboat from St. Louis",
+      "date": "1869-08-14",
+      "people": ["Charley Gallagher"],
+      "places": ["Allen's saloon, St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current summary gives the wrong year (1888) from the OCR error."
+}

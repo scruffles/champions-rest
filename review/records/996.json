@@ -1,0 +1,48 @@
+{
+  "id": "996",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Missing the headline '\"Champion's Rest\" Is Doomed', the photo of the buildings (sign 'TOM ALLEN'S' visible on page) and the first column of text; the clipping starts mid-sentence ('Market streets is an establishment...') and includes the unrelated end of a coursing item and part of the next headline."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Clipped text transcribed correctly."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Building Commissioner Condemns Allen's Champion's Rest"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that the building commissioner had condemned the Market Street buildings housing Tom Allen's Champion's Rest and Danny Daly's saloon, dives where fights and robberies were common."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead: Saturday, St. Louis Post-Dispatch, January 19, 1901, page 5, 'Latest Sport News'."
+  },
+  "facts": [
+    {
+      "fact": "The building commissioner condemned the buildings on the north side of Market Street between Sixth and Seventh, including Allen's \"Champion's Rest\" a few doors east of Danny Daly's place, so the saloon keepers had to find new quarters",
+      "date": "1901-01",
+      "people": ["Danny Daly"],
+      "places": ["Market Street between Sixth and Seventh, St. Louis"],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "medium",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": true,
+  "notes": "Recrop to include the headline, photo and first column. The condemnation and the Sixth-Seventh block are read from the scaled-down page.jpg only, so confidence is medium; verify on the full page."
+}

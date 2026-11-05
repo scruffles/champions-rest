@@ -1,0 +1,26 @@
+{
+  "id": "1014",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Excerpt from the column 'At the Sign of the Striped Pole' (barbershop talk). The passage about Allen is complete; the start of the quote and the name of the speaker are above the clipping." },
+  "ocr": { "status": "rough", "notes": "The first ten lines are badly garbled ('around to m n's ce on rket'); the rest is mostly right. The image reads clearly." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Barbershop talk cites Tom Allen's poor end as a warning to young fighters" },
+  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's barbershop column quoted a man who said Tom Allen, once king of the ring, died at his Market Street place without $200 to his name, a lesson for young fighters." },
+  "focus": { "current": "primary", "suggested": "passing" },
+  "tags": ["Legacy", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead reads 'St. Louis Daily Globe-Democrat, Sunday Morning, September 6, 1903', page 5." },
+  "facts": [
+    {
+      "fact": "A speaker in a barbershop column said Allen spent his last days at his place on Market Street, 'lived on rum', and died without $200 to his name",
+      "date": "1903",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "A semi-fictional conversation column; the claims are hearsay from unnamed speakers. Allen is a brief example in a long piece about local prize fighting, Corbett and Charlie Haughton. The current summary's 'left no estate' overstates it; the text says he did not leave $200."
+}

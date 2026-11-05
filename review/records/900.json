@@ -1,0 +1,26 @@
+{
+  "id": "900",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "The 'Chance Blows' item about Allen is complete at the top; the rest of the clipping is unrelated sporting notes (McAuliffe-Zeigler match, 'Dutch' Neil, the New Orleans syndicate). Top of the item sits at the foot of column 1 on the page and continues at the head of column 2." },
+  "ocr": { "status": "good", "notes": "Allen's quote is mostly right; minor errors in the headline (\"cf Bis Dstear\") and scattered characters." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch printed Tom Allen's account of his defeat by Charley Gallagher: after winning the first round, he stepped into a snow-filled hole in the second and was knocked out by a blow to the neck." },
+  "focus": { "current": "secondary", "suggested": "primary" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Friday, St. Louis Post-Dispatch, October 26, 1894, page 7. Same item as article 901 (the headline deck of the 'Spring Race Meet' column)." },
+  "facts": [
+    {
+      "fact": "Allen recalled that in his fight with Charley Gallagher he had the best of the first round, then stepped into a snow-filled hole in the second and was knocked out by a right to the big vein in the left side of his neck",
+      "date": "1869",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "quote": "The result was that a man whom I had bested in the first round put me out with a punch in the second.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The printed text reads \"I do say that it was a chance blow which defeated me, but it was through an accident...\" (the sense suggests \"I do not say\"). The fight date is not given in the article; 1869 is the known Gallagher defeat and should be confirmed."
+}

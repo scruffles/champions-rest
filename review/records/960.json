@@ -1,0 +1,26 @@
+{
+  "id": "960",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "minor errors (e.g. '2 years' for '20 years', '$90' for '$900', 'Riddle' for 'Biddle')" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch recalled the history of Mozart Hall at Broadway and Biddle Street, naming Tom Allen among the renowned fighters who boxed there during its riotous 1868-1874 era." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "masthead: Thursday, St. Louis Post-Dispatch, April 29, 1897, page 12; headline \"Will Leave an Historic Spot\"" },
+  "facts": [
+    {
+      "fact": "Allen was among the well-known fighters who boxed at Mozart Hall, Broadway and Biddle Street, St. Louis, between 1868 and 1874, along with Ned O'Baldwin, Joe Coburn, Jem Mace, Mike McCoole and Charley Gallagher",
+      "date": "1868",
+      "people": ["Ned O'Baldwin", "Joe Coburn", "Jem Mace", "Aaron Jones", "Mike McCoole", "Dublin Tricks", "Charley Gallagher"],
+      "places": ["Mozart Hall, Broadway and Biddle Street, St. Louis"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "retrospective; date range 1868-1874 given only as an era, recorded as 1868"
+}

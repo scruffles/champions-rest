@@ -1,0 +1,26 @@
+{
+  "id": "017",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, headline to signature 'THOS. ALLEN.'" },
+  "ocr": { "status": "good", "notes": "Two errors: the letter is dated 'July 8, 1869' (transcript says 1859), and 'at — he may name' should read 'at any place he may name'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican printed a letter from Tom Allen saying he had deposited $200 with Mr. Carroll for a match with any man, and inviting Charley Gallagher to cover it and name a place to draw up articles." },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican—St. Louis, July 9, 1869'. Letter dated St. Louis, July 8, 1869." },
+  "facts": [
+    {
+      "fact": "Allen deposited $200 with Mr. Carroll for a match with any man and challenged Charley Gallagher to cover it",
+      "date": "1869-07-08",
+      "people": ["Charley Gallagher", "Carroll"],
+      "places": ["St. Louis"],
+      "quote": "I wish to inform Mr. C. Gallagher that I have deposited two hundred dollars with Mr. Carroll for a match with any man; and if he (Gallagher) wants a match let him cover that amount, and I will meet him at any place he may name to draw up articles.",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary calls it a '$200 wager'; it was a $200 deposit for a match. Transcript year 1859 should be 1869."
+}

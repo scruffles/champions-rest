@@ -1,0 +1,36 @@
+{
+  "id": "968",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "Clipping includes Pettis County and Territorial Fair sports items, real-estate and bicycle ads, and a cricket item; the 'Gossip of the Pugilists' column (crops 4-6) is the relevant part, with one line on Allen in crop 5." },
+  "ocr": { "status": "good", "notes": "Column text mostly right; ad fragments garbled." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": true, "suggested": "" },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, September 19, 1897, page 15." },
+  "facts": [
+    {
+      "fact": "Mike McCool defeated Allen in 1869",
+      "date": "1869",
+      "people": ["Mike McCool"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen defeated Mike McCool in 1873",
+      "date": "1873",
+      "people": ["Mike McCool"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Single line in a list of champions who refought opponents, used to argue Fitzsimmons must fight Corbett."
+}

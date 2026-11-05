@@ -1,0 +1,26 @@
+{
+  "id": "915",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "mixed", "notes": "'Pugilistic Pointers' column of five unrelated items; only the last paragraph is about Allen" },
+  "ocr": { "status": "good", "notes": "minor errors ('tvwenty', 'a ale race' for 'a good race')" },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Tom Allen a Regular at the Fair Grounds Races" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch noted that Tom Allen, the retired champion, and his old backer Fred Watkins were regular patrons of the races at the Fair Grounds, Allen always carrying his field glasses." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "masthead: Tuesday, St. Louis Post-Dispatch, May 21, 1895, page 5" },
+  "facts": [
+    {
+      "fact": "Allen and his old backer Fred Watkins were regular patrons of the horse races at the St. Louis Fair Grounds",
+      "date": "1895-05",
+      "people": ["Fred Watkins"],
+      "places": ["Fair Grounds, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title 'Tom Allen in Prize Fight' is wrong; the item is about him attending horse races."
+}

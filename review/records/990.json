@@ -1,0 +1,50 @@
+{
+  "id": "990",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Sporting Notes (Allen notice is the third item) followed by the unrelated 'Track Talk' horse-racing column, which makes up most of the clipping"
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Allen notice reads well; the long Track Talk portion has many errors toward the end"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's sporting notes carried a notice for Tom Allen, \"retired champion pugilist of the world,\" at 619 Market Street, offering a free concert every evening with \"best of singers only.\""
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "masthead: St. Louis Daily Globe-Democrat, Wednesday Morning, May 10, 1899, page 10"
+  },
+  "facts": [
+    {
+      "fact": "Allen's place at 619 Market Street advertised a free concert every evening",
+      "date": "1899-05",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "current summary describes Suburban Handicap declarations, not in this clipping; the Allen item is a paid notice"
+}

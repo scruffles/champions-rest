@@ -1,0 +1,109 @@
+{
+  "id": "985",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "wrong_article",
+    "notes": "Clipping holds the 'Col. A. L. Conger Dead' item and a Ryan-Clarkson dry goods ad, ending with only the headline 'Shot in a Saloon Row' and first deck. The story body (two columns below the ad, page cols 2-3, about y 870-1720 on page.jpg) is not in the clipping; needs recropping."
+  },
+  "ocr": {
+    "status": "unusable",
+    "notes": "Transcript is the Conger obituary and ad text plus the Allen headline only; none of the story body."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen shot and fatally wounded Tim Confoy, a Havlin's Theater stage hand, in Allen's saloon at 619 Market Street after Confoy appeared to reach for a revolver."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon",
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, February 26, 1899, page 11."
+  },
+  "facts": [
+    {
+      "fact": "Just after 2 a.m. Allen shot Tim Confoy, a stage hand at Havlin's Theater, in his saloon at 619 Market Street; Confoy was hit by three bullets and taken to the City Dispensary and City Hospital in critical condition",
+      "date": "1899-02-26",
+      "people": [
+        "Tim Confoy"
+      ],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": "028"
+    },
+    {
+      "fact": "Allen was arrested and held at the Chestnut Street station, later moved to the Four Courts holdover; about fifty people in the saloon were also taken in as witnesses",
+      "date": "1899-02-26",
+      "people": [],
+      "places": [
+        "Chestnut Street police station, St. Louis",
+        "Four Courts, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "According to the bartender, when Confoy made a movement as if to draw a revolver, Allen drew a revolver in each hand and said he was too slow before firing",
+      "date": "1899-02-26",
+      "people": [
+        "Tim Confoy",
+        "Harry Lyons"
+      ],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "Oh, no, you're too bloody slow.",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he did not draw until he saw Confoy try to draw his weapon",
+      "date": "1899-02-26",
+      "people": [
+        "Tim Confoy"
+      ],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "Then, you bet your life, I let the bloody fool have it, and have it right.",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "John Spencer, Confoy's companion, was wounded in the left hand by a stray bullet",
+      "date": "1899-02-26",
+      "people": [
+        "John Spencer"
+      ],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "Story read only from the low-resolution page.jpg (zoomed); left edge of the first column is partly faint, so facts are medium confidence. Recrop the clipping to the story body below the ad and re-OCR. The paper also described Allen's resort as one of the toughest in the city, with a low class of customers."
+}

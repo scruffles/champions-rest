@@ -1,0 +1,46 @@
+{
+  "id": "923",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "The clipping is the bottom of the last column of 'Macon's Melange' by Macon McCormick; the headline and start are at the top of the page. The right edge cuts off the last letters of lines in the lower half, and the article continues past 'None of these men but Corbett ever a…'. The top third is an illustration of a man's coat, and the bottom is a Backus Heater ad. The Allen sentences are readable despite the clipped edge." },
+  "ocr": { "status": "rough", "notes": "Illustration noise at the top; the lower lines lose their final letters to the crop ('He be:', 'claimed tt', 'to wh tuin' for 'to whip him'), with ad text at the end." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic, tracing the American championship line, said Mike McCool beat Tom Allen, that Allen later claimed the title, and that Joe Goss and his mob so scared Allen that he purposely lost by fouling." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Fights", "Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: 'The Republic: St. Louis, Mo., Sunday Morning, November 17, 1895', page 40." },
+  "facts": [
+    {
+      "fact": "Mike McCool, recognized as American champion, beat Allen",
+      "date": "1873",
+      "people": ["Mike McCool"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After Johnny Dwyer went into politics, Allen claimed the American championship, and Joe Goss was imported to beat him",
+      "date": "",
+      "people": ["Johnny Dwyer", "Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The writer said Goss and his mob scared Allen so that he purposely lost their fight by fouling his man",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective column written 20+ years after the events; the McCool date (1873) is from the historical record, not the article. The writer's order of events (McCool, then Dwyer, then Allen) is loose."
+}

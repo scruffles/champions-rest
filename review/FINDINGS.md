@@ -70,3 +70,12 @@ Cross-article findings to resolve when merging records into the data. Per-articl
 - 834 duplicates 833 (same notice, same page and date).
 - 864 (1892) says "Tom Allen never fought Jem Mace", contradicting the 1870 Mace-Allen fight (400 etc.); its current title says the opposite.
 - 876 holds only the headline deck for the Mitchell letter whose text is 877; merge or re-crop.
+- 855 and 856 are two halves of one 1892-08-21 Globe-Democrat article; consider merging.
+- Saloon address: 887 prints 618 Market St (other notices say 619; 203 says 615).
+- 901 probably duplicates 900 (its clipping is the racing column).
+- 931: the page is torn and the end is lost; the current summary says Allen fired the shot, but the text likely says his bartender Flynn did.
+- 942 is a cut-off copy of 943 (1896-11-20 Republic); consider removing.
+- 958 duplicates 959 (bad crop, mostly ads).
+- 969 and 970 are parts of one article (Allen's quote is missing from both crops); re-crop and merge.
+- 998 is a different Tom Allen (Barnes Medical College graduate); remove. 974: the crop is the wrong article; the "Badly Beaten" item is lower in the same column on a torn part of the page.
+- 1005 and 1006 are two partial crops of one obituary (middle column missing); 1008 is an exact duplicate of 1007; 1009 is a store ad plus headline only.

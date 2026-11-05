@@ -1,0 +1,15 @@
+{
+  "id": "902",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "A fragment of 'Learning How Fitz Fights' (column 4 top): headline, opening and the continuation after 'a physician was asked' are missing; the lower half is part of an illustration." },
+  "ocr": { "status": "good", "notes": "Text paragraph is correct; trailing lines are OCR noise from the drawing." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Allen and Kelly doubt Fitzsimmons can club with his arms" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that ring veterans Tom Allen and Tom Kelly scoffed at the idea that Bob Fitzsimmons or any pugilist could fight successfully by clubbing with the arms or wrists." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Sunday Morning, St. Louis Post-Dispatch, December 2, 1894, page 11. Article headed 'Learning How Fitz Fights: Corbett Practicing Dodges for the Clubbing Blow.'" },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen's view is paraphrased, not quoted; no biographical facts."
+}

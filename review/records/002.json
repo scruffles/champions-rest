@@ -1,0 +1,47 @@
+{
+  "id": "002",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, from the headline 'THE DAVIS-ALLEN MILL' and both subheads to the dog-fight paragraph at the end." },
+  "ocr": {
+    "status": "rough",
+    "notes": "Text is readable but key figures are wrong: the image reads 'December, 1868' (not 1865), '$1,000 a side' (not $1,600), 'Tuesday, the 12th January, 1869', 'on behalf of Mr. William Murray, which last named gentleman shall be the final stakeholder', 'Friday, the 18th day of December' (not 15th), 'a fair stand-up fight' (omitted), 'WM. RYALL' (not 'WAL'), and the dog fight 'on the 26th' (not 28th). The two subheads are omitted."
+  },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican printed the articles of agreement, signed December 4, 1868, for Tom Allen to fight Bill Davis for $1,000 a side on January 12, 1869, 40 to 60 miles from St. Louis. Allen was training near Cleveland."
+  },
+  "focus": { "current": "", "suggested": "primary" },
+  "tags": ["Fights", "Challenges"],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Masthead reads 'The Missouri Republican—St. Louis, December 18, 1868'. The current summary's '$1,600' and 'early 1866' come from the OCR errors."
+  },
+  "facts": [
+    {
+      "fact": "Allen and William M. Davis signed articles of agreement to fight under the new rules of the English prize ring for $1,000 a side on January 12, 1869, at a place 40 to 60 miles from St. Louis; Bill Ryall signed on Allen's behalf",
+      "date": "1868-12-04",
+      "people": ["William M. Davis", "Bill Ryall"],
+      "places": ["St. Louis"],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was training for the Davis fight in the neighborhood of Cleveland, Ohio",
+      "date": "1868-12",
+      "people": [],
+      "places": ["Cleveland, Ohio"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The paper calls Charles Gallagher 'a warm friend of Tom Allen'; Gallagher's own record is left out of the facts as it is not about Allen."
+}

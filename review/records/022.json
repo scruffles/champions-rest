@@ -1,0 +1,36 @@
+{
+  "id": "022",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "good", "notes": "" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen and Jim Coyne gave a sparring exhibition in Rochester, New York, and would be joined by English champion Jem Mace, newly arrived in New York, before heading to St. Louis." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Exhibitions"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "masthead reads THE MISSOURI REPUBLICAN, ST. LOUIS, SUNDAY MORNING, SEPTEMBER 19, 1869; the page shown carries the full front-page masthead, so 'pg 2' in details may be wrong" },
+  "facts": [
+    {
+      "fact": "Allen and Jim Coyne gave a sparring exhibition in Rochester, New York",
+      "date": "1869-09-18",
+      "people": ["Jim Coyne"],
+      "places": ["Rochester, New York"],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Jem Mace, champion of England, arrived in New York and was to join Allen and Coyne, with the party expected in St. Louis the following Saturday",
+      "date": "1869-09-13",
+      "people": ["Jem Mace", "Jim Coyne"],
+      "places": ["New York", "Rochester, New York", "St. Louis"],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "914",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Small fragment from the feature's fourth column, cut on the left and right: the inscription of Allen's championship cup and the start of his Jim Stewart story, above the 'We went at it in our bare feet' sketch." },
+  "ocr": { "status": "rough", "notes": "OCR matches the visible partial lines, which are cut off on the left." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Inscription on Tom Allen's English Championship Cup" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic quoted the inscription on the cup presented to Tom Allen by his admirers on May 22, 1878, kept behind his Market Street bar. The fragment is cut off on both sides." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Fights", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, March 31, 1895, page 40." },
+  "facts": [
+    {
+      "fact": "A massive cup presented to Tom Allen by his admirers, inscribed with the date May 22, 1878, rested behind his bar on Market Street",
+      "date": "1878-05-22",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": "022"
+    },
+    {
+      "fact": "Allen spoke of another fight in England with Jim Stewart",
+      "date": "",
+      "people": ["Jim Stewart"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": true,
+  "notes": "The current title (Goss and Allen match arrangements) and summary do not match this fragment. The inscription is only partly visible (left edge cut). Consider re-cropping the full fourth column or merging with the 910-913 clippings."
+}

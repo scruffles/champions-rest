@@ -1,0 +1,15 @@
+{
+  "id": "903",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "" },
+  "ocr": { "status": "rough", "notes": "Gist right but name garbled: the image reads Mrs. Sophie Vellig of the Golden Lion lodging-house." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Jerry Slattery, a prize fighter who hung out around Tom Allen's saloon, was charged after an officer found him beating Mrs. Sophie Vellig at the Golden Lion lodging-house, Seventh and Pine." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Saloon", "Legal"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic, St. Louis, Mo., Wednesday Morning, December 19, 1894, page 12." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "The beating happened at the lodging-house, not outside Allen's saloon; the current title ('arrested for assault outside Tom Allen's saloon') is slightly off but Allen's saloon is only the man's hangout. Suggested title if wanted: 'Prize fighter from Tom Allen's saloon arrested for beating a woman'."
+}

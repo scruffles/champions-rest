@@ -1,0 +1,68 @@
+{
+  "id": "931",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Headline 'ONCE MORE HE FIGHTS. Ex-Pugilist Tom Allen Has an Impromptu Bare Knuckle Go.' through 'Allen was not badly'. The original page is torn at the lower right: the right ends of the last several lines and the end of the article are lost in the paper itself, not just the crop."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Opening lines are readable, but names are garbled (Clancy, Seventh and Market, bartender Andy Flynn) and the torn right edge drops words."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen Assaulted Aiding Holdup Victim"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen and his bartender Andy Flynn were attacked near Allen's place at 619 Market Street after running to help a man two men tried to hold up; a shot was fired and police arrested the pair."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Saloon",
+    "Legal"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead reads 'St. Louis Post-Dispatch—May 15, 1896' (a Friday). The item is at the bottom of the fourth column, at the torn edge of the page."
+  },
+  "facts": [
+    {
+      "fact": "Allen and his bartender Andy Flynn were attacked at Seventh and Market streets at 2:30 a.m. after running to help a man whom Robert Flannigan and Edward Clancy had followed out of Allen's saloon and tried to hold up; one revolver shot was fired to frighten the attackers, and police arrested Flannigan and Clancy",
+      "date": "1896-05-15",
+      "people": [
+        "Andy Flynn",
+        "Robert Flannigan",
+        "Edward Clancy"
+      ],
+      "places": [
+        "619 Market Street, St. Louis",
+        "Seventh and Market streets, St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's place in 1896 was at 619 Market Street, St. Louis",
+      "date": "1896-05",
+      "people": [],
+      "places": [
+        "619 Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    }
+  ],
+  "needs_human": false,
+  "notes": "The current summary says Allen fired at the attackers. The line reads 'Both men jumped onto Allen and Fl[ynn] ... fired one shot from a revolver to frig[hten] them'; the torn edge hides whether Flynn or Allen fired, though it most likely reads Flynn. Patrolmen 'Baby' Kavanaugh and Noonan made the arrests. Not badly hurt, as far as the torn text shows."
+}

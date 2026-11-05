@@ -1,0 +1,26 @@
+{
+  "id": "959",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "the last letter or two of some lines are clipped on the right, text still clear" },
+  "ocr": { "status": "good", "notes": "line ends clipped as in the image" },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that Tom Allen was arrested for firing his revolver in front of his saloon near Seventh and Market streets; returning from a party, he found the place deserted and fired to attract a crowd." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Legal", "Saloon"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "masthead: The Republic, St. Louis, Wednesday Morning, April 28, 1897, page 12" },
+  "facts": [
+    {
+      "fact": "Allen was arrested for discharging his revolver in front of his saloon near Seventh and Market streets; after drinking at a party he found his saloon deserted and fired the gun to attract a crowd. He was to be tried by Judge Peabody the following Friday",
+      "date": "1897-04-27",
+      "people": ["Judge Peabody"],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": "025"
+    }
+  ],
+  "needs_human": false,
+  "notes": "958 is a duplicate of this item"
+}

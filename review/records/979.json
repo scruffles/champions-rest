@@ -1,0 +1,36 @@
+{
+  "id": "979",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Headline ('Ed. Smith of Denver. His Death Said to Have Occurred Out in Kansas in September') and the opening Chicago dispatch paragraph are on the page above the clipping but not in it. The Allen part is complete." },
+  "ocr": { "status": "good", "notes": "Date misread: OCR 'March 32, 1893', image 'March 3, 1893'; purse '$10,000' misread as '$10,400'. Allen's quote prints 'Swift' (a misprint for Smith in the paper itself)." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported the death of pugilist Ed Smith of Denver, noting that his friend Tom Allen had coached him when he beat Joe Goddard at New Orleans. Allen called him one of the gamest fighters that ever entered the ring." },
+  "focus": { "current": "secondary", "suggested": "secondary" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead: Friday, St. Louis Post-Dispatch, October 14, 1898, page 6." },
+  "facts": [
+    {
+      "fact": "Allen coached Ed Smith when Smith beat Joe Goddard in 18 rounds before the Olympic Club of New Orleans",
+      "date": "1893-03-03",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": ["Olympic Club, New Orleans"],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": "033"
+    },
+    {
+      "fact": "Allen praised the late Ed Smith as one of the gamest fighters ever, and an old friend",
+      "date": "1898-10-14",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": ["St. Louis"],
+      "quote": "Swift was one of the gamest fighters that ever entered the ring. But he was hardly big enough for the heavyweights of this day. When he met Goddard he weighed about 160 to Goddard's 180. Had he had the weight he would have reached the top in no time. He was an old friend of mine and I used to hear from him often until recently.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "'Swift' in the quote is as printed; context shows it means Ed Smith."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "906",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping has the headline and the opening Corbett-Fitzsimmons interview only. The paragraph about Mace wanting to fight Allen is further down the same 'Gossip of the Boxers' column and is clipped separately as article 907." },
+  "ocr": { "status": "good", "notes": "Minor errors (Msht for fight, how for unfair)." },
+  "about_tom": "yes",
+  "title": { "ok": false, "suggested": "Status of the Corbett-Fitzsimmons Match; Mace Wants to Fight Tom Allen" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic's New York boxing letter, mostly on the Corbett-Fitzsimmons match, carried a subhead saying Jem Mace wanted to fight Tom Allen and Prof. Bill Clark." },
+  "focus": { "current": "passing", "suggested": "passing" },
+  "tags": ["Challenges"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "The St. Louis Republic", "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, February 24, 1895, page 11. Dateline New York, Feb. 22." },
+  "facts": [],
+  "needs_human": true,
+  "notes": "Same article as 907; consider merging the two or recropping 906 to include the Mace/Allen paragraph. Facts recorded on 907."
+}

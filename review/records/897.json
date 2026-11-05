@@ -1,0 +1,57 @@
+{
+  "id": "897",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "cut_off",
+    "notes": "Headline ('Mitchell Is a Cinch. That Is the Opinion of Statesman Jim Cronin') and most of the deck are cut off; clipping starts at the last deck line. Body complete through 'Domino.' Includes an unrelated Matagorda heat-race anecdote."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Mostly accurate; '$5,000' read as '35,000'"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic reported that Alderman Jim Cronin left for the Corbett-Mitchell fight, citing Tom Allen's last letter that Mitchell was fit, and listed Allen among the few St. Louis sports gone to Jacksonville."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St. Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Monday Morning, January 22, 1894, page 3."
+  },
+  "facts": [
+    {
+      "fact": "Allen was listed among the few St. Louis sporting men who had left for the Corbett-Mitchell fight at Jacksonville",
+      "date": "1894-01",
+      "people": [
+        "Marshall McDonald",
+        "Fred Watkins",
+        "Jim Cronin",
+        "Louis Lemp",
+        "Ben Brady"
+      ],
+      "places": [
+        "St. Louis",
+        "Jacksonville, Florida"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": ""
+}

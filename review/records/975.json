@@ -1,0 +1,26 @@
+{
+  "id": "975",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole 'Tom Allen Thumped' item; an 'Ingalls' Watch Offer' line is above it." },
+  "ocr": { "status": "good", "notes": "Headline 'TOM ALLEN THUMPED.' missing from transcript; 'wechager' for 'morning'." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that ex-champion Tom Allen was badly beaten by a gang in front of his Market Street saloon early Friday morning; several shots missed him and his barkeeper rescued him." },
+  "focus": { "current": "primary", "suggested": "primary" },
+  "tags": ["Saloon", "Personal life"],
+  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead torn ('-DISP... 189..'); date not confirmable from the page, but contents (auction July 16, 1898; London, July 1 dispatch) fit July 2, 1898." },
+  "facts": [
+    {
+      "fact": "Allen was badly beaten by a gang in front of his Market Street saloon early Friday morning (July 1, 1898); several shots were fired but missed, his barkeeper saved him, and the assailants escaped",
+      "date": "1898-07-01",
+      "people": [],
+      "places": ["Allen's saloon, Market Street, St. Louis"],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Same event as article 974 (Globe-Democrat, July 1, 1898)."
+}

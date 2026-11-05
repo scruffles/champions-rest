@@ -1,0 +1,66 @@
+{
+  "id": "023",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item, from the headline 'M'COOLE. A Visit to his Training Quarters. How the Giant Looks, Acts and Feels.' to the end, in four pieces."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Close to the image with light modernizing; subheads (THE INTERVIEW, HIS TRAINING, MEMORANDA) and the closing clause ('but was paid only to satisfy ... ready for the fight') are omitted. Weight is 248 1/2 lb in the image."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican visited Mike McCoole at his training quarters at the Fairfield House on Grand Avenue, St. Louis, where he was preparing for his fight with Tom Allen, set for Nov. 10 within fifty miles of Cincinnati."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "No page image; date not checked against a masthead. Filed under the paper's 1869 name, the Missouri Republican, rather than 'St. Louis Republican'."
+  },
+  "facts": [
+    {
+      "fact": "Allen's fight with Mike McCoole was scheduled for Nov. 10, 1869, within fifty miles of Cincinnati",
+      "date": "1869-11-10",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "near Cincinnati, Ohio"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "The Cincinnati press reported that Allen had numerous friends in Cincinnati ahead of the McCoole fight",
+      "date": "1869-10",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "Cincinnati, Ohio"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "The article is about McCoole's training; Allen is the opponent. The current summary says the fight was 'in 1870'; the article sets it for the 10th of next month (Nov. 1869)."
+}

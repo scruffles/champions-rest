@@ -1,0 +1,97 @@
+{
+  "id": "894",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "mixed",
+    "notes": "Clipping is the whole 'Domino' sporting-notes column. Only the first item ('To Fight the Winner. \"Denver\" Ed Smith Will Be at the Ringside') is about Allen; the rest covers Ed Corrigan's Utah pony race, football rules, Billy Robinson's benefit, the Cincinnati ball grounds and the Oakley track. The Allen item is complete."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable but many letter errors (e.g. 'Alles', 'Ailes', 'Jacksomiile'); stakes misread ('3),'00' for $5,000)"
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": false,
+    "suggested": "Tom Allen Expects Ed Smith in St. Louis on the Way to Jacksonville"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic reported that Tom Allen, who won heavily betting on Ed Smith against Joe Goddard, had a letter from Smith saying he would visit St. Louis, then go with Allen to Jacksonville to challenge the Corbett-Mitchell winner."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "The St Louis Republic",
+    "notes": "Masthead: The Republic: St. Louis, Mo., Saturday Morning, December 23, 1893, page 6. The challenge is Smith's, not Allen's."
+  },
+  "facts": [
+    {
+      "fact": "Allen won a large sum betting on Ed Smith when Smith defeated Joe Goddard at New Orleans",
+      "date": "1893-03",
+      "people": [
+        "Ed Smith",
+        "Joe Goddard"
+      ],
+      "places": [
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen received a letter from Ed Smith saying Smith would stop in St. Louis for about a week and then go with Allen to Jacksonville, where Smith meant to challenge the winner of the Corbett-Mitchell fight",
+      "date": "1893-12-22",
+      "people": [
+        "Ed Smith",
+        "James J. Corbett",
+        "Charley Mitchell"
+      ],
+      "places": [
+        "St. Louis",
+        "Jacksonville, Florida"
+      ],
+      "quote": "",
+      "kind": "travel",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he wanted Smith to meet Peter Jackson and that he had seen Smith and Jackson box at Battery D, Chicago",
+      "date": "1893-12-22",
+      "people": [
+        "Ed Smith",
+        "Peter Jackson"
+      ],
+      "places": [
+        "Battery D, Chicago"
+      ],
+      "quote": "I want to see Smith meet Jackson as soon as he can. I saw him meet the colored man in Battery D, Chicago, and he could have knocked him out in 10 rounds.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had been receiving letters from Charley Mitchell, who said he was already in fine shape",
+      "date": "1893-12-22",
+      "people": [
+        "Charley Mitchell"
+      ],
+      "places": [],
+      "quote": "I have been receiving letters from Mitchell and he says he is in fine shape already.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title says Allen issued a challenge; it was Smith who planned to challenge. Current summary is a truncated fragment."
+}

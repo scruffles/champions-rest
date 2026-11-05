@@ -1,0 +1,15 @@
+{
+  "id": "926",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "cut_off", "notes": "Clipping is the 'Hot Stuff for the Greasers' subsection only. The main headline above it ('Experts Talk of Boxing and Bull Fighting') is not in the crop, and the article continues below with Tom Allen's and Dutch Neal's comments, which are clipped separately as article 927." },
+  "ocr": { "status": "good", "notes": "Readable with scattered character errors (e.g. 'tocal puellistice', 'Pred Watkins')." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The St. Louis Republic reported that local pugilists, among them Tom Allen, Dutch Neal and Fred Watkins, denounced Mexico for permitting bull fighting while barring the Maher-Fitzsimmons fight. This part quotes Watkins." },
+  "focus": { "current": "secondary", "suggested": "passing" },
+  "tags": ["Profiles"],
+  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: The Republic, St. Louis, Tuesday Morning, February 18, 1896, page 5." },
+  "facts": [],
+  "needs_human": false,
+  "notes": "Allen is only named in this part; his own remarks are in the continuation (927). Focus 'passing' for this clipping on its own."
+}

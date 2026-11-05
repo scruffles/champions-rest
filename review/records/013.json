@@ -1,0 +1,26 @@
+{
+  "id": "013",
+  "reviewed": "2026-11-04",
+  "crop": { "status": "ok", "notes": "Whole item, headline 'McCoole Going Into Training.' to the end." },
+  "ocr": { "status": "good", "notes": "Transcript matches the image." },
+  "about_tom": "yes",
+  "title": { "ok": true, "suggested": "" },
+  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Mike McCoole would begin training with Pete Brooks at Doyle's Exchange for his fight with Tom Allen, set for the 15th of next month within fifty miles of St. Louis." },
+  "focus": { "current": "", "suggested": "secondary" },
+  "tags": ["Fights"],
+  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Masthead reads 'The Missouri Republican—St. Louis, April 26, 1869'. Item is near the bottom of a middle column." },
+  "facts": [
+    {
+      "fact": "Under the published articles, Allen's fight with Mike McCoole was to take place within fifty miles of St. Louis on 'the 15th prox.' (May 15, 1869), the winner taking the stakes and excursion money",
+      "date": "1869-05-15",
+      "people": ["Mike McCoole"],
+      "places": ["within fifty miles of St. Louis"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "'15th prox.' in an April 26 paper means May 15; the fight was actually fought June 15, 1869, so the date was evidently changed later. Confidence medium for that reason. The current summary's Jem Mace reference is not in the article."
+}

@@ -1,0 +1,68 @@
+{
+  "id": "993",
+  "reviewed": "2026-11-04",
+  "crop": {
+    "status": "ok",
+    "notes": "Paddy Ryan career story from its headline to the 'Afraid to Face Sullivan Again' subhead; the rest of the Ryan story continues in the next column and is not in the clipping, but the Allen passage (paragraphs on the Goss fight) is complete."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Readable with scattered character errors (e.g. 'IS7S' for 1878, 'Zist of June, 188)' for 21st of June, 1880, 'Kyan', 'Alien')."
+  },
+  "about_tom": "yes",
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic ran Macon McCormick's account of Paddy Ryan's career, which said Joe Goss was brought from England to fight Tom Allen and that Allen fouled Goss on purpose because a gang had threatened his life if he won."
+  },
+  "focus": {
+    "current": "passing",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Republic",
+    "notes": "Masthead: The Republic, Tuesday, December 18, 1900, page 4. Dateline New York, Dec. 15."
+  },
+  "facts": [
+    {
+      "fact": "Joe Goss was declared the victor over Allen in a fight in Kentucky not far from Cincinnati; McCormick wrote that Allen had the best of it but purposely struck Goss three foul blows in the last round to save his own life",
+      "date": "1876",
+      "people": ["Joe Goss", "Macon McCormick"],
+      "places": ["Kentucky, near Cincinnati"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "McCormick claimed a gang including bank robber \"Red\" Leary and Johnny Dwyer meant to kill Allen if he beat Goss, saying Allen had given some of their pals away to the police in England",
+      "date": "1876",
+      "people": ["\"Red\" Leary", "Johnny Dwyer", "Joe Goss"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Joe Goss had been imported from England especially to fight Allen",
+      "date": "1876",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Retrospective written 24 years after the Allen-Goss fight; the fight year (1876) is not stated in the article but is from the site's existing record. Rest of article is about Ryan, Sullivan and Goss."
+}
