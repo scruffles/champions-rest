@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-06
+
+### Added
+- Source images from newspapers.com for the 10 articles that had none (055, 072, 073, 076, 095, 098, 105, 128, 195, 239): full page and crop for each, with thumbnails
+
+### Fixed
+- `image-105.jpg` and `image-128.jpg` were copies of articles 102 and 125, so 105 and 128 showed the wrong thumbnails; replaced with their real sources
+
 ## 2026-11-04
 
 ### Added
@@ -52,7 +60,7 @@
 Run in this order. Source fixes come first, so the later steps don't have to be redone.
 
 1. **Get the sources right** (before anything else)
-   - Find source images for the articles with none (055, 072, 073, 076, 095, 098, 105, 128, 195, 239)
+   - Point `data/database.js` at the new source images for 055, 072, 073, 076, 095, 098, 105, 128, 195, 239 (`image-NNN.jpg` full page, `image-NNNb.jpg` crop; already uploaded), add their transcripts, and re-review them
    - Re-capture from newspapers.com the 440 articles in `review/ISSUES.md` (cut-off and mixed crops, wrong articles, unreadable full pages)
    - Re-crop and re-OCR where a full page is available; hand-transcribe the 23 unusable and 12 missing transcripts, and the transcripts with meaning-changing errors in `FINDINGS.md` (e.g. 106, 109, 203, 617)
    - Bring the full transcripts of articles 000–281 into `data/new_articles.json` so search covers them
@@ -104,6 +112,7 @@ Run in this order. Source fixes come first, so the later steps don't have to be 
 - Consider historic St. Louis map overlay for the city locations
 
 ### Bugs & Testing
+- Thumbnails for most articles 000–281 show the page masthead instead of the clipping: `build-thumbnails.cjs` uses `image-NNN.jpg`, which is the full page for older articles (newer articles use the opposite naming). Build thumbnails from each article's `localCopyEdited` crop instead, then rebuild and re-upload them
 - Test the redesign in Safari and on iPhone (only desktop Chrome has been checked; replaces the old full-screen and iPhone bugs on the retired Articles page)
 - Pages opened directly by URL (e.g. `/articles/579`) return HTTP 404 while still rendering, because S3 serves the app as its error page. Search engines may treat them as missing; fix with a CloudFront rule that rewrites them to 200
 
