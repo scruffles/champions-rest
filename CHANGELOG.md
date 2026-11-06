@@ -8,6 +8,9 @@
 ### Fixed
 - `image-105.jpg` and `image-128.jpg` were copies of articles 102 and 125, so 105 and 128 showed the wrong thumbnails; replaced with their real sources
 
+### Changed
+- `.claude/CLAUDE.md`: image naming, working locations and the working rules for browser downloads, cropping, commits and subagents
+
 ## 2026-11-04
 
 ### Added
