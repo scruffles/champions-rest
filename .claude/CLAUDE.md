@@ -23,8 +23,8 @@ The search index (`public/search-index.json`) is built at build time by `scripts
 Article images, OCR text files and thumbnails are hosted on S3. Upload everything with `npm run upload-images` (checks AWS sign-in, builds missing thumbnails, syncs articles and thumbnails). CloudFront sits in front; deploys set `index.html` to `no-cache` so new builds appear immediately.
 
 - Local article images: `public/images/articles/`. Thumbnails: `public/images/thumbs/`. Both are gitignored (`/public/images`), so images are never committed; they only reach the site through the upload script.
-- Naming: `image-NNN.jpg` and `image-NNNb.jpg`. For the older articles (IDs 000–281) the bare number is the crop and the `b` file is the full page. For newer articles (282 and up) it's the other way round; check the article's `localCopyEdited` / `localCopyFull` in `data/database.js` before assuming which is which.
-- Known bug: `scripts/build-thumbnails.cjs` builds thumbnails from `image-NNN.jpg`, so older articles get the full-page masthead as their thumbnail. Build from each article's crop instead (see CHANGELOG backlog).
+- Naming: `image-NNN.jpg` and `image-NNNb.jpg`, but the number doesn't tell you which is the crop. Don't assume it from the article ID. Check the article's `localCopyEdited` (the crop) and `localCopyFull` (the full page) in `data/database.js`. For example, 000's bare file is the crop, while 055–239 have the bare file as the full page.
+- Thumbnails (`scripts/build-thumbnails.cjs`) are built from each article's `localCopyEdited` crop.
 - Before overwriting any file in `public/images/`, compare checksums (`md5 -q`) against the file you expect and confirm with the user. Two wrong files (`image-105.jpg`, `image-128.jpg`) were byte-identical copies of other articles' images.
 
 ## Data

@@ -4,9 +4,13 @@
 
 ### Added
 - Source images from newspapers.com for the 10 articles that had none (055, 072, 073, 076, 095, 098, 105, 128, 195, 239): full page and crop for each, with thumbnails
+- Transcripts for 055, 076, 105, 128 and 239 (typed from the crops, not OCR; to be checked against the page)
 
 ### Fixed
 - `image-105.jpg` and `image-128.jpg` were copies of articles 102 and 125, so 105 and 128 showed the wrong thumbnails; replaced with their real sources
+- Thumbnails are built from each article's crop (`localCopyEdited`) instead of `image-NNN.jpg`, so articles 000–281 no longer show the full-page masthead; all 1,008 rebuilt and uploaded
+- Articles 055, 072, 073, 076, 095, 098, 105, 128, 195 and 239 point at their new crop and full page instead of placeholder paths
+- `npm run upload-images` only synced `~/projects/claude-ancestry/staging`; run with `STAGING_DIR=public/images/articles` to upload the local article images. This sent the 20 new source files and `our-children-of-the-slums.jpg`, which was missing from S3
 
 ### Changed
 - `.claude/CLAUDE.md`: image naming, working locations and the working rules for browser downloads, cropping, commits and subagents
@@ -63,7 +67,7 @@
 Run in this order. Source fixes come first, so the later steps don't have to be redone.
 
 1. **Get the sources right** (before anything else)
-   - Point `data/database.js` at the new source images for 055, 072, 073, 076, 095, 098, 105, 128, 195, 239 (`image-NNN.jpg` full page, `image-NNNb.jpg` crop; already uploaded), add their transcripts, and re-review them
+   - Point `data/database.js` at the new source images for 055, 072, 073, 076, 095, 098, 105, 128, 195, 239 (`image-NNN.jpg` full page, `image-NNNb.jpg` crop; done and uploaded). Transcripts are in for 055, 076, 105, 128, 239. Still to do: 072, 073, 095, 098 and 195 have cut-off crops, so re-crop them from the full page and transcribe; 195's title doesn't match its crop ("Veteran Tom Allen confined to his bed", Republic 1903-01-31); re-review all ten
    - Re-capture from newspapers.com the 440 articles in `review/ISSUES.md` (cut-off and mixed crops, wrong articles, unreadable full pages)
    - Re-crop and re-OCR where a full page is available; hand-transcribe the 23 unusable and 12 missing transcripts, and the transcripts with meaning-changing errors in `FINDINGS.md` (e.g. 106, 109, 203, 617)
    - Bring the full transcripts of articles 000–281 into `data/new_articles.json` so search covers them
@@ -115,7 +119,6 @@ Run in this order. Source fixes come first, so the later steps don't have to be 
 - Consider historic St. Louis map overlay for the city locations
 
 ### Bugs & Testing
-- Thumbnails for most articles 000–281 show the page masthead instead of the clipping: `build-thumbnails.cjs` uses `image-NNN.jpg`, which is the full page for older articles (newer articles use the opposite naming). Build thumbnails from each article's `localCopyEdited` crop instead, then rebuild and re-upload them
 - Test the redesign in Safari and on iPhone (only desktop Chrome has been checked; replaces the old full-screen and iPhone bugs on the retired Articles page)
 - Pages opened directly by URL (e.g. `/articles/579`) return HTTP 404 while still rendering, because S3 serves the app as its error page. Search engines may treat them as missing; fix with a CloudFront rule that rewrites them to 200
 

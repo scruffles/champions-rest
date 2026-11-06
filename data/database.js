@@ -652,9 +652,10 @@ export const db = [
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1874-11-14",
     title: "ad for free and easy",
-    localCopyEdited: "post-dispatch/St__Louis_Post_Dispatch_Sat__Nov_14__1874_.jpg",
-    localCopyFull: "post-dispatch/St__Louis_Post_Dispatch_Sat__Nov_14__1874_ (1).jpg",
-    id: "055"
+    localCopyEdited: "images/articles/image-055b.jpg",
+    localCopyFull: "images/articles/image-055.jpg",
+    id: "055",
+    text: "Harper’s magazine for December, at Willie H. Gray’s, No. 308 Olive st.\n\nTom Allen’s Free and Easy, 417 Washington avenue, is the best and coolest place of amusement in the city. Latest songs of the day can be heard every night. The champion will keep order."
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -867,8 +868,8 @@ export const db = [
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1876-04-24",
     title: "Joe Coburn talks of fighting Allen",
-    localCopyEdited: "post-dispatch/St__Louis_Post_Dispatch_Mon__Apr_24__1876_.jpg",
-    localCopyFull: "post-dispatch/St__Louis_Post_Dispatch_Mon__Apr_24__1876_ (1).jpg",
+    localCopyEdited: "images/articles/image-072b.jpg",
+    localCopyFull: "images/articles/image-072.jpg",
     id: "072"
   },
   {
@@ -876,8 +877,8 @@ export const db = [
     sourceDate: "1876-04-25",
     title: "Sporting Notes",
     summary: "Tom Allen, a prominent bare-knuckle boxer of the 19th century, is anticipated to face Joe Goss, while Mike McCoole's inaction and Jem Mace's background underscore the era's competitive dynamics.",
-    localCopyEdited: "post-dispatch/St__Louis_Post_Dispatch_Tue__Apr_25__1876_.jpg",
-    localCopyFull: "post-dispatch/St__Louis_Post_Dispatch_Tue__Apr_25__1876_ (1).jpg",
+    localCopyEdited: "images/articles/image-073b.jpg",
+    localCopyFull: "images/articles/image-073.jpg",
     id: "073"
   },
   {
@@ -904,9 +905,10 @@ export const db = [
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1876-05-02",
     title: "Goss challenges Allen",
-    localCopyEdited: "post-dispatch/St__Louis_Post_Dispatch_Tue__May_2__1876_.jpg",
-    localCopyFull: "post-dispatch/St__Louis_Post_Dispatch_Tue__May_2__1876_ (1).jpg",
-    id: "076"
+    localCopyEdited: "images/articles/image-076b.jpg",
+    localCopyFull: "images/articles/image-076.jpg",
+    id: "076",
+    text: "It has been pretty definitely understood in sporting circles here the past week that Joe Goss, the English champion, and Tom Allen, of this city, an acknowledged champion, would make a match. Goss came to this country for the sole purpose of meeting Allen in the ring, and there is every reason to believe he will not be disappointed. Goss put up $500 in Cincinnati, and Allen has covered the amount. So far there has been no hitch in the preliminaries, and the men, or their representatives, are to meet at Cincinnati on the 12th inst., to agree upon the purse to be fought for, which is now open from $1,000 a side to whatever amount may be decided by the parties interested.\n\nThis morning Tom Allen called at the Dispatch office, and although the buck beer season is on, the champion looks well and what is better, feels confident of effecting a satisfactory match with Goss to be fought in the Southwest. Tom complains of being very badly treated by parties here during his absence in Chicago, but expresses his contempt for Coburn and “his gang,” who made bold threats when there was no danger, and have been, and are doing their best to embarrass his movements. In spite of their efforts to injure him, he is prepared with the money to fight Goss for any amount he may name, within twelve weeks from this date, if they desire a hurried match. Allen weighs now one hundred and ninety-five pounds, and can easily reduce himself to a hundred and seventy-eight—fighting weight within twelve weeks. Goss is reputed to kick the beam at two hundred and seven pounds and it is not likely he can reduce himself to fighting weight as soon as Allen.\n\nThe opinion in this city among the better class of sporting men is, that Allen will prove more than a match for Goss, and are willing to back the champion heavily if a fair fight can be secured. The battle promises to be one of the hardest fought engagements known in fistic circles."
   },
   {
     title: "A Challenge from Joe Goss",
@@ -1098,8 +1100,8 @@ export const db = [
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1879-11-22",
     title: "Allen open to fight anyone",
-    localCopyEdited: "post-dispatch/St__Louis_Post_Dispatch_Sat__Nov_22__1879_.jpg",
-    localCopyFull: "post-dispatch/St__Louis_Post_Dispatch_Sat__Nov_22__1879_ (1).jpg",
+    localCopyEdited: "images/articles/image-095b.jpg",
+    localCopyFull: "images/articles/image-095.jpg",
     id: "095"
   },
   {
@@ -1126,8 +1128,8 @@ export const db = [
     publication: "Mexico Weekly Ledger",
     sourceDate: "1882-11-16",
     title: "Allen wants to fight Sullivan",
-    localCopyEdited: "misc/???.jpg",
-    localCopyFull: "misc/??? (1).jpg",
+    localCopyEdited: "images/articles/image-098b.jpg",
+    localCopyFull: "images/articles/image-098.jpg",
     id: "098"
   },
   {
@@ -1194,9 +1196,10 @@ export const db = [
     publication: "The St. Joseph Weekly Gazette",
     sourceDate: "1883-09-20",
     title: "Jim Mace talks of past fights",
-    localCopyEdited: "misc/???.jpg",
-    localCopyFull: "misc/??? (1).jpg",
-    id: "105"
+    localCopyEdited: "images/articles/image-105b.jpg",
+    localCopyFull: "images/articles/image-105.jpg",
+    id: "105",
+    text: "“How many belts have you won?”\n“Five.”\n“What do they represent?”\n“One is the champion belt of the world, put up by an association in England; another the middle-weight champion belt of England; another the Sporting News belt for all comers; another the champion belt of America, presented to me after I beat Tom Allen at the Bowery theatre for $10,000, and another, a gold belt, given to me in Australia for beating the twelve best men. All are silver belts, except the Australia one, which is gold.”\n“What else have you been presented with?”\n“Gold medals and cups too numerous to mention—Gold and silver cups.”\n“How much money have you won?”\n“I have taken more money from Bell’s than any other man—forfeits and for battles.”\n“How much—$100,000.”\n“I guess so; but I couldn’t say.”\n“How much have you got now?”\n“That is asking a little too much.”\n“Is it all gone?”\n“I never talk about my private affairs.”\n“Do you think prize-fighting pays?”\n“It has paid me. I have made two or three fortunes. That is doing pretty well.”\n“How many men are engaged in the business now?”\n“I have no idea.”\n“Hundreds?”\n“Without doubt.”\n“What are the qualifications for the business?”\n“A man must be strong-minded, very confident, perfectly well and healthy, take good care of himself, and let whisky alone. And he must study the business to be a tip-top one.”\n“Science has a great deal to do with it?”\n“Science and health mixed. I am 52, as strong as a lion, and healthy.”\n“Were you ever seriously injured?”\n“Oh, I had my jaw broken once, and my nose two or three times.”\n“Who do you think is the best man in the world to-day?”\n“It is hard to say, but I guess Sullivan is the champion. He is the best one now, according to what I hear.”\n“Does your heart ever trouble you?”\n“It runs like a clock.”\n“But isn’t heart disease the curse of a great many prize fighters?”\n“Yes, it kills four-fifths of them. It killed Tom Sayers. It killed Tom Hyer. It killed Heenan, but they said it was his lungs, and it killed John Morrissey. The heavy pounding over the heart did the work for lots of them. I could name you fifty fighters who have died of heart disease.”\n“Do you drink much now?”\n“Not much. Mostly ale. There is no more pure claret, leastways in this country. Beer is poisoned. Whisky is not like it used to be. It gives a fellow the shakes.”\n“Will you ever fight again?”\n“No, never. I am too old. A man should never strike a blow after forty. I am fifty-two.”"
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -1422,9 +1425,10 @@ export const db = [
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1888-05-19",
     title: "Allen arrested in connection to a fight",
-    localCopyEdited: "missing",
-    localCopyFull: "post-dispatch/St__Louis_Post_Dispatch_Sat__May_19__1888_ (1).jpg",
-    id: "128"
+    localCopyEdited: "images/articles/image-128b.jpg",
+    localCopyFull: "images/articles/image-128.jpg",
+    id: "128",
+    text: "Tom Allen, Tom Kelly, Jake Esher, Jim Sweeney and T. J. Tucker, who were arrested by the Sheriff of Franklin County in connection with the Flint-McManus fight, have all been indicted by the Grand-jury in that county and this morning renewed their bonds before Judge Noonan. They were notified to do so, Judge Noonan having to vouch for the solvency of the securities."
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -2118,8 +2122,8 @@ export const db = [
     publication: "The St Louis Republic",
     sourceDate: "1903-01-31",
     title: "Looking back at the death of Robert Jackson in the ring which ended boxing in St Louis",
-    localCopyEdited: "republic/The_St_Louis_Republic_Sat__Jan_31__1903_.jpg",
-    localCopyFull: "republic/The_St_Louis_Republic_Sat__Jan_31__1903_ (1).jpg",
+    localCopyEdited: "images/articles/image-195b.jpg",
+    localCopyFull: "images/articles/image-195.jpg",
     id: "195"
   },
   {
@@ -2564,9 +2568,10 @@ export const db = [
     publication: "Joplin Globe",
     sourceDate: "1924-02-10",
     title: "Not always the big man who wins scrap",
-    localCopyEdited: "misc/???.jpg",
-    localCopyFull: "misc/??? (1).jpg",
-    id: "239"
+    localCopyEdited: "images/articles/image-239b.jpg",
+    localCopyFull: "images/articles/image-239.jpg",
+    id: "239",
+    text: "It is not always the big fellow that always wins in a prize fight.\n\nSuperior weight never has gone far when pitted against better youth, better skill and better condition. It is a fallacy to believe that the biggest man always wins.\n\nFrom time immemorial the heavyweight dice have shuffled backwards and forwards, sometimes the little man winning and sometimes, as in the case of Dempsey and Willard and Dempsey and Firpo, the smaller man getting there. You could never be certain as to what sized man was going to win.\n\nThe next champions in size to Willard were Jack Freeman, champion 60 years ago, and O’Baldwin, the Irish giant.\n\nWillard and Firpo are undoubtedly the biggest men that ever battled for a heavyweight championship in this country. Willard is even bigger than Freeman and O’Baldwin, who fought for heavyweight honors in this country 50 years ago.\n\nFreeman Was Exception.\nFreeman was known as the American Giant, and after cleaning up in this country he crossed the briny, fought several battles in England and died there.\n\nFreeman stood six feet, five and one-half inches and weighed 300 pounds when in fighting shape.\n\nNext to Freeman in height was Ned O’Baldwin, the Irish giant. In fact, O’Baldwin was probably the greatest giant the ring has ever known. He was a native of County Waterford, Ireland. He was as tall as Freeman, standing six feet, five and one-half inches in his stocking feet and stripped at 212 pounds.\n\nO’Baldwin fought Jem Mace and other champions and was shot and killed in 1875.\n\nJem Mace Small\nIn their careers neither Freeman nor O’Baldwin, big as they were, ever accomplished great things in the prize-fighting line, and neither of the two giants of the ring ever pulled down a fortune.\n\nOn the other hand, Jem Mace, about the same sized man as Tom Allen, a 165-pounder, fought much bigger men than himself early and often, and nearly always landed the decision.\n\nMace had for contemporaries Herbert Slade, the Maori Giant, and Prof. Laflin, a successful boxing teacher. The Maori Giant was taught boxing by Mace and was a formidable looking fighter, but Sullivan had no trouble in polishing him off. Laflin was also easy for Sullivan in three rounds.\n\nCharlie Mitchell, another of England’s great pugilists, was a small man. In fighting trim he weighed a bare 165 pounds. In fact, few of England’s fighters were big men.\n\nSullivan First Big ’Un\nJem Mace, Charley Mitchell and Tom Sayers were all about the same size. They and Tom Allen all fought at about 165 pounds.\n\nIn fact there were no big fighters of much consequence—that is, no man as big as Willard—who cut any figure in the fighting world, until John L. Sullivan happened along.\n\nJohn L., however, was not what you would have called a giant. Sully was not as tall as Dempsey, and in the one great battle of his life, that in which he won the championship from Paddy Ryan, he weighed 190 pounds, or about five pounds less than Dempsey weighed the day he defeated Carpentier."
   },
   {
     publication: "St. Louis Post-Dispatch",
