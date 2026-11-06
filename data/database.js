@@ -870,7 +870,8 @@ export const db = [
     title: "Joe Coburn talks of fighting Allen",
     localCopyEdited: "images/articles/image-072b.jpg",
     localCopyFull: "images/articles/image-072.jpg",
-    id: "072"
+    id: "072",
+    text: "Joe Coburn has gone to New York, but has promised to return here with Jem Mace and Joe Goss, to make Tom Allen stop blowing or fight. All this talk is the purest of gas. Every movement of Joe Coburn in this city indicated that he is afraid of Tom Allen."
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -879,7 +880,8 @@ export const db = [
     summary: "Tom Allen, a prominent bare-knuckle boxer of the 19th century, is anticipated to face Joe Goss, while Mike McCoole's inaction and Jem Mace's background underscore the era's competitive dynamics.",
     localCopyEdited: "images/articles/image-073b.jpg",
     localCopyFull: "images/articles/image-073.jpg",
-    id: "073"
+    id: "073",
+    text: "The past few weeks there has been loud music in the air between the pugilists, but so far it has not amounted to anything. When Joe Coburn came here for a theatrical engagement, he was announced as the “Champion of the World” in the bills, and Tom Allen took exceptions to this manner of announcement. Unfortunately, Tom was engaged for a week at Chicago, during Coburn’s stay here, and there was no way possible to get the men together. Coburn was interviewed, and stated plainly that he had fought his last fight with Jem Mace four years ago, and would not again enter the ring, but would give Allen all he wanted if he would dare to attack him. In answer to an interview in the Dispatch, Tom Allen telegraphed us on the 17th that he would “fight Coburn with the gloves for all the money he could get,” but Coburn feared an arrest and would not put himself in any position for\n\nFUN OR MONEY\n\nto be thumped, and left quietly for New York on Monday, thus disposing of himself. Before Coburn left he played his “calliope” loudly, and was anxious to meet Bauer, the Graeco-Roman wrestler, for a purse. Coburn’s talk of wrestling Bauer was taken as a joke by the Frenchman, who denounces Coburn as a blower.\n\nSCHROEDER, THE GERMAN.\n\nSince the “Oak on the Rhine,” Heygster, made such a lame show with Bauer at the Temple, two weeks since, Schroeder, a stout, well built German, was anxious to meet Bauer and have a tussle with him. For this purpose he put up $100 forfeit, and yesterday the Frenchman covered the stake, and the two men promised to add $400 additional when the articles are completed."
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -1102,7 +1104,8 @@ export const db = [
     title: "Allen open to fight anyone",
     localCopyEdited: "images/articles/image-095b.jpg",
     localCopyFull: "images/articles/image-095.jpg",
-    id: "095"
+    id: "095",
+    text: "Sporting circles are agitated over two great proposed prize fights for the heavy-weight championship of America, which little Johnny Dwyer, Brooklyn’s pugilist and politician, now holds, and which he won by defeating Jimmy Elliott. Tom Allen wants to fight Dwyer; and Paddy Ryan, of Troy, the Trojan Giant, is also eager to meet the Brooklyn Hercules in the prize ring. Advices from London state that Tom Allen, the noted pugilist, who has fought seven times for the heavy-weight championship of America, is again eager to contend for that title. Allen issues a challenge to fight any man in the world at catch weights, according to the new rules of the London Prize Ring, for $1,000 a side; the fight to take place within 100 miles of Buffalo, and to be fought in Canada or within fifty miles of Pittsburg."
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -1130,7 +1133,8 @@ export const db = [
     title: "Allen wants to fight Sullivan",
     localCopyEdited: "images/articles/image-098b.jpg",
     localCopyFull: "images/articles/image-098.jpg",
-    id: "098"
+    id: "098",
+    text: "Tom Allen, the pugilist, has offered to fight Jno. L. Sullivan, the Irish giant, for from $1,000 to $5,000."
   },
   {
     publication: "St. Louis Post-Dispatch",
@@ -2124,7 +2128,8 @@ export const db = [
     title: "Looking back at the death of Robert Jackson in the ring which ended boxing in St Louis",
     localCopyEdited: "images/articles/image-195b.jpg",
     localCopyFull: "images/articles/image-195.jpg",
-    id: "195"
+    id: "195",
+    text: "Tom Allen, the veteran pugilist who won the first battle in England ever fought under Queensberry rules, and who was for years considered the strongest candidate for the heavyweight championship of the world, is lying sick at his home on Market street between Sixth and Seventh, and is believed to be seriously ill.\n\nPersistent colds, which have clung to him for the last two or three weeks, and which have confined him to his bed, are responsible for his condition. Although he has improved in the last day or two and hopes to be about again shortly, his sickness has reduced him considerably and has caused him considerable pain.\n\nThe veteran has been complaining of pains in the regions where his opponents’ punches landed in years gone by, and states that his arms, ribs and stomach region have been throbbing where they sustained punishment in his battles of the past.\n\nAllen was a representative fighter of the old school and of the bygone bare-knuckle days. He started his ring career when 21 years old, in 1859, and for eighteen years he was a prominent factor among the foremost men in his class. Born in 1839, he took up the ring rather later than do most of the pugilists nowadays, and he continued at the game until his celebrated battle for the championship of England, when he knocked out Charlie Davis in five rounds.\n\nThis was the first championship battle fought in England under Queensberry rules. As a reward he received a purse of £100 and a massive silver cup, emblematic of the title, which now hangs over his bar.\n\nIn 1867 he fought the then celebrated Joe Goss for the heavy-weight championship, the bout ending in a riot and Allen’s seconds being mobbed. In 1870 he fought Jem Mace in Louisiana for the heavy-weight championship and a purse of $5,000, Allen’s seconds throwing up the sponge at the end of ten rounds, after Tom had injured his arm. The bout lasted fifty minutes.\n\nAllen’s fights around this city are well remembered, especially his battles with Mike McCool on Bloody Island. He beat McCool there in seven rounds.\n\nDon Murphy, manager of Allen’s place, stated that he believed the veteran would be out again soon, but that the effects of his illness had told on him considerably."
   },
   {
     publication: "The St Louis Republic",

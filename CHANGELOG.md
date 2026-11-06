@@ -4,7 +4,8 @@
 
 ### Added
 - Source images from newspapers.com for the 10 articles that had none (055, 072, 073, 076, 095, 098, 105, 128, 195, 239): full page and crop for each, with thumbnails
-- Transcripts for 055, 076, 105, 128 and 239 (typed from the crops, not OCR; to be checked against the page)
+- Transcripts for all ten new-source articles (055, 072, 073, 076, 095, 098, 105, 128, 195, 239), typed from the crops and full pages, not OCR; to be checked against the page
+- Re-cut crops of 073, 095 and 195 from the full pages, which were cut off (uploaded)
 
 ### Fixed
 - `image-105.jpg` and `image-128.jpg` were copies of articles 102 and 125, so 105 and 128 showed the wrong thumbnails; replaced with their real sources
@@ -67,7 +68,7 @@
 Run in this order. Source fixes come first, so the later steps don't have to be redone.
 
 1. **Get the sources right** (before anything else)
-   - Point `data/database.js` at the new source images for 055, 072, 073, 076, 095, 098, 105, 128, 195, 239 (`image-NNN.jpg` full page, `image-NNNb.jpg` crop; done and uploaded). Transcripts are in for 055, 076, 105, 128, 239. Still to do: 072, 073, 095, 098 and 195 have cut-off crops, so re-crop them from the full page and transcribe; 195's title doesn't match its crop ("Veteran Tom Allen confined to his bed", Republic 1903-01-31); re-review all ten
+   - Point `data/database.js` at the new source images for 055, 072, 073, 076, 095, 098, 105, 128, 195, 239 (`image-NNN.jpg` full page, `image-NNNb.jpg` crop; done and uploaded). Transcripts are in for all ten, and crops for 073, 095 and 195 are re-cut from the full pages. Still to do: 195's title doesn't match its crop ("Veteran Tom Allen confined to his bed", Republic 1903-01-31); 073's summary mentions McCoole, which the text doesn't; re-review all ten
    - Re-capture from newspapers.com the 440 articles in `review/ISSUES.md` (cut-off and mixed crops, wrong articles, unreadable full pages)
    - Re-crop and re-OCR where a full page is available; hand-transcribe the 23 unusable and 12 missing transcripts, and the transcripts with meaning-changing errors in `FINDINGS.md` (e.g. 106, 109, 203, 617)
    - Bring the full transcripts of articles 000–281 into `data/new_articles.json` so search covers them
