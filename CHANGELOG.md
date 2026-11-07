@@ -70,10 +70,14 @@
 
 Run in this order. Source fixes come first, so the later steps don't have to be redone.
 
-1. **Get the sources right** (before anything else)
-   - Point `data/database.js` at the new source images for 055, 072, 073, 076, 095, 098, 105, 128, 195, 239 (`image-NNN.jpg` full page, `image-NNNb.jpg` crop; done and uploaded). Transcripts are in for all ten, and crops for 073, 095 and 195 are re-cut from the full pages. Still to do: 195's title doesn't match its crop ("Veteran Tom Allen confined to his bed", Republic 1903-01-31); 073's summary mentions McCoole, which the text doesn't; re-review all ten
-   - Re-capture from newspapers.com the 440 articles in `review/ISSUES.md` (cut-off and mixed crops, wrong articles, unreadable full pages)
-   - Re-crop and re-OCR where a full page is available; hand-transcribe the 23 unusable and 12 missing transcripts, and the transcripts with meaning-changing errors in `FINDINGS.md` (e.g. 106, 109, 203, 617)
+1. **Get the sources right** (before anything else). Each sub-section is a unit of work with a clear done-state.
+   - **1a. Ten new-source articles** (055, 072, 073, 076, 095, 098, 105, 128, 195, 239): pointers, crops and transcripts are done and uploaded. Left: 195's title doesn't match its crop ("Veteran Tom Allen confined to his bed", Republic 1903-01-31); 073's summary mentions McCoole, which the text doesn't. Done when both are fixed and the ten are re-reviewed (goes with 2).
+   - **1b. Edge-trimmed clippings** (done: 340, 345, 405, 429, 536, 549, 611, 644, 655, 687, 774, 800, 957). Open: 328 is a duplicate of 329, so merge it in step 3 rather than re-cropping; 348 has no match on its page (retry with a different locator, e.g. its headline).
+   - **1c. Cut-off and wrong-article clippings** (the rest of the 195-item "get a new screenshot" group in `review/ISSUES.md`): use the full page in `review/work/<id>/` or `public/images/articles/image-<id>b.jpg`, locate the item (tesseract TSV or template match), crop with its full extent, check by eye. Work in batches of about 10. Open: about 170 items.
+   - **1d. Missing pages**: 17 of 18 downloaded to `review/work/<id>/` (088, 091, 145, 146, 147, 149, 187, 201, 206, 218, 232, 233, 237, 240, 242 (2 pages), 246, 250). Open: 262 (Globe-Democrat 1978, Burnes feature) not on newspapers.com search; 232 and 233 still need checking that the page holds "John L as I knew Him". Next: crop these 17 articles from their downloaded pages.
+   - **1e. Mixed clippings** (224 items in `review/ISSUES.md`): trim each clip to the Allen item only. Open: all.
+   - **1f. Transcripts**: write the 12 missing and the unusable ones (35 items in `review/ISSUES.md`) from the re-captured crops, and fix the meaning-changing errors in `FINDINGS.md` (106, 109, 203, 617). Open: all.
+   - **1g. Full text for 000–281** in `data/new_articles.json`: done (279 added; 088 and 237 have no crop on disk, so they are still missing text).
 2. **Re-review what changed**: rerun the review on the re-captured and re-transcribed articles, so each record reflects its new text
 3. **Settle the facts that depend on the text**
    - Remove the 3 articles that are not about him (232, 233, 998) and decide on the 14 marked unsure (e.g. 133, 190, 332, 362, 683, 714, 918)
