@@ -8,6 +8,7 @@
 - Re-cut crops of 073, 095 and 195 from the full pages, which were cut off (uploaded)
 - Re-cut edge-trimmed clippings 340, 345, 405 and 429 from the full pages (uploaded). Their crops live in the staging folder, which is the upload source
 - Re-cut edge-trimmed or cut-off clippings 536, 549, 611, 644, 655, 687, 774, 800 and 957 from the full pages (uploaded)
+- Full OCR text for 279 articles (000–281) in `data/new_articles.json`, so search covers them; 088 and 237 have no crop on disk and are still missing. Search index rebuilt
 
 ### Fixed
 - `image-105.jpg` and `image-128.jpg` were copies of articles 102 and 125, so 105 and 128 showed the wrong thumbnails; replaced with their real sources
@@ -73,7 +74,6 @@ Run in this order. Source fixes come first, so the later steps don't have to be 
    - Point `data/database.js` at the new source images for 055, 072, 073, 076, 095, 098, 105, 128, 195, 239 (`image-NNN.jpg` full page, `image-NNNb.jpg` crop; done and uploaded). Transcripts are in for all ten, and crops for 073, 095 and 195 are re-cut from the full pages. Still to do: 195's title doesn't match its crop ("Veteran Tom Allen confined to his bed", Republic 1903-01-31); 073's summary mentions McCoole, which the text doesn't; re-review all ten
    - Re-capture from newspapers.com the 440 articles in `review/ISSUES.md` (cut-off and mixed crops, wrong articles, unreadable full pages)
    - Re-crop and re-OCR where a full page is available; hand-transcribe the 23 unusable and 12 missing transcripts, and the transcripts with meaning-changing errors in `FINDINGS.md` (e.g. 106, 109, 203, 617)
-   - Bring the full transcripts of articles 000–281 into `data/new_articles.json` so search covers them
 2. **Re-review what changed**: rerun the review on the re-captured and re-transcribed articles, so each record reflects its new text
 3. **Settle the facts that depend on the text**
    - Remove the 3 articles that are not about him (232, 233, 998) and decide on the 14 marked unsure (e.g. 133, 190, 332, 362, 683, 714, 918)
