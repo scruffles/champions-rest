@@ -7,6 +7,7 @@
 - Transcripts for all ten new-source articles (055, 072, 073, 076, 095, 098, 105, 128, 195, 239), typed from the crops and full pages, not OCR; to be checked against the page
 - Re-cut crops of 073, 095 and 195 from the full pages, which were cut off (uploaded)
 - Re-cut edge-trimmed clippings 340, 345, 405 and 429 from the full pages (uploaded). Their crops live in the staging folder, which is the upload source
+- Re-cut edge-trimmed or cut-off clippings 536, 549, 611, 644, 655, 687, 774, 800 and 957 from the full pages (uploaded)
 
 ### Fixed
 - `image-105.jpg` and `image-128.jpg` were copies of articles 102 and 125, so 105 and 128 showed the wrong thumbnails; replaced with their real sources
