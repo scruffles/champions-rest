@@ -79,7 +79,9 @@ export const ARTICLES = db
       topics,
       topic: topics[0],
       crop: imagePath(a.localCopyEdited),
-      page: imagePath(a.localCopyFull),
+      // localCopyFull is one path or a list of paths (for an article that runs across pages)
+      pages: [].concat(a.localCopyFull || []).filter(Boolean).map(imagePath),
+      page: imagePath([].concat(a.localCopyFull || [])[0]),
       thumb: `/images/thumbs/image-${a.id}.jpg`,
       monthDay: String(a.sourceDate || "").slice(5, 10),
     };

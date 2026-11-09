@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-11-08
+
+### Added
+- Article 242 has a second full page (`image-242b.jpg`). `localCopyFull` can now list several pages, and the page tab shows them in order with a "Page 1 of 2" label
+- Hand crops of 13 step-1d articles (088, 091, 145, 146, 147, 149, 187, 201, 206, 218, 240, 246, 250) in `review/work/<id>/crop-by-hand.jpg`; not yet on the site
+- `review/work/index.html`: local index of the step-1d pages with their file paths (gitignored)
+
+### Removed
+- Articles 232 and 233 (not about Allen) and 237 (probably a duplicate of 236) from `data/database.js`, `data/new_articles.json` and the search index. Their S3 images are still up: the deploy user lacks `s3:DeleteObject`
+- Article 998 (not about Allen) from `data/database.js`, `data/new_articles.json` and the search index. Its local and staging images were moved to the Trash (`998-staging-*`). Its 4 S3 objects are still up: the deploy user lacks `s3:DeleteObject`
+
 ## 2026-11-06
 
 ### Added
@@ -74,13 +85,13 @@ Run in this order. Source fixes come first, so the later steps don't have to be 
    - **1a. Ten new-source articles** (055, 072, 073, 076, 095, 098, 105, 128, 195, 239): pointers, crops and transcripts are done and uploaded. Left: 195's title doesn't match its crop ("Veteran Tom Allen confined to his bed", Republic 1903-01-31); 073's summary mentions McCoole, which the text doesn't. Done when both are fixed and the ten are re-reviewed (goes with 2).
    - **1b. Edge-trimmed clippings** (done: 340, 345, 405, 429, 536, 549, 611, 644, 655, 687, 774, 800, 957). Open: 328 is a duplicate of 329, so merge it in step 3 rather than re-cropping; 348 has no match on its page (retry with a different locator, e.g. its headline).
    - **1c. Cut-off and wrong-article clippings** (the rest of the 195-item "get a new screenshot" group in `review/ISSUES.md`): use the full page in `review/work/<id>/` or `public/images/articles/image-<id>b.jpg`, locate the item (tesseract TSV or template match), crop with its full extent, check by eye. Work in batches of about 10. Open: about 170 items.
-   - **1d. Missing pages**: 17 of 18 downloaded to `review/work/<id>/` (088, 091, 145, 146, 147, 149, 187, 201, 206, 218, 232, 233, 237, 240, 242 (2 pages), 246, 250). Open: 262 (Globe-Democrat 1978, Burnes feature) not on newspapers.com search; 232 and 233 still need checking that the page holds "John L as I knew Him". Next: crop these 17 articles from their downloaded pages.
+   - **1d. Missing pages**: pages downloaded to `review/work/<id>/`. Done: hand crops for 13 (088, 091, 145, 146, 147, 149, 187, 201, 206, 218, 240, 246, 250) in `review/work/<id>/crop-by-hand.jpg`, not yet on the site; 242 is on the site with both pages, but its clipping is still the full page. Check 088, 218, 240 and 250 (very short or very tall strips). Removed: 232, 233, 237 (see step 3). Open: 262 (Globe-Democrat 1978, Burnes feature) not on newspapers.com search; the clipping for 242 must be cut from the two pages.
    - **1e. Mixed clippings** (224 items in `review/ISSUES.md`): trim each clip to the Allen item only. Open: all.
    - **1f. Transcripts**: write the 12 missing and the unusable ones (35 items in `review/ISSUES.md`) from the re-captured crops, and fix the meaning-changing errors in `FINDINGS.md` (106, 109, 203, 617). Open: all.
-   - **1g. Full text for 000–281** in `data/new_articles.json`: done (279 added; 088 and 237 have no crop on disk, so they are still missing text).
 2. **Re-review what changed**: rerun the review on the re-captured and re-transcribed articles, so each record reflects its new text
 3. **Settle the facts that depend on the text**
-   - Remove the 3 articles that are not about him (232, 233, 998) and decide on the 14 marked unsure (e.g. 133, 190, 332, 362, 683, 714, 918)
+   - Removed 232, 233, 998 (not about him) and 237 (probably a duplicate of 236). Still to do: delete the S3 images for 232 and 233 and their thumbs, and the 4 S3 objects for 998 (`images/articles/image-998.jpg`, `image-998.txt`, `image-998b.jpg`, `images/thumbs/image-998.jpg`). Both need `s3:DeleteObject` on the deploy user
+   - Decide on the 14 marked unsure (e.g. 133, 190, 332, 362, 683, 714, 918)
    - Remove or merge about 25 duplicate and split articles listed in `review/FINDINGS.md` (e.g. 328/329, 403/402, 518/517, 1007/1008, 297+298, 303+304, 855+856)
    - Resolve the fact conflicts in `review/FINDINGS.md`: birth year (1839 vs 1840/1841), arrival in America, Crimean War vs Indian Mutiny, belt presentation date, Halifax sailing date, burial (Calvary vs Bellefontaine), saloon address (615/618/619 Market), will, widower, brothers and sister
    - Settle the 1869-08-17 Gallagher result in `data/fights.js`: it is still listed as a win, while 352 and 647 say draw and 643 says Allen won (the sources are now linked and noted there)

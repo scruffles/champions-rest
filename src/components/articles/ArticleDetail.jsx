@@ -125,7 +125,16 @@ export default function ArticleDetail() {
             {tab === "clipping" &&
               (article.crop ? <img className="ink" src={article.crop} alt={`Newspaper clipping: ${article.title}`} style={{ width: `${zoom}%` }} /> : <div className="empty">No clipping available.</div>)}
             {tab === "page" &&
-              (article.page ? <img className="ink" src={article.page} alt="Full newspaper page" style={{ width: `${zoom}%` }} /> : <div className="empty">No full page available.</div>)}
+              (article.pages?.length ? (
+                article.pages.map((src, i) => (
+                  <figure key={src}>
+                    {article.pages.length > 1 && <figcaption className="page-label">Page {i + 1} of {article.pages.length}</figcaption>}
+                    <img className="ink" src={src} alt={`Full newspaper page${article.pages.length > 1 ? ` ${i + 1}` : ""}`} style={{ width: `${zoom}%` }} />
+                  </figure>
+                ))
+              ) : (
+                <div className="empty">No full page available.</div>
+              ))}
             {tab === "text" && <Transcript article={article} />}
           </div>
         </div>

@@ -105,7 +105,8 @@ async function prep(ids) {
     fs.rmSync(dir, { recursive: true, force: true });
     fs.mkdirSync(dir, { recursive: true });
     const crop = localImage(a.localCopyEdited);
-    const page = localImage(a.localCopyFull);
+    const fullPages = [].concat(a.localCopyFull || []);
+    const page = localImage(fullPages[0]);
     const pieces = crop ? await slice(crop, dir) : [];
     if (page) await sharp(page, { limitInputPixels: false }).resize({ width: 1400, height: 1800, fit: "inside" }).jpeg({ quality: 80 }).toFile(path.join(dir, "page.jpg"));
     const { text, ...meta } = a;

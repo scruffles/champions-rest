@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-09",
   "articles": {
     "100": {
       "status": "reviewed",
@@ -662,12 +662,12 @@
       "date": "1918-03-13"
     },
     "232": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1918-03-14"
     },
     "233": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1918-03-15"
     },
@@ -687,7 +687,7 @@
       "date": "1919-01-04"
     },
     "237": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1919-01-04"
     },
@@ -4452,7 +4452,7 @@
       "date": "1901-01-19"
     },
     "998": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "mention",
       "date": "1901-04-13"
     },
