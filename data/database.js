@@ -877,7 +877,7 @@ export const db = [
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1876-04-25",
     title: "Sporting Notes",
-    summary: "Tom Allen, a prominent bare-knuckle boxer of the 19th century, is anticipated to face Joe Goss, while Mike McCoole's inaction and Jem Mace's background underscore the era's competitive dynamics.",
+    summary: "Joe Coburn leaves St. Louis without fighting Tom Allen, after promising to return with Jem Mace and Joe Goss. Bauer and Schroeder are also matched.",
     localCopyEdited: "images/articles/image-073b.jpg",
     localCopyFull: "images/articles/image-073.jpg",
     id: "073",
@@ -2125,7 +2125,7 @@ export const db = [
   {
     publication: "The St Louis Republic",
     sourceDate: "1903-01-31",
-    title: "Looking back at the death of Robert Jackson in the ring which ended boxing in St Louis",
+    title: "Veteran Tom Allen confined to his bed",
     localCopyEdited: "images/articles/image-195b.jpg",
     localCopyFull: "images/articles/image-195.jpg",
     id: "195",

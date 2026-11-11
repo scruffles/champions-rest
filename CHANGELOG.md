@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-10
+
+### Fixed
+- Article 195's title now matches its clipping ("Veteran Tom Allen confined to his bed")
+- Article 073's summary no longer mentions McCoole, who isn't in the text
+
 ## 2026-11-08
 
 ### Added
@@ -82,10 +88,10 @@
 Run in this order. Source fixes come first, so the later steps don't have to be redone.
 
 1. **Get the sources right** (before anything else). Each sub-section is a unit of work with a clear done-state.
-   - **1a. Ten new-source articles** (055, 072, 073, 076, 095, 098, 105, 128, 195, 239): pointers, crops and transcripts are done and uploaded. Left: 195's title doesn't match its crop ("Veteran Tom Allen confined to his bed", Republic 1903-01-31); 073's summary mentions McCoole, which the text doesn't. Done when both are fixed and the ten are re-reviewed (goes with 2).
+   - **1a. Ten new-source articles** (055, 072, 073, 076, 095, 098, 105, 128, 195, 239): pointers, crops and transcripts are done and uploaded. Fixed: 195's title and 073's summary. Left: the ten are re-reviewed (goes with 2).
    - **1b. Edge-trimmed clippings** (done: 340, 345, 405, 429, 536, 549, 611, 644, 655, 687, 774, 800, 957). Open: 328 is a duplicate of 329, so merge it in step 3 rather than re-cropping; 348 has no match on its page (retry with a different locator, e.g. its headline).
    - **1c. Cut-off and wrong-article clippings** (the rest of the 195-item "get a new screenshot" group in `review/ISSUES.md`): use the full page in `review/work/<id>/` or `public/images/articles/image-<id>b.jpg`, locate the item (tesseract TSV or template match), crop with its full extent, check by eye. Work in batches of about 10. Open: about 170 items.
-   - **1d. Missing pages**: pages downloaded to `review/work/<id>/`. Done: hand crops for 13 (088, 091, 145, 146, 147, 149, 187, 201, 206, 218, 240, 246, 250) in `review/work/<id>/crop-by-hand.jpg`, not yet on the site; 242 is on the site with both pages, but its clipping is still the full page. Check 088, 218, 240 and 250 (very short or very tall strips). Removed: 232, 233, 237 (see step 3). Open: 262 (Globe-Democrat 1978, Burnes feature) not on newspapers.com search; the clipping for 242 must be cut from the two pages.
+   - **1d. Missing pages**: pages downloaded to `review/work/<id>/`. Done: hand crops for 13 (088, 091, 145, 146, 147, 149, 187, 201, 206, 218, 240, 246, 250) in `review/work/<id>/crop-by-hand.jpg`, not yet on the site; 242 is on the site with both pages, but its clipping is still the full page. Check 088, 218, 240 and 250 (very short or very tall strips). Removed: 232, 233, 237 (see step 3). 262 (Globe-Democrat 1978, Burnes feature) is covered: `image-262.jpg` is the full article clipping, already on the site and S3, but no full newspaper page is on file. Open: the clipping for 242 must be cut from the two pages.
    - **1e. Mixed clippings** (224 items in `review/ISSUES.md`): trim each clip to the Allen item only. Open: all.
    - **1f. Transcripts**: write the 12 missing and the unusable ones (35 items in `review/ISSUES.md`) from the re-captured crops, and fix the meaning-changing errors in `FINDINGS.md` (106, 109, 203, 617). Open: all.
 2. **Re-review what changed**: rerun the review on the re-captured and re-transcribed articles, so each record reflects its new text
