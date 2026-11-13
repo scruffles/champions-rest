@@ -4,6 +4,7 @@
 
 ### Added
 - Article 242's clipping: the crop of both pages (`image-242c.jpg`) replaces the full page as its clipping; the thumbnail is rebuilt from it
+- Hand-cut clippings for 088, 218, 240 and 250 (`image-088c.jpg`, `image-218c.jpg`, `image-240c.jpg`, `image-250c.jpg`), replacing the old files; thumbnails rebuilt. Article 088 had no clipping on the site before
 
 ## 2026-11-10
 
