@@ -2575,7 +2575,7 @@ export const db = [
     sourceDate: "1928-12-09",
     title: "(2 pages)",
     summary: "The article highlights a historic boxing match between Tom Allen, Mike McCoole, and Jem Mace, showcasing 19th-century pugilism's brutal and captivating contests.",
-    localCopyEdited: "images/articles/image-242.jpg",
+    localCopyEdited: "images/articles/image-242c.jpg",
     localCopyFull: ["images/articles/image-242.jpg", "images/articles/image-242b.jpg"],
     id: "242",
     text: "One of the Earliest Prints of a Boxing Contest\n\nBoxing match for 200 guineas between Dutch Sam and Medley, May 1810, at Moulsey Hurst near Hampton. The concourse of people exceeded any that we have witnessed. A computed number of upward of one thousand.\n\nHampton entered the ring, and Sam had for his second Harry Lee. It was a severe and bloody contest. Victory was decided on the fourth round.\n\nFamous St. Louis Fights and Fighters\n\nThe story of pugilism in St. Louis is a half-century that was brutal, even bestial, that none the less attracted the attention of the country. A river town, St. Louis had more than its share of fights. Perhaps the spectators were working people whose only leisure was spent in gambling and fighting. Bets were hawked about the ring, and the excitement waxed warmer with the telling of the fight.\n\nBare-knuckle days, with the strength of a Jeffries, attracted the attention of the world."
