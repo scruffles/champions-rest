@@ -35,8 +35,13 @@
     {
       "fact": "Allen coached and seconded \"Denver Ed\" Smith in his fight with Joe Goddard at New Orleans, which Smith won after a desperate fight though Goddard was an odds-on favorite",
       "date": "",
-      "people": ["\"Denver Ed\" Smith", "Joe Goddard"],
-      "places": ["New Orleans"],
+      "people": [
+        "\"Denver Ed\" Smith",
+        "Joe Goddard"
+      ],
+      "places": [
+        "New Orleans"
+      ],
       "quote": "",
       "kind": "other",
       "confidence": "high",

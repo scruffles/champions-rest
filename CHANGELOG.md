@@ -3,10 +3,16 @@
 ## 2026-11-14
 
 ### Added
-- Re-crops of 615 (the Allen item), 621 (blurb text) and 689 (O'Connell benefit text): `image-615c.jpg`, `image-621c.jpg`, `image-689c.jpg`; thumbnails rebuilt
+- Re-crops: 105 (the Veteran article, `image-105c.jpg`), 133 ("Big ears of crazy men": both columns joined in reading order, `image-133c.jpg`), 615 (`image-615c.jpg`), 621 (`image-621c.jpg`) and 689 (`image-689c.jpg`); thumbnails rebuilt
+
+### Changed
+- Review notes audited against the data: records for crops and transcripts fixed after review are updated; `review/ISSUES.md` no longer lists removed articles; `review/FINDINGS.md` has a resolved section at the top
 
 ### Removed
-- Duplicates 328, 518, 549, 834, 958, 1008, 646 and 1001 from `data/database.js`, `data/new_articles.json` and the search index; each one's complete twin is kept (329, 517, 548, 833, 959, 1007, 645, 1000)
+- Duplicates 328, 518, 549, 834, 958, 1008, 646, 1001, 428, 609, 778 and 688 (header now in 689); each one's complete twin is kept
+- Articles not about Allen: 614, 780, 901, 232, 233, 998
+- Heading-only item 622 (its blurb text is 621)
+- Articles 239, 246, 332, 362 and 683, as you asked. Local and staging files are in the Trash; their S3 objects are still up (the deploy user lacks `s3:DeleteObject`)
 
 ## 2026-11-12
 
@@ -111,7 +117,7 @@ Run in this order. Source fixes come first, so the later steps don't have to be 
 2. **Re-review what changed**: rerun the review on the re-captured and re-transcribed articles, so each record reflects its new text
 3. **Settle the facts that depend on the text**
    - Removed 232, 233, 998 (not about him) and 237 (probably a duplicate of 236). Still to do: delete the S3 images for 232 and 233 and their thumbs, and the 4 S3 objects for 998 (`images/articles/image-998.jpg`, `image-998.txt`, `image-998b.jpg`, `images/thumbs/image-998.jpg`). Both need `s3:DeleteObject` on the deploy user
-   - Decide on the 14 marked unsure (e.g. 133, 190, 332, 362, 683, 714, 918)
+   - Decide on the 14 marked unsure (055 confirmed as keep: it is the Free and Easy ad, and its review note predates the source images) (e.g. 133, 190, 332, 362, 683, 714, 918)
    - Remove or merge the remaining duplicate and split articles in `review/FINDINGS.md`. Removed so far (614 is not about Allen): 328, 518, 549, 834, 958, 1008, 646, 1001; also 428 and 609 (removed locally, not yet committed). To check side by side in `review/work/dup-compare.html`: 901; 778 duplicates 777 (777 is more complete) and is removed; 780 and 901 do not mention Allen and are removed; 779 stays (passing mention only); 688 is probably the header of the O'Connell benefit, separated from its text in 689, so re-crop 689 and decide on 688 after; 622 is only a heading for a series of blurbs, and 621 is the text of one of them (decide on 622 after the re-crop). 1005 and 1006 are two halves of one obituary (merge); also 237 (removed earlier), 403/402, 297+298, 303+304, 855+856
    - Resolve the fact conflicts in `review/FINDINGS.md`: birth year (1839 vs 1840/1841), arrival in America, Crimean War vs Indian Mutiny, belt presentation date, Halifax sailing date, burial (Calvary vs Bellefontaine), saloon address (615/618/619 Market), will, widower, brothers and sister
    - Settle the 1869-08-17 Gallagher result in `data/fights.js`: it is still listed as a win, while 352 and 647 say draw and 643 says Allen won (the sources are now linked and noted there)

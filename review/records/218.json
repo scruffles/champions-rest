@@ -1,20 +1,46 @@
 {
   "id": "218",
   "reviewed": "2026-11-04",
-  "crop": { "status": "no_crop", "notes": "The clipping is the whole page (900px wide): 'Is Barrington Crazy? What a Criminologist Finds' plus bead-weaving, Missouri River, roque and Custer painting items. Body text is barely legible at this size." },
-  "ocr": { "status": "rough", "notes": "Transcript looks paraphrased and partial; it does not match the visible wording. Zoomed image shows the Allen line in column 4: Barrington, who had a passion for wearing dead men's clothes, 'took the utmost pride in his possession of Tom Allen's silk hat.' Most of the rest could not be checked." },
+  "crop": {
+    "status": "ok",
+    "notes": "Clipping replaced after review (was no_crop); file on site: images/articles/image-218c.jpg. Not yet re-reviewed."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Transcript looks paraphrased and partial; it does not match the visible wording. Zoomed image shows the Allen line in column 4: Barrington, who had a passion for wearing dead men's clothes, 'took the utmost pride in his possession of Tom Allen's silk hat.' Most of the rest could not be checked."
+  },
   "about_tom": "yes",
-  "title": { "ok": false, "suggested": "Criminologist says Barrington, proud of Allen's silk hat, may be insane" },
-  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch printed a criminologist's view that \"Lord\" Barrington, accused of the McCann murder, acted like a lunatic, citing his passion for dead men's clothes and his pride in owning Tom Allen's silk hat." },
-  "focus": { "current": "", "suggested": "passing" },
-  "tags": ["Legacy"],
-  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "Masthead reads 'Sunday—St. Louis Post-Dispatch—July 19', year not legible at this size." },
+  "title": {
+    "ok": false,
+    "suggested": "Criminologist says Barrington, proud of Allen's silk hat, may be insane"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch printed a criminologist's view that \"Lord\" Barrington, accused of the McCann murder, acted like a lunatic, citing his passion for dead men's clothes and his pride in owning Tom Allen's silk hat."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "passing"
+  },
+  "tags": [
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Masthead reads 'Sunday—St. Louis Post-Dispatch—July 19', year not legible at this size."
+  },
   "facts": [
     {
       "fact": "After Allen's death, \"Lord\" Barrington, accused of the McCann murder, possessed and wore Tom Allen's silk hat in St. Louis",
       "date": "1903",
-      "people": ["\"Lord\" Barrington"],
-      "places": ["St. Louis"],
+      "people": [
+        "\"Lord\" Barrington"
+      ],
+      "places": [
+        "St. Louis"
+      ],
       "quote": "",
       "kind": "other",
       "confidence": "medium",

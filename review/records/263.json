@@ -1,14 +1,37 @@
 {
   "id": "263",
   "reviewed": "2026-11-04",
-  "crop": { "status": "ok", "notes": "Whole column 'Tales completed' (Robert L. Burnes, 'the bench warmer') with the photo 'Tom Taylor with trophy'. The column ends with an unrelated Henry Armstrong section, left out of the transcript." },
-  "ocr": { "status": "good", "notes": "Close to the image, with two omissions: 'and to a friend, Tillie Hartgrove' (name dropped) and 'it was discovered that he had gone the way of fighters up to this day' (shortened)." },
+  "crop": {
+    "status": "ok",
+    "notes": "Whole column 'Tales completed' (Robert L. Burnes, 'the bench warmer') with the photo 'Tom Taylor with trophy'. The column ends with an unrelated Henry Armstrong section, left out of the transcript."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Close to the image, with two omissions: 'and to a friend, Tillie Hartgrove' (name dropped) and 'it was discovered that he had gone the way of fighters up to this day' (shortened)."
+  },
   "about_tom": "yes",
-  "title": { "ok": true, "suggested": "" },
-  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat's Robert L. Burnes finished his weekend story on Tom Allen, writing that Allen quit boxing over the Queensberry rules, that his estate came to $278.35, and that his great-grandson holds his silver cup." },
-  "focus": { "current": "", "suggested": "primary" },
-  "tags": ["Legacy", "Personal life"],
-  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "Page header reads '2C St. Louis Globe-Democrat Tues. Apr. 4, 1978'." },
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat's Robert L. Burnes finished his weekend story on Tom Allen, writing that Allen quit boxing over the Queensberry rules, that his estate came to $278.35, and that his great-grandson holds his silver cup."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legacy",
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "Page header reads '2C St. Louis Globe-Democrat Tues. Apr. 4, 1978'."
+  },
   "facts": [
     {
       "fact": "Allen retired rather than fight under the Queensberry rules with gloves",
@@ -23,8 +46,13 @@
     {
       "fact": "Allen's daughter Mary, also called Polly, came to the United States with him and married Edward Taylor of St. Louis",
       "date": "",
-      "people": ["Mary (Polly) Allen Taylor", "Edward Taylor"],
-      "places": ["St. Louis"],
+      "people": [
+        "Mary (Polly) Allen Taylor",
+        "Edward Taylor"
+      ],
+      "places": [
+        "St. Louis"
+      ],
       "quote": "",
       "kind": "family",
       "confidence": "medium",
@@ -33,7 +61,10 @@
     {
       "fact": "Allen's will left everything to his daughter Polly Allen Taylor and to a friend, Tillie Hartgrove",
       "date": "1903",
-      "people": ["Polly Allen Taylor", "Tillie Hartgrove"],
+      "people": [
+        "Polly Allen Taylor",
+        "Tillie Hartgrove"
+      ],
       "places": [],
       "quote": "",
       "kind": "legal",
@@ -53,8 +84,13 @@
     {
       "fact": "Allen's silver cup went to Tillie Hartgrove after his death; it was later retrieved from a Market Street pawn shop in 1938 by the father of great-grandson Thomas Allen Taylor",
       "date": "1938",
-      "people": ["Tillie Hartgrove", "Thomas Allen Taylor"],
-      "places": ["Market Street, St. Louis"],
+      "people": [
+        "Tillie Hartgrove",
+        "Thomas Allen Taylor"
+      ],
+      "places": [
+        "Market Street, St. Louis"
+      ],
       "quote": "",
       "kind": "other",
       "confidence": "medium",

@@ -697,7 +697,7 @@
       "date": "1920-10-26"
     },
     "239": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1924-02-10"
     },
@@ -732,7 +732,7 @@
       "date": "1933-07-29"
     },
     "246": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1934-06-15"
     },
@@ -1157,7 +1157,7 @@
       "date": "1869-06-30"
     },
     "332": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "mention",
       "date": "1869-07-01"
     },
@@ -1307,7 +1307,7 @@
       "date": "1869-08-26"
     },
     "362": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "mention",
       "date": "1869-08-28"
     },
@@ -2907,7 +2907,7 @@
       "date": "1883-01-26"
     },
     "683": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "mention",
       "date": "1883-01-26"
     },

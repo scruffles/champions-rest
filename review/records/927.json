@@ -1,20 +1,48 @@
 {
   "id": "927",
   "reviewed": "2026-11-04",
-  "crop": { "status": "ok", "notes": "Continuation of the 'Experts Talk of Boxing and Bull Fighting' article (the opening is article 926). Crop-1 is Tom Allen's comments; crops 2-4 are Dutch Neal's long description of a bull fight, ending with the article." },
-  "ocr": { "status": "rough", "notes": "Gist readable but many character errors throughout (e.g. 'Jim All' for Jim 'All, 'Johnnell', capitalisation noise in the Neal section)." },
+  "crop": {
+    "status": "ok",
+    "notes": "Continuation of the 'Experts Talk of Boxing and Bull Fighting' article (the opening is article 926). Crop-1 is Tom Allen's comments; crops 2-4 are Dutch Neal's long description of a bull fight, ending with the article."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Gist readable but many character errors throughout (e.g. 'Jim All' for Jim 'All, 'Johnnell', capitalisation noise in the Neal section)."
+  },
   "about_tom": "yes",
-  "title": { "ok": true, "suggested": "" },
-  "summary": { "ok": false, "suggested": "The St. Louis Republic quoted Tom Allen saying he would rather visit a slaughterhouse than see a bull fight, and that he had planned to go to the Maher-Fitzsimmons fight until Jim Hall warned him off." },
-  "focus": { "current": "secondary", "suggested": "secondary" },
-  "tags": ["Profiles"],
-  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Same page as 926: The Republic, St. Louis, Tuesday Morning, February 18, 1896, page 5." },
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic quoted Tom Allen saying he would rather visit a slaughterhouse than see a bull fight, and that he had planned to go to the Maher-Fitzsimmons fight until Jim Hall warned him off."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Same page as 926: The Republic, St. Louis, Tuesday Morning, February 18, 1896, page 5."
+  },
   "facts": [
     {
       "fact": "Allen said he had meant to travel to see the Maher-Fitzsimmons fight but stayed home after Jim Hall wrote warning him it would be a repeat of the Hot Springs fiasco",
       "date": "1896-02",
-      "people": ["Jim Hall", "Peter Maher", "Bob Fitzsimmons"],
-      "places": ["St. Louis", "Hot Springs"],
+      "people": [
+        "Jim Hall",
+        "Peter Maher",
+        "Bob Fitzsimmons"
+      ],
+      "places": [
+        "St. Louis",
+        "Hot Springs"
+      ],
       "quote": "I was goin' down to see the fights, but Jim 'All wrote me an' said I would be a sucker to put up me coin an' take chances on gettin' th' same deal that was put up at 'Ot Springs. I'm glad I stayed 'ome now",
       "kind": "quote",
       "confidence": "high",
@@ -24,7 +52,9 @@
       "fact": "Allen condemned bull fighting and contrasted the old fighters with the newspaper fighting of 1896",
       "date": "1896-02",
       "people": [],
-      "places": ["Mexico"],
+      "places": [
+        "Mexico"
+      ],
       "quote": "Blow me if I wouldn't rawther go out to the slaughter 'ouse on killin' day than see one of the bull fights they 'ave down there ... We wanted to fight. Th' bloody papers do all the fightin' now, instead of th' fighters doin' it.",
       "kind": "quote",
       "confidence": "high",

@@ -1,14 +1,38 @@
 {
   "id": "240",
   "reviewed": "2026-11-04",
-  "crop": { "status": "ok", "notes": "the 'It Has Been Done' item from Gray's Column, complete" },
-  "ocr": { "status": "good", "notes": "" },
+  "crop": {
+    "status": "ok",
+    "notes": "the 'It Has Been Done' item from Gray's Column, complete"
+  },
+  "ocr": {
+    "status": "good",
+    "notes": ""
+  },
   "about_tom": "yes",
-  "title": { "ok": true, "suggested": "" },
-  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch noted that Tom Allen, longtime keeper of the Champion's Rest saloon, had regained a lost heavyweight title, and that his fights with Mike McCoole led to Missouri's 1873 law making prize fighting a felony." },
-  "focus": { "current": "", "suggested": "primary" },
-  "tags": ["Fights", "Saloon", "Legacy"],
-  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "no page image; masthead not visible, date and paper unconfirmed" },
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch noted that Tom Allen, longtime keeper of the Champion's Rest saloon, had regained a lost heavyweight title, and that his fights with Mike McCoole led to Missouri's 1873 law making prize fighting a felony."
+  },
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Saloon",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "no page image; masthead not visible, date and paper unconfirmed"
+  },
   "facts": [
     {
       "fact": "Allen regained the heavyweight title after losing it, the only heavyweight to do so before 1927",
@@ -24,7 +48,9 @@
       "fact": "Allen ran the Champion's Rest saloon in St. Louis for many years, up to his death",
       "date": "",
       "people": [],
-      "places": ["St. Louis"],
+      "places": [
+        "St. Louis"
+      ],
       "quote": "",
       "kind": "saloon",
       "confidence": "high",
@@ -33,8 +59,13 @@
     {
       "fact": "Allen's fights with Mike McCoole near St. Louis led indirectly to the 1873 Missouri statute making prize fighting a felony, which held for fifty years",
       "date": "1873",
-      "people": ["Mike McCoole"],
-      "places": ["St. Louis", "Missouri"],
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "St. Louis",
+        "Missouri"
+      ],
       "quote": "",
       "kind": "legal",
       "confidence": "medium",

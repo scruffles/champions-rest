@@ -35,8 +35,12 @@
     {
       "fact": "The building commissioner condemned the buildings on the north side of Market Street between Sixth and Seventh, including Allen's \"Champion's Rest\" a few doors east of Danny Daly's place, so the saloon keepers had to find new quarters",
       "date": "1901-01",
-      "people": ["Danny Daly"],
-      "places": ["Market Street between Sixth and Seventh, St. Louis"],
+      "people": [
+        "Danny Daly"
+      ],
+      "places": [
+        "Market Street between Sixth and Seventh, St. Louis"
+      ],
       "quote": "",
       "kind": "saloon",
       "confidence": "medium",

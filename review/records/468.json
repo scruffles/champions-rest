@@ -1,19 +1,45 @@
 {
   "id": "468",
   "reviewed": "2026-11-04",
-  "crop": { "status": "cut_off", "notes": "First column of page 8, 'Mangled McCoole (Continued from Fifth Page)': the handshake and rounds one to seven, ending mid-sentence at 'Thus ended at once the most and the least re-'. The rest, including 'After the Battle' about Allen's place, is in the second column and not in the clipping." },
-  "ocr": { "status": "good", "notes": "readable, minor errors" },
+  "crop": {
+    "status": "cut_off",
+    "notes": "First column of page 8, 'Mangled McCoole (Continued from Fifth Page)': the handshake and rounds one to seven, ending mid-sentence at 'Thus ended at once the most and the least re-'. The rest, including 'After the Battle' about Allen's place, is in the second column and not in the clipping."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "readable, minor errors"
+  },
   "about_tom": "yes",
-  "title": { "ok": false, "suggested": "Round by round: Allen beats McCoole in seven rounds" },
-  "summary": { "ok": false, "suggested": "The Missouri Republican gave a round-by-round account of Tom Allen's victory over Mike McCoole, ending in the seventh round when McCoole's second Tom Kelly threw up the sponge as Allen taunted the badly cut McCoole." },
-  "focus": { "current": "secondary", "suggested": "primary" },
-  "tags": ["Fights"],
-  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head reads 'The Missouri Republican, St. Louis, Wednesday, Septe[mber] 24, 1873'. Not the St. Louis Republic (from 1888)." },
+  "title": {
+    "ok": false,
+    "suggested": "Round by round: Allen beats McCoole in seven rounds"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican gave a round-by-round account of Tom Allen's victory over Mike McCoole, ending in the seventh round when McCoole's second Tom Kelly threw up the sponge as Allen taunted the badly cut McCoole."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Running head reads 'The Missouri Republican, St. Louis, Wednesday, Septe[mber] 24, 1873'. Not the St. Louis Republic (from 1888)."
+  },
   "facts": [
     {
       "fact": "Allen beat Mike McCoole in seven rounds on September 23, 1873, with Jack Looney as referee; McCoole's second Tom Kelly threw up the sponge",
       "date": "1873-09-23",
-      "people": ["Mike McCoole", "Jack Looney", "Tom Kelly"],
+      "people": [
+        "Mike McCoole",
+        "Jack Looney",
+        "Tom Kelly"
+      ],
       "places": [],
       "quote": "",
       "kind": "fight",
@@ -23,7 +49,9 @@
     {
       "fact": "In the sixth round Allen told McCoole it was their last fight",
       "date": "1873-09-23",
-      "people": ["Mike McCoole"],
+      "people": [
+        "Mike McCoole"
+      ],
       "places": [],
       "quote": "This is our last fight, Mike.",
       "kind": "quote",
@@ -33,7 +61,10 @@
     {
       "fact": "In the seventh round Allen asked McCoole's second Tom Kelly to stop the fight",
       "date": "1873-09-23",
-      "people": ["Tom Kelly", "Mike McCoole"],
+      "people": [
+        "Tom Kelly",
+        "Mike McCoole"
+      ],
       "places": [],
       "quote": "Tom, it's a bloody shame to put such a man as this up before me. Take him out of the ring. I don't want to punish him any more.",
       "kind": "quote",

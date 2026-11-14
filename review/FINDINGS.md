@@ -2,6 +2,16 @@
 
 Cross-article findings to resolve when merging records into the data. Per-article follow-ups (new screenshots, re-crops, transcription) are in `ISSUES.md`, generated with `npm run review -- issues`.
 
+## Resolved (2026-11-14)
+
+Items below are done. Their lines further down are kept as the record of what the review found.
+
+- Removed as not about Allen: 232, 233, 998, 614, 780, 901.
+- Removed as duplicates: 237 (of 236), 328 (of 329), 428 (of 427), 518 (of 517), 549 (of 548), 609, 622 (heading only), 646 (of 645), 688 (header now in 689), 778 (of 777), 834 (of 833), 958 (of 959), 1001 (of 1000), 1008 (exact copy of 1007).
+- Kept: 779 (passing mention of Allen), 900, 055 (the Free and Easy ad, now with its crop and transcript).
+- Re-cropped and on the site: 105 (`image-105c.jpg`), 615 (`image-615c.jpg`), 621 (`image-621c.jpg`), 689 (`image-689c.jpg`), 088, 218, 240, 250, 242 (two pages).
+- Gallagher 1869-08-17 and the fact conflicts are still open (see the backlog).
+
 ## Data decisions
 
 - **Paper names**: file articles under the paper's name at the time. About 350 articles carry a later name: Globe-Democrat before May 1875 (150, really the Daily Missouri Democrat), Post-Dispatch before Dec 1878 (65), St. Louis Republic before 1888 (138, really the Missouri Republican). Rename in bulk by date at merge; reviewers confirm edge cases.

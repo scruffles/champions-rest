@@ -1,19 +1,44 @@
 {
   "id": "248",
   "reviewed": "2026-11-04",
-  "crop": { "status": "ok", "notes": "Continuation of Wray's Column from page one; the 'In Bare Knuckle Days' section about Allen is complete across both pieces." },
-  "ocr": { "status": "rough", "notes": "Transcript skips the opening of the Allen section (Allen defeating McCoole on an island opposite St. Louis; first fight where the crowd broke in and the intimidated referee gave McCoole the win on a foul) and merges sentences, so it reads as if Allen regained the title from the crowd. Also omits the Boston racing section, 'Will Max Set a Record?' opening, Allen's height/weight paragraph and the closing paragraph. What is transcribed is accurate." },
+  "crop": {
+    "status": "ok",
+    "notes": "Continuation of Wray's Column from page one; the 'In Bare Knuckle Days' section about Allen is complete across both pieces."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Transcript skips the opening of the Allen section (Allen defeating McCoole on an island opposite St. Louis; first fight where the crowd broke in and the intimidated referee gave McCoole the win on a foul) and merges sentences, so it reads as if Allen regained the title from the crowd. Also omits the Boston racing section, 'Will Max Set a Record?' opening, Allen's height/weight paragraph and the closing paragraph. What is transcribed is accurate."
+  },
   "about_tom": "yes",
-  "title": { "ok": false, "suggested": "Wray's Column: Allen regained the title from McCoole in St. Louis" },
-  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch recalled that Tom Allen regained the championship by beating Mike McCoole on a Mississippi island opposite St. Louis, after losing their first fight on a foul when the crowd intimidated the referee." },
-  "focus": { "current": "secondary", "suggested": "secondary" },
-  "tags": ["Fights", "Legacy"],
-  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Post-Dispatch", "notes": "No page image; masthead not checked." },
+  "title": {
+    "ok": false,
+    "suggested": "Wray's Column: Allen regained the title from McCoole in St. Louis"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch recalled that Tom Allen regained the championship by beating Mike McCoole on a Mississippi island opposite St. Louis, after losing their first fight on a foul when the crowd intimidated the referee."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Fights",
+    "Legacy"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "No page image; masthead not checked."
+  },
   "facts": [
     {
       "fact": "In their first fight Allen was beating Mike McCoole when the crowd broke into the ring and the intimidated referee declared McCoole the winner on a foul; McCoole then claimed the title",
       "date": "1869",
-      "people": ["Mike McCoole"],
+      "people": [
+        "Mike McCoole"
+      ],
       "places": [],
       "quote": "",
       "kind": "fight",
@@ -23,8 +48,12 @@
     {
       "fact": "Allen easily defeated Mike McCoole in a return match advertised as a championship fight, held on an island in the Mississippi opposite St. Louis, regaining the championship",
       "date": "1873",
-      "people": ["Mike McCoole"],
-      "places": ["Island in the Mississippi opposite St. Louis"],
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "Island in the Mississippi opposite St. Louis"
+      ],
       "quote": "",
       "kind": "fight",
       "confidence": "medium",
@@ -33,8 +62,12 @@
     {
       "fact": "Before leaving England to settle in St. Louis, Allen fought a 35-round draw with Joe Goss",
       "date": "",
-      "people": ["Joe Goss"],
-      "places": ["England"],
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
       "quote": "",
       "kind": "fight",
       "confidence": "medium",
@@ -43,8 +76,12 @@
     {
       "fact": "Allen lost all claim to the title when Joe Goss beat him on a foul after 29 rounds in Kentucky",
       "date": "1876",
-      "people": ["Joe Goss"],
-      "places": ["Kentucky"],
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Kentucky"
+      ],
       "quote": "",
       "kind": "fight",
       "confidence": "medium",

@@ -1,20 +1,45 @@
 {
   "id": "523",
   "reviewed": "2026-11-04",
-  "crop": { "status": "ok", "notes": "" },
-  "ocr": { "status": "good", "notes": "" },
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": ""
+  },
   "about_tom": "yes",
-  "title": { "ok": false, "suggested": "Allen Denies Challenging Jem Mace" },
-  "summary": { "ok": false, "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, found at the Champion's Rest on Washington Avenue, dismissed reports that Jem Mace had accepted his challenge as a New York scheme and repeated that he had retired from the ring." },
-  "focus": { "current": "secondary", "suggested": "primary" },
-  "tags": ["Challenges", "Saloon"],
-  "metadata": { "date_ok": true, "publication_ok": true, "publication": "St. Louis Globe-Democrat", "notes": "masthead: St. Louis Daily Globe-Democrat, Monday Morning, July 19, 1875" },
+  "title": {
+    "ok": false,
+    "suggested": "Allen Denies Challenging Jem Mace"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, found at the Champion's Rest on Washington Avenue, dismissed reports that Jem Mace had accepted his challenge as a New York scheme and repeated that he had retired from the ring."
+  },
+  "focus": {
+    "current": "secondary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges",
+    "Saloon"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "publication": "St. Louis Globe-Democrat",
+    "notes": "masthead: St. Louis Daily Globe-Democrat, Monday Morning, July 19, 1875"
+  },
   "facts": [
     {
       "fact": "Allen's saloon on Washington Avenue was called the \"Champion's Rest\"",
       "date": "1875-07-18",
       "people": [],
-      "places": ["Champion's Rest, Washington Avenue, St. Louis"],
+      "places": [
+        "Champion's Rest, Washington Avenue, St. Louis"
+      ],
       "quote": "",
       "kind": "saloon",
       "confidence": "high",
@@ -23,8 +48,12 @@
     {
       "fact": "Allen denied reports that he had challenged Jem Mace and that Mace had accepted, saying he would never again enter the ring",
       "date": "1875-07-18",
-      "people": ["Jem Mace"],
-      "places": ["St. Louis"],
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "St. Louis"
+      ],
       "quote": "",
       "kind": "challenge",
       "confidence": "high",
@@ -33,7 +62,9 @@
     {
       "fact": "Ned O'Baldwin wanted Allen to tour the country with him giving sparring exhibitions; Allen declined",
       "date": "1875-07",
-      "people": ["Ned O'Baldwin"],
+      "people": [
+        "Ned O'Baldwin"
+      ],
       "places": [],
       "quote": "",
       "kind": "exhibition",

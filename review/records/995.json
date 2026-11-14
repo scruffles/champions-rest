@@ -35,7 +35,9 @@
     {
       "fact": "Jem Mace fought Allen during a tour of America about thirty years earlier",
       "date": "1870",
-      "people": ["Jem Mace"],
+      "people": [
+        "Jem Mace"
+      ],
       "places": [],
       "quote": "",
       "kind": "fight",

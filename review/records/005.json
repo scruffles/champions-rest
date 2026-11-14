@@ -1,16 +1,30 @@
 {
   "id": "005",
   "reviewed": "2026-11-04",
-  "crop": { "status": "mixed", "notes": "The clipping is the whole 'PERSONAL AND NEWS' column of unrelated items; only the highlighted paragraph beginning 'Tom Allen, the pugilist, was arrested in Cleveland' (in crop-1) is about Allen." },
-  "ocr": { "status": "good", "notes": "The Allen paragraph matches the image exactly." },
+  "crop": {
+    "status": "mixed",
+    "notes": "The clipping is the whole 'PERSONAL AND NEWS' column of unrelated items; only the highlighted paragraph beginning 'Tom Allen, the pugilist, was arrested in Cleveland' (in crop-1) is about Allen."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "The Allen paragraph matches the image exactly."
+  },
   "about_tom": "yes",
-  "title": { "ok": false, "suggested": "Allen Arrested in Cleveland for Training" },
+  "title": {
+    "ok": false,
+    "suggested": "Allen Arrested in Cleveland for Training"
+  },
   "summary": {
     "ok": false,
     "suggested": "The Missouri Republican reported that Tom Allen was arrested in Cleveland for violating the prize-fighting laws, but the court ruled that training for a prize fight was not illegal and discharged him."
   },
-  "focus": { "current": "", "suggested": "primary" },
-  "tags": ["Legal"],
+  "focus": {
+    "current": "",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Legal"
+  ],
   "metadata": {
     "date_ok": true,
     "publication_ok": false,
@@ -22,7 +36,9 @@
       "fact": "Allen was arrested in Cleveland, charged with violating the prize-fighting laws; the court held that training for a prize fight did not break Ohio law and discharged him",
       "date": "1868-12",
       "people": [],
-      "places": ["Cleveland, Ohio"],
+      "places": [
+        "Cleveland, Ohio"
+      ],
       "quote": "",
       "kind": "legal",
       "confidence": "high",

@@ -1,20 +1,47 @@
 {
   "id": "304",
   "reviewed": "2026-11-04",
-  "crop": { "status": "cut_off", "notes": "Only the first column of the 'Fistiana' report: headlines, the men, the start, the ring and rules 1-4. It ends mid-rule 5; the article continues in the next columns (rounds 1-24 are not clipped) and ends in article 303's clipping." },
-  "ocr": { "status": "rough", "notes": "Headlines and most of the text readable; the Reddish family and rules sections are badly garbled." },
+  "crop": {
+    "status": "cut_off",
+    "notes": "Only the first column of the 'Fistiana' report: headlines, the men, the start, the ring and rules 1-4. It ends mid-rule 5; the article continues in the next columns (rounds 1-24 are not clipped) and ends in article 303's clipping."
+  },
+  "ocr": {
+    "status": "rough",
+    "notes": "Headlines and most of the text readable; the Reddish family and rules sections are badly garbled."
+  },
   "about_tom": "yes",
-  "title": { "ok": true, "suggested": "" },
-  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat reported that Tom Allen beat Bill Davis for $1,000 in 43 rounds and 41 minutes on Chouteau Island near Rhodes' Point, his first fight in America, with profiles of both men." },
-  "focus": { "current": "primary", "suggested": "primary" },
-  "tags": ["Fights", "Profiles"],
-  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "Masthead reads 'Daily Democrat', Wednesday morning, Jan. 13, 1869. Before the 1875 merger, so not the Globe-Democrat." },
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat reported that Tom Allen beat Bill Davis for $1,000 in 43 rounds and 41 minutes on Chouteau Island near Rhodes' Point, his first fight in America, with profiles of both men."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights",
+    "Profiles"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "Masthead reads 'Daily Democrat', Wednesday morning, Jan. 13, 1869. Before the 1875 merger, so not the Globe-Democrat."
+  },
   "facts": [
     {
       "fact": "Allen beat Bill Davis for $1,000 in 43 rounds and 41 minutes on Chouteau Island near Rhodes' Point, about twelve miles above St. Louis, where McCoole and Davis had fought in 1866",
       "date": "1869-01-12",
-      "people": ["Bill Davis"],
-      "places": ["Chouteau Island, near Rhodes' Point, about 12 miles above St. Louis"],
+      "people": [
+        "Bill Davis"
+      ],
+      "places": [
+        "Chouteau Island, near Rhodes' Point, about 12 miles above St. Louis"
+      ],
       "quote": "",
       "kind": "fight",
       "confidence": "high",
@@ -24,7 +51,9 @@
       "fact": "The paper said Allen was born at Birmingham, England, in 1841 and was 28 years old",
       "date": "1841",
       "people": [],
-      "places": ["Birmingham, England"],
+      "places": [
+        "Birmingham, England"
+      ],
       "quote": "",
       "kind": "birth",
       "confidence": "medium",
@@ -34,7 +63,10 @@
       "fact": "Allen had been in America eighteen months, and the Davis fight was his first in America",
       "date": "1867-07",
       "people": [],
-      "places": ["England", "United States"],
+      "places": [
+        "England",
+        "United States"
+      ],
       "quote": "",
       "kind": "travel",
       "confidence": "high",
@@ -43,8 +75,20 @@
     {
       "fact": "In England Allen's principal fights were with Waggoner, White Clark, Tony Gould, Bingey Rose, J. Parkinson, P. Price, George Jils, Joe Goss and Bob Smith; Smith won, and Allen won most of the others",
       "date": "",
-      "people": ["Joe Goss", "Bob Smith", "Tony Gould", "Bingey Rose", "J. Parkinson", "P. Price", "George Jils", "Waggoner", "White Clark"],
-      "places": ["England"],
+      "people": [
+        "Joe Goss",
+        "Bob Smith",
+        "Tony Gould",
+        "Bingey Rose",
+        "J. Parkinson",
+        "P. Price",
+        "George Jils",
+        "Waggoner",
+        "White Clark"
+      ],
+      "places": [
+        "England"
+      ],
       "quote": "",
       "kind": "fight",
       "confidence": "high",
@@ -53,8 +97,12 @@
     {
       "fact": "Allen boarded the steamer Henry Adkins at Venice, Illinois, with his trainer Tom Kelley on the way to the fight",
       "date": "1869-01-12",
-      "people": ["Tom Kelley"],
-      "places": ["Venice, Illinois"],
+      "people": [
+        "Tom Kelley"
+      ],
+      "places": [
+        "Venice, Illinois"
+      ],
       "quote": "",
       "kind": "travel",
       "confidence": "high",

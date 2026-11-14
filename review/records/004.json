@@ -1,19 +1,30 @@
 {
   "id": "004",
   "reviewed": "2026-11-04",
-  "crop": { "status": "ok", "notes": "Whole article from the headline 'THE COMING PRIZE FIGHT. Attempt to Assassinate Bill Davis', plus the following 'PUGILISTIC' item on the same subject, to the end of the dog-fight line." },
+  "crop": {
+    "status": "ok",
+    "notes": "Whole article from the headline 'THE COMING PRIZE FIGHT. Attempt to Assassinate Bill Davis', plus the following 'PUGILISTIC' item on the same subject, to the end of the dog-fight line."
+  },
   "ocr": {
     "status": "good",
     "notes": "Matches the image closely; the 'PUGILISTIC.—' heading is omitted, and the image reads 'reduced 25 pounds' (not 26)."
   },
   "about_tom": "yes",
-  "title": { "ok": true, "suggested": "" },
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
   "summary": {
     "ok": false,
     "suggested": "The Missouri Republican reported that on Christmas night 1868 rowdies said to be Allen's backers attacked Bill Davis at Doyle's near the Fair Grounds, cutting his wrist with a knife, weeks before his fight with Tom Allen."
   },
-  "focus": { "current": "", "suggested": "secondary" },
-  "tags": ["Fights"],
+  "focus": {
+    "current": "",
+    "suggested": "secondary"
+  },
+  "tags": [
+    "Fights"
+  ],
   "metadata": {
     "date_ok": true,
     "publication_ok": false,
@@ -24,8 +35,12 @@
     {
       "fact": "Seven or eight rowdies said to be backers of Allen attacked Bill Davis at Doyle's, his training quarters near the Fair Grounds, on Christmas night; one drew a knife and cut Davis on the wrist",
       "date": "1868-12-25",
-      "people": ["Bill Davis"],
-      "places": ["Doyle's, near the Fair Grounds, St. Louis"],
+      "people": [
+        "Bill Davis"
+      ],
+      "places": [
+        "Doyle's, near the Fair Grounds, St. Louis"
+      ],
       "quote": "",
       "kind": "other",
       "confidence": "low",

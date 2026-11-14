@@ -1,20 +1,47 @@
 {
   "id": "427",
   "reviewed": "2026-11-04",
-  "crop": { "status": "ok", "notes": "" },
-  "ocr": { "status": "good", "notes": "a few words dropped in the first lines ('over ow', 'ring weeny some')" },
+  "crop": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "a few words dropped in the first lines ('over ow', 'ring weeny some')"
+  },
   "about_tom": "yes",
-  "title": { "ok": true, "suggested": "" },
-  "summary": { "ok": false, "suggested": "The Missouri Republican reported that Tom Allen, after his easy win over Gallagher, announced he had retired from the ring for good after seventeen fights and would ignore all further challenges." },
-  "focus": { "current": "primary", "suggested": "primary" },
-  "tags": ["Challenges", "Personal life"],
-  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Missouri Republican", "notes": "Running head: 'The Missouri Republican--St. Louis, November 8, 1870'." },
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Missouri Republican reported that Tom Allen, after his easy win over Gallagher, announced he had retired from the ring for good after seventeen fights and would ignore all further challenges."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Challenges",
+    "Personal life"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Missouri Republican",
+    "notes": "Running head: 'The Missouri Republican--St. Louis, November 8, 1870'."
+  },
   "facts": [
     {
       "fact": "After beating Gallagher, Allen announced he had retired from the ring altogether to settle down to his business and would take no notice of further challenges from any country",
       "date": "1870-11-07",
-      "people": ["J. C. Gallagher"],
-      "places": ["St. Louis"],
+      "people": [
+        "J. C. Gallagher"
+      ],
+      "places": [
+        "St. Louis"
+      ],
       "quote": "",
       "kind": "other",
       "confidence": "high",

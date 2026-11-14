@@ -35,8 +35,13 @@
     {
       "fact": "Joe Goss was declared the victor over Allen in a fight in Kentucky not far from Cincinnati; McCormick wrote that Allen had the best of it but purposely struck Goss three foul blows in the last round to save his own life",
       "date": "1876",
-      "people": ["Joe Goss", "Macon McCormick"],
-      "places": ["Kentucky, near Cincinnati"],
+      "people": [
+        "Joe Goss",
+        "Macon McCormick"
+      ],
+      "places": [
+        "Kentucky, near Cincinnati"
+      ],
       "quote": "",
       "kind": "fight",
       "confidence": "medium",
@@ -45,8 +50,14 @@
     {
       "fact": "McCormick claimed a gang including bank robber \"Red\" Leary and Johnny Dwyer meant to kill Allen if he beat Goss, saying Allen had given some of their pals away to the police in England",
       "date": "1876",
-      "people": ["\"Red\" Leary", "Johnny Dwyer", "Joe Goss"],
-      "places": ["England"],
+      "people": [
+        "\"Red\" Leary",
+        "Johnny Dwyer",
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
       "quote": "",
       "kind": "fight",
       "confidence": "low",
@@ -55,8 +66,12 @@
     {
       "fact": "Joe Goss had been imported from England especially to fight Allen",
       "date": "1876",
-      "people": ["Joe Goss"],
-      "places": ["England"],
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
       "quote": "",
       "kind": "fight",
       "confidence": "medium",

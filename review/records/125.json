@@ -1,20 +1,46 @@
 {
   "id": "125",
   "reviewed": "2026-11-04",
-  "crop": { "status": "ok", "notes": "Whole item, headline 'Tom Allen to Spar.' to the end." },
-  "ocr": { "status": "good", "notes": "Two errors: the image gives the date as February 29, not 28; transcript reads 'Pittsburgh' for 'Pittsburg'." },
+  "crop": {
+    "status": "ok",
+    "notes": "Whole item, headline 'Tom Allen to Spar.' to the end."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Two errors: the image gives the date as February 29, not 28; transcript reads 'Pittsburgh' for 'Pittsburg'."
+  },
   "about_tom": "yes",
-  "title": { "ok": true, "suggested": "" },
-  "summary": { "ok": false, "suggested": "The St. Louis Post-Dispatch reported that Tom Allen and Hugh McManus would spar four rounds as the wind-up of a benefit for Pittsburg pugilist Jack King at the Kelly Athletic Club on February 29." },
-  "focus": { "current": "primary", "suggested": "primary" },
-  "tags": ["Exhibitions"],
-  "metadata": { "date_ok": true, "publication_ok": true, "notes": "Masthead: St. Louis Post-Dispatch, Sunday, February 19, 1888, page 3." },
+  "title": {
+    "ok": true,
+    "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen and Hugh McManus would spar four rounds as the wind-up of a benefit for Pittsburg pugilist Jack King at the Kelly Athletic Club on February 29."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Exhibitions"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": true,
+    "notes": "Masthead: St. Louis Post-Dispatch, Sunday, February 19, 1888, page 3."
+  },
   "facts": [
     {
       "fact": "Allen was to spar four rounds with Hugh McManus as the wind-up of a benefit for Pittsburg pugilist Jack King at the Kelly Athletic Club",
       "date": "1888-02-29",
-      "people": ["Hugh McManus", "Jack King"],
-      "places": ["Kelly Athletic Club, St. Louis"],
+      "people": [
+        "Hugh McManus",
+        "Jack King"
+      ],
+      "places": [
+        "Kelly Athletic Club, St. Louis"
+      ],
       "quote": "",
       "kind": "exhibition",
       "confidence": "high",

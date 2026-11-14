@@ -1,20 +1,46 @@
 {
   "id": "323",
   "reviewed": "2026-11-04",
-  "crop": { "status": "cut_off", "notes": "The top headline is cut: the page shows 'THE PRIZE FIGHT!' above 'Allen Whips McCoole', and the clipping shows only the bottom half of 'Allen Whips McCoole'. The clipping also covers only the first two columns (the trip, the boarding, the island and the ring); the page shows the article continuing into the next column with the fight itself and the foul, which is not in the clipping." },
-  "ocr": { "status": "good", "notes": "Long text, mostly right with many small letter errors; the first headline line is missing from the transcript and the subheads are partly garbled." },
+  "crop": {
+    "status": "cut_off",
+    "notes": "The top headline is cut: the page shows 'THE PRIZE FIGHT!' above 'Allen Whips McCoole', and the clipping shows only the bottom half of 'Allen Whips McCoole'. The clipping also covers only the first two columns (the trip, the boarding, the island and the ring); the page shows the article continuing into the next column with the fight itself and the foul, which is not in the clipping."
+  },
+  "ocr": {
+    "status": "good",
+    "notes": "Long text, mostly right with many small letter errors; the first headline line is missing from the transcript and the subheads are partly garbled."
+  },
   "about_tom": "yes",
-  "title": { "ok": false, "suggested": "Allen Whips McCoole, but McCoole Wins on a Foul" },
-  "summary": { "ok": false, "suggested": "The Daily Missouri Democrat described the trip to Tom Allen's fight with Mike McCoole on Foster's Island, 26 miles from St. Louis, headlining that Allen whipped McCoole but the referee declared a foul and McCoole won the money." },
-  "focus": { "current": "primary", "suggested": "primary" },
-  "tags": ["Fights"],
-  "metadata": { "date_ok": true, "publication_ok": false, "publication": "Daily Missouri Democrat", "notes": "The masthead reads 'Daily Democrat. Wednesday Morning, June 16, 1869.' This is before the 1875 merger, so it is not the Globe-Democrat." },
+  "title": {
+    "ok": false,
+    "suggested": "Allen Whips McCoole, but McCoole Wins on a Foul"
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The Daily Missouri Democrat described the trip to Tom Allen's fight with Mike McCoole on Foster's Island, 26 miles from St. Louis, headlining that Allen whipped McCoole but the referee declared a foul and McCoole won the money."
+  },
+  "focus": {
+    "current": "primary",
+    "suggested": "primary"
+  },
+  "tags": [
+    "Fights"
+  ],
+  "metadata": {
+    "date_ok": true,
+    "publication_ok": false,
+    "publication": "Daily Missouri Democrat",
+    "notes": "The masthead reads 'Daily Democrat. Wednesday Morning, June 16, 1869.' This is before the 1875 merger, so it is not the Globe-Democrat."
+  },
   "facts": [
     {
       "fact": "Allen fought Mike McCoole on Foster's Island in the Mississippi, 26 miles below St. Louis; the paper headlined that Allen whipped McCoole but the referee declared a foul and McCoole won the money",
       "date": "1869-06-15",
-      "people": ["Mike McCoole"],
-      "places": ["Foster's Island, Mississippi River, 26 miles from St. Louis"],
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "Foster's Island, Mississippi River, 26 miles from St. Louis"
+      ],
       "quote": "",
       "kind": "fight",
       "confidence": "medium",
@@ -23,8 +49,12 @@
     {
       "fact": "Allen boarded the fight steamer Louisville off the Kingsland iron works with his trainer Sherman Thurston, in the skiff Lady Franklin",
       "date": "1869-06-15",
-      "people": ["Sherman Thurston"],
-      "places": ["Kingsland iron works, St. Louis"],
+      "people": [
+        "Sherman Thurston"
+      ],
+      "places": [
+        "Kingsland iron works, St. Louis"
+      ],
       "quote": "",
       "kind": "travel",
       "confidence": "high",
@@ -33,8 +63,12 @@
     {
       "fact": "Before the fight Allen said he weighed only 170 pounds against McCoole's 218, and that he had come to McCoole's own city to fight him",
       "date": "1869-06-15",
-      "people": ["Mike McCoole"],
-      "places": ["steamer Louisville"],
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "steamer Louisville"
+      ],
       "quote": "If I can stay till those get big I'll win. I want to whip him if I am the best man; I have given him every chance; I came here to his own place to fight him, and I ask no favors. But he can't win anyway. Yes, he is bigger; I weigh only 170; but then you will see.",
       "kind": "quote",
       "confidence": "high",
