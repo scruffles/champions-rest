@@ -7215,19 +7215,6 @@ export const db = [
   },
   {
     publication: "St. Louis Globe-Democrat",
-    sourceDate: "1878-11-24",
-    title: "Tom Allen News Item",
-    localCopyEdited: "images/articles/image-622.jpg",
-    localCopyFull: "images/articles/image-622b.jpg",
-    id: "622",
-    text: "| SPORTING SPICE.\n| a La ees\nThe Jockey Club Meeting, and Matters\nPertaining to the Turf\nTom Allen Anxious to Again Enter the\nAmerican Ring.\nTopics of Interest to the Base-Ball Fra-\nternity.\n——_— Se\nCurrent Chaff in Billiard Circles—Facts\nfor the Fancy.\n\nRumors to the contrary notwithstanding, all\nis now running smoothly with the 8t. Louis |\nJockey and Trotting Club. The programme |\nfor the spring meeting has been changed, in\nthat instead of a selling race purse for ull ages |\non the fourth day,a stake race has been anbsti-\ntuted for three-year-olds; S0e¢ntrance, half\nforfeit; $500 added; mile heats; $100 goes to the\nsecond borse. The St. Louis programme tsa\nliberal one, more money being given than at\nany meeting in the West or South, with the\nexception of that at Loulsvilie, which lasts one\nday longer, and where about $300 more money\nis given. The extra races which will be ar-\nranged during the spring meeting here will\nmore than compensate for this apparent dis-\ncrepancy. The added money more than equals\nthat at Baltimore, Lexington or Nashville, and\nin the. purse races no ontrance tea is charged,\nwhile 5 per cent is almost invariably the rule\nelsewhere. Tennessee turfmen especially have\npromised te be well represented at the coming\nmeeting.\n\nTHE LOUISVILLE SPRING MEETING.\n\nThé programme for the spring meeting of the\nLouisville reper | Club, commencing ey\nMay 20, and continaing i is —— A\nTh are forty-seven entrics for the ‘‘Ken-\ncmoky nos oY fifty-two for the gd\nOaks,\"’ and...",
-    summary: "SPORTING SPICE. The Jockey Club Meeting, and Matters Pertaining to the Turf.",
-    focus: "secondary",
-    tier: "2",
-    not_tom: false
-  },
-  {
-    publication: "St. Louis Globe-Democrat",
     sourceDate: "1878-12-29",
     title: "Tom Allen Issues Challenge to Fight",
     localCopyEdited: "images/articles/image-623.jpg",
@@ -8058,19 +8045,6 @@ export const db = [
     summary: "The St. Louis Globe-Democrat reported that Tom Allen sparred with Morris O'Connell at a benefit given for O'Connell by his friends at Tom Kelly's, with the old champion moving with ease and grace.",
     focus: "secondary",
     tier: "2",
-    not_tom: false
-  },
-  {
-    publication: "The St Louis Republic",
-    sourceDate: "1883-02-22",
-    title: "Ex-Champion Tom Allen Has Set-To with Morris O'Connell",
-    localCopyEdited: "images/articles/image-688.jpg",
-    localCopyFull: "images/articles/image-688b.jpg",
-    id: "688",
-    text: "LOUTDSY WOR VY Vavuvis\nSS\nEx-Champien Tom Allen Has a Set-To\nwith Morris O’ Connell,\n—————<\n\nLast evening one of the largest erowds of\nspectators that have attended the progressing\ntournament at Mr. Mussey’s parlors was\npresent at an early hourto witness the thir-\nteenth game which was between Wm. H. Cat-\nton, who played 509 points, and Louis Reed,\nwho played 325, as ‘against Gallagher’s 650.\nReed won the lead, enose the white ball ane\nmissed, tollowed by Catton with arun of 4,\nIn thesecendinning Reed made 19, but after\nthis there was nothing of interest until the\ntenth inning when Catcon made a run of 192,\nwhich gave him a fine lift in the matter of\ncovering up Reed’s odds, He began by getting\nthe ballsin the left lower corner at 8, but it\nwas not until he had reached 22 that he got\nthem properly adjusted, and then he started\nfor the right side rail, speedily increasing his\nrun to 44, turning the corner and going for\nthe upper ena rail. At 100 he was\nhalf way up and received great ap-\nDlause; at131 heturnedthe right upper cor-\nner to top rail, but didnot have the balis in\nfirst-cluss condition; at 155 the balls wereina\nstraigot diagonal line,the eue ball being on the\noutside; it was impossible to count except by\nmaking a bank to lett rail; this he successfully\naccomplished, butit split the balls up, but he\nkepton counting with many masses and\ndrives until be brought his run up to 192, thus\npiacing him withiu 14 points of his Opponent.\n\nReed followed with 7, having made one...",
-    summary: "The St. Louis Republic reported on an exhibition match between Tom Allen, the ex-champion, and Morris O'Connell at a beneficiary event, described as a tame sparring set-to.",
-    focus: "secondary",
-    tier: "1",
     not_tom: false
   },
   {
