@@ -3471,19 +3471,6 @@ export const db = [
   {
     publication: "The St Louis Republic",
     sourceDate: "1869-06-24",
-    title: "Editorial Urges Tom Allen to Abandon Prize Fighting",
-    localCopyEdited: "images/articles/image-328.jpg",
-    localCopyFull: "images/articles/image-328b.jpg",
-    id: "328",
-    text: "A Piece of Advice to Tom Allen.\n\nWe observe that certzin parties are basi\ngeged in striving to bring about a re\nof the fight betweem Alien and MeCoole\nare certainly laboring with a zeal wor\n3 nobler cause. These efforts are mm\nthe sake of “seeing fair play” or settling the qr\nasto “who isthe best man,” but simply to\nanother battle with all its sensational accor\nments and disgraeeful surroundings. We ho\nmovers in this miserable business will fail, an\nthe fight will be indefinitely postpened. The\nhave had enongh and more than enough of\nready, and the two gladiators wil! earn the gra\nof the decent portion of the community if th\namicably divide the stakes and drop the subje\n\nWhich view of the case leads us to give Tom\na piece of advice gratis. His conduct in thi:\nhas been as manly and honorable as anythin\nnected with prize-tighting can be. He has\nhimeelf the better man of the two in mor\nthan one, and thereby earned the goo! will «\nsons whose good will is worth having. Allen\nto be satistied from his recent expesience that\ning for money dees not pay, and that the ri\nsunk so low that no amount of courage and\ncan elevate it into decency. Therefore letjhix\nhis back upon it, and wash his hands of the |\nsion forever. Let him dispose of his saloon, a\nhimself, so far as possible, of the associations\nhave heretofore surrounded him. His acknow\nskill as a scientific master of “the manly art c\ndefence” will insure him more pupils than }\nattend to if he will opena genteel sparring :\nwith or...",
-    summary: "The St. Louis Republic published an editorial advising Tom Allen to retire from prize fighting and open a genteel sparring academy, praising his conduct but urging him to distance himself from the disreputable sport.",
-    focus: "primary",
-    tier: "2",
-    not_tom: false
-  },
-  {
-    publication: "The St Louis Republic",
-    sourceDate: "1869-06-24",
     title: "Tom Allen Fights McCoole",
     localCopyEdited: "images/articles/image-329.jpg",
     localCopyFull: "images/articles/image-329b.jpg",
@@ -5935,19 +5922,6 @@ export const db = [
     tags: ["Fights", "Profiles"]
   },
   {
-    publication: "St. Louis Post-Dispatch",
-    sourceDate: "1875-03-23",
-    title: "Tom Allen News Item",
-    localCopyEdited: "images/articles/image-518.jpg",
-    localCopyFull: "images/articles/image-518b.jpg",
-    id: "518",
-    text: "e Interesting Remniscences of\n> Prize Rinc, and a Little Grata-\nus Information forthe Dutler whe\nfites Sportins Notes for the fe-\nLiican.\n\nSr. Louie, March 33, ist.\nruk Epirer—My aiteniion has been\nto an article ia the Republican, about\nh I wish to inake a few remarks.\n\ne person who wiote the article must\ny be a stranger to the history of prize\nprs. { have febght some of tae long-\naftlesef any man in the world, as my\na will snow. I will here mention a\nfichts. Ckarlie Gailagher and Bill\n~foughtone bour and fifty miautes,\ncher und Elfictt fought one hour and\n¥ minutes apd both men were\ng at the finish. MeCoole asd\nWn fousht sixty-seven rounds\nne bour and twenty minutes. Now\n2men did vot tust above twenty min-\nwhes they met me, and I suppose that\nny | cannot stand a long fizat.\nuf as regards my iizhts in Engiand. my\ntds will show that I stand unrivaled as\nspien of the middie weights. I have\nlit nineteen batules in the ring, and I\nfouebt for wore money than any man\ng. My Ijast five fights in Eogland\ne With Posh l'rive and George Lies,\nformer lasting two hours and five\nites and ile latter two hovers. And my\nWith Bob Smith (the black lasted three\n‘s, und niy last tient with Joe Go-s was\nhour ard fifty-seven minutes, when\nness ceme on: the next morning the\nors sdvised us to agree to a draw which\ntid- J baye mere!s msad> mention af\ne facts toeniighten this woul:!-be-re-\ncrof sporting articles. Aad speaking\nLis, Reoke whois seeking for fame—\nreperter has made & grand mistake\nbe fght...",
-    summary: "A CARDIROM TOM ALLEN St. Louis Post-Dispatch, 1875-03-23.",
-    focus: "passing",
-    tier: "2",
-    not_tom: false
-  },
-  {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1875-04-07",
     title: "Tom Allen Accepts Ben Hogan's Fight Challenge",
@@ -6333,19 +6307,6 @@ export const db = [
     id: "548",
     text: "Goss and Tom. Allen.\n[From the Cincinnati Commercial.]\n\nThere is a probability now that Tom. Allen\nand Joe Goss will face each other In a 24-foot\ninciosure, this coming summer, some time.\nGoss has written to this city his willingness\nto fight Allen, and a forfeit of $500 has been\nputup for him atthe Empire saloon, in the\nhands of Eph. Holland. We have reason to\nbelieve that this will be promptly covered, for\nAllen has expressed his hope that the tight\nmight be brought about, and his implicit\nfaith in his ability to whip Goss. In Eng-\nland, ten years ago, Allen fought Goss to a\ndraw (darkness intervening) and worsted\nhim badly. Goss and Maer are now sparring\nin New Yorkin ashow. Goss also is conti-\ndent that he will win, if they come to blows.\nOf course, no arrangements will be made un-\ntil the money shall be up on both sides. Then\nplace and date will be determined.",
     summary: "The St. Louis Republic reported that Joe Goss was willing to fight Tom Allen for the championship, with a $500 forfeit posted at an Empire saloon by Eph Holland.",
-    focus: "secondary",
-    tier: "2",
-    not_tom: false
-  },
-  {
-    publication: "The St. Louis Republic",
-    sourceDate: "1876-05-01",
-    title: "Tom Allen willing to fight Joe Goss for summer match",
-    localCopyEdited: "images/articles/image-549.jpg",
-    localCopyFull: "images/articles/image-549b.jpg",
-    id: "549",
-    text: "ss and Tom. Allen.\nthe Cincinnati Commer:\nprobability now that Ty\ns will face each other In\niis coming summer, sc\nitten to this city his wv\n1, and a forfeit of $500\nim atthe Empire salo\n1. Holland. We have\nthis will be promptly co\npressed his hope that\nrought about, and hi\nsability to whip Goss.\nirsago, Allen fought\nness intervening) and\nGoss and Maer are nov\n(inaushow. Goss also\nwill win, if they come 1\n0 arrangements will be\ny shall be up on both si\nte will be determined.\n> aS ee ee",
-    summary: "The St. Louis Republic reported that Tom Allen had expressed willingness to fight Joe Goss during the coming summer, with a forfeit placed at a local saloon to arrange the encounter.",
     focus: "secondary",
     tier: "2",
     not_tom: false
@@ -7600,19 +7561,6 @@ export const db = [
     text: ": The Modocs.\n\n_A committes, eonsisting of J. A. St. John,\nHarry Assman, and Jac Stumpf, of the Modoc\nOlub, weré appointed to visit Creve Cour Luke\nJast Tuesday, and examine the boats belong-\ning to the society. Through some misunder-\nene te they lost the morning train to Creve\n\nur, but they were bound bag) there, and,\ntaking the Pucifie Express to hivkwood, they\nulked from there over to the luke, a distance\n\n‘fourteen miles. Considering the fect that\n\nne-titird of the distunce was over a rough~\n\nad and the balance over railroad ties, it was\na ety a 4 once expresaed it, ‘‘quile a xood\ndie,’’ The time occupied was 3s hours.\n\nTom Allen Terribly Handled.\n| Private advices from Birmingham, England,\nstute that Tom Allen, ex-championof America,\nwho had his home in this city for a number of\nyears, bas ‘*gone tothe doga.’’ Dissipation,\nit is suid, made him a wreck of his former self,\nand the property that he sccumulated on this\nside of the Atlantic has taken wing and van-\nished. Just before the letter containing the\nwsbove infermation was written, Allen bad been\ngitecked by wu mob of roughs at Cork, and so\nGadly cut and bruised that this lie was\nsapeten of. It was alleged that ‘‘welching'*\non the part of the ex-pugilist was the direct\nCause 0: the assault that resulted so, seriously.",
     summary: "St. Louis Globe-Democrat reported from private advices from England that Tom Allen, the ex-champion, had been attacked by a mob of roughs at Cork and badly injured.",
     focus: "primary",
-    tier: "1",
-    not_tom: false
-  },
-  {
-    publication: "St. Louis Globe-Democrat",
-    sourceDate: "1882-01-28",
-    title: "Tom Allen Reported Terribly Handled in Cork",
-    localCopyEdited: "images/articles/image-646.jpg",
-    localCopyFull: "images/articles/image-646b.jpg",
-    id: "646",
-    text: "fhe alt Ut THE OAR. -\n|\nNext Week the Executive Committee of the M.\nVY. ALR. A. Will Meet in Chicago. ©\n| 1\n&t. John, of the Modocs, Says the Regatta Will be\ni Held Here—Tom Allen, the Yoteran Pugilist,\ntl Terribly Handled—The Bostou Team and\nthe Pitladelphia Clabs—Other\n_ Sporting Matiers.\nre\n| The boating fraternity are jnst now interest-\n4d in the meeting of the Executive Committce\nof the Missisvippi Valley Amateur Rowing As-\nsocintion, which is to be held in Ohbicago® dur-\n_ ing the first weekin February. At that meet-\nfog the place for the holding of the next year’s\nregatta will be decided upon. - The regattas of\nthe past four years have been held at Peorin,\nKeokuk, Moline and Peoria. The last meeting\nbe Peoriu did not prove the success the first\nid, land ft was then decided that\nthe next regatta should be held\nat a larger city, either St. Louis\n+ Peg PYsident 8t. John, of the Mo-\nos, says that if be receives sufficient en-\nSreuee Terie it ee WWE ay 4 hr api regatta\n* e . . - - . com\nGerenty ior clubs, representing ah the\nromingnt cities on the Mississippi River from\nf. Paul to New Orleans, as weli as the cities of\niar), Toledo, Milwaukee and Peoria, Their\na age |e been witnessed by tens of thoa-\nsands of people, and there is not an event that\ncould take plaice in St. Louis that would at-\nainge dp wrate tt on number of well-to-do gentle-\nmen than one of these meetings of the boating\nmen. As the bulk of the work ot arranging for\nthe regatta here would have to be done\nby...",
-    summary: "The St. Louis Globe-Democrat reported that Tom Allen, ex-champion of America, had gone to England where he was attacked by a mob of roughs at Cork and badly cut and bruised.",
-    focus: "passing",
     tier: "1",
     not_tom: false
   },
@@ -10020,19 +9968,6 @@ export const db = [
     not_tom: false
   },
   {
-    publication: "St. Louis Globe-Democrat",
-    sourceDate: "1892-01-30",
-    title: "Tom Allen's Market street concert venue noted",
-    localCopyEdited: "images/articles/image-834.jpg",
-    localCopyFull: "images/articles/image-834b.jpg",
-    id: "834",
-    text: "1h Sporting Notes.\n\nTom ALLEN, retired champion pugilist of the\nworld, 619 Market street.| Free concert every\nevening. Best of singers only engaged here,\n\nAll ee eh a ie es a",
-    summary: "The St. Louis Globe-Democrat mentioned Tom Allen, retired heavyweight champion, operating his concert house on Market street.",
-    focus: "passing",
-    tier: "2",
-    not_tom: false
-  },
-  {
     publication: "St. Louis Post-Dispatch",
     sourceDate: "1892-02-28",
     title: "Tom Allen Departs for Major Prize Fights in New Orleans",
@@ -11624,19 +11559,6 @@ export const db = [
   {
     publication: "The St. Louis Republic",
     sourceDate: "1897-04-28",
-    title: "Tom Allen arrested for firing revolver near saloon",
-    localCopyEdited: "images/articles/image-958.jpg",
-    localCopyFull: "images/articles/image-958b.jpg",
-    id: "958",
-    text: "Tom Allen Arrested.\nIl be tried by Judge Peabc\nSS. LS97.—506\nShoes | CRA\nMM. | KE $3:\n\nand|* A F\n’\n\ni Bar\n\nj ax fa\ni aa\n| us\n\n| ———\nEK ewe\n=",
-    summary: "The St. Louis Republic reported Tom Allen, the veteran pugilist, was arrested for discharging his revolver in front of his saloon near Seventh and Market streets after returning from a party.",
-    focus: "primary",
-    tier: "2",
-    not_tom: false
-  },
-  {
-    publication: "The St. Louis Republic",
-    sourceDate: "1897-04-28",
     title: "Tom Allen Arrested for Firing Revolver at His Saloon",
     localCopyEdited: "images/articles/image-959.jpg",
     localCopyFull: "images/articles/image-959b.jpg",
@@ -12145,19 +12067,6 @@ export const db = [
   },
   {
     publication: "St. Louis Globe-Democrat",
-    sourceDate: "1903-03-28",
-    title: "Tom Allen Plans to Marry Nurse on His Sixty-Fifth Birthday",
-    localCopyEdited: "images/articles/image-1001.jpg",
-    localCopyFull: "images/articles/image-1001b.jpg",
-    id: "1001",
-    text: "a\n70/7 ALLEN.\n5 Te ONY SR TE ETAT LRRD AE\n1 to take place in the cit:\nevented by the police.‘ T\n, their backers,.and the\nif, nothing daunted, cha\n* and ran a few miles up\nYATES NOT BEHI\n\nMADE Aw",
-    summary: "The St. Louis Globe-Democrat reported that Tom Allen announced he would marry Mrs. Tillie Hartgrove on April 23, his sixty-fifth birthday, after his recent illness.",
-    focus: "primary",
-    tier: "1",
-    not_tom: false
-  },
-  {
-    publication: "St. Louis Globe-Democrat",
     sourceDate: "1903-04-03",
     title: "New Owner Confronts Difficulties Taking Over Allen's Saloon",
     localCopyEdited: "images/articles/image-1002.jpg",
@@ -12230,19 +12139,6 @@ export const db = [
     id: "1007",
     text: "-| For Sale.\n\nLE—Two steel boilers; O’Brien make;\nsa Sqown-draft furnace attached. Apply Hotel\nTC ee Da Tee anid de en\n\nnew and -secondnand motors;\nae ong 30 oe we also rent mo ors.\nHt. ¥. Lindscy Electrical Supply Co., 1007-09-11\n\nLocust st. : “\n\nmarie Paar 3 Pisano pemreek et orm\n: z (2. Gioh :\n\nSFT, SASY MONE z\n_ Money for Salaried People.\nWe ota you }Money! Gaiee.y.._ An: confiden-\ntially * ‘securit? ration - it Co.,\nrooms So ae Chemical bidg.,. E | Olive.\nWE DO | make lower’rates and\nBAS) Gee tems th can be had elsewhere\na ioe ane $; SALARIES purchased.\nIF SICK. pa nt tan be extended so you\n$1.50 LOSE you pores $50_and costs.\n$150 weekly ropa erER SECURITY CO: 502-503\nBenoist building, Ninth and Pine sts.\n\nMONE salaried veople without security.\na Benoist bidg.. Ninth and Pine.\nCe en a a Sea ana\n\nMONEY? YES, MONEY.\n\nOUR STOOK IS NIONEY.\n\nbody money at one-half the rates\ncharged ‘elsewhere: F clerks, managers, schocl\nteachers and all others who are employed. We\nalso buy accounts, rents, annuities, incomes,\nnotes and negotipble paper in any form in\namounts from $10 o $10,000. Business transacted\nuickly and confidentially. agan Mulholland,\nait Century bidg.| Tel. «Main Or: ‘\nyou have a salaried situation, it's ©. Z. The\nSalary Discount Cos rates ar® ‘the lowest, 500\nMermod “and Jaccard building. B's roe rer\nand Lotust aires, Open until 6:30. Both phones.\n' (EASY-PAYMENT PLAN)\nNITURE, PIANOS; HORSES.\n\noun NEW SY. ‘EM aan you a CHEAPER\nRATE of interest,)} LONGHR TIM® and...",
     summary: "The St. Louis Globe-Democrat reported on a dispute between two factions over possession of Champion's Rest, Tom Allen's saloon at 619 Market Street, with armed men guarding the property while the former champion's will was being contested.",
-    focus: "primary",
-    tier: "2",
-    not_tom: false
-  },
-  {
-    publication: "St. Louis Globe-Democrat",
-    sourceDate: "1903-04-07",
-    title: "Tom Allen's Property Causes Dispute After His Death",
-    localCopyEdited: "images/articles/image-1008.jpg",
-    localCopyFull: "images/articles/image-1008b.jpg",
-    id: "1008",
-    text: "-| For Sale.\n\nLE—Two steel boilers; O’Brien make;\nsa Sqown-draft furnace attached. Apply Hotel\nTC ee Da Tee anid de en\n\nnew and -secondnand motors;\nae ong 30 oe we also rent mo ors.\nHt. ¥. Lindscy Electrical Supply Co., 1007-09-11\n\nLocust st. : “\n\nmarie Paar 3 Pisano pemreek et orm\n: z (2. Gioh :\n\nSFT, SASY MONE z\n_ Money for Salaried People.\nWe ota you }Money! Gaiee.y.._ An: confiden-\ntially * ‘securit? ration - it Co.,\nrooms So ae Chemical bidg.,. E | Olive.\nWE DO | make lower’rates and\nBAS) Gee tems th can be had elsewhere\na ioe ane $; SALARIES purchased.\nIF SICK. pa nt tan be extended so you\n$1.50 LOSE you pores $50_and costs.\n$150 weekly ropa erER SECURITY CO: 502-503\nBenoist building, Ninth and Pine sts.\n\nMONE salaried veople without security.\na Benoist bidg.. Ninth and Pine.\nCe en a a Sea ana\n\nMONEY? YES, MONEY.\n\nOUR STOOK IS NIONEY.\n\nbody money at one-half the rates\ncharged ‘elsewhere: F clerks, managers, schocl\nteachers and all others who are employed. We\nalso buy accounts, rents, annuities, incomes,\nnotes and negotipble paper in any form in\namounts from $10 o $10,000. Business transacted\nuickly and confidentially. agan Mulholland,\nait Century bidg.| Tel. «Main Or: ‘\nyou have a salaried situation, it's ©. Z. The\nSalary Discount Cos rates ar® ‘the lowest, 500\nMermod “and Jaccard building. B's roe rer\nand Lotust aires, Open until 6:30. Both phones.\n' (EASY-PAYMENT PLAN)\nNITURE, PIANOS; HORSES.\n\noun NEW SY. ‘EM aan you a CHEAPER\nRATE of interest,)} LONGHR TIM® and...",
-    summary: "The St. Louis Globe-Democrat reported on a property dispute following Tom Allen's death, with two factions contending for possession of his saloon, the Champion's Rest at 619 Market Street.",
     focus: "primary",
     tier: "2",
     not_tom: false

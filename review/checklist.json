@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-14",
   "articles": {
     "100": {
       "status": "reviewed",
@@ -1137,7 +1137,7 @@
       "date": "1869-06-18"
     },
     "328": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1869-06-24"
     },
@@ -2082,7 +2082,7 @@
       "date": "1875-03-23"
     },
     "518": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "mention",
       "date": "1875-03-23"
     },
@@ -2237,7 +2237,7 @@
       "date": "1876-05-01"
     },
     "549": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "support",
       "date": "1876-05-01"
     },
@@ -2722,7 +2722,7 @@
       "date": "1882-01-28"
     },
     "646": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "mention",
       "date": "1882-01-28"
     },
@@ -3647,7 +3647,7 @@
       "date": "1892-01-30"
     },
     "834": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "mention",
       "date": "1892-01-30"
     },
@@ -4262,7 +4262,7 @@
       "date": "1897-04-28"
     },
     "958": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1897-04-28"
     },
@@ -4467,7 +4467,7 @@
       "date": "1903-03-28"
     },
     "1001": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1903-03-28"
     },
@@ -4502,7 +4502,7 @@
       "date": "1903-04-07"
     },
     "1008": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1903-04-07"
     },
