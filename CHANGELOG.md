@@ -3,6 +3,8 @@
 ## 2026-11-14
 
 ### Added
+- Re-crop of 303 (the Allen-Davis fight report, 1869-01-13): `image-303c.jpg`; thumbnail rebuilt
+- Re-crop of 918 ("Bob Farrell, ex-lightweight", Post-Dispatch 1895-10-20) with its headline: `image-918c.jpg`; thumbnail rebuilt
 - Re-crops: 105 (the Veteran article, `image-105c.jpg`), 133 ("Big ears of crazy men": both columns joined in reading order, `image-133c.jpg`), 615 (`image-615c.jpg`), 621 (`image-621c.jpg`) and 689 (`image-689c.jpg`); thumbnails rebuilt
 
 ### Changed
@@ -12,7 +14,7 @@
 - Duplicates 328, 518, 549, 834, 958, 1008, 646, 1001, 428, 609, 778 and 688 (header now in 689); each one's complete twin is kept
 - Articles not about Allen: 614, 780, 901, 232, 233, 998
 - Heading-only item 622 (its blurb text is 621)
-- Articles 239, 246, 332, 362 and 683, as you asked. Local and staging files are in the Trash; their S3 objects are still up (the deploy user lacks `s3:DeleteObject`)
+- Articles 239, 246, 332, 362, 683 and 714, as you asked. Local and staging files are in the Trash; their S3 objects are still up (the deploy user lacks `s3:DeleteObject`)
 
 ## 2026-11-12
 
@@ -110,15 +112,15 @@ Run in this order. Source fixes come first, so the later steps don't have to be 
 1. **Get the sources right** (before anything else). Each sub-section is a unit of work with a clear done-state.
    - **1a. Ten new-source articles** (055, 072, 073, 076, 095, 098, 105, 128, 195, 239): pointers, crops and transcripts are done and uploaded. Fixed: 195's title and 073's summary. Left: the ten are re-reviewed (goes with 2).
    - **1b. Edge-trimmed clippings** (done: 340, 345, 405, 429, 536, 549, 611, 644, 655, 687, 774, 800, 957). Open: 328 is a duplicate of 329, so merge it in step 3 rather than re-cropping; 348 has no match on its page (retry with a different locator, e.g. its headline).
-   - **1c. Cut-off and wrong-article clippings** (the rest of the 195-item "get a new screenshot" group in `review/ISSUES.md`): use the full page in `review/work/<id>/` or `public/images/articles/image-<id>b.jpg`, locate the item (tesseract TSV or template match), crop with its full extent, check by eye. Work in batches of about 10. Open: about 170 items.
-   - **1d. Missing pages**: pages downloaded to `review/work/<id>/`. Done: hand crops for 13 (088, 091, 145, 146, 147, 149, 187, 201, 206, 218, 240, 246, 250) in `review/work/<id>/crop-by-hand.jpg`, not yet on the site; 242 is on the site with both pages and its clipping is now `image-242c.jpg`. Check 088, 218, 240 and 250 (very short or very tall strips). Removed: 232, 233, 237 (see step 3). 262 (Globe-Democrat 1978, Burnes feature) is covered: `image-262.jpg` is the full article clipping, already on the site and S3, but no full newspaper page is on file. Open: 
-   - **1e. Mixed clippings** (224 items in `review/ISSUES.md`): trim each clip to the Allen item only. Open: all.
+   - **1c. Cut-off and wrong-article clippings** (151 items in `review/work/index-batch.html`): re-crop each from its full page. Seven have no full page on disk, so find those on newspapers.com first. Open.
+   - **1d. Missing pages**: done. Hand crops are on the site for 088, 218, 240, 250, 242 (both pages), 105, 133, 615, 621, 689, 918 and 303. 262 is covered by its existing clipping (no full page on file). Open: 297 and 298 are one article, with a merged crop saved as `298b-cropped.jpg` in Downloads; merge the two records and publish. 278 is a duplicate to remove once the 278 crop is identified.
+   - **1e. Mixed clippings** (223 items in `review/work/index-batch.html`): trim each clip to the Allen item only. Open.
    - **1f. Transcripts**: write the 12 missing and the unusable ones (35 items in `review/ISSUES.md`) from the re-captured crops, and fix the meaning-changing errors in `FINDINGS.md` (106, 109, 203, 617). Open: all.
 2. **Re-review what changed**: rerun the review on the re-captured and re-transcribed articles, so each record reflects its new text
 3. **Settle the facts that depend on the text**
-   - Removed 232, 233, 998 (not about him) and 237 (probably a duplicate of 236). Still to do: delete the S3 images for 232 and 233 and their thumbs, and the 4 S3 objects for 998 (`images/articles/image-998.jpg`, `image-998.txt`, `image-998b.jpg`, `images/thumbs/image-998.jpg`). Both need `s3:DeleteObject` on the deploy user
-   - Decide on the 14 marked unsure (055 confirmed as keep: it is the Free and Easy ad, and its review note predates the source images) (e.g. 133, 190, 332, 362, 683, 714, 918)
-   - Remove or merge the remaining duplicate and split articles in `review/FINDINGS.md`. Removed so far (614 is not about Allen): 328, 518, 549, 834, 958, 1008, 646, 1001; also 428 and 609 (removed locally, not yet committed). To check side by side in `review/work/dup-compare.html`: 901; 778 duplicates 777 (777 is more complete) and is removed; 780 and 901 do not mention Allen and are removed; 779 stays (passing mention only); 688 is probably the header of the O'Connell benefit, separated from its text in 689, so re-crop 689 and decide on 688 after; 622 is only a heading for a series of blurbs, and 621 is the text of one of them (decide on 622 after the re-crop). 1005 and 1006 are two halves of one obituary (merge); also 237 (removed earlier), 403/402, 297+298, 303+304, 855+856
+   - Removed (not about him or duplicates): 232, 233, 998, 237, 239, 246, 332, 362, 683, 714, 614, 622, 688, 780, 901, 428, 609, 778. Still to do: delete their S3 objects (the deploy user lacks `s3:DeleteObject`). Unsure items: 190 has no other evidence in the data that Allen owned the Geyer Avenue lot (the listing is the only source). 055 and 128 are keep.
+   - Decide on the remaining unsure: 133 (re-cropped), 190 (keep or remove), 918 (re-cropped), 128 (keep)
+   - Remove or merge the remaining duplicates in `review/FINDINGS.md`: 297 + 298 (one article, merge), 403/402, 855/856, 1005/1006, 278 (duplicate, see 1d). Removed so far: 328, 518, 549, 834, 958, 1008, 646, 1001, 428, 609, 778, 688
    - Resolve the fact conflicts in `review/FINDINGS.md`: birth year (1839 vs 1840/1841), arrival in America, Crimean War vs Indian Mutiny, belt presentation date, Halifax sailing date, burial (Calvary vs Bellefontaine), saloon address (615/618/619 Market), will, widower, brothers and sister
    - Settle the 1869-08-17 Gallagher result in `data/fights.js`: it is still listed as a win, while 352 and 647 say draw and 643 says Allen won (the sources are now linked and noted there)
 4. **Merge the records into the site data**
