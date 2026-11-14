@@ -2,8 +2,8 @@
   "id": "354",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping ends at the start of the seventh round; the rest of the round-by-round account, the sponge being thrown up and the referee's decision continue in the next column and are not in the clipping."
+    "status": "ok",
+    "notes": "Hand-cut clipping image-354c.jpg published on 2026-11-14 from the full page; not yet re-reviewed (was cut_off)."
   },
   "ocr": {
     "status": "good",
@@ -289,6 +289,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
+  "needs_human": false,
   "notes": "The current summary's 'after eleven rounds' cannot be checked from the clipping, which stops at round six; the outcome is taken from the headlines. Someone should re-crop to include the continuation column. Birth year 1840 here conflicts with fact 001 (1839). Early English fight record is the paper's account; years for Rose and Smith are 'resting two years' after 1862."
 }

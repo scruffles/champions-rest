@@ -2,8 +2,8 @@
   "id": "367",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "The section headline 'Gallagher and His Tape Worm' above 'A Letter from Jack Looney' is outside the clipping; the article text is complete"
+    "status": "ok",
+    "notes": "Checked by the user on 2026-11-14: current clipping kept (was cut_off)."
   },
   "ocr": {
     "status": "rough",

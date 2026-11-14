@@ -2,8 +2,8 @@
   "id": "348",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Headline missing: the page shows 'PUGILISTIC. Return of McCoole, O'Baldwin and Kelly. Gallagher and Allen at Their Training Quarters. The Mill of Tuesday Next.' above the clipping. Body is complete."
+    "status": "ok",
+    "notes": "Checked by the user on 2026-11-14: current clipping kept (was cut_off)."
   },
   "ocr": {
     "status": "good",

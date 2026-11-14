@@ -2,8 +2,8 @@
   "id": "401",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping starts mid-article at 'The toss for corners' and stops at 'Remarks'; the headline 'The Mace-Allen Fight' and opening sections (lower column 2) and the remarks are not in the crop."
+    "status": "ok",
+    "notes": "Hand-cut clipping image-401c.jpg published on 2026-11-14 from the full page (was cut_off); not yet re-reviewed"
   },
   "ocr": {
     "status": "rough",
@@ -76,6 +76,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
+  "needs_human": false,
   "notes": "Crop should be extended to include the headline and opening of the article (column 2) and the remarks (column 3) if wanted."
 }

@@ -967,7 +967,7 @@
       "date": "1868-03-12"
     },
     "294": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "mention",
       "date": "1868-05-29"
     },
@@ -1017,7 +1017,7 @@
       "date": "1869-01-13"
     },
     "304": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1869-01-13"
     },
@@ -1532,7 +1532,7 @@
       "date": "1870-05-29"
     },
     "408": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1870-05-30"
     },
@@ -1832,12 +1832,12 @@
       "date": "1873-09-24"
     },
     "468": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "support",
       "date": "1873-09-24"
     },
     "469": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "mention",
       "date": "1873-09-24"
     },

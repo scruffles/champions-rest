@@ -2,8 +2,8 @@
   "id": "467",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Only the first column of the page-5 report: headlines, the excursion, who was there and picking up the men, ending at 'A Morning Call.' The rest of the page-5 text (columns 2–3, including 'The Fight') is not in the clipping; the round-by-round continuation on page 8 is article 468."
+    "status": "ok",
+    "notes": "Combined crop image-467d.jpg published on 2026-11-14 (page 5 columns 1-3 and page 8; replaces 467c and the 469 record); not yet re-reviewed"
   },
   "ocr": {
     "status": "good",

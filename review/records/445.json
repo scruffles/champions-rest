@@ -2,12 +2,12 @@
   "id": "445",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "wrong_article",
-    "notes": "Clipping shows the St. Louis Postoffice annual report and 'Sharp Practice' (McNoon lawsuit). The Allen item, 'A Prospective Prize Fight: Tom Allen Accepts the Challenge of Mike McCoole', is lower in the same column below the death report, near the 'Port of St. Louis' column"
+    "status": "ok",
+    "notes": "Hand-cut clipping image-445c.jpg published on 2026-11-14 (was wrong_article); not yet re-reviewed"
   },
   "ocr": {
-    "status": "unusable",
-    "notes": "Transcript is garbage from the postoffice tables, not the Allen item"
+    "status": "ok",
+    "notes": "Transcribed by hand from the hand-cut clipping on 2026-11-14; check against the page"
   },
   "about_tom": "yes",
   "title": {
@@ -48,6 +48,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
+  "needs_human": false,
   "notes": "Read only from the scaled-down page: headline, intro and the letter heading (417 Washington Avenue, St. Louis, January 7, 1872, signed TOM ALLEN) are legible, but the letter body, including stakes and meeting place, is not. The item needs a new crop and transcript."
 }

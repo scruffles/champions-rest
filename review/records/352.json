@@ -2,8 +2,8 @@
   "id": "352",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "The clipping is only the first column of the article (headlines, both fighters' biographies, start of 'The Trip Down'). On the page the story runs on through the whole next column and the top of the column after that, so the round-by-round account of the fight and the result are not in the clipping."
+    "status": "ok",
+    "notes": "Checked by the user on 2026-11-14: current clipping kept (was cut_off)."
   },
   "ocr": {
     "status": "rough",
@@ -398,6 +398,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
+  "needs_human": false,
   "notes": "The clipping misses the account of the fight itself, which continues on the page in the next column and at the top of the one after, and the page image is too small to read it. A new crop of those columns would add the round-by-round account and the referee's decision. The article gives Allen's age as 29 in April 1869 (born 1840), against 1839 in fact 001. The fight date of Aug 17 comes from the paper date and the words 'took place, as announced'; the clipping itself doesn't state it."
 }

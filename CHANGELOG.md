@@ -3,6 +3,18 @@
 ## 2026-11-14
 
 ### Added
+- 467, 468 and 469 are one article over two pages: the combined crop is `image-467d.jpg` (page 5 columns 1-3 and page 8); 467 lists both full pages. The text is joined in reading order and 469 is removed. The earlier combined crop `image-467c.jpg` is kept on the site folder
+- 467 and 468 are one article over two pages: the combined crop is `image-467c.jpg`, and 467 lists both full pages (`image-467b.jpg`, `image-468b.jpg`). The text is joined and 468 is removed
+- Hand-cut clipping of 466 (`image-466c.jpg`); thumbnail rebuilt
+- Hand-cut clipping of 452 (`image-452c.jpg`); thumbnail rebuilt
+- Hand-cut clipping of 445 (`image-445c.jpg`); thumbnail rebuilt. Transcript replaced: the old text was the post-office tables
+- Cut-off clipping of 441 re-cut from the full page (approved candidate): `image-441c.jpg`; thumbnail rebuilt
+- Hand-cut clipping of 401 (`image-401c.jpg`); thumbnail rebuilt
+- Hand-cut clipping of 354 (Missouri Republican, 1869-08-18): `image-354c.jpg`; thumbnail rebuilt
+- Checked and kept: the current clippings of 338, 348, 352, 367, 400 and 455 (removed from the re-crop list)
+- Cut-off clipping of 323 (Missouri Republican, 1869-06-16) re-cut from the full page: `image-323c.jpg`; thumbnail rebuilt
+- Hand-cut clipping of 302 ("Tom Allen's Fight" listing, Missouri Republican 1869-01-11), now `image-302c.jpg`; thumbnail rebuilt
+- 297 and 298 are one article: the merged crop is `image-298c.jpg`; 298 now holds the joined text and 297 is removed
 - Re-crop of 303 (the Allen-Davis fight report, 1869-01-13): `image-303c.jpg`; thumbnail rebuilt
 - Re-crop of 918 ("Bob Farrell, ex-lightweight", Post-Dispatch 1895-10-20) with its headline: `image-918c.jpg`; thumbnail rebuilt
 - Re-crops: 105 (the Veteran article, `image-105c.jpg`), 133 ("Big ears of crazy men": both columns joined in reading order, `image-133c.jpg`), 615 (`image-615c.jpg`), 621 (`image-621c.jpg`) and 689 (`image-689c.jpg`); thumbnails rebuilt
@@ -14,6 +26,8 @@
 - Duplicates 328, 518, 549, 834, 958, 1008, 646, 1001, 428, 609, 778 and 688 (header now in 689); each one's complete twin is kept
 - Articles not about Allen: 614, 780, 901, 232, 233, 998
 - Heading-only item 622 (its blurb text is 621)
+- Article 408 (the same as 407), as you asked
+- Article 304 (the same as 303), as you asked
 - Articles 239, 246, 332, 362, 683 and 714, as you asked. Local and staging files are in the Trash; their S3 objects are still up (the deploy user lacks `s3:DeleteObject`)
 
 ## 2026-11-12

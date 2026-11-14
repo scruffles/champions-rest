@@ -2,8 +2,8 @@
   "id": "338",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "The clipping holds only the section headed 'THE COMING FIGHT.' On the page it appears to be the closing section of a longer column-4 article headed 'THE FIGHTING BUSINESS' (subheads mention a philosophical essay, the financial aspect, and 'The Coming Match, Its Circumstances and Prospects'), whose earlier part is not in the clipping. The scaled page is too small to confirm."
+    "status": "ok",
+    "notes": "Checked by the user on 2026-11-14: current clipping kept (was cut_off)."
   },
   "ocr": {
     "status": "good",
@@ -45,6 +45,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
+  "needs_human": false,
   "notes": "needs_human to check whether the clipping should include the earlier part of 'The Fighting Business' article above it on the page. The section is mostly editorial comment; the paper says few judges gave 'little Tom' any chance against 'big Mike' in their late battle, but he turned the tables and punished him terribly."
 }

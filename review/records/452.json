@@ -2,8 +2,8 @@
   "id": "452",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Bottom cut off: article continues past 'and has com-' describing McCoole's training"
+    "status": "ok",
+    "notes": "Hand-cut clipping image-452c.jpg published on 2026-11-14 (was cut_off); not yet re-reviewed"
   },
   "ocr": {
     "status": "good",

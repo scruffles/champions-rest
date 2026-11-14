@@ -2,8 +2,8 @@
   "id": "466",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "The clipping is a stack of amusement ads from the right-hand column of page 5; the left edge of every line is cut off (e.g. '...RSDAY and FRIDAY EVENINGS'). The Tom Allen benefit ad is the second item; the other ads (matinee, festival, dancing academy, St. Louis Fair) are unrelated."
+    "status": "ok",
+    "notes": "Hand-cut clipping image-466c.jpg published on 2026-11-14 (was cut_off); not yet re-reviewed"
   },
   "ocr": {
     "status": "rough",

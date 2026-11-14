@@ -2,8 +2,8 @@
   "id": "400",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "The clipping is only one section (the preliminaries and 'The Ring—Appearance of the Men') of a long report headed 'THE MACE-ALLEN FIGHT' that starts at the bottom of column 2 on the page and continues into column 3. The headline, the opening (travel, crowd, ground) and the round-by-round account of the fight are not in the crop."
+    "status": "ok",
+    "notes": "Checked by the user on 2026-11-14: current clipping kept (was cut_off)."
   },
   "ocr": {
     "status": "rough",
@@ -75,6 +75,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
+  "needs_human": false,
   "notes": "Crop should be redone to include the full 'THE MACE-ALLEN FIGHT' report (headline at the bottom of column 2, continuing into column 3); the fight itself and its result are not in the current clipping. Current summary describes content that is not in the clipping. Publication is the (Daily Missouri) Democrat, not yet the Globe-Democrat in 1870."
 }
