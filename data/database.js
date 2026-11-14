@@ -4745,19 +4745,6 @@ export const db = [
     not_tom: false
   },
   {
-    publication: "The St Louis Republic",
-    sourceDate: "1870-11-09",
-    title: "Tom Allen Announces Retirement From Prize Ring",
-    localCopyEdited: "images/articles/image-428.jpg",
-    localCopyFull: "images/articles/image-428b.jpg",
-    id: "428",
-    text: "The Prize Ring—Al!sn Retires.\n\nTom Allen, the pugilist, having heretofore answer-\ned every challenge, according to the ruies of the\nLondon prize ring, and having won an easy fight\nover Gallagher. how announces that he has retire!\nfrom the ring attegether. “is determination is\nnever more to enter the ring, but to settle down to\nbis business, having appeared before the public sev-\nenteen fimes.asa prize fighter. He states he will\ntherefure take no further notice of any —\nthat may be made by  pugilists of\nor any other country. He desires it to\nbe understood that he is “out cf the\n\nring.” Notwithstanding his announcement, how-\never, it is probable if another chance occurs of\nwinning fortune or fame inside the ropes, Allen will\nbe on hand. His prize fighting record in St Lonis is\nuite brilliant, aware excepting his tights with\nCharlie Gallagher and Mace.\nANOTHER MATCH.\nA match was mae up yesterday afternoon, at the\nB. cad Guage saloon, for a match between McCoole\nand Gallagher for $1,000 a side. The og ra\nJp Peeve argh me nse eo be an-\nother meeting to-day to draw up articles,\n] eee",
-    summary: "The St. Louis Republic reported that Tom Allen, having won an easy fight over Gallagher, now announced he had retired from the ring altogether and would settle down to his business.",
-    focus: "primary",
-    tier: "1",
-    not_tom: false
-  },
-  {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1871-02-12",
     title: "Tom Allen Challenges Joe Coburn as Champion",
@@ -7085,19 +7072,6 @@ export const db = [
   {
     publication: "St. Louis Globe-Democrat",
     sourceDate: "1878-04-07",
-    title: "Tom Allen Defeats Davis for World Championship",
-    localCopyEdited: "images/articles/image-609.jpg",
-    localCopyFull: "images/articles/image-609b.jpg",
-    id: "609",
-    text: "7\n\n‘ ‘ e\n\nA BRUTAL BATTLE\n\n1 °\nThe King of Beasts Dethroned\n\n: by. a Texas Bull.\n\nA Tetrific Combat Witnessed by a.\nThousand Spectators.\nThe Fifty-Mile Walking Match\n- Wen by Wittman. :\nHow the East Hopes to Reiaia the\nBillard Championship.\nParagraphs Pertaining to the Race\n- Track and Ball Field.\n\n5 , CSE Sk ee Fe\nThe Way in Which Davis Was Whipped\n\nby Tom Allen.\n\npecial Dispatch to the G!lobe-Democrat.\n\nSAN ANTONIO, TEXAS. April 6.—Americans of\nthe gineteenth century in this city to-day were\nremiided of tne daxs of ancient Rome, when the\ncuriéus muititade flocked at stated periods to\nwitness flerce conlests belween savage beasts.\nThe ecca-ion of this was the contest between a\nlarge honess and a.Texas bull. The scene ef tha\ncoutest was about three and ahalf mites from\ntown.\n\n® ASPAOLOUS AMPHITHEATER\nhad been erecied capable of seating 5,000 people.\nIn the center of it wag a mammoth cage,110 feet in\ncircumference, weighing 6,000 pounds. Freo\nconveyance was offered atrendants npon the fight\nand fully 1,000 went out to witness it. Thebuil,\ns muscular animal eleven years old, was found\nin the cage, ana thougirshowing but little spirict,\nwas generally considered capable of, combating\neven the so-calied king of beats. At 5 o’clock tne\nannouncementof ‘‘ready’’ was given. Intense\nexcitenrent prevailed, and all seewed feariul lest\nperchauce e\n\nTHERS MIGHT BE SOME FLAW\n\nin the construction of the cage, and that the\nstruggling animais might brevk the bars aod es-\nbape (o vent their...",
-    summary: "The St. Louis Globe-Democrat reported on April 7, 1878 that Tom Allen of America defeated Charley Davis, champion of the United Kingdom, at St. George Hall in London. Allen forced the fighting throughout and won decisively.",
-    focus: "primary",
-    tier: "1",
-    not_tom: false
-  },
-  {
-    publication: "St. Louis Globe-Democrat",
-    sourceDate: "1878-04-07",
     title: "Tom Allen Defeats Charley Davis for Championship",
     localCopyEdited: "images/articles/image-610.jpg",
     localCopyFull: "images/articles/image-610b.jpg",
@@ -7144,19 +7118,6 @@ export const db = [
     text: "Base Ball.\nLOCAL LINERS. -\n\nHome interest in the national game €xceer,\nthe most sanguine expectations of the mana.\ngers of the home clubs. The games played ;\nhere have all been of an exciting and interest.\ning character, the contending teams Diaying in\nexcellent style, and meeting with universa)\ncommendation.\n\nMcManus and McGeary of the Brown Stock.\nings, and McNeary of the Reds, have done .\ntheir utmost to furnish the public with good\nsport, and they deserve ail the popular patron. |\nage that ean be crowded upon them. Keep the |\nthing up, boys, give us as good plaving as oj\nold, and the season will be all you can wich it,\n\nThe Reds and Erowns Play @ game at the |\nGrand Avenue Park to-day and to-morroy i\nafternoon, at 3 o'clock, the same clubs wil\nmeet atthe Compton Avenue Park.\n\nOUTFIELDERS.\n\nThe Binghamton Crickets have released Pig.\ngott and engaged Heifert in his place.\n\nThe Maple Leafs, non-professional this year,\nof Guelph, Ontario, bastea a Dicked nine of\nthat town, 13th, by a score of 15 to 3. |\n\nThe amateur Atlantics gave the professiong)\nTecumsehs a tight game at London, Ont., 19th,\nthe score standing at the close 4 to 2 in favor of\nthe professionals.\n\nSpringfield, ll., will put in the field this seq.\n80n a strong non League Club. Springfield had.\n\na strong team last season, deteating some of\nthe best clubs in the country, both League ang\nnon-League.\nAthletics.\nTHE REEVES-WITTMAXNN WALK.\n\nThe walking match spoken of some timeage .\nbetween Geo. Wittmann,the wimner...",
     summary: "A St. Louis Post-Dispatch article listing sports events included mention of Tom Allen being at a championship fight between Tom Allen and Davis in London, England in April 1878. The article covered boxing and other athletic matters.",
     focus: "passing",
-    tier: "2",
-    not_tom: false
-  },
-  {
-    publication: "St. Louis Globe-Democrat",
-    sourceDate: "1878-05-19",
-    title: "Pedestrian O'Leary Complains of Tom Allen's Conduct",
-    localCopyEdited: "images/articles/image-614.jpg",
-    localCopyFull: "images/articles/image-614b.jpg",
-    id: "614",
-    text: "e-Democrat, Sundan Ao\n‘ a\nTHE TURF SCANDAL.\nWhat the St. Louis Horsemen\nThink of It.\nAn Irresponsible Boy Manipulated by\nSharks,\nThe Base Ball Favorites Regain\nTheir Laurels.\nO'Leary Pays His Respects to Tom\nAllen.\nThe Bench Show---Hand Ball---Sporting\nSundries.\n\nThe GLone-DEMOCRAT'S special report of the\nLexington races of Friday, giving a complete\naccount of the case of fraud established aguin-t\nJohn G. Blow, of St. Louis, in the management\nof his horse, Bill Bass, created a profound sen-\nsation throughout the city. ‘‘Johnny,’’ as he\nis gencrally known, is very peculiar in some\n\n| respects, but, neverthevless, is quite popular,\n| and his friends were astounded and could\n— searcély realize the truth of the statements\n| made. Ileretofore he has been regarded as,\nabove all turfmen, most certain to run his\nhorses to win. Those who know best assert\nthat he isin no wise disposed to be tricky; on\n| the contrary, his chief ambition appeared to be\nfor fame, particularly with horses, in the pur-\nsuit of which Le was very enthusiastic and ex-\ntravagant.\nTHRE GENERAL BELIFF\n| is that he yielded to the strong influence of evil\ndesigned persons, for whom he has become &\nI\nscapegoat. This is evident from the fact that\nhe did not personally wager anything against\nhis own horse, this being done by other parties,\nwho were no doubt the chief conspirators, and\nexercised full control of the whole ae in-\ncluding horse, owner, trainer and rider.) The\ndesperate conduct of Shelton, the rider,...",
-    summary: "The St. Louis Globe-Democrat reported that champion pedestrian Daniel O'Leary accused Tom Allen of treating him shamefully in London, jeering and insulting him during a walking competition.",
-    focus: "secondary",
     tier: "2",
     not_tom: false
   },
@@ -9236,19 +9197,6 @@ export const db = [
     not_tom: false
   },
   {
-    publication: "St. Louis Globe-Democrat",
-    sourceDate: "1889-09-21",
-    title: "Tom Allen Bond with Others Following Coursing Exhibition",
-    localCopyEdited: "images/articles/image-778.jpg",
-    localCopyFull: "images/articles/image-778b.jpg",
-    id: "778",
-    text: "| | * } | FS }\nEnglish Racing. | 7)\n. The table below,| which ts Tull of interest, |\ning figures, appears In a |recent issue bt the\nLondon Bportihe Liye,| which |reniarks ds tol- |\nlows: ih i :*| hig\n“The followLpg able f. irly explaing itself, 4].\nTHouga# the wm celle eptings Raye taken off|a |,\nbit, there has bel n no falling off in the|vaiue\not the stakes, and, y net this year of |prade |\nhab closed we) ghall hdd per a ra column of |\nvaites on tothe subjoined table: =| |) |).\nSMM PPS 5 he {2 |\n{ = Fl. ! Sa ited } what\nDATE, asi iegsitids wig | gel |\nNas $F 4 Ss Whee\npay an | Ch So is) Os) |\n1 | 3 m4 a is\nW068 j..5.0.- 2. &y pos \\o64) 1,994! ],] 2.190 |\nWBT 1. ak 101 187 oe + 2,140) ] | 2.498 |\nwee TS faed | ama t) laes | aiaeei] | a5 |\npA CPS hides 121 U7} jasa | 2.26] } Boek |\nTAGs. 05.350. oo te 127 | Tei} [B40 | 2,u78)} | 2,560 |\nWAL. b ay wvevse< ft) aos 166} [312] T.ds7)] | 2.435\nISTE seveeene eeeefl | 1209] f WH] | [R09 ]” TaoL!] | 2,08 |\nW744) deeds HE OO 1 ana | |308 | -2,873) Loe\nIST locscdoecesaeells He 9B | | TAS] | [Bl2-7 19087 | 2 one\nWG] cccdoccnecee ft! MOL | hen | aad 1,907 | 3.008 |\nIBIG| -sdedecaien dent Hy) OG Uy) 246 | 2,689) | 2.657 |\nTBE. fe deseat teed |) 9 yi ) 2507} | 2.6991 | 2.0)\nVAST oS es ceedae || 1 j ibs |) 243) 2,62 (34\nPTSRE se ete eee HE YL OL |] 204 1] (1286) 1 Shay Pas |\n[ABR ceeebe aed] LAD YP ROM | Paae Ds Gad)) | Sch |\nTT RN ee F 4 av | | 288 | 1. 009) 2\nbagasse TTT Wake] petud |) eae 1 re! $2,324 |\n|. * Almost the idwes puiibe sinte...",
-    summary: "The St. Louis Globe-Democrat reported that Tom Allen, Tom Kelly, and Dan Daly became bondsmen for men recognized for their appearance following a coursing exhibition.",
-    focus: "passing",
-    tier: "2",
-    not_tom: false
-  },
-  {
     publication: "The St. Louis Republic",
     sourceDate: "1890-02-08",
     title: "Tom Allen advertises free concert at his Market Street saloon",
@@ -9258,19 +9206,6 @@ export const db = [
     text: "General Sporting-\n\n_AH members of the Olympic athletic clut\nwishing to play a game of Rugby foot ball at\ntheir grounds Sunday morning will please re-\nport to Lieut. W. C. Gotshall by 9:30 o’clock.\n\n_Tne Grand avenue bowling club will bow!\nany organized club three or five games of ten.\npins, six or eight men to a side. Challenges\n1o be sent to the Grand avenue bowling club,\nSt. Louis and Grand avenues.\n\n—J. L. Malone, the pool champéon, is still\nll at the t.aclede. . Malone has had quite a\nsiege of it. He was convalescing two weeks\nago, when he sustained a relapse and was\ncompelled to return to bed.\n\n—For writing up the Weir-Murphy fight\n1s a fake, engineered by bookmakers, the\nCalifornia Athletic club has expelled M. J.\nGeary of the San Francisco Call, and M. J.\nDaily of the Illustrated World, from all future\nmeetings of the club. The main charge was\nfhat Weir had thrown the fight for $5,000,\nput the reporters were evidently wrong, 4s\nWeir was flat broke after the fight.\n\n—A dispatch from England announces the\njeatt of the veteran starter of sprint races,\nfom Wilkinson, whose name has been so lon\nindelibly associated with Sheffield handy\ncaps and other prominent race meetings. It\nwill be remembered that some months ago he\nwas struck down suddenly with paralysis,\nbut eventually recovered 80 far as to be able\nto get about. He, however, had another\nstroke on January 16, and, getting gradually\nworse, ne expired at his residence, Hungary\nstreet, Sheffield, three days...",
     summary: "The St. Louis Republic announced that Tom Allen, retired champion pugilist, was offering free concerts every evening at his establishment located at 619 Market Street.",
     focus: "passing",
-    tier: "2",
-    not_tom: false
-  },
-  {
-    publication: "The St. Louis Republic",
-    sourceDate: "1890-02-08",
-    title: "Tom Allen's Saloon and Concert Hall",
-    localCopyEdited: "images/articles/image-780.jpg",
-    localCopyFull: "images/articles/image-780b.jpg",
-    id: "780",
-    text: "RT Jack Hennessy of Detroit, then varied\nB ne 2 (| Won two out of ee co a =\n\"| cham 126-pound boxer, Dan\nDALY, JR., WINS THE LONG-DISTANCE ; New York, then pitched into each other in\nELKWOOD HANDICAP. good style. Jack Shannon and John Sheridan\nof New York followed with what was the\na liveliest set-to of the evening, and took al-\nan Owner Insults Starter Caldwell— nS — npolaues Sy parr le\nWinters’ Tywo-Year-Olds — M ap | etter & sep ronees\nAulifeand Carroll Sica Ar- e- | Dan Dougherty and Jim McCormick.\ncicida ~Generat Spor Sullivan was greeted with a storm of\nport. applause which shook the old building, and\nae was handed a ldrge floral Sor‘ with bit.\noe non came out ve a go wit m.\n— to 2g ge —- 4 John L. was apparently not in — ne\n» ie very iarge crowd | condition and Lannon faced him, nF bt\nsaw some splendid racing at Clifton this | several good upper cuts and swi g ‘ht\nafternoon, the Elkwood handicap, at mile | back side blow: for each of which\nand three-quarters, the feature of the card, Sullivan countered with interest on his\nresulting in another hollow victory for W. a neck. They had three rounds of\nDaly, ff. ‘The handicap was by no means the | Solivan twro minutes soc. fe half a dozen\nbest race of the day, although for a mile | times and made no return. Then he pulled\nand a quarter it was 4 beautiful race@ off his gloves, thanked the audience for their\nto look at, the four contestants running side | reception to him and quit the eons.\nMy vatae’ ue last event for all...",
-    summary: "Roche, representing the W izard, and Tom Allen, who also had three easy has already placed his money in the The St. Louis Republic, 1890-02-08.",
-    focus: "primary",
     tier: "2",
     not_tom: false
   },
@@ -10809,19 +10744,6 @@ export const db = [
     id: "900",
     text: "SO Ee\nCHANCE BLOWS. \\\nfom _Allen’s Explanation cf Bis Dstear\nby Charlie Gallacher.\nTom Allen, the ex- hampion, while dis-_\n| feussing ‘‘chance’’ blows, ‘which —\ne | 2ecided modern fights, referred to his t\nby Charlie Gallagher as follows:\n**The snow had beenswept off the ground\n, | ®© pitch the ring in which Gallagher and f\nt met. Wegot to workas soonaswe faced\neach other. I went at my man\nat a lively ‘rate ana had\nfar the best of the opening round. I went up\nfor the second round with all the confidence\n¥jin the world. In ‘setting’ myself for the\nopening of hostilities { put my left foot for- |\nward, As I threw my weight on itI sank,\nand, while ‘floundering,’ Gallagher, who\nwas over 6 feet tall, reacned out with his\nright and landed on the big vein in\nej the left side of my neck. That settled\nthe fight. I was kEnocked out. 1 do\no | say that it was a chance blow which defeated\nme, butit wasthrough an accident that I\n\"| could not guard against that Gallagher got\nh | the opportanity to hit me. in clearing off\nthe snow to pitch the ring the men had filled\nzi upseveral holes in the ground with show,\nend Iwas unfortunate eneugh to step into\none of them. The result was that a man\nwhom I had bested in the first rourd put me\n. | out with a punch In the second.’’\n7 ae 7 .\nt Jack McAuliffe has been matched against\ny | Owen Zeigler, the ex-amateur lightweight,\n» | fora limited round boat before the Atlantic\n. Athletic Club, in Brooklyn, on Nov.15. The\nmen willfight at catch weights fora...",
     summary: "The St. Louis Post-Dispatch published Tom Allen's explanation of how he was defeated by Charlie Gallagher, attributing his loss to a chance blow to the neck after he accidentally stepped into a hole covered with snow.",
-    focus: "secondary",
-    tier: "2",
-    not_tom: false
-  },
-  {
-    publication: "St. Louis Post-Dispatch",
-    sourceDate: "1894-10-26",
-    title: "Tom Allen Explains Gallagher Knockout",
-    localCopyEdited: "images/articles/image-901.jpg",
-    localCopyFull: "images/articles/image-901b.jpg",
-    id: "901",
-    text: "DInING RAUL MEEI,\na een eee owned\nBright Outlook for Next Year's Sport\nat the Fair Grounds,\na en\nSECRETARY GWYNN EXPECTS MANY\nEASTERR CRACKS TO COME HERE.\n\n. 9 _ FO\n\n¥he Fair Grounds Stake Programme\nMey Ee Out Within the Next Two\nWeeks—Tom Allen Explains How\nCharley Gallaghsr Put Him Outs With\na Chance Blow—General I Sporting\nNews.\n\nSecretary J. K. Gwynn only awaits the in-\nstructions of the directors and stewards of\nthe Fair Grounds Association and Jockey\nClub to begin the preparation of a stake\nprogramms for the spring and early summer\nrunning meet of 1895. Mr. Gwynn’s report\nwill, it is understood, show that the Fair\nyielded a handsome profit to the association,\nThe directors will take up the. racing\nquestisn this week and determine the\nlength of the spring meeting anc the emount\nof money to be appropriated forit. The\nfinancial success of the Fair will, itis said,\nresult ina liberal policy and with the stake\nprogramme out early, the prospects for next\nyear’s running mesting are exceedingly\nflattering. Toa Post-DISPATCH represemta-\nlive Mr. Gwynn said:\n\n**I believe the St. Louls racing public will\ndemand athirty-day high-class meeting next\nseason. By Gistributing in that period the\nsame amount of money we have been giving\naway heretofore in forty dayslam certain\nwecanattract to St. Loulsthe best racing\nstables on the American turf. With no\nracing In New York next year, which\nnow seems to be more than a\nprobability, the biz Eastern turfmen will all\ndritt West, and if we...",
-    summary: "St. Louis Post-Dispatch reported that Tom Allen explained how Charley Gallagher had knocked him out with a chance blow in their fight.",
     focus: "secondary",
     tier: "2",
     not_tom: false

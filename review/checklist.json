@@ -1632,7 +1632,7 @@
       "date": "1870-11-08"
     },
     "428": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1870-11-09"
     },
@@ -2537,7 +2537,7 @@
       "date": "1878-04-05"
     },
     "609": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1878-04-07"
     },
@@ -2562,7 +2562,7 @@
       "date": "1878-05-04"
     },
     "614": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "support",
       "date": "1878-05-19"
     },
@@ -3367,7 +3367,7 @@
       "date": "1889-09-21"
     },
     "778": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "mention",
       "date": "1889-09-21"
     },
@@ -3377,7 +3377,7 @@
       "date": "1890-02-08"
     },
     "780": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1890-02-08"
     },
@@ -3977,7 +3977,7 @@
       "date": "1894-10-26"
     },
     "901": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "support",
       "date": "1894-10-26"
     },
