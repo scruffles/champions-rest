@@ -54,16 +54,22 @@ console.log("\nBuilding missing thumbnails…");
 if (!run("node", [path.join(__dirname, "build-thumbnails.cjs")])) fail(["Thumbnail build failed."]);
 
 // 4. Sync.
-const sync = (from, to, label) => {
+const sync = (from, to, label, extra = []) => {
   if (!fs.existsSync(from)) {
     console.warn(`\nSkipping ${label}: ${from} doesn't exist.`);
     return true;
   }
   console.log(`\nSyncing ${label}${dryRun ? " (dry run)" : ""}:\n  ${from} → ${to}`);
-  return run("aws", ["s3", "sync", from + path.sep, to, ...(dryRun ? ["--dryrun"] : [])]);
+  return run("aws", ["s3", "sync", from + path.sep, to, ...extra, ...(dryRun ? ["--dryrun"] : [])]);
 };
 
-const ok = sync(stagingDir, `${BUCKET}/images/articles/`, "article images and transcripts") && sync(thumbsDir, `${BUCKET}/images/thumbs/`, "thumbnails");
+// Re-cut clippings (image-NNNc.jpg) are made in public/images/articles, not in the staging folder,
+// so they are synced from there. Only the c-files are sent; the rest of that folder is already in staging.
+const cropsDir = path.join(root, "public", "images", "articles");
+const ok =
+  sync(stagingDir, `${BUCKET}/images/articles/`, "article images and transcripts") &&
+  sync(cropsDir, `${BUCKET}/images/articles/`, "re-cut clippings", ["--exclude", "*", "--include", "image-*c.jpg"]) &&
+  sync(thumbsDir, `${BUCKET}/images/thumbs/`, "thumbnails");
 
 if (!ok) fail(["An upload failed. Check the error above, then run this again; files already uploaded are skipped."]);
 console.log(dryRun ? "\nDry run finished. Nothing was uploaded." : "\nUpload finished.");

@@ -11,6 +11,9 @@
 - Duplicates merged and removed: 943 into 942, 986 into 985, 1005 and 1006 into 1004, 1010 into 1009
 - `scripts/cut-clipping.cjs` trims horizontal rules and blank bands at each segment's ends (`--legacy=1` for the old trim); `scripts/clip-tools.cjs` and the `crop-clipping` skill added
 - Search index rebuilt
+- Hand-cut clippings installed and uploaded: 909 (`image-909c.jpg`), 926 (`image-926c.jpg`), 969 (`image-969c.jpg`); thumbnails rebuilt
+- Merged: 906 text replaced by the full transcript and 907 removed; 909 text replaced by the full feature and 910–914 removed; 926 text replaced by the full column and 927 removed; 970 removed (same article as 969)
+- `scripts/upload-images.cjs` also syncs the re-cut clippings (`image-NNNc.jpg`) from `public/images/articles`
 
 ## 2026-11-14
 
@@ -203,3 +206,7 @@ Run in this order. Source fixes come first, so the later steps don't have to be 
 - Go through articles for quotes
 - Continue adding articles under /articles/to-sort
 - Look into viewership metrics
+
+### Media
+- Scan every full-page scan for photographs and drawings of Tom Allen (the portraits, the sketches and any photographs in the articles), noting the page, article id and caption
+- Build a "media" page of those images with captions and links to the articles, or merge any photos that are missing into the existing media page

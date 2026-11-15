@@ -4007,7 +4007,7 @@
       "date": "1895-02-24"
     },
     "907": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1895-02-24"
     },
@@ -4022,27 +4022,27 @@
       "date": "1895-03-31"
     },
     "910": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1895-03-31"
     },
     "911": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1895-03-31"
     },
     "912": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1895-03-31"
     },
     "913": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1895-03-31"
     },
     "914": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "key",
       "date": "1895-03-31"
     },
@@ -4107,7 +4107,7 @@
       "date": "1896-02-18"
     },
     "927": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "support",
       "date": "1896-02-18"
     },
@@ -4322,7 +4322,7 @@
       "date": "1897-12-29"
     },
     "970": {
-      "status": "reviewed",
+      "status": "skipped",
       "importance": "mention",
       "date": "1897-12-29"
     },
