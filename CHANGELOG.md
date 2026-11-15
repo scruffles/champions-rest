@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-11-15
+
+### Added
+- 47 re-cut clippings installed and uploaded to S3, each with a rebuilt thumbnail: 1000, 1004, 1009, 185, 186, 252, 407, 478, 493, 498, 506, 520, 525, 526, 539, 570, 573, 587, 633, 647, 667, 675, 681, 685, 699, 701 (crop from 702), 712, 739, 771, 777, 837, 859, 876, 891, 896, 897, 898, 906, 924, 930, 931, 942, 955, 962, 965, 974, 985
+- Crop of 307 (`image-307c.jpg`) uploaded to S3; its thumbnail rebuilt
+- `review/MISSING-PAGES.md`: articles whose clipping is missing a page, torn or cut short
+
+### Changed
+- Duplicates merged and removed: 943 into 942, 986 into 985, 1005 and 1006 into 1004, 1010 into 1009
+- `scripts/cut-clipping.cjs` trims horizontal rules and blank bands at each segment's ends (`--legacy=1` for the old trim); `scripts/clip-tools.cjs` and the `crop-clipping` skill added
+- Search index rebuilt
+
 ## 2026-11-14
 
 ### Added
