@@ -2,8 +2,8 @@
   "id": "923",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "The clipping is the bottom of the last column of 'Macon's Melange' by Macon McCormick; the headline and start are at the top of the page. The right edge cuts off the last letters of lines in the lower half, and the article continues past 'None of these men but Corbett ever a…'. The top third is an illustration of a man's coat, and the bottom is a Backus Heater ad. The Allen sentences are readable despite the clipped edge."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-923c.jpg). Was: The clipping is the bottom of the last column of 'Macon's Melange' by Macon McCormick; the headline and start are at the top of the page. The right edge cuts off the last letters of lines in the lower half, and the article continues past 'None of these men but Corbett ever a…'. The top third is an illustration of a man's coat, and the bottom is a Backus Heater ad. The Allen sentences are readable despite the clipped edge."
   },
   "ocr": {
     "status": "rough",

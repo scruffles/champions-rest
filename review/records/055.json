@@ -1,36 +1,50 @@
 {
   "id": "055",
-  "reviewed": "2026-11-03",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Clipping replaced after review (was no_crop); file on site: images/articles/image-055b.jpg. Not yet re-reviewed."
+    "notes": "Short two-item notice cut from the page."
   },
   "ocr": {
-    "status": "ok",
-    "notes": "Transcript added after review (257 chars). Not yet re-reviewed."
+    "status": "good",
+    "notes": "Source transcript of 257 chars; first item is an unrelated Harper's magazine notice."
   },
-  "about_tom": "unsure",
+  "about_tom": "yes",
   "title": {
     "ok": false,
-    "suggested": ""
+    "suggested": "Advertisement for Tom Allen's Free and Easy"
   },
   "summary": {
     "ok": false,
-    "suggested": ""
+    "suggested": "The St. Louis Evening Dispatch carried a notice calling Tom Allen's Free and Easy at 417 Washington Avenue the best and coolest place of amusement in the city, with the champion keeping order."
   },
   "focus": {
     "current": "",
-    "suggested": ""
+    "suggested": "primary"
   },
   "tags": [
     "Saloon"
   ],
   "metadata": {
-    "date_ok": false,
+    "date_ok": true,
     "publication_ok": false,
-    "notes": "Can't be checked without an image. 1874-11-14 was a Saturday, which matches the filename. The St. Louis Post-Dispatch did not exist until December 1878 (when the Post and the Dispatch merged), so the paper is more likely the St. Louis Dispatch."
+    "publication": "St. Louis Evening Dispatch",
+    "notes": "1874-11-14 is before the Post-Dispatch existed (1878-12). The clipping begins with an unrelated Harper's Magazine notice."
   },
-  "facts": [],
-  "needs_human": true,
-  "notes": "Nothing to review: there are no images and no text. Going by the current title, this is an advertisement for Allen's free-and-easy, which in Nov. 1874 would have been at 417 Washington Ave (index 017). The owner needs to find the source image and run prep again. The title 'ad for free and easy' is lowercase and vague; once the image is available, something like 'Advertisement for Tom Allen's Free and Easy' would suit. No summary exists yet."
+  "facts": [
+    {
+      "fact": "Allen ran the Free and Easy at 417 Washington Avenue, St. Louis; a notice said latest songs were sung every night and the champion kept order",
+      "date": "1874-11",
+      "people": [],
+      "places": [
+        "417 Washington Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "017"
+    }
+  ],
+  "needs_human": false,
+  "notes": "Image and text now exist. OCR \"17 Washington avenue\" read as 417 in the database text."
 }

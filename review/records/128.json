@@ -1,22 +1,22 @@
 {
   "id": "128",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Clipping replaced after review (was no_crop); file on site: images/articles/image-128b.jpg. Not yet re-reviewed."
+    "notes": "Whole short item with its headline."
   },
   "ocr": {
-    "status": "ok",
-    "notes": "Transcript added after review (367 chars). Not yet re-reviewed."
+    "status": "good",
+    "notes": "Minor errors only."
   },
-  "about_tom": "unsure",
+  "about_tom": "yes",
   "title": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "Allen and others renew bonds after Flint-McManus fight indictment"
   },
   "summary": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen and four others, arrested over the Flint-McManus fight, were indicted by a Franklin County grand jury and renewed their bonds before Judge Noonan."
   },
   "focus": {
     "current": "primary",
@@ -28,9 +28,43 @@
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
-    "notes": "Cannot be checked without an image."
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "Headline 'Gave Bond Again'."
   },
-  "facts": [],
-  "needs_human": true,
-  "notes": "Nothing to review: no image and no text. Only the title ('Allen arrested in connection to a fight') suggests the content. The article needs to be found on the May 19, 1888 page, clipped and transcribed. It may relate to article 129 (May 20, 1888), which mentions the crowd at Allen's expecting something from 'Tom's pugnacity', or to the April 16 McManus–Flint fight (127)."
+  "facts": [
+    {
+      "fact": "Allen, with Tom Kelly, Jake Esher, Jim Sweeney and T. J. Tucker, was indicted by the Franklin County grand jury over the Flint-McManus fight",
+      "date": "1888-05",
+      "people": [
+        "Tom Kelly",
+        "Jake Esher",
+        "Jim Sweeney",
+        "T. J. Tucker",
+        "Judge Noonan"
+      ],
+      "places": [
+        "Franklin County, Missouri"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen renewed his bond before Judge Noonan after the indictment",
+      "date": "1888-05-19",
+      "people": [
+        "Judge Noonan"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "legal",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Current title is vague about the outcome; related to 127."
 }

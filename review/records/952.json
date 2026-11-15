@@ -2,8 +2,8 @@
   "id": "952",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Has the top quote, the Allen drawing and the headline, and the first column of text, but the right side is cut: the second column is clipped mid-line and the article continues into a third column (ending 'R. J. Collins') that is not in the clipping. The Tom Allen's Idea vignette in the center of the page is also outside the crop."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-952c.jpg). Was: Has the top quote, the Allen drawing and the headline, and the first column of text, but the right side is cut: the second column is clipped mid-line and the article continues into a third column (ending 'R. J. Collins') that is not in the clipping. The Tom Allen's Idea vignette in the center of the page is also outside the crop."
   },
   "ocr": {
     "status": "rough",

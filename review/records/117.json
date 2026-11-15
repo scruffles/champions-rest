@@ -2,8 +2,8 @@
   "id": "117",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Has the headline through the last paragraph, with the illustrations. But one paragraph is left out. On the page, below the 'A Sentimental Song' illustration at the foot of the first column, a paragraph begins 'With scarcely an exception, the songs sung while the artist was present...'. It is not in the crop. The crop's pieces are joined across a page fold, so a strip of the masthead appears in crop-6."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-117c.jpg). Was: Has the headline through the last paragraph, with the illustrations. But one paragraph is left out. On the page, below the 'A Sentimental Song' illustration at the foot of the first column, a paragraph begins 'With scarcely an exception, the songs sung while the artist was present...'. It is not in the crop. The crop's pieces are joined across a page fold, so a strip of the masthead appears in crop-6."
   },
   "ocr": {
     "status": "rough",

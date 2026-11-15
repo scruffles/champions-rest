@@ -2,8 +2,8 @@
   "id": "969",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping is only a caption fragment ('Oscar J. ... The big heavyweight who will meet ...torium') and four lines of the 'Fitz and Corbett' story continued under the McGiboney portrait. The Tom Allen paragraph that follows on the page is not in the clipping."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-969c.jpg). Was: Clipping is only a caption fragment ('Oscar J. ... The big heavyweight who will meet ...torium') and four lines of the 'Fitz and Corbett' story continued under the McGiboney portrait. The Tom Allen paragraph that follows on the page is not in the clipping."
   },
   "ocr": {
     "status": "rough",
@@ -32,6 +32,6 @@
     "notes": "Masthead: Wednesday, St. Louis Post-Dispatch, December 29, 1897, page 5. Same story as article 970 (its continuation)."
   },
   "facts": [],
-  "needs_human": true,
-  "notes": "On the scaled page a paragraph beginning 'Tom Allen: Fighting was different in the days when I was a fighter...' appears below the clipped lines, but it is too small to read verbatim and is outside the crop. Needs a re-crop of the column under the McGiboney portrait; 'at ringside' in the current title/summary is not supported. Consider merging with 970."
+  "needs_human": false,
+  "notes": "Hand crop installed 2026-11-15 includes the Tom Allen paragraph. Was: On the scaled page a paragraph beginning 'Tom Allen: Fighting was different in the days when I was a fighter...' appears below the clipped lines, but it is too small to read verbatim and is outside the crop. Needs a re-crop of the column under the McGiboney portrait; 'at ringside' in the current title/summary is not supported. Consider merging with 970."
 }

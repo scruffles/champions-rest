@@ -62,6 +62,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Decide whether this record should be the Prize Ring item (in the clipping) or the Free and Easy notice the current title/summary describe (on the page, column 2, not clipped). The quote is printed as the champion's opinion, not as a direct interview quote."
+  "needs_human": false,
+  "notes": "Title and summary now describe the Prize Ring item in the clipping (merged 2026-11-15). Was: Decide whether this record should be the Prize Ring item (in the clipping) or the Free and Easy notice the current title/summary describe (on the page, column 2, not clipped). The quote is printed as the champion's opinion, not as a direct interview quote."
 }

@@ -2,8 +2,8 @@
   "id": "876",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping is the 'Crimson and Blue' column (football, Greggains-Costello, Dixon, Al Smith). Only the headline deck mentions Allen; the Mitchell letter itself is under 'The Ring' in a later column on the page, not in this clipping (it is article 877)."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-876c.jpg). Was: Clipping is the 'Crimson and Blue' column (football, Greggains-Costello, Dixon, Al Smith). Only the headline deck mentions Allen; the Mitchell letter itself is under 'The Ring' in a later column on the page, not in this clipping (it is article 877)."
   },
   "ocr": {
     "status": "good",
@@ -32,6 +32,6 @@
     "notes": "Masthead: St. Louis Post-Dispatch, Saturday Evening, November 19, 1892, page 8."
   },
   "facts": [],
-  "needs_human": true,
-  "notes": "Headline for the letter text in article 877; consider merging 876 into 877 or recropping. Facts recorded under 877."
+  "needs_human": false,
+  "notes": "Checked 2026-11-15: 877 is a separate item (THE RING, next column); both kept. Was: Headline for the letter text in article 877; consider merging 876 into 877 or recropping. Facts recorded under 877."
 }

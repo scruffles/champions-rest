@@ -2,8 +2,8 @@
   "id": "603",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping holds only the column's headlines and the first baseball paragraph. The Allen item ('The Ring', column 3 of the page) is not in the crop and is too small to read on page.jpg."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-603c.jpg). Was: Clipping holds only the column's headlines and the first baseball paragraph. The Allen item ('The Ring', column 3 of the page) is not in the crop and is too small to read on page.jpg."
   },
   "ocr": {
     "status": "good",
@@ -43,6 +43,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Re-crop needed: include 'The Ring' item (column 3 of the page, apparently headed 'Tom Allen to Fight Again'), which likely names the opponent (Charley Davis?) and stakes. Not readable at page.jpg resolution, so no details recorded."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-603c.jpg). Was: Re-crop needed: include 'The Ring' item (column 3 of the page, apparently headed 'Tom Allen to Fight Again'), which likely names the opponent (Charley Davis?) and stakes. Not readable at page.jpg resolution, so no details recorded."
 }

@@ -1,25 +1,25 @@
 {
   "id": "855",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
-    "status": "cut_off",
-    "notes": "The headline and decks ('Who Will Win? Prophecies as to the Results in the Coming Pugilistic Contests...') at the top of column 1 are not in the clipping; it starts at 'Special Correspondence'. The article also continues into column 2 (the sporting press opinions, letters and betting), which is clipped separately as 856. Allen's line is in crop-5."
+    "status": "ok",
+    "notes": "Joined clippings of the whole Inter Ocean canvass, expert opinions through the betting odds."
   },
   "ocr": {
     "status": "rough",
-    "notes": "Left edge of column is clipped in the image, so first letters are lost in OCR; names and numbers mostly readable. Allen line OCR'd as 'Tem Allen ... illivan, 20 to 30; McAulifte. 25'."
+    "notes": "OCR text of two parts joined; some lines duplicated and garbled; Allen lines readable"
   },
   "about_tom": "yes",
   "title": {
     "ok": false,
-    "suggested": "Tom Allen among experts predicting the New Orleans fights"
+    "suggested": "Tom Allen picks Sullivan in expert predictions for New Orleans fights"
   },
   "summary": {
     "ok": false,
-    "suggested": "The St. Louis Globe-Democrat reprinted an Inter Ocean canvass of experts on the September 1892 New Orleans fights. Tom Allen, \"ex-heavy-weight champion,\" picked Sullivan over Corbett in 20 to 30 rounds."
+    "suggested": "The St. Louis Globe-Democrat reprinted a Chicago Inter Ocean canvass of experts on the September 1892 New Orleans fights. Tom Allen picked Sullivan over Corbett in 20 to 30 rounds."
   },
   "focus": {
-    "current": "passing",
+    "current": "secondary",
     "suggested": "passing"
   },
   "tags": [
@@ -29,11 +29,11 @@
     "date_ok": true,
     "publication_ok": true,
     "publication": "St. Louis Globe-Democrat",
-    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, August 21, 1892, page 29. Dateline Chicago, August 18; canvass by the Chicago Inter Ocean."
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, August 21, 1892. Dateline Chicago, August 18; canvass by the Chicago Inter Ocean."
   },
   "facts": [
     {
-      "fact": "Asked by the Inter Ocean to predict the September 1892 New Orleans fights, Allen picked Sullivan to beat Corbett in 20 to 30 rounds, McAuliffe in 25 and Dixon in 10",
+      "fact": "Asked by the Inter Ocean to predict the September 1892 New Orleans fights, Allen, 'ex-heavy-weight champion', picked Sullivan to beat Corbett in 20 to 30 rounds, McAuliffe in 25 and Dixon in 10",
       "date": "1892-08",
       "people": [
         "John L. Sullivan",
@@ -44,12 +44,27 @@
       "places": [
         "New Orleans"
       ],
-      "quote": "Sullivan, 20 to 30; McAuliffe, 25; Dixon, 10.",
+      "quote": "",
       "kind": "quote",
       "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, called the heavy-weight champion, quoted betting odds on the New Orleans fights of 7 to 4 on Sullivan and 5 to 4 on McAuliffe",
+      "date": "1892-08",
+      "people": [
+        "John L. Sullivan",
+        "Jack McAuliffe"
+      ],
+      "places": [
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
       "existing_fact": ""
     }
   ],
   "needs_human": false,
-  "notes": "855 and 856 are two halves of the same article on the same page (856 is the column 2 continuation, with Allen's betting odds); consider linking or merging them. The current title has no reference to Allen."
+  "notes": "Current title names no one; focus is passing (one line in a list of about 150 opinions plus one odds line). Dixon odds OCR'd '3-i', omitted."
 }

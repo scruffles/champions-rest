@@ -2,8 +2,8 @@
   "id": "178",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Bottom cut off: the article continues below the clipping ('Nothing was left of the herculean McCoole ...') and the rest of the column is not in the crop. The page image is too small to read the remainder."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-178c.jpg). Was: Bottom cut off: the article continues below the clipping ('Nothing was left of the herculean McCoole ...') and the rest of the column is not in the crop. The page image is too small to read the remainder."
   },
   "ocr": {
     "status": "good",
@@ -49,6 +49,6 @@
       "existing_fact": "024"
     }
   ],
-  "needs_human": true,
-  "notes": "Needs a re-crop to capture the rest of the article. Siler says McCoole beat Allen for the world championship in 1870 and died 'early in the 80s'; both are secondhand recollections and the dates are doubtful."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-178c.jpg). Was: Needs a re-crop to capture the rest of the article. Siler says McCoole beat Allen for the world championship in 1870 and died 'early in the 80s'; both are secondhand recollections and the dates are doubtful."
 }

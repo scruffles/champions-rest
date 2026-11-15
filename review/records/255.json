@@ -1,77 +1,104 @@
 {
   "id": "255",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
-    "status": "no_crop",
-    "notes": "crop-1 is the whole of page 13A (Mar 30, 1941), and page.jpg is page 14A. The Allen story is John E. Wray's 'It Happened 68 Years Ago! Tom Allen, 50 Pounds Lighter, Beat Mike McCoole in First Title Go Here' in the lower left of 13A, with a 'Champion's Rest' drawing. It continues on 14A as 'St. Louis' First Title Fight 68 Years Ago / Sure We Had a World Champion', with two photos and a 'When St. Louis Was Fight Center of the World' chronology box. Both parts need their own crops."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-255c.jpg). Was: Begins mid-article under 'Continued From Preceding Page'; the first page (13A) is not held in this transcript."
   },
   "ocr": {
-    "status": "unusable",
-    "notes": "The transcript is a different article: baseball (Browns vs. Bees, Cardinals vs. Phillies) and a Joe Louis caption. None of the Allen story is transcribed. I read the facts below from zoomed crops of the full-resolution page images."
+    "status": "good",
+    "notes": "hand transcript"
   },
   "about_tom": "yes",
   "title": {
-    "ok": false,
-    "suggested": "St. Louis' First Title Fight, 68 Years Ago"
+    "ok": true,
+    "suggested": ""
   },
   "summary": {
     "ok": false,
-    "suggested": "The St. Louis Post-Dispatch's John E. Wray retold Tom Allen's 1869 fight with Mike McCoole, lost on an intimidated referee's decision, and his 1873 win over McCoole on Chouteau Island, which the paper called St. Louis' first world title fight."
+    "suggested": "The St. Louis Post-Dispatch's John E. Wray retold Tom Allen's 1869 fight with Mike McCoole, lost on an intimidated referee's decision, and his 1873 win over McCoole on Chouteau Island."
   },
   "focus": {
-    "current": "",
+    "current": "primary",
     "suggested": "primary"
   },
   "tags": [
     "Legacy",
     "Fights",
-    "Saloon"
+    "Profiles"
   ],
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
     "publication": "St. Louis Post-Dispatch",
-    "notes": "Masthead: St. Louis Post-Dispatch, Sunday Morning, March 30, 1941, pages 13A and 14A. The article says Allen died in 1904 at age 64; he died in 1903."
+    "notes": "St. Louis Post-Dispatch, Sunday Morning, March 30, 1941, page 14A."
   },
   "facts": [
     {
-      "fact": "Allen and Mike McCoole first fought in 1869 on Foster's Island in the Mississippi, not far from St. Louis, admittedly for the American title",
+      "fact": "Allen and McCoole first fought in 1869 on Foster's Island in the Mississippi near St. Louis; the ringside mob cut the ropes behind McCoole and threatened Allen with knives and guns",
       "date": "1869",
       "people": [
         "Mike McCoole"
       ],
       "places": [
-        "Foster's Island, Mississippi River, near St. Louis"
+        "Foster's Island, near St. Louis"
       ],
       "quote": "",
       "kind": "fight",
-      "confidence": "medium",
+      "confidence": "high",
       "existing_fact": ""
     },
     {
-      "fact": "In the 1869 fight a mob of McCoole supporters slashed the ropes and rushed the referee with knives and revolvers in the ninth round; that night, from the stage of the Casino Theater, referee Valentine McKinney gave the decision to McCoole on a foul, saying Allen had gouged his eye",
+      "fact": "Referee Valentine McKinney ruled for McCoole that night at the Casino Theater, claiming Allen fouled by gouging an eye",
       "date": "1869",
       "people": [
-        "Mike McCoole",
-        "Valentine McKinney"
+        "Valentine McKinney",
+        "Mike McCoole"
       ],
       "places": [
         "Casino Theater, St. Louis"
       ],
       "quote": "",
       "kind": "fight",
-      "confidence": "medium",
+      "confidence": "high",
       "existing_fact": ""
     },
     {
-      "fact": "Allen beat McCoole on Sept. 23, 1873, on Chouteau Island (now part of the Illinois mainland at East St. Louis), in 16 minutes and seven rounds, when McCoole's second Tom Kelly threw in the towel; the fight was billed for the world title",
+      "fact": "Allen beat McCoole in seven rounds (16 minutes) on Chouteau Island, Sept. 23, 1873, for the world title when Tom Kelly threw in the towel; Allen was 33 years old and about 170 pounds",
       "date": "1873-09-23",
       "people": [
         "Mike McCoole",
         "Tom Kelly"
       ],
       "places": [
-        "Chouteau Island, Mississippi River, near East St. Louis"
+        "Chouteau Island, East St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen covered $800 of McCoole's $1,000 bet and McCoole offered to lend him the other $200",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen asked his handler Johnny Daly for a file and sharpened his spikes in his corner in front of McCoole",
+      "date": "1873-09-23",
+      "people": [
+        "Johnny Daly",
+        "Mike McCoole"
+      ],
+      "places": [
+        "Chouteau Island"
       ],
       "quote": "",
       "kind": "fight",
@@ -79,22 +106,19 @@
       "existing_fact": ""
     },
     {
-      "fact": "Allen to McCoole's second during the 1873 fight, as the 1941 article quotes him",
+      "fact": "Allen shouted to Kelly: 'It's a shame to keep such a man before me. Take him out!'",
       "date": "1873-09-23",
       "people": [
-        "Tom Kelly",
-        "Mike McCoole"
+        "Tom Kelly"
       ],
-      "places": [
-        "Chouteau Island, Mississippi River"
-      ],
+      "places": [],
       "quote": "It's a shame to keep such a man before me. Take him out!",
       "kind": "quote",
-      "confidence": "medium",
+      "confidence": "high",
       "existing_fact": ""
     },
     {
-      "fact": "At 37, Allen lost the championship to Joe Goss in 21 rounds on a foul and then retired",
+      "fact": "Allen lost his title to Joe Goss three years later, at age 37",
       "date": "1876",
       "people": [
         "Joe Goss"
@@ -102,22 +126,20 @@
       "places": [],
       "quote": "",
       "kind": "fight",
-      "confidence": "medium",
+      "confidence": "high",
       "existing_fact": ""
     },
     {
-      "fact": "After retiring, Allen named his saloon on Market near Seventh Street \"Champion's Rest\"; the photo caption puts it where the American Hotel later stood",
+      "fact": "In his later years Allen was a retired proprietor of the Champion's Rest saloon",
       "date": "",
       "people": [],
-      "places": [
-        "Market Street near Seventh, St. Louis"
-      ],
+      "places": [],
       "quote": "",
       "kind": "saloon",
       "confidence": "medium",
-      "existing_fact": "011"
+      "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Needs proper crops of both parts (13A and 14A) and a new transcript. The OCR is a baseball story. I read the text from zoomed sections of public/images/articles/image-255b.jpg (13A) and image-255.jpg (14A); I did not read every paragraph of the continuation or the chronology box. The current summary says Jem Mace refereed the 1869 fight; the article names Valentine McKinney. The current title '2 pages' is a placeholder."
+  "needs_human": false,
+  "notes": "Photo caption says Allen was 37 when he lost to Goss in 1876 and was a resident of St. Louis in 1873. Earlier record noted the article misdates his death; the held text does not."
 }

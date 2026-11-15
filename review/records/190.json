@@ -47,6 +47,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Nothing in the listing says this Tom Allen is the boxer; it could be another man of the same name. Fact date is the listing date; the deed date is not given."
+  "needs_human": false,
+  "notes": "Kept (decided 2026-11-15). Was: Nothing in the listing says this Tom Allen is the boxer; it could be another man of the same name. Fact date is the listing date; the deed date is not given."
 }

@@ -1,50 +1,52 @@
 {
   "id": "678",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
-    "status": "wrong_article",
-    "notes": "Crop shows only the short 'Tips. At Home and Abroad' item (Allen and Fred Watkins weighed at 202 and 200 pounds). The article the title and summary describe, 'Tom Allen Returns to St. Louis After Six Years' Absence', sits at the top of column 1 of the page and is not in the crop. Needs a recrop."
+    "status": "ok",
+    "notes": "Crop is the \"Tips. At Home and Abroad.\" sports column; only one sentence is about Allen."
   },
   "ocr": {
-    "status": "unusable",
-    "notes": "Transcript matches the Tips item in the crop, not the return article; the return article has no transcript."
+    "status": "good",
+    "notes": "New hand transcript matches the crop."
   },
   "about_tom": "yes",
   "title": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "Tom Allen and Fred Watkins weighed"
   },
   "summary": {
     "ok": false,
-    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen, the ex-champion, returned to St. Louis hale and hearty after six years' absence."
+    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen and Fred Watkins were weighed the day before, Allen at 202 pounds and Watkins at 200."
   },
   "focus": {
     "current": "primary",
-    "suggested": "primary"
+    "suggested": "passing"
   },
   "tags": [
-    "Personal life"
+    "Fights"
   ],
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
     "publication": "St. Louis Globe-Democrat",
-    "notes": "Masthead: St. Louis Daily Globe-Democrat, Saturday Morning, December 30, 1882, page 5."
+    "notes": "Masthead earlier recorded as St. Louis Daily Globe-Democrat, Sat. Dec 30, 1882, p. 5. The return-after-six-years article is not in this crop, so the current title and summary do not fit it."
   },
   "facts": [
     {
-      "fact": "Allen returned to St. Louis after six years' absence",
-      "date": "1882-12",
-      "people": [],
+      "fact": "Allen weighed 202 pounds when he and Fred Watkins (200 pounds) were weighed, stripped of heavy clothing",
+      "date": "1882-12-29",
+      "people": [
+        "Fred Watkins"
+      ],
       "places": [
         "St. Louis"
       ],
       "quote": "",
-      "kind": "travel",
-      "confidence": "medium",
-      "existing_fact": "016"
+      "kind": "other",
+      "confidence": "high",
+      "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Fact taken only from the headline and deck of the return article, readable on the scaled page; its body is too small to read. Summary 'several years in England' corrected to the headline's 'six years'; the body text cannot be checked until recropped."
+  "needs_human": false,
+  "notes": "Tag Fights is a guess: the text does not say why they were weighed. If the Allen return article is wanted, it needs its own crop and entry (see earlier record). Allen was in St. Louis by this date (cf. fact 016)."
 }

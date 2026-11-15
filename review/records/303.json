@@ -1,22 +1,22 @@
 {
   "id": "303",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
-    "status": "cut_off",
-    "notes": "This is the end of the 'Fistiana' fight report (rounds 25-43 and the return trip); it starts mid-sentence in round 25. The headline and start are in article 304; rounds 1-24 are in neither clipping."
+    "status": "ok",
+    "notes": "Hand-cut full fight report."
   },
   "ocr": {
-    "status": "unusable",
-    "notes": "Transcript is mostly garbled; the image is readable."
+    "status": "good",
+    "notes": "hand transcript"
   },
   "about_tom": "yes",
   "title": {
     "ok": false,
-    "suggested": "Tom Allen Defeats Bill Davis in 43 Rounds"
+    "suggested": "Tom Allen defeats Bill Davis in 43 rounds at Rhodes' Point"
   },
   "summary": {
     "ok": false,
-    "suggested": "The Daily Missouri Democrat reported that Tom Allen beat Bill Davis in 43 rounds lasting 41 minutes, when McCoole threw up the sponge for Davis, and that Allen then quarreled with Charley Gallagher and offered to fight him."
+    "suggested": "The Daily Missouri Democrat reported that Tom Allen beat William M. Davis in 43 rounds and 41 minutes on Chouteau Island near Rhodes' Point. Allen and Charley Gallagher then quarreled and a match was made."
   },
   "focus": {
     "current": "primary",
@@ -30,11 +30,23 @@
     "date_ok": true,
     "publication_ok": false,
     "publication": "Daily Missouri Democrat",
-    "notes": "Masthead reads 'Daily Democrat', Wednesday morning, Jan. 13, 1869. Before the 1875 merger, so not the Globe-Democrat."
+    "notes": "Masthead reads 'Daily Democrat', Wednesday morning, Jan. 13, 1869. Before the 1875 merger, so not the Globe-Democrat. Database still lists the Globe-Democrat."
   },
   "facts": [
     {
-      "fact": "Allen beat William M. Davis in 43 rounds lasting 41 minutes; Mike McCoole, Davis's second, threw up the sponge, and Allen showed little sign of punishment",
+      "fact": "Allen, born in Birmingham, England, in 1841 by this account (aged 28), had been in the US eighteen months; this was his first fight in this country",
+      "date": "1869-01-12",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "low",
+      "existing_fact": "001"
+    },
+    {
+      "fact": "Allen beat William M. Davis in 43 rounds lasting 41 minutes on Chouteau Island near Rhodes' Point, about twelve miles above St. Louis; Mike McCoole, Davis's second, threw up the sponge",
       "date": "1869-01-12",
       "people": [
         "William M. Davis",
@@ -77,21 +89,7 @@
       "existing_fact": ""
     },
     {
-      "fact": "When Gallagher offered to fight in two or three weeks, Allen offered to fight him on the spot",
-      "date": "1869-01-12",
-      "people": [
-        "Charley Gallagher"
-      ],
-      "places": [
-        "Chouteau Island, near Rhodes' Point"
-      ],
-      "quote": "I'll fight you now for $500. You are a cur!",
-      "kind": "quote",
-      "confidence": "high",
-      "existing_fact": ""
-    },
-    {
-      "fact": "On the boat back to St. Louis Allen and Gallagher nearly fought in the cabin before the crowd kept them apart",
+      "fact": "On the boat back to St. Louis Allen and Gallagher nearly came to blows in the cabin before the crowd kept them apart",
       "date": "1869-01-12",
       "people": [
         "Charley Gallagher"
@@ -99,20 +97,20 @@
       "places": [
         "steamer returning to St. Louis"
       ],
-      "quote": "You are a blarsted, bloody coward.",
-      "kind": "quote",
+      "quote": "",
+      "kind": "other",
       "confidence": "high",
       "existing_fact": ""
     },
     {
-      "fact": "A $50 forfeit was put up for Gallagher to fight Allen or Tom Kelley within five weeks for $500 a side, with articles to be signed at Ryall's on Washington avenue",
+      "fact": "A $50 forfeit was put up for Gallagher to fight Allen or Tom Kelley within five weeks for $500 a side",
       "date": "1869-01-12",
       "people": [
         "Charley Gallagher",
         "Tom Kelley"
       ],
       "places": [
-        "Ryall's, Washington avenue, St. Louis"
+        "St. Louis"
       ],
       "quote": "",
       "kind": "challenge",
@@ -121,5 +119,5 @@
     }
   ],
   "needs_human": false,
-  "notes": "Same article as 304 (its continuation); the two could be merged. The current title wrongly says forty-one rounds (it was 43 rounds in 41 minutes), and the summary's 'on a steamboat' is wrong: the fight was on shore; the crowd travelled by boat. Allen also collected a contribution for Davis on the way back."
+  "notes": "Allen is given as born 1841 here against 1839 in the facts index. Round-by-round [?] marks are transcript uncertainties, not facts. The fight was on shore; the crowd travelled by steamer Henry Adkins."
 }

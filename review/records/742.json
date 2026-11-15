@@ -2,8 +2,8 @@
   "id": "742",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping covers only the first column of the Thurston story and runs into the St. Bernard Dollar Store ad (crops 5-6). The article continues for two more columns on the page; the continuation is not in the clipping."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-742c.jpg). Was: Clipping covers only the first column of the Thurston story and runs into the St. Bernard Dollar Store ad (crops 5-6). The article continues for two more columns on the page; the continuation is not in the clipping."
   },
   "ocr": {
     "status": "rough",
@@ -45,6 +45,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "The crop misses the article's continuation in the next two columns, which may mention Allen again; a recrop is needed to check."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-742c.jpg). Was: The crop misses the article's continuation in the next two columns, which may mention Allen again; a recrop is needed to check."
 }

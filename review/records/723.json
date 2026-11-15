@@ -2,8 +2,8 @@
   "id": "723",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Stops at 'THE RICHARDS CUP'. The page shows the report continuing down column 1 (foot races, pole-leaping, light- and heavy-weight sparring) and possibly into column 2, which may mention Allen again. Left edge of the text is slightly clipped."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-15 (image-723c.jpg). Was: Stops at 'THE RICHARDS CUP'. The page shows the report continuing down column 1 (foot races, pole-leaping, light- and heavy-weight sparring) and possibly into column 2, which may mention Allen again. Left edge of the text is slightly clipped."
   },
   "ocr": {
     "status": "good",
@@ -63,6 +63,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Recrop to include the rest of the report; the omitted sparring section may describe the Allen-Kelly bout."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-723c.jpg). Was: Recrop to include the rest of the report; the omitted sparring section may describe the Allen-Kelly bout."
 }

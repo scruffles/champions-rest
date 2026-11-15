@@ -2,8 +2,8 @@
   "id": "1000",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "The two-column headline is cut off on the right: the clipping shows only 'Champion Tom All… / After Long…'; the full headline on the page is 'Champion Tom Allen and \"Apple Mary\" Choose Mates After Long Years of Waiting for the Right Spouse.' The text is also cut off at the bottom ('the fight an-'): the Allen story continues in the next column below the 'Apple Mary' drawing (police stopping the McCool fight, a chartered steamer to Gabaret Island, and his illness and removal to the Baptist Hospital). The rest of that column is the unrelated 'Apple Mary's Wedding' story."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-1000c.jpg). Was: The two-column headline is cut off on the right: the clipping shows only 'Champion Tom All… / After Long…'; the full headline on the page is 'Champion Tom Allen and \"Apple Mary\" Choose Mates After Long Years of Waiting for the Right Spouse.' The text is also cut off at the bottom ('the fight an-'): the Allen story continues in the next column below the 'Apple Mary' drawing (police stopping the McCool fight, a chartered steamer to Gabaret Island, and his illness and removal to the Baptist Hospital). The rest of that column is the unrelated 'Apple Mary's Wedding' story."
   },
   "ocr": {
     "status": "rough",
@@ -139,6 +139,6 @@
       "existing_fact": "043"
     }
   ],
-  "needs_human": true,
-  "notes": "Recrop needed: include the full two-column headline and the continuation of the Allen text in the second column (below the 'Apple Mary' drawing, above 'Apple Mary's Wedding'); the last two facts were read from the scaled-down page and should be checked. Contradictions with other sources: 'widower for thirty years' vs 203's 'still had a wife living in Birmingham' (index 040); Hartgrove 'a widow' vs reports she was still married and seeking a divorce; '65th birthday' implies an 1838 birth, while the index has 1839 (64th)."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-1000c.jpg). Was: Recrop needed: include the full two-column headline and the continuation of the Allen text in the second column (below the 'Apple Mary' drawing, above 'Apple Mary's Wedding'); the last two facts were read from the scaled-down page and should be checked. Contradictions with other sources: 'widower for thirty years' vs 203's 'still had a wife living in Birmingham' (index 040); Hartgrove 'a widow' vs reports she was still married and seeking a divorce; '65th birthday' implies an 1838 birth, while the index has 1839 (64th)."
 }

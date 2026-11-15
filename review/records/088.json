@@ -1,13 +1,13 @@
 {
   "id": "088",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Clipping replaced after review (was no_crop); file on site: images/articles/image-088c.jpg. Not yet re-reviewed."
+    "notes": "Single Theatre Comique notice."
   },
   "ocr": {
-    "status": "missing",
-    "notes": "No transcript."
+    "status": "good",
+    "notes": "Hand transcript matches the short item."
   },
   "about_tom": "yes",
   "title": {
@@ -15,8 +15,8 @@
     "suggested": ""
   },
   "summary": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "The St. Louis Evening Dispatch reported that Tom Allen and Tom Kelly appeared at the Theatre Comique the night before and received a grand reception before a crowded house."
   },
   "focus": {
     "current": "",
@@ -29,9 +29,24 @@
     "date_ok": true,
     "publication_ok": false,
     "publication": "St. Louis Evening Dispatch",
-    "notes": "Cannot check without an image. 1876-09-22 is before 1878-12, so the Dispatch was not yet the Post-Dispatch."
+    "notes": "1876-09-22 is before 1878-12, so the paper is the Evening Dispatch. Masthead not checked."
   },
-  "facts": [],
-  "needs_human": true,
-  "notes": "No image, transcript or summary; only the title ('Allen and Kelly appear on stage'). Focus and tag are guessed from the title. Needs the image (post-dispatch/St__Louis_Post_Dispatch_Fri__Sep_22__1876_.jpg) to review."
+  "facts": [
+    {
+      "fact": "Allen and Tom Kelly appeared on stage at the Theatre Comique, St. Louis, and were given a grand reception before a crowded house",
+      "date": "1876-09-21",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [
+        "Theatre Comique, St. Louis"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Allen and Kelly were appearing just after the Goss fight (Sept 1876); text does not say so."
 }

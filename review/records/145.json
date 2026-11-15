@@ -1,22 +1,22 @@
 {
   "id": "145",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
-    "status": "no_crop",
-    "notes": "The clipping is the whole of page 3 at low resolution. The Allen item is 'The Local Delegation: Prominent St. Louisans Who Will Be at the Ring Side', column 3, upper half."
+    "status": "ok",
+    "notes": "Item 'The Local Delegation'."
   },
   "ocr": {
-    "status": "unusable",
-    "notes": "Transcript is mostly the Sullivan-train item from column 1 and never mentions Allen; its 'Local Delegation' paragraph wrongly says Chicago. The Allen sentences were read only from an enlarged view of the low-resolution page and are blurry."
+    "status": "good",
+    "notes": "hand transcript"
   },
   "about_tom": "yes",
   "title": {
     "ok": false,
-    "suggested": "Allen to join St. Louis party at the Sullivan-Corbett fight"
+    "suggested": "Allen to Go to New Orleans for the Sullivan-Corbett Fight"
   },
   "summary": {
     "ok": false,
-    "suggested": "The St. Louis Post-Dispatch listed Tom Allen, \"America's ex-heavyweight champion,\" among the St. Louisans going to New Orleans for the Sullivan-Corbett fight, accompanied by his old backer and friends."
+    "suggested": "The St. Louis Post-Dispatch listed Tom Allen, America's ex-heavyweight champion, among the St. Louisans leaving Sunday morning for the Sullivan-Corbett fight in New Orleans, accompanied by his old backer Fred Watkins and friends."
   },
   "focus": {
     "current": "",
@@ -29,13 +29,17 @@
     "date_ok": true,
     "publication_ok": true,
     "publication": "St. Louis Post-Dispatch",
-    "notes": "Masthead reads St. Louis Post-Dispatch, Friday, September 2, 1892, page 3."
+    "notes": "Masthead: St. Louis Post-Dispatch, Friday, September 2, 1892, page 3."
   },
   "facts": [
     {
-      "fact": "Allen was to travel from St. Louis to New Orleans with a party of friends and his old backer for the Sullivan-Corbett fight; the delegation was to leave Sunday morning",
+      "fact": "Allen was to leave St. Louis Sunday morning for New Orleans to see the Sullivan-Corbett fight, accompanied by his old backer Fred Watkins, Nobby Clark, Chris Lauff and Billy Dacre",
       "date": "1892-09-04",
       "people": [
+        "Fred Watkins",
+        "Nobby Clark",
+        "Chris Lauff",
+        "Billy Dacre",
         "John L. Sullivan",
         "James J. Corbett"
       ],
@@ -45,10 +49,10 @@
       ],
       "quote": "",
       "kind": "travel",
-      "confidence": "medium",
+      "confidence": "high",
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Needs a proper crop of 'The Local Delegation' (column 3) and a fresh transcript; the low-resolution page makes names (e.g. Allen's backer, 'Fred W...') unreadable. The current summary (McCoole, Mace, Harry Sommers in Chicago) is not supported by the page."
+  "needs_human": false,
+  "notes": "Allen is named in a long list of St. Louis delegates."
 }

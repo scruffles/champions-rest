@@ -1,22 +1,22 @@
 {
   "id": "106",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Whole item, headline 'A Fighter on His Muscle.' to the end; the clipping is split into two stacked pieces in one image."
+    "notes": "Whole item."
   },
   "ocr": {
-    "status": "rough",
-    "notes": "Mostly right but with meaning errors: the image says Allen knocked out Egan (not Brooks), Egan 'once kept' the Canterbury (not 'owned'), the dog was a 'quiet spectator', and Tom 'shook himself away' from the men. Headline missing from transcript."
+    "status": "good",
+    "notes": "hand transcript"
   },
   "about_tom": "yes",
   "title": {
     "ok": false,
-    "suggested": "Allen knocks out Jim Egan in a fight at his free-and-easy"
+    "suggested": "Allen Knocks Out Jim Egan at His Free and Easy"
   },
   "summary": {
     "ok": false,
-    "suggested": "The St. Louis Post-Dispatch reported that Tom Allen knocked out Jim Egan, once keeper of the Canterbury, in a quarrel at Allen's free-and-easy, then drew a pistol on Egan's dog but put it away and had the men ejected."
+    "suggested": "The St. Louis Post-Dispatch reported that Allen knocked out Jim Egan, once keeper of the Canterbury, in a quarrel at his free-and-easy, then drew a pistol on Egan's dog but put it away and had the men ejected."
   },
   "focus": {
     "current": "",
@@ -30,24 +30,24 @@
     "date_ok": true,
     "publication_ok": true,
     "publication": "St. Louis Post-Dispatch",
-    "notes": "Masthead reads 'St. Louis Post-Dispatch Monday, October 29, 1883', page 2; item near bottom of the fifth column."
+    "notes": "Masthead: St. Louis Post-Dispatch, Monday, October 29, 1883, page 2."
   },
   "facts": [
     {
-      "fact": "A short time before Oct. 29, 1883, a couple of thugs attacked Allen and tried to rob him, believing he was past his prime",
+      "fact": "A short time before Oct. 29, 1883, a couple of thugs jumped Allen and tried to rob him, thinking he was past his prime, after a rumor that he had grown stiff and short of wind",
       "date": "1883-10",
       "people": [],
       "places": [
         "St. Louis"
       ],
       "quote": "",
-      "kind": "legal",
+      "kind": "other",
       "confidence": "medium",
       "existing_fact": ""
     },
     {
-      "fact": "Allen knocked out Jim Egan, who once kept the Canterbury, in a quarrel at Allen's free-and-easy; Egan's friend Brooks and Egan's dog joined in, Allen drew his pistol on the dog but put it away, and Egan and his friends were ejected",
-      "date": "1883-10",
+      "fact": "Allen knocked out Jim Egan, who once kept the Canterbury, in a quarrel at his free-and-easy; Egan's friend Brooks grabbed Allen's hand and Egan's dog bit his trousers, Allen drew his pistol on the dog but put it away, and Egan and his friends were ejected",
+      "date": "1883-10-27",
       "people": [
         "Jim Egan",
         "Brooks"
@@ -62,5 +62,5 @@
     }
   ],
   "needs_human": false,
-  "notes": "The current title says 'trouble maker'; the item names Jim Egan and Brooks. The brawl happened 'a couple of days ago', i.e. about Oct. 27, 1883."
+  "notes": "Brawl was about two days before the paper date."
 }

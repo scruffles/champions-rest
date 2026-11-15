@@ -1,26 +1,26 @@
 {
   "id": "891",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping from 'Sporting Notes' stops mid-line after 'free concert every even-'; the rest of the Allen notice is cut off. Also includes an unrelated cricket item."
+    "status": "ok",
+    "notes": ""
   },
   "ocr": {
-    "status": "unusable",
-    "notes": "Transcript is garbled; only 'retired champion pugiliat of the' is recognizable."
+    "status": "good",
+    "notes": "hand transcript"
   },
   "about_tom": "yes",
   "title": {
-    "ok": false,
-    "suggested": "Tom Allen's Concert Saloon Notice"
+    "ok": true,
+    "suggested": ""
   },
   "summary": {
-    "ok": false,
-    "suggested": "The St. Louis Globe-Democrat carried a sporting note for Tom Allen, retired champion pugilist of the world, at 619 Market Street, offering a free concert every evening."
+    "ok": true,
+    "suggested": ""
   },
   "focus": {
     "current": "passing",
-    "suggested": "primary"
+    "suggested": "passing"
   },
   "tags": [
     "Saloon"
@@ -33,18 +33,18 @@
   },
   "facts": [
     {
-      "fact": "Allen, styled retired champion pugilist of the world, ran a saloon at 619 Market Street, St. Louis, with free concerts every evening",
+      "fact": "Allen, styled retired champion pugilist of the world, ran a saloon at 619 Market street with a free concert every evening",
       "date": "1893-06",
       "people": [],
       "places": [
-        "619 Market Street, St. Louis"
+        "619 Market street, St. Louis"
       ],
       "quote": "",
       "kind": "saloon",
       "confidence": "high",
-      "existing_fact": "011"
+      "existing_fact": ""
     }
   ],
   "needs_human": false,
-  "notes": "Same notice as article 892 (1893-07-08), which shows the full text."
+  "notes": "One-line advertisement in the sporting notes."
 }

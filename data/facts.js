@@ -17,7 +17,7 @@ export const facts = [
   },
   {
     id: "006",
-    fact: "Immigrated July 1867 (203 says 1979)",
+    fact: "Immigrated July 1867 (203 says 1869)",
     articles: ["001", "007", "082", "203"],
   },
   {

@@ -1,13 +1,13 @@
 {
   "id": "072",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Clipping replaced after review (was no_crop); file on site: images/articles/image-072b.jpg. Not yet re-reviewed."
+    "notes": "Short paragraph."
   },
   "ocr": {
-    "status": "ok",
-    "notes": "Transcript added after review (253 chars). Not yet re-reviewed."
+    "status": "good",
+    "notes": "Short; matches the database text."
   },
   "about_tom": "yes",
   "title": {
@@ -16,7 +16,7 @@
   },
   "summary": {
     "ok": false,
-    "suggested": "The St. Louis Evening Dispatch reported on Joe Coburn's talk of fighting Allen."
+    "suggested": "The St. Louis Evening Dispatch reported that Joe Coburn had gone to New York, promising to return with Jem Mace and Joe Goss to make Tom Allen fight, and called the talk gas."
   },
   "focus": {
     "current": "primary",
@@ -29,9 +29,27 @@
     "date_ok": true,
     "publication_ok": false,
     "publication": "St. Louis Evening Dispatch",
-    "notes": "Date and paper not verifiable without an image; 1876 Dispatch items are filed as the St. Louis Evening Dispatch per rubric."
+    "notes": "1876-04-24 is before 1878-12."
   },
-  "facts": [],
-  "needs_human": true,
-  "notes": "No image and no text; there is no current summary. Title only ('Joe Coburn talks of fighting Allen'). Needs the image (post-dispatch/St__Louis_Post_Dispatch_Mon__Apr_24__1876_.jpg) for transcription and review. Summary is a placeholder from the title only, unverified. Focus defaults to primary (no focus set in data)."
+  "facts": [
+    {
+      "fact": "Joe Coburn left for New York promising to return with Jem Mace and Joe Goss to make Allen fight; the Dispatch said he was afraid of Allen",
+      "date": "1876-04",
+      "people": [
+        "Joe Coburn",
+        "Jem Mace",
+        "Joe Goss"
+      ],
+      "places": [
+        "New York",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Paper takes Allen's side."
 }

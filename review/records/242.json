@@ -1,38 +1,169 @@
 {
   "id": "242",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Clipping replaced after review (was cut_off); file on site: images/articles/image-242c.jpg. Not yet re-reviewed."
+    "notes": "Long 1928 feature; the clipping covers the pages we hold. The article continues past them, so later sections are not held."
   },
   "ocr": {
-    "status": "unusable",
-    "notes": "transcript does not match the image: caption says ten thousand spectators and 49 rounds, not one thousand and four; the article body is not transcribed"
+    "status": "good",
+    "notes": "hand transcript"
   },
   "about_tom": "yes",
   "title": {
-    "ok": false,
-    "suggested": "Famous St. Louis fights and fighters"
+    "ok": true,
+    "suggested": ""
   },
   "summary": {
     "ok": false,
-    "suggested": "The St. Louis Post-Dispatch's fiftieth-anniversary sports section ran John E. Wray's history of St. Louis prize fighting, which names Tom Allen and Mike McCoole among the bare-knuckle era fighters."
+    "suggested": "The St. Louis Post-Dispatch's John E. Wray, in a 1928 anniversary history of local prize fighting, retold Tom Allen's 1873 win over Mike McCoole on Chouteau Island and Allen's later saloon and feud-era role."
   },
   "focus": {
-    "current": "",
+    "current": "secondary",
     "suggested": "secondary"
   },
   "tags": [
+    "Legacy",
     "Fights",
-    "Legacy"
+    "Saloon"
   ],
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
     "publication": "St. Louis Post-Dispatch",
-    "notes": "masthead: St. Louis Post-Dispatch Sports Section, Fiftieth Anniversary Number, December 9, 1928"
+    "notes": "Fiftieth Anniversary sports section of the St. Louis Post-Dispatch, December 9, 1928. Hand transcript includes the Wray byline and 1928 copyright."
   },
-  "facts": [],
-  "needs_human": true,
-  "notes": "Body text is too small to read at this resolution; Allen and McCoole appear to be described, possibly their 1873 fight, but I cannot read it reliably. Needs higher-resolution images of both pages and a new transcript."
+  "facts": [
+    {
+      "fact": "Allen lost the world title to McCoole on a foul in 1869 after a mob cut the ropes and intimidated the referee",
+      "date": "1869",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat McCoole in seven rounds on Chouteau Island, near St. Louis, for the world heavyweight title, a $4,000 purse and the gate; Tom Kelly threw in the sponge for McCoole",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCoole",
+        "Tom Kelly",
+        "John Looney"
+      ],
+      "places": [
+        "Chouteau Island, East St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen, about 170 pounds against McCoole's 220, sharpened his spikes with a file in his corner and covered $800 of a $1,000 side bet, McCoole lending him the other $200",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCoole",
+        "Johnny Daly"
+      ],
+      "places": [
+        "Chouteau Island"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen shouted to Kelly, 'Tom, it's a bloody shame to put such a man up before me, take him out'",
+      "date": "1873-09-23",
+      "people": [
+        "Tom Kelly"
+      ],
+      "places": [],
+      "quote": "Tom, it's a bloody shame to put such a man up before me—take him out.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "With the 1873 win Allen regained the title, the only heavyweight to lose and regain it according to Wray",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost his title to Joe Goss near Louisville three years after the McCoole fight",
+      "date": "1876",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "near Louisville, Kentucky"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "After retiring Allen kept his public house, the Champion's Rest, until his death; Wray gives the year as 1905",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "low",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen's saloon was on Market Street east of Seventh, among the fighters' saloons around Sixth and Seventh streets",
+      "date": "",
+      "people": [],
+      "places": [
+        "Market Street east of Seventh, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen opposed gloves and the Queensberry rules, declaring that no title decided under other than London prize-ring rules with the 'raw 'uns' could be a championship fight",
+      "date": "",
+      "people": [],
+      "places": [],
+      "quote": "no title, decided under any other than London prize-ring rules, with the 'raw 'uns,' could be considered a championship fight",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen backed Artie Flint against Hugh McManus near St. Clair, Mo.; the next day he called Flint 'the bloody quitter' in an interview at his saloon",
+      "date": "1888-04-17",
+      "people": [
+        "Artie Flint",
+        "Hugh McManus"
+      ],
+      "places": [
+        "near St. Clair, Missouri",
+        "Allen's saloon, St. Louis"
+      ],
+      "quote": "The bloody quitter!",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Wray gives Allen's death as 1905; he died in 1903. Only facts about Tom Allen extracted. Article continues beyond held pages. Date of Flint-McManus fight is April 16, 1888 per article; the Allen interview is the next day."
 }

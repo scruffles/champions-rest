@@ -1,13 +1,13 @@
 {
   "id": "587",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping holds only the headline and the St. Louis Reds baseball record (column 1). The 'Tom Allen.' section named in the deck is at the top of column 2 and is not in the clipping; read here from page.jpg."
+    "status": "ok",
+    "notes": "Text begins with the tail of an unrelated item; the Tom Allen section follows."
   },
   "ocr": {
-    "status": "unusable",
-    "notes": "Transcript covers only the baseball part; the Tom Allen section is not transcribed"
+    "status": "good",
+    "notes": "Minor errors"
   },
   "about_tom": "yes",
   "title": {
@@ -15,12 +15,12 @@
     "suggested": ""
   },
   "summary": {
-    "ok": false,
-    "suggested": "The St. Louis Globe-Democrat reported that Tom Allen had skipped out to Windsor, Ontario, to avoid prosecution in Kentucky over the Goss fight, after failing to appear on $1,000 bail given in Chicago."
+    "ok": true,
+    "suggested": ""
   },
   "focus": {
     "current": "primary",
-    "suggested": "secondary"
+    "suggested": "primary"
   },
   "tags": [
     "Legal"
@@ -33,7 +33,7 @@
   },
   "facts": [
     {
-      "fact": "Allen fled to Windsor, Ontario, to avoid prosecution for violating Kentucky statutes in the Goss-Allen fight",
+      "fact": "Allen skipped out to Windsor, Ontario, to avoid prosecution for violating Kentucky statutes in the Goss-Allen fight",
       "date": "1876-11",
       "people": [
         "Joe Goss"
@@ -59,11 +59,11 @@
       ],
       "quote": "",
       "kind": "legal",
-      "confidence": "medium",
+      "confidence": "high",
       "existing_fact": ""
     },
     {
-      "fact": "When arrested, Allen protested that he had no intention of avoiding his trial set for November 20, 1876",
+      "fact": "When arrested, Allen protested that he had no intention of avoiding his trial set for November 20",
       "date": "1876-11",
       "people": [],
       "places": [
@@ -71,11 +71,11 @@
       ],
       "quote": "",
       "kind": "legal",
-      "confidence": "medium",
+      "confidence": "high",
       "existing_fact": ""
     },
     {
-      "fact": "Billy Harrison, advance agent of Mace and Allen, was in Cheyenne on his way to California to prepare exhibitions for the two; Mace had also gone west",
+      "fact": "Billy Harrison, advance agent of Mace and Allen, was in Cheyenne on his way to California to prepare exhibitions by the two; some believed Allen meant to reach the Pacific coast out of his Kentucky prosecutors' reach",
       "date": "1876-11",
       "people": [
         "Billy Harrison",
@@ -91,6 +91,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Needs a recrop and OCR of the 'Tom Allen.' section (column 2, top). Facts read from the low-resolution page image, hence medium confidence. Some believed Allen meant to reach the Pacific coast to escape his Kentucky prosecutors."
+  "needs_human": false,
+  "notes": "Text now covers the Tom Allen section; earlier concerns about the cut-off crop are resolved. Mike McDonald also went to Allen's house to levy on his effects and found little."
 }

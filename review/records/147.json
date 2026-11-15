@@ -1,53 +1,54 @@
 {
   "id": "147",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
-    "status": "no_crop",
-    "notes": "The clipping is the whole of page 8 at low resolution. The Allen item is 'Varying Views: Tom Kelly and Tom Allen Differ on the Big Fight', column 2, with 'Tom Allen's Views' near the middle of the column."
+    "status": "ok",
+    "notes": "Clipping holds the whole Kelly and Allen item."
   },
   "ocr": {
-    "status": "unusable",
-    "notes": "Transcript covers part of Kelly's remarks, then repeats one sentence hundreds of times and never reaches Allen's section. Allen's paragraph was read only from an enlarged view of the low-resolution page."
+    "status": "good",
+    "notes": "hand transcript"
   },
   "about_tom": "yes",
   "title": {
     "ok": false,
-    "suggested": "Kelly and Allen differ on the Sullivan-Corbett fight"
+    "suggested": "Tom Kelly and Tom Allen differ on the Sullivan-Corbett fight"
   },
   "summary": {
     "ok": false,
-    "suggested": "The St. Louis Post-Dispatch reported that Tom Kelly backed Corbett after his win over Sullivan, while Tom Allen said it was a question of condition and that a properly trained Sullivan could still beat Corbett."
+    "suggested": "The St. Louis Post-Dispatch reported that Tom Kelly backed Corbett after his win over Sullivan, while Tom Allen said Sullivan lost on condition and, properly trained, could still beat Corbett."
   },
   "focus": {
     "current": "",
     "suggested": "secondary"
   },
   "tags": [
-    "Fights"
+    "Profiles"
   ],
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
     "publication": "St. Louis Post-Dispatch",
-    "notes": "Masthead reads St. Louis Post-Dispatch, Tuesday, September 13, 1892, page 8."
+    "notes": "Database title \"Verying Views\" is a typo; database summary wrongly says 1899 (paper is 1892-09-13)."
   },
   "facts": [
     {
-      "fact": "Allen said Sullivan lost to Corbett because he was out of condition and overweight, and that he did not recognize Corbett as Sullivan's superior",
+      "fact": "Allen said Sullivan lost to Corbett because he was out of condition and overweight, and that he did not rate Corbett as Sullivan's superior; he allowed Corbett won squarely and is skillful",
       "date": "1892-09-13",
       "people": [
         "John L. Sullivan",
-        "James J. Corbett"
+        "James J. Corbett",
+        "Tom Kelly"
       ],
       "places": [
         "St. Louis"
       ],
       "quote": "It was all a question of condition. Sullivan was unfit to enter the ring; he was away over-weight and unable to cope with a man of Corbett's agility. I don't recognize Corbett as Sullivan's superior.",
       "kind": "quote",
-      "confidence": "medium",
+      "confidence": "high",
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Quote read from a blurry enlargement of the low-resolution page; check the wording against a proper crop. Needs a crop of column 2 and a fresh transcript. The current summary's '1899 discussion' is wrong (1892)."
+  "needs_human": false,
+  "notes": "Title is a headline; Allen section is the second half. Focus was blank in the database."
 }

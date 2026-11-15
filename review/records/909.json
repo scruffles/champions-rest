@@ -1,22 +1,22 @@
 {
   "id": "909",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping is only the bottom of the first column of a full-page feature ('Twenty Years a Prize Fighter. Stories From the Experience of Tom Allen, Who Fought 23 Battles in the Ring'), plus part of an illustration. Headline, most text, portrait, fight record and other columns are missing; left edge also trims the first letters of each line."
+    "status": "ok",
+    "notes": "Whole feature including headline, illustrations and fight record."
   },
   "ocr": {
-    "status": "rough",
-    "notes": "Matches the small clipping but loses the first letters of each line; covers only a fragment of the article."
+    "status": "good",
+    "notes": "hand transcript"
   },
   "about_tom": "yes",
   "title": {
-    "ok": false,
-    "suggested": "Twenty Years a Prize Fighter: Tom Allen Recalls His Career"
-  },
-  "summary": {
     "ok": true,
     "suggested": ""
+  },
+  "summary": {
+    "ok": false,
+    "suggested": "The St. Louis Republic profiled Allen, 54, at his Champion's Rest saloon. He recalled his fights with Gallagher, McCool, Mace and Goss, his 23 battles from 1860 to 1879 and his career record."
   },
   "focus": {
     "current": "primary",
@@ -24,54 +24,243 @@
   },
   "tags": [
     "Profiles",
-    "Fights"
+    "Fights",
+    "Saloon"
   ],
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
     "publication": "The St. Louis Republic",
-    "notes": "Masthead: The Republic: St. Louis, Mo., Sunday Morning, March 31, 1895, page 40."
+    "notes": "Masthead: The Republic, St. Louis, Sunday Morning, March 31, 1895, page 40."
   },
   "facts": [
     {
-      "fact": "Allen recalled an off-hand fight with Posh Price in England in 1862, when Price outweighed him by 35 or 40 pounds; Price beat him in 35 rounds",
-      "date": "1862",
-      "people": [
-        "Posh Price"
-      ],
-      "places": [
-        "England"
-      ],
-      "quote": "",
-      "kind": "fight",
-      "confidence": "high",
-      "existing_fact": ""
-    },
-    {
-      "fact": "Allen recalled fighting Posh Price again three years later as a middleweight at 146 pounds and beating him in 41 rounds",
-      "date": "1865",
-      "people": [
-        "Posh Price"
-      ],
-      "places": [
-        "England"
-      ],
-      "quote": "",
-      "kind": "fight",
-      "confidence": "high",
-      "existing_fact": ""
-    },
-    {
-      "fact": "The Republic said Allen fought 23 battles between 1860 and 1879",
-      "date": "1860",
+      "fact": "The Republic said Allen fought 23 battles between 1860 and 1879 and supplied a summary record of his English and American fights",
+      "date": "1860/1879",
       "people": [],
-      "places": [],
+      "places": [
+        "England",
+        "United States"
+      ],
       "quote": "",
       "kind": "other",
       "confidence": "high",
       "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Bill Davis in 43 rounds in his first American fight",
+      "date": "1869-01-12",
+      "people": [
+        "Bill Davis"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost to Charley Gallagher in two rounds after slipping on a snow-filled hole in the ring and being hit on the neck (the text gives Feb. 22; the record table gives Feb. 23)",
+      "date": "1869-02-23",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen and Mike McCool fought a draw at Foster's Island when the McCool party broke into the ring after the ninth or tenth round",
+      "date": "1869-06-15",
+      "people": [
+        "Mike McCool"
+      ],
+      "places": [
+        "Foster's Island, Mississippi River"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Charley Gallagher in 11 rounds (21 minutes) at Chouteau Island; he was shot through the back of the right hand mid-fight and the bullet was pushed out so the fight could resume; he said he knew who fired and it was meant for him",
+      "date": "1869-08-17",
+      "people": [
+        "Charley Gallagher",
+        "Dr. Nidelet"
+      ],
+      "places": [
+        "Chouteau Island, Mississippi River"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lost the championship of the world to Jem Mace in ten rounds (50 minutes) at New Orleans, breaking his arm",
+      "date": "1870-05-10",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "New Orleans"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "A McCool match for $2,500 a side fell through when McCool forfeited $1,000; Allen was then in New York sparring in exhibitions with Mace",
+      "date": "1870-06",
+      "people": [
+        "Mike McCool",
+        "Jem Mace"
+      ],
+      "places": [
+        "New York"
+      ],
+      "quote": "",
+      "kind": "exhibition",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Jim Gallagher in 14 rounds (21 minutes) on a sandbar at the foot of Chouteau Avenue, staking $1,000 to $500",
+      "date": "1870-11-07",
+      "people": [
+        "Jim Gallagher"
+      ],
+      "places": [
+        "Foot of Chouteau Avenue, St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Mike McCool in seven rounds for $2,000 a side and the championship; the boat money on his second McCool fight was $12,000, half to Allen",
+      "date": "1873-09-23",
+      "people": [
+        "Mike McCool"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Ben Hogan in three rounds; Hogan's friends rushed the ring and pointed pistols at him",
+      "date": "1873-11-18",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Joe Goss in Kentucky; referee Eph Holland gave the fight to Goss on an alleged foul and Holland kept Fred Watkins's $1,000 stake; Allen left by way of Canada for England and Goss served a year and a half in prison",
+      "date": "1876-09-07",
+      "people": [
+        "Joe Goss",
+        "Eph Holland",
+        "Fred Watkins"
+      ],
+      "places": [
+        "Kentucky",
+        "Canada",
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen returned to England and beat Tompkin Gilbert in five rounds",
+      "date": "1877-11-18",
+      "people": [
+        "Tompkin Gilbert"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen beat Professor Charles Davis in five rounds at Cambridge Hall, West London, winning the championship of England and a silver cup inscribed May 22, 1878",
+      "date": "1878-04-17",
+      "people": [
+        "Charles Davis"
+      ],
+      "places": [
+        "Cambridge Hall, West London"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "022"
+    },
+    {
+      "fact": "Allen beat Jim Stewart in 16 rounds in England, his last fight before coming home",
+      "date": "1879-03-10",
+      "people": [
+        "Jim Stewart"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen lived above his Champion's Rest saloon on Market Street near Seventh, with the English championship cup in a glass case behind the bar",
+      "date": "1895-03",
+      "people": [],
+      "places": [
+        "Market Street near Seventh, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": "011"
+    },
+    {
+      "fact": "Allen said Corbett was the best man of them all and would find Fitzsimmons an easy job",
+      "date": "1895-03",
+      "people": [
+        "James J. Corbett",
+        "Bob Fitzsimmons"
+      ],
+      "places": [],
+      "quote": "I'm of the notion that the best man of 'em all now is Corbett.",
+      "kind": "quote",
+      "confidence": "high",
+      "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Needs a full recrop: the page holds a major profile of Allen (his saloon Champion's Rest on Market Street, shot in the hand during a Gallagher fight, full fight record, McCool, Goss, Mace and Gallagher contests, a portrait and a drawing of his scarred right hand). Facts above are only from the clipped fragment. Quotes not recorded because the left edge cuts letters."
+  "needs_human": false,
+  "notes": "The record table gives nine rounds for the McCool draw where the prose says ten, and Feb. 23 against the prose's Feb. 22 for the first Gallagher fight; age given as 54 and later 56. Allen's fight summary table is a good source for a fight record."
 }

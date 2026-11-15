@@ -2,8 +2,8 @@
   "id": "570",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "headline ('Bravo! Bauer.'), the source line (from the Cincinnati Commercial) and the opening paragraphs at the top of the column are missing; the crop starts mid-article at 'Looked at simply as an animal contest'"
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-570c.jpg). Was: headline ('Bravo! Bauer.'), the source line (from the Cincinnati Commercial) and the opening paragraphs at the top of the column are missing; the crop starts mid-article at 'Looked at simply as an animal contest'"
   },
   "ocr": {
     "status": "rough",
@@ -49,6 +49,6 @@
       "existing_fact": "030"
     }
   ],
-  "needs_human": true,
-  "notes": "Same event as article 569. Crop needs redoing to include the headline and opening paragraphs above the visible text."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-570c.jpg). Was: Same event as article 569. Crop needs redoing to include the headline and opening paragraphs above the visible text."
 }

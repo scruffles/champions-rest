@@ -33,24 +33,22 @@ Article images, OCR text files and thumbnails are hosted on S3. Upload everythin
 - `data/new_articles.json` — the newer articles (IDs 282–1017) with full OCR text, the source of truth for search indexing
 - `data/facts.js` — facts index (`id`, `fact`, `articles`), referenced by the Biography
 
-## Article Review (in progress)
+## Article Review (done 2026-11-15)
 
-Every article is being reviewed (crop, OCR, title, summary, importance, tags) and its facts extracted. It is designed to stop and resume:
+Every article was reviewed (crop, OCR, title, summary, importance, tags, facts) and the results are merged into `data/database.js` and `data/new_articles.json`. For a new article, follow the same process:
 
-- `review/checklist.json` — every article and its status (`pending` → `assigned` → `reviewed` → `approved` → `merged`, or `skipped`). Committed to git; this is the restart point.
+- `review/checklist.json` — every article and its status (all `merged` or `skipped` now).
 - `review/RUBRIC.md` — the instructions and record format review agents follow.
-- `review/records/<id>.json` — one review record per article. Committed.
-- `review/work/` — generated image pieces and inputs (gitignored; rebuild with `prep`).
+- `review/records/<id>.json` — one review record per article, including the extracted facts (not yet merged into `data/facts.js`).
+- `review/ISSUES.md` — generated list of what is still flagged (`npm run review -- issues`). What's left there is accepted: whole-column clippings, a few unconfirmed paper names and dates. `review/FINDINGS.md` — cross-article findings and conflicts with the facts index. `review/MISSING-PAGES.md` — articles whose scan is missing a page, torn or cut short.
 
-- `review/ISSUES.md` — generated list of articles to revisit on newspapers.com (new screenshots, re-crops, transcription). `review/FINDINGS.md` — hand-kept cross-article findings and conflicts with the facts index.
+Commands (`npm run review -- …`): `status`, `prep <ids>`, `validate [ids]`, `set <status> <ids>`, `issues`, `init` (re-sync with the database, keeps statuses).
 
-Commands (`npm run review -- …`): `status`, `next [n]`, `assigned`, `prep <ids>` or `prep --next n`, `validate [ids]`, `set <status> <ids>`, `issues`, `init` (re-sync with the database, keeps statuses).
+Hand transcripts are in `review/work/<id>/transcript.txt` (gitignored). Agents stop when the usage limit is hit; resume them with SendMessage rather than restarting.
 
-To resume: run `status`; first finish any `assigned` ids (prepped but never reviewed; re-run `prep` on them if `review/work/` is gone), then `prep --next 40` for a batch, give each review agent the rubric plus its ids (about 5 per agent; never more than 10), then `validate` and `issues`. Records are only proposals; merge approved changes into the data files separately.
+## Clippings
 
-Review status (as of 2026-11-06): all 1,010 articles have records (1,009 valid; 055 is skipped, no source image). Per-article follow-ups are in `review/ISSUES.md`; cross-article conflicts are in `review/FINDINGS.md`. The next steps are in the CHANGELOG backlog under "Article review follow-up", in order: point the database at source images, re-review, settle facts, merge, consolidate.
-
-Source images for the review come from newspapers.com (see below). Review agents are general-purpose subagents; each gets `review/work/facts-index.txt`, the rubric, and its article IDs. Agents stop when the usage limit is hit; resume them with SendMessage rather than restarting.
+Clippings are cut from the full page with the `crop-clipping` skill (`.claude/skills/crop-clipping/`): `SKILL.md` for the agent cutting, `REVIEW.md` for the reviewer, `BATCH.md` for batches. Tools: `scripts/cut-clipping.cjs` (snaps to column rules, follows tilt, stacks columns) and `scripts/clip-tools.cjs` (`todo`, `locate`, `view`, `page`, `tiles`, `pages`). Re-cut clippings are installed as `public/images/articles/image-<id>c.jpg` with `localCopyEdited` pointing at them; `npm run upload-images` syncs them to S3. The re-cut of all cut-off clippings finished on 2026-11-15 (only 769, a torn scan, is left).
 
 ## Working in this environment
 

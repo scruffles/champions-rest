@@ -1,13 +1,13 @@
 {
   "id": "926",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping is the 'Hot Stuff for the Greasers' subsection only. The main headline above it ('Experts Talk of Boxing and Bull Fighting') is not in the crop, and the article continues below with Tom Allen's and Dutch Neal's comments, which are clipped separately as article 927."
+    "status": "ok",
+    "notes": "Whole article from the main headline through the later interviews."
   },
   "ocr": {
     "status": "good",
-    "notes": "Readable with scattered character errors (e.g. 'tocal puellistice', 'Pred Watkins')."
+    "notes": "hand transcript"
   },
   "about_tom": "yes",
   "title": {
@@ -15,12 +15,12 @@
     "suggested": ""
   },
   "summary": {
-    "ok": false,
-    "suggested": "The St. Louis Republic reported that local pugilists, among them Tom Allen, Dutch Neal and Fred Watkins, denounced Mexico for permitting bull fighting while barring the Maher-Fitzsimmons fight. This part quotes Watkins."
+    "ok": true,
+    "suggested": ""
   },
   "focus": {
     "current": "secondary",
-    "suggested": "passing"
+    "suggested": "secondary"
   },
   "tags": [
     "Profiles"
@@ -28,9 +28,26 @@
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
+    "publication": "The St. Louis Republic",
     "notes": "Masthead: The Republic, St. Louis, Tuesday Morning, February 18, 1896, page 5."
   },
-  "facts": [],
+  "facts": [
+    {
+      "fact": "Allen said he had planned to go to Mexico for the Maher-Fitzsimmons fight but stayed home after Jim Hall wrote that he would be a sucker to risk his money on the same deal as at Hot Springs",
+      "date": "1896-02",
+      "people": [
+        "Jim Hall",
+        "Dan Stuart"
+      ],
+      "places": [
+        "Hot Springs"
+      ],
+      "quote": "I was goin' down to see the fights, but Jim 'All wrote me an' said I would be a sucker to put up me coin an' take chances on gettin' th' same deal that was put up at 'Ot Springs.",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
   "needs_human": false,
-  "notes": "Allen is only named in this part; his own remarks are in the continuation (927). Focus 'passing' for this clipping on its own."
+  "notes": "Allen's comments are in dialect; the interview is comic in tone. Fred Watkins and Dutch Neal also quoted."
 }

@@ -2,8 +2,8 @@
   "id": "942",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Same article as 943 (same page, same date), but the left side of the column is cut off throughout, so the start of every line is missing."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-942c.jpg). Was: Same article as 943 (same page, same date), but the left side of the column is cut off throughout, so the start of every line is missing."
   },
   "ocr": {
     "status": "rough",
@@ -32,6 +32,6 @@
     "notes": "Masthead: The Republic: St. Louis, Mo., Friday Morning, November 20, 1896, page 5."
   },
   "facts": [],
-  "needs_human": true,
-  "notes": "Duplicate of 943, which is a complete crop of the same article. Facts are recorded in 943 only; consider removing 942 or replacing its image with 943's."
+  "needs_human": false,
+  "notes": "943 merged into 942 on 2026-11-15. Was: Duplicate of 943, which is a complete crop of the same article. Facts are recorded in 943 only; consider removing 942 or replacing its image with 943's."
 }

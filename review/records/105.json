@@ -1,37 +1,51 @@
 {
   "id": "105",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Clipping replaced after review (was no_crop); file on site: images/articles/image-105c.jpg. Not yet re-reviewed."
+    "notes": "Interview with Jem Mace; Allen is mentioned only in one answer."
   },
   "ocr": {
-    "status": "ok",
-    "notes": "Transcript added after review (2438 chars). Not yet re-reviewed."
+    "status": "good",
+    "notes": "Some small errors ('Bell's', 'isthe'); the Allen sentence reads clearly."
   },
-  "about_tom": "unsure",
+  "about_tom": "yes",
   "title": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "Jem Mace talks of his belts and battles"
   },
   "summary": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "The St. Joseph Weekly Gazette, quoting the Chicago Tribune, ran an interview with Jem Mace, who said he won the American champion belt by beating Tom Allen for $10,000."
   },
   "focus": {
     "current": "",
-    "suggested": "secondary"
+    "suggested": "passing"
   },
   "tags": [
-    "Fights"
+    "Fights",
+    "Profiles"
   ],
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
     "publication": "The St. Joseph Weekly Gazette",
-    "notes": "Date and paper cannot be checked; no image."
+    "notes": "Reprinted from the Chicago Tribune; Mace says he is 52."
   },
-  "facts": [],
-  "needs_human": true,
-  "notes": "No image and no text, so nothing could be reviewed. The title suggests Jem Mace recalling past fights, which may include his 1870 fight with Allen. focus.suggested \"secondary\" is a guess from the title (no current focus to copy). Needs the clipping located (image paths are '???')."
+  "facts": [
+    {
+      "fact": "Jem Mace said the champion belt of America was presented to him after he beat Tom Allen for $10,000",
+      "date": "1870",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Mace says the fight was at the Bowery theatre; other sources place the 1870 fight in Louisiana, so his account is loose. Original spells Mace as 'Jem'; database title says 'Jim'."
 }

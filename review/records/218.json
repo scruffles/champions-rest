@@ -47,6 +47,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Needs a real column crop at higher resolution; only the silk-hat sentence could be read from the image. Related to the index fact that Lord Barrington had Allen's top hat, which Hartgrove tried to get back (id 000). The current summary's mention of McCoole and Mace was not found."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-218c.jpg). Was: Needs a real column crop at higher resolution; only the silk-hat sentence could be read from the image. Related to the index fact that Lord Barrington had Allen's top hat, which Hartgrove tried to get back (id 000). The current summary's mention of McCoole and Mace was not found."
 }

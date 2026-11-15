@@ -2,8 +2,8 @@
   "id": "898",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping is a middle section of 'They Fight To-Day' (continued from page 1), a history of the championship: it starts mid-sentence and the right edge of every line is cut off, losing words, years and round counts. The Allen material is under the 'Mace and Allen' subhead. Bottom includes unrelated 'The Governor's Only Picture' item."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-898c.jpg). Was: Clipping is a middle section of 'They Fight To-Day' (continued from page 1), a history of the championship: it starts mid-sentence and the right edge of every line is cut off, losing words, years and round counts. The Allen material is under the 'Mace and Allen' subhead. Bottom includes unrelated 'The Governor's Only Picture' item."
   },
   "ocr": {
     "status": "rough",
@@ -74,6 +74,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Right edge cut off: years for the Mace fight and McCoole fight and the round in which Goss won are lost ('Goss won in the ... first round on a foul'). A wider crop from the page image would recover them. Fact dates for Mace fight taken from text ('May 10') plus known 1870 context."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-898c.jpg). Was: Right edge cut off: years for the Mace fight and McCoole fight and the round in which Goss won are lost ('Goss won in the ... first round on a foul'). A wider crop from the page image would recover them. Fact dates for Mace fight taken from text ('May 10') plus known 1870 context."
 }

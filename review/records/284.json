@@ -2,8 +2,8 @@
   "id": "284",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "The top is missing: the 'JOE COBURN' headline, its subheads and the reporter's introduction (top of the last column, 'THE CITY') come before the crop, which starts at 'COBURN'S STATEMENT'."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-284c.jpg). Was: The top is missing: the 'JOE COBURN' headline, its subheads and the reporter's introduction (top of the last column, 'THE CITY') come before the crop, which starts at 'COBURN'S STATEMENT'."
   },
   "ocr": {
     "status": "rough",
@@ -77,6 +77,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "needs_human: the crop should be extended upward to include the headline and introduction of the 'JOE COBURN' item. Companion to article 283 (same day); Allen's letter in 283 answers the claim that he was leaving St. Louis. The facts are Coburn's and the manager's claims."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-284c.jpg). Was: needs_human: the crop should be extended upward to include the headline and introduction of the 'JOE COBURN' item. Companion to article 283 (same day); Allen's letter in 283 answers the claim that he was leaving St. Louis. The facts are Coburn's and the manager's claims."
 }

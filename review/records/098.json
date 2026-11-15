@@ -1,13 +1,13 @@
 {
   "id": "098",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Clipping replaced after review (was no_crop); file on site: images/articles/image-098b.jpg. Not yet re-reviewed."
+    "notes": "Two-line item, complete; neighbouring column text on the right is not part of it."
   },
   "ocr": {
-    "status": "ok",
-    "notes": "Transcript added after review (107 chars). Not yet re-reviewed."
+    "status": "rough",
+    "notes": "The item itself reads cleanly; the neighbouring column is garbled."
   },
   "about_tom": "yes",
   "title": {
@@ -15,8 +15,8 @@
     "suggested": ""
   },
   "summary": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "The Mexico Weekly Ledger reported that Tom Allen, the pugilist, had offered to fight John L. Sullivan, the Irish giant, for between $1,000 and $5,000."
   },
   "focus": {
     "current": "",
@@ -28,9 +28,23 @@
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
-    "notes": "Not verifiable without an image. 1882-11-16 was a Thursday, consistent with a weekly paper."
+    "publication": "Mexico Weekly Ledger",
+    "notes": "1882-11-16 was a Thursday, consistent with a weekly paper; masthead not checked."
   },
-  "facts": [],
-  "needs_human": true,
-  "notes": "No image, no text and no summary; the image filename is unknown ('???'). Going by the title, this concerns Allen's November 1882 challenge to John L. Sullivan (see 097 and 099). The owner needs to locate the clipping and run prep again."
+  "facts": [
+    {
+      "fact": "Allen offered to fight John L. Sullivan for a stake of $1,000 to $5,000",
+      "date": "1882-11",
+      "people": [
+        "John L. Sullivan"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Matches the Allen-Sullivan challenge in 097 and 099."
 }

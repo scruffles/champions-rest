@@ -2,8 +2,8 @@
   "id": "682",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Right edge clips the last letter or two of many lines; text still readable from context."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-682c.jpg). Was: Right edge clips the last letter or two of many lines; text still readable from context."
   },
   "ocr": {
     "status": "good",

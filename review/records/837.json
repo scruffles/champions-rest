@@ -2,8 +2,8 @@
   "id": "837",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping ends mid-sentence at the start of the main bout ('the men met in the centre of the ring'); the round-by-round account continues on the page. The Allen passage is complete."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-837c.jpg). Was: Clipping ends mid-sentence at the start of the main bout ('the men met in the centre of the ring'); the round-by-round account continues on the page. The Allen passage is complete."
   },
   "ocr": {
     "status": "good",

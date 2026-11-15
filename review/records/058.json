@@ -2,8 +2,8 @@
   "id": "058",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Column label 'THE PRIZE RING.' above the headline is outside the crop, and the bottom stops at the heading 'ANOTHER RICHMOND IN THE FIELD', a further section of the same story (the sub-headline 'The Irish Giant on the War Path' refers to it) that is not in the clipping and is unreadable on the scaled page."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-15 (image-058c.jpg). Was: Column label 'THE PRIZE RING.' above the headline is outside the crop, and the bottom stops at the heading 'ANOTHER RICHMOND IN THE FIELD', a further section of the same story (the sub-headline 'The Irish Giant on the War Path' refers to it) that is not in the clipping and is unreadable on the scaled page."
   },
   "ocr": {
     "status": "good",
@@ -82,6 +82,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Rooke's account of the broken match is one-sided. The missing 'Another Richmond in the Field' section may also concern Allen; it needs a human to check the original page."
+  "needs_human": false,
+  "notes": "Clip installed 2026-11-15 includes the Another Richmond section. Was: Rooke's account of the broken match is one-sided. The missing 'Another Richmond in the Field' section may also concern Allen; it needs a human to check the original page."
 }

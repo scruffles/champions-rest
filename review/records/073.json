@@ -1,13 +1,13 @@
 {
   "id": "073",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Clipping replaced after review (was no_crop); file on site: images/articles/image-073b.jpg. Not yet re-reviewed."
+    "notes": "Whole sporting-notes item, includes Schroeder/Bauer section."
   },
   "ocr": {
-    "status": "ok",
-    "notes": "Transcript added after review (1596 chars). Not yet re-reviewed."
+    "status": "good",
+    "notes": "Clean."
   },
   "about_tom": "yes",
   "title": {
@@ -15,12 +15,12 @@
     "suggested": ""
   },
   "summary": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "The St. Louis Evening Dispatch reported that Joe Coburn left for New York without meeting Tom Allen, who had telegraphed he would fight him with gloves; it also covered the Bauer-Schroeder wrestling match."
   },
   "focus": {
     "current": "primary",
-    "suggested": "primary"
+    "suggested": "secondary"
   },
   "tags": [
     "Challenges"
@@ -29,9 +29,39 @@
     "date_ok": true,
     "publication_ok": false,
     "publication": "St. Louis Evening Dispatch",
-    "notes": "Date and paper not verifiable without an image; 1876 Dispatch items are filed as the St. Louis Evening Dispatch per rubric."
+    "notes": "1876-04-25 is before 1878-12."
   },
-  "facts": [],
-  "needs_human": true,
-  "notes": "No image and no text. The existing summary (Allen expected to face Joe Goss; mentions McCoole and Mace) cannot be checked and is in an editorial style the house style avoids. Needs the image (post-dispatch/St__Louis_Post_Dispatch_Tue__Apr_25__1876_.jpg). Focus defaults to primary (no focus set in data)."
+  "facts": [
+    {
+      "fact": "Allen objected when Joe Coburn was billed in St. Louis as \"Champion of the World\"; Allen was engaged in Chicago for a week during Coburn's stay",
+      "date": "1876-04",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [
+        "St. Louis",
+        "Chicago"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen telegraphed the Dispatch on the 17th that he would fight Coburn with the gloves for all the money he could get; Coburn left for New York on Monday without a match",
+      "date": "1876-04-17",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [
+        "New York"
+      ],
+      "quote": "fight Coburn with the gloves for all the money he could get",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Half the item concerns wrestlers Bauer and Schroeder; the Allen part is the first paragraph. Quote is as paraphrased by the paper in quotation marks."
 }

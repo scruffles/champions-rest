@@ -1,22 +1,22 @@
 {
   "id": "076",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Clipping replaced after review (was no_crop); file on site: images/articles/image-076b.jpg. Not yet re-reviewed."
+    "notes": "Full article with headline."
   },
   "ocr": {
-    "status": "ok",
-    "notes": "Transcript added after review (1929 chars). Not yet re-reviewed."
+    "status": "good",
+    "notes": "Database text is clean; headline in the source transcript is rough."
   },
   "about_tom": "yes",
   "title": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "Allen covers Goss's stake for coming match"
   },
   "summary": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "The St. Louis Evening Dispatch reported that Allen had covered Joe Goss's $500 stake and that the men would meet in Cincinnati on the 12th to set the purse, from $1,000 a side up."
   },
   "focus": {
     "current": "primary",
@@ -29,9 +29,53 @@
     "date_ok": true,
     "publication_ok": false,
     "publication": "St. Louis Evening Dispatch",
-    "notes": "Not checked against a masthead (no image). A May 1876 'Dispatch' item is the St. Louis Evening Dispatch; the Post-Dispatch name dates from 1878-12."
+    "notes": "1876-05-02 is before 1878-12. Headline: \"The Coming Match Between Tom Allen and Joe Goss.\""
   },
-  "facts": [],
-  "needs_human": true,
-  "notes": "Article has no text, no summary and no available image; it needs the image located, transcribed and summarized. The title suggests it covers Goss's challenge (see 077, the same challenge in the Republican)."
+  "facts": [
+    {
+      "fact": "Joe Goss put up $500 in Cincinnati and Allen covered it; the two sides were to meet at Cincinnati on May 12 to agree the purse, open from $1,000 a side",
+      "date": "1876-05",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Cincinnati"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he would fight Goss for any amount within twelve weeks, to be fought in the Southwest; he weighed 195 pounds and could reduce to 178",
+      "date": "1876-05-02",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Southwest"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen said he had been badly treated by parties in St. Louis while he was in Chicago and expressed contempt for Coburn and his gang",
+      "date": "1876-05-02",
+      "people": [
+        "Joe Coburn"
+      ],
+      "places": [
+        "Chicago",
+        "St. Louis"
+      ],
+      "quote": "",
+      "kind": "quote",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "See 077 for the same match in the Republican."
 }

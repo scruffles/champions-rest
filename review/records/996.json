@@ -2,8 +2,8 @@
   "id": "996",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Missing the headline '\"Champion's Rest\" Is Doomed', the photo of the buildings (sign 'TOM ALLEN'S' visible on page) and the first column of text; the clipping starts mid-sentence ('Market streets is an establishment...') and includes the unrelated end of a coursing item and part of the next headline."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-996c.jpg). Was: Missing the headline '\"Champion's Rest\" Is Doomed', the photo of the buildings (sign 'TOM ALLEN'S' visible on page) and the first column of text; the clipping starts mid-sentence ('Market streets is an establishment...') and includes the unrelated end of a coursing item and part of the next headline."
   },
   "ocr": {
     "status": "good",
@@ -47,6 +47,6 @@
       "existing_fact": "011"
     }
   ],
-  "needs_human": true,
-  "notes": "Recrop to include the headline, photo and first column. The condemnation and the Sixth-Seventh block are read from the scaled-down page.jpg only, so confidence is medium; verify on the full page."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-996c.jpg). Was: Recrop to include the headline, photo and first column. The condemnation and the Sixth-Seventh block are read from the scaled-down page.jpg only, so confidence is medium; verify on the full page."
 }

@@ -2,8 +2,8 @@
   "id": "930",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "A paragraph from the bottom of column 1 of 'Macon's Ring Gossip' (a column on Billy Edwards' victories); it ends mid-sentence ('who was credited') and continues at the top of the next column, which is not in the crop. The Allen mention itself is complete."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-930c.jpg). Was: A paragraph from the bottom of column 1 of 'Macon's Ring Gossip' (a column on Billy Edwards' victories); it ends mid-sentence ('who was credited') and continues at the top of the next column, which is not in the crop. The Allen mention itself is complete."
   },
   "ocr": {
     "status": "good",

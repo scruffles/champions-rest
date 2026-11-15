@@ -11,6 +11,7 @@ A fresh download may not fix every one: the newspapers.com scans are themselves 
 | 488 | The St Louis Republic | 1873-10-25 | "Tom and Ben. A Chat With the Champion" | Runs down columns 1 and 2 to the page bottom and stops at "if he behaves as well in the ring as he". Rest is on the next page. |
 | 603 | St. Louis Globe-Democrat | 1877-12-09 | "Played" (baseball column with the "Tom Allen Again Matched" deck) | Stops at "for the clubs of New York" at the page bottom. Rest is on the next page. The Allen item itself (id 602) is complete, so this one matters least. |
 | 649 | St. Louis Globe-Democrat | 1882-02-08 | "Slaughtered by Sullivan" | Page 1 part only, stops at "Veterans like Arthur Chambers, Joe". The paper says it continues on "Third Page". |
+| 242 | St. Louis Post-Dispatch | 1928-12-09 | "Famous St. Louis Fights and Fighters" (John E. Wray) | Runs over two pages we hold and stops mid-sentence at the end of the second ("They carried"). The rest is on a later page. |
 
 ## Starts before our page
 

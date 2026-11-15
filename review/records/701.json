@@ -1,37 +1,53 @@
 {
   "id": "701",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Subsection 'Exhibition on the East Side' of the larger 'The Champion Here' Sullivan story (see 702)."
+    "notes": "Joined clippings of one article: the Sullivan visit and the East St. Louis exhibition."
   },
   "ocr": {
-    "status": "good",
-    "notes": ""
+    "status": "rough",
+    "notes": "OCR text of two parts joined; names and gist readable"
   },
   "about_tom": "yes",
   "title": {
-    "ok": false,
-    "suggested": "Sullivan knocks out the 'Gipsy' Miles at East St. Louis exhibition"
+    "ok": true,
+    "suggested": ""
   },
   "summary": {
-    "ok": false,
-    "suggested": "The St. Louis Globe-Democrat reported that John L. Sullivan's combination gave an exhibition at Flanagan's Hall, East St. Louis, where Jim 'the Gipsy' Miles, who boasted he could hold his own against Tom Allen, was knocked off the stage in seconds."
+    "ok": true,
+    "suggested": ""
   },
   "focus": {
-    "current": "passing",
-    "suggested": "passing"
+    "current": "secondary",
+    "suggested": "secondary"
   },
   "tags": [
-    "Exhibitions"
+    "Saloon"
   ],
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
     "publication": "St. Louis Globe-Democrat",
-    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, November 4, 1883. Exhibition was the night of November 3."
+    "notes": "Masthead: St. Louis Daily Globe-Democrat, Sunday Morning, November 4, 1883. Visit was on November 3."
   },
-  "facts": [],
+  "facts": [
+    {
+      "fact": "John L. Sullivan, on a visit to St. Louis with his company, spent time in Tom Kelly's and Tom Allen's saloons on Market street; in Allen's place the party retired to a room and drank champagne, though Sullivan drank nothing",
+      "date": "1883-11-03",
+      "people": [
+        "John L. Sullivan",
+        "Tom Kelly"
+      ],
+      "places": [
+        "Tom Allen's saloon, Market street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "saloon",
+      "confidence": "high",
+      "existing_fact": ""
+    }
+  ],
   "needs_human": false,
-  "notes": "Current title (Kelly benefit) and summary (copied from 702) are wrong. Allen is named only as someone Miles claimed he could match."
+  "notes": "Allen appears only as saloon host, and as a name Jim Miles said he could hold his own against at the East St. Louis exhibition (not a fact about Allen)."
 }

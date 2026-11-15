@@ -14,6 +14,13 @@
 - Hand-cut clippings installed and uploaded: 909 (`image-909c.jpg`), 926 (`image-926c.jpg`), 969 (`image-969c.jpg`); thumbnails rebuilt
 - Merged: 906 text replaced by the full transcript and 907 removed; 909 text replaced by the full feature and 910–914 removed; 926 text replaced by the full column and 927 removed; 970 removed (same article as 969)
 - `scripts/upload-images.cjs` also syncs the re-cut clippings (`image-NNNc.jpg`) from `public/images/articles`
+- Article review finished and merged into the site data: new summaries for 933 articles, title fixes for 434, focus levels for 573, and tags for every article
+- The records of 33 articles whose text or source changed were redone before the merge
+- Hand transcripts replace unusable OCR for 21 articles: 088, 094, 106, 145, 146, 147, 201, 242, 243, 255, 303, 508, 678, 891, 906, 909, 924, 926, 974, 985, 1009
+- Transcript errors fixed: 106 (Egan, not Brooks, was knocked out), 109 ("both" principals arrested), 617 ($250 fine, 250 days); facts index note for 203 corrected (1869, not 1979)
+- 59 more re-cut clippings installed, with thumbnails: the 44 that had passed with doubts, 145, 146, 147 and 201 (their old crops were whole pages), the re-cut fails 1017, 196, 221, 686, 723, 873, 902, 923, 963, 996, and 058. Every listed cut-off clipping is now re-cut except 769 (torn scan)
+- 403 removed (reprint of 402). Dates corrected from the masthead: 030, 185, 398, 405
+- `review/ISSUES.md` regenerated: no unusable transcripts and one crop left (769)
 
 ## 2026-11-14
 
@@ -134,34 +141,9 @@
 
 ## Backlog
 
-### Article review follow-up (from the full review, see `review/`)
-
-Run in this order. Source fixes come first, so the later steps don't have to be redone.
-
-1. **Get the sources right** (before anything else). Each sub-section is a unit of work with a clear done-state.
-   - **1a. Ten new-source articles** (055, 072, 073, 076, 095, 098, 105, 128, 195, 239): pointers, crops and transcripts are done and uploaded. Fixed: 195's title and 073's summary. Left: the ten are re-reviewed (goes with 2).
-   - **1b. Edge-trimmed clippings** (done: 340, 345, 405, 429, 536, 549, 611, 644, 655, 687, 774, 800, 957). Open: 328 is a duplicate of 329, so merge it in step 3 rather than re-cropping; 348 has no match on its page (retry with a different locator, e.g. its headline).
-   - **1c. Cut-off and wrong-article clippings** (151 items in `review/work/index-batch.html`): re-crop each from its full page. Seven have no full page on disk, so find those on newspapers.com first. Open.
-   - **1d. Missing pages**: done. Hand crops are on the site for 088, 218, 240, 250, 242 (both pages), 105, 133, 615, 621, 689, 918 and 303. 262 is covered by its existing clipping (no full page on file). Open: 297 and 298 are one article, with a merged crop saved as `298b-cropped.jpg` in Downloads; merge the two records and publish. 278 is a duplicate to remove once the 278 crop is identified.
-   - **1e. Mixed clippings** (223 items in `review/work/index-batch.html`): trim each clip to the Allen item only. Open.
-   - **1f. Transcripts**: write the 12 missing and the unusable ones (35 items in `review/ISSUES.md`) from the re-captured crops, and fix the meaning-changing errors in `FINDINGS.md` (106, 109, 203, 617). Open: all.
-2. **Re-review what changed**: rerun the review on the re-captured and re-transcribed articles, so each record reflects its new text
-3. **Settle the facts that depend on the text**
-   - Removed (not about him or duplicates): 232, 233, 998, 237, 239, 246, 332, 362, 683, 714, 614, 622, 688, 780, 901, 428, 609, 778. Still to do: delete their S3 objects (the deploy user lacks `s3:DeleteObject`). Unsure items: 190 has no other evidence in the data that Allen owned the Geyer Avenue lot (the listing is the only source). 055 and 128 are keep.
-   - Decide on the remaining unsure: 133 (re-cropped), 190 (keep or remove), 918 (re-cropped), 128 (keep)
-   - Remove or merge the remaining duplicates in `review/FINDINGS.md`: 297 + 298 (one article, merge), 403/402, 855/856, 1005/1006, 278 (duplicate, see 1d). Removed so far: 328, 518, 549, 834, 958, 1008, 646, 1001, 428, 609, 778, 688
-   - Resolve the fact conflicts in `review/FINDINGS.md`: birth year (1839 vs 1840/1841), arrival in America, Crimean War vs Indian Mutiny, belt presentation date, Halifax sailing date, burial (Calvary vs Bellefontaine), saloon address (615/618/619 Market), will, widower, brothers and sister
-   - Settle the 1869-08-17 Gallagher result in `data/fights.js`: it is still listed as a win, while 352 and 647 say draw and 643 says Allen won (the sources are now linked and noted there)
-4. **Merge the records into the site data**
-   - Fix 8 article dates flagged against the masthead (e.g. 030, 185, 187, 192, 394, 398, 405, 428)
-   - Rename papers to their name at the time (424 records): Daily Missouri Democrat / St. Louis Democrat before May 1875, St. Louis Evening Dispatch or Evening Post before Dec 1878, Missouri Republican before 1888. Normalize "St. Louis Democrat" vs "Daily Missouri Democrat" and "The Republican" vs "Missouri Republican" first
-   - Approve and merge the review records into `data/database.js`: 458 title fixes, 979 summary rewrites, 503 focus changes, and tags for every article (replaces the keyword-guessed topics)
-5. **Consolidate the facts last**: merge the 2,194 extracted facts into `data/facts.js`, keeping existing fact ids; give the facts with id `000` or no id real ids first
-
-### Filtering & Navigation
-- Tag the remaining articles (32 have real tags; the rest still use keyword-guessed topics)
-- The `not_tom` flag was wrong for 32 of 39 articles, so the automatic `focus` levels may also be unreliable; spot-check them
-- Fix automatic crops that cut off multi-column headlines (e.g. article 1000)
+### Biography & Facts
+- Settle the fact conflicts in `review/FINDINGS.md` (birth year, burial, saloon address, arrival, war service and others) when the Biography is next edited; they only matter where it states them
+- Merge the extracted facts in `review/records/` into `data/facts.js` (91 facts now), if the facts index is to be expanded
 
 ### Home & Highlights
 - "On this day" can disagree between pages: on about 72 days a year the Home box shows a supporting article or passing mention while the Articles hero falls back to Article of the day. Pick one rule for both
@@ -206,6 +188,8 @@ Run in this order. Source fixes come first, so the later steps don't have to be 
 - Go through articles for quotes
 - Continue adding articles under /articles/to-sort
 - Look into viewership metrics
+- Download better scans for the pages in `review/MISSING-PAGES.md` where it would help, most of all 974 ("Tom Allen Badly Beaten"), 931 and 769
+- Delete the S3 objects of removed articles (the deploy user needs `s3:DeleteObject`)
 
 ### Media
 - Scan every full-page scan for photographs and drawings of Tom Allen (the portraits, the sketches and any photographs in the articles), noting the page, article id and caption

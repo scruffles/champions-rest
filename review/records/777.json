@@ -2,8 +2,8 @@
   "id": "777",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Clipping is mostly other items (English Racing table, Wyoming Races, Turf Notes, Rabbit Chasing illustration); only the last six lines of the Allen story are included at the bottom of crop-5. The headline 'St. Louis Sports Arraigned' and the opening of the dispatch (bottom of column 2 on the page, below Rabbit Chasing) are missing."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-777c.jpg). Was: Clipping is mostly other items (English Racing table, Wyoming Races, Turf Notes, Rabbit Chasing illustration); only the last six lines of the Allen story are included at the bottom of crop-5. The headline 'St. Louis Sports Arraigned' and the opening of the dispatch (bottom of column 2 on the page, below Rabbit Chasing) are missing."
   },
   "ocr": {
     "status": "rough",
@@ -81,6 +81,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Not a racing matter: it is the end of a Troy, Mo., dispatch 'St. Louis Sports Arraigned' (Sept. 20) about a Lincoln County prize fight (about 1887). The opening, read from page.jpg, names Dan Daly, Ed Kelly, Tom Kelly, Tom Allen and Artie Flint, arriving on the 11 o'clock train and registering at the Colbert Hotel. Crop should be redone to include the start. Article 778 is the same story on the same page; the two are likely duplicates."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-777c.jpg). Was: Not a racing matter: it is the end of a Troy, Mo., dispatch 'St. Louis Sports Arraigned' (Sept. 20) about a Lincoln County prize fight (about 1887). The opening, read from page.jpg, names Dan Daly, Ed Kelly, Tom Kelly, Tom Allen and Artie Flint, arriving on the 11 o'clock train and registering at the Colbert Hotel. Crop should be redone to include the start. Article 778 is the same story on the same page; the two are likely duplicates."
 }

@@ -2,8 +2,8 @@
   "id": "685",
   "reviewed": "2026-11-04",
   "crop": {
-    "status": "cut_off",
-    "notes": "Item runs from the bottom of one column to the top of the next; the crop skips the lines in between (the Sportsman's park track plan and the sentence saying the tournament is today at Grand Avenue park). Read on the page."
+    "status": "ok",
+    "notes": "Re-cut from the full page on 2026-11-14/15 (image-685c.jpg). Was: Item runs from the bottom of one column to the top of the next; the crop skips the lines in between (the Sportsman's park track plan and the sentence saying the tournament is today at Grand Avenue park). Read on the page."
   },
   "ocr": {
     "status": "good",

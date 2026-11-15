@@ -1,37 +1,115 @@
 {
   "id": "195",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Clipping replaced after review (was no_crop); file on site: images/articles/image-195b.jpg. Not yet re-reviewed."
+    "notes": "Full article with headline and subheads."
   },
   "ocr": {
-    "status": "ok",
-    "notes": "Transcript added after review (2219 chars). Not yet re-reviewed."
+    "status": "good",
+    "notes": "Small errors ('rict', 'ends' for seconds, '186)' for 1861)."
   },
-  "about_tom": "unsure",
+  "about_tom": "yes",
   "title": {
     "ok": true,
     "suggested": ""
   },
   "summary": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "The St. Louis Republic reported that veteran pugilist Tom Allen was confined to his bed at his Market Street home with severe colds, and recalled his fights with Davis, Goss and Mace."
   },
   "focus": {
     "current": "primary",
     "suggested": "primary"
   },
   "tags": [
-    "Fights"
+    "Personal life",
+    "Profiles"
   ],
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
-    "publication": "The St Louis Republic",
-    "notes": "Cannot check; no image. The image paths point at the Sat. Jan. 31, 1903 Republic."
+    "publication": "The St. Louis Republic",
+    "notes": "1903-01-31."
   },
-  "facts": [],
-  "needs_human": true,
-  "notes": "No image, transcript or summary, so nothing could be checked. Whether and how Allen figures in the Robert Jackson story is unknown; a human should locate the clipping."
+  "facts": [
+    {
+      "fact": "Allen lay seriously ill with persistent colds at his home on Market Street between Sixth and Seventh",
+      "date": "1903-01",
+      "people": [],
+      "places": [
+        "Market Street, St. Louis"
+      ],
+      "quote": "",
+      "kind": "health",
+      "confidence": "high",
+      "existing_fact": "043"
+    },
+    {
+      "fact": "Allen was born in 1839 and began his ring career at about 21",
+      "date": "1839",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "birth",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen knocked out Charlie Davis in five rounds in England, the first championship fight under Queensberry rules, winning a purse of 190 pounds and a silver cup that hangs over his bar",
+      "date": "",
+      "people": [
+        "Charlie Davis"
+      ],
+      "places": [
+        "England"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": "022"
+    },
+    {
+      "fact": "Allen fought Joe Goss for the heavyweight championship; the bout ended in a riot and Allen's seconds were mobbed",
+      "date": "1867",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen fought Jem Mace in Louisiana for the heavyweight championship and $5,000; his seconds threw up the sponge after ten rounds (50 minutes) when Allen hurt his arm",
+      "date": "1870",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "Louisiana"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "high",
+      "existing_fact": "000"
+    },
+    {
+      "fact": "Allen beat Mike McCool in seven rounds on Bloody Island",
+      "date": "",
+      "people": [
+        "Mike McCool"
+      ],
+      "places": [
+        "Bloody Island, St. Louis"
+      ],
+      "quote": "",
+      "kind": "fight",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Article says he fought Goss in 1867 (other records say 1876); and that he knocked out Davis, which is Allen's English win. Don Murphy is named as his manager."
 }

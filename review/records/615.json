@@ -47,6 +47,6 @@
       "existing_fact": ""
     }
   ],
-  "needs_human": true,
-  "notes": "Item is only readable as two partial halves (left-cut in crop-7, right-cut in crop-2), so some words are reconstructed from context. A clean re-crop of the item at the top of column 6 on page 3 would help. The item calls Allen a 'low-flung dog' (O'Leary's words). Probable duplicate of 614."
+  "needs_human": false,
+  "notes": "Resolved by the re-cut of 2026-11-14/15 (image-615c.jpg). Was: Item is only readable as two partial halves (left-cut in crop-7, right-cut in crop-2), so some words are reconstructed from context. A clean re-crop of the item at the top of column 6 on page 3 would help. The item calls Allen a 'low-flung dog' (O'Leary's words). Probable duplicate of 614."
 }

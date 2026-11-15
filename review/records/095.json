@@ -1,13 +1,13 @@
 {
   "id": "095",
-  "reviewed": "2026-11-04",
+  "reviewed": "2026-11-15",
   "crop": {
     "status": "ok",
-    "notes": "Clipping replaced after review (was no_crop); file on site: images/articles/image-095b.jpg. Not yet re-reviewed."
+    "notes": "Single paragraph."
   },
   "ocr": {
-    "status": "ok",
-    "notes": "Transcript added after review (807 chars). Not yet re-reviewed."
+    "status": "good",
+    "notes": "Source transcript has minor errors; database text is clean."
   },
   "about_tom": "yes",
   "title": {
@@ -15,8 +15,8 @@
     "suggested": ""
   },
   "summary": {
-    "ok": true,
-    "suggested": ""
+    "ok": false,
+    "suggested": "The St. Louis Post-Dispatch reported from London advices that Tom Allen wanted to fight Johnny Dwyer for the heavyweight title and challenged any man at catch weights for $1,000 a side."
   },
   "focus": {
     "current": "",
@@ -28,9 +28,38 @@
   "metadata": {
     "date_ok": true,
     "publication_ok": true,
-    "notes": "Not verifiable without an image. 1879-11-22 was a Saturday, matching the filename; the St. Louis Post-Dispatch name is correct for that date."
+    "publication": "St. Louis Post-Dispatch",
+    "notes": "1879-11-22 is after 1878-12."
   },
-  "facts": [],
-  "needs_human": true,
-  "notes": "No image and no text, and no summary exists. Going by the title, Allen said he was open to fight anyone. The owner needs to find the source image and run prep again; a summary and facts can then be written."
+  "facts": [
+    {
+      "fact": "Allen, in London, issued a challenge to fight any man in the world at catch weights for $1,000 a side, within 100 miles of Buffalo, in Canada or within fifty miles of Pittsburg",
+      "date": "1879-11",
+      "people": [
+        "Johnny Dwyer"
+      ],
+      "places": [
+        "London",
+        "Buffalo",
+        "Canada",
+        "Pittsburgh"
+      ],
+      "quote": "",
+      "kind": "challenge",
+      "confidence": "high",
+      "existing_fact": ""
+    },
+    {
+      "fact": "Allen was said to have fought seven times for the heavyweight championship of America",
+      "date": "1879-11",
+      "people": [],
+      "places": [],
+      "quote": "",
+      "kind": "other",
+      "confidence": "medium",
+      "existing_fact": ""
+    }
+  ],
+  "needs_human": false,
+  "notes": "Location wording in the text is garbled (\"within 100 miles of Buffalo, ... in Canada or within fifty miles of Pittsburg\")."
 }
