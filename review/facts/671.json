@@ -1,0 +1,34 @@
+{
+  "id": "671",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen failed to put in an appearance at Chicago on December 11, 1882, to post the preliminary forfeit for a championship prize fight with James Elliott.",
+      "excerpt": "Allen failed to put in an appear",
+      "date": "1882-12-11",
+      "date_precision": "day",
+      "people": ["James Elliott"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "James Elliott",
+      "date": "1882-12-11",
+      "date_precision": "day",
+      "place": "Chicago",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "championship; preliminary forfeit",
+      "rules": "",
+      "excerpt": "Allen failed to put in an appear",
+      "reported_as": "report",
+      "notes": "Forfeit by Allen: he did not appear to put up the preliminary forfeit."
+    }
+  ],
+  "notes": "Same event as 670 and 672, reported in a city-news column."
+}

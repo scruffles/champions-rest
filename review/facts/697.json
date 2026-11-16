@@ -1,0 +1,30 @@
+{
+  "id": "697",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised his concert hall, Champion's Rest, at 619 Market Street, St. Louis, which was open every evening with free singers and dancers, with Allen in the chair.",
+      "excerpt": "CHAMPION’S Rest, 619 Market street. Tom Allen, the retired champion of the world, wishes to inform his friends",
+      "date": "1883-06-12",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as the retired champion of the world.",
+      "excerpt": "Tom Allen, the retired champion of the world, wishes to inform his friends and the public",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "A short advertisement in the paper's own words; the message to friends is not a direct quote."
+}

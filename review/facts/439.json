@@ -1,0 +1,19 @@
+{
+  "id": "439",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Dispatches from the Mace-Coburn fight were to be received at Tom Allen's saloon at 417 Washington avenue (printed as 417 Wesbicg on avenve).",
+      "excerpt": "Will be received trom Tom Allen at bis , 417 Wesbicg on avenve, from the Mace",
+      "date": "1871-11-30",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["417 Washington avenue"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Very garbled OCR. Only the service and the address are readable; the address is inferred from other articles."
+}

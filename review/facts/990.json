@@ -1,0 +1,30 @@
+{
+  "id": "990",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised a concert every evening at 619 Market Street.",
+      "excerpt": "world, 619 Market st. ee concert every",
+      "date": "1899-05-10",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen is described in the paper as the retired champion pugilist of the world.",
+      "excerpt": "Tom Allen, retired champion pugilist of the",
+      "date": "1899-05-10",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Sporting Notes ad; the word before 'concert' is garbled, so 'free' from the hint is not claimed. Other items (Jimmy Barry's manager's funeral, track news) are not about Allen."
+}

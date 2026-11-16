@@ -1,0 +1,461 @@
+{
+  "bucket": "other-undated-p1",
+  "facts": [
+    {
+      "fact": "In November 1869 Tom Allen's backers rejected Mike McCoole's choice of stakeholder, Murray, and Bill Carroll and Mr. Thorweger of St. Louis went to Cincinnati to settle the dispute.",
+      "date": "1869-11",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1867-1869#23",
+      "claims": [
+        "024.c3"
+      ]
+    },
+    {
+      "fact": "Tom Allen picked Ed Smith to beat Joe Goddard, backed him and won heavily on the bet, and was one of Smith's seconds at the New Orleans fight on 3 March 1893, which Smith fairly won.",
+      "date": "1893-03-03",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1893-1900#1",
+      "claims": [
+        "176.c1"
+      ]
+    },
+    {
+      "fact": "In June 1897 Paddy Smith, his brother Denver Ed Smith and Ike Weir, the Belfast Spider, stayed at Tom Allen's place in St. Louis while looking for fights, and Denver Ed Smith shook hands with Allen and had breakfast there on 14 June.",
+      "date": "1897-06-11",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1893-1900#26",
+      "claims": [
+        "175.c4"
+      ]
+    },
+    {
+      "fact": "In July 1903 Tillie Hartgrove, Allen's housekeeper, claimed the silk hat worn by \"Lord\" Barrington as property of the Allen estate; Barrington returned the hat by messenger, and it was put on display for Allen's friends with the silver cup he won in 1878.",
+      "date": "1903-07",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1901-1978#8",
+      "claims": [
+        "1009.c2",
+        "1009.c3",
+        "1009.c7"
+      ]
+    },
+    {
+      "fact": "In 1875 Tom Allen's Rooke match was to have Barney Aaron and Owney Gagin as his seconds, reported in May 1875.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "264.c20"
+      ]
+    },
+    {
+      "fact": "The belt given to Tom Allen was made under the supervision of Wm. Walsh, who had also supervised the belt presented to Mike McCoole.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "033.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen said Arthur Chambers had seconded him in an earlier fight.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "047.c7"
+      ]
+    },
+    {
+      "fact": "A gang from Council Bluffs and Cheyenne tried to force Tom Allen to lose a fight at Omaha, threatening him with revolvers and bowie knives.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "050.c13"
+      ]
+    },
+    {
+      "fact": "Tom Allen said Ned Donnelly's real name was George Bruer, a laborer he had taken from the streets and trained as a boxer.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "069.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen expressed contempt for a man printed as 'burn' and for his gang, who had made bold threats.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "076.c6"
+      ]
+    },
+    {
+      "fact": "Billy Edwards said Tom Allen would beat Joe Goss without trouble in a fair fight.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "082.c3"
+      ]
+    },
+    {
+      "fact": "Jem Mace said Joe Goss would win the coming fight with Tom Allen barring all accidents.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "082.c4"
+      ]
+    },
+    {
+      "fact": "An interview with Tom Allen by a New York Clipper reporter was expected to follow.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "083.c2"
+      ]
+    },
+    {
+      "fact": "As a youth Tom Allen learned the trade of gunmaking in England.",
+      "date": "",
+      "seed": "002",
+      "conflict": "",
+      "claims": [
+        "084.c9"
+      ]
+    },
+    {
+      "fact": "Tom Allen served in the Crimean War and won several turn-ups in front of Sevastopol, which convinced him he had the makings of a champion.",
+      "date": "",
+      "seed": "003",
+      "conflict": "",
+      "claims": [
+        "084.c10"
+      ]
+    },
+    {
+      "fact": "A thoroughly conditioned 165-pounder, Tom Allen maintained, had a perfect license to beat a 200-pounder at the London prize ring game.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "1015.c2"
+      ]
+    },
+    {
+      "fact": "Prof. Bill Clark, a St. Louis resident, was an intimate of Tom Allen.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "1017.c2"
+      ]
+    },
+    {
+      "fact": "For some time after arriving in St. Louis, C. W. Price was Tom Allen's protégé.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "116.c3"
+      ]
+    },
+    {
+      "fact": "Tom Allen gave John Ryan a terrible beating when Ryan would not keep away from his saloon.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "132.c2"
+      ]
+    },
+    {
+      "fact": "Mike McCoole, Tom Kelley and Tom Allen used to meet in the Market Street block between Sixth and Seventh streets to congregate and arrange their matches.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "143.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen was the biggest backer of Charlie Mitchell in St. Louis when Mitchell fought Sullivan at Chantilly, France.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "144.c3"
+      ]
+    },
+    {
+      "fact": "Charlie Mitchell was one of Tom Allen's particular friends, and the two often discussed the tactics of fighters who had met Allen.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "144.c4",
+        "280.c1",
+        "280.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen handled and seconded Ed Smith when Smith fought Peter Jackson in Chicago.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "152.c3"
+      ]
+    },
+    {
+      "fact": "Tom Allen believes a man born in Birmingham can always beat a man not born in Birmingham.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "154.c5"
+      ]
+    },
+    {
+      "fact": "Tom Allen says Corbett jabbed his way to the championship.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "156.c4"
+      ]
+    },
+    {
+      "fact": "Tom Allen says Corbett never struck a blow in his fight with Sullivan that could be decisive.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "156.c5"
+      ]
+    },
+    {
+      "fact": "Tom Allen took Alf Greenfield in hand while Greenfield was working on a canal near Birmingham, England, and showed him how to box.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "167.c10"
+      ]
+    },
+    {
+      "fact": "Fred Watkins backed Tom Allen, including when Allen was the acknowledged champion, and was a lifelong friend of his.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "169.c1",
+        "279.c7"
+      ]
+    },
+    {
+      "fact": "Tom Allen lost money in the Corbett-Sullivan fight because he had misjudged Corbett, thinking him too light and spare.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "171.c3"
+      ]
+    },
+    {
+      "fact": "Denver Ed Smith and many people believed he could eat up and spit out Sharkey, Maher, Corbett or Fitzsimmons.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "176.c2"
+      ]
+    },
+    {
+      "fact": "Mike McCoole died a pauper in New Orleans and was rescued from a pauper's grave by Tom Allen.",
+      "date": "",
+      "seed": "024",
+      "conflict": "",
+      "claims": [
+        "178.c3"
+      ]
+    },
+    {
+      "fact": "Tom Allen was said to have invested some of his ring money in Missouri farms, which he was said still to own.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "197.c14"
+      ]
+    },
+    {
+      "fact": "Tom Allen was a well-known prognosticator of prize fights, and followers of the ring came to him for his opinion before championship battles.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "203.c14"
+      ]
+    },
+    {
+      "fact": "Tom Allen would settle with any man who dared call him the ex-champion (text garbled).",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "205.c1"
+      ]
+    },
+    {
+      "fact": "Attorney Simon S. Bass, named as executor in Tom Allen's will, refused to act.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "207.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen's bar was in the custody of an agent acting for his daughter.",
+      "date": "",
+      "seed": "048",
+      "conflict": "",
+      "claims": [
+        "207.c7"
+      ]
+    },
+    {
+      "fact": "The feud between Tom Allen and rival saloonkeeper Dan Daly lasted until Daly's death.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "209.c10"
+      ]
+    },
+    {
+      "fact": "After Dan Daly's death, Tom Allen went to Daly's relatives and offered his services and substantial aid in money.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "209.c12"
+      ]
+    },
+    {
+      "fact": "Tom Allen wintered his horse at William W. Heapes's farm in St. Louis County, and Heapes held the horse until a feed bill of some $17 was settled.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "211.c2",
+        "212.c2",
+        "212.c5"
+      ]
+    },
+    {
+      "fact": "Tillie Hartgrove was Tom Allen's housekeeper and nursed him before his death.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "214.c2",
+        "215.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen's will left his property to Tillie Hartgrove, with a nominal sum to each of his two daughters.",
+      "date": "",
+      "seed": "046",
+      "conflict": "heirs: Tillie Hartgrove alone, with nominal sums to the daughters (214.c4, 215.c6) vs daughter Polly Taylor and Tillie Hartgrove sharing everything (263.c10)",
+      "claims": [
+        "214.c4",
+        "215.c6",
+        "263.c10"
+      ]
+    },
+    {
+      "fact": "The new manager of Champion's Rest had been a bartender under Tom Allen.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "216.c6"
+      ]
+    },
+    {
+      "fact": "Lord Barrington, accused of the McCann murder, walked up and down near Bonfils in broad daylight dressed in Tom Allen's old silk hat, a frock coat and a cane.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "218.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen was 5 feet 9 inches tall and weighed under 175 pounds.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "248.c6"
+      ]
+    },
+    {
+      "fact": "A family story says Tom Allen came into possession of a diamond belt, emblematic of the world championship, but no one can verify it.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "263.c13"
+      ]
+    },
+    {
+      "fact": "Tom Taylor planned to offer Tom Allen's silver cup to the Missouri Historical Society.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "263.c14"
+      ]
+    },
+    {
+      "fact": "Tom Allen gave Charley Mitchell boxing tips, the most valuable being the deceptive left hook, which Mitchell improved and used.",
+      "date": "",
+      "seed": "",
+      "conflict": "credit for the left hook: Billy Madden says Allen should not be credited with inventing it (280.c4) vs Allen gave Mitchell the left hook tip (280.c3)",
+      "claims": [
+        "280.c3",
+        "280.c4"
+      ]
+    },
+    {
+      "fact": "Tom Allen had been in active training for only nine days before his fight with Bill Davis, he claimed.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "303.c17"
+      ]
+    },
+    {
+      "fact": "Edward O'Baldwin, the 'Irish Giant', arrived in St. Louis from Boston, went around with Tom Allen, and dropped in on Mike McCoole and Bill Carroll.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "343.c1"
+      ]
+    }
+  ]
+}

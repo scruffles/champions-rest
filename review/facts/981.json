@@ -1,0 +1,30 @@
+{
+  "id": "981",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "An advertisement for Allen, retired champion pugilist of the world, offered a free concert every evening at 619 Market street.",
+      "excerpt": "Allen, retired champion pugilst of the world, 619 Market street. Free concert every evening",
+      "date": "1898-12-17",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Allen was billed in this advertisement as retired champion pugilist of the world.",
+      "excerpt": "Allen, retired champion pugilst of the world, 619 Market street",
+      "date": "1898-12-17",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Name printed only as 'Allen' (first name garbled in OCR); identified as Tom Allen from the same ad format. Rodgers, Weatherby and other items are not about Allen."
+}

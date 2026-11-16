@@ -1,0 +1,70 @@
+{
+  "id": "169",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Fred Watkins backed Tom Allen when Allen was the acknowledged champion.",
+      "excerpt": "who backed Tom Allen when he was the\nacknowledged champion",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Fred Watkins"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "As a green youth, Tom Allen was beaten by Posh Price, according to Fred Watkins.",
+      "excerpt": "When he was a green kid, Tom Allen\n\nwas beaten by Posh Price",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Posh Price"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen later beat Posh Price decisively, according to Fred Watkins.",
+      "excerpt": "but Tom after-\nyards hammered Posh all over the ring.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Posh Price"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Posh Price",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "When he was a green kid, Tom Allen\n\nwas beaten by Posh Price",
+      "reported_as": "recollection",
+      "notes": "Watkins's recollection of Allen's early career; not dated."
+    },
+    {
+      "opponent": "Posh Price",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "but Tom after-\nyards hammered Posh all over the ring.",
+      "reported_as": "recollection",
+      "notes": "Watkins says Allen later beat Price decisively; not dated and not described as a rematch."
+    }
+  ],
+  "notes": "Article is mainly Fred Watkins's pick of Maher over Fitzsimmons; Allen appears only in passing."
+}

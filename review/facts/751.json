@@ -1,0 +1,81 @@
+{
+  "id": "751",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The Post-Dispatch states that Tom Allen was never champion of the prize ring in England.",
+      "excerpt": "Tom Allen was never champion of the prize ring in England, but he won the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen won a silver cup for the championship at boxing in England and still held it in 1888.",
+      "excerpt": "which be now holds, for the cham- pionship at boxing in England",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Charles Davis at Cambridge in 1878 to win the silver cup for the English boxing championship.",
+      "excerpt": "He won this against Charles Davis at Oambridge in 1878.",
+      "date": "1878",
+      "date_precision": "year",
+      "people": ["Charles Davis"],
+      "places": ["Cambridge"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen won the championship of America from Mike McCoole.",
+      "excerpt": "Allen won the championship of America from Mike McCoole.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charles Davis",
+      "date": "1878",
+      "date_precision": "year",
+      "place": "Cambridge",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "silver cup for the championship at boxing in England",
+      "rules": "",
+      "excerpt": "He won this against Charles Davis at Oambridge in 1878.",
+      "reported_as": "record",
+      "notes": "Answer to a correspondent in 1888; OCR reads 'Oambridge'."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "championship of America",
+      "rules": "",
+      "excerpt": "Allen won the championship of America from Mike McCoole.",
+      "reported_as": "record",
+      "notes": "Date and place not given."
+    }
+  ],
+  "notes": "Answer to a correspondent (column 'Answers to Correspondents'), not a report. Other items in the column concern Sullivan and Mitchell, not Allen."
+}

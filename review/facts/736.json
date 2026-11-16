@@ -1,0 +1,59 @@
+{
+  "id": "736",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole twice; the first fight was interrupted.",
+      "excerpt": "challenged the world and twice fought Tom | Allen, the battle being interrupted the first",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen won the second of his two fights with Mike McCoole.",
+      "excerpt": "} time and Allen winning the second fight.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "challenged the world and twice fought Tom | Allen, the battle being interrupted the first",
+      "reported_as": "recollection",
+      "notes": "First meeting interrupted; no result or date given."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "} time and Allen winning the second fight.",
+      "reported_as": "recollection",
+      "notes": "Second meeting won by Allen per the obituary; no date or place given."
+    }
+  ],
+  "notes": "Obituary of McCoole; the two fights are taken from its summary of his career."
+}

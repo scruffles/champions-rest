@@ -1,0 +1,19 @@
+{
+  "id": "615",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Daniel O'Leary said that Tom Allen, the prize fighter, treated him shamefully in London during his last hundred miles of a walk, sitting at the edge of the track and insulting him.",
+      "excerpt": "insulted the plucky little pportunity. O'Leary savs",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Daniel O'Leary"],
+      "places": ["London"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only one side's account (O'Leary's, reported by the paper). The date of the London walk is not given. Heavy OCR damage."
+}

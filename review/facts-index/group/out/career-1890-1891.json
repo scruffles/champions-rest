@@ -1,0 +1,19 @@
+{
+  "bucket": "career-1890-1891",
+  "facts": [
+    {
+      "fact": "Tom Allen advertised himself as the retired champion pugilist of the world in newspaper advertisements from February to December 1890.",
+      "date": "1890-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["779.c1", "781.c1", "782.c1", "783.c1", "784.c1", "785.c1", "787.c1", "788.c1", "789.c1", "790.c1", "791.c1", "792.c1", "793.c1", "794.c1", "796.c1", "798.c1", "799.c1", "801.c1", "803.c1", "805.c2"]
+    },
+    {
+      "fact": "Tom Allen advertised himself as the retired champion pugilist of the world in newspaper advertisements from January to December 1891.",
+      "date": "1891-01",
+      "seed": "",
+      "conflict": "wording: 138.c2 (June 1891) describes him as a retired prize-fighter rather than retired champion pugilist of the world",
+      "claims": ["807.c2", "811.c2", "812.c2", "814.c2", "815.c2", "817.c2", "818.c2", "138.c2", "819.c2", "820.c2", "821.c2", "822.c2", "823.c2", "824.c2", "825.c2", "826.c2", "827.c2", "828.c2", "829.c2", "830.c2"]
+    }
+  ]
+}

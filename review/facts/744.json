@@ -1,0 +1,41 @@
+{
+  "id": "744",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen is advertised as the retired champion pugilist of the world.",
+      "excerpt": "TOM ALLEN, the retired champion pugilist",
+      "date": "1887-12-03",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised free concerts every evening at his place at 619 Market street.",
+      "excerpt": "of the world, 619 Market street. Free concert",
+      "date": "1887-12-03",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Smith and Kilrain's colors could be seen at the bar at Tom Allen's place, 619 Market street.",
+      "excerpt": "hagede and Kilrain’s colors can be seen at the",
+      "date": "1887-12-03",
+      "date_precision": "day",
+      "people": ["Jem Smith", "Jake Kilrain"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. 'hagede' is OCR damage; read as Smith, as in the Globe-Democrat version of the same ad."
+}

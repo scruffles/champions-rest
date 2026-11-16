@@ -1,0 +1,34 @@
+{
+  "id": "027",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and John Mace signed articles at the Clipper office in New York for a prize fight for $2,500 and the championship, to be fought on 10 May 1870 within fifty miles of New Orleans.",
+      "excerpt": "by John Mace in person and by Frank Burns on behalf of Tom Allen",
+      "date": "1870-01-17",
+      "date_precision": "day",
+      "people": ["John Mace", "Frank Burns"],
+      "places": ["New York", "New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "John Mace",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "place": "within fifty miles of New Orleans",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,500 and the championship",
+      "rules": "",
+      "excerpt": "The fight has been fixed to come off on the 10th of May.",
+      "reported_as": "report",
+      "notes": "Planned bout; not yet fought in this article. The paper gives 'John Mace'; other articles say 'Jem Mace'."
+    }
+  ],
+  "notes": "Only the signed match is reported; the baseball item is not about Allen."
+}

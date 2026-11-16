@@ -1,0 +1,30 @@
+{
+  "id": "723",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen and Tom Kelly acted as umpires for the boxing contests at the Union Club athletic sports.",
+      "excerpt": "Tom Kelly and Tom Allen\n‘umpires tor the boxing contests.",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Tom Kelly", "Bill Richards", "John Jebn-\nm"],
+      "places": ["Union Base Ball Park, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Tom Kelly received an ovation when they put on the mittens to spar at the Union Club athletic sports.",
+      "excerpt": "Kelly and Tom Alien received anjova-\nmn when they put on the mittens,",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Union Base Ball Park, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen was an umpire for the boxing, not a fighter, and he and Kelly sparred at the sports. John Jebn-m is probably John Jebnm or similar, name garbled."
+}

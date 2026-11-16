@@ -1,0 +1,63 @@
+{
+  "id": "200",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Bartender John Murphy pointed a revolver at W. J. Gillespie when he entered the saloon with William Burns, telling them he was running the Champion's Rest.",
+      "excerpt": "Murphy pointed the revolver at W. J. Gillespie when he entered the saloon",
+      "date": "1903-04-01",
+      "date_precision": "day",
+      "people": ["John Murphy", "W. J. Gillespie", "William Burns"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Gillespie had paid $125 rent for Allen's saloon, starting April 1, and had installed William Burns and his family in Allen's apartments above it to manage the place.",
+      "excerpt": "as he had paid $125 rent for the place, commencing April 1",
+      "date": "1903-04-01",
+      "date_precision": "day",
+      "people": ["W. J. Gillespie", "William Burns"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The Hyde Park brewery placed Gillespie, proprietor of a saloon on North Broadway, in charge of Allen's saloon; he took hold on Monday, March 30, 1903.",
+      "excerpt": "The Hyde Park brewery placed Wee Te Gillespie, proprietor of a",
+      "date": "1903-03-30",
+      "date_precision": "day",
+      "people": ["W. J. Gillespie"],
+      "places": ["North Broadway, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Gillespie got a policeman to help him take the saloon, but the policeman refused to interfere, and Gillespie decided not to risk his life.",
+      "excerpt": "Gillespie got a policeman, but the latter refused to interfere",
+      "date": "1903-04-01",
+      "date_precision": "day",
+      "people": ["W. J. Gillespie"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "It was said that Allen made a will at the Baptist hospital the week before, leaving his championship cup and other property to Mrs. Tillie Hartgrove.",
+      "excerpt": "he made a will last week bequeathing his championship cup and other",
+      "date": "1903-03",
+      "date_precision": "month",
+      "people": ["Tillie Hartgrove"],
+      "places": ["Baptist Hospital, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Gillespie is given as 'W. J. L.' in other articles and as 'W. J.' here. The bartender is named John Murphy here.The Hyde Park brewery sentence is partly garbled in the OCR ('Wee Te'). Mrs. Taylor's visit to the saloon is garbled and not included."
+}

@@ -1,0 +1,180 @@
+{
+  "bucket": "saloon-1874-1887",
+  "facts": [
+    {
+      "fact": "In February 1874 Tom Allen kept a hostelry on Washington Avenue by the tunnel in St. Louis; the Republican interviewed him there on February 19, and a Post-Dispatch reporter found Jack Madden there on February 24 while Allen was out.",
+      "date": "1874-02-19",
+      "seed": "",
+      "conflict": "",
+      "claims": ["047.c1", "506.c3"]
+    },
+    {
+      "fact": "From August to November 1874 Tom Allen's Free and Easy at 417 Washington Avenue was advertised as a place of amusement with the latest songs every night, with the champion keeping order.",
+      "date": "1874-08",
+      "seed": "",
+      "conflict": "address: 417 Washington (051.c1, 052.c1, 053.c1, 054.c1) vs 117 Washington (510.c1) vs 17 Washington (055.c1, low)",
+      "claims": ["051.c1", "052.c1", "053.c1", "054.c1", "055.c1", "510.c1", "510.c2"]
+    },
+    {
+      "fact": "On August 15, 1874, a large crowd gathered all day at Tom Allen's saloon, the Champion's Rest, and that night Allen kept order among the crowd at his Free-and-Easy, as was his usual custom.",
+      "date": "1874-08-15",
+      "seed": "",
+      "conflict": "",
+      "claims": ["508.c4", "508.c5"]
+    },
+    {
+      "fact": "In March 1875 Tom Allen's free and easy at 417 Washington Avenue had silver goblets displayed at its bar, and Allen announced he would take the chair there on Saturday night to sing his favorite songs.",
+      "date": "1875-03-20",
+      "seed": "",
+      "conflict": "",
+      "claims": ["515.c2", "515.c1"]
+    },
+    {
+      "fact": "In 1875 Tom Allen's saloon on Washington Avenue was called the Champion's Rest, and a reporter interviewed him in a rear room of it in May.",
+      "date": "1875-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["264.c23", "523.c1"]
+    },
+    {
+      "fact": "In June 1875 Tom Allen was found at his Free and Easy in the company of sporting men.",
+      "date": "1875-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["257.c4"]
+    },
+    {
+      "fact": "In July 1875 Tom Allen was well off financially and had a good business he was anxious to attend to.",
+      "date": "1875-07-18",
+      "seed": "",
+      "conflict": "",
+      "claims": ["523.c5"]
+    },
+    {
+      "fact": "In August 1875 a gambling game was running upstairs over Tom Allen's free and easy on Washington Avenue.",
+      "date": "1875-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["258.c1"]
+    },
+    {
+      "fact": "On September 29, 1875, a Globe-Democrat reporter called on Tom Allen at his saloon on Washington Avenue.",
+      "date": "1875-09-29",
+      "seed": "",
+      "conflict": "",
+      "claims": ["525.c5"]
+    },
+    {
+      "fact": "In December 1875 special officer Maloney seized a young man sitting in a chair in Tom Allen's saloon, and when the young man protested and Allen told Maloney to show his authority, Maloney drew a revolver in the saloon.",
+      "date": "1875-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["060.c1", "060.c2", "060.c3"]
+    },
+    {
+      "fact": "On February 22, 1876, Tom Allen's Gymnasium club held an entertainment in honour of Ned Donnelly.",
+      "date": "1876-02-22",
+      "seed": "",
+      "conflict": "",
+      "claims": ["064.c2"]
+    },
+    {
+      "fact": "In April 1876 Tom Allen closed his Free and Easy on Washington Avenue, and the counters and gin bottles were hauled out of the saloon; it was understood he would open another saloon at 611 Fifth Street in a few days.",
+      "date": "1876-04",
+      "seed": "010",
+      "conflict": "reason for closing: to open a saloon at 611 Fifth Street (068.c4, medium) vs packing up for a trip to England or another Eastern destination (067.c1, medium)",
+      "claims": ["068.c4", "067.c1", "068.c3"]
+    },
+    {
+      "fact": "About 1880 Tom Allen had been for about 23 years proprietor of a small saloon with an English concert hall annex on Market Street.",
+      "date": "1880",
+      "seed": "011",
+      "conflict": "address: 69 Market Street (197.c5, as printed) vs 619 Market Street (other papers)",
+      "claims": ["197.c5"]
+    },
+    {
+      "fact": "A gentleman who had backed Tom Allen in nearly all his old fights intended to set him up in business in St. Louis.",
+      "date": "1882-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["102.c13"]
+    },
+    {
+      "fact": "In March 1883 Tom Allen opened a saloon on Market Street between Sixth and Seventh, next door to Tom Kelly's and two doors from Jack Looney's.",
+      "date": "1883-03",
+      "seed": "011",
+      "conflict": "start of the saloon business: March 1883 (691.c1, 691.c2; 704.c9 says about a year before February 1884) vs came to St. Louis in 1884 and went into the saloon business (247.c3, retro)",
+      "claims": ["691.c1", "691.c2", "704.c9", "247.c3"]
+    },
+    {
+      "fact": "On May 19 and 20, 1883, a sport at Tom Allen's saloon offered a reporter a good day's sport at the cock main the next morning.",
+      "date": "1883-05-19",
+      "seed": "",
+      "conflict": "",
+      "claims": ["104.c1", "104.c2"]
+    },
+    {
+      "fact": "In June 1883 Tom Allen advertised his concert hall, Champion's Rest, at 619 Market Street, open every evening with free singers and dancers and Allen in the chair.",
+      "date": "1883-06-12",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["697.c1"]
+    },
+    {
+      "fact": "On October 4, 1883, Tom Allen tried to light the street illuminations in front of his saloon, but the lights kept going out and he gave up in disgust.",
+      "date": "1883-10-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["699.c1"]
+    },
+    {
+      "fact": "On October 27, 1883, Tom Allen knocked out Jim Egan in a quarrel at his free-and-easy, and Egan and his friends were ejected; Allen pulled his pistol intending to kill Egan's dog, but put the revolver away.",
+      "date": "1883-10-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["106.c3", "106.c4", "106.c5"]
+    },
+    {
+      "fact": "On November 3, 1883, John L. Sullivan, with his manager Al Smith and some of his company, spent time in Tom Allen's Market Street saloon, where a large crowd gathered to look at him; his party retired to a room and drank champagne while Sullivan himself drank nothing.",
+      "date": "1883-11-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["701.c1", "701.c2"]
+    },
+    {
+      "fact": "On December 31, 1883, a wrestling match was held at Tom Allen's saloon.",
+      "date": "1883-12-31",
+      "seed": "",
+      "conflict": "",
+      "claims": ["108.c2"]
+    },
+    {
+      "fact": "In June and July 1884 Tom Allen advertised a free-and-easy every evening at his Market Street saloon at 619 Market Street, and entries for tournament events could be made at Allen's until July 2.",
+      "date": "1884-06",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["707.c1", "707.c2", "712.c3"]
+    },
+    {
+      "fact": "In late 1884 Tom Allen's saloon held free and easy concerts, Frank Rush, a coal miner, lodged over it as one of its regular attaches, and Allen was barely making a living running his concern on Market Street.",
+      "date": "1884-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["113.c2", "113.c3", "725.c6"]
+    },
+    {
+      "fact": "On September 4, 1885, Tom Allen was proprietor of a free-and-easy in St. Louis patterned after those in England, and he announced songs by rapping a gavel on the table.",
+      "date": "1885-09-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["117.c1", "117.c2"]
+    },
+    {
+      "fact": "In December 1887 Tom Allen advertised free concerts every evening at his place at 619 Market Street, where Smith and Kilrain's colors could be seen at the bar.",
+      "date": "1887-12-03",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["744.c2", "744.c3", "745.c2", "745.c3"]
+    }
+  ]
+}

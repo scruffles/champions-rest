@@ -1,0 +1,30 @@
+{
+  "id": "814",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised free concerts every evening at his place at 619 Market street, St. Louis, with the best of singers only engaged.",
+      "excerpt": "TOM ALLEN. retired champion pagilist of the worid, 619 Market street. Free concert evers evening.",
+      "date": "1891-02-21",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen styled himself retired champion pugilist of the world in a February 1891 advertisement.",
+      "excerpt": "TOM ALLEN. retired champion pagilist of the worid, 619 Market street. Free concert evers evening.",
+      "date": "1891-02-21",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only in the Sporting Notes advertisement. The Van Auken robbery item at Pauline Lang's house does not involve him."
+}

@@ -1,0 +1,106 @@
+{
+  "id": "284",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Joe Coburn sparred with Tom Allen at the Bowery Theater, New York, when Allen first came to America.",
+      "excerpt": "I sparred\nwith him ia the Bowery Theater, New\nYork",
+      "date": "1868",
+      "date_precision": "approx",
+      "people": ["Joe Coburn"],
+      "places": ["Bowery Theater, New York"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Coburn knocked Tom Allen off the stage at the Bowery Theater, slightly injuring him.",
+      "excerpt": "E-knocked\nhim off the stage, by which he\nwas slightly injured.",
+      "date": "1868",
+      "date_precision": "approx",
+      "people": ["Joe Coburn"],
+      "places": ["Bowery Theater, New York"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Joe Coburn sparred at a benefit for Mike Coburn at Harry Hill's in New York, about seven or eight months before April 1876.",
+      "excerpt": "did spar with hit at a\nbenefit given my brether, Mike Cobera,\nat Harry Hills",
+      "date": "1875",
+      "date_precision": "approx",
+      "people": ["Mike Coburn"],
+      "places": ["Harry Hill's, New York"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen would spar with Joe Coburn only on condition that Coburn promise not to throw him, and Coburn gave that promise.",
+      "excerpt": "he would spar with me_ provided\nI gave him a promise that I would not",
+      "date": "1875",
+      "date_precision": "approx",
+      "people": ["Joe Coburn"],
+      "places": ["Harry Hill's, New York"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Joe Coburn says Jem Mace beat Tom Allen in eleven and one-half minutes.",
+      "excerpt": "Jem Mace fought and badly\nbeat Alen in\nELEVEN AND ONE-HALF MINUTES",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "The Adelphi manager says Tom Allen has sent his wife out of St. Louis and converted his property into cash, so that he can leave at any time.",
+      "excerpt": "has sent his wife\nout of the city, and converted all his property into cash",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "The Adelphi manager had not seen Tom Allen since March 18, 1876.",
+      "excerpt": "that fighter since the 18th of last month",
+      "date": "1876-03-18",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Joe Coburn",
+      "text": "But he knows too much\nto attack me, and has never. enter-\ntained such an idea.",
+      "topic": "Coburn on Allen not attacking him"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "eleven and one-half minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Jem Mace fought and badly\nbeat Alen in\nELEVEN AND ONE-HALF MINUTES",
+      "reported_as": "recollection",
+      "notes": "Coburn's account, one side only; no date given. Probably the 1870 bout described in article 281, which says about ten rounds."
+    }
+  ],
+  "notes": "Coburn's statement, one side; the Adelphi manager's replies are also included. Coburn's own career details are skipped. The 1868 and 1875 sparring dates are approximate from 'about eight years ago' and 'seven or eight months ago'."
+}

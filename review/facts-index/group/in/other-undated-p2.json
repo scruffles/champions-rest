@@ -1,0 +1,352 @@
+{
+ "bucket": "other-undated-p2",
+ "kind": "other",
+ "undated": true,
+ "claims": [
+  {
+   "cid": "346.c2",
+   "date": "",
+   "published": "1869-08-11",
+   "statement": "Tom Allen's friends made up a handkerchief of colors for him to wear at the coming fight."
+  },
+  {
+   "cid": "348.c7",
+   "date": "",
+   "published": "1869-08-15",
+   "retro": true,
+   "statement": "Tom Allen and Blacksmith Dan were the seconds of Jim Elliott in his fight with Gallagher at Peach Island, near Detroit."
+  },
+  {
+   "cid": "349.c8",
+   "date": "",
+   "published": "1869-08-16",
+   "retro": true,
+   "statement": "Tom Allen and Blacksmith Dan were the seconds of Jim Elliott in his fight with Gallagher at Peach Island, near Detroit."
+  },
+  {
+   "cid": "352.c10",
+   "date": "",
+   "published": "1869-08-18",
+   "retro": true,
+   "statement": "Bill Ryall was Allen's second at the Davis fight, assisted by Tom Kelly."
+  },
+  {
+   "cid": "352.c27",
+   "date": "",
+   "published": "1869-08-18",
+   "retro": true,
+   "statement": "Tom Allen and Blacksmith Dan were the seconds of Jim Elliott in his fight with Gallagher at Peach Island, near Detroit."
+  },
+  {
+   "cid": "352.c28",
+   "date": "",
+   "published": "1869-08-18",
+   "statement": "Gallagher had long held an old grudge against Allen over Allen's conduct at the Elliott fight."
+  },
+  {
+   "cid": "352.c29",
+   "date": "",
+   "published": "1869-08-18",
+   "retro": true,
+   "conf": "medium",
+   "statement": "It was said that Gallagher gave Allen a severe pounding in a rough-and-tumble at Cleveland, some time before 1869."
+  },
+  {
+   "cid": "357.c4",
+   "date": "",
+   "published": "1869-08-20",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen was one of Jim Elliott's seconds in Elliott's fight with Gallagher at Peach Island, near Detroit, which the crowd broke up."
+  },
+  {
+   "cid": "357.c5",
+   "date": "",
+   "published": "1869-08-20",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Charley Gallagher was said to hold a long-standing grudge against Allen over Allen's conduct at the Elliott fight."
+  },
+  {
+   "cid": "364.c2",
+   "date": "",
+   "published": "1869-08-31",
+   "conf": "medium",
+   "statement": "Allen's backers professed the utmost confidence in him."
+  },
+  {
+   "cid": "374.c2",
+   "date": "",
+   "published": "1869-11-10",
+   "statement": "Mr. Thorwegen of St. Louis advanced $1100 of Tom Allen's stakes for the match."
+  },
+  {
+   "cid": "380.c2",
+   "date": "",
+   "published": "1870-01-04",
+   "conf": "low",
+   "statement": "Tom Allen stood 5 feet 10 and a fraction of an inch barefooted (the fraction is printed as '103g')."
+  },
+  {
+   "cid": "390.c1",
+   "date": "",
+   "published": "1870-03-31",
+   "conf": "medium",
+   "statement": "After Mace and Heenan's sparring exhibition in Cincinnati, the common remark was that Tom Allen would beat Mace in twenty minutes in a twenty-four-foot ring."
+  },
+  {
+   "cid": "465.c34",
+   "date": "",
+   "published": "1873-09-23",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen has always maintained that he was cheated of the battle money from the 1869 fight with McCoole and wants another meeting with him."
+  },
+  {
+   "cid": "503.c3",
+   "date": "",
+   "published": "1873-12-10",
+   "conf": "medium",
+   "statement": "Tom Allen said he sent word to Dr. Tennent that if Tennent told the truth about the fight, Allen would see that he lost nothing."
+  },
+  {
+   "cid": "533.c2",
+   "date": "",
+   "published": "1876-02-23",
+   "retro": true,
+   "statement": "Ned Donnelly had trained Tom Allen for his fight with George Rooke, which Rooke backed out of."
+  },
+  {
+   "cid": "536.c2",
+   "date": "",
+   "published": "1876-03-29",
+   "conf": "low",
+   "statement": "The belt that Mike McCoole and Davis fought for, which McCoole had pawned, was found in a pawnshop on Locust Street, St. Louis, and redeemed by Allen's friends."
+  },
+  {
+   "cid": "545.c4",
+   "date": "",
+   "published": "1876-04-29",
+   "conf": "medium",
+   "statement": "Tom Allen had personal altercations with a New York paper (printed as 'Nope') and with Wilkes' Spirit of the Times, which refused to print Goss's challenge to him."
+  },
+  {
+   "cid": "561.c7",
+   "date": "",
+   "published": "1876-07-16",
+   "conf": "medium",
+   "statement": "Tom Allen said the fighting ground for the Goss fight had already been selected."
+  },
+  {
+   "cid": "561.c8",
+   "date": "",
+   "published": "1876-07-16",
+   "statement": "Tom Allen was interviewed by a Globe-Democrat reporter at the Olive Street Hotel in St. Louis and said the match was on the dead level."
+  },
+  {
+   "cid": "615.c1",
+   "date": "",
+   "published": "1878-05-19",
+   "conf": "medium",
+   "statement": "Daniel O'Leary said that Tom Allen, the prize fighter, treated him shamefully in London during his last hundred miles of a walk, sitting at the edge of the track and insulting him."
+  },
+  {
+   "cid": "651.c1",
+   "date": "",
+   "published": "1882-02-13",
+   "retro": true,
+   "statement": "Billy Carroll was the banker of various sporting enterprises, notably the prize fights in which Tom Allen appeared."
+  },
+  {
+   "cid": "677.c6",
+   "date": "",
+   "published": "1882-12-30",
+   "conf": "medium",
+   "statement": "Tom Allen blamed a Chicago sporting man known as 'The Parson' for spreading stories about his dissipation."
+  },
+  {
+   "cid": "677.c7",
+   "date": "",
+   "published": "1882-12-30",
+   "conf": "medium",
+   "statement": "Chicago papers reported Tom Allen in drunken street brawls, which he denied."
+  },
+  {
+   "cid": "682.c1",
+   "date": "",
+   "published": "1883-01-26",
+   "statement": "W. E. Harding, sporting editor of the Police Gazette, said Tom Allen was spoiling for a fight with Sullivan."
+  },
+  {
+   "cid": "685.c1",
+   "date": "",
+   "published": "1883-01-28",
+   "statement": "Tom Allen agreed to referee the sprinting races at Sportsman's Park."
+  },
+  {
+   "cid": "703.c1",
+   "date": "",
+   "published": "1883-11-08",
+   "statement": "A well-known doctor who was financing Fred Zachritz was a former backer of Tom Allen."
+  },
+  {
+   "cid": "706.c1",
+   "date": "",
+   "published": "1884-06-11",
+   "conf": "medium",
+   "statement": "Tom Kelly and Tom Allen, the two prize fighters of St. Louis, planned a steamboat excursion to be given in a short time."
+  },
+  {
+   "cid": "730.c1",
+   "date": "",
+   "published": "1885-11-26",
+   "retro": true,
+   "conf": "low",
+   "statement": "Billy Carroll backed Tom Allen at one time against Jem Mace for stakes printed as '5H.' a side."
+  },
+  {
+   "cid": "738.c1",
+   "date": "",
+   "published": "1887-02-02",
+   "conf": "low",
+   "statement": "A Pittsburg Dispatch table of pugilists' lifespans lists Tom Allen, but his birth year and other figures are unreadable in the OCR."
+  },
+  {
+   "cid": "750.c1",
+   "date": "",
+   "published": "1888-02-22",
+   "conf": "low",
+   "statement": "Rusty Evans compared his age with Tom Allen's, but the passage is garbled and only fragments can be read."
+  },
+  {
+   "cid": "808.c2",
+   "date": "",
+   "published": "1891-01-15",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Fred Walker of St. Louis bet on Tom Allen in his fights with Mace and others (printed as 'betoa')."
+  },
+  {
+   "cid": "816.c1",
+   "date": "",
+   "published": "1891-03-16",
+   "retro": true,
+   "statement": "Rev. William Jones said that at 16 he was a prize fighter, backed as a boy wonder in the ring by Tom Allen of St. Louis."
+  },
+  {
+   "cid": "838.c4",
+   "date": "",
+   "published": "1892-03-05",
+   "statement": "Fred Watkins was Tom Allen's backer."
+  },
+  {
+   "cid": "852.c2",
+   "date": "",
+   "published": "1892-06-20",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen is credited with discovering, before the Jackson-Slavin fight, that Peter Jackson's lungs were gone."
+  },
+  {
+   "cid": "852.c3",
+   "date": "",
+   "published": "1892-06-20",
+   "retro": true,
+   "conf": "medium",
+   "statement": "The Chicago Mail said Tom Allen's diagnosis of Peter Jackson was not remarkably successful."
+  },
+  {
+   "cid": "864.c2",
+   "date": "",
+   "published": "1892-09-20",
+   "conf": "medium",
+   "statement": "Tom Allen picked Sullivan, McAuliffe and Dixon to win and backed all three."
+  },
+  {
+   "cid": "874.c1",
+   "date": "",
+   "published": "1892-11-19",
+   "conf": "medium",
+   "statement": "Papers printed an alleged letter from Mike Donovan to Tom Allen calling Peter Jackson a physical wreck; Parson Davies says Donovan never wrote it."
+  },
+  {
+   "cid": "876.c1",
+   "date": "",
+   "published": "1892-11-19",
+   "conf": "medium",
+   "statement": "A headline says Charley Mitchell wrote Tom Allen a characteristic letter about his plans for the Corbett fight; the letter itself is not in the text."
+  },
+  {
+   "cid": "893.c2",
+   "date": "",
+   "published": "1893-11-01",
+   "statement": "Under the original articles, Tom Allen as stakeholder was empowered to name the time and place if no club made a suitable offer."
+  },
+  {
+   "cid": "894.c1",
+   "date": "",
+   "published": "1893-12-23",
+   "conf": "medium",
+   "statement": "Tom Allen won a big piece of money when Ed Smith defeated Joe Goddard at New Orleans."
+  },
+  {
+   "cid": "921.c1",
+   "date": "",
+   "published": "1895-11-10",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Fred Watkins backed Tom Allen in all of Allen's great fights in America."
+  },
+  {
+   "cid": "928.c1",
+   "date": "",
+   "published": "1896-05-03",
+   "retro": true,
+   "statement": "Fred Watkins backed Tom Allen in many of Allen's big fights."
+  },
+  {
+   "cid": "929.c1",
+   "date": "",
+   "published": "1896-05-03",
+   "retro": true,
+   "statement": "Fred Watkins backed Tom Allen when Allen was champion pugilist of the world."
+  },
+  {
+   "cid": "945.c3",
+   "date": "",
+   "published": "1896-11-27",
+   "conf": "medium",
+   "statement": "According to the paper, Frank Slavin was in no condition to fight anybody when he took on Bob Armstrong."
+  },
+  {
+   "cid": "979.c2",
+   "date": "",
+   "published": "1898-10-14",
+   "retro": true,
+   "statement": "Ed Smith was a great friend of Tom Allen."
+  },
+  {
+   "cid": "979.c3",
+   "date": "",
+   "published": "1898-10-14",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen said that Swift was an old friend of his, whom he heard from often until recently."
+  },
+  {
+   "cid": "993.c4",
+   "date": "",
+   "published": "1900-12-18",
+   "retro": true,
+   "conf": "medium",
+   "statement": "The writer says a gang including 'Red' Leary and Johnny Dwyer meant to kill Allen if he beat Goss, because they claimed he had given some of their pals away to the police in England."
+  },
+  {
+   "cid": "994.c1",
+   "date": "",
+   "published": "1900-12-21",
+   "retro": true,
+   "statement": "Tom Allen coached and seconded 'Denver Ed' Smith in Smith's fight with Joe Goddard at New Orleans."
+  }
+ ]
+}

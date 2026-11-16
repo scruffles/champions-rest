@@ -1,0 +1,41 @@
+{
+  "id": "883",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place was at 619 Market street (text printed garbled but the address is clear).",
+      "excerpt": "Tom ALLEN, retired Spam gion pugilist of the world, 619 Market street.",
+      "date": "1892-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised a concert every evening at his place, with only the best singers engaged (printed as 'ee concert', so the word 'Free' is a guess).",
+      "excerpt": "619 Market street. ee concert every evening. Best of singers only engaged here.",
+      "date": "1892-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen advertised himself as the retired pugilist of the world (printed as 'retired Spam gion pugilist', so the wording is unclear).",
+      "excerpt": "Tom ALLEN, retired Spam gion pugilist of the world",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Repeated advertisement; header and concert line are badly garbled by OCR."
+}

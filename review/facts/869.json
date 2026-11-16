@@ -1,0 +1,30 @@
+{
+  "id": "869",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as a retired pugilist of the world (the word 'champion' is garbled in the scan).",
+      "excerpt": "TOM ALLEN, retired + og ee pugilist of the",
+      "date": "1892-10-22",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised concerts every evening at 619 Market Street, St. Louis.",
+      "excerpt": "world,.619 Market street. concerts every evening. Best ofsingers only engaged here:",
+      "date": "1892-10-22",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Short advertisement in Sporting Notes; the title word is garbled in the OCR."
+}

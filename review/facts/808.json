@@ -1,0 +1,45 @@
+{
+  "id": "808",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mace and others in bouts mentioned in passing; no dates or results are given.",
+      "excerpt": "who betoa Tom Alien in bis fights with Mace and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Fred Walker of St. Louis bet on Tom Allen in his fights with Mace and others (printed as 'betoa').",
+      "excerpt": "who betoa Tom Alien in bis fights with Mace and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Fred Walker", "Mace"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "who betoa Tom Alien in bis fights with Mace and",
+      "reported_as": "report",
+      "notes": "Mentioned in passing. Other opponents are not named. Date, place and result not given."
+    }
+  ],
+  "notes": "Only Allen item is the passing mention of his fights in the crowd report. The Dempsey-Fitzsimmons coverage does not involve him."
+}

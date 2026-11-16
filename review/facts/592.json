@@ -1,0 +1,45 @@
+{
+  "id": "592",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Ben Hogan were to fight in October 1873, but the planned excursion to the fight was stopped by Illinois sheriffs on October 20, 1873.",
+      "excerpt": "between Tom Allen and Ben Hogan, in 1873",
+      "date": "1873-10-20",
+      "date_precision": "day",
+      "people": ["Ben Hogan", "John Looney"],
+      "places": ["St. Louis", "East St. Louis, Illinois"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "John Looney suspected that Ben Hogan had arranged the failed excursion as a put-up job to avoid meeting Tom Allen.",
+      "excerpt": "he suspected that it wasa ‘‘put up ye on the pan of Ben Hogan to avoid meeting",
+      "date": "1873-10",
+      "date_precision": "month",
+      "people": ["John Looney", "Ben Hogan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "1873-10-20",
+      "date_precision": "day",
+      "place": "",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "between Tom Allen and Ben Hogan, in 1873",
+      "reported_as": "recollection",
+      "notes": "The bout never took place. The 1877 article is about a lawsuit over the chartered steamer Continental; Allen was not a party to it."
+    }
+  ],
+  "notes": "Lawsuit by Capt. John McCloy against John Looney over the steamer damage is not a Tom Allen fact."
+}

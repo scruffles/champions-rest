@@ -1,0 +1,122 @@
+{
+  "id": "009",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Charlie Gallagher beat Tom Allen in two rounds, in about three minutes, with a right-hander behind the ear that knocked Allen senseless.",
+      "excerpt": "Charlie Gallagher Whips Tom Allen in Two Rounds and in Three Minutes.",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Charlie Gallagher"],
+      "places": ["Foil's Island, about one mile below Quarantine"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen boarded the Galatea at Bissell's Point to travel down the river to the fight (printed as Blsseil's Point, or Bell's Point).",
+      "excerpt": "where the Galatea took Tom Alicw on board, to the sound of some shouting",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Bissell's Point, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen chose Dan Ryan (printed as Daa Ryan) as his umpire.",
+      "excerpt": "Tom Allen chose for his umptre Daa Ryan.",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Dan Ryan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Patsy Reardon and Jack Looney were Tom Allen's seconds in the fight with Charlie Gallagher.",
+      "excerpt": "Patsy Reardon and Jack Looney were the seconds ot Tom Allen",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Patsy Reardon", "Jack Looney"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was about 30 years of age and 5 feet 10 inches tall.",
+      "excerpt": "Tom Allen is about 30 years of age. 5 teet 10 inches in height",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen claimed to be the English champion of the prize ring.",
+      "excerpt": "and claims to be the Fagiish ehampion of the prize-ring.",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was reported to have said he was England's champion and could whip any Irishman on this side of the Atlantic.",
+      "excerpt": "is reported to have said he was Ergiand’s champion, ava could whip any",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was knocked senseless and out of time, and needed restoratives to revive him.",
+      "excerpt": "He bad to be carried to his corner, and was completely knocked out ot time and tune.",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "After Allen revived, there was some talk of his rechallenging Charlie Gallagher for $5,000 a side, but nothing definite was arranged.",
+      "excerpt": "there was some talk of his rechallenging Gallagher for $5,000 a side, but nothing definite transpired",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Charlie Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charlie Gallagher",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "place": "Foil's Island (printed as Car--Foil's Island), about one mile below Quarantine",
+      "result": "loss",
+      "rounds": "2",
+      "duration": "about 3 minutes",
+      "stakes": "",
+      "rules": "British prize ring",
+      "excerpt": "Charlie Gallagher Whips Tom Allen in Two Rounds and in Three Minutes.",
+      "reported_as": "report",
+      "notes": "Gallagher's right-hander behind the ear knocked Allen out of the ring; Allen was revived with restoratives."
+    }
+  ],
+  "notes": "Report of the Allen-Gallagher fight; place name garbled in OCR."
+}

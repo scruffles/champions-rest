@@ -1,0 +1,70 @@
+{
+  "id": "243",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in a bare-knuckle seven-round fight in 1873 on an island in the Mississippi above St. Louis, regaining the crown.",
+      "excerpt": "There Allen and McCoole fought a bare-knuckle match—a bloody battle of seven rounds in which Allen, weighing about 170 pounds",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": ["island in the Mississippi above St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole had taken the title from Tom Allen about four years before 1873, under questionable circumstances.",
+      "excerpt": "regained the crown that McCoole had taken from him four years before under questionable circumstances",
+      "date": "1869",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost his crown to Joe Goss in a losing fight near Louisville, Kentucky.",
+      "excerpt": "as Allen, when he finally lost his crown to Joe Goss, fought his losing battle near Louisville, Ky.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["near Louisville, Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "year",
+      "place": "island in the Mississippi above St. Louis",
+      "result": "win",
+      "rounds": "7",
+      "duration": "",
+      "stakes": "heavyweight championship",
+      "rules": "bare knuckles",
+      "excerpt": "There Allen and McCoole fought a bare-knuckle match—a bloody battle of seven rounds in which Allen, weighing about 170 pounds",
+      "reported_as": "recollection",
+      "notes": "Retrospective article from 1931; year only. Island is now part of East St. Louis."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "near Louisville, Ky.",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "heavyweight championship",
+      "rules": "",
+      "excerpt": "as Allen, when he finally lost his crown to Joe Goss, fought his losing battle near Louisville, Ky.",
+      "reported_as": "recollection",
+      "notes": "No date given in this article."
+    }
+  ],
+  "notes": "Short 1931 piece with no quotes; covers only the 1873 McCoole fight and the Goss loss."
+}

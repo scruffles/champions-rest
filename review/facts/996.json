@@ -1,0 +1,30 @@
+{
+  "id": "996",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen owned the Champion's Rest, a few doors east of Danny Daly's establishment on Market Street.",
+      "excerpt": "further east is the “Champion’s Rest,” owned by Tom Allen",
+      "date": "1901-01",
+      "date_precision": "month",
+      "people": ["Danny Daly"],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen at one time in his career had a claim on the championship of the world.",
+      "excerpt": "who at one time jin his career had a claim on the pugilistic championship of the world",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The hint that the building commissioner condemned Allen's Champion's Rest appears only in the headline, not in the body text, so it is not recorded as a claim."
+}

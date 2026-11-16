@@ -1,0 +1,205 @@
+{
+ "bucket": "life-undated-p2",
+ "facts": [
+  {
+   "fact": "Tom Allen was born in Birmingham, England.",
+   "date": "1840",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "253.c1",
+    "255.c1",
+    "264.c9",
+    "352.c2",
+    "363.c1",
+    "925.c1"
+   ],
+   "join": "life-1810-1874#1"
+  },
+  {
+   "fact": "Tom Allen fought Charley Gallagher at Chouteau Island on August 17, 1869, and a shot struck the back of his right hand.",
+   "date": "1869-08-17",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "262.c22"
+   ],
+   "join": "life-1810-1874#12"
+  },
+  {
+   "fact": "Tom Allen's daughter Mary, called Polly, returned to the United States with him and later married Edward Taylor of St. Louis.",
+   "date": "1878",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "263.c7"
+   ],
+   "join": "life-1875-1902#7"
+  },
+  {
+   "fact": "In March 1900 Tom Allen's daughter lived in the building where he ran his concert hall and had devoted her life to caring for him.",
+   "date": "1900-03",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "279.c5"
+   ],
+   "join": "life-1875-1902#20"
+  },
+  {
+   "fact": "Tom Allen was taken to the Baptist Hospital at Garrison and Franklin avenues, St. Louis, on 28 March 1903, after the physician diagnosed pneumonia and advised removal; he was seriously ill there.",
+   "date": "1903-03-28",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "259.c7"
+   ],
+   "join": "life-1903-1905#3"
+  },
+  {
+   "fact": "Some retrospective articles placed Tom Allen's death in St. Louis in 1904 or 1905.",
+   "date": "1904",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "254.c5"
+   ],
+   "join": "life-1903-1905#7"
+  },
+  {
+   "fact": "Tom Allen was an Englishman.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "273.c1",
+    "307.c5",
+    "340.c3",
+    "372.c4",
+    "389.c5",
+    "479.c2",
+    "488.c8"
+   ]
+  },
+  {
+   "fact": "Polly Allen Taylor and Edward Taylor were the grandparents of Thomas Allen Taylor, Tom Allen's great-grandson.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "262.c13",
+    "263.c8"
+   ]
+  },
+  {
+   "fact": "Tom Allen's will left everything to his daughter Polly Allen Taylor and to a friend, Tillie Hartgrove.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "262.c14"
+   ]
+  },
+  {
+   "fact": "When Tom Allen's will was probated, his estate amounted to $278.35.",
+   "date": "",
+   "seed": "049",
+   "conflict": "",
+   "claims": [
+    "262.c15"
+   ]
+  },
+  {
+   "fact": "Tom Allen's face was lined with scars and his right hand terribly scarred; in later years his hands were shapeless, with the knuckles gone from pounding.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "262.c20",
+    "262.c21"
+   ]
+  },
+  {
+   "fact": "Tom Allen said he had not had a sick day since coming to St. Louis eight years earlier.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "264.c6"
+   ]
+  },
+  {
+   "fact": "Tom Allen was married in Vincennes, Indiana.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "264.c8"
+   ]
+  },
+  {
+   "fact": "Tom Allen's daughter was said to have had an unwritten romance with the late Col. Fred Watkins.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "279.c6"
+   ]
+  },
+  {
+   "fact": "Tom Allen's brother Harry was matched to fight Joe Goss, but the fight never came off.",
+   "date": "",
+   "seed": "",
+   "conflict": "reason: magisterial interference (562.c7, medium) vs police arrest of Harry (577.c25)",
+   "claims": [
+    "562.c7",
+    "577.c25"
+   ]
+  },
+  {
+   "fact": "Tom Allen came from a fighting family in England.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "577.c27"
+   ]
+  },
+  {
+   "fact": "Tom Allen was not yet fully recovered from an injury to his arm.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "402.c4"
+   ]
+  },
+  {
+   "fact": "The paper described Tom Allen as of America and called him the United States champion.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "610.c2"
+   ]
+  },
+  {
+   "fact": "Billy Carroll was sure Tom Allen's dissipation in the old country had not hurt him.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "659.c5"
+   ]
+  },
+  {
+   "fact": "Bob Smith had 'done' Tom Allen's brother Harry twice in England.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "909.c4"
+   ]
+  }
+ ]
+}

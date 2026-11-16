@@ -1,0 +1,89 @@
+{
+  "id": "042",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen of St. Louis arrived in Kansas City with Jem Mace and Jim Cusick for the Mace-Coburn fight.",
+      "excerpt": "Cusick, Tom Allen of St. Eouis, arrived in the",
+      "date": "1871-06-01",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Jim Cusick"],
+      "places": ["Kansas City, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Allen and the party took rooms at the St. Nicholas Hotel in Kansas City.",
+      "excerpt": "tock rooms at the St. Nicholas Hetel, making",
+      "date": "1871-06-01",
+      "date_precision": "day",
+      "people": ["Billy Carroll"],
+      "places": ["St. Nicholas Hotel, Kansas City, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen (printed as 'Thomas Allens') followed Mace's party to Wyandotte with Billy Carroll, W. D. Lonergan, Charles Brownfield and Jack Goulding.",
+      "excerpt": "Soon there followed them Billy Carroll, W. D. Lonergan, Thomas Allens",
+      "date": "1871-06",
+      "date_precision": "approx",
+      "people": ["Jem Mace", "Billy Carroll", "W. D. Lonergan", "Charles Brownfield", "Jack Goulding"],
+      "places": ["Wyandotte, Kansas"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was in Mace's party at Wyandotte when Sheriff William Holcomb of Wyandotte County tried to capture them; they were not taken.",
+      "excerpt": "they would not be taken, however, and so quietly came back te Kansas City",
+      "date": "1871-06",
+      "date_precision": "approx",
+      "people": ["William Holcomb", "Jem Mace"],
+      "places": ["Wyandotte, Kansas"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "The garbled text seems to name Tom Allen at the ring where Mace was sitting, but the reading is uncertain (printed as 'Tom Ailes').",
+      "excerpt": "Tom ‘Ailes acne teat of ies. Cusick worked in",
+      "date": "1871-06-02",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Jim Cusick"],
+      "places": ["Kansas City, Missouri"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "The stakes and ropes used for the Mace-Coburn set-up were the same ones used when Mace and Allen fought in New Orleans.",
+      "excerpt": "the same that were used in New Orleans when Mace and Allen fought",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans, Louisiana"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "New Orleans, Louisiana",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the same that were used in New Orleans when Mace and Allen fought",
+      "reported_as": "recollection",
+      "notes": "Passing mention only; date and outcome are not given in this article."
+    }
+  ],
+  "notes": "Article is about the Mace-Coburn fight, which Allen did not fight in. His part is as Mace's companion. The hint about him acting as master of ceremonies is not readable in the OCR, so it is kept only as a low-confidence claim."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "011",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen is described as an English pugilist.",
+      "excerpt": "Tom Allen, the Engi!sh pugilist, had sent a ecard to one",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen sent a card to a morning paper challenging Mike McCoole to fight for $2,500, within three months and within fifty miles of St. Louis.",
+      "excerpt": "had sent a ecard to one of the mornmg papers challenging him to 2 fight for the sum ef $2,500",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mike McCoole readily expressed willingness to accept Tom Allen's challenge.",
+      "excerpt": "Teadily expressed his wil ingness to accept the ehal- lenge.",
+      "date": "1869-03-10",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The card's date is not given; McCoole was told of it 'last night' in a paper dated 11 Mar 1869."
+}

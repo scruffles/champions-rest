@@ -1,0 +1,45 @@
+{
+  "id": "608",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Davis in five rounds in London, when Davis's seconds picked him up after a fifth-round knockdown, violating the rules, and the referee let Allen claim the victory.",
+      "excerpt": "Davis was exhausted very quickly and knocked downinthe fifth round, when his seconds picked him up,thus violating the rules, and Ailen claimed the victory",
+      "date": "1878-04-04",
+      "date_precision": "day",
+      "people": ["Davis"],
+      "places": ["London"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen won the fight against Davis for the championship, and the paper calls him the champion pugilist.",
+      "excerpt": "prize fight between Tom Allen and Davis for the championship",
+      "date": "1878-04-04",
+      "date_precision": "day",
+      "people": ["Davis"],
+      "places": ["London"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Davis",
+      "date": "1878-04-04",
+      "date_precision": "day",
+      "place": "London",
+      "result": "win",
+      "rounds": "5",
+      "duration": "eighteen and a half minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Davis was exhausted very quickly and knocked downinthe fifth round, when his seconds picked him up,thus violating the rules, and Ailen claimed the victory",
+      "reported_as": "report",
+      "notes": "Davis's seconds lifted him after a fifth-round knockdown; the paper says the referee agreed to Allen's claim."
+    }
+  ],
+  "notes": ""
+}

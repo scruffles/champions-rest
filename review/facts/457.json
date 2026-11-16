@@ -1,0 +1,30 @@
+{
+  "id": "457",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A fourth $500-a-side deposit was made for the McCoole and Allen fight at McCoole's saloon.",
+      "excerpt": "the occasion of the fourth deposit of $500",
+      "date": "1873-08-05",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["McCoole's saloon, corner of Fifth and Wash streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was present at the fourth deposit at McCoole's saloon.",
+      "excerpt": "Allen was also present, looking the pic-",
+      "date": "1873-08-05",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["McCoole's saloon, corner of Fifth and Wash streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "'Last night' in a paper dated 1873-08-06 is 1873-08-05."
+}

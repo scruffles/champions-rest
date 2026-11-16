@@ -1,0 +1,85 @@
+{
+  "id": "087",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen had a home in St. Louis, which he left some months before the Goss fight to go into training.",
+      "excerpt": "left his home in this city some few months ago, to go into training prior to meeting the English-man Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as the champion of the prize ring.",
+      "excerpt": "Tom Allen, the champion of the prize ring",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to St. Louis by train from Cincinnati on 1876-09-21.",
+      "excerpt": "This morning the train from Cincinna i brought in the man who had whipped Joe Goss",
+      "date": "1876-09-21",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["St. Louis, Missouri", "Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "After arriving in St. Louis, Tom Allen went to Tom Kelly's saloon at No. 9 North Ninth street and shook hands with Kelly.",
+      "excerpt": "the saloon of Tom _ Kelly, No. 9 North Ninth street",
+      "date": "1876-09-21",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["No. 9 North Ninth street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was cheated out of the stakes of the Goss fight by a preconcerted action of a band of ruffians, according to the paper.",
+      "excerpt": "euchred cut of the stakes by a preconcerted action of a band of ruffians.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he would never again enter the ring.",
+      "excerpt": "Allen reiterates his former assertion, never again toenterthe ring.",
+      "date": "1876-09-21",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen weighed about 180 pounds after the Goss fight.",
+      "excerpt": "At present Allen will kick the scales at 180 avoirdupois.",
+      "date": "1876-09-21",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The 'cheated out of the stakes' claim is the paper's account of Allen's view."
+}

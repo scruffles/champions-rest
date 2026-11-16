@@ -1,0 +1,30 @@
+{
+  "id": "950",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "An advertisement gave Tom Allen's place as 619 Market Street, St. Louis, with a free concert every evening.",
+      "excerpt": "619 Market street. Free concert every evening. Best of singers only engaged here.",
+      "date": "1897-01-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen styled himself retired champion pugilist of the world.",
+      "excerpt": "Tom Allen, retired champion pugiliist-of the world, 619 Market street.",
+      "date": "1897-01-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only a saloon advertisement. The Palmer, football, bicycle and cricket items do not involve Allen."
+}

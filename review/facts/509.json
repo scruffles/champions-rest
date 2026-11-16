@@ -1,0 +1,30 @@
+{
+  "id": "509",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen denied a New York report that he had sent a challenge to Bell's Life offering to fight Jem Mace, Coburn or any other man.",
+      "excerpt": "sent a challenge to '* Boll's Lite,” offerimg to fight Jem Mace",
+      "date": "1874-11",
+      "date_precision": "month",
+      "people": ["Jem Mace", "Coburn"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said the challenge, issued nearly a year earlier, was never accepted and is void.",
+      "excerpt": "1eving ber ,#eued pearly a year ago, Not « accepted, it ia void,",
+      "date": "1873",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "OCR is badly garbled in this column. The stake is printed as '@¥,000 to $5,000 aside' (first figure unreadable), so it is not recorded. The statement that Allen is now a man of peace is unreadable ('a man ct r-') and was not used."
+}

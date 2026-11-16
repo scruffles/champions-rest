@@ -1,0 +1,78 @@
+{
+  "id": "257",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and George Rooke were matched to fight for the championship of America and $1,000 a side, within fifty miles of Detroit, on 15 July 1875.",
+      "excerpt": "fifty miles of Detroit, on the 15th of July",
+      "date": "1875-07-15",
+      "date_precision": "day",
+      "people": ["George Rooke"],
+      "places": ["within fifty miles of Detroit"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Harry Hill returned the $3,000 stakes from the first match and kept $1,000 of Allen's money to post for the new contest.",
+      "excerpt": "Harry Hill retains $1,000 of Allen’s money to post on the coming contest",
+      "date": "1875-06-28",
+      "date_precision": "day",
+      "people": ["Harry Hill", "George Rooke"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Allen told the Republican the news of the new arrangements was new to him, and that Harry Hill was authorized to act for him.",
+      "excerpt": "the information was new to him; that ’Arry ’Ill was duly authorized to act for him",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": ["Harry Hill"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was found at his establishment, Tom Allen's Free and Easy, in the company of sporting men.",
+      "excerpt": "Tom Allen’s Free and Easy’’ the champion himself was",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was living in St. Louis in June 1875.",
+      "excerpt": "whose residence among us has made our city the headquarters",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "George Rooke",
+      "date": "1875-07-15",
+      "date_precision": "day",
+      "place": "within fifty miles of Detroit",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 a side, and the championship of America",
+      "rules": "",
+      "excerpt": "fifty miles of Detroit, on the 15th of July",
+      "reported_as": "report",
+      "notes": "Planned date from a New York telegram dated 28 June 1875; Rooke chooses the ground. The article does not say whether it was fought."
+    }
+  ],
+  "notes": "Telegram from New York plus a short interview with Allen; the interview is reported in paraphrase, no direct quotes."
+}

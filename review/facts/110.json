@@ -1,0 +1,111 @@
+{
+  "id": "110",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss in 1876 on the Kentucky side of the river near Covington.",
+      "excerpt": "fought Joe Goss on the Keutucky side of the river near Covington",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": ["Covington, Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The whole party, including Allen, was arrested at the 1876 fight, and later the spectators were tried in the Covington courts.",
+      "excerpt": "The whois, party was arrestet atthe time, and jater the spectators were tried in the Covington eourrs",
+      "date": "1876",
+      "date_precision": "year",
+      "people": [],
+      "places": ["Covington, Kentucky"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "After the Goss fight Allen took a steamer to England and took up residence there.",
+      "excerpt": "Allen took a steamer sbout thag time and we), Eugland, where he took up his residence",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "After returning to America, Allen came to St. Louis.",
+      "excerpt": "After reiurujng to America he came to St. Lous",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen was arrested several days before 13 February 1884 at Farrell's instance, to await a Kentucky requisition.",
+      "excerpt": "at his instance Alien wag arrested several days ago to await the arrival",
+      "date": "1884-02",
+      "date_precision": "approx",
+      "people": ["W. P. Farrell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "At the 13 February hearing Allen's side argued that Farrell's proceedings were simply an attempt to collect a debt.",
+      "excerpt": "were simply an aliempt to Coilect adeht by Mr. Farrell",
+      "date": "1884-02-13",
+      "date_precision": "day",
+      "people": ["W. P. Farrell"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Judge Noonan released Allen from custody, saying the case would never have been instituted had the money been paid.",
+      "excerpt": "if the mouey had been paid two the compiiinant,fand Allea wag accordingly released from custocy",
+      "date": "1884-02-13",
+      "date_precision": "day",
+      "people": ["Judge Noonan"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "After hearing both sides, the Prosecuting Attorney said he would not press the matter against Allen.",
+      "excerpt": "After hearivg tie propositions for both State ana defense. the Prosecuting Attorney Said he would Lot press the mitter",
+      "date": "1884-02-13",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876",
+      "date_precision": "year",
+      "place": "Kentucky side of the river near Covington",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "fought Joe Goss on the Keutucky side of the river near Covington",
+      "reported_as": "recollection",
+      "notes": "Result not given in this article."
+    }
+  ],
+  "notes": "Article 109 gives the arrest as Saturday 9 February 1884; this one says several days before. No quotes from Allen."
+}

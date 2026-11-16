@@ -1,0 +1,19 @@
+{
+  "id": "432",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A New York dispatch of May 14, 1871 reported that Tom Allen offered to fight Joe Coburn for $5,000 or Ned O'Baldwin for $1,090 (printed as $1,090).",
+      "excerpt": "Tom Allen _ effers to fight\nCoburn for $5,000, or O'Baldwin for $1,090.",
+      "date": "1871-05-14",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Ned O'Baldwin"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Short Republic dispatch; the same report as 431 with a different O'Baldwin figure. Allen later denied it (see 433)."
+}

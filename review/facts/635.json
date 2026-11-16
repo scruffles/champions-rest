@@ -1,0 +1,41 @@
+{
+  "id": "635",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Alfred Greenfield, the English heavyweight, issued a challenge to fight Tom Allen for £200 or £500, or for a £1,000 champion trophy.",
+      "excerpt": "bas issued a chalienge to fight Tom Alien for £200 or £500",
+      "date": "1880-05",
+      "date_precision": "month",
+      "people": ["Alfred Greenfield"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen posted a forfeit and agreed to meet Alfred Greenfield if Greenfield would fight in a sixteen-foot ring.",
+      "excerpt": "Alicn has posted a forfeit, and agrees to meet Greenfield",
+      "date": "1880-05",
+      "date_precision": "month",
+      "people": ["Alfred Greenfield"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The proposed Allen-Greenfield match was to be for £200 a side and a champion cup valued at £200, in a sixteen-foot ring (printed as 'sixteen-toot') instead of a twenty-four-foot ring (printed as 'twenty-loar-foot').",
+      "excerpt": "tf he will fight in a sixteen-toot in stead of a twenty-loar-foot ring, for £200 a side",
+      "date": "1880-05",
+      "date_precision": "month",
+      "people": ["Alfred Greenfield"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Challenge and conditional acceptance only; no match is reported as made or fought. Ring sizes are garbled in OCR."
+}

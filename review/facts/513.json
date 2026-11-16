@@ -1,0 +1,30 @@
+{
+  "id": "513",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "On Sunday night a detective saw a man enter Tom Allen's saloon who seemed to answer the description of one of the men wanted in a watch swindle.",
+      "excerpt": "noticed a2 man going inte Toi) Allen's saloon that gemed %0 answer the",
+      "date": "1875-01-31",
+      "date_precision": "day",
+      "people": ["Rahill"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Three men, about forty years old and recently from Baltimore, were arrested in a boarding-house near Tom Allen's saloon on suspicion of being parties to the watch swindle.",
+      "excerpt": "twoother men were gked to a boarding-house",
+      "date": "1875-01",
+      "date_precision": "month",
+      "people": ["Isiac Kohn", "Gustave Fobri"],
+      "places": ["near Tom Allen's saloon, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mainly about a watch swindle; Allen is only the place. OCR is badly garbled. Four names are printed for three men ('Isiac Kohn, al ond Morris, Alege Barcher and Gustave Fobri'), so only the two clearest are listed. The $260 found is not recorded."
+}

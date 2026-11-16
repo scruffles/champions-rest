@@ -1,0 +1,30 @@
+{
+  "id": "378",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A match between Tom Allen and Jem Mace was arranged, to be fought in the vicinity of Cincinnati next March.",
+      "excerpt": "A match bas been arranged between Jem Mace and",
+      "date": "1870-03",
+      "date_precision": "month",
+      "people": ["Jem Mace"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Jem Mace each deposited $500 with a stakeholder last Saturday.",
+      "excerpt": "Five hundred dollars each were deposited with a stake holder last Saturday, The fight will be in",
+      "date": "1869-12-25",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Short item; the match is arranged but not fought, so it is a challenge, not a fight. Dated from 'last Saturday' in a paper of 29 Dec 1869."
+}

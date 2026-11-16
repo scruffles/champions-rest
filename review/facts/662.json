@@ -1,0 +1,78 @@
+{
+  "id": "662",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Sullivan told Harry Hill he would be in New York on November 20 to sign articles to fight Tom Allen.",
+      "excerpt": "New York on the 20th inst. and will sign arti-",
+      "date": "1882-11-20",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "Harry Hill"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Sullivan sent word to Richard K. Fox that he would fight Tom Allen for $5,000 a side, or for any sum Fox could raise, in Colorado or the Indian Territory.",
+      "excerpt": "he will fight Allen for $5,000 a side, or for any",
+      "date": "1882-11",
+      "date_precision": "month",
+      "people": ["John L. Sullivan", "Richard K. Fox"],
+      "places": ["Colorado", "Indian Territory"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Richard K. Fox deposited $1,000 with Harry Hill to show that Tom Allen wanted to fight.",
+      "excerpt": "Harry Hill to prove that Allen desires to fight.",
+      "date": "1882-10",
+      "date_precision": "month",
+      "people": ["Richard K. Fox", "Harry Hill"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen held the championship from 1870 until 1876 and was eager to regain it.",
+      "excerpt": "he held from 1870 to 1876, when Goss won the",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Joe Goss won the championship from Tom Allen in 1876 after Allen struck a foul blow.",
+      "excerpt": "title through the dealing of a fonl blow by",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876",
+      "date_precision": "year",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "title through the dealing of a fonl blow by",
+      "reported_as": "recollection",
+      "notes": "The article says Goss won the title through a foul blow by Allen; the foul is the paper's account."
+    }
+  ],
+  "notes": "Background summary of the 1882 challenge. The dates of Fox's deposit and Sullivan's message are approximate from the dispatch."
+}

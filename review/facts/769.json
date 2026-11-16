@@ -1,0 +1,19 @@
+{
+  "id": "769",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was named among old-time pugilists who repeatedly showed great endurance in long fights.",
+      "excerpt": "Allen, John Morrissey, Barney Aaron an Mike Donovan, who were all great pugilists i their time, have repeatedly displayed th kind of endurance.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["John Morrissey", "Barney Aaron", "Mike Donovan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Fragment of a longer article by Billy Edwards; the text is cut off, so only this general praise of Allen is available."
+}

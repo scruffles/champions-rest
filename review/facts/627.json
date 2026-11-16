@@ -1,0 +1,30 @@
+{
+  "id": "627",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen was expected to dispute John Dwyer's claim to the championship.",
+      "excerpt": "it iw expected that Tom Allen will dispute",
+      "date": "1879-05",
+      "date_precision": "month",
+      "people": ["John Dwyer"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Letters had already been sent to Tom Allen guaranteeing him $1,000 for stakes and his expenses for a fight with Dwyer.",
+      "excerpt": "anteeing him $1,000 for stakes, and also his ex- penses",
+      "date": "1879-05",
+      "date_precision": "month",
+      "people": ["John Dwyer"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only in the paragraph saying he was expected to challenge Dwyer. The Elliott-Dwyer report is otherwise not about him."
+}

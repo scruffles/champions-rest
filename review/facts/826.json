@@ -1,0 +1,30 @@
+{
+  "id": "826",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place at 619 Market Street advertised a free concert, with the best singers only engaged.",
+      "excerpt": "Tom ALLEN, retired_champion pugilist of the world, 619 Market street",
+      "date": "1891-10-31",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as retired champion pugilist of the world.",
+      "excerpt": "Tom ALLEN, retired_champion pugilist of the world, 619 Market street",
+      "date": "1891-10-31",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The 'Allen' in the election betting (Massachusetts election, quoted against Russell) is a different man. Only the sporting-notes advertisement concerns Tom Allen. Notice date used as the date."
+}

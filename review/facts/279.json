@@ -1,0 +1,107 @@
+{
+  "id": "279",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The article calls Tom Allen a retired champion.",
+      "excerpt": "Tom Allen, “re-\nUred champion,” nightly directs a con-\ncert fer the entertainment of his patrons",
+      "date": "1900-03",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen runs a concert hall in a building on Market Street in St. Louis's Tenderloin, where he directs a concert nightly for his patrons.",
+      "excerpt": "In the tumble-down, ramshackle bulld-ing in the “Tenderloin” of St. Louis, on Market street, in which Tom Allen",
+      "date": "1900-03",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Market Street, St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen's daughter is the daughter of the once probably best known heavyweight prize fighter in the world, and lives in the building where Allen runs his concert hall.",
+      "excerpt": "She ts the daughter of the once probably best known heavy-weight prize fighter in the World.",
+      "date": "1900-03",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen's daughter has devoted her life to caring for her father.",
+      "excerpt": "and she has devoted her life to her father",
+      "date": "1900-03",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen's daughter is said to have stayed in charge of her home for her father's sake.",
+      "excerpt": "for her father's sake she de-\ncided to remain in charge of her home",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "An unwritten romance is said to have linked the name of Tom Allen's daughter with that of the late Col. Fred Watkins.",
+      "excerpt": "There is an unwritten romance which coupled her name with that of the late Col, Fred Waikins",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Fred Watkins"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Col. Fred Watkins was a lifelong friend and backer of Tom Allen.",
+      "excerpt": "the Iffe long friend and backer of the ring gladiator",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Fred Watkins"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "It is said that Tom Allen's daughter has never crossed the threshold of the concert hall her father has run in St. Louis for years.",
+      "excerpt": "It is also said that in all the years that Tom Allen has conducted a concert hall in St. Louis M Allen has never crossed its threshhold",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen is rough and surly with most people but kind and gentle with his daughter.",
+      "excerpt": "Allen is rough and surly, as a rule, with all he meets, but is as kind and gentle with the daughter",
+      "date": "1900-03",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Article is about Allen's daughter and other boxers' families; Allen is the subject only in the Tenderloin, daughter and Watkins passages. Hint 'upstairs' and 'unmarried' are not in the text and were dropped. No direct quotes from Allen."
+}

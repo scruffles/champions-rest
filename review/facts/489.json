@@ -1,0 +1,56 @@
+{
+  "id": "489",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen left the Eight-Mile House for the fighting ground on October 26, 1873, with Arthur Chambers and Jack Madden.",
+      "excerpt": "Mile House for the vicinity of the fighting grouad",
+      "date": "1873-10-26",
+      "date_precision": "day",
+      "people": ["Arthur Chambers", "Jack Madden"],
+      "places": ["Eight-Mile House"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Ben Hogan were to fight within forty-eight hours, on October 28, 1873.",
+      "excerpt": "The forthcoming mill betweer§A len, and Hogan",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan said that if Tom Allen beat him he would at once make a new match and wanted Allen to fight him near Pittsburg.",
+      "excerpt": "wants Allen to Aight him near Pittsburg. Ben says",
+      "date": "1873-10-26",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": ["Pittsburg"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The forthcoming mill betweer§A len, and Hogan",
+      "reported_as": "report",
+      "notes": "Scheduled match; result not yet known."
+    }
+  ],
+  "notes": "Hogan's statements about a rematch are his own; no direct words from Allen."
+}

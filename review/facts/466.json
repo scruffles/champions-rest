@@ -1,0 +1,30 @@
+{
+  "id": "466",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "A complimentary benefit for Tom Allen, billed as Champion of the World, was held at the Theatre Comique, Fourth and Pine streets, on Thursday and Friday evenings, 25 and 26 September 1873.",
+      "excerpt": "rhich occasion he wil: be assisted by the",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": ["Tom Allen", "Mike McCoole"],
+      "places": ["Theatre Comique, Fourth and Pine streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Arthur Chambers and a second man named as 'Pater Ree' were Tom Allen's seconds and trainers for his fight with Mike McCoole.",
+      "excerpt": "ht champion of the world, Arthur Chambers",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": ["Arthur Chambers", "Pater Ree", "Mike McCoole"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mostly theatre and dance advertisements; only the Allen benefit is about him. The date is printed as 'Sept. 35' (OCR, read as 25). The title 'Champion of the World' appears in the ad heading, but its OCR text is not clean enough for an excerpt, so it is noted rather than recorded as a claim. The benefit ad also lists Arthur Chambers as the champion; that is not a claim about Allen."
+}

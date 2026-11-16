@@ -1,0 +1,356 @@
+{
+ "_note": "One entry per bout that an opponent had more than once, or that needs a fixed date. Fight entries are assigned to the seed for the same opponent with the nearest date (a result that disagrees counts as two years away). Opponents not listed get one bout per year automatically. Undated reports use the paper's date. Undated recollections are matched by 'hints' (words in the place or excerpt). 'ref' is the id the Biography's <Fight id> uses. 'result' fixes the main result when the count is wrong; the other results stay under 'disputed'.",
+ "seeds": [
+  {
+   "id": "white-1860",
+   "opponents": [
+    "Jack White"
+   ],
+   "date": "1860-04-20",
+   "results": [
+    "win"
+   ]
+  },
+  {
+   "id": "hall-1860",
+   "opponents": [
+    "Nobby Hall"
+   ],
+   "date": "1860-09-17",
+   "results": [
+    "draw",
+    "loss"
+   ]
+  },
+  {
+   "id": "connor-1861",
+   "opponents": [
+    "Morris Connor"
+   ],
+   "date": "1861-03",
+   "results": [
+    "win"
+   ]
+  },
+  {
+   "id": "waggoner-1861",
+   "opponents": [
+    "Waggoner"
+   ],
+   "date": "1861",
+   "results": [
+    "win",
+    "loss"
+   ]
+  },
+  {
+   "id": "gould-1861",
+   "opponents": [
+    "Jack Gould"
+   ],
+   "date": "1861-06",
+   "results": [
+    "win"
+   ]
+  },
+  {
+   "id": "price-1862",
+   "opponents": [
+    "Posh Price"
+   ],
+   "date": "1862-07",
+   "results": [
+    "loss"
+   ]
+  },
+  {
+   "id": "rose-1864",
+   "opponents": [
+    "Bingy Rose"
+   ],
+   "date": "1864-01",
+   "results": [
+    "win"
+   ]
+  },
+  {
+   "id": "smith-1864",
+   "opponents": [
+    "Bob Smith"
+   ],
+   "date": "1864-06",
+   "results": [
+    "loss"
+   ]
+  },
+  {
+   "id": "parkinson-1865",
+   "opponents": [
+    "Jack Parkinson"
+   ],
+   "date": "1865-06",
+   "results": [
+    "win"
+   ]
+  },
+  {
+   "id": "price-1865",
+   "opponents": [
+    "Posh Price"
+   ],
+   "date": "1865-11",
+   "results": [
+    "win",
+    "forfeit"
+   ]
+  },
+  {
+   "id": "iles-1866",
+   "opponents": [
+    "George Iles"
+   ],
+   "date": "1866-06",
+   "results": [
+    "win"
+   ]
+  },
+  {
+   "id": "goss-1867",
+   "opponents": [
+    "Joe Goss"
+   ],
+   "date": "1867-03",
+   "results": [
+    "draw"
+   ],
+   "hints": [
+    "England"
+   ],
+   "ref": "001"
+  },
+  {
+   "id": "mccoole-1868",
+   "opponents": [
+    "Mike McCoole"
+   ],
+   "date": "1868-03",
+   "results": [
+    "forfeit",
+    "no contest"
+   ]
+  },
+  {
+   "id": "davis-1869",
+   "opponents": [
+    "Bill Davis"
+   ],
+   "date": "1869-01-12",
+   "results": [
+    "win"
+   ],
+   "ref": "002"
+  },
+  {
+   "id": "gallagher-1869-02",
+   "opponents": [
+    "Charley Gallagher"
+   ],
+   "date": "1869-02-23",
+   "results": [
+    "loss"
+   ],
+   "hints": [
+    "Carroll"
+   ]
+  },
+  {
+   "id": "mccoole-1869-06",
+   "opponents": [
+    "Mike McCoole"
+   ],
+   "date": "1869-06-15",
+   "results": [
+    "loss",
+    "draw",
+    "no contest"
+   ],
+   "hints": [
+    "Foster",
+    "first fight"
+   ],
+   "ref": "003"
+  },
+  {
+   "id": "gallagher-1869-08",
+   "opponents": [
+    "Charley Gallagher"
+   ],
+   "date": "1869-08-17",
+   "results": [
+    "win",
+    "draw"
+   ],
+   "hints": [
+    "Foster"
+   ],
+   "ref": "004"
+  },
+  {
+   "id": "mccoole-1869-11",
+   "opponents": [
+    "Mike McCoole"
+   ],
+   "date": "1869-11",
+   "results": [
+    "no contest",
+    "forfeit"
+   ],
+   "result": "forfeit"
+  },
+  {
+   "id": "mace-1870",
+   "opponents": [
+    "Jem Mace"
+   ],
+   "date": "1870-05-10",
+   "results": [
+    "loss"
+   ],
+   "ref": "005"
+  },
+  {
+   "id": "mccoole-1870",
+   "opponents": [
+    "Mike McCoole"
+   ],
+   "date": "1870-09",
+   "results": [
+    "forfeit"
+   ]
+  },
+  {
+   "id": "jgallagher-1870",
+   "opponents": [
+    "Jim Gallagher"
+   ],
+   "date": "1870-11",
+   "results": [
+    "win"
+   ],
+   "ref": "007"
+  },
+  {
+   "id": "mccoole-1873",
+   "opponents": [
+    "Mike McCoole"
+   ],
+   "date": "1873-09-23",
+   "results": [
+    "win"
+   ],
+   "hints": [
+    "Chouteau",
+    "second fight",
+    "last fight"
+   ],
+   "ref": "008"
+  },
+  {
+   "id": "hogan-1873",
+   "opponents": [
+    "Ben Hogan"
+   ],
+   "date": "1873-11",
+   "results": [
+    "no contest",
+    "win",
+    "draw"
+   ]
+  },
+  {
+   "id": "rooke-1875",
+   "opponents": [
+    "George Rooke"
+   ],
+   "date": "1875-06",
+   "results": [
+    "forfeit",
+    "no contest"
+   ]
+  },
+  {
+   "id": "goss-1876",
+   "opponents": [
+    "Joe Goss"
+   ],
+   "date": "1876-09",
+   "results": [
+    "loss"
+   ],
+   "hints": [
+    "Kentucky",
+    "Walton",
+    "Covington",
+    "Boone",
+    "Cincinnati"
+   ],
+   "ref": "009"
+  },
+  {
+   "id": "gilbert-1877",
+   "opponents": [
+    "Tompkins Gilbert"
+   ],
+   "date": "1877-10",
+   "results": [
+    "win"
+   ],
+   "ref": "10"
+  },
+  {
+   "id": "cdavis-1878",
+   "opponents": [
+    "Charlie Davis"
+   ],
+   "date": "1878-04",
+   "results": [
+    "win"
+   ],
+   "ref": "11"
+  },
+  {
+   "id": "stewart-1879",
+   "opponents": [
+    "Jim Stewart",
+    "Jack Stewart"
+   ],
+   "date": "1879-03",
+   "results": [
+    "win",
+    "draw"
+   ],
+   "ref": "12"
+  },
+  {
+   "id": "elliott-1882",
+   "opponents": [
+    "James Elliott"
+   ],
+   "date": "1882-12",
+   "results": [
+    "forfeit"
+   ]
+  },
+  {
+   "id": "sullivan-1882",
+   "opponents": [
+    "John L. Sullivan"
+   ],
+   "date": "1882-12",
+   "results": [
+    "forfeit",
+    "unknown"
+   ]
+  }
+ ]
+}

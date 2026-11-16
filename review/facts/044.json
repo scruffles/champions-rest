@@ -1,0 +1,51 @@
+{
+  "id": "044",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in seven rounds, on 23 September 1873 at Chouteau Island, about 14 miles above St. Louis.",
+      "excerpt": "during seven rounds he banged MeCuole until his face was",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole", "Jack Looney"],
+      "places": ["Chouteau Island, about 14 miles above St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Arthur Chambers and Palsy Shepherd seconded Tom Allen in his fight with McCoole.",
+      "excerpt": "and Arthur Chambers and Palsy Shepherd for Allen",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Arthur Chambers", "Palsy Shepherd"],
+      "places": ["Chouteau Island, about 14 miles above St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Itisa sip to bring that man up. If you don’t take him away I'll disigure him for life; he isthe gamest man I ever met.",
+      "topic": "asking that McCoole be taken away"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "Chouteau Island, about 14 miles above St. Louis",
+      "result": "win",
+      "rounds": "7",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "during seven rounds he banged MeCuole until his face was",
+      "reported_as": "report",
+      "notes": "Tom Kelley, McCoole's second, raised the white handkerchief in token of defeat. The article says it is probable Allen will get his money this time, but the amount is not given."
+    }
+  ],
+  "notes": "Stakes and rules are not stated. Referee was Jack Looney. Allen's quote is taken from the 7th round, with OCR errors kept in the excerpt."
+}

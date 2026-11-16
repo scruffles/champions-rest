@@ -1,0 +1,52 @@
+{
+  "id": "136",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was among a St. Louis delegation of sports going to attend the Sullivan-Kilrain fight.",
+      "excerpt": "among them Tom Allen, the ex-champion of the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Fred Watkins", "Tom Kelly", "Dan Daly"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "In June 1889 Tom Allen was described as the ex-champion of the world.",
+      "excerpt": "among them Tom Allen, the ex-champion of the",
+      "date": "1889-06",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Kilrain would beat Sullivan and that he would place his money on Kilrain.",
+      "excerpt": "My money shall certainly be placed on Kilrain.",
+      "date": "1889-06-26",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "Jake Kilrain"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "This man Kilrain is a very clever fighter or he could never have given Jem Smith the battle he did.",
+      "topic": "on Kilrain's ability"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "has never done anything in the ring except whip Paddy Ryan, who never could fight.",
+      "topic": "on Sullivan's record"
+    }
+  ],
+  "fights": [],
+  "notes": "The verb in the travel sentence is cut off in the OCR ('urday'), so the departure date is not known. Only Allen's prediction is recorded here; the other speakers are not about him."
+}

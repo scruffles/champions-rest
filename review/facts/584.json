@@ -1,0 +1,30 @@
+{
+  "id": "584",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen and Jem Mace arrived in St. Louis from an extended sparring tour through the Northeast.",
+      "excerpt": "arrived in &t. Louis yesterday morning from an extended sparring tour throughout the Northeast",
+      "date": "1876-10-23",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis", "Northeast"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Jem Mace planned to give a couple of sparring exhibitions during their stay in St. Louis.",
+      "excerpt": "will give a couple - sparring exhibitions during their stay in the city.",
+      "date": "1876-10",
+      "date_precision": "month",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Arrival date worked out from 'yesterday morning' in a paper dated 1876-10-24."
+}

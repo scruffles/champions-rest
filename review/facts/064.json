@@ -1,0 +1,56 @@
+{
+  "id": "064",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and his trainer Ned Donnelly put on the gloves and sparred at an entertainment on February 22, 1876.",
+      "excerpt": "the champion and young Donnelly put on ihe gloves",
+      "date": "1876-02-22",
+      "date_precision": "day",
+      "people": ["Ned Donnelly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "business",
+      "statement": "Tom Allen's Gymnasium club held an entertainment in honour of Ned Donnelly.",
+      "excerpt": "under the auspices of Tom Allen’s Gymnasium club last night",
+      "date": "1876-02-22",
+      "date_precision": "day",
+      "people": ["Ned Donnelly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Ned Donnelly had trained Tom Allen for the Rooke fight, which did not come off.",
+      "excerpt": "the Rook fight, which dtl not come off",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ned Donnelly", "Rooke"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Rooke",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the Rook fight, which dtl not come off",
+      "reported_as": "report",
+      "notes": "Mentioned only in passing; the fight did not take place."
+    }
+  ],
+  "notes": "Sparring at a club entertainment, not a contest."
+}

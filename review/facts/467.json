@@ -1,0 +1,67 @@
+{
+  "id": "467",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole fought on September 23, 1873 to settle the ownership of a $4,000 stake, and Allen beat McCoole.",
+      "excerpt": "Mike McCoole and Tom Allen, fo settle the own-",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "That night Tom Allen made a speech at his saloon, telling the crowd to take a walk.",
+      "excerpt": "you have all seen me and know how I look,",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "On the return trip Tom Allen started a subscription for Mike McCoole, headed it with $100, and the money was given to the trainers Madden and Tricks.",
+      "excerpt": "and headed the list with one hundred dollars.",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole", "Jack Madden", "Tricks"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I'm the easiet man in the world to pick up,",
+      "topic": "boast about his weight and seconds"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I Was just ashamed io hit him any more. Poor fellow !",
+      "topic": "regret at beating McCoole"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$4,000",
+      "rules": "",
+      "excerpt": "Mike McCoole and Tom Allen, fo settle the own-",
+      "reported_as": "report",
+      "notes": "Place and round count not given in this article. Stakes printed as four thousand dollars."
+    }
+  ],
+  "notes": "Hint on Ben Hogan and the travel and seconds details are not in this text, so dropped. Chambers and Sheppard as seconds is only implied."
+}

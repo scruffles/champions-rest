@@ -1,0 +1,73 @@
+{
+  "id": "339",
+  "claims": [
+    {
+      "kind": "health",
+      "statement": "Tom Allen was said to be sick at the time of the recent meeting for drawing up the articles of his fight with Mike McCoole.",
+      "excerpt": "He was said te be sick at the time.",
+      "date": "1869-07",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had a match made with Mike McCoole, with the articles being drawn up in July 1869.",
+      "excerpt": "tbe match now meade between myseif and r. McCoole.",
+      "date": "1869-07",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen challenged Charley Gallagher to fight him for $500, apart from his McCoole match, in one day, one week or one month.",
+      "excerpt": "I will fight Mr. Gallagher indeperd: >t at my match with",
+      "date": "1869-07-11",
+      "date_precision": "day",
+      "people": ["Charley Gallagher", "Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen deposited $100 with his backer, Billy Carroll, at 510 Market Street, for Gallagher to cover.",
+      "excerpt": "him cover $100 which F have deposited with my backer, Buly Carroll",
+      "date": "1869-07-11",
+      "date_precision": "day",
+      "people": ["Billy Carroll", "Charley Gallagher"],
+      "places": ["510 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Words are cheap, but money tatks.",
+      "topic": "challenge to Gallagher"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "tbe match now meade between myseif and r. McCoole.",
+      "reported_as": "report",
+      "notes": "Rematch articles drawn up; the letter gives no date for the fight."
+    }
+  ],
+  "notes": "The letter is dated 11 July 1869. 'pvof present' is garbled in the OCR; the sickness is 'said' by the paper, so medium confidence. Allen is reported present at the preliminaries in another article, which may be a different meeting."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "802",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Before Joe Coburn's match with Jem Mace in England, the Mace party pitted Joe Goss, Tom Allen and one other man (name garbled) against Coburn to test him, and Coburn bested them all.",
+      "excerpt": "Joe Goss, Tom Allen and Bill = against",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace", "Joe Coburn", "Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Obituary of Coburn; no date given for the test bout. Third man's name is garbled in the text."
+}

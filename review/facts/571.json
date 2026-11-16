@@ -1,0 +1,45 @@
+{
+  "id": "571",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "At the request of the Society for the Prevention of Cruelty to Animals, Prosecuting Attorney Baker made Joe Goss and Tom Allen give bonds to keep the peace in Ohio for one year.",
+      "excerpt": "Prosecuting Attorney Baker has made Joe",
+      "date": "1876-08",
+      "date_precision": "approx",
+      "people": ["Joe Goss", "Baker"],
+      "places": ["Ohio"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Joe Goss were to fight a prize fight, with tickets for the pugilistic excursion at seven dollars each.",
+      "excerpt": "pugilistic excursion at seven dollars each",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss", "Eph. Holland"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "pugilistic excursion at seven dollars each",
+      "reported_as": "report",
+      "notes": "Fighting ground chosen; no date or result given."
+    }
+  ],
+  "notes": "Paper reprints a Cincinnati Enquirer item."
+}

@@ -1,0 +1,75 @@
+{
+  "bucket": "other-1901-1978",
+  "facts": [
+    {
+      "fact": "Tom Allen sold property on the south side of Geyer Avenue, between Ninth and Tenth streets, to Henry Steinmeyer for $2,500 in February 1901.",
+      "date": "1901-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["190.c1"]
+    },
+    {
+      "fact": "Tom Allen's will, made a few weeks before his death, left his estate, except $20, to Tillie Hartgrove; it was witnessed by Dr. Heine Marks and Dr. C. A. Newcomb and filed for probate in April 1903.",
+      "date": "1903-03",
+      "seed": "046",
+      "conflict": "spelling of the beneficiary: Hartgrave (1007.c2) vs Hartgrove in the other claims",
+      "claims": ["1004.c10", "1007.c2"]
+    },
+    {
+      "fact": "In early April 1903 friends of Allen said strangers were trying to get his property by taking advantage of his mental condition; his horse and buggy and a safety deposit box, from which $500 was reportedly taken, were said to be targeted.",
+      "date": "1903-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["1003.c3", "1003.c11", "1003.c12"]
+    },
+    {
+      "fact": "Public Administrator Garrard Strode took charge of the estate of Thomas Allen, the late saloonkeeper and former prize fighter, on April 8, 1903.",
+      "date": "1903-04-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["207.c1"]
+    },
+    {
+      "fact": "Tillie Hartgrove stood on the other side of Tom Allen's coffin at the funeral in April 1903.",
+      "date": "1903-04-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["207.c6"]
+    },
+    {
+      "fact": "On April 11, 1903 R. W. L. Gillespie said Allen left no estate, as was generally supposed.",
+      "date": "1903-04-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["208.c5"]
+    },
+    {
+      "fact": "In June 1903 Market Street believed the spirit of Tom Allen was ringing the bell behind the bar at Champion's Rest.",
+      "date": "1903-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["216.c10"]
+    },
+    {
+      "fact": "In July 1903 Tillie Hartgrove, Allen's housekeeper, claimed the silk hat worn by \"Lord\" Barrington as property of the Allen estate; Barrington returned the hat by messenger, and it was put on display for Allen's friends with the silver cup he won in 1878.",
+      "date": "1903-07",
+      "seed": "",
+      "conflict": "Barrington's position: he denied having the hat when Hartgrove and J. W. Gillespie called at Clayton (1009.c4), then returned it by messenger with a note (1009.c6)",
+      "claims": ["1009.c4", "217.c1", "1009.c6", "1009.c8"]
+    },
+    {
+      "fact": "The estate inventory of Tom Allen's property listed a champion's cup and shade, a barrel of whisky and other goods, on July 28, 1903.",
+      "date": "1903-07-28",
+      "seed": "",
+      "conflict": "",
+      "claims": ["1011.c5"]
+    },
+    {
+      "fact": "Allen's silver cup was retrieved from a Market Street pawn shop in 1938 by the father of Thomas Allen Taylor, and in 1978 it was in the home of his great-grandson Thomas Allen Taylor.",
+      "date": "1938",
+      "seed": "050",
+      "conflict": "finder's name: seed 050 names Edward Taylor, while 262.c10 and 263.c12 name him only as the father of Thomas Allen Taylor (Tom Taylor)",
+      "claims": ["262.c10", "263.c12", "262.c11"]
+    }
+  ]
+}

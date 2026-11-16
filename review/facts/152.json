@@ -1,0 +1,52 @@
+{
+  "id": "152",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen arrived in New Orleans to second Ed Smith in his coming contest with Joe Goddard.",
+      "excerpt": "Tom Allen, America’s ex-heavyweight champion, has arrived in New Orleans to second Ed Smith in his coming contest with Joe Goddard",
+      "date": "1893-03",
+      "date_precision": "month",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen is described as America's ex-heavyweight champion.",
+      "excerpt": "Tom Allen, America’s ex-heavyweight champion, has arrived in New Orleans",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen handled and seconded Ed Smith when Smith fought Peter Jackson in Chicago.",
+      "excerpt": "Allen handled and seconded Smith when he went against Peter Jackson in",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ed Smith", "Peter Jackson"],
+      "places": ["Chicago"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was sure Ed Smith would defeat Joe Goddard (passage garbled in OCR).",
+      "excerpt": "Tom 1 Or course sure that S81 will defeat Goddara",
+      "date": "1893-03",
+      "date_precision": "month",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only as Smith's second. Passage about his opinion is garbled in OCR."
+}

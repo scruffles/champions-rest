@@ -1,0 +1,30 @@
+{
+  "id": "691",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen opened a saloon on Market Street, between Sixth and Seventh, next door to Tom Kelly's.",
+      "excerpt": "Now Tom Allen, the ex-champion pugilist, hus’\nopened a saloon next door to Kelly",
+      "date": "1883-03",
+      "date_precision": "approx",
+      "people": ["Tom Kelly"],
+      "places": ["Market Street, between Sixth and Seventh, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon is next door to Tom Kelly's, which is two doors from Jack Looney's; the three are described as the best of friends.",
+      "excerpt": "opened a saloon next door to Kelly, the latter\nbeing two Qoors from Jack's.",
+      "date": "1883-03",
+      "date_precision": "approx",
+      "people": ["Tom Kelly", "Jack Looney"],
+      "places": ["Market Street, between Sixth and Seventh, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint's date and details confirmed. Other saloon-keepers are Looney and Kelly; the John Emory item on the same page does not involve Allen."
+}

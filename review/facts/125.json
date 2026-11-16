@@ -1,0 +1,19 @@
+{
+  "id": "125",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was to spar four rounds with Hugh McManus as the wind-up of a benefit for Pittsburg pugilist Jack King at the Kelly Athletic Club on February 23, 1888.",
+      "excerpt": "The wind-up will be between Tom Allen and Hugh McManus, who will spar four rounds.",
+      "date": "1888-02-23",
+      "date_precision": "day",
+      "people": ["Hugh McManus", "Jack King"],
+      "places": ["Kelly Athletic Club, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "504",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "The Missouri governor signed the bill suppressing prize-fighting, which the Republic said dimmed Tom Allen's hopes in Missouri.",
+      "excerpt": "Mr. Mudd has obscured the brightness of Tom Allen’s hopes forever—at least in Missouri.",
+      "date": "1874-01-24",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is mentioned only in passing. The new law made prize-fighting a felony."
+}

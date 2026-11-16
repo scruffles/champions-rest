@@ -1,0 +1,67 @@
+{
+  "id": "536",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Friends of Tom Allen met to raise money to buy back the belt won from Mike McCoole and present it to Allen.",
+      "excerpt": "met last night for tle rpose of taking steps towards presenting him",
+      "date": "1876-03-28",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "The belt that Mike McCoole and Davis fought for, which McCoole had pawned, was found in a pawnshop on Locust Street, St. Louis, and redeemed by Allen's friends.",
+      "excerpt": "until a short time since, when it was dis vered ina pawnes on Locust sect, where",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole", "Davis"],
+      "places": ["Locust Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole fought, and a mob broke up the fight, so that Allen lost the battle, the side money and the belt that he had put up against McCoole's belt.",
+      "excerpt": "in addition to the main stake, pur $' against the belt, batthe mob mate a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "A benefit for Tom Allen was to be held at the Theatre Comique, St. Louis, on Thursday night, March 30, 1876, where the recovered belt was to be presented to him.",
+      "excerpt": "approaching beneit at Theatre Comiqne, on Thursday night",
+      "date": "1876-03-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "main stake plus a side stake against McCoole's belt (amount garbled)",
+      "rules": "",
+      "excerpt": "in addition to the main stake, pur $' against the belt, batthe mob mate a",
+      "reported_as": "recollection",
+      "notes": "The text does not print the year, so the hint's 1869 is not used. The mob broke up the fight; the text says Allen was 'robbed of the battle'. The OCR is badly garbled."
+    }
+  ],
+  "notes": "The McCoole fight and belt story is garbled OCR. The side-stake amount is unreadable, so the hint's $300 is dropped."
+}

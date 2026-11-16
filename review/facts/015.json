@@ -1,0 +1,67 @@
+{
+  "id": "015",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested in Cincinnati on 14 May 1869 on a charge of training for a prize fight in the State of Ohio.",
+      "excerpt": "Tom Allen, the pugilist, was arrested to-day on a charge of training for a prize fight in the State of Ohio.",
+      "date": "1869-05-14",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen gave bonds of $500 (printed as £500) not to fight in Ohio within a year, and was released.",
+      "excerpt": "gave bonds in £500 not to fight in the State within a year, and was released.",
+      "date": "1869-05-14",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "residence",
+      "statement": "After his release Tom Allen returned to his quarters at the Buckeye House to resume preparation for the fight with Mike McCoole.",
+      "excerpt": "He returned imme- pape i ay oy at the Buckeye 9 tlouse, and re preparation with MeCoole.",
+      "date": "1869-05-14",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Buckeye House, Cincinnati"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was preparing for his fight with Mike McCoole.",
+      "excerpt": "He returned imme- pape i ay oy at the Buckeye 9 tlouse, and re preparation with MeCoole.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["Buckeye House, Cincinnati"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "He returned imme- pape i ay oy at the Buckeye 9 tlouse, and re preparation with MeCoole.",
+      "reported_as": "report",
+      "notes": "The bout is named only as the preparation for it; the text is garbled."
+    }
+  ],
+  "notes": "Garbled lines in the last paragraph; read with low confidence."
+}

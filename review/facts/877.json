@@ -1,0 +1,30 @@
+{
+  "id": "877",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen received a letter from Charley Mitchell, dated London, Nov. 7, about Mitchell's coming fight with Corbett.",
+      "excerpt": "has received a characteristic letter from Charley Mitchell dated at London, Nov. 7.",
+      "date": "1892-11-07",
+      "date_precision": "day",
+      "people": ["Charley Mitchell"],
+      "places": ["London"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as the noted retired champion pugilist of the world.",
+      "excerpt": "Tom Allen of this city, the noted retired champion pugilist of the world",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mitchell's letter is quoted, but its words are about Mitchell's own fight and case, not about Allen, so they are not recorded as quotes."
+}

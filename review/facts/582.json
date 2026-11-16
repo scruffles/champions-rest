@@ -1,0 +1,19 @@
+{
+  "id": "582",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The Post-Dispatch calls Tom Allen the champion of the squared circle and says he is with us in St. Louis.",
+      "excerpt": "With Tom Allen, the champion of the\n‘quared circle.",
+      "date": "1876-09-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only a single line of a local-items column mentions Allen. No fights, quotes or other claims."
+}

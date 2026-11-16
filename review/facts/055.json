@@ -1,0 +1,19 @@
+{
+  "id": "055",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen ran the Free and Easy at 417 Washington avenue (printed as '17 Washington avenue'), advertised with the latest songs every night and the champion keeping order.",
+      "excerpt": "17 Washington avenue, is the best and cool-",
+      "date": "1874-11-14",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["417 Washington avenue"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. The house number is cut to 17 in the OCR; 417 is taken from the other ads. The text does not name the city."
+}

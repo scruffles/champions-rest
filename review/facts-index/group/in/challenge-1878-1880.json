@@ -1,0 +1,171 @@
+{
+ "bucket": "challenge-1878-1880",
+ "kind": "challenge",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "602.c1",
+   "date": "1878-01",
+   "published": "1877-12-09",
+   "statement": "Tom Allen and Jack Knifton of Manchester were matched to fight for £200 a side and the championship of the world, in England, in about four weeks, in light gloves at catch weights under London Prize Ring rules."
+  },
+  {
+   "cid": "604.c1",
+   "date": "1878-02",
+   "published": "1878-02-24",
+   "statement": "Tom Allen and Charley Davis had posted £40 a side toward their glove match for £100 a side and the English championship."
+  },
+  {
+   "cid": "606.c1",
+   "date": "1878-02-13",
+   "published": "1878-03-05",
+   "statement": "As of 13 February 1878, £50 a side was posted for the glove match between Tom Allen and Charley Davis for £100 a side and the championship."
+  },
+  {
+   "cid": "605.c1",
+   "date": "1878-03",
+   "published": "1878-03-03",
+   "conf": "low",
+   "statement": "A prize fight was arranged between Tom Allen and Charley Davis at catch weights under the new London prize-ring rules, for £200 and the championship."
+  },
+  {
+   "cid": "607.c2",
+   "date": "1878-03",
+   "published": "1878-03-23",
+   "statement": "Tom Allen was about to fight a prize fight with the champion of England."
+  },
+  {
+   "cid": "621.c3",
+   "date": "1878-11",
+   "published": "1878-11-24",
+   "conf": "medium",
+   "statement": "Johnny Minan of San Francisco offered to match an unknown fighter, said to be Tom Allen, for $1,000 or $2,000 a side against Paddy Ryan, Mike McCoole or others."
+  },
+  {
+   "cid": "095.c1",
+   "date": "1879",
+   "published": "1879-11-22",
+   "statement": "Tom Allen issued a challenge in London to fight any man in the world at catch weights."
+  },
+  {
+   "cid": "095.c2",
+   "date": "1879",
+   "published": "1879-11-22",
+   "statement": "Tom Allen's challenge was for $1,000 a side under London Prize Ring rules, to be fought in Canada or within fifty miles of Pittsburg, within 100 miles of Buffalo."
+  },
+  {
+   "cid": "626.c1",
+   "date": "1879-05",
+   "published": "1879-05-11",
+   "statement": "Johnny Dwyer, after beating Jimmy Elliott, said he wanted to fight Tom Allen."
+  },
+  {
+   "cid": "626.c2",
+   "date": "1879-05",
+   "published": "1879-05-11",
+   "statement": "Johnny Dwyer said he was willing to go to England to fight Tom Allen."
+  },
+  {
+   "cid": "626.c3",
+   "date": "1879-05",
+   "published": "1879-05-11",
+   "statement": "Johnny Dwyer offered to send £10 to the editor of Bell's Life in London as a forfeit for a match with Tom Allen."
+  },
+  {
+   "cid": "627.c1",
+   "date": "1879-05",
+   "published": "1879-05-12",
+   "conf": "medium",
+   "statement": "Tom Allen was expected to dispute John Dwyer's claim to the championship."
+  },
+  {
+   "cid": "627.c2",
+   "date": "1879-05",
+   "published": "1879-05-12",
+   "conf": "medium",
+   "statement": "Letters had already been sent to Tom Allen guaranteeing him $1,000 for stakes and his expenses for a fight with Dwyer."
+  },
+  {
+   "cid": "628.c4",
+   "date": "1879-05-12",
+   "published": "1879-05-13",
+   "conf": "medium",
+   "statement": "Allen's friends in America were willing to make a match with Dwyer for as much money as the opposition wanted."
+  },
+  {
+   "cid": "629.c1",
+   "date": "1879-05-17",
+   "published": "1879-05-18",
+   "conf": "medium",
+   "statement": "John Dwyer said that if Tom Allen were brought over to America, Dwyer would, with his brother's consent, fight him for any sum up to $5,000 a side."
+  },
+  {
+   "cid": "630.c1",
+   "date": "1879-06",
+   "published": "1879-06-04",
+   "conf": "medium",
+   "statement": "Tom Allen of St. Louis agreed, conditionally, to accept John Dwyer's challenge to fight for the championship of America and a stake printed as $2 gg (probably $2,000)."
+  },
+  {
+   "cid": "630.c4",
+   "date": "1879-06",
+   "published": "1879-06-04",
+   "conf": "medium",
+   "statement": "Allen said he would cover the $250 that Dwyer posted with Frank Queen to back the challenge."
+  },
+  {
+   "cid": "631.c1",
+   "date": "1879-11",
+   "published": "1879-11-21",
+   "conf": "medium",
+   "statement": "Tom Allen was anxious to fight John Dwyer."
+  },
+  {
+   "cid": "632.c1",
+   "date": "1879-11-20",
+   "published": "1879-11-21",
+   "statement": "Tom Allen, then in London, issued a challenge to fight John Dwyer or any other man in the world at catch weights under London prize-ring rules for $1,000 a side."
+  },
+  {
+   "cid": "632.c2",
+   "date": "1879-11-20",
+   "published": "1879-11-21",
+   "conf": "medium",
+   "statement": "Allen proposed that the fight be held in Canada (printed as Canaca) within 100 miles of Buffalo or within 50 miles of Pittsburg."
+  },
+  {
+   "cid": "632.c4",
+   "date": "1879-11-20",
+   "published": "1879-11-21",
+   "conf": "medium",
+   "statement": "The paper said John Dwyer was out of training and probably would not accept Allen's challenge."
+  },
+  {
+   "cid": "635.c1",
+   "date": "1880-05",
+   "published": "1880-05-30",
+   "statement": "Alfred Greenfield, the English heavyweight, issued a challenge to fight Tom Allen for £200 or £500, or for a £1,000 champion trophy."
+  },
+  {
+   "cid": "635.c2",
+   "date": "1880-05",
+   "published": "1880-05-30",
+   "conf": "medium",
+   "statement": "Tom Allen posted a forfeit and agreed to meet Alfred Greenfield if Greenfield would fight in a sixteen-foot ring."
+  },
+  {
+   "cid": "635.c3",
+   "date": "1880-05",
+   "published": "1880-05-30",
+   "conf": "low",
+   "statement": "The proposed Allen-Greenfield match was to be for £200 a side and a champion cup valued at £200, in a sixteen-foot ring (printed as 'sixteen-toot') instead of a twenty-four-foot ring (printed as 'twenty-loar-foot')."
+  },
+  {
+   "cid": "638.c1",
+   "date": "1880-12",
+   "published": "1880-12-05",
+   "conf": "medium",
+   "statement": "Tom Allen said no would-be champion in England would take £50 or £100 and fight him for it."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "345",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Jim Coyne challenged Ben Hogan to fight four weeks after the Allen and Gallagher fight, for $500 or $1,000 a side.",
+      "excerpt": "I will fight him in four\nweeks after the Alles and Gallagher fight for $500 or",
+      "date": "1869-08-07",
+      "date_precision": "day",
+      "people": ["Jim Coyne", "Ben Hogan", "Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "$100 was deposited for a match at the Wash Home or at Tom Allen's saloon on Fifth street.",
+      "excerpt": "$100 deposited for a match at the Wash Home or\nat Tom. Allen's saloon, om Fifth street.",
+      "date": "1869-08-07",
+      "date_precision": "day",
+      "people": ["Jim Coyne", "Ben Hogan"],
+      "places": ["Tom Allen's saloon, Fifth Street, St. Louis", "Wash Home"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen and Jim Coyne invited their friends to Allen's saloon on Fifth street that evening.",
+      "excerpt": "Mr. Ailen and I will be happy to see our friends at\nluis saloon, ca Fiith street, this evening.",
+      "date": "1869-08-07",
+      "date_precision": "day",
+      "people": ["Jim Coyne"],
+      "places": ["Fifth Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan arrived in St. Louis, where he said he came to fight Tom Allen.",
+      "excerpt": "since his arrival in St. Louis, where he came, as he says, for\nthe purpose of fighting Tom. Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint 1 corrected: the arrival is Hogan's own stated purpose, so it is a challenge claim, not travel. Hint 2 kept. Hint 3 kept as saloon claims. The letter has no date beyond the paper's (1869-08-07 used as the date for the deposit and the invitation)."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "633",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "A match between Tom Allen and George Rooke, due the day after 16 May 1875, did not take place; Rooke's principal backer demanded back stakes printed as £1,500.",
+      "excerpt": "A formal de- Mand is wade by the principal backer of Ruoke to bave refunded to hin £1,500",
+      "date": "1875-05-17",
+      "date_precision": "day",
+      "people": ["George Rooke", "Harry Hill"],
+      "places": ["Pittsburg"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was training at McKee's Rocks for the match with George Rooke in May 1875.",
+      "excerpt": "while rusticating at Mc-\nKee’s Rocks, where Alien wasin training",
+      "date": "1875-05",
+      "date_precision": "month",
+      "people": ["George Rooke"],
+      "places": ["McKee's Rocks"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "George Rooke",
+      "date": "1875-05-17",
+      "date_precision": "day",
+      "place": "unknown",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,500 printed as £1,500",
+      "rules": "",
+      "excerpt": "A formal de- Mand is wade by the principal backer of Ruoke to bave refunded to hin £1,500",
+      "reported_as": "recollection",
+      "notes": "Match did not take place; Rooke never appeared in the ring, so the forfeit is by Rooke. The date is the planned day after 16 May 1875, not a confirmed fight date. The telegram is dated 1835 in print, presumably a misprint for 1875."
+    }
+  ],
+  "notes": "The 1879 article looks back on a failed 1875 match. The stake amount and the telegram year are garbled in the OCR."
+}

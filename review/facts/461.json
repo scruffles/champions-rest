@@ -1,0 +1,19 @@
+{
+  "id": "461",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan deposited a $500 forfeit with Jack Looney to fight Tom Allen for $2,000 a side, win or lose, thirty days after the McCoole and Allen fight.",
+      "excerpt": "$500 as a forfeit with Jack Looney, of 422 North",
+      "date": "1873-09-14",
+      "date_precision": "day",
+      "people": ["Ben Hogan", "Jack Looney", "Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hogan's challenge is a forfeit deposit; Allen's response is not in the article. Garbled OCR ('$2,000a', 'ison deposit') read as $2,000 a side and 'is on deposit'."
+}

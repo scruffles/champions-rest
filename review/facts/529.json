@@ -1,0 +1,30 @@
+{
+  "id": "529",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen left St. Louis on December 1, 1875 to give sparring exhibitions in Louisville, Cincinnati, Columbus, Cleveland, Pittsburg, Buffalo and other cities.",
+      "excerpt": "exhibiting hiz science in the manly art at Louisville, Cincinnati,",
+      "date": "1875-12-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis", "Louisville", "Cincinnati", "Columbus", "Cleveland", "Pittsburg", "Buffalo"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Young Donnelly was to travel with Tom Allen as his sparring partner on the tour.",
+      "excerpt": ".ourg Tionnelly, who will enjoy the honor of! facing Tom in his mimic battles",
+      "date": "1875-12-01",
+      "date_precision": "day",
+      "people": ["Young Donnelly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The partner's name is garbled in the OCR ('ourg Tionnelly'); 'Young Donnelly' is taken from the hint and the usual name."
+}

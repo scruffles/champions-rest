@@ -1,0 +1,19 @@
+{
+  "id": "660",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "St. Louis sporting men were waiting to hear whether John L. Sullivan would accept Richard K. Fox's challenge on behalf of Tom Allen.",
+      "excerpt": "anxfous to\nhear of Sullivan's acceptance of Fox's chal-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["John L. Sullivan", "Richard K. Fox"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only a pending challenge; no bout is reported. The paper's wording is 'Sullivan's acceptance of Fox's challenge in behalf of Tom Alien'."
+}

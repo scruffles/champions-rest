@@ -1,0 +1,84 @@
+{
+  "id": "374",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "The Allen-McCoole fight set for 10 November 1869 was in doubt, as the men had not agreed on a final stakeholder.",
+      "excerpt": "had not agreed upon a final stakeholder, and it was",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Mr. Thorwegen of St. Louis advanced $1100 of Tom Allen's stakes for the match.",
+      "excerpt": "Thorwegen, who sdvanced $1100-o0f Allen’s. stakes",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Thorwegen"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mike McCoole said he would fight Tom Allen only for the $5000 stakes, not for the excursion money.",
+      "excerpt": "unless he can fight for the $5000 he will not fight at",
+      "date": "1869-11",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen was willing to fight McCoole for the excursion money or for anything, rather than let the match fall through.",
+      "excerpt": "he is willing to fight for anything.",
+      "date": "1869-11",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was at his training quarters on 9 November 1869, where many visitors called.",
+      "excerpt": "At Allen's training quarters yesterday there were quite",
+      "date": "1869-11-09",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Allen's training quarters, near Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Mr. Burns",
+      "text": "Allen is a stepper when he gits in the ring. He’sall work and no gammon.",
+      "topic": "Allen's fighting style"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "place": "not settled (Cincinnati area or Wisconsin under discussion)",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$5000",
+      "rules": "",
+      "excerpt": "had not agreed upon a final stakeholder, and it was",
+      "reported_as": "report",
+      "notes": "In doubt as of 10 Nov over the stakeholder; the outcome is not in this article."
+    }
+  ],
+  "notes": "Papers disagree on who represented whom: the Gazette says Carroll for McCoole and Looney for Allen, the Commercial says the reverse. The $5000 stakes were held by Mr. Murray of St. Louis. The Thorwegen item comes from the Gazette."
+}

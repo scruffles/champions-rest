@@ -1,0 +1,96 @@
+{
+  "id": "198",
+  "claims": [
+    {
+      "kind": "family",
+      "statement": "Tom Allen's housekeeper, Mrs. Tillie Hartgrove, said the two were to be married when Allen recovered from his illness, which began at Christmas.",
+      "excerpt": "the two are to be married when Mr. Allen",
+      "date": "1903-03-27",
+      "date_precision": "day",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Allen lived over his saloon at 619 Market Street.",
+      "excerpt": "who lives over his saloon at 619 Market",
+      "date": "1903-03",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Allen's daughter, Mrs. Mary Taylor, went to the Baptist Hospital with Robert Lyons on Monday, March 30, 1903, and was refused admittance a second time.",
+      "excerpt": "Mrs. Taylor, in company with Robert Lyons, went to the hospital and a second time was refused admittance",
+      "date": "1903-03-30",
+      "date_precision": "day",
+      "people": ["Mary Taylor", "Robert Lyons"],
+      "places": ["Baptist Hospital, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "On Saturday, March 28, 1903, the attending physician diagnosed Allen's illness as pneumonia and advised his removal to a hospital.",
+      "excerpt": "the attending physician pronounced Allen’s trouble pneumonia and advised",
+      "date": "1903-03-28",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "On Saturday, March 28, 1903, Allen was removed to the Baptist Hospital at Garrison and Franklin avenues.",
+      "excerpt": "Saturday Mr. Allen was removed to the Baptist Hospital. at Garrison and Franklin avenues",
+      "date": "1903-03-28",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Baptist Hospital, Garrison and Franklin avenues, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Mrs. Hartgrove, according to Mrs. Taylor, had assumed power of attorney and took charge of the money in the cash register at the saloon.",
+      "excerpt": "power of attorney and takes charge of the money in the cash register at the saloon",
+      "date": "1903-03-30",
+      "date_precision": "day",
+      "people": ["Tillie Hartgrove", "Mary Taylor"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "Mrs. Taylor said her mother and sister were living in Birmingham, England.",
+      "excerpt": "Monday morning, Mrs. Taylor said that her mother and sister were living in",
+      "date": "1903-03-30",
+      "date_precision": "day",
+      "people": ["Mary Taylor"],
+      "places": ["Birmingham, England"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Mrs. Taylor took her case to attorney Frank A. C. MacManus, an old friend of her father, to gain access to him.",
+      "excerpt": "went at once to Attcerney Frank A. C. MacManus, an old friend of her",
+      "date": "1903-03",
+      "date_precision": "month",
+      "people": ["Frank A. C. MacManus", "Mary Taylor"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mrs. Taylor is named 'Mary' here (Polly in 204). Hartgrove's husband and age (31) are not about Allen and were left out. Allen's sickness is described here as pneumonia; the other papers say kidney trouble."
+}

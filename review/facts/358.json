@@ -1,0 +1,19 @@
+{
+  "id": "358",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Wormald wrote to Tom Allen asking him to arrange the preliminaries of a match with Ned O'Baldwin for $5,000 a side.",
+      "excerpt": "received s letter from Joe Wurmald, requesting yp te arrange the preliminaries of a mill with Ned",
+      "date": "1869-08-20",
+      "date_precision": "day",
+      "people": ["Joe Wormald", "Ned O'Baldwin"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Text is cut off after 'the fight to take place in', so the venue (Canada in the hint) is not supported and was dropped. The letter was received 'yesterday' in a paper dated Aug 21, so Aug 20."
+}

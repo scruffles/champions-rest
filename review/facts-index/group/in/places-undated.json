@@ -1,0 +1,398 @@
+{
+ "bucket": "places-undated",
+ "kind": "places",
+ "undated": true,
+ "claims": [
+  {
+   "cid": "001.c3",
+   "date": "",
+   "published": "1868-03-09",
+   "conf": "medium",
+   "statement": "Tom Allen and Bill Ryall had been in St. Louis only a few weeks when this was printed."
+  },
+  {
+   "cid": "006.c1",
+   "date": "",
+   "published": "1869-01-10",
+   "statement": "Tom Allen was described as being of Cleveland."
+  },
+  {
+   "cid": "007.c4",
+   "date": "",
+   "published": "1869-01-13",
+   "statement": "For some time before the Davis fight, Tom Allen made Cleveland his home."
+  },
+  {
+   "cid": "068.c5",
+   "date": "",
+   "published": "1876-04-12",
+   "statement": "Tom Allen declared he never had any idea of returning to England."
+  },
+  {
+   "cid": "069.c10",
+   "date": "",
+   "published": "1876-04-13",
+   "conf": "medium",
+   "statement": "Tom Allen said he had lived in St. Louis for seven years and intended to go on living there."
+  },
+  {
+   "cid": "087.c1",
+   "date": "",
+   "published": "1876-09-21",
+   "statement": "Tom Allen had a home in St. Louis, which he left some months before the Goss fight to go into training."
+  },
+  {
+   "cid": "090.c1",
+   "date": "",
+   "published": "1877-09-29",
+   "retro": true,
+   "statement": "Tom Allen lived in St. Louis for over ten years."
+  },
+  {
+   "cid": "093.c3",
+   "date": "",
+   "published": "1878-08-10",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen made his headquarters in St. Louis for many years."
+  },
+  {
+   "cid": "099.c4",
+   "date": "",
+   "published": "1882-12-06",
+   "statement": "Tom Allen planned to go to Chicago to see the Sullivan-Elliott glove contest."
+  },
+  {
+   "cid": "103.c1",
+   "date": "",
+   "published": "1883-03-27",
+   "retro": true,
+   "statement": "A backer imported Tom Allen to America."
+  },
+  {
+   "cid": "103.c6",
+   "date": "",
+   "published": "1883-03-27",
+   "conf": "medium",
+   "statement": "Tom Allen went west after the match fell through."
+  },
+  {
+   "cid": "109.c5",
+   "date": "",
+   "published": "1884-02-11",
+   "retro": true,
+   "statement": "Allen went to England and allowed his bond to be forfeited."
+  },
+  {
+   "cid": "110.c3",
+   "date": "",
+   "published": "1884-02-13",
+   "retro": true,
+   "statement": "After the Goss fight Allen took a steamer to England and took up residence there."
+  },
+  {
+   "cid": "110.c4",
+   "date": "",
+   "published": "1884-02-13",
+   "retro": true,
+   "statement": "After returning to America, Allen came to St. Louis."
+  },
+  {
+   "cid": "114.c9",
+   "date": "",
+   "published": "1885-03-28",
+   "retro": true,
+   "statement": "From Canada Allen went by steamer to England."
+  },
+  {
+   "cid": "116.c2",
+   "date": "",
+   "published": "1885-05-30",
+   "retro": true,
+   "statement": "C. W. Price, an Englishman, came to America with Tom Allen."
+  },
+  {
+   "cid": "136.c1",
+   "date": "",
+   "published": "1889-06-26",
+   "conf": "medium",
+   "statement": "Tom Allen was among a St. Louis delegation of sports going to attend the Sullivan-Kilrain fight."
+  },
+  {
+   "cid": "148.c35",
+   "date": "",
+   "published": "1892-09-18",
+   "statement": "After returning to America, Tom Allen came back to St. Louis, where he has since remained apart from trips to big events."
+  },
+  {
+   "cid": "156.c6",
+   "date": "",
+   "published": "1894-01-02",
+   "conf": "low",
+   "statement": "Tom Allen is described as being of St. Louis (printed as St. Louts)."
+  },
+  {
+   "cid": "180.c27",
+   "date": "",
+   "published": "1899-02-27",
+   "retro": true,
+   "statement": "Tom Allen spent about a year in England on the race tracks, then returned to America."
+  },
+  {
+   "cid": "202.c14",
+   "date": "",
+   "published": "1903-04-06",
+   "retro": true,
+   "statement": "Since Allen came to America, St. Louis has been his home."
+  },
+  {
+   "cid": "210.c5",
+   "date": "",
+   "published": "1903-04-12",
+   "retro": true,
+   "statement": "After returning to America, Allen settled in St. Louis."
+  },
+  {
+   "cid": "213.c6",
+   "date": "",
+   "published": "1903-04-26",
+   "retro": true,
+   "statement": "Tom Allen had come to the United States from England some years before 1876."
+  },
+  {
+   "cid": "225.c2",
+   "date": "",
+   "published": "1912-01-22",
+   "retro": true,
+   "statement": "Tom Allen is described as of St. Louis."
+  },
+  {
+   "cid": "226.c2",
+   "date": "",
+   "published": "1912-01-23",
+   "retro": true,
+   "statement": "Tom Allen is described as of St. Louis."
+  },
+  {
+   "cid": "227.c2",
+   "date": "",
+   "published": "1912-01-25",
+   "retro": true,
+   "statement": "Tom Allen is described as of St. Louis."
+  },
+  {
+   "cid": "228.c4",
+   "date": "",
+   "published": "1912-01-27",
+   "retro": true,
+   "statement": "Tom Allen had been a resident of St. Louis for years."
+  },
+  {
+   "cid": "245.c13",
+   "date": "",
+   "published": "1933-07-29",
+   "retro": true,
+   "statement": "Tom Allen escaped and reached England after the Goss match."
+  },
+  {
+   "cid": "266.c22",
+   "date": "",
+   "published": "1894",
+   "retro": true,
+   "statement": "Tom Allen settled in St. Louis after his fighting career and was still living there in 1894."
+  },
+  {
+   "cid": "269.c2",
+   "date": "",
+   "published": "1882-11-01",
+   "conf": "medium",
+   "statement": "Allen planned to stay in Boston about another week, then go to New York for a few weeks, possibly giving exhibitions, before returning to England."
+  },
+  {
+   "cid": "271.c4",
+   "date": "",
+   "published": "1882-11-02",
+   "conf": "medium",
+   "statement": "Tom Allen planned to stay in Boston a week or so longer, then go to New York for a few weeks before going back to England."
+  },
+  {
+   "cid": "284.c6",
+   "date": "",
+   "published": "1876-04-15",
+   "conf": "medium",
+   "statement": "The Adelphi manager says Tom Allen has sent his wife out of St. Louis and converted his property into cash, so that he can leave at any time."
+  },
+  {
+   "cid": "301.c1",
+   "date": "",
+   "published": "1869-01-07",
+   "statement": "Tom Allen had arrived for his fight with Davis and was still in training."
+  },
+  {
+   "cid": "352.c3",
+   "date": "",
+   "published": "1869-08-18",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen came over from England in company with a fighter the paper names as Bill Goes, champion of England (name garbled in the scan)."
+  },
+  {
+   "cid": "429.c2",
+   "date": "",
+   "published": "1871-02-12",
+   "conf": "low",
+   "statement": "Tom Allen said he had been in America for several years and was no longer a foreigner (the number of years is not readable)."
+  },
+  {
+   "cid": "480.c4",
+   "date": "",
+   "published": "1873-10-06",
+   "statement": "Tom Allen took up his quarters at the Mount Olive House while preparing for the McCoole fight."
+  },
+  {
+   "cid": "488.c9",
+   "date": "",
+   "published": "1873-10-25",
+   "statement": "Tom Allen said he had lived in St. Louis for a number of years."
+  },
+  {
+   "cid": "534.c3",
+   "date": "",
+   "published": "1876-03-12",
+   "statement": "Tom Allen brought Theobald Bauer from Boston to St. Louis on the word of a Chicago friend that Andre Christol would wrestle him there."
+  },
+  {
+   "cid": "591.c1",
+   "date": "",
+   "published": "1877-02-25",
+   "retro": true,
+   "statement": "Arthur Chambers named Tom Allen among the men of importance who had left England for the United States."
+  },
+  {
+   "cid": "599.c1",
+   "date": "",
+   "published": "1877-10-07",
+   "statement": "Tom Allen's home town was Birmingham, England."
+  },
+  {
+   "cid": "607.c1",
+   "date": "",
+   "published": "1878-03-23",
+   "statement": "Tom Allen was formerly of St. Louis."
+  },
+  {
+   "cid": "612.c1",
+   "date": "",
+   "published": "1878-04-25",
+   "conf": "medium",
+   "statement": "Tom Allen had left the United States by the time Johnny Dwyer began seeking the championship, and Dwyer had not fought him while Allen was in this country."
+  },
+  {
+   "cid": "634.c1",
+   "date": "",
+   "published": "1880-03-28",
+   "conf": "medium",
+   "statement": "Tom Allen announced over his own signature that he contemplated returning to America in a few months."
+  },
+  {
+   "cid": "641.c1",
+   "date": "",
+   "published": "1881-04-15",
+   "retro": true,
+   "statement": "Tom Allen, Mike McCoole and Charley Gallagher made their headquarters in St. Louis at a time the paper does not date."
+  },
+  {
+   "cid": "643.c1",
+   "date": "",
+   "published": "1882-01-02",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen came to America from the old country, along with another man whose name is garbled in the text."
+  },
+  {
+   "cid": "645.c4",
+   "date": "",
+   "published": "1882-01-28",
+   "retro": true,
+   "statement": "Tom Allen had his home in St. Louis for a number of years."
+  },
+  {
+   "cid": "659.c2",
+   "date": "",
+   "published": "1882-11-01",
+   "retro": true,
+   "statement": "Tom Allen and Bill Ryall came to St. Louis with a letter from Frank Queen introducing them to Jack Looney and Billy Carroll."
+  },
+  {
+   "cid": "659.c3",
+   "date": "",
+   "published": "1882-11-01",
+   "retro": true,
+   "statement": "Billy Carroll said Tom Allen had left St. Louis a few years earlier."
+  },
+  {
+   "cid": "659.c4",
+   "date": "",
+   "published": "1882-11-01",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen sailed for England after leaving St. Louis, according to remarks by local sporting men."
+  },
+  {
+   "cid": "676.c2",
+   "date": "",
+   "published": "1882-12-21",
+   "statement": "Tom Allen had left New York, according to Richard K. Fox's telegram."
+  },
+  {
+   "cid": "686.c3",
+   "date": "",
+   "published": "1883-02-18",
+   "conf": "low",
+   "statement": "Tom Allen had returned to St. Louis before February 1883 (printed as \"revurnto\")."
+  },
+  {
+   "cid": "725.c3",
+   "date": "",
+   "published": "1884-12-06",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen had to run away to Birmingham, England, to escape going to the penitentiary (printed as 'B ingham')."
+  },
+  {
+   "cid": "731.c1",
+   "date": "",
+   "published": "1886-04-03",
+   "retro": true,
+   "statement": "Tom Allen is named among English fighters who visited America, fought there and were treated squarely."
+  },
+  {
+   "cid": "945.c1",
+   "date": "",
+   "published": "1896-11-27",
+   "statement": "Tom Allen was in New York to attend the Maher-Choynski fight, where he met Frank Slavin."
+  },
+  {
+   "cid": "952.c1",
+   "date": "",
+   "published": "1897-02-07",
+   "retro": true,
+   "statement": "Tom Allen witnessed the Sullivan-Corbett fight."
+  },
+  {
+   "cid": "952.c2",
+   "date": "",
+   "published": "1897-02-07",
+   "retro": true,
+   "statement": "Tom Allen was with Charlie Mitchell when the English boxer was beaten by Corbett, the Californian."
+  },
+  {
+   "cid": "952.c3",
+   "date": "",
+   "published": "1897-02-07",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen said he had witnessed all of Fitzsimmons' fights in New Orleans (printed as 'litaz's Nights')."
+  }
+ ]
+}

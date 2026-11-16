@@ -1,0 +1,408 @@
+{
+ "bucket": "life-1810-1874",
+ "kind": "life",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "180.c11",
+   "date": "1810",
+   "published": "1899-02-27",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen was born in Birmingham, England, in 1810, as printed."
+  },
+  {
+   "cid": "1004.c1",
+   "date": "1830-04",
+   "published": "1903-04-06",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen was born at Birmingham, England, in April, the year printed as 1830."
+  },
+  {
+   "cid": "195.c3",
+   "date": "1839",
+   "published": "1903-01-31",
+   "retro": true,
+   "statement": "Tom Allen was born in 1839."
+  },
+  {
+   "cid": "197.c1",
+   "date": "1839-04-23",
+   "published": "1903-03-27",
+   "retro": true,
+   "statement": "Tom Allen was born in Birmingham, England, on April 23, 1839."
+  },
+  {
+   "cid": "203.c1",
+   "date": "1839-04-23",
+   "published": "1903-04-06",
+   "retro": true,
+   "statement": "Tom Allen was born at Birmingham, England, on April 23, 1839."
+  },
+  {
+   "cid": "206.c2",
+   "date": "1839-04-23",
+   "published": "1903-04-09",
+   "retro": true,
+   "statement": "Tom Allen was born in Birmingham, England, on April 23, 1839."
+  },
+  {
+   "cid": "259.c1",
+   "date": "1839-04-23",
+   "published": "1903-04-10",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen was an Englishman born at Birmingham, England, on April 23, 1839 (the article prints 1889)."
+  },
+  {
+   "cid": "234.c1",
+   "date": "1840",
+   "published": "1919-01-02",
+   "retro": true,
+   "statement": "Tom Allen was born in Birmingham, England, in 1840."
+  },
+  {
+   "cid": "291.c8",
+   "date": "1840",
+   "published": "1875-03-16",
+   "retro": true,
+   "conf": "medium",
+   "statement": "The New York Sun gave Tom Allen's birthplace as Birmingham and his birth year as 1840."
+  },
+  {
+   "cid": "659.c1",
+   "date": "1840",
+   "published": "1882-11-01",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Kelly thought Tom Allen was born in 1840 and so was about 42 years old."
+  },
+  {
+   "cid": "266.c1",
+   "date": "1840-04",
+   "published": "1894",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen was born in Birmingham, England, in April 1840."
+  },
+  {
+   "cid": "148.c1",
+   "date": "1840-04-23",
+   "published": "1892-09-18",
+   "retro": true,
+   "statement": "Tom Allen was born at Birmingham, England, on April 23, 1840."
+  },
+  {
+   "cid": "354.c1",
+   "date": "1840-04-23",
+   "published": "1869-08-18",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen was born at Birmingham, England, on April 23; the article gives his age as twenty-nine (the year is printed as 1519, so 1840 is worked out from his age)."
+  },
+  {
+   "cid": "281.c1",
+   "date": "1841",
+   "published": "1910-05-08",
+   "retro": true,
+   "statement": "Tom Allen was born in Birmingham in 1841, according to this article."
+  },
+  {
+   "cid": "303.c1",
+   "date": "1841",
+   "published": "1869-01-13",
+   "retro": true,
+   "statement": "The paper says Tom Allen was born at Birmingham, England, in 1841."
+  },
+  {
+   "cid": "465.c1",
+   "date": "1843-04-23",
+   "published": "1873-09-23",
+   "retro": true,
+   "statement": "Thomas Allen was born on April 23, 1843, at Birmingham, England."
+  },
+  {
+   "cid": "292.c2",
+   "date": "1867-03",
+   "published": "1867-04-08",
+   "statement": "Tom Allen's right shoulder was dislocated in the twenty-fifth round against Goss, but he fought on."
+  },
+  {
+   "cid": "292.c3",
+   "date": "1867-03",
+   "published": "1867-04-08",
+   "statement": "Tom Allen of Birmingham was twenty-seven years old and five feet ten inches tall at the time of the Goss fight."
+  },
+  {
+   "cid": "196.c5",
+   "date": "1867-09",
+   "published": "1903-02-01",
+   "retro": true,
+   "statement": "After the 1867 fight, a mob attacked Tom Allen; he was shot in the hand and hit in the eye with a club."
+  },
+  {
+   "cid": "283.c7",
+   "date": "1868",
+   "published": "1876-04-15",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Harry Allen died soon after the planned fight with Joe Goss was stopped."
+  },
+  {
+   "cid": "284.c2",
+   "date": "1868",
+   "published": "1876-04-15",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Coburn knocked Tom Allen off the stage at the Bowery Theater, slightly injuring him."
+  },
+  {
+   "cid": "283.c5",
+   "date": "1868-09-04",
+   "published": "1876-04-15",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen's brother Harry Allen was matched to fight Joe Goss for £400 and the championship of England, for September 4, 1868 (printed as 'Setanther 4, 1868')."
+  },
+  {
+   "cid": "303.c2",
+   "date": "1869-01-12",
+   "published": "1869-01-13",
+   "statement": "The paper gives Tom Allen's age as 28 at the time of the fight."
+  },
+  {
+   "cid": "009.c8",
+   "date": "1869-02-23",
+   "published": "1869-02-24",
+   "statement": "Tom Allen was knocked senseless and out of time, and needed restoratives to revive him."
+  },
+  {
+   "cid": "307.c2",
+   "date": "1869-02-23",
+   "published": "1869-02-24",
+   "statement": "Tom Allen lay unconscious after the knockout until Looney doctored him."
+  },
+  {
+   "cid": "307.c4",
+   "date": "1869-02-23",
+   "published": "1869-02-24",
+   "statement": "Tom Allen was 28 years old, stood 5 feet 9 inches and weighed 168 pounds."
+  },
+  {
+   "cid": "324.c1",
+   "date": "1869-06",
+   "published": "1869-06-17",
+   "statement": "The Republic reported Tom Allen's age as twenty-eight."
+  },
+  {
+   "cid": "324.c3",
+   "date": "1869-06",
+   "published": "1869-06-17",
+   "statement": "After the fight Tom Allen had only a slight abrasion of the lower lip."
+  },
+  {
+   "cid": "331.c6",
+   "date": "1869-06",
+   "published": "1869-06-30",
+   "conf": "medium",
+   "statement": "The Cincinnati Commercial reported that Tom Allen's early love from England, whose family had settled in New York State, ran away from home to share his honors and went with him toward St. Louis."
+  },
+  {
+   "cid": "333.c2",
+   "date": "1869-06",
+   "published": "1869-07-01",
+   "conf": "medium",
+   "statement": "A dispatch told Tom Allen that an old sweetheart he had left in England was on her way to join him and would meet him at Vincennes."
+  },
+  {
+   "cid": "333.c3",
+   "date": "1869-06",
+   "published": "1869-07-01",
+   "conf": "medium",
+   "statement": "As the Cincinnati Gazette reported, Tom Allen's English sweetheart went with him to St. Louis to find a church and a minister to marry them."
+  },
+  {
+   "cid": "093.c2",
+   "date": "1869-06-15",
+   "published": "1878-08-10",
+   "retro": true,
+   "conf": "medium",
+   "statement": "In 1869 Tom Allen said he had declared his intention to become a United States citizen two years earlier."
+  },
+  {
+   "cid": "339.c1",
+   "date": "1869-07",
+   "published": "1869-07-13",
+   "conf": "medium",
+   "statement": "Tom Allen was said to be sick at the time of the recent meeting for drawing up the articles of his fight with Mike McCoole."
+  },
+  {
+   "cid": "245.c9",
+   "date": "1869-08",
+   "published": "1933-07-29",
+   "retro": true,
+   "statement": "During the Gallagher fight, a shot struck the back of Tom Allen's right hand."
+  },
+  {
+   "cid": "367.c2",
+   "date": "1869-08",
+   "published": "1869-09-26",
+   "conf": "medium",
+   "statement": "Looney said Charley Gallagher looked miserable and weak on the day he fought Allen, and his physicians could not explain it."
+  },
+  {
+   "cid": "367.c3",
+   "date": "1869-08",
+   "published": "1869-09-26",
+   "conf": "medium",
+   "statement": "After the fight in Kansas City, a tapeworm sixty feet long was passed by Charley Gallagher, according to Looney."
+  },
+  {
+   "cid": "020.c6",
+   "date": "1869-08-17",
+   "published": "1869-08-17",
+   "conf": "medium",
+   "statement": "Tom Allen was understood to be in fine condition on the day of the fight."
+  },
+  {
+   "cid": "356.c3",
+   "date": "1869-08-17",
+   "published": "1869-08-19",
+   "conf": "medium",
+   "statement": "Tom Allen said a scar under his left eye was made by a blow from a club thrown into the ring during the fight with Gallagher."
+  },
+  {
+   "cid": "909.c11",
+   "date": "1869-08-17",
+   "published": "1895-03-31",
+   "retro": true,
+   "statement": "Tom Allen was shot through the back of his right hand during his fight with Charley Gallagher at Chouteau Island in August 1869."
+  },
+  {
+   "cid": "355.c1",
+   "date": "1869-08-19",
+   "published": "1869-08-19",
+   "conf": "medium",
+   "statement": "Tom Allen claimed to be an American citizen and said he would fight under American colors from then on."
+  },
+  {
+   "cid": "377.c1",
+   "date": "1869-12",
+   "published": "1869-12-25",
+   "statement": "Tom Allen was very sick for about a week before 16 December 1869 and was confined to his house."
+  },
+  {
+   "cid": "096.c8",
+   "date": "1870",
+   "published": "1882-02-08",
+   "retro": true,
+   "statement": "After the Mace fight it was feared for some time that Tom Allen's neck was broken, but he recovered."
+  },
+  {
+   "cid": "195.c9",
+   "date": "1870",
+   "published": "1903-01-31",
+   "retro": true,
+   "statement": "Tom Allen injured his arm in the 1870 fight with Jem Mace."
+  },
+  {
+   "cid": "196.c7",
+   "date": "1870",
+   "published": "1903-02-01",
+   "retro": true,
+   "statement": "Tom Allen was badly punched in the body during the 1870 fight with Jem Mace."
+  },
+  {
+   "cid": "029.c2",
+   "date": "1870-03-29",
+   "published": "1870-03-29",
+   "statement": "Tom Allen was in splendid condition for his fight with Jem Mace, according to the paper."
+  },
+  {
+   "cid": "401.c2",
+   "date": "1870-05",
+   "published": "1870-05-13",
+   "statement": "A surgeon found that Tom Allen's shoulder was not dislocated, but that the muscles were cramped and contracted."
+  },
+  {
+   "cid": "228.c6",
+   "date": "1870-05-10",
+   "published": "1912-01-27",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen was 27 years old when he fought Jem Mace on May 10, 1870, according to Bill Clark."
+  },
+  {
+   "cid": "909.c12",
+   "date": "1870-05-10",
+   "published": "1895-03-31",
+   "retro": true,
+   "statement": "Tom Allen broke his arm in his fight with Jem Mace at New Orleans in May 1870."
+  },
+  {
+   "cid": "406.c2",
+   "date": "1870-05-23",
+   "published": "1870-05-24",
+   "conf": "medium",
+   "statement": "Tom Allen showed few marks of his late contest in the ring."
+  },
+  {
+   "cid": "036.c1",
+   "date": "1870-06",
+   "published": "1870-06-12",
+   "statement": "Tom Allen has a pretty sister who teaches school in Corydon, Indiana."
+  },
+  {
+   "cid": "410.c5",
+   "date": "1870-06-17",
+   "published": "1870-06-21",
+   "statement": "Tom Allen was about 37 years old in June 1870."
+  },
+  {
+   "cid": "452.c4",
+   "date": "1873-06-10",
+   "published": "1873-06-11",
+   "statement": "On June 10, 1873, Tom Allen weighed about 200 pounds and was in good health."
+  },
+  {
+   "cid": "255.c2",
+   "date": "1873-09-23",
+   "published": "1941-03-30",
+   "retro": true,
+   "statement": "Tom Allen was 33 years old when he fought Mike McCoole on 23 September 1873."
+  },
+  {
+   "cid": "465.c2",
+   "date": "1873-09-23",
+   "published": "1873-09-23",
+   "conf": "medium",
+   "statement": "Tom Allen was about thirty years of age in September 1873."
+  },
+  {
+   "cid": "473.c4",
+   "date": "1873-09-23",
+   "published": "1873-09-26",
+   "conf": "medium",
+   "statement": "Tom Allen's second knuckle on his right hand was slightly cut in the Tuesday fight (printed as 'band')."
+  },
+  {
+   "cid": "488.c2",
+   "date": "1873-10-24",
+   "published": "1873-10-25",
+   "statement": "Tom Allen weighed 172 pounds stripped and looked in better condition than before his fight with McCoole."
+  },
+  {
+   "cid": "490.c2",
+   "date": "1873-10-28",
+   "published": "1873-10-28",
+   "statement": "Tom Allen and Ben Hogan were both in excellent condition on the day of the fight."
+  },
+  {
+   "cid": "508.c3",
+   "date": "1874-08",
+   "published": "1874-08-16",
+   "statement": "Tom Allen was struck with a rock before the Edwards-Collyer fight but received no damage from it."
+  }
+ ]
+}

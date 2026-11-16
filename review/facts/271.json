@@ -1,0 +1,16 @@
+{
+  "id": "271",
+  "claims": [
+    {"kind": "birth", "statement": "Tom Allen was 43 years old.", "excerpt": "Allen is 43 years old, and looks in prime condition.", "date": "1882-11", "date_precision": "month", "people": [], "places": [], "retrospective": false, "confidence": "high"},
+    {"kind": "career", "statement": "Tom Allen was presented with a silver cup inscribed as champion boxer of England, by his backers and admirers, on May 22, 1878, at Cambridge Hall, London.", "excerpt": "Presented to Tom Allen, champion boxer of Eogland, by his backers ani admirers, as s token", "date": "1878-05-22", "date_precision": "day", "people": [], "places": ["Cambridge Hall, Oxford Street, London"], "retrospective": true, "confidence": "high"},
+    {"kind": "travel", "statement": "Tom Allen was in Boston as the guest of Patsy Sheppard.", "excerpt": "Tom Allen, the Enelish “posit, is in Boston, the’guest of Patsey Sbep-", "date": "1882-11", "date_precision": "month", "people": ["Patsy Sheppard"], "places": ["Boston"], "retrospective": false, "confidence": "high"},
+    {"kind": "travel", "statement": "Tom Allen planned to stay in Boston a week or so longer, then go to New York for a few weeks before going back to England.", "excerpt": "when he will go to New York for ‘8 few weeks before he goes back to", "date": "", "date_precision": "unknown", "people": [], "places": ["Boston", "New York", "England"], "retrospective": false, "confidence": "medium"},
+    {"kind": "exhibition", "statement": "Tom Allen thought it more than likely that he would give some exhibitions in England.", "excerpt": "more than likly -that he will give some exhibitions while there", "date": "", "date_precision": "unknown", "people": [], "places": ["England"], "retrospective": false, "confidence": "medium"},
+    {"kind": "travel", "statement": "Tom Allen said he came to America only to visit his friends, not to fight anyone.", "excerpt": "simply came ons visit to his friends.", "date": "1882-11", "date_precision": "month", "people": [], "places": ["America"], "retrospective": false, "confidence": "medium"},
+    {"kind": "career", "statement": "Tom Allen has won more battles than any other man in England.", "excerpt": "won more battles than any other man in England", "date": "1882-11", "date_precision": "month", "people": [], "places": ["England"], "retrospective": false, "confidence": "medium"},
+    {"kind": "challenge", "statement": "Tom Allen left England to come to America to meet John L. Sullivan.", "excerpt": "come to this country to meet Sullivan", "date": "", "date_precision": "unknown", "people": ["John L. Sullivan"], "places": ["England", "America"], "retrospective": false, "confidence": "medium"}
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Interview in the Evening Herald; OCR garbled in places. Paper's paraphrase, so no direct quotes. The hints about a Fox representative and a Sullivan match are not in the text."
+}

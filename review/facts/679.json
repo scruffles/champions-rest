@@ -1,0 +1,34 @@
+{
+  "id": "679",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Jem Mace wrote that he beat Tom Allen at New Orleans in 1870.",
+      "excerpt": "you neg'all yikes ay Tom Allen at New Orleaps in",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans, Louisiana"],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870",
+      "date_precision": "year",
+      "place": "New Orleans, Louisiana",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "you neg'all yikes ay Tom Allen at New Orleaps in",
+      "reported_as": "recollection",
+      "notes": "Known only from Mace's letter quoted in 1883. The line is badly garbled; the year is printed 'is70'. Result read as a loss for Allen from 'beat'."
+    }
+  ],
+  "notes": "Mace's letter is the only source. The words before 'Tom Allen' are garbled, so the exact wording is uncertain."
+}

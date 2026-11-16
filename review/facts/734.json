@@ -1,0 +1,30 @@
+{
+  "id": "734",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The Republic described Tom Allen as an ex-champion in June 1886.",
+      "excerpt": "PRIZE-FIGHTER TOM ALLEN, ex-champion, bet on Cuban Queen",
+      "date": "1886-06",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen bet on the horse Cuban Queen at the St. Louis races, because her father was named Strathmore.",
+      "excerpt": "PRIZE-FIGHTER TOM ALLEN, ex-champion, bet on Cuban Queen—because her father was named Strathmore.",
+      "date": "1886-06-15",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Race date inferred from 'yesterday' in the column (paper dated 1886-06-16). Other lines concern other people."
+}

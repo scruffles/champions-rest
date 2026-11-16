@@ -1,0 +1,63 @@
+{
+  "id": "106",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "A couple of thugs jumped Tom Allen and tried to rob him because they thought he was no good.",
+      "excerpt": "A short time ago a couple of thugs jumped on him and attempted to rob him because they thought the old man was no good",
+      "date": "1883-10",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "A rumor that Tom Allen had become stiff and short of wind was bringing him more business.",
+      "excerpt": "The rumor that was circulated to the effect that Tom Allen, the prize fighter, had become stiff and short of wind is bringing in more business",
+      "date": "1883-10",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen knocked out Jim Egan in a quarrel at his free-and-easy.",
+      "excerpt": "Allen had Egan knocked out very soon, when Brooks grabbed the ex-champion's hand",
+      "date": "1883-10-27",
+      "date_precision": "day",
+      "people": ["Jim Egan", "Brooks"],
+      "places": ["Allen's free-and-easy"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen pulled his pistol intending to kill Egan's dog, but changed his mind and put the revolver away.",
+      "excerpt": "pulled his pistol with the intention of killing the dog, but changed his mind and put the revolver away",
+      "date": "1883-10-27",
+      "date_precision": "day",
+      "people": ["Jim Egan"],
+      "places": ["Allen's free-and-easy"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Egan and his friends were ejected from the free-and-easy, and Allen came out as usual, a winner.",
+      "excerpt": "Egan and his friends were ejected, and Allen came out as usual, a winner",
+      "date": "1883-10-27",
+      "date_precision": "day",
+      "people": ["Jim Egan", "Brooks"],
+      "places": ["Allen's free-and-easy"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The Egan scuffle was a saloon brawl, not a prize contest, so it is recorded as saloon rather than fight. Egan's background at the Canterbury and the dog's part were not extracted. Date of the brawl is worked out from 'a couple of days ago'."
+}

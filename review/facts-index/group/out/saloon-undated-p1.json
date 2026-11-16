@@ -1,0 +1,308 @@
+{
+  "bucket": "saloon-undated-p1",
+  "facts": [
+    {
+      "fact": "In April 1876 Tom Allen closed his Free and Easy on Washington Avenue, and the counters and gin bottles were hauled out of the saloon; it was understood he would open another saloon at 611 Fifth Street in a few days.",
+      "date": "1876-04",
+      "seed": "010",
+      "conflict": "",
+      "claims": ["069.c6"],
+      "join": "saloon-1874-1887#12"
+    },
+    {
+      "fact": "Tom Allen was prosecuted in October 1883 for disturbances at his saloon, and witnesses testified that singing there could be heard two blocks away.",
+      "date": "1883-10",
+      "seed": "032",
+      "conflict": "",
+      "claims": ["107.c5"]
+    },
+    {
+      "fact": "Tom Allen ran a saloon on Market Street near Sixth Street, where the shooting happened.",
+      "date": "1899-02",
+      "seed": "028",
+      "conflict": "",
+      "claims": ["179.c5"]
+    },
+    {
+      "fact": "After Tom Allen tried to invade Dan Daly's saloon, a fight spilled into the street in which Daly whipped Allen.",
+      "date": "1888-06",
+      "seed": "029",
+      "conflict": "",
+      "claims": ["209.c11"]
+    },
+    {
+      "fact": "On April 3, 1903, Gillespie came from Allen's room with an attorney and a notary, carrying a second bill of sale bearing Allen's mark.",
+      "date": "1903-04-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["1002.c5"],
+      "join": "saloon-1903#6"
+    },
+    {
+      "fact": "A St. Louis editorial said Tom Allen's legitimate business was whiskey, lager and cigars, and advised him to stick to it.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["046.c5"]
+    },
+    {
+      "fact": "A paper said Tom Allen had wisely given up prize fighting to attend to his business as a saloon keeper.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["057.c9"]
+    },
+    {
+      "fact": "Tom Allen left St. Louis under a cloud, owing mostly to unfortunate business ventures.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["090.c3"]
+    },
+    {
+      "fact": "Tom Allen's popular establishment on Washington Avenue in St. Louis was a favorite resort of fighting men.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["093.c5"]
+    },
+    {
+      "fact": "Tom Allen was reported to be opening a downtown saloon in St. Louis in company with John C. Gropper.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["100.c4"]
+    },
+    {
+      "fact": "Tom Allen was proprietor of the Champion's Rest, a saloon and dance hall on Market Street in St. Louis.",
+      "date": "",
+      "seed": "",
+      "conflict": "address: 619 Market (1003.c4) vs 615 Market (203.c4, 209.c1)",
+      "claims": ["1003.c4", "203.c4", "209.c1"]
+    },
+    {
+      "fact": "Tillie Hartgrave, Allen's housekeeper, gave J. W. L. Gillespie a bill of sale for the saloon for $52.60.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["1003.c7"]
+    },
+    {
+      "fact": "After Tom Allen's death his saloon fell into other hands and his estate dwindled to practically nothing.",
+      "date": "",
+      "seed": "049",
+      "conflict": "",
+      "claims": ["1011.c4", "1012.c9"]
+    },
+    {
+      "fact": "According to a barbershop speaker, Tom Allen spent his last days at his place on Market Street.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["1014.c2"]
+    },
+    {
+      "fact": "The lower floor of the building on Market Street (number garbled in the scan) was formerly Tom Allen's saloon.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["1016.c1"]
+    },
+    {
+      "fact": "Mr. Daly testified that he saw eight or nine men taken into the yard at Tom Allen's saloon and placed under a hydrant to have the blood washed off.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["107.c7"]
+    },
+    {
+      "fact": "C. W. Price was barkeeper at the Washington Avenue Free and Easy that Tom Allen kept in his prime.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["116.c1"]
+    },
+    {
+      "fact": "Arthur Flint had hung around Tom Allen's and Tom Kelly's places before he took up fighting.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["127.c3"]
+    },
+    {
+      "fact": "Tom Allen ordered his former friend John Ryan to keep away from his saloon, and Ryan refused; after a beating, Ryan threw stones through the saloon's windows.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["132.c1", "132.c3"]
+    },
+    {
+      "fact": "Billy Madden, an old beer-slinger of Tom Allen's, later took Jack Sullivan to New York.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["167.c9"]
+    },
+    {
+      "fact": "Tom Allen ran a concert hall that was a rival of The Ohio music hall.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["173.c4"]
+    },
+    {
+      "fact": "Tom Allen returned to St. Louis and opened a saloon on Market Street.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["180.c29"]
+    },
+    {
+      "fact": "Tom Allen's saloon, the Champion's Rest, was on Market Street near Seventh Street in St. Louis.",
+      "date": "",
+      "seed": "011",
+      "conflict": "location: between Sixth and Tenth (216.c2) vs east of Seventh (242.c11) vs at Seventh and Market (224.c1, 247.c4) vs about where the American Hotel now stands (245.c2)",
+      "claims": ["193.c1", "216.c2", "224.c1", "242.c11", "247.c4", "245.c2"]
+    },
+    {
+      "fact": "At the Champion's Rest, Arthur McNamara offered to sell a razor; he was told he would be paid a quarter for it if he treated with the money, and the bartender kept the money.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["193.c6"]
+    },
+    {
+      "fact": "After returning from England, Tom Allen kept a saloon on Washington Avenue between Fourth Street and Broadway for a few years before moving to his Market Street location.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["197.c12"]
+    },
+    {
+      "fact": "For years Tom Allen personally ran the Champion's Rest, presiding at the piano and directing the nightly concert.",
+      "date": "",
+      "seed": "019",
+      "conflict": "",
+      "claims": ["203.c5"]
+    },
+    {
+      "fact": "Tom Allen named his saloon the Champion's Rest, thinking of the rest it would give his old age.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["203.c6", "216.c1"]
+    },
+    {
+      "fact": "Tom Allen's silver cup, the Champion Boxing Cup of England, stood on the back bar of the Champion's Rest.",
+      "date": "",
+      "seed": "018",
+      "conflict": "",
+      "claims": ["203.c8"]
+    },
+    {
+      "fact": "J. W. L. Gillespie tried to take possession of the Champion's Rest, claiming Tom Allen had given him a bill of sale, but bartender John Murphy refused to surrender the saloon and ordered Gillespie away, knowing Allen was unconscious and could not sign.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["203.c22", "203.c23"]
+    },
+    {
+      "fact": "Tom Allen had conducted a small saloon in St. Louis for the past 25 years.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["206.c3"]
+    },
+    {
+      "fact": "The Champion's Rest had a prize ring in its concert hall, where bouts were held nightly, and Tom Allen was master of ceremonies, referee of all fights and arbitrator.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["209.c6", "209.c7"]
+    },
+    {
+      "fact": "Tom Allen let homeless men sleep in his saloon on cold nights, as many as 200 at a time, and gave them breakfast after they cleaned up.",
+      "date": "",
+      "seed": "027",
+      "conflict": "",
+      "claims": ["209.c8", "224.c4", "245.c4"]
+    },
+    {
+      "fact": "Tom Allen drove thieves out of his saloon as soon as they were known.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["209.c9"]
+    },
+    {
+      "fact": "Tom Allen kept the Champion's Rest running until his death.",
+      "date": "",
+      "seed": "",
+      "conflict": "until: a few weeks before his death (210.c6) vs until the day of his death (240.c2, 242.c10)",
+      "claims": ["210.c6", "240.c2", "242.c10"]
+    },
+    {
+      "fact": "In Tom Allen's time, Weary Willies bunked under the piano at Champion's Rest.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["216.c7"]
+    },
+    {
+      "fact": "Only Tom Allen pressed the push button for the bell behind the bar, to call for a drink or a bouncer.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["216.c8"]
+    },
+    {
+      "fact": "The new manager's plans for a linoleum floor and new plate glass mirrors at Champion's Rest were dropped the same day.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["216.c9"]
+    },
+    {
+      "fact": "Tom Allen used to regale his patrons at the Champion's Rest with stories of his famous encounters.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["220.c2"]
+    },
+    {
+      "fact": "Tom Allen's saloon was one big barroom in a tumble-down frame building, over which he lived, and a sign on its front window read 'We are lower than the lowest.'",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["224.c2", "224.c3"]
+    },
+    {
+      "fact": "The Star charged that Tom Allen's saloon dragged scores of men to ruin with 'doped' liquor.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["224.c5"]
+    },
+    {
+      "fact": "Tom Allen owned and operated a saloon in St. Louis while he lived there.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["244.c1"]
+    },
+    {
+      "fact": "Tom Allen ran a saloon in St. Louis called the Champion's Rest.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["245.c3"]
+    },
+    {
+      "fact": "After quitting the ring, Tom Allen opened the Champion's Rest, a public house on Market Street in St. Louis.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["250.c2"]
+    }
+  ]
+}

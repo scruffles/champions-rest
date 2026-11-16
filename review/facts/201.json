@@ -1,0 +1,41 @@
+{
+  "id": "201",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was a retired champion pugilist living in St. Louis in April 1903.",
+      "excerpt": "Tom Allen, retired champion pugilist in St. Louis, is planning to celebrate his sixty-fourth birthday April 23",
+      "date": "1903-04",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen planned to marry Mrs. Tillie Hartgrove of St. Louis on his 64th birthday, April 23; she is described as a 31-year-old (printed as '[3]1-year-old').",
+      "excerpt": "planning to celebrate his sixty-fourth birthday April 23, by taking unto himself a [3]1-year-old bride",
+      "date": "1903-04-23",
+      "date_precision": "day",
+      "people": ["Tillie Hartgrove"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Allen had been ill since last Christmas, from an illness from which he was now convalescing.",
+      "excerpt": "an illness which began last Christmas, and from which he is only now convalescing",
+      "date": "1902-12",
+      "date_precision": "month",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Age is printed '[3]1' (OCR); 198 gives Mrs. Hartgrove as about 31, so 31 is likely. Short wire-style item; the same news as 197."
+}

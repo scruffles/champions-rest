@@ -1,0 +1,41 @@
+{
+  "id": "185",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was an old-time prize fighter who at one time held the heavy-weight championship of the world.",
+      "excerpt": "an old-time prize fighter, at one time heavy-weight championship of the world",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was under arrest at the Four Courts, St. Louis, charged with murder.",
+      "excerpt": "is under arrest at the 'four courts, charged with murder.",
+      "date": "1899-02-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Four Courts, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen shot Tom Coupry, who was later named in the report as the man Allen shot.",
+      "excerpt": "charged with murder. Tom Coupry, whom Allen shot",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Tom Coupry"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Fragment only (the text is cut off after 'whom Allen shot'). Printed as Tom Coupry."
+}

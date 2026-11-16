@@ -1,0 +1,30 @@
+{
+  "id": "805",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place at 619 Market Street offered a free concert every evening.",
+      "excerpt": "the worid, 619 Market street. Free concert\nevery e¢vening.",
+      "date": "1890-12-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "A notice advertised Tom Allen as the retired champion pugilist of the world.",
+      "excerpt": "ToM ALLEN, retfred champion pugilist of\nthe worid, 619 Market street.",
+      "date": "1890-12-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. 'Saloon' comes from the title; the notice does not use the word."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "863",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Charlie Gallagher defeated Tom Allen in the first of two meetings between them.",
+      "excerpt": "who met Tom Allen twice, fefeating him the first time.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charlie Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charlie Gallagher met Tom Allen a second time; the result of that meeting is not given.",
+      "excerpt": "He also trained Charlie Gallagher, who met Tom Allen twice, fefeating him the first time.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charlie Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charlie Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "who met Tom Allen twice, fefeating him the first time.",
+      "reported_as": "recollection",
+      "notes": "First of two meetings; no date, place or details given."
+    },
+    {
+      "opponent": "Charlie Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "He also trained Charlie Gallagher, who met Tom Allen twice, fefeating him the first time.",
+      "reported_as": "recollection",
+      "notes": "Second of two meetings; the result is not given."
+    }
+  ],
+  "notes": "The article is about Dublin Tricks, who trained McCoole and Gallagher; the Allen content is the two Gallagher bouts."
+}

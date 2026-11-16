@@ -1,0 +1,78 @@
+{
+  "id": "333",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen had an appointment to meet Mike McCoole to make arrangements for another fight, but did not come.",
+      "excerpt": "meet Mike McCoole, tor the purpose of making",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "A dispatch told Tom Allen that an old sweetheart he had left in England was on her way to join him and would meet him at Vincennes.",
+      "excerpt": "jg received a dispatch from an old sweetheart",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Vincennes, Indiana"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "As the Cincinnati Gazette reported, Tom Allen's English sweetheart went with him to St. Louis to find a church and a minister to marry them.",
+      "excerpt": "proceeded with him to St. Louis in search of",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to St. Louis instead of appearing in Cincinnati, in response to a telegram.",
+      "excerpt": "He returned to St. Louis instead, in respon-e",
+      "date": "1869-06-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis", "Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had a recent fight with Mike McCoole, which settled the matter with McCoole.",
+      "excerpt": "fight settled the business, not only with Mike,",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "McCoole",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "fight settled the business, not only with Mike,",
+      "reported_as": "report",
+      "notes": "Mentioned in passing; result not stated. Printed as 'Mike', the same McCoole."
+    }
+  ],
+  "notes": "The sweetheart and Cincinnati Gazette material is a press report of a courtship and conflicts with the paper's June 30 report of an exhibition at Vincennes. The 'matrimonial ring has been formed' claim is the paper's gossip, not a recorded marriage. Hint about the appointment is supported."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "899",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen was one of Charley Mitchell's seconds at Jacksonville.",
+      "excerpt": "was ones of Charley Mitchell's seconds at Jacksonville",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": ["Charley Mitchell"],
+      "places": ["Jacksonville"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to St. Louis from Jacksonville.",
+      "excerpt": "seconds at Jacksonville, returned to St. Louis yester-",
+      "date": "1894-01-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Jacksonville", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "He had not thes to hold his own with Corbett.",
+      "topic": "Mitchell's showing against Corbett"
+    }
+  ],
+  "fights": [],
+  "notes": "Short OCR-damaged item. The Jacksonville date is not in the text (the hint's 1894-01-25 is not used). The quote is partly garbled ('thes')."
+}

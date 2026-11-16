@@ -1,0 +1,30 @@
+{
+  "id": "933",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "An advertisement for 619 Market street, St. Louis (name cut off in the OCR, presumably Tom Allen's place) offered a free concert every evening.",
+      "excerpt": "retired champion pugilist of the world, 619 Market street. Free concert every evening.",
+      "date": "1896-06-13",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "A notice (name cut off in the OCR, presumably Tom Allen) called its subject a retired champion pugilist of the world.",
+      "excerpt": "retired champion pugilist of the world, 619 Market street.",
+      "date": "1896-06-13",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement with the name cut off at the start of the OCR. Attribution to Allen rests on the address and wording, matching the ads in other issues."
+}

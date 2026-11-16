@@ -1,0 +1,52 @@
+{
+  "id": "658",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Richard K. Fox deposited $1,000 with Harry Hill and issued a challenge on behalf of Tom Allen.",
+      "excerpt": "Richard.K. Fox has deposited with Harry\nHiil $1,000, and issued a challenge, offering",
+      "date": "1882-10-30",
+      "date_precision": "day",
+      "people": ["Richard K. Fox", "Harry Hill"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Fox offered to back Tom Allen to fight any pugilist, John L. Sullivan preferred, for the championship of the world.",
+      "excerpt": "to back Tem Allen, ex-champion of America,\nto fight any pugilist, John 8S. Sullivan pre-",
+      "date": "1882-10-30",
+      "date_precision": "day",
+      "people": ["Richard K. Fox", "John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The proposed match was for $1,000 to $2,500 a side, within 100 miles of New Orleans, within three months after signing articles.",
+      "excerpt": "$1,000 to $2,500 a side, within 100 miles of\nNew Orleans, within three months after sign-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The paper described Tom Allen as the ex-champion of America.",
+      "excerpt": "offering\nto back Tem Allen, ex-champion of America,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Offer only; the article reports no acceptance. 'Tem Allen' is OCR for Tom Allen."
+}

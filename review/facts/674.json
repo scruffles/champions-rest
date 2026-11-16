@@ -1,0 +1,19 @@
+{
+  "id": "674",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen had a memorable set-to with Tom Kelly at the old Theatre Comique some years before 1882.",
+      "excerpt": "his memorable set-to with Tem Alien at the oid Theatre Comique some years ago",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tom Kelly"],
+      "places": ["Theatre Comique"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only mention of Allen is the past set-to with Kelly (printed 'Tem Alien'). The text does not say whether it was a contest or sparring."
+}

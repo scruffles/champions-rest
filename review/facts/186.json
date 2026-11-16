@@ -1,0 +1,52 @@
+{
+  "id": "186",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "A grand jury indicted Tom Allen for murder in the killing of Tim Confoy.",
+      "excerpt": "Pugilist Tom Allen were indicted for murder Wednesday afternoon",
+      "date": "1899-05-03",
+      "date_precision": "day",
+      "people": ["Tim Confoy", "Jack Williams"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was a former champion pugilist.",
+      "excerpt": "Tom Allen, Former Champion Pugilist, and Ex-Detective Jack Williams",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jack Williams"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen shot Tim Confoy to death in his saloon during a quarrel.",
+      "excerpt": "Allen shot Tim Confoy to death in h's Saloon recently during a quarrel.",
+      "date": "1899-02",
+      "date_precision": "month",
+      "people": ["Tim Confoy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "After a preliminary hearing in the Court of Criminal Correction, Allen was discharged on a plea of self-defense.",
+      "excerpt": "arrested and given a preliminary hearing in the Court of Criminal Correction, after which he was discharged, his plea being self-defense.",
+      "date": "1899",
+      "date_precision": "year",
+      "people": [],
+      "places": ["Court of Criminal Correction, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The grand jury indicted Allen; the paper does not give the date of the preliminary hearing. Williams is part of this article but not part of Allen's record."
+}

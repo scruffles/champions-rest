@@ -1,0 +1,30 @@
+{
+  "id": "687",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Morris O'Connell faced each other in the ring at Kelly's during O'Connell's farewell benefit.",
+      "excerpt": "Tom Allen and O’Connell faced\nyjther, after being greeted with cheers",
+      "date": "1883-02-21",
+      "date_precision": "day",
+      "people": ["Morris O'Connell"],
+      "places": ["Kelly's, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Morris O'Connell sparred three rounds, which ended the evening's programme.",
+      "excerpt": "Three rounds concluded their it\nnee and ended the programme",
+      "date": "1883-02-21",
+      "date_precision": "day",
+      "people": ["Morris O'Connell"],
+      "places": ["Kelly's, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Friendly sparring exhibition, no contest. Same benefit as 686 and 689. Garbled OCR in places."
+}

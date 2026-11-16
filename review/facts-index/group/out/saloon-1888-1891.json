@@ -1,0 +1,96 @@
+{
+  "bucket": "saloon-1888-1891",
+  "facts": [
+    {
+      "fact": "The day after the Flint fight, on 17 April 1888, a Post-Dispatch reporter interviewed Tom Allen at his saloon.",
+      "date": "1888-04-17",
+      "seed": "",
+      "conflict": "",
+      "claims": ["242.c14"]
+    },
+    {
+      "fact": "In May 1888 Tom Allen opened a boxing school at 619 Market Street, with a boxing ring in his saloon, joining a popular craze; it was to open that night with the finest singing in the city.",
+      "date": "1888-05-19",
+      "seed": "",
+      "conflict": "",
+      "claims": ["757.c1", "758.c1"]
+    },
+    {
+      "fact": "On 20 May 1888 Tom Allen's saloon closed at 12:40 a.m. under the midnight closing of the Sunday law; a policeman came in after midnight, spoke to the bartender, and the company in the back room broke up, while a bouncer knocked down a big man who objected to leaving and Allen led the bleeding man out.",
+      "date": "1888-05-20",
+      "seed": "",
+      "conflict": "",
+      "claims": ["129.c1", "129.c2", "129.c3"]
+    },
+    {
+      "fact": "In June 1888 Tom Allen kept a free-and-easy on Market Street, St. Louis.",
+      "date": "1888-06-18",
+      "seed": "",
+      "conflict": "",
+      "claims": ["130.c6"]
+    },
+    {
+      "fact": "On 20 January 1890 James St. John fell asleep in Tom Allen's saloon at 619 Market Street, St. Louis.",
+      "date": "1890-01-20",
+      "seed": "",
+      "conflict": "",
+      "claims": ["137.c1"]
+    },
+    {
+      "fact": "From February to August 1890 Tom Allen's saloon at 619 Market Street advertised a free concert every evening, with the best singers engaged.",
+      "date": "1890-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["779.c2", "781.c2", "782.c2", "783.c2", "784.c2", "785.c2", "787.c2", "788.c2", "789.c2", "790.c2"]
+    },
+    {
+      "fact": "On 25 July 1890 Lem McGregor knocked Tom Allen down in Tom Allen's saloon after a quarrel, and punished him to a considerable extent.",
+      "date": "1890-07-25",
+      "seed": "",
+      "conflict": "",
+      "claims": ["786.c1"]
+    },
+    {
+      "fact": "From September to December 1890 Tom Allen's place at 619 Market Street advertised a free concert every evening, with only the best singers engaged.",
+      "date": "1890-09-06",
+      "seed": "",
+      "conflict": "address: 794.c2 (Oct 1890, low) prints 519 instead of 619; 791.c2 and 792.c2 print the street name garbled (low)",
+      "claims": ["791.c2", "792.c2", "793.c2", "794.c2", "796.c2", "798.c2", "799.c2", "801.c2", "803.c2", "805.c1"]
+    },
+    {
+      "fact": "On 13 October 1890 Tom Allen was described as a saloon-keeper on Market Street.",
+      "date": "1890-10-13",
+      "seed": "",
+      "conflict": "",
+      "claims": ["795.c2"]
+    },
+    {
+      "fact": "From January to July 1891 Tom Allen's place at 619 Market Street advertised free concerts every evening with the best singers only.",
+      "date": "1891-01-10",
+      "seed": "",
+      "conflict": "address: 817.c1 (March 1891, low) is garbled to '$15 heres street'",
+      "claims": ["807.c1", "811.c1", "812.c1", "814.c1", "815.c1", "817.c1", "818.c1", "819.c1", "820.c1"]
+    },
+    {
+      "fact": "In June 1891 Tom Allen kept a saloon on Market Street near Seventh Street in St. Louis.",
+      "date": "1891-06-24",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["138.c1"]
+    },
+    {
+      "fact": "From August to December 1891 Tom Allen's place at 619 Market Street advertised a free concert every evening, with only the best singers engaged.",
+      "date": "1891-08-15",
+      "seed": "",
+      "conflict": "address: 824.c1 (Oct 1891, low) prints 'No. G19 Market street'; 822.c1 and 823.c1 are garbled (low)",
+      "claims": ["821.c1", "822.c1", "823.c1", "824.c1", "825.c1", "826.c1", "827.c1", "828.c1", "829.c1", "830.c1"]
+    },
+    {
+      "fact": "In December 1891 Tom Allen ran a saloon on Market Street, in the same block as a saloon owned by Tom Kelly, a former middleweight champion.",
+      "date": "1891-12-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["140.c2", "140.c3"]
+    }
+  ]
+}

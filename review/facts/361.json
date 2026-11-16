@@ -1,0 +1,95 @@
+{
+  "id": "361",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Charley Gallagher on 17 August 1869.",
+      "excerpt": "fight with Charlie Gallagher, un the 17th inst.,",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Riley said that in the fifth round Allen punished Gallagher severely and that Gallagher was at Allen's mercy until the last round.",
+      "excerpt": "In this round Allen hit Gallagher where, and as often as he wanted to, punishing nim",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Riley said Kelly, Gallagher's second, threw up the sponge as a token of Gallagher's defeat.",
+      "excerpt": "This was, 1 consider, a token of the defeat",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Kelly", "Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Riley said referee Larry Wessells told Allen and Riley that Allen had won the fight.",
+      "excerpt": "said yes. Mr. Alien alse asked him, and he gave the",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Larry Wessells"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Riley said Gallagher struck Allen on the cheek after Allen offered to shake hands.",
+      "excerpt": "struck at Allen, the blow catching him on the cheek",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Riley told Allen to leave the ring because the crowd would murder him.",
+      "excerpt": "or he would be murdered by the rough crowd.",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Shake hands, Charlie; Ive gut the best of you to-day.",
+      "topic": "to Gallagher after the sponge was thrown up"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "fight with Charlie Gallagher, un the 17th inst.,",
+      "reported_as": "report",
+      "notes": "Riley's account as Allen's second; the referee later declared the fight a draw on 1869-08-20."
+    }
+  ],
+  "notes": "Partisan account by Allen's second, written 1869-08-17 and printed 1869-08-26. Riley's account of the referee's decision is contradicted by the later draw."
+}

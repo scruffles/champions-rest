@@ -1,0 +1,74 @@
+{
+  "id": "175",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Denver Ed Smith was at Tom Allen's place in St. Louis on the morning of 1897-06-14, where he shook hands with Allen and had breakfast.",
+      "excerpt": "After shaking hands with Allen, the ex-heavy weight world’s champion, and getting breakfast, Smith went to bed.",
+      "date": "1897-06-14",
+      "date_precision": "day",
+      "people": ["Denver Ed Smith"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Denver Ed Smith and Ike Weir had taken up quarters at Tom Allen's place while looking for fights.",
+      "excerpt": "Tom Allen’s place, where they have taken up quarters",
+      "date": "1897-06-14",
+      "date_precision": "day",
+      "people": ["Denver Ed Smith", "Ike Weir"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Ike Weir, the Belfast Spider, was also staying at Tom Allen's place.",
+      "excerpt": "The Spider is also staying at Tom Allen’s place,",
+      "date": "1897-06-14",
+      "date_precision": "day",
+      "people": ["Ike Weir"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Pat Smith, brother of Denver Ed Smith, came from Chicago and also put up at Tom Allen's place.",
+      "excerpt": "came over from Chicago, also putting up at Tom Allen’s.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Pat Smith", "Denver Ed Smith"],
+      "places": ["Chicago", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he would back Denver Ed Smith if Smith could get a fight with any of the big heavyweights.",
+      "excerpt": "the latter will back him if he can get a scrap on with any of the big fellows.",
+      "date": "1897-06",
+      "date_precision": "month",
+      "people": ["Denver Ed Smith"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was the ex-heavyweight world's champion.",
+      "excerpt": "the ex-heavy weight world’s champion",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Smith's training plans, Hot Springs trip and Ike Weir's match with Charley Daly are not about Allen; left out. The 'training in St. Louis' point is in article 174 instead."
+}

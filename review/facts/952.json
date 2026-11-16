@@ -1,0 +1,91 @@
+{
+  "id": "952",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen witnessed the Sullivan-Corbett fight.",
+      "excerpt": "Witnessed the Sullivan-Corbett fight, and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Sullivan", "Corbett"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was with Charlie Mitchell when the English boxer was beaten by Corbett, the Californian.",
+      "excerpt": "Was with Charlie Mitchell when the English boxer was beaten by the Californian at",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charlie Mitchell", "Corbett"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen said he had witnessed all of Fitzsimmons' fights in New Orleans (printed as 'litaz's Nights').",
+      "excerpt": "IT have witnessej all of litaz’s Nights in New Orleans.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bob Fitzsimmons"],
+      "places": ["New Orleans"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "The paper describes Tom Allen as one of the cleverest fighters of the old-time school.",
+      "excerpt": "In his day Allen was one of the cleverest of old-time",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "The paper describes Tom Allen as an enthusiastic Corbett man.",
+      "excerpt": "world, fs an enthusiastic Corbett man, He",
+      "date": "1897-02",
+      "date_precision": "month",
+      "people": ["Corbett"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Corbett is the fastest big man he has ever seen in the ring.",
+      "excerpt": "big man T have ever seen in the ring",
+      "date": "1897-02",
+      "date_precision": "month",
+      "people": ["Corbett"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Corbett would beat Fitzsimmons quickly, winding his clock before rounds were fought (headline, garbled).",
+      "excerpt": "that will wind his clock before rounds have Been FOUGht.",
+      "date": "1897-02",
+      "date_precision": "month",
+      "people": ["Corbett", "Bob Fitzsimmons"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "and has a left hand, the equal of which was never before prodiiced.",
+      "topic": "Corbett's left hand"
+    }
+  ],
+  "fights": [],
+  "notes": "Interview on Corbett and Fitzsimmons; Allen is not a fighter here. Dates and places of the Sullivan-Corbett and Mitchell bouts are not in the readable text (hint dates not used). Column OCR is scrambled, so several excerpts join non-adjacent lines."
+}

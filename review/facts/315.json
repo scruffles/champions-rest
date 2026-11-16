@@ -1,0 +1,45 @@
+{
+  "id": "315",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole agreed to fight within fifty miles of St. Louis on the 15th of next month (printed as 'i5th prox.').",
+      "excerpt": "the fight is to come off within fifty miles of St. Louis, on the i5th prox.,",
+      "date": "1869-05-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "The winner of the Allen and McCoole fight was to receive the stakes and excursion money.",
+      "excerpt": "winning man to receive stakes and excursion money.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-05-15",
+      "date_precision": "day",
+      "place": "within fifty miles of St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "stakes and excursion money to the winner",
+      "rules": "",
+      "excerpt": "the fight is to come off within fifty miles of St. Louis, on the i5th prox.,",
+      "reported_as": "report",
+      "notes": "Planned date from '15th prox.' (printed i5th). Other papers of the period give June 15 for this fight."
+    }
+  ],
+  "notes": "Only the match terms concern Allen. McCoole's training and the Danish land item are not about Allen."
+}

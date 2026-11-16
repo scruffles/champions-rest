@@ -1,0 +1,110 @@
+{
+  "bucket": "challenge-1869-p1",
+  "facts": [
+    {
+      "fact": "Tom Allen issued a boasting challenge that he could whip any man in the world, and Jem Mace accepted it.",
+      "date": "1869",
+      "seed": "",
+      "conflict": "",
+      "claims": ["235.c10"]
+    },
+    {
+      "fact": "Tom Allen and Charley Gallagher agreed to a London prize ring fight for 23 February 1869, with articles drawn up and forfeits posted.",
+      "date": "1869-01-12",
+      "seed": "",
+      "conflict": "outcome: 386.c1 (medium) says the February fight did not come off, while 009.c9 and 010.c2 treat it as fought; opponent: Tom Allen or Tom Kelly/Kelley (007.c8, 303.c20, 303.c21) vs Charley Gallagher (other claims); stake: $500 a side (303.c20, 305.c1) vs $1,000 (303.c19) vs $500 or $2,000 (007.c8)",
+      "claims": ["007.c8", "303.c19", "303.c20", "303.c21", "305.c1", "305.c2", "306.c1", "306.c2", "386.c2", "386.c1"]
+    },
+    {
+      "fact": "Tom Allen said he would fight any man in the country who disputed his claim, for any purse the challenger named.",
+      "date": "1869-01-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["235.c3"]
+    },
+    {
+      "fact": "In late February 1869 Tom Allen challenged Charley Gallagher to a rematch.",
+      "date": "1869-02-23",
+      "seed": "",
+      "conflict": "Gallagher's response: refused (307.c7, medium) vs agreed to an immediate rematch at McCoole's (309.c1) and would accept Allen's published challenge (309.c4); 009.c9 says nothing definite was arranged, but 309.c2 says a forfeit was put up for a $1,000 match",
+      "claims": ["009.c9", "010.c2", "010.c3", "307.c6", "307.c7", "307.c8", "309.c1", "309.c2", "309.c3", "309.c4"]
+    },
+    {
+      "fact": "Tom Allen kept demanding another fight, saying he was able and willing to fight any man in America.",
+      "date": "1869-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["311.c1"]
+    },
+    {
+      "fact": "On 6 March 1869 at a Chestnut Street saloon, Tom Allen and Mike McCoole agreed to a $1,000 wager, with a $50 forfeit that Allen covered.",
+      "date": "1869-03-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["311.c2", "311.c3", "313.c1", "311.c4"]
+    },
+    {
+      "fact": "On 8 March 1869 Tom Allen and Mike McCoole agreed to withdraw the stakes on their match and postpone the fight.",
+      "date": "1869-03-08",
+      "seed": "",
+      "conflict": "313.c2 (low, Allen's account) says McCoole refused the $500 balance and insisted on $3,000 against $2,500; 312.c1 says both agreed to postpone",
+      "claims": ["312.c1", "313.c2"]
+    },
+    {
+      "fact": "In March 1869 Tom Allen challenged Mike McCoole to fight for $2,500 a side within three months, and Billy Carroll proposed London prize ring terms for the match.",
+      "date": "1869-03-12",
+      "seed": "",
+      "conflict": "name: 'Bill McCoole' (262.c3, retro, published 1978) vs Mike McCoole (other claims)",
+      "claims": ["011.c3", "313.c3", "313.c4", "278.c1", "278.c2", "278.c3", "262.c3"]
+    },
+    {
+      "fact": "Patsy Reardon challenged Tom Allen in March 1869 to a bout in the twenty-four-foot arena, and Allen answered with a counter-challenge with provisos.",
+      "date": "1869-03-24",
+      "seed": "",
+      "conflict": "",
+      "claims": ["314.c1", "314.c2"]
+    },
+    {
+      "fact": "Tom Allen and Mike McCoole signed articles for a London prize ring fight for $1,000 a side, after Allen agreed to a long delay so McCoole could train.",
+      "date": "1869-04-16",
+      "seed": "",
+      "conflict": "articles: 16 April 1869 at the Broad Gauge saloon, within fifty miles of St. Louis, plus excursion money (465.c22, retro) vs May 1869 for a fight on 15 June 1869 (093.c8, retro)",
+      "claims": ["012.c3", "465.c22", "093.c8"]
+    },
+    {
+      "fact": "In June 1869 Tom Allen refused a return match with Mike McCoole near St. Louis, and the two exchanged challenges while a renewal was being worked on.",
+      "date": "1869-06",
+      "seed": "",
+      "conflict": "venue for a return match: within 50 to 100 miles of St. Louis (325.c4, low) vs at least 200 miles away (324.c8) vs not inside 399 miles (325.c2, printed 399) vs Kentucky about 300 miles east (326.c6)",
+      "claims": ["325.c4", "326.c9", "325.c3", "326.c5", "326.c6", "326.c8", "324.c8", "325.c2", "329.c1"]
+    },
+    {
+      "fact": "Tom Allen had an appointment to meet Mike McCoole to make arrangements for another fight in June 1869, but did not come.",
+      "date": "1869-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["333.c1"]
+    },
+    {
+      "fact": "Tom Allen offered to fight Charley Gallagher for $2,500 to $1,500, and a meeting was fixed for 17 August 1869.",
+      "date": "1869-07",
+      "seed": "",
+      "conflict": "place: Chouteau's Island (245.c7, medium, retro) and 326.c7 (any place a respectable distance from St. Louis) vs within fifty miles of Cincinnati (336.c8)",
+      "claims": ["909.c13", "245.c7", "235.c5", "326.c7", "336.c7", "336.c8", "017.c1"]
+    },
+    {
+      "fact": "Tom Allen said he was willing to fight any man in America for a purse of $1,000 to $5,000.",
+      "date": "1869-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["336.c6"]
+    },
+    {
+      "fact": "Ben Hogan of Titusville, Pennsylvania, challenged Tom Allen to a London prize ring fight for $1,000 and the boat money, to take place in Canada West three months after articles are signed.",
+      "date": "1869-07-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["342.c3"]
+    }
+  ]
+}

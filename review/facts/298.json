@@ -1,0 +1,12 @@
+{
+  "id": "298",
+  "claims": [
+    {"kind": "fight", "statement": "Tom Allen of Cleveland, Ohio, and Bill Davis agreed a match for $1,000 a side under the English prize ring rules, to be fought 40 to 60 miles from St. Louis within five to six weeks.", "excerpt": "that the match be fur $1,000 « side. and fought according to the latest established", "date": "1869-01", "date_precision": "month", "people": ["Bill Davis"], "places": ["St. Louis"], "retrospective": false, "confidence": "medium"},
+    {"kind": "other", "statement": "Tom Allen's friends at the making of the match were Harry Slade and Bill Ryall.", "excerpt": "Tom Allen’s trtends were Harry Slade and Bil!", "date": "1868-12-04", "date_precision": "day", "people": ["Harry Slade", "Bill Ryall"], "places": ["St. Louis"], "retrospective": false, "confidence": "medium"}
+  ],
+  "quotes": [],
+  "fights": [
+    {"opponent": "Bill Davis", "date": "1869-01", "date_precision": "month", "place": "40 to 60 miles from St. Louis (not decided)", "result": "unknown", "rounds": "", "duration": "", "stakes": "$1,000 a side, plus the ticket proceeds", "rules": "English prize ring, latest established rules", "excerpt": "that the match be fur $1,000 « side. and fought according to the latest established", "reported_as": "report", "notes": "Match made, not yet fought. The 'five to six weeks' is counted from December 4, 1868. Davis is called 'of California' and Allen 'of Cleveland, Ohio'."}
+  ],
+  "notes": "The Davis-Ryall match that fell through, the Ryall saloon, and the Looney Butcher's Exchange are not about Allen. Deposits with John Looney are not recorded."
+}

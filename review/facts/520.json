@@ -1,0 +1,78 @@
+{
+  "id": "520",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and George Rooke were expected to fight on Thursday, June 17, 1875, within fifty miles of Pittsburg.",
+      "excerpt": "take place next Thursday week, within fifty\nmiles of Pittsburg",
+      "date": "1875-06-17",
+      "date_precision": "day",
+      "people": ["George Rooke"],
+      "places": ["Pittsburg"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "The Allen-Rooke fight was for the championship of America.",
+      "excerpt": "thampionship of America, between Tom Allen, of",
+      "date": "1875-06-17",
+      "date_precision": "day",
+      "people": ["George Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The last deposit for the Allen-Rooke fight was put up at Harry Hill's in New York on June 1, 1875, with Rooke present in person.",
+      "excerpt": "The last deposit was put up at\nHarry Hill’s, in New York, on the ist, Rooke",
+      "date": "1875-06-01",
+      "date_precision": "day",
+      "people": ["Harry Hill", "George Rooke"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Arthur Chambers, acting for Allen, won the toss for choice of fighting ground.",
+      "excerpt": "toss for the choice of the fighting ee was won\nby Arthur Chambers, on behalf of the St. Lonisan",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": ["Arthur Chambers"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Arthur Chambers and Billy Edwards attended to Allen's interests at the final deposit.",
+      "excerpt": "resent in person, while -Arthur Chambers an\nBilly Edwards attéeded to Alien’s interests",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": ["Arthur Chambers", "Billy Edwards", "George Rooke"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "George Rooke",
+      "date": "1875-06-17",
+      "date_precision": "day",
+      "place": "within fifty miles of Pittsburg",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "take place next Thursday week, within fifty\nmiles of Pittsburg",
+      "reported_as": "report",
+      "notes": "Planned for the championship of America; the article anticipates it, and the outcome is not given. Date is worked out from 'Thursday week'."
+    }
+  ],
+  "notes": "Date 'Thursday week' is worked out from the paper dated Wednesday 1875-06-09. Stakes not given. Hint's dates match the text."
+}

@@ -1,0 +1,68 @@
+{
+  "id": "443",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen said he had returned to St. Louis from the Mace-Coburn fight the day before.",
+      "excerpt": "Returned yesterday. Dian’t slay louz fter it was over.",
+      "date": "1871-12-03",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "A reporter interviewed Tom Allen at his popular Washington avenue resort.",
+      "excerpt": "Mr Allen was fducd in his popular Wash-",
+      "date": "1871-12-04",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Washington avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he claimed a foul for Mace at the fight, but the referee would not listen.",
+      "excerpt": "Did you clatin tt ? Yes, but the referee wouldn’t listen",
+      "date": "1871-11-30",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "A man pulled a revolver on Tom Allen at the Mace-Coburn fight and told him to shut up (printed as puiled a rmevoiver).",
+      "excerpt": "One fellow puiled a rmevoiver on me, and.",
+      "date": "1871-11-30",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Well, if Mace hadu’t br«ke bis band in| the irst round, he’d made short work of ‘‘the Roman.’?",
+      "topic": "Mace's broken hand in the first round"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "Coburp, and it he jhai toitowed Mace a halt our longer he would hkve won even witout strik ng & b'ow, for Mace was mearlly goze trom coid",
+      "topic": "Coburn the better man at the end"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I den’t beiieve it, Al Smita thinks 39? Well, I had more money on Mace than he. I don?t Hink Msce would’throw iis backers 50.",
+      "topic": "denies the fight was fixed"
+    }
+  ],
+  "fights": [],
+  "notes": "Interview in the Globe-Democrat, printed December 5, 1871. Return date inferred from Allen's 'yesterday' and the interview day. The reporter calls Allen Mace's 'whilom antagonist' but no bout is described, so no fight entry. Remarks about gate money, the referee and other fighters are not Allen facts. OCR is heavily garbled."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "217",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tillie Hartgrove, housekeeper for the late Tom Allen, says the silk hat worn by 'Lord' Barrington is the property of the Allen estate.",
+      "excerpt": "ton’ s silk tile is the property of the Allen",
+      "date": "1903-07",
+      "date_precision": "month",
+      "people": ["Tillie Hartgrove", "Barrington"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only the hat claim concerns Allen. Gillespie's claim to have loaned the hat, and Barrington's denial, are not about Allen and are omitted. OCR garbled in places."
+}

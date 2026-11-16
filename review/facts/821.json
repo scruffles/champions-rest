@@ -1,0 +1,30 @@
+{
+  "id": "821",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen ran a free and easy at 619 Market Street, St. Louis, with only the best singers engaged.",
+      "excerpt": "Market street. Free and easy; best oi sing-",
+      "date": "1891-08-15",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as a retired champion pugilist (printed as 'retired champion_puzgilist').",
+      "excerpt": "Sporting Notes. ee ToM ALLEN, retired champion_puzgilist, 619 Market street",
+      "date": "1891-08-15",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only; no direct speech. Notice date used as the date. Hint consistent with text."
+}

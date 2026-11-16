@@ -1,0 +1,30 @@
+{
+  "id": "586",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "The Theatre Comique advertised Tom Allen and Jem Mace in a grand boxing match on Tuesday and Wednesday, October 24 and 25, 1876.",
+      "excerpt": "Tuesday and Wednesday—Tom Allen and Jem Mace in a grand Doxing match.",
+      "date": "1876-10-24",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The Theatre Comique advertised Tom Allen and Jem Mace as 'the Two Champions of the World' (printed as 'Twv').",
+      "excerpt": "TOM ALLEN and JEM MACE, the Twv Champions of the World",
+      "date": "1876-10-24",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement, not Allen's own words. Title wording is an advertising claim, not a recognised title."
+}

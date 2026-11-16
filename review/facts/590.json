@@ -1,0 +1,19 @@
+{
+  "id": "590",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen's bond was forfeited when he did not appear to answer a Kentucky prize-fighting charge, and his sureties petitioned the Governor of Kentucky for a reduction of the amount.",
+      "excerpt": "Tue sureties on Tom Allen's bond, forfeitea by his not appearing to answer the charge of",
+      "date": "1876-11",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint 1 kept. Hint 2 (the fine of 'Blackey' Edwards) is about Edwards, not Allen, so dropped. The article gives no date for the forfeit; 1876-11 comes from article 587's trial date of November 20."
+}

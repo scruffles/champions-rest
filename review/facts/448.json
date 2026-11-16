@@ -1,0 +1,19 @@
+{
+  "id": "448",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen left St. Louis for Detroit with Jack Looney and two or three others to see the Mace and O'Baldwin fight.",
+      "excerpt": "boarded the Toledo, Wabash and Western train last evenirg,; for Detroit.",
+      "date": "1872-09-01",
+      "date_precision": "day",
+      "people": ["Jack Looney", "Jem Mace", "Ned O'Baldwin"],
+      "places": ["St. Louis", "Detroit"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "No fight for Allen: the Mace and O'Baldwin bout is not his, and the article says the fight was reported but not confirmed. Hint matches the text."
+}

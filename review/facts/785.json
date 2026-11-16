@@ -1,0 +1,30 @@
+{
+  "id": "785",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as the retired champion pugilist of the world.",
+      "excerpt": "ToM ALLEN, retired champion pugilist of\n\nthe world",
+      "date": "1890-07-12",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Marketstreet"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon at 619 Market Street advertised a free concert every evening, with only the best singers engaged.",
+      "excerpt": "619 Marketstreet. Free concert\n\nevery evening. Best of singers only en-\n\ngaged.",
+      "date": "1890-07-12",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": ""
+}

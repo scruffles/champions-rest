@@ -1,0 +1,36 @@
+{
+  "id": "121",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered an unnamed man to meet Duncan C. Ross in a mounted or on-foot broadsword contest for $500 a side or a $1,000 stake.",
+      "excerpt": "pleased to mect Ross in a mounted contest or",
+      "date": "1886-09-30",
+      "date_precision": "day",
+      "people": ["Duncan C. Ross"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen deposited $200 with the Post-Dispatch as a forfeit to guarantee a sword match with Duncan C. Ross.",
+      "excerpt": "I will now deposit $200 with the PosT- DISPATCH",
+      "date": "1886-09-30",
+      "date_precision": "day",
+      "people": ["Duncan C. Ross"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "is ready to meet Koss at any time Ross wants him to, on a day’s notice, the sooner the better",
+      "topic": "his man ready to meet Ross"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen's man is unnamed in the text. Ross's own forfeit is not Allen's claim. OCR prints Ross as Koss in the quote; kept as printed."
+}

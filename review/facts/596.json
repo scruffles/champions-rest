@@ -1,0 +1,41 @@
+{
+  "id": "596",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "In March 1877 Tom Allen was in Canada, out of the way of those with warrants.",
+      "excerpt": "Tom Allen, the champion bruiser, is over in Canada, out of the way of those fellows with warrants",
+      "date": "1877-03",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Canada"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Warrants were out for Tom Allen, and he stayed in Canada to avoid them.",
+      "excerpt": "Tom Allen, the champion bruiser, is over in Canada, out of the way of those fellows with warrants",
+      "date": "1877-03",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Canada"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen claimed he could beat Joe Goss.",
+      "excerpt": "But he says he can lick Joe Goss.",
+      "date": "1877-03",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The boast is the paper's paraphrase, not a direct quote."
+}

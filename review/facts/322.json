@@ -1,0 +1,56 @@
+{
+  "id": "322",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was due to fight Mike McCoole in the ring on Tuesday, June 15, 1869.",
+      "excerpt": "will enter_ the ripg on Tuesday next against McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen had finished training near Cincinnati and was due to arrive in St. Louis on Saturday, June 12, 1869.",
+      "excerpt": "his training near Cieeineati, and will arrive in St. Lovis op Sututday (to-morrow)",
+      "date": "1869-06-12",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cincinnati", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was on Fifth Street near Biddle (printed as 'Filth' and 'Bid-die').",
+      "excerpt": "confining himself to his saloon, on Filth, near Bid-die",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Fifth Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "will enter_ the ripg on Tuesday next against McCoole",
+      "reported_as": "report",
+      "notes": "Planned bout; this article gives no place or result."
+    }
+  ],
+  "notes": ""
+}

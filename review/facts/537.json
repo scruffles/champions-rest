@@ -1,0 +1,19 @@
+{
+  "id": "537",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "The Theater Comique announced a benefit performance for Tom Allen on Thursday evening, March 30, 1876, at which the champion would appear.",
+      "excerpt": "On Thursday evening a performance will be givenior the benefit of Tom Allen",
+      "date": "1876-03-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Theater Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The rest of the page is unrelated theatre and hotel news."
+}

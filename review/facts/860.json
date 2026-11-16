@@ -1,0 +1,34 @@
+{
+  "id": "860",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss for the championship of America in Kentucky, a few years before this article.",
+      "excerpt": "A few years before he had fought Tem Allen for the championship of America, the fight taking place in Kentucky",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Kentucky",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "championship of America",
+      "rules": "",
+      "excerpt": "A few years before he had fought Tem Allen for the championship of America, the fight taking place in Kentucky",
+      "reported_as": "recollection",
+      "notes": "Result not given in this text (857 says Goss won the title from Allen). Text is cut at the start, so the fighter who 'easily floored' Goss earlier is not identified and is not credited to Allen. Date not given (hint said 1876, unverified here)."
+    }
+  ],
+  "notes": "Only the Allen fight is about Tom Allen. Name printed as Tem Allen."
+}

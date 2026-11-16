@@ -1,0 +1,41 @@
+{
+  "id": "437",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen and Jem Mace were due to arrive from Kansas City that morning.",
+      "excerpt": "Tom Allen, accompanied by Jin Mace, will arrive this morning irom Kansas City",
+      "date": "1871-06-03",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Kansas City"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen had a concert saloon at 417 Washington avenue.",
+      "excerpt": "Tom ALLEN’s Concert Saloon, 417 Washington avenue",
+      "date": "1871-06-03",
+      "date_precision": "day",
+      "people": [],
+      "places": ["417 Washington avenue"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen and Jem Mace were to meet their friends at Allen's free-and-easy at the saloon that night.",
+      "excerpt": "will be happy to meet their friends at Tom’s Free-and-easy to-night",
+      "date": "1871-06-03",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["417 Washington avenue"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Two short notices. The steamboat sale notice is unrelated."
+}

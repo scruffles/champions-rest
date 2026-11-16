@@ -1,0 +1,30 @@
+{
+  "id": "104",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "On Saturday night, May 19, 1883, a sport at Tom Allen's saloon told a reporter a good day's sport would be had at the cock main the next morning.",
+      "excerpt": "into Tom Allen’s saloon Saturday night,",
+      "date": "1883-05-19",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "A sport offered to take the reporter to the cock main if he met him at Tom Allen's saloon at about seven the next morning.",
+      "excerpt": "if you meet me at Tom Allen’s I",
+      "date": "1883-05-20",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only as the name of a saloon. The hint that the cock-fighting crowd arranged to meet there is not in the text; they met in Butchertown and went to Venice."
+}

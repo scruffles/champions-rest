@@ -1,0 +1,36 @@
+{
+  "id": "771",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Jake Kilrain would win his fight with John L. Sullivan.",
+      "excerpt": "Tom Allen said yesterday that Kilrain wouid\nwin.",
+      "date": "1889-07-07",
+      "date_precision": "day",
+      "people": ["Jake Kilrain", "John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen, Joe Coburn and Tom Kelly all agreed that Jake Kilrain would win the fight with John L. Sullivan.",
+      "excerpt": "A notable trio of the past age of pugilists\nare he e, Tom Allen, Joe Coburn and Tom\nKelly.",
+      "date": "1889-07-07",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Tom Kelly", "Jake Kilrain", "John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Heisagoodun,’’ said Tom, ‘‘or the big money would not be staked for him.",
+      "topic": "on Kilrain's chances against Sullivan"
+    }
+  ],
+  "fights": [],
+  "notes": "Hint that Allen was in New Orleans is not in the text; the article gives no place for him, so no travel claim. Allen does not fight in this article."
+}

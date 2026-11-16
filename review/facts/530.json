@@ -1,0 +1,125 @@
+{
+  "id": "530",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he had done nothing to bring Jem Mace forward with a challenge and had not heard from Mace in any official manner.",
+      "excerpt": "and that he has not heard\nfrom him in any. official manner whatever",
+      "date": "1875-12-25",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Jem Mace published a card announcing that he was coming to America to fight Allen for the championship of the world.",
+      "excerpt": "the card published by the\nformer, announcing that he was coming to Amer\nica for the purpose .of having a tussle with Aller",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen said he would not fight Mace in the East.",
+      "excerpt": "he was emphatic in the assertion that he would noi fight in\nthe Eust",
+      "date": "1875-12-25",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["East"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen said he was by no means loth to meet Mace in a twenty-four foot ring.",
+      "excerpt": "by no means loth to meet the\n‘Gypsy in a twenty-four foot ring",
+      "date": "1875-12-25",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen was willing to back himself for a sum (unreadable in the OCR) if Mace would fight in the Indian Territory or another Western or Southwestern region.",
+      "excerpt": "Mace will fight in the Indian Territory or some\nother Western or Southwestern region",
+      "date": "1875-12-25",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Indian Territory"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Last summer Rooke and the New York gang left Allen without an opponent on the day of a fight, and the stakeholder was enjoined from paying out the stakes.",
+      "excerpt": "at the hands of Rooke and the New York gang",
+      "date": "1875",
+      "date_precision": "approx",
+      "people": ["Rooke"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen and Jem Mace fought in New Orleans, and Mace was the victor.",
+      "excerpt": "since he\nand Mace participated in the New Orleans",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was to appear on the stage in a sensational play written for him, playing a 'rough diamond' who rescues the heroine, under the supervision of a leading actress.",
+      "excerpt": "appear on the stage in a play written express\nfor him",
+      "date": "1875-12-25",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "unknown",
+      "date": "1875",
+      "date_precision": "approx",
+      "place": "",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "at the hands of Rooke and the New York gang",
+      "reported_as": "recollection",
+      "notes": "Forfeit by the opponent: he did not appear on the day, and the stakes were enjoined. The opponent is not named; Rooke and the New York gang are named as the men who did it."
+    },
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "New Orleans, Louisiana",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "since he\nand Mace participated in the New Orleans",
+      "reported_as": "recollection",
+      "notes": "Result is inferred: the sporting man says Allen could 'turn the tables on the victor', meaning Mace won. The word before 'bag-ney' is garbled in the OCR and may not be a fight."
+    }
+  ],
+  "notes": "Mace's challenge and Allen's replies are the paper's account of Allen's statements. The Mace match was only proposed here, so it is a challenge, not a fight. The sporting man's opinion of the odds is left out."
+}

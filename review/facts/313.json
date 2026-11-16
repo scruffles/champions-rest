@@ -1,0 +1,63 @@
+{
+  "id": "313",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he had been matched to fight Mike McCoole on 6 March 1869.",
+      "excerpt": "I waa matched to fight bim on ihe 6th inst.",
+      "date": "1869-03-06",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "At the Broad Gauge saloon, McCoole refused to fight for the $500 balance of the deposit and insisted on $3,000 against $2,500, according to Allen.",
+      "excerpt": "McCoole refused to fight me for that sum and insisted on making a matcn with me for $3,000 against $2,500",
+      "date": "1869-03-08",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Broad Gauge saloon"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen challenged Mike McCoole to fight on McCoole's own ground for $2,500 a side within three months, with the money ready at William Carroll's, 510 Market Street.",
+      "excerpt": "give him his own ground tor $2, dollars a side, and ask no odds",
+      "date": "1869-03",
+      "date_precision": "month",
+      "people": ["Mike McCoole", "William Carroll"],
+      "places": ["510 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said this was the second time Mike McCoole had been matched to fight him and had backed out.",
+      "excerpt": "This ia the second tame McCoole was matched te fight me, and the second time he has backed out",
+      "date": "1869-03",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Being astranger in the city, and not UOTE that I could raise that sum, I could not give him s decided answer.",
+      "topic": "on the $3,000 demand"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I want no more bragging. If he can pyar: myself and Gallagher in one ripg, rurely he can whip me alone, and 82,50) is a good day's wages. So ‘‘either put ue or shat up.’’",
+      "topic": "taunt to McCoole"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen's card, printed in full. The date of 8 March is read from 'sth' (could be 5th); confidence low. No bout was fought."
+}

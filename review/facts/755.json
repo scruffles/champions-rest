@@ -1,0 +1,19 @@
+{
+  "id": "755",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen, Flint's second, was named in a warrant charging him with aiding and abetting the McManus-Flint prize fight, a felony.",
+      "excerpt": "Tom Allen and Jack Brohan, seconds fo1 Flint; Tom Kelly and Jim Evans, seconds for",
+      "date": "1888-04-18",
+      "date_precision": "day",
+      "people": ["Flint", "McManus", "Jack Brohan", "Sheriff Ehlers"],
+      "places": ["Franklin County, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Date is when the warrants reached St. Louis; the date the warrants were issued is not given. Penalty (two to ten years) concerns the offence, not Allen directly. The text says the warrants were approved by Judge Noonan, not Allen."
+}

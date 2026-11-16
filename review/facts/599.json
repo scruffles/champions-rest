@@ -1,0 +1,166 @@
+{
+  "id": "599",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen's home town was Birmingham, England.",
+      "excerpt": "Allen's first exhibition 1n Bir-\nmingham—his home—brought out the largest",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "In 1877 Tom Allen and George Rooke gave sparring exhibitions throughout England.",
+      "excerpt": "Tom Allen and George Rooke, who it wili be remembered backed out of a fight with him at Pittsburg about two years ago, have been giving sparring exhibitions throughout the Island",
+      "date": "1877",
+      "date_precision": "year",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [
+        "England"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen's first exhibition in Birmingham, his home town, drew the largest crowd for such an affair in many years.",
+      "excerpt": "Allen's first exhibition 1n Bir-\nmingham—his home—brought out the largest",
+      "date": "1877",
+      "date_precision": "year",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "At Manchester, Tom Allen knocked George Rooke out of time with a left during a sparring bout with gloves.",
+      "excerpt": "Tom, planting his right on George's chest, caught him in the neck with hie vicious lett, knocking him out of time",
+      "date": "1877",
+      "date_precision": "year",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [
+        "Manchester, England"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "A match between Tom Allen and George Rooke, with £25 forfeit a side, was made in 1877 and Allen forfeited his money rather than fight.",
+      "excerpt": "and £25 forfeit was put up on each side",
+      "date": "1877",
+      "date_precision": "year",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [
+        "Birmingham, England"
+      ],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "George Rooke backed out of a fight with Tom Allen at Pittsburg about two years before 1877.",
+      "excerpt": "backed out of a fight with him at Pittsburg about two years ago",
+      "date": "1875",
+      "date_precision": "approx",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [
+        "Pittsburg"
+      ],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was matched to box Tompkins Gilbert under the new London rules for £50 a side on October 29, 1877.",
+      "excerpt": "under the new London rules, for £50 aside, on the 29h of this month",
+      "date": "1877-10-29",
+      "date_precision": "day",
+      "people": [
+        "Tompkins Gilbert"
+      ],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen wanted to return to America, thinking his trouble in Kentucky might blow over now that Joe Goss had been freed.",
+      "excerpt": "thinks that, since Goss bas been liberated, sis troubie in Kentucky may in time blow over",
+      "date": "1877-10",
+      "date_precision": "month",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Kentucky",
+        "America"
+      ],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "George Rooke",
+      "date": "1877",
+      "date_precision": "year",
+      "place": "Birmingham, England",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "£25 forfeit a side",
+      "rules": "",
+      "excerpt": "and £25 forfeit was put up on each side",
+      "reported_as": "report",
+      "notes": "Forfeit by Allen: he paid his £25 after deciding the backers were working for Rooke."
+    },
+    {
+      "opponent": "George Rooke",
+      "date": "1875",
+      "date_precision": "approx",
+      "place": "Pittsburg",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "backed out of a fight with him at Pittsburg about two years ago",
+      "reported_as": "recollection",
+      "notes": "Forfeit by Rooke: he backed out of the match."
+    },
+    {
+      "opponent": "Tompkins Gilbert",
+      "date": "1877-10-29",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "£50 a side",
+      "rules": "new London rules",
+      "excerpt": "under the new London rules, for £50 aside, on the 29h of this month",
+      "reported_as": "report",
+      "notes": "Planned bout; not fought when printed. The garbled OCR gives a ring size that is not used here. The 1877-09-28 article gives £100 in total stakes."
+    }
+  ],
+  "notes": "Sparring exhibitions and the Rooke match details are from a friend of Allen's who returned from England."
+}

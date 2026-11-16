@@ -1,0 +1,30 @@
+{
+  "id": "462",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Thomas Bascom of Marysville, Tennessee, offered to bet Tom Allen $10,000 that he could beat him inside eight rounds.",
+      "excerpt": "i propose, further, to bet Tom Allen $10,000",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Thomas Bascom"],
+      "places": ["Marysville, Tennessee"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Thomas Bascom offered to bet Tom Allen, or any other man, $5,000 or more that Charley Gallagher, after two hours' training with Bascom, could whip his opponent inside twenty rounds.",
+      "excerpt": "I will bet Tom Allen, orany other man, any",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Thomas Bascom", "Charley Gallagher"],
+      "places": ["Marysville, Tennessee"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mock wagers in a letter from Bascom to the New York Sun, reprinted here; no match was made. Only the bets naming Allen are recorded."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "278",
+  "claims": [
+    {"kind": "challenge", "statement": "Billy Carroll proposed a match for $2,500 a side, to be fought under London prize ring rules.", "excerpt": "proposing to make inatch dor $2,500 a side, the fight to be governed by the", "date": "1869-03-19", "date_precision": "day", "people": ["Billy Carroll", "Mike McCoole"], "places": ["Alex. McKee's Broad Gauge saloon, Chestnut Street, St. Louis"], "retrospective": false, "confidence": "medium"},
+    {"kind": "challenge", "statement": "Mike McCoole readily agreed to the articles and was ready to put up money.", "excerpt": "readily wooeeded and was ready to “pat up,”", "date": "1869-03-19", "date_precision": "day", "people": ["Mike McCoole"], "places": ["Chestnut Street, St. Louis"], "retrospective": false, "confidence": "low"},
+    {"kind": "challenge", "statement": "Allen was represented at the meeting by Billy Carroll and a second man whose surname is unreadable.", "excerpt": "represented by BillyCerroll and Sherman", "date": "1869-03-19", "date_precision": "day", "people": ["Billy Carroll", "unknown"], "places": ["Chestnut Street, St. Louis"], "retrospective": false, "confidence": "low"},
+    {"kind": "saloon", "statement": "Tom Allen was busy superintending the opening of his new saloon on Fitch street, St. Louis (printed as 'Fitch stzee}', street name garbled).", "excerpt": "busy spperintending the opening of his new saloon on", "date": "1869-03", "date_precision": "month", "people": [], "places": ["Fitch street, St. Louis"], "retrospective": false, "confidence": "low"}
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Text is cut off before the outcome. The headline says the match fizzled, but the hint that every proposition was rejected is not supported by the text."
+}

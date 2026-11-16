@@ -1,0 +1,51 @@
+{
+  "id": "752",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Ben Hogan put up $1,000 of his own money and was trained for his match with Tom Allen.",
+      "excerpt": "He put up $1,000 of his own money and I trained him forthe fight.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan", "John Sweeney"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Ben Hogan, and the referee Bill Riley declared the fight a draw after Hogan's corner claimed a foul and the crowd came into the ring with knives and revolvers.",
+      "excerpt": "The crowd cut In the ring and pulled knives and revolvers on Alen and his his seconds. The referee declared ita draw.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan", "Bill Riley", "John Sweeney"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "John Sweeney",
+      "text": "Allen was a great body-flghter anda man who fights continually for the body will get below the belt.",
+      "topic": "Allen's body fighting"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 put up by Hogan",
+      "rules": "",
+      "excerpt": "The crowd cut In the ring and pulled knives and revolvers on Alen and his his seconds. The referee declared ita draw.",
+      "reported_as": "recollection",
+      "notes": "Told by Hogan's old trainer John Sweeney; one side's account. He says there were two rounds of hard fighting, then Allen's right went into Hogan's stomach and Sweeney claimed a foul. Fight date and place not given; the article says it was Hogan's last fight."
+    }
+  ],
+  "notes": "Recollection by Hogan's trainer, printed 1888-04-03. The Chicago conversation and religious work concern Hogan, not Allen."
+}

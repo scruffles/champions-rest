@@ -1,0 +1,30 @@
+{
+  "id": "989",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen, retired champion pugilist of the world, advertised a free concert every evening at 619 Market Street.",
+      "excerpt": "world, 619 Market street; free coftcert every even-",
+      "date": "1899-03-25",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen is described in the paper as the retired champion pugilist of the world.",
+      "excerpt": "Tom Allen, rétired champion pugilist of the",
+      "date": "1899-03-25",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Sporting Notes ad. Text also has an unrelated item about Tommy White's match, which is not Allen."
+}

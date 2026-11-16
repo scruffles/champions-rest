@@ -1,0 +1,41 @@
+{
+  "id": "436",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen arrived in Kansas City on June 1, 1871 with Jem Mace, Dick Hollywood and Jim Cusick for the Mace-Coburn fight.",
+      "excerpt": "Jitx Mace, Tom Al-\nlen, Dick MoMyWwoou, Jimi Cusice aud viners, ax",
+      "date": "1871-06-01",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Dick Hollywood", "Jim Cusick"],
+      "places": ["Kansas City, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen went with Jem Mace's party to Westford on June 2, 1871, where the ring was staked out on the Gillis farm and Joe Coburn did not appear.",
+      "excerpt": "rived lute last nightand wenatto Westtord to-day.",
+      "date": "1871-06-02",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Joe Coburn", "Dick Hollywood"],
+      "places": ["Westford, near Kansas City, Missouri", "Gillis farm"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "A sparring exhibition between Tom Allen and Jem Mace, with Cusick and Hollywood, was planned for the evening of June 2, 1871 at Carroll's Varieties in Kansas City.",
+      "excerpt": "between Mece and Tom Allen, and Cusick and\nHollywood, at Carroll’s Vurieties,",
+      "date": "1871-06-02",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Jim Cusick", "Dick Hollywood"],
+      "places": ["Carroll's Varieties, Kansas City, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The announced bout is described in the OCR as 'a grand lag' and is treated as a sparring exhibition, as the title says. Allen's presence at the ring is implied by the party's movements, not stated."
+}

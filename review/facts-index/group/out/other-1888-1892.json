@@ -1,0 +1,145 @@
+{
+  "bucket": "other-1888-1892",
+  "facts": [
+    {
+      "fact": "Tom Allen was timekeeper at the Standard when D. McMillan stayed fifteen minutes with Muldoon at Greco-Roman wrestling.",
+      "date": "1888-02-21",
+      "seed": "",
+      "conflict": "",
+      "claims": ["749.c4"]
+    },
+    {
+      "fact": "Tom Allen seconded Arthur Flint in Flint's prize fight against Hugh McManus near St. Clair, Missouri, on April 16, 1888, and threw up the sponge for Flint to end the fight.",
+      "date": "1888-04-16",
+      "seed": "033",
+      "conflict": "role: seconded (127.c1, 753.c1) vs backed (242.c13, a 1928 retrospective); name: Arthur Flint (127.c1, 753.c1) vs Artie Flint (242.c13)",
+      "claims": ["127.c1", "127.c2", "242.c13", "753.c1", "753.c2", "753.c3", "753.c4"]
+    },
+    {
+      "fact": "Tom Allen was in a street fight with Dan Daly at Seventh and Market streets, St. Louis, on June 17, 1888.",
+      "date": "1888-06-17",
+      "seed": "029",
+      "conflict": "accounts: Daly side says Allen was knocked down and asked Daly to quit (130.c1, 130.c2); Allen said Bob Farrell tripped him while Daly and a crowd kicked him (131.c3); Allen said one of the men calling him names was in Daly's saloon (761.c2)",
+      "claims": ["130.c1", "130.c2", "131.c3", "761.c2", "761.c3"]
+    },
+    {
+      "fact": "Tom Allen was one of five prize-fighters whom Dr. Mathew D. Field brought before the New York Neurological Society in October 1888 to have their ears examined.",
+      "date": "1888-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["133.c1"]
+    },
+    {
+      "fact": "Tom Allen made a wager with Dan Daly on October 16, 1888, on a gloved match between Daly and Hugh McManus set for December 1888, and in December backed McManus and claimed a $750 forfeit, interfering with the fight.",
+      "date": "1888-12-05",
+      "seed": "",
+      "conflict": "forfeit: Daly's final $250 deposit was not up (763.c6, Allen's claim) vs Daly's money was up on time and was turned over to Bill Clark (763.c7, stakeholder)",
+      "claims": ["763.c4", "763.c5", "763.c6", "763.c7", "764.c1"]
+    },
+    {
+      "fact": "Tom Allen backed Jake Kilrain against John L. Sullivan before their July 1889 fight at Richburg, and was at the ringside when they fought.",
+      "date": "1889-07-07",
+      "seed": "",
+      "conflict": "203.c15 (1903 retrospective) says Kilrain could not whip Sullivan with a baseball bat, against the other claims; 144.c2 (1892 retrospective) dates the backing to about 1890",
+      "claims": ["136.c3", "144.c2", "203.c15", "770.c2", "770.c3", "771.c1", "771.c2", "772.c3", "955.c1"]
+    },
+    {
+      "fact": "Edward Smith was to be Tom Allen's guest for a few days in April 1890.",
+      "date": "1890-04-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["781.c3"]
+    },
+    {
+      "fact": "Tom Allen wrote that a Sioux boxer would be unlikely to become a pugilist and would kick and bite like a savage once he began to take punishment.",
+      "date": "1891-01-25",
+      "seed": "",
+      "conflict": "",
+      "claims": ["813.c2"]
+    },
+    {
+      "fact": "Tom Allen preferred Peter Maher to Bob Fitzsimmons in March 1892, tried unsuccessfully to place money on Maher before their fight, and said he saw the Fitzsimmons-Maher fight.",
+      "date": "1892-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["835.c4", "838.c6", "839.c3"]
+    },
+    {
+      "fact": "On March 2, 1892, Tom Allen accompanied Charley Mitchell into the ring at the Olympic Club in New Orleans, with Frank Slavin and Pat Allen, before Mitchell's sparring bout.",
+      "date": "1892-03-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["837.c1"]
+    },
+    {
+      "fact": "On March 5, 1892, Tom Allen was at the Southern Hotel in New Orleans, waiting there to take Frank Slavin out, and was in Charley Mitchell's room when Mitchell dictated his reply to John L. Sullivan's challenge.",
+      "date": "1892-03-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["839.c2", "840.c2"]
+    },
+    {
+      "fact": "Tom Allen held his birthday celebration with friends at his headquarters on Market Street, St. Louis, on April 23, 1892.",
+      "date": "1892-04-23",
+      "seed": "",
+      "conflict": "",
+      "claims": ["141.c2"]
+    },
+    {
+      "fact": "In May 1892 Tom Allen was a Frank Slavin man, and he wanted to place money on Slavin to win, being more positive than Kelly that Slavin would be the victor.",
+      "date": "1892-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["142.c1", "142.c2"]
+    },
+    {
+      "fact": "Tom Allen and Tom Kelly backed John L. Sullivan before the September 1892 New Orleans fights, and after Sullivan lost to Corbett on September 7, 1892, Allen said Sullivan was unfit and overweight and that Corbett won squarely.",
+      "date": "1892-09-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["144.c1", "147.c1", "147.c2", "147.c3", "855.c2", "855.c3", "859.c2"]
+    },
+    {
+      "fact": "Tom Allen was at the ringside in New Orleans on September 5, 1892, for the McAuliffe-Myer fight, one of the two most noted St. Louisans present, and Fred Watkins was in the St. Louis delegation there.",
+      "date": "1892-09-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["146.c2", "859.c3"]
+    },
+    {
+      "fact": "The Post-Dispatch answered a reader that Tom Allen never fought Jem Mace.",
+      "date": "1892-09-20",
+      "seed": "",
+      "conflict": "conflicts with the 1870 Jem Mace fight at New Orleans in other claims (e.g. 909.c12)",
+      "claims": ["864.c1"]
+    },
+    {
+      "fact": "Tom Allen said he would see that Frank 'Dutch' Neil's stake was posted for a proposed finish fight with Johnnie Daly in November 1892.",
+      "date": "1892-11-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["871.c1"]
+    },
+    {
+      "fact": "Tom Allen received a letter from Charley Mitchell, dated London, November 7, 1892, about Mitchell's coming fight with Corbett.",
+      "date": "1892-11-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["877.c1"]
+    },
+    {
+      "fact": "A New York writer said Joe Goddard was no more a prize fighter in the modern sense than Tom Allen was.",
+      "date": "1892-12-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["882.c1"]
+    },
+    {
+      "fact": "Ed Smith, the Denver heavyweight, and his brother Paddy spent a few days with Tom Allen in December 1892.",
+      "date": "1892-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["885.c4"]
+    }
+  ]
+}

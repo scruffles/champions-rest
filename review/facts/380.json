@@ -1,0 +1,30 @@
+{
+  "id": "380",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A prize fight between Tom Allen and Jem Mace was anticipated in sporting circles in St. Louis.",
+      "excerpt": "Speaking of the anticipated prize ight between Tom, Allen and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen stood 5 feet 10 and a fraction of an inch barefooted (the fraction is printed as '103g').",
+      "excerpt": "height is given at 5 feet 934 inches; he stands 5 feet 103g",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Correction of the Republican's measurements. The hint said 5 feet 10 1/2 inches; the OCR reads '103g', so the fraction is uncertain. The Mace weight and fight details are about Mace, not Allen, and were not recorded."
+}

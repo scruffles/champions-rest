@@ -1,0 +1,19 @@
+{
+  "id": "505",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "It was said that Jem Mace had accepted Tom Allen's challenge to fight.",
+      "excerpt": "Jem Mace has accepted Tom Alien’s challenge",
+      "date": "1874-02",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Rumour in a local-news column. The paper's OCR prints Allen as 'Alien'."
+}

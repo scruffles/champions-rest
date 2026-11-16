@@ -1,0 +1,60 @@
+{
+  "id": "905",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Joe Goss defeated Tom Allen in Kentucky for the championship of America.",
+      "excerpt": "feited Tom Allen in. Kentucky for the charn-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Mike McCool fought Tom Allen for a purse printed as 32.000 and the championship.",
+      "excerpt": "Mike McCool was 0) years Of ase when he fought Tom Allen for 32.000",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCool"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Kentucky",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "the championship of America",
+      "rules": "",
+      "excerpt": "feited Tom Allen in. Kentucky for the charn-",
+      "reported_as": "recollection",
+      "notes": "Goss's age is printed as '$8' (garbled) and is not used. The date is not given."
+    },
+    {
+      "opponent": "Mike McCool",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "purse printed as 32.000, and the championship",
+      "rules": "",
+      "excerpt": "Mike McCool was 0) years Of ase when he fought Tom Allen for 32.000",
+      "reported_as": "recollection",
+      "notes": "Result not stated. McCool's age and the purse are garbled in the OCR (the hint's $2,000 is not printed in the text)."
+    }
+  ],
+  "quotes": [],
+  "notes": "A 1895 recollection of old championship fights. Both fight entries are garbled in the OCR; the Goss result is clear."
+}

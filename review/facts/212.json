@@ -1,0 +1,74 @@
+{
+  "id": "212",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Constable Fred Lenz failed on April 21, 1903 to replevin the driving horse claimed by Tillie Hartgrove, Tom Allen's former housekeeper.",
+      "excerpt": "in replevining the driving horse claimed by Miss Tillie Hartgrove, former housekeeper for Tom Allen",
+      "date": "1903-04-21",
+      "date_precision": "day",
+      "people": ["Fred Lenz", "Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "The horse was in the possession of William W. Heapes in St. Louis County.",
+      "excerpt": "The horse is in possession of William W. Ileapes in St. Louis County.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["William W. Heapes"],
+      "places": ["St. Louis County"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tillie Hartgrove claims the horse was a gift to her from Allen.",
+      "excerpt": "Mrs. Hartgrove. who says he was a gift to her",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "G. A. Strode, as administrator of Allen's estate, also claimed the horse.",
+      "excerpt": "of the estate of Tom Allen; by Heapes, for a feed bill.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["G. A. Strode"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "William W. Heapes would hold the horse until a feed bill of some $17 was settled.",
+      "excerpt": "that he would hold on to the steed until a feed bill of some $17 was settied.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["William W. Heapes"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Constable Fred Lenz also claimed the horse under an execution writ.",
+      "excerpt": "Heapes, for a feed bill. and by Lenz, with an execution writ.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Fred Lenz"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Lists the competing claims to the horse (Hartgrove, Strode, Heapes, Lenz). Heapes's name is OCR 'Ileapes' in the text."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "706",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Kelly and Tom Allen, the two prize fighters of St. Louis, planned a steamboat excursion to be given in a short time.",
+      "excerpt": "by the two prize fighters of St.\nLouis, Tom Kelly and fom Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tom Kelly"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only a planned event; no date given."
+}

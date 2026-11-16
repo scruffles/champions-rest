@@ -1,0 +1,24 @@
+{
+  "id": "276",
+  "claims": [
+    {"kind": "travel", "statement": "Tom Allen arrived in Kansas City with Arthur Chambers, and his trainer Jack Madden joined them.", "excerpt": "Tom Allen and Arthur Chambers, the light weight champion, arrived in the", "date": "1873-11-03", "date_precision": "day", "people": ["Arthur Chambers", "Jack Madden"], "places": ["Kansas City"], "retrospective": false, "confidence": "high"},
+    {"kind": "career", "statement": "Tom Allen was described as the celebrated young champion.", "excerpt": "celebrated young champion ap-\npears in first class condition", "date": "1873-11-03", "date_precision": "day", "people": [], "places": ["Kansas City"], "retrospective": false, "confidence": "medium"},
+    {"kind": "challenge", "statement": "Hogan challenged Tom Allen to a fight, but Allen said Hogan never intended to fight him.", "excerpt": "never_intended to fight me. He has never been in the ring to my knowledge", "date": "", "date_precision": "unknown", "people": ["Hogan"], "places": [], "retrospective": false, "confidence": "medium"},
+    {"kind": "challenge", "statement": "Tom Allen's fight with Hogan was set for November 18, 1873.", "excerpt": "On the 18th of this month, or two", "date": "1873-11-18", "date_precision": "day", "people": ["Hogan"], "places": [], "retrospective": false, "confidence": "medium"},
+    {"kind": "challenge", "statement": "The Allen-Hogan fight was to be at or near Omaha, with excursion tickets sold from St. Louis.", "excerpt": "At or near Omaha. Excursion tickets are being sold from St. Louis and return", "date": "1873-11-18", "date_precision": "day", "people": ["Hogan"], "places": ["Omaha", "St. Louis"], "retrospective": false, "confidence": "medium"},
+    {"kind": "challenge", "statement": "Hogan offered, through Jack Looney, to forfeit his $1,000 share if the fight were called a draw, and Allen refused.", "excerpt": "to J: Looney to forfeit his share of the movey, which is $1,000", "date": "1873-11-02", "date_precision": "day", "people": ["Hogan", "Jack Looney"], "places": [], "retrospective": false, "confidence": "medium"},
+    {"kind": "legal", "statement": "Allen said he could not fight in Missouri because of bonds.", "excerpt": "so by bonds that Missouri soil ain’t good to dance on just now", "date": "1873-11-03", "date_precision": "day", "people": [], "places": ["Missouri"], "retrospective": false, "confidence": "medium"},
+    {"kind": "legal", "statement": "Allen said Illinois was seeking a requisition for him over his fight with Mike McCoole.", "excerpt": "after me with a requisition from Illinois for my fight with Mike McCoole", "date": "", "date_precision": "unknown", "people": ["Mike McCoole"], "places": ["Illinois"], "retrospective": false, "confidence": "medium"},
+    {"kind": "fight", "statement": "Tom Allen fought Mike McCoole, a fight Allen later referred to as his fight.", "excerpt": "from Illinois for my fight with Mike McCoole", "date": "", "date_precision": "unknown", "people": ["Mike McCoole"], "places": [], "retrospective": true, "confidence": "medium"},
+    {"kind": "exhibition", "statement": "Allen was to give an exhibition in Kansas City that week with Arthur Chambers and Jack Madden.", "excerpt": "He will give an exhibition here this week with Arthur Chambers", "date": "1873-11", "date_precision": "month", "people": ["Arthur Chambers", "Jack Madden"], "places": ["Kansas City"], "retrospective": false, "confidence": "medium"}
+  ],
+  "quotes": [
+    {"speaker": "Tom Allen", "text": "Any d—d fool can challenge me, but coming into the ring is another thing.", "topic": "on Hogan's challenge"},
+    {"speaker": "Tom Allen", "text": "I do. I don’t think Hogan or his friends had anything to do with it, but I think the officers of the boat put up the entire job.", "topic": "steamer Continental capture"},
+    {"speaker": "Tom Allen", "text": "But if I can get_bim before me once, we will decide just what is in him.", "topic": "challenge to Hogan"}
+  ],
+  "fights": [
+    {"opponent": "Mike McCoole", "date": "", "date_precision": "unknown", "place": "", "result": "unknown", "rounds": "", "duration": "", "stakes": "", "rules": "", "excerpt": "from Illinois for my fight with Mike McCoole", "reported_as": "recollection", "notes": "Mentioned only in passing. Date, place and result are not given; the Illinois requisition suggests the fight was there, but the text does not say so."}
+  ],
+  "notes": "Interview with Allen; the quotes are his own words. Hogan is printed without a first name. The hint about Allen's Continental steamer opinion is covered by a quote."
+}

@@ -1,0 +1,78 @@
+{
+  "id": "319",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was at the Buckeye House near Cincinnati, his headquarters while training.",
+      "excerpt": "ire headquarters of the shove nam 1 geutie-\nMad &itbes ume.",
+      "date": "1869-05-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Buckeye House, near Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was training under his trainer, Sherman Thurston.",
+      "excerpt": "bis experreaced trainer, “Berman Thurston.",
+      "date": "1869-05-23",
+      "date_precision": "day",
+      "people": ["Sherman Thurston"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen proposed to give an exhibition a few days before his departure to meet McCoole.",
+      "excerpt": "Ajlen propowes to give an exni-\ng he in 'b 9? he afew days priowrt> bis depar-\nP ture fo meet McoCooic.",
+      "date": "1869-05",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was to meet Mike McCoole in a fight.",
+      "excerpt": "Ajlen propowes to give an exni-\ng he in 'b 9? he afew days priowrt> bis depar-\nP ture fo meet McoCooic.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen's weight at the time is printed as 'one basdred and sitty-Gre p urds' (probably one hundred and sixty-five pounds).",
+      "excerpt": "His weignt attbis time is amat one basdred and sitty-Gre p urds,",
+      "date": "1869-05-23",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Ajlen propowes to give an exni-\ng he in 'b 9? he afew days priowrt> bis depar-\nP ture fo meet McoCooic.",
+      "reported_as": "report",
+      "notes": "Date not given in this article. OCR is heavily garbled; the opponent's name is read as McCoole from 'McoCooic'."
+    }
+  ],
+  "notes": "Same Cincinnati Enquirer item as 318, with heavier OCR damage. The exhibition's place is garbled and not used. Allen's talk of the mill and the paper's betting remarks are not included."
+}

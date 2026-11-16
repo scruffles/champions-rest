@@ -1,0 +1,41 @@
+{
+  "id": "189",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was charged with killing Timothy Confoy (printed Con-foy) in a saloon at the corner of Seventh and Market streets on February 20, 1899.",
+      "excerpt": "charged with the killing of Timothy Con- foy, in a saloon at the corner of Seventh _ and Market streets, Feb. 20, 1899",
+      "date": "1899-02-20",
+      "date_precision": "day",
+      "people": ["Timothy Confoy"],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The state dismissed the case against Tom Allen for the killing of Timothy Confoy in Judge Fisher's court, the evidence being insufficient.",
+      "excerpt": "His Case Dismissed by the State in Judge Fisher’s Court, the Evid-ence Being Insufficient.",
+      "date": "1899-11-14",
+      "date_precision": "day",
+      "people": ["Timothy Confoy"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The newspaper describes Tom Allen as an ex-pugilist.",
+      "excerpt": "The case against Tom Allen, ex-pugiilist, charged with the killing of Timothy Con- foy",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Short court item. The dismissal was on a Tuesday; the paper is dated 1899-11-14, a Tuesday. OCR damage kept as printed."
+}

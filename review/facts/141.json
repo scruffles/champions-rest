@@ -1,0 +1,74 @@
+{
+  "id": "141",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen's birthday was celebrated on 23 April, the day before the article was printed.",
+      "excerpt": "Yesterday was Tom Allen’s birthday and",
+      "date": "1892-04-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen held his birthday celebration with friends at his headquarters on Market street, St. Louis.",
+      "excerpt": "Tom ’s headquarters on Market street.",
+      "date": "1892-04-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was in the old country (England) in 1882 and took part in St. George's Day celebrations there.",
+      "excerpt": "When i was over there in 18821 had",
+      "date": "1882",
+      "date_precision": "year",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen's two daughters are all that is left of the Allen clan.",
+      "excerpt": "and his two daughters are alithat is left of the Allen Clan",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "One of Tom Allen's two daughters is married and lives in England; the other is married and lives at home with him.",
+      "excerpt": "are marmed ; one of them resides in",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England", "St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "this is a great day.",
+      "topic": "his birthday"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "il expect to celebrate a good many birthdays yet.",
+      "topic": "expects more birthdays"
+    }
+  ],
+  "fights": [],
+  "notes": "Birth year not given. Daughter 'marmed' OCR read as married. 1882 printed as 18821; date from the text."
+}

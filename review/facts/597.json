@@ -1,0 +1,19 @@
+{
+  "id": "597",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen wrote from Halifax to a friend that he would sail for England on May 12, 1877, expecting only a brief stay.",
+      "excerpt": "he would set sail for England on that day,",
+      "date": "1877-05-12",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Halifax", "England"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The letter is reported as written under date of Saturday last (the Saturday before the 1877-05-18 paper). The brief-stay expectation is the paper's paraphrase."
+}

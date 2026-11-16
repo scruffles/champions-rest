@@ -1,0 +1,89 @@
+{
+  "id": "210",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Joe Goss on an intentional foul in the 21st round on September 7, 1876, in Boone County, Kentucky, for a $2,000 a side stake.",
+      "excerpt": "The mill went 21 rounds and Alen lost on an intenttonal foul.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Boone County, Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was English born.",
+      "excerpt": "ing English born and aspiring for the same honor",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Allen trained for the Goss fight at a point beyond Carthage.",
+      "excerpt": "Allen went to a point beyond Carthage, where he could",
+      "date": "1876",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Carthage"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Both Allen and Goss were arrested after the fight; Allen got out on bail and fled to England.",
+      "excerpt": "Both men were arrested, but Alien. after getting cut on ball, fled to England.",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "After returning to America, Allen settled in St. Louis.",
+      "excerpt": "after returning to this country, took up his abode in St. Louls",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Allen ran a saloon known as the Champion Rest in St. Louis until a few weeks before his death.",
+      "excerpt": "where he conducted a saloon known as the “Champion Rest,”",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "farm in Boone County, Kentucky",
+      "result": "loss",
+      "rounds": "21",
+      "duration": "",
+      "stakes": "$2,000 a side",
+      "rules": "",
+      "excerpt": "The mill went 21 rounds and Alen lost on an intenttonal foul.",
+      "reported_as": "recollection",
+      "notes": "Allen lost on an intentional foul after striking Goss while he was down; Goss was given the decision. Stopped by militia in Kenton County and moved to Boone County."
+    }
+  ],
+  "notes": "Written in 1903, looking back at 1876. The article says Goss was declared champion of America. Hint's 'near Cincinnati' is not in the text."
+}

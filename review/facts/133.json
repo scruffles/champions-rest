@@ -1,0 +1,30 @@
+{
+  "id": "133",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen, a middleweight, was one of five prize-fighters whom Dr. Mathew D. Field brought before the New York Neurological Society to have their ears examined.",
+      "excerpt": "Theyall did very niceiy, especially Tom Allen, the big middle-welght.",
+      "date": "1888-10",
+      "date_precision": "approx",
+      "people": ["Mathew D. Field"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The article describes Tom Allen as a middleweight of credit and renown.",
+      "excerpt": "Tom Allen is a middie-weight of credit and re-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Article is about hematoma (swollen ears) in boxers. Allen's own ears are not described, so no health claim. Tom Allen is named only as one of the men examined."
+}

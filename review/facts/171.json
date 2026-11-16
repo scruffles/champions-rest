@@ -1,0 +1,58 @@
+{
+  "id": "171",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen and Tom Kelly, at the Post-Dispatch's request, watched Jim Corbett at a Havlin's Theater matinee and declared him fit to fight.",
+      "excerpt": "have looked Jim Corbett over carefully, and declare him fit",
+      "date": "1897-01-21",
+      "date_precision": "day",
+      "people": ["Tom Kelly", "Jim Corbett"],
+      "places": ["Havlin's Theater"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen runs a saloon on Market Street between Sixth and Seventh streets, and also a concert hall over which he presides every night.",
+      "excerpt": "They both are running prosperous saloons\non Market street, between Sixth and Seventh streets, Allen having in addition a concert\nhall",
+      "date": "1897-01",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Market Street between Sixth and Seventh, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen lost money in the Corbett-Sullivan fight because he had misjudged Corbett, thinking him too light and spare.",
+      "excerpt": "I lost money on him in the Sullivan fight,\nbecause I misjudged him, th.nking him",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jim Corbett", "Sullivan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he fought at 145 pounds.",
+      "excerpt": "did when I fought at 145 an but he is",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "He is the fastest and quickest big man I ever saw in my life, bar none.",
+      "topic": "Corbett's speed"
+    }
+  ],
+  "fights": [],
+  "notes": "The condition verdicts on Corbett are opinions, not facts about Allen, so they are left out. The 145-pound claim and the Sullivan betting line are garbled in places in the OCR."
+}

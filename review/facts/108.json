@@ -1,0 +1,56 @@
+{
+  "id": "108",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost an impromptu wrestling match for $50 a side to Capt. William Richards, who threw him twice in succession.",
+      "excerpt": "favor of Richarads,who threw his antagonist twice",
+      "date": "1883-12-31",
+      "date_precision": "day",
+      "people": ["Capt. William Richards"],
+      "places": ["Tom Allen's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The wrestling match was held at Tom Allen's saloon on the night of December 31, 1883.",
+      "excerpt": "night at Tom Allen’s saloon for $50a side.",
+      "date": "1883-12-31",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Tom Allen's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as an ex-champion prize-fighter of the United States.",
+      "excerpt": "The wrestlers were Tom Allen, e€xX-Champion gprize-_",
+      "date": "1883-12-31",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Capt. William Richards",
+      "date": "1883-12-31",
+      "date_precision": "day",
+      "place": "Tom Allen's saloon",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$50 a side",
+      "rules": "wrestling",
+      "excerpt": "favor of Richarads,who threw his antagonist twice",
+      "reported_as": "report",
+      "notes": "Impromptu wrestling match, not a boxing bout. Printed weights: Allen 245 lb, Richards 160 lb."
+    }
+  ],
+  "notes": "Hint's exhibition kind corrected to fight, since it was a contest for stakes."
+}

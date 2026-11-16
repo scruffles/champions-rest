@@ -1,0 +1,84 @@
+{
+  "id": "761",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Dan Daly knocked Tom Allen out in one round, rules barred, in a street fight outside Daly's saloon on Seventh street.",
+      "excerpt": "was knocked out in one round (rules barred) by Dan Daly",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "people": ["Dan Daly"],
+      "places": ["Seventh street between Market and Chestnut streets"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen claimed one of three men who had been calling him names was in Dan Daly's saloon.",
+      "excerpt": "claimed that one of the three men who had been calling him vile names, was in Daly’s saloon.",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "people": ["Dan Daly"],
+      "places": ["Seventh street between Market and Chestnut streets"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was said to have accused Dan Daly of doing things to hurt his business.",
+      "excerpt": "accused Dan of doing things to hurt his (Allen’s) business",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "people": ["Dan Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "The report described Tom Allen as the ex-champion of the world.",
+      "excerpt": "Tom A lien, the ex-champion of the world",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Charley Daly were taken to the Chestnut Street police station and released on bond.",
+      "excerpt": "was taken to the Chestnut Street station incompany with Allen, where they were both released on bond.",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "people": ["Charley Daly"],
+      "places": ["Chestnut Street police station"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Dan Daly",
+      "text": "You came here looking for trouble, Tom, and youshan’t depart in peace",
+      "topic": "taunt before the blow"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Dan Daly",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "place": "Seventh street between Market and Chestnut streets",
+      "result": "loss",
+      "rounds": "1",
+      "duration": "",
+      "stakes": "",
+      "rules": "street fight (rules barred)",
+      "excerpt": "was knocked out in one round (rules barred) by Dan Daly",
+      "reported_as": "report",
+      "notes": "Street fight outside Daly's saloon, not a prize fight; the paper says Allen cried enough."
+    }
+  ],
+  "notes": "Included in fights because it was a fight Allen took part in, though not a prize fight. Charley Daly and others are not about Allen."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "668",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Jem Mace had a set-to with gloves at a performance at the Theatre Comique in St. Louis, the same night John Bonnet and Leon Schuler fenced.",
+      "excerpt": "Jem Mace and Tom Allen having a set-to",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace", "John Bonnet", "Leon Schuler"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Obituary of Leon Schuler; the date of the Theatre Comique performance is not given."
+}

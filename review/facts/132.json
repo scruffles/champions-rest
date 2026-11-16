@@ -1,0 +1,52 @@
+{
+  "id": "132",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen had ordered his former friend John Ryan to keep away from his saloon, and Ryan would not.",
+      "excerpt": "tired of the young man and ordered him to keep away from his saloon.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["John Ryan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen gave John Ryan a terrible beating when Ryan would not keep away from his saloon.",
+      "excerpt": "Ryan would notdoso and the ex-champion of the world administered a terrible beating to him.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["John Ryan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "John Ryan threw stones through the windows of Tom Allen's saloon after the beating.",
+      "excerpt": "of stones which he sentcrashing through the windows of Allen’s saloon.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["John Ryan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Judge Cady fined John Ryan $15 on Tom Allen's charge of malicious trespass.",
+      "excerpt": "knocked some hov them cold.’’ Judge Cady fined Ryan $15.",
+      "date": "1888-07-20",
+      "date_precision": "day",
+      "people": ["Judge Cady"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The beating was not a contest, so there is no fight entry. Date of the beating is not given."
+}

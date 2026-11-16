@@ -1,0 +1,9 @@
+{
+  "id": "296",
+  "claims": [
+    {"kind": "challenge", "statement": "A match between Tom Allen and Bill Ryall fell through about two years before 1868 over the choice of a battle ground.", "excerpt": "rent between bimself and Mr. Tom Allen, now ot", "date": "1866", "date_precision": "approx", "people": ["Bill Ryall"], "places": ["Cleveland"], "retrospective": true, "confidence": "medium"}
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The article is mainly about Davis challenging Ryall, which does not concern Allen. The 1867 date in the hint is not in the text; the paper says 'near two years' before 1868, so the date is approximate. The word 'engagement' in the OCR is garbled."
+}

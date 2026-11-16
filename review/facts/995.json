@@ -1,0 +1,34 @@
+{
+  "id": "995",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Jem Mace fought Tom Allen during Mace's tour of America about thirty years before 1901.",
+      "excerpt": "during which he fought Tom Allen and Ned O’Baldwin",
+      "date": "1870",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": ["America"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870",
+      "date_precision": "approx",
+      "place": "America",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "during which he fought Tom Allen and Ned O’Baldwin",
+      "reported_as": "recollection",
+      "notes": "Date is 'thirty years ago' from 1901; the text gives no result."
+    }
+  ],
+  "notes": "Allen appears only as the opponent of Jem Mace on a tour of America. The article is mainly about Alfred Mace."
+}

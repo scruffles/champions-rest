@@ -1,0 +1,36 @@
+{
+  "id": "447",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen was extremely excited on August 21, 1872, waiting near the telegraph office for news of the reported Mace and O'Baldwin fight.",
+      "excerpt": "Pom Allen was extremely excited yesterday eve-",
+      "date": "1872-08-21",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Ned O'Baldwin"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said that O'Baldwin was too much for Mace in the reported fight.",
+      "excerpt": "replies that O’ Baldwin was {oo much-for Mace.",
+      "date": "1872-08-21",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Ned O'Baldwin"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "‘gem, you see,’’ he added, ‘has the sicknesa at the heart,’",
+      "topic": "on Mace's condition"
+    }
+  ],
+  "fights": [],
+  "notes": "The Mace and O'Baldwin fight is not Allen's fight, so no fight entry. The 'too much for Mace' opinion is a paraphrase, so it is a claim, not a quote. The quote is direct speech, OCR reads 'Gem' with a lower-case g; the 'sicknesa' spelling is as printed."
+}

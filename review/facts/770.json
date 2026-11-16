@@ -1,0 +1,52 @@
+{
+  "id": "770",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was in New Orleans on 7 July 1889, taking a lemonade in the rotunda of the St. Charles Hotel.",
+      "excerpt": "Tom Allen, the famous pugilist, taking a lemonade inthe rotunda of the St. Charles Hotel.",
+      "date": "1889-07-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["New Orleans, Louisiana", "St. Charles Hotel"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he was for Kilrain when asked for his opinion before the Sullivan-Kilrain fight.",
+      "excerpt": "He was asked for his opinion. He said, ‘I am for Kilrain.”",
+      "date": "1889-07-07",
+      "date_precision": "day",
+      "people": ["Kilrain", "Sullivan"],
+      "places": ["St. Charles Hotel, New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Kilrain's condition was good but that he would like him better if he were not so fat.",
+      "excerpt": "It is good, bat | would iike him better if",
+      "date": "1889-07-07",
+      "date_precision": "day",
+      "people": ["Kilrain"],
+      "places": ["St. Charles Hotel, New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I am for Kilrain.",
+      "topic": "backing Kilrain"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "It is good, bat | would iike him better if he were not so fat.",
+      "topic": "Kilrain's condition"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen's name also appears in a garbled list of pugilists at the hotel; not used. Allen is not in the fight itself."
+}

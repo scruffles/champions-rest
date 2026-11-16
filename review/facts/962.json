@@ -1,0 +1,19 @@
+{
+  "id": "962",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Denver Ed Smith, Paddy Smith and Ike Weir arrived in St. Louis and were lodged at Tom Allen's place.",
+      "excerpt": "arrived in St. Louis and are quartered at Tom Allen's place.",
+      "date": "1897-06",
+      "date_precision": "month",
+      "people": ["Denver Ed Smith", "Paddy Smith", "Ike Weir"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only the lodging at Allen's place concerns him; the Smiths' and Weir's fights are not his. Hint confirmed."
+}

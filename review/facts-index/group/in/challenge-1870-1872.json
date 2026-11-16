@@ -1,0 +1,322 @@
+{
+ "bucket": "challenge-1870-1872",
+ "kind": "challenge",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "286.c5",
+   "date": "1870-01",
+   "published": "1870-01-08",
+   "conf": "medium",
+   "statement": "Mace agreed to fight Allen for $2,500 a side."
+  },
+  {
+   "cid": "286.c6",
+   "date": "1870-01",
+   "published": "1870-01-08",
+   "conf": "medium",
+   "statement": "Mace proposed three places for the fight: in Virginia, in Canada within 100 miles of Montreal, or in Louisiana within 50 miles of New Orleans."
+  },
+  {
+   "cid": "384.c1",
+   "date": "1870-01",
+   "published": "1870-01-22",
+   "statement": "Tom Allen declined Joe Coburn's challenge to fight for $5,000 or $10,000."
+  },
+  {
+   "cid": "286.c2",
+   "date": "1870-01-03",
+   "published": "1870-01-08",
+   "conf": "low",
+   "statement": "Allen's promised articles for a match with Mace reached the New York Clipper on Monday, January 3, 1870 (printed as 'January 34')."
+  },
+  {
+   "cid": "286.c3",
+   "date": "1870-01-03",
+   "published": "1870-01-08",
+   "conf": "medium",
+   "statement": "Allen's articles proposed a fight with Mace for $2,500 a side and the championship of America."
+  },
+  {
+   "cid": "381.c1",
+   "date": "1870-01-08",
+   "published": "1870-01-09",
+   "conf": "medium",
+   "statement": "Tom Allen reportedly telegraphed Jem Mace in New York accepting his challenge."
+  },
+  {
+   "cid": "228.c1",
+   "date": "1870-01-17",
+   "published": "1912-01-27",
+   "retro": true,
+   "statement": "Tom Allen and Jem Mace signed articles on January 17, 1870 to fight for $10,000 and the championship of the world."
+  },
+  {
+   "cid": "385.c1",
+   "date": "1870-01-21",
+   "published": "1870-01-22",
+   "conf": "low",
+   "statement": "Tom Allen declined Joe Coburn's challenge to fight for $500 or $10,000 (printed as $10,009) until after his contest with Jim Mace in July."
+  },
+  {
+   "cid": "378.c1",
+   "date": "1870-03",
+   "published": "1869-12-29",
+   "statement": "A match between Tom Allen and Jem Mace was arranged, to be fought in the vicinity of Cincinnati next March."
+  },
+  {
+   "cid": "389.c1",
+   "date": "1870-03-23",
+   "published": "1870-03-24",
+   "statement": "James Mace wrote in a card that he would only whip Tom Allen for the reputation and battle-money of their meeting, with no international character to it."
+  },
+  {
+   "cid": "405.c1",
+   "date": "1870-05-12",
+   "published": "1870-05-22",
+   "statement": "Tom Allen challenged any man except Mace and Heenan to fight him for $500 to $5,000, naming Joe Coburn, Mike McCoole, Charley Gallagher and Joe Goss."
+  },
+  {
+   "cid": "035.c1",
+   "date": "1870-05-17",
+   "published": "1870-05-18",
+   "conf": "medium",
+   "statement": "From New York, Tom Allen issued a challenge to all professional bruisers except Mace and Heenan."
+  },
+  {
+   "cid": "404.c1",
+   "date": "1870-05-18",
+   "published": "1870-05-18",
+   "statement": "Tom Allen challenged all professional bruisers except Mace and Heenan to fight for $3,000 or less."
+  },
+  {
+   "cid": "404.c2",
+   "date": "1870-05-18",
+   "published": "1870-05-18",
+   "statement": "Tom Allen was particularly anxious that Joe Coburn accept his challenge."
+  },
+  {
+   "cid": "409.c3",
+   "date": "1870-06",
+   "published": "1870-06-19",
+   "conf": "medium",
+   "statement": "Tom Allen was soon to contest Mike McCoole for the championship of America."
+  },
+  {
+   "cid": "410.c6",
+   "date": "1870-06-17",
+   "published": "1870-06-21",
+   "conf": "medium",
+   "statement": "Mike McCoole was said to be soon to contest Tom Allen for the championship, for $5,000 a side."
+  },
+  {
+   "cid": "384.c2",
+   "date": "1870-07",
+   "published": "1870-01-22",
+   "statement": "Tom Allen would not fight Coburn until after his contest with Jem Mace, expected in July 1870."
+  },
+  {
+   "cid": "385.c2",
+   "date": "1870-07",
+   "published": "1870-01-22",
+   "conf": "medium",
+   "statement": "Tom Allen's contest with Jim Mace was expected to take place in July 1870."
+  },
+  {
+   "cid": "412.c1",
+   "date": "1870-07",
+   "published": "1870-07-09",
+   "statement": "Tom Allen intimated to his friends that he would not accept McCoole's last challenge to fight for the belts, saying he could not afford a month or two of training for a fight with no money to win."
+  },
+  {
+   "cid": "412.c2",
+   "date": "1870-07",
+   "published": "1870-07-09",
+   "conf": "medium",
+   "statement": "Rumours from New York of a $1,000-a-side match between Tom Allen and Joe Goss of England, said to have been made by Joe Coburn and Jim Mace, were treated as moonshine; Allen said no match had been made and he had no information on the subject."
+  },
+  {
+   "cid": "413.c1",
+   "date": "1870-07",
+   "published": "1870-07-09",
+   "statement": "Billy Carroll, of Carroll's Sample room, tried to make a match between Mike McCoole and Tom Allen."
+  },
+  {
+   "cid": "413.c2",
+   "date": "1870-07",
+   "published": "1870-07-09",
+   "statement": "Mike McCoole issued a manifesto challenging Tom Allen to fight for the champion belt and the excursion money."
+  },
+  {
+   "cid": "414.c1",
+   "date": "1870-07",
+   "published": "1870-07-10",
+   "statement": "Tom Allen sent the New York Clipper a challenge to fight any man in America for $2,500 or $5,000 a side, Joe Coburn preferred."
+  },
+  {
+   "cid": "414.c2",
+   "date": "1870-07",
+   "published": "1870-07-10",
+   "conf": "low",
+   "statement": "If the challenge were accepted, the fight would take place at a point between St. Louis and a place the OCR cannot read."
+  },
+  {
+   "cid": "411.c3",
+   "date": "1870-07-01",
+   "published": "1870-07-02",
+   "statement": "The second deposit of $500 a side for the Tom Allen and McCoole match was not paid to Mr. Murray on July 1, 1870, and Roach, Allen's representative, claimed the stakes already deposited."
+  },
+  {
+   "cid": "411.c2",
+   "date": "1870-07-02",
+   "published": "1870-07-02",
+   "statement": "A total of $1,000 had been deposited for the Tom Allen and McCoole match."
+  },
+  {
+   "cid": "286.c4",
+   "date": "1870-07-05",
+   "published": "1870-01-08",
+   "conf": "medium",
+   "statement": "Allen's articles proposed that the fight take place within fifty miles of Cincinnati on July 5, 1870."
+  },
+  {
+   "cid": "379.c5",
+   "date": "1870-07-05",
+   "published": "1870-01-01",
+   "conf": "medium",
+   "statement": "Allen proposed to fight Jem Mace for $2,500 a side on 5 July 1870, within fifty miles of a place the OCR garbles as 'vane', with the forfeit lost by any party arrested in another state."
+  },
+  {
+   "cid": "379.c6",
+   "date": "1870-07-05",
+   "published": "1870-01-01",
+   "conf": "medium",
+   "statement": "The fight with Mace was also to be, as alleged by Billy Carroll, for the championship of the world."
+  },
+  {
+   "cid": "420.c1",
+   "date": "1870-09-19",
+   "published": "1870-09-20",
+   "statement": "Tom Allen and James C. Gallagher signed articles of agreement at Hennessy's saloon for a match."
+  },
+  {
+   "cid": "421.c1",
+   "date": "1870-09-19",
+   "published": "1870-09-20",
+   "statement": "Tom Allen and Jas. C. Gallagher made a match for a fight at a meeting over Hennessey's saloon, Fourth and Morgan streets."
+  },
+  {
+   "cid": "421.c2",
+   "date": "1870-09-19",
+   "published": "1870-09-20",
+   "statement": "The match was for $1,500, with Allen staking $1,000 against Gallagher's $500."
+  },
+  {
+   "cid": "421.c3",
+   "date": "1870-09-19",
+   "published": "1870-09-20",
+   "statement": "Allen deposited $200 and Gallagher deposited $100 toward the match."
+  },
+  {
+   "cid": "422.c2",
+   "date": "1870-10-24",
+   "published": "1870-10-25",
+   "statement": "The last deposit was $200 for Allen and $100 for Gallagher."
+  },
+  {
+   "cid": "040.c1",
+   "date": "1870-11-02",
+   "published": "1870-11-03",
+   "statement": "Gallagher proposed fighting Tom Allen in Louisiana, Kansas, Arkansas or Kentucky, and Allen said he would fight in any of these places."
+  },
+  {
+   "cid": "525.c4",
+   "date": "1871",
+   "published": "1875-09-30",
+   "retro": true,
+   "statement": "Immediately after that exhibition, Jack Leoney offered $5,000 to back Tom Allen in a match."
+  },
+  {
+   "cid": "429.c1",
+   "date": "1871-01",
+   "published": "1871-02-12",
+   "statement": "Tom Allen wrote from St. Louis, in a letter dated January 1871, that he had challenged Joe Coburn ten times and that Coburn never answered."
+  },
+  {
+   "cid": "429.c3",
+   "date": "1871-04",
+   "published": "1871-02-12",
+   "conf": "low",
+   "statement": "Allen offered to give Joe Coburn $200 to withdraw from his match with Jem Mace, and to stake $3,000 to fight Coburn on the same day, the 11th of April (printed as '1th of A:'), about fifty miles from Detroit."
+  },
+  {
+   "cid": "431.c1",
+   "date": "1871-05-14",
+   "published": "1871-05-15",
+   "conf": "medium",
+   "statement": "A New York dispatch of May 14, 1871 reported that Tom Allen offered to fight Joe Coburn for $5,000 (printed as $5020) or Ned O'Baldwin for $1,000 a side."
+  },
+  {
+   "cid": "432.c1",
+   "date": "1871-05-14",
+   "published": "1871-05-15",
+   "conf": "medium",
+   "statement": "A New York dispatch of May 14, 1871 reported that Tom Allen offered to fight Joe Coburn for $5,000 or Ned O'Baldwin for $1,090 (printed as $1,090)."
+  },
+  {
+   "cid": "433.c1",
+   "date": "1871-05-16",
+   "published": "1871-05-16",
+   "statement": "Tom Allen denied the dispatch that he had challenged Joe Coburn and Ned O'Baldwin, and said he had given no such challenge and had no intention of doing so."
+  },
+  {
+   "cid": "444.c1",
+   "date": "1871-12",
+   "published": "1871-12-30",
+   "conf": "medium",
+   "statement": "Mike McCoole was reported to want a match with Tom Allen."
+  },
+  {
+   "cid": "235.c12",
+   "date": "1872",
+   "published": "1919-01-03",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen challenged Mike McCoole once more, about two years after the Mace fight, and McCoole accepted."
+  },
+  {
+   "cid": "445.c1",
+   "date": "1872-01-07",
+   "published": "1872-01-08",
+   "statement": "Billy Carroll published a card offering to back Mike McCoole in a match against Tom Allen."
+  },
+  {
+   "cid": "445.c3",
+   "date": "1872-01-07",
+   "published": "1872-01-08",
+   "conf": "medium",
+   "statement": "Tom Allen offered to fight Joe Coburn for $2,500 or $5,000 as an alternative to McCoole."
+  },
+  {
+   "cid": "445.c2",
+   "date": "1872-01-08",
+   "published": "1872-01-08",
+   "conf": "medium",
+   "statement": "Tom Allen answered with a conditional offer to meet Carroll at the St. Louis Billiard Hall on Monday, January 8, 1872, and put up $500 to fight McCoole."
+  },
+  {
+   "cid": "450.c2",
+   "date": "1872-11-29",
+   "published": "1872-12-01",
+   "conf": "medium",
+   "statement": "Several friends of Tom Kelly offered to back him with $500 or more to fight Tom Allen, if Allen could be brought down to Kelly's weight."
+  },
+  {
+   "cid": "450.c1",
+   "date": "1872-11-30",
+   "published": "1872-12-01",
+   "conf": "medium",
+   "statement": "A rumour said a match between Tom Kelly and Tom Allen was being arranged, but no definite steps had been taken."
+  }
+ ]
+}

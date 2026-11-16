@@ -1,0 +1,92 @@
+{
+  "id": "427",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen had answered every challenge according to the London ring rules.",
+      "excerpt": "answer- ed every challenge, according to the ruies of the London ring",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen announced that he had retired from the prize ring and would take no further notice of any challenge.",
+      "excerpt": "He states he will therefore take no further notice of any challenge",
+      "date": "1870-11",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen had appeared before the public seventeen times as a prize fighter.",
+      "excerpt": "having appeared before the public sev-\nenteen times, asa prize fighter",
+      "date": "1870-11",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had a fight with Charlie Gallagher, which the paper excepted from his otherwise brilliant St. Louis record.",
+      "excerpt": "always excepting his fights with Charlie Gallagher and Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charlie Gallagher"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had a fight with Mace, which the paper excepted from his otherwise brilliant St. Louis record.",
+      "excerpt": "always excepting his fights with Charlie Gallagher and Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mace"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charlie Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "always excepting his fights with Charlie Gallagher and Mace",
+      "reported_as": "report",
+      "notes": "Mentioned in passing only; date and result not given. The 'easy fight' in the garbled text may be this one; not confirmed."
+    },
+    {
+      "opponent": "Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "always excepting his fights with Charlie Gallagher and Mace",
+      "reported_as": "report",
+      "notes": "Mentioned in passing only; first name, date and result not given."
+    }
+  ],
+  "notes": "The McCool-Gallagher match does not involve Allen and was not extracted. The hint 'after beating Gallagher' is not confirmed (text garbled at 'over ow'). Announcement date is approximate."
+}

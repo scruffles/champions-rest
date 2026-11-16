@@ -1,0 +1,279 @@
+{
+ "bucket": "life-1903-1905",
+ "kind": "life",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "263.c9",
+   "date": "1903",
+   "published": "1978-04-04",
+   "retro": true,
+   "statement": "Tom Allen died in 1903."
+  },
+  {
+   "cid": "1004.c6",
+   "date": "1903-01",
+   "published": "1903-04-06",
+   "statement": "For the past three months before his death, Tom Allen was in poor health."
+  },
+  {
+   "cid": "194.c1",
+   "date": "1903-01",
+   "published": "1903-01-31",
+   "statement": "Tom Allen has been confined to his bed for two or three weeks with persistent colds and is believed to be seriously ill."
+  },
+  {
+   "cid": "194.c3",
+   "date": "1903-01",
+   "published": "1903-01-31",
+   "statement": "Tom Allen has pains in the arms, ribs and stomach where his opponents' punches landed in past battles."
+  },
+  {
+   "cid": "194.c12",
+   "date": "1903-01",
+   "published": "1903-01-31",
+   "statement": "Don Murphy, manager of Allen's place, said Allen would soon be out again, but that his illness had told on him considerably."
+  },
+  {
+   "cid": "195.c1",
+   "date": "1903-01",
+   "published": "1903-01-31",
+   "statement": "Tom Allen has been confined to his bed for two or three weeks with persistent colds and is believed to be seriously ill."
+  },
+  {
+   "cid": "195.c12",
+   "date": "1903-01",
+   "published": "1903-01-31",
+   "statement": "Don Murphy, manager of Allen's place, said Allen would soon be out again, but that his illness had told on him considerably."
+  },
+  {
+   "cid": "196.c10",
+   "date": "1903-01",
+   "published": "1903-02-01",
+   "statement": "Tom Allen is now ill at his home on Market street."
+  },
+  {
+   "cid": "203.c16",
+   "date": "1903-02",
+   "published": "1903-04-06",
+   "conf": "medium",
+   "statement": "Allen took to his bed about six weeks before his death, around late February 1903, and was given the best of attention."
+  },
+  {
+   "cid": "197.c2",
+   "date": "1903-03",
+   "published": "1903-03-27",
+   "conf": "medium",
+   "statement": "Tom Allen planned to marry his nurse, Mrs. Tillie Hartgrove of St. Louis, as soon as he recovered from his illness; the paper gives her age as 21 (headline)."
+  },
+  {
+   "cid": "202.c10",
+   "date": "1903-03",
+   "published": "1903-04-06",
+   "conf": "medium",
+   "statement": "When Mrs. Taylor tried to see her father at the Baptist Hospital after the report of his engagement, she was told he was too ill to talk to anyone."
+  },
+  {
+   "cid": "213.c7",
+   "date": "1903-03",
+   "published": "1903-04-26",
+   "statement": "Tom Allen died in St. Louis about one month before this article was printed."
+  },
+  {
+   "cid": "1004.c7",
+   "date": "1903-03-27",
+   "published": "1903-04-06",
+   "conf": "medium",
+   "statement": "Tom Allen was taken to the hospital on Friday, 27 March 1903, a week before the article."
+  },
+  {
+   "cid": "198.c1",
+   "date": "1903-03-27",
+   "published": "1903-03-30",
+   "conf": "medium",
+   "statement": "Tom Allen's housekeeper, Mrs. Tillie Hartgrove, said the two were to be married when Allen recovered from his illness, which began at Christmas."
+  },
+  {
+   "cid": "198.c4",
+   "date": "1903-03-28",
+   "published": "1903-03-30",
+   "statement": "On Saturday, March 28, 1903, the attending physician diagnosed Allen's illness as pneumonia and advised his removal to a hospital."
+  },
+  {
+   "cid": "198.c5",
+   "date": "1903-03-28",
+   "published": "1903-03-30",
+   "statement": "On Saturday, March 28, 1903, Allen was removed to the Baptist Hospital at Garrison and Franklin avenues."
+  },
+  {
+   "cid": "198.c3",
+   "date": "1903-03-30",
+   "published": "1903-03-30",
+   "statement": "Allen's daughter, Mrs. Mary Taylor, went to the Baptist Hospital with Robert Lyons on Monday, March 30, 1903, and was refused admittance a second time."
+  },
+  {
+   "cid": "198.c7",
+   "date": "1903-03-30",
+   "published": "1903-03-30",
+   "conf": "medium",
+   "statement": "Mrs. Taylor said her mother and sister were living in Birmingham, England."
+  },
+  {
+   "cid": "1003.c1",
+   "date": "1903-04",
+   "published": "1903-04-05",
+   "statement": "Tom Allen is seriously ill."
+  },
+  {
+   "cid": "1007.c1",
+   "date": "1903-04",
+   "published": "1903-04-07",
+   "statement": "Tom Allen had died, and his body lay at an undertaking establishment."
+  },
+  {
+   "cid": "1004.c8",
+   "date": "1903-04-05",
+   "published": "1903-04-06",
+   "statement": "Tom Allen, retired champion pugilist of the world, died at the Baptist Hospital, Garrison and Franklin avenues, St. Louis, on the morning of 5 April 1903."
+  },
+  {
+   "cid": "202.c1",
+   "date": "1903-04-05",
+   "published": "1903-04-06",
+   "statement": "Tom Allen died on Sunday, April 5, 1903, at the Baptist Hospital in St. Louis, at the age of 6- (printed; the last digit is cut off)."
+  },
+  {
+   "cid": "203.c2",
+   "date": "1903-04-05",
+   "published": "1903-04-06",
+   "statement": "Tom Allen, retired champion pugilist, died early on the morning of April 5, 1903, at the Baptist Hospital."
+  },
+  {
+   "cid": "206.c1",
+   "date": "1903-04-05",
+   "published": "1903-04-09",
+   "statement": "Tom Allen died in St. Louis on April 5, 1903, from general debility."
+  },
+  {
+   "cid": "259.c8",
+   "date": "1903-04-05",
+   "published": "1903-04-10",
+   "statement": "Tom Allen died at the Baptist Hospital, Garrison and Franklin avenues, St. Louis, at 7:35 a.m. on Sunday, April 5, 1903."
+  },
+  {
+   "cid": "262.c16",
+   "date": "1903-04-06",
+   "published": "1978",
+   "retro": true,
+   "statement": "Tom Allen died on 6 April 1903, still operating Sportsmen's Rest."
+  },
+  {
+   "cid": "203.c3",
+   "date": "1903-04-08",
+   "published": "1903-04-06",
+   "conf": "medium",
+   "statement": "Allen's funeral was expected on Wednesday morning, April 8, 1903, from his home over No. 615 Market Street."
+  },
+  {
+   "cid": "204.c4",
+   "date": "1903-04-08",
+   "published": "1903-04-09",
+   "statement": "At Allen's funeral on Wednesday, April 8, 1903, from Wand's undertaking establishment, his daughter Mrs. Polly Taylor and Mrs. Tillie Hartgrove stood on opposite sides of the bier."
+  },
+  {
+   "cid": "207.c3",
+   "date": "1903-04-08",
+   "published": "1903-04-09",
+   "statement": "Tom Allen's funeral took place at 2 p.m. on April 8, 1903, from the Farley & Wand undertaking establishment at 211 South Sixth Street."
+  },
+  {
+   "cid": "207.c4",
+   "date": "1903-04-08",
+   "published": "1903-04-09",
+   "conf": "low",
+   "statement": "Former prize fighters, including Chris Lauff, J Fletcher, Tom Kelly, Andy Kirk, Tom O'Donnell and Gus Ellis, were pallbearers at Allen's funeral."
+  },
+  {
+   "cid": "207.c5",
+   "date": "1903-04-08",
+   "published": "1903-04-09",
+   "conf": "medium",
+   "statement": "Allen's daughter Polly Taylor stood by the coffin at the funeral with her four children."
+  },
+  {
+   "cid": "208.c1",
+   "date": "1903-04-08",
+   "published": "1903-04-11",
+   "statement": "Tom Allen was buried in St. Louis on Wednesday, April 8, 1903."
+  },
+  {
+   "cid": "208.c4",
+   "date": "1903-04-08",
+   "published": "1903-04-11",
+   "conf": "medium",
+   "statement": "Charlie Daly, Chris Lauff, Jack Fletcher, Tom Kelly, T. Neusel, Tom O'Donnell and Gus Ellis were pallbearers at Allen's funeral and agreed to serve on the benefit committee."
+  },
+  {
+   "cid": "209.c2",
+   "date": "1903-04-08",
+   "published": "1903-04-12",
+   "statement": "Tom Allen's funeral procession went to the cemetery on Wednesday, April 8, 1903."
+  },
+  {
+   "cid": "1000.c1",
+   "date": "1903-04-23",
+   "published": "1903-03-28",
+   "statement": "Tom Allen announced he would marry Mrs. Tillie Hartgrove, 21, a trained nurse, on April 23, 1903, his 65th birthday."
+  },
+  {
+   "cid": "201.c2",
+   "date": "1903-04-23",
+   "published": "1903-04-03",
+   "conf": "medium",
+   "statement": "Tom Allen planned to marry Mrs. Tillie Hartgrove of St. Louis on his 64th birthday, April 23; she is described as a 31-year-old (printed as '[3]1-year-old')."
+  },
+  {
+   "cid": "240.c3",
+   "date": "1904",
+   "published": "1927-07-09",
+   "retro": true,
+   "statement": "Tom Allen died in St. Louis in 1904."
+  },
+  {
+   "cid": "252.c4",
+   "date": "1904",
+   "published": "1936-12-13",
+   "retro": true,
+   "statement": "Tom Allen died in 1904."
+  },
+  {
+   "cid": "253.c12",
+   "date": "1904",
+   "published": "1937-10-29",
+   "retro": true,
+   "statement": "Tom Allen died in 1904 (the article's date; other articles give 1903)."
+  },
+  {
+   "cid": "247.c1",
+   "date": "1904-04-05",
+   "published": "1934-12-03",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen died in St. Louis on April 5, 1904."
+  },
+  {
+   "cid": "221.c4",
+   "date": "1905",
+   "published": "1907-01-19",
+   "retro": true,
+   "statement": "Tom Allen died in St. Louis about two years before this article was printed, so around 1905."
+  },
+  {
+   "cid": "242.c12",
+   "date": "1905",
+   "published": "1928-12-09",
+   "retro": true,
+   "statement": "Tom Allen died in 1905."
+  }
+ ]
+}

@@ -1,0 +1,244 @@
+{
+  "id": "517",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he had fought nineteen battles in the ring and had fought for more money than any man living.",
+      "excerpt": "I have fought nineteen battles in the ring, and I have fought for more money than any man living",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England", "America"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he stood unrivaled as champion of the middle weights of England.",
+      "excerpt": "I stand unrivaled as champion of the middle weights",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Posh Price in England, the bout lasting two hours and five minutes.",
+      "excerpt": "My last five fights in England were with Posh Price and George Iles, the former lasting two hours and five minutes and the latter two hours.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Posh Price"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought George Iles in England, the bout lasting two hours.",
+      "excerpt": "My last five fights in England were with Posh Price and George Iles, the former lasting two hours and five minutes and the latter two hours.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["George Iles"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Bob Smith in England, the bout lasting three hours.",
+      "excerpt": "And my fight with Bob Smith (the black) lasted three hours",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bob Smith"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen's last fight with Joe Goss in England lasted one hour and fifty-seven minutes until darkness and was agreed as a draw.",
+      "excerpt": "my last fight with Joe Goss was one hour and fifty-seven minutes, when darkness came on; the next morning the doctors advised us to agree to a draw which we did",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Charlie Gallagher in under twenty minutes, by his own account.",
+      "excerpt": "Now these men did not last above twenty minutes when they met me",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charlie Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Bill Davis in under twenty minutes, by his own account.",
+      "excerpt": "Now these men did not last above twenty minutes when they met me",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bill Davis"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in under twenty minutes, by his own account.",
+      "excerpt": "Now these men did not last above twenty minutes when they met me",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen sparred with Rocky Moore, the first man he sparred with in America, and made a child of him with the gloves.",
+      "excerpt": "he was the first man I sparred with in the country, and I made a child of him with the gloves",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Rocky Moore"],
+      "places": ["America"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen's sparring with Rocky Moore was stopped when the crowd came on the stage to mob him.",
+      "excerpt": "because I hit him so hard and so often they came on the stage and attempted to mob me, and they stopped the sparring",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Rocky Moore"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I have fought some of the longest battles of any man in the world, as my record will show.",
+      "topic": "answering the Republican on long fights"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I have fought nineteen battles in the ring, and I have fought for more money than any man living.",
+      "topic": "his record and earnings"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "for he is too big a coward to whip any man.",
+      "topic": "on George Rooke"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Posh Price",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "two hours and five minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "My last five fights in England were with Posh Price and George Iles, the former lasting two hours and five minutes and the latter two hours.",
+      "reported_as": "recollection",
+      "notes": "Allen's own list of his last five English fights; winner not stated."
+    },
+    {
+      "opponent": "George Iles",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "two hours",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "My last five fights in England were with Posh Price and George Iles, the former lasting two hours and five minutes and the latter two hours.",
+      "reported_as": "recollection",
+      "notes": "Winner not stated."
+    },
+    {
+      "opponent": "Bob Smith",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "three hours",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "And my fight with Bob Smith (the black) lasted three hours",
+      "reported_as": "recollection",
+      "notes": "Winner not stated. Described as 'the black'."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "draw",
+      "rounds": "",
+      "duration": "one hour and fifty-seven minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "my last fight with Joe Goss was one hour and fifty-seven minutes, when darkness came on; the next morning the doctors advised us to agree to a draw which we did",
+      "reported_as": "recollection",
+      "notes": "Stopped by darkness; draw agreed. Article 521 gives a different duration (1 hour 52 minutes); not reconciled here."
+    },
+    {
+      "opponent": "Charlie Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "under twenty minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Now these men did not last above twenty minutes when they met me",
+      "reported_as": "recollection",
+      "notes": "Win implied, not stated outright. 'These men' follows the Gallagher-Davis, Gallagher-Elliott and McCoole-Coburn sentences; Elliott and Coburn are not named as Allen's opponents here."
+    },
+    {
+      "opponent": "Bill Davis",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "under twenty minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Now these men did not last above twenty minutes when they met me",
+      "reported_as": "recollection",
+      "notes": "Win implied, not stated outright (see Gallagher entry)."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "under twenty minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Now these men did not last above twenty minutes when they met me",
+      "reported_as": "recollection",
+      "notes": "Win implied, not stated outright (see Gallagher entry)."
+    }
+  ],
+  "notes": "Card from Allen replying to the Republican. Fight list is his own account. Hints named Gallagher, Davis and McCoole for the 'twenty minutes' line; the text supports those three but does not say each was a bout with Allen."
+}

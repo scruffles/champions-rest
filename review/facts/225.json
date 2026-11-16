@@ -1,0 +1,45 @@
+{
+  "id": "225",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "The Star describes a fierce contest between Tom Allen and Jem Mace for $10,000 and the world's title, won by Tom Allen.",
+      "excerpt": "af science by the winner, Tom Al-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen is described as of St. Louis.",
+      "excerpt": "Getwcen Tom Allen of St. Lonis",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "New Orleans",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$10,000 and the world's title",
+      "rules": "",
+      "excerpt": "af science by the winner, Tom Al-",
+      "reported_as": "recollection",
+      "notes": "Teaser for a serialised story (No. 4 of 'Great Stories of the Ring', told by Bill Clark). The bout's date and round details are not in this installment; the place is implied by 'scenes in New Orleans before the great battle'. Part II is promised for February 4."
+    }
+  ],
+  "notes": "Teaser only. Subtitles name Allen the winner."
+}

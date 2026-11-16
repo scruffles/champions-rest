@@ -1,0 +1,91 @@
+{
+  "id": "107",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as an ex-prize-fighter and bruiser.",
+      "excerpt": "The Hon. Tom Allen, ex-prize-fighter and bruis-",
+      "date": "1883-10-30",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was tried in the St. Louis Police Court on a charge of keeping a disorderly house at his saloon, with Cornelius McBride as his attorney.",
+      "excerpt": "this morning, to answer to the charge of keeping",
+      "date": "1883-10-30",
+      "date_precision": "day",
+      "people": ["Cornelius McBride"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Judge Cady said it had not been clearly proved that the house was disorderly, and discharged Tom Allen.",
+      "excerpt": "Judge Cady said tuat it had -not",
+      "date": "1883-10-30",
+      "date_precision": "day",
+      "people": ["Judge Cady"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Officer Hamilton testified that Tom Allen's saloon was on his beat and that disturbances often occurred there.",
+      "excerpt": "Officer Hamilton saidthat Tom Allen’s saloon was",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Officer Hamilton"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Witnesses testified that singing in Tom Allen's saloon could be heard two blocks away.",
+      "excerpt": "singing in the saloon could be heard two blocks",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Mr. Daly testified that fights occurred frequently at Tom Allen's saloon.",
+      "excerpt": "Figiits oceurred there frequentiy. At one time",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mr. Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Mr. Daly testified that on one occasion he saw eight or nine men taken out into the yard at Tom Allen's saloon and placed under a hydrant to have the blood washed off.",
+      "excerpt": "placed under the hydrant to have the biocoda",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mr. Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Mr. Daly",
+      "text": "language of the vilest kina.",
+      "topic": "Allen's language"
+    }
+  ],
+  "fights": [],
+  "notes": "The saloon's address is not in the text. The hint that the saloon adjoined the Metropolitan Hotel is not supported, so it is dropped."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "754",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was the first of the prize-fight suspects arrested under the Franklin County warrants, a few minutes before noon on 1888-04-18.",
+      "excerpt": "the veteran Tom Allen was the first to be caught in the net, as he expressed it.",
+      "date": "1888-04-18",
+      "date_precision": "day",
+      "people": ["Sheriff Ehlers"],
+      "places": ["Four Courts, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen gave a $500 bond to appear before Justice Frazee at Union, Franklin County, at 10 o'clock the next morning.",
+      "excerpt": "Frazee at 10 o'clock to-morrow morning. The bond wasinthe sum of $500.",
+      "date": "1888-04-19",
+      "date_precision": "day",
+      "people": ["Justice Frazee"],
+      "places": ["Union, Franklin County, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The arrest location and time (about noon, as he was about to sit down to breakfast) conflicts with 756, which says he was captured at his saloon. The bond is printed '$500' and the hearing date is the day after the arrest (planned)."
+}

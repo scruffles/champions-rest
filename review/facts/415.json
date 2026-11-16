@@ -1,0 +1,41 @@
+{
+  "id": "415",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "A $100-a-side fight between Punch Morris and Steve O'Donnell was made up at Tom Allen's saloon on Saturday night.",
+      "excerpt": "was made up at Tom Allen's saloon on Saturday night",
+      "date": "1870-08-06",
+      "date_precision": "day",
+      "people": ["Punch Morris", "Steve O'Donnell"],
+      "places": ["Tom Allen's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen backed Punch Morris in the $100 fight with Steve O'Donnell, and Jack Leoney backed O'Donnell.",
+      "excerpt": "The backer of Morris is Tom Al-\nlen, and jJack Leoney backs O'Donnell.",
+      "date": "1870-08-06",
+      "date_precision": "day",
+      "people": ["Punch Morris", "Steve O'Donnell", "Jack Leoney"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The forfeit money for the Morris and O'Donnell fight was put up at Tom Allen's saloon.",
+      "excerpt": "The forfeit money was immediately put up at Allen's.",
+      "date": "1870-08-06",
+      "date_precision": "day",
+      "people": ["Punch Morris", "Steve O'Donnell"],
+      "places": ["Tom Allen's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The Morris-O'Donnell fight is not Allen's own contest, so there is no fight entry. Only his backing and his saloon are about him."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "005",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested in Cleveland on Wednesday, charged with violating the prize-fighting laws. The name is lost in the OCR text (printed as ', the pazibst,'); the headline names Allen.",
+      "excerpt": "was arrested in Cleveland\non Wednesday, charged with violating the 'aws re-\nlative to prize-fighting.",
+      "date": "1868-12-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cleveland, Ohio"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "legal",
+      "statement": "The court held that training for a prize-fight was not a violation of the laws of the State, and so discharged the arrested man.",
+      "excerpt": "no' in violation of the laws of the State to train\nfor a prize-fight, and therefore discharged the",
+      "date": "1868-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Cleveland, Ohio"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Name missing from the text, so Allen is identified from the headline. Text is cut off at 'discharged the'."
+}

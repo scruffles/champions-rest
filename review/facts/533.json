@@ -1,0 +1,56 @@
+{
+  "id": "533",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen sparred with his trainer Ned Donnelly at a private benefit for Donnelly given by members of Tom Allen's Gymnasium Club in St. Louis.",
+      "excerpt": "young Donneily and the champion exhibited the beauties of the art in",
+      "date": "1876-02-22",
+      "date_precision": "day",
+      "people": ["Ned Donnelly"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Ned Donnelly had trained Tom Allen for his fight with George Rooke, which Rooke backed out of.",
+      "excerpt": "who trained the champion for his fight with Geo.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ned Donnelly", "George Rooke"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was to fight George Rooke, but Rooke backed out of the match.",
+      "excerpt": "his fight with Geo. Rooke, out of which the latter sneaked",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["George Rooke"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "George Rooke",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "his fight with Geo. Rooke, out of which the latter sneaked",
+      "reported_as": "report",
+      "notes": "Forfeit by Rooke (the text says he 'sneaked' out of it). Date not given; the match was made before this 1876 article."
+    }
+  ],
+  "notes": "The hint's 'Donnelly trained Allen' is kept. The Rooke match is a fight because it was made and then forfeited by Rooke."
+}

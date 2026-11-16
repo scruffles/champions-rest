@@ -1,0 +1,19 @@
+{
+  "id": "417",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "John Madden said terms for a match with Buckey Barrett could be arranged by calling at Tom Allen's saloon.",
+      "excerpt": "can be made by calling at Tom Allen's saloon",
+      "date": "1870-08-15",
+      "date_precision": "day",
+      "people": ["John Madden", "Buckey Barrett"],
+      "places": ["Tom Allen's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Madden's acceptance of Barrett's challenge is between two other men; Allen is only the venue, so the challenge itself is not recorded."
+}

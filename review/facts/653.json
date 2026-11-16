@@ -1,0 +1,34 @@
+{
+  "id": "653",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher beat Tom Allen in a fight; no date or place is given.",
+      "excerpt": "Charley poliggner. who beat Tom Allen, wasthe victim of a eps and died in",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Charley poliggner. who beat Tom Allen, wasthe victim of a eps and died in",
+      "reported_as": "recollection",
+      "notes": "Name printed as 'poliggner'; probably the February 1869 bout, but this article gives no date. Most of the article is about Gallagher's death, not Allen."
+    }
+  ],
+  "notes": "Only the passing mention of Gallagher beating Allen concerns Allen."
+}

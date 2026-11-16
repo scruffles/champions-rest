@@ -1,0 +1,20 @@
+{
+ "bucket": "career-undated-p3",
+ "facts": [
+  {"fact": "Tom Allen was advertised as, and styled himself, the retired champion pugilist of the world during 1892.", "join": "career-1892-1903#1", "date": "", "seed": "", "conflict": "title wording: retired champion pugilist of the world (most claims) vs retired pugilist of the world (883.c3, 884.c3, low, garbled)", "claims": ["841.c2", "842.c2", "843.c2", "844.c2", "845.c2", "870.c2", "872.c2", "875.c2", "877.c2", "879.c3", "880.c3", "881.c3", "883.c3", "884.c3"]},
+  {"fact": "Tom Allen was advertised as the retired champion pugilist of the world during 1893.", "join": "career-1892-1903#2", "date": "", "seed": "", "conflict": "", "claims": ["885.c3"]},
+  {"fact": "Tom Allen beat Mike McCoole on 23 September 1873, regaining the heavyweight title.", "join": "career-1860-1875#21", "date": "", "seed": "", "conflict": "", "claims": ["890.c1", "898.c1"]},
+  {"fact": "Tom Allen is described as the retired heavy-weight champion of this city in March 1892.", "date": "", "seed": "", "conflict": "", "claims": ["840.c1"]},
+  {"fact": "Tom Allen was described as an ex-champion heavy-weight in March 1892.", "date": "", "seed": "", "conflict": "", "claims": ["839.c1"]},
+  {"fact": "The paper described Tom Allen as the heavy-weight champion in August 1892.", "date": "", "seed": "", "conflict": "", "claims": ["855.c1"]},
+  {"fact": "The paper calls Tom Allen an ex-champion in December 1893.", "date": "", "seed": "", "conflict": "", "claims": ["894.c6"]},
+  {"fact": "The paper described Tom Allen as one of two English champions of America, with Joe Goss, in February 1896.", "date": "", "seed": "", "conflict": "", "claims": ["925.c2"]},
+  {"fact": "Tom Allen was described as the veteran ex-champion of America in November 1896.", "date": "", "seed": "", "conflict": "", "claims": ["942.c1"]},
+  {"fact": "Tom Allen was described as the retired champion in 1896 and 1897.", "date": "", "seed": "", "conflict": "", "claims": ["945.c2", "964.c3"]},
+  {"fact": "The paper describes Tom Allen as one of the cleverest fighters of the old-time school.", "date": "", "seed": "", "conflict": "", "claims": ["952.c4"]},
+  {"fact": "Tom Allen was described as an ex-champion pugilist in April 1897.", "date": "", "seed": "", "conflict": "", "claims": ["957.c4"]},
+  {"fact": "After Johnny Dwyer went into politics, Tom Allen claimed the championship.", "date": "", "seed": "", "conflict": "", "claims": ["923.c2"]},
+  {"fact": "Tom Allen at one time in his career had a claim on the championship of the world.", "date": "", "seed": "", "conflict": "", "claims": ["996.c2"]},
+  {"fact": "The paper said Tom Allen, with Dannie Daly and Tom Kelly, belonged to a past period of boxing and was not in the prize ring guide.", "date": "", "seed": "", "conflict": "", "claims": ["999.c1"]}
+ ]
+}

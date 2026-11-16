@@ -1,0 +1,84 @@
+{
+  "id": "058",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen announced in a card that he was retiring from the ring.",
+      "excerpt": "of Tom Allen's, in which he states that he re-",
+      "date": "1875-06",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen's match with Rooke, for $1,500 a side to be fought June 17, 1875, was declared off.",
+      "excerpt": "My match with Allen was for $1,500",
+      "date": "1875-06-17",
+      "date_precision": "day",
+      "people": ["Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "On June 17, 1875, Allen went to the ring alone, stepped in and claimed the stakes after Rooke did not meet him, according to Rooke.",
+      "excerpt": "ground, stepped into the ring and claimed the",
+      "date": "1875-06-17",
+      "date_precision": "day",
+      "people": ["Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "A misunderstanding between Tom Allen and Harry Hill over money allegedly due to Hill delayed the transfer of the stakes for the Rooke match.",
+      "excerpt": "misunderstanding between Allen and Harry Hill,",
+      "date": "1875-06",
+      "date_precision": "approx",
+      "people": ["Harry Hill"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Rooke challenged Tom Allen to fight without stakes and offered to bet $1,000 that he would whip him.",
+      "excerpt": "If he accepts I will bet him one",
+      "date": "1875-06-22",
+      "date_precision": "day",
+      "people": ["Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Rooke",
+      "text": "He knew I wonld not be in the ring.",
+      "topic": "says Allen ran from the match"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Rooke",
+      "date": "1875-06-17",
+      "date_precision": "day",
+      "place": "",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,500 a side",
+      "rules": "",
+      "excerpt": "My match with Allen was for $1,500",
+      "reported_as": "report",
+      "notes": "Declared off after the sides failed to agree on a stakeholder; account is Rooke's."
+    }
+  ],
+  "notes": "Rooke's statement and Harry Hill's notice; Allen's own card is not printed."
+}

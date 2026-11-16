@@ -1,0 +1,41 @@
+{
+  "id": "187",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "The Prosecuting Attorney issued a warrant charging Tom Allen with murder in the second degree in the killing of Timothy Confoy.",
+      "excerpt": "issued a warrant Tuesday afternoon for the arrest of Tom Allen",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": ["Timothy Confoy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen was arrested at once and gave bond of $300.",
+      "excerpt": "Allen wes at once arrested and gave bond",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen had earlier been acquitted by the coroner's jury.",
+      "excerpt": "peen acquilied by the Coroners Jury.",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Same text as 184 (a second clipping of the same report). Bond printed as $300, not the $5,000 in the hint."
+}

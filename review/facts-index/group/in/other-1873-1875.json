@@ -1,0 +1,346 @@
+{
+ "bucket": "other-1873-1875",
+ "kind": "other",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "451.c1",
+   "date": "1873-01-02",
+   "published": "1873-01-04",
+   "statement": "Tom Allen and Mike McCoole quarrelled at Jack Looney's New Year's fancy ball, about 4 a.m. on January 2, 1873."
+  },
+  {
+   "cid": "452.c5",
+   "date": "1873-06",
+   "published": "1873-06-11",
+   "statement": "Tom Allen stayed at home taking longer walks to reduce to 170 pounds fighting weight, and would not go into training quarters for nearly two months."
+  },
+  {
+   "cid": "453.c1",
+   "date": "1873-06",
+   "published": "1873-06-11",
+   "statement": "Tom Allen said he was more afraid of his wife than of Mike McCoole, especially when he came home late at night."
+  },
+  {
+   "cid": "453.c2",
+   "date": "1873-06",
+   "published": "1873-06-11",
+   "statement": "A Democrat reporter asked Tom Allen whether he was afraid of the pugilist Mike McCoole."
+  },
+  {
+   "cid": "455.c2",
+   "date": "1873-07-06",
+   "published": "1873-07-13",
+   "conf": "medium",
+   "statement": "Allen's emissaries claimed that when Allen called on McCoole last Sunday, McCoole kept out of his way; McCoole's trainer denied it."
+  },
+  {
+   "cid": "456.c7",
+   "date": "1873-08",
+   "published": "1873-08-02",
+   "conf": "medium",
+   "statement": "Tom Allen was preparing for the McCoole fight and would then be ready for Charley Gallagher or any other man."
+  },
+  {
+   "cid": "458.c2",
+   "date": "1873-08",
+   "published": "1873-08-19",
+   "conf": "medium",
+   "statement": "Tom Allen was reported to have done little training and to be reducing by walking before the McCoole fight."
+  },
+  {
+   "cid": "457.c2",
+   "date": "1873-08-05",
+   "published": "1873-08-06",
+   "statement": "Tom Allen was present at the fourth deposit at McCoole's saloon."
+  },
+  {
+   "cid": "498.c6",
+   "date": "1873-09",
+   "published": "1873-11-22",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Arthur Chambers seconded Tom Allen in the fight with Mike McCoole."
+  },
+  {
+   "cid": "459.c2",
+   "date": "1873-09-02",
+   "published": "1873-09-03",
+   "statement": "Tom Allen did not appear at the final deposit."
+  },
+  {
+   "cid": "465.c39",
+   "date": "1873-09-22",
+   "published": "1873-09-23",
+   "statement": "Arthur Chambers and Patsey arrived in St. Louis from New York and were to second Tom Allen against McCoole."
+  },
+  {
+   "cid": "044.c2",
+   "date": "1873-09-23",
+   "published": "1873-09-24",
+   "statement": "Arthur Chambers and Palsy Shepherd seconded Tom Allen in his fight with McCoole."
+  },
+  {
+   "cid": "242.c7",
+   "date": "1873-09-23",
+   "published": "1928-12-09",
+   "retro": true,
+   "statement": "Johnny Daly was Tom Allen's handler at the 1873 fight with Mike McCoole."
+  },
+  {
+   "cid": "463.c5",
+   "date": "1873-09-23",
+   "published": "1873-09-23",
+   "conf": "medium",
+   "statement": "Arthur Chambers and Patsy Sheppard were expected to go into the ring as Tom Allen's seconds."
+  },
+  {
+   "cid": "467.c3",
+   "date": "1873-09-23",
+   "published": "1873-09-24",
+   "statement": "On the return trip Tom Allen started a subscription for Mike McCoole, headed it with $100, and the money was given to the trainers Madden and Tricks."
+  },
+  {
+   "cid": "474.c1",
+   "date": "1873-09-23",
+   "published": "1873-09-26",
+   "statement": "F. C. Cox won over $102 betting on Tom Allen on September 23, 1873."
+  },
+  {
+   "cid": "909.c16",
+   "date": "1873-09-23",
+   "published": "1895-03-31",
+   "retro": true,
+   "statement": "Tom Allen received half of the $12,000 boat money from his second fight with Mike McCool."
+  },
+  {
+   "cid": "466.c2",
+   "date": "1873-09-25",
+   "published": "1873-09-24",
+   "conf": "medium",
+   "statement": "Arthur Chambers and a second man named as 'Pater Ree' were Tom Allen's seconds and trainers for his fight with Mike McCoole."
+  },
+  {
+   "cid": "473.c5",
+   "date": "1873-09-25",
+   "published": "1873-09-26",
+   "statement": "Tom Allen said he planned to enjoy himself for two weeks and then return to training."
+  },
+  {
+   "cid": "480.c7",
+   "date": "1873-10",
+   "published": "1873-10-06",
+   "conf": "low",
+   "statement": "A bet of two hundred against one was placed in the hands of Joel Herbert a few evenings before the article (the paper's figures are garbled)."
+  },
+  {
+   "cid": "487.c9",
+   "date": "1873-10",
+   "published": "1873-10-24",
+   "statement": "Arthur Chambers would again act as one of Tom Allen's seconds for the Hogan fight."
+  },
+  {
+   "cid": "496.c1",
+   "date": "1873-10",
+   "published": "1873-10-30",
+   "conf": "medium",
+   "statement": "Mike McCoole was described as the opponent of Tom Allen."
+  },
+  {
+   "cid": "592.c2",
+   "date": "1873-10",
+   "published": "1877-03-06",
+   "retro": true,
+   "conf": "medium",
+   "statement": "John Looney suspected that Ben Hogan had arranged the failed excursion as a put-up job to avoid meeting Tom Allen."
+  },
+  {
+   "cid": "479.c3",
+   "date": "1873-10-01",
+   "published": "1873-10-01",
+   "statement": "Tom Allen has not yet begun training for the Hogan fight and will start only a few days before the contest."
+  },
+  {
+   "cid": "480.c5",
+   "date": "1873-10-06",
+   "published": "1873-10-06",
+   "statement": "Tom Allen will not begin training for the Hogan fight until about two weeks before it."
+  },
+  {
+   "cid": "480.c6",
+   "date": "1873-10-06",
+   "published": "1873-10-06",
+   "statement": "The odds favored Tom Allen over Ben Hogan, in some cases two to one."
+  },
+  {
+   "cid": "484.c2",
+   "date": "1873-10-07",
+   "published": "1873-10-08",
+   "conf": "medium",
+   "statement": "Tom Allen was already in trim for the Hogan fight, while Ben Hogan was still getting in trim."
+  },
+  {
+   "cid": "490.c4",
+   "date": "1873-10-28",
+   "published": "1873-10-28",
+   "statement": "Arthur Chambers and Patsy Curtin were to second Tom Allen in the fight."
+  },
+  {
+   "cid": "498.c7",
+   "date": "1873-10-28",
+   "published": "1873-11-22",
+   "conf": "medium",
+   "statement": "Arthur Chambers also seconded Tom Allen in the Hogan fight at East St. Louis."
+  },
+  {
+   "cid": "503.c2",
+   "date": "1873-12-09",
+   "published": "1873-12-10",
+   "statement": "Tom Allen denied fouling Ben Hogan, after Dr. C. E. Tennent had certified that Hogan was struck below the belt."
+  },
+  {
+   "cid": "654.c2",
+   "date": "1874",
+   "published": "1882-05-12",
+   "retro": true,
+   "statement": "At the 1874 Springfield reunion, Tom Allen caught a pickpocket's hand and squeezed it, and the victim's outcry was the first alarm of a panic in the gallery."
+  },
+  {
+   "cid": "654.c3",
+   "date": "1874",
+   "published": "1882-05-12",
+   "retro": true,
+   "statement": "Tom Allen was sitting in the second gallery with a friend when a pickpocket reached for his pocket at the 1874 Springfield reunion."
+  },
+  {
+   "cid": "247.c8",
+   "date": "1874-01",
+   "published": "1934-12-03",
+   "retro": true,
+   "statement": "After the Allen-McCoole fight, the Missouri Legislature made prize-fighting a felony in January 1874."
+  },
+  {
+   "cid": "047.c4",
+   "date": "1874-02-19",
+   "published": "1874-02-20",
+   "statement": "Tom Allen said he sides with the legislature's bill against prize-fighting, because the ring has become corrupt."
+  },
+  {
+   "cid": "047.c5",
+   "date": "1874-02-19",
+   "published": "1874-02-20",
+   "statement": "Tom Allen said the bill had put his name in to mark him, and that the Times called him a refugee, which he denied."
+  },
+  {
+   "cid": "508.c2",
+   "date": "1874-08",
+   "published": "1874-08-16",
+   "statement": "Tom Allen was one of Edwards' seconds in Edwards' fight with Collyer near Pittsburg in August 1874."
+  },
+  {
+   "cid": "921.c2",
+   "date": "1875",
+   "published": "1895-11-10",
+   "retro": true,
+   "conf": "low",
+   "statement": "About twenty years earlier Fred Watkins furnished something for Tom Allen (printed as 'Allen's apg')."
+  },
+  {
+   "cid": "056.c2",
+   "date": "1875-01-21",
+   "published": "1875-01-22",
+   "statement": "Tom Allen appeared on the stage at the Comique benefit wearing his champion's belt and was greeted with loud applause."
+  },
+  {
+   "cid": "056.c3",
+   "date": "1875-01-21",
+   "published": "1875-01-22",
+   "statement": "At the audience's demand, Tom Allen sang three or four songs at the Comique benefit, although he was not on the bill as a singer."
+  },
+  {
+   "cid": "057.c2",
+   "date": "1875-02",
+   "published": "1875-02-16",
+   "statement": "Arthur Chambers, champion of the lightweights, put up $250 as a binder for Allen in the hands of Harry Gill for the Rooke match."
+  },
+  {
+   "cid": "291.c9",
+   "date": "1875-03",
+   "published": "1875-03-16",
+   "conf": "low",
+   "statement": "Tom Allen said he weighed 210 pounds (printed as '3i0') and had to train down before the Rooke fight."
+  },
+  {
+   "cid": "516.c4",
+   "date": "1875-03",
+   "published": "1875-03-20",
+   "statement": "The silver goblet presented to Tom Allen held a quart and cost $250."
+  },
+  {
+   "cid": "256.c3",
+   "date": "1875-06",
+   "published": "1875-06-17",
+   "statement": "Chamberlain declined to take part at the eleventh hour because some of his friends had money on Rooke and wanted their stakes back."
+  },
+  {
+   "cid": "256.c4",
+   "date": "1875-06",
+   "published": "1875-06-17",
+   "conf": "medium",
+   "statement": "A report said Joe Coburn had organized a gang to go to Pittsburg and win the fight for Rooke by a staged foul if Rooke could not win."
+  },
+  {
+   "cid": "257.c3",
+   "date": "1875-06",
+   "published": "1875-06-29",
+   "conf": "medium",
+   "statement": "Allen told the Republican the news of the new arrangements was new to him, and that Harry Hill was authorized to act for him."
+  },
+  {
+   "cid": "520.c5",
+   "date": "1875-06",
+   "published": "1875-06-09",
+   "conf": "medium",
+   "statement": "Arthur Chambers and Billy Edwards attended to Allen's interests at the final deposit."
+  },
+  {
+   "cid": "256.c2",
+   "date": "1875-06-01",
+   "published": "1875-06-17",
+   "statement": "John Chamberlain was selected as final stakeholder for the Allen–Rooke match and accepted on June 1, 1875."
+  },
+  {
+   "cid": "256.c6",
+   "date": "1875-06-16",
+   "published": "1875-06-17",
+   "statement": "Shaughnessy, one of Rooke's backers, put an attachment on the stakes held by Harry Hill."
+  },
+  {
+   "cid": "522.c3",
+   "date": "1875-06-27",
+   "published": "1875-06-28",
+   "conf": "medium",
+   "statement": "Jem Coyne of Newark wrote to Allen planning another match with Rooke and asked Allen to second him."
+  },
+  {
+   "cid": "257.c2",
+   "date": "1875-06-28",
+   "published": "1875-06-29",
+   "conf": "medium",
+   "statement": "Harry Hill returned the $3,000 stakes from the first match and kept $1,000 of Allen's money to post for the new contest."
+  },
+  {
+   "cid": "061.c1",
+   "date": "1875-12",
+   "published": "1875-12-19",
+   "conf": "medium",
+   "statement": "A rumour said Tom Allen was preparing for the stage and would make a debut in St. Louis in an American drama written for him."
+  },
+  {
+   "cid": "530.c8",
+   "date": "1875-12-25",
+   "published": "1875-12-26",
+   "statement": "Tom Allen was to appear on the stage in a sensational play written for him, playing a 'rough diamond' who rescues the heroine, under the supervision of a leading actress."
+  }
+ ]
+}

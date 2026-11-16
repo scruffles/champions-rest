@@ -1,0 +1,30 @@
+{
+  "id": "921",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Fred Watkins backed Tom Allen in all of Allen's great fights in America.",
+      "excerpt": "who backed Tom Allen in al) his great",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Fred Watkins"],
+      "places": ["America"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "About twenty years earlier Fred Watkins furnished something for Tom Allen (printed as 'Allen's apg').",
+      "excerpt": "then he furnished Allen's apg",
+      "date": "1875",
+      "date_precision": "approx",
+      "people": ["Fred Watkins"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Garbled OCR. The hint's 'furnishing his backing' is a reading of the garbled word 'apg'; the claim is kept at low confidence. Allen appears only as Watkins's fighter."
+}

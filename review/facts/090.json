@@ -1,0 +1,170 @@
+{
+  "id": "090",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen lived in St. Louis for over ten years.",
+      "excerpt": "who resided in St. Louis for over ten years",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen gained the title of Champion of America by his prowess in the squared circle while living in St. Louis.",
+      "excerpt": "gained the title of Champion of America by his prowess in the squared",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "business",
+      "statement": "Tom Allen left St. Louis under a cloud, owing mostly to unfortunate business ventures.",
+      "excerpt": "Though Allen left this region under somewhat of a cioud",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen had recently turned up in London, according to newspaper reports, by September 1877.",
+      "excerpt": "has recently turned up in London, and, according to newspaper reports",
+      "date": "1877-09",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["London, England"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was reported to be matched against Tomkins Gilbert, champion sparrer of England, in a sparring match for £50 a side.",
+      "excerpt": "that match for £50 a side is not for a regular out-and-out fight in the ring.",
+      "date": "1877-09",
+      "date_precision": "approx",
+      "people": ["Tomkins Gilbert", "Tom Kelly"],
+      "places": ["London, England"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen met and beat Davis in a past fight (no date or place given).",
+      "excerpt": "when he met and conquerred Davis, McCoo!e. Jones, Galla",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Davis"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen met and beat Mike McCool in a past fight (no date or place given).",
+      "excerpt": "when he met and conquerred Davis, McCoo!e. Jones, Galla",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["McCool"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen met and beat Jones in a past fight (no date or place given).",
+      "excerpt": "when he met and conquerred Davis, McCoo!e. Jones, Galla",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jones"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen met and beat Gallagher in a past fight (no date or place given).",
+      "excerpt": "when he met and conquerred Davis, McCoo!e. Jones, Galla",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Kelly",
+      "text": "Well, Tom Allen can whip him.",
+      "topic": "on Allen against Gilbert"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Davis",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "when he met and conquerred Davis, McCoo!e. Jones, Galla",
+      "reported_as": "recollection",
+      "notes": "Listed in passing in a 1877 retrospective; no date, place or details given."
+    },
+    {
+      "opponent": "Mike McCool",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "when he met and conquerred Davis, McCoo!e. Jones, Galla",
+      "reported_as": "recollection",
+      "notes": "Listed in passing in a 1877 retrospective; no date, place or details given."
+    },
+    {
+      "opponent": "Jones",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "when he met and conquerred Davis, McCoo!e. Jones, Galla",
+      "reported_as": "recollection",
+      "notes": "Listed in passing in a 1877 retrospective; no date, place or details given."
+    },
+    {
+      "opponent": "Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "when he met and conquerred Davis, McCoo!e. Jones, Galla",
+      "reported_as": "recollection",
+      "notes": "Listed in passing in a 1877 retrospective; no date, place or details given."
+    }
+  ],
+  "notes": "Gilbert sparring match is an exhibition, not a fight. Gilbert spelled Guibert by OCR; Kelly's dialogue spells it Tomkins Gilbert."
+}

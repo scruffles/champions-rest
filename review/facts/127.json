@@ -1,0 +1,41 @@
+{
+  "id": "127",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen seconded Arthur Flint in Flint's prize fight against Hugh McManus near St. Clair, Missouri, on April 16, 1888.",
+      "excerpt": "Flint was seconded by Tom Allenand",
+      "date": "1888-04-16",
+      "date_precision": "day",
+      "people": ["Arthur Flint", "Hugh McManus"],
+      "places": ["near St. Clair, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was among those present at the fight near St. Clair, Missouri, on April 16, 1888.",
+      "excerpt": "Among those present were Tom Alien, Tom Kelly, Charley Woods, Dan",
+      "date": "1888-04-16",
+      "date_precision": "day",
+      "people": ["Tom Kelly", "Charley Woods", "Dan Daly", "Charley Daly"],
+      "places": ["near St. Clair, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Arthur Flint had hung around Tom Allen's and Tom Kelly's places before he took up fighting.",
+      "excerpt": "around Allen and Keliy’s places and took to",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tom Kelly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen was Flint's second, not a fighter, so there is no fight entry. Dateline printed as 'ST. Crain, Mo.', read as St. Clair."
+}

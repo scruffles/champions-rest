@@ -1,0 +1,67 @@
+{
+  "id": "034",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "A belt was to be presented to Tom Allen at the Theatre Comique on May 4, 1870.",
+      "excerpt": "The presentation ef a splendid belt to Tom Allen,",
+      "date": "1870-05-04",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Theatre Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "The presentation to Tom Allen at the Theatre Comique was postponed a second time on May 4, 1870.",
+      "excerpt": "was to have taken placelast night at the Theatre Comique, but was postponed a second time.",
+      "date": "1870-05-04",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Theatre Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Coburn was to spar with Tom Allen at the presentation but was out of town.",
+      "excerpt": "Coburn, who was to have sparred with Allen, was out of town.",
+      "date": "1870-05-04",
+      "date_precision": "day",
+      "people": ["Coburn"],
+      "places": ["Theatre Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was to fight Mace on May 10, 1870, and the belt presentation was to follow that combat.",
+      "excerpt": "It is intended to make the presentation after the combat between Allen and Mace, on the 10th instant.",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mace",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "It is intended to make the presentation after the combat between Allen and Mace, on the 10th instant.",
+      "reported_as": "report",
+      "notes": "Planned bout; the text does not say it was fought. Mace is printed without a first name."
+    }
+  ],
+  "notes": "Hints named Jem Mace and St. Louis; the text gives only Mace and the Theatre Comique."
+}

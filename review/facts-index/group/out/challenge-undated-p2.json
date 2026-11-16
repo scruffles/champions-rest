@@ -1,0 +1,174 @@
+{
+  "bucket": "challenge-undated-p2",
+  "facts": [
+    {
+      "fact": "In March 1870 Jem Mace was touring with a view to meeting Tom Allen in the ring.",
+      "date": "1870-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["387.c1"]
+    },
+    {
+      "fact": "In May 1870 talk of another match between Tom Allen and Mike McCoole mentioned them as probable contestants.",
+      "date": "1870-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["406.c5"]
+    },
+    {
+      "fact": "In September 1873 Thomas Bascom of Marysville, Tennessee, offered to bet Tom Allen $10,000 that he could beat him inside eight rounds, and offered to bet $5,000 or more that Charley Gallagher could whip his opponent inside twenty rounds after two hours' training with Bascom.",
+      "date": "1873-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["462.c1", "462.c2"]
+    },
+    {
+      "fact": "Tom Allen challenged Mike McCoole to fight him in the ring after the Gallagher defeat.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["465.c21"]
+    },
+    {
+      "fact": "In October 1873 a New York dispatch reported that Joe Coburn said he would fight Tom Allen within four months.",
+      "date": "1873-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["487.c6"]
+    },
+    {
+      "fact": "Tom Allen said that if he won his fight with Ben Hogan he would make a match with Ned O'Baldwin for $2,500 or $5,000 a side.",
+      "date": "1873-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["495.c3"]
+    },
+    {
+      "fact": "Talk of a match between Tom Allen and Ned O'Baldwin arose in late June 1875, and efforts to arrange it went on for three months.",
+      "date": "1875-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["525.c2"],
+      "join": "challenge-1875#5"
+    },
+    {
+      "fact": "Jem Mace challenged Tom Allen by letter from London dated October 27, 1875, and Allen's replies from November to December 1875 said he would meet Mace on Mace's terms, denied putting up a forfeit, and said he had not heard from Mace officially.",
+      "date": "1875-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["530.c2"],
+      "join": "challenge-1875#8"
+    },
+    {
+      "fact": "Joe Goss and Tom Allen each put up a $500 forfeit with Eph Holland at Cincinnati, Holland acting as stakeholder, as the fight arrangements went ahead.",
+      "date": "1876-04-29",
+      "seed": "",
+      "conflict": "who put up the $500: Goss deposited it and Allen covered it (548.c1, 559.c1) vs each put up $500 (existing fact); the paper doubted that Goss had deposited anything (551.c4, medium)",
+      "claims": ["545.c3", "548.c1", "551.c4", "559.c1"],
+      "join": "challenge-1876-1877#10"
+    },
+    {
+      "fact": "Tom Allen hoped the fight with Joe Goss would be brought about and was confident he could whip Goss.",
+      "date": "1876-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["548.c2"]
+    },
+    {
+      "fact": "Sporting circles expected a fight between Tom Allen and Joe Goss to take place a fixed time after articles were signed.",
+      "date": "1876-05",
+      "seed": "",
+      "conflict": "time to fight: within twelve weeks of signing (556.c2) vs four months after signing, according to men said to be posted (556.c3)",
+      "claims": ["556.c2", "556.c3"]
+    },
+    {
+      "fact": "Tom Allen and Joe Goss were to meet in the same ring where Steve Taylor and George Rooke had agreed to fight for $1,000 a side.",
+      "date": "1876-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["558.c1"]
+    },
+    {
+      "fact": "Jem Mace had thought of matching Joe Goss against Tom Allen, and then gave way to Goss, who wanted to fight Allen.",
+      "date": "1876-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["561.c2", "564.c1"]
+    },
+    {
+      "fact": "A claim put to Jem Mace said Tom Allen had been in training to fight George Rooke a short time before he made the Goss match.",
+      "date": "1876-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["564.c2"]
+    },
+    {
+      "fact": "Joe Goss arrived from England in New York in April 1876 to make a match with Tom Allen for the championship, and planned to go to St. Louis to challenge him formally.",
+      "date": "1876-04-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["726.c2"],
+      "join": "challenge-1876-1877#7"
+    },
+    {
+      "fact": "Ben Hogan said he met Tom Allen, who was spoiling for a fight, and that he put up the money for a match with him.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["619.c1", "619.c2"]
+    },
+    {
+      "fact": "In October 1882 Richard K. Fox posted $1,000 with Harry Hill and offered to back Tom Allen against John L. Sullivan or any other pugilist for the championship of the world, at $1,000 to $2,500 a side.",
+      "date": "1882-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["658.c3", "660.c1"],
+      "join": "challenge-1882-1897#1"
+    },
+    {
+      "fact": "While in England, Tom Allen kept a standing challenge to fight any man in Great Britain.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["661.c2"]
+    },
+    {
+      "fact": "John L. Sullivan wanted his fight with Tom Allen held near Leadville, Colorado, fearing a Louisiana law would send them to the penitentiary.",
+      "date": "1882-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["663.c1"]
+    },
+    {
+      "fact": "Mr. Harding, Tom Allen's representative, did not go to Harry Hill's theatre to settle the $1,000 match, and Farrell, a friend of John L. Sullivan, claimed the $1,000 that Fox had posted.",
+      "date": "1882-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["661.c7"],
+      "join": "challenge-1882-1897#2"
+    },
+    {
+      "fact": "On November 2, 1882, Tom Allen challenged John L. Sullivan, or any man in the world, to fight for the championship of the world under London prize ring rules, with a $1,000 deposit posted by his backer; Sullivan was notified and meetings were set to sign articles.",
+      "date": "1882-11-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["661.c5"],
+      "join": "challenge-1882-1897#3"
+    },
+    {
+      "fact": "In June 1879 Tom Allen of St. Louis agreed, conditionally, to accept John Dwyer's challenge for the championship of America, and said he would cover the $250 Dwyer posted with Frank Queen.",
+      "date": "1879-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["630.c3"],
+      "join": "challenge-1878-1880#5"
+    },
+    {
+      "fact": "Johnny Franklin brought Tom Allen and Joe Coburn together at New Orleans for a match.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["449.c2"]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "410",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Jem Mace and Tom Allen had a sparring match at Tammany Hall, New York, on 17 June 1870.",
+      "excerpt": "bad a sparring match last evening in Tammany.",
+      "date": "1870-06-17",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Tammany Hall, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Jem Mace and Tom Allen fought four rounds with gloves at Tammany Hall.",
+      "excerpt": "sports then fought four rounds, and then the gloves",
+      "date": "1870-06-17",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Tammany Hall, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "At Tammany Allen was introduced as champion of America, Mace having retired from the prize ring since his last battle.",
+      "excerpt": "the prize sing since bis last battle, Tom was the cham-",
+      "date": "1870-06-17",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Tammany Hall, New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Allen's champion's belt was exhibited at Tammany, with a belt presented to Jem Mace by his New York friends.",
+      "excerpt": "the champion’s belt held by Tom, and a beit presented",
+      "date": "1870-06-17",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Tammany Hall, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was about 37 years old in June 1870.",
+      "excerpt": "Both are about 37 years of age, and five feet nine in height.",
+      "date": "1870-06-17",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mike McCoole was said to be soon to contest Tom Allen for the championship, for $5,000 a side.",
+      "excerpt": "Mike McCoole, he said, was soon to contest the cham-",
+      "date": "1870-06-17",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Sun dateline June 18, so 'last evening' is 17 June 1870. These were exhibitions, not fights. The usher's introduction is reported by the paper."
+}

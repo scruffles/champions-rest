@@ -1,0 +1,46 @@
+{
+  "id": "564",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Jem Mace gave way to Joe Goss, who wanted to fight Tom Allen.",
+      "excerpt": "But Joe Goss wanted to enter the lists against him, and, as I had hipped",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace", "Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A claim put to Mace says Tom Allen had been in training to fight George Rooke a short time before he made the Goss match.",
+      "excerpt": "aeeing to fight Rooke buta short time Catorp he",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["George Rooke", "Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Jem Mace",
+      "text": "When he meets a man that is his equal he knows it.",
+      "topic": "Allen's conduct against an equal"
+    },
+    {
+      "speaker": "Jem Mace",
+      "text": "Ob, he's a good man,",
+      "topic": "opinion of Allen"
+    },
+    {
+      "speaker": "Jem Mace",
+      "text": "came over here to fight Tom Alien",
+      "topic": "why Mace came to America"
+    }
+  ],
+  "fights": [],
+  "notes": "Interview with Mace in Buffalo. Garbled passages, including Mace's longer comments on Allen, were not recorded. Mace's answer on the Rooke claim is not clear in the scan."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "680",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "George Morrow offered to bet $500 that Tom Allen could not knock out J. Miles in four three-minute rounds.",
+      "excerpt": "George Morrow offers to bet $500 that Tom",
+      "date": "1883-01-03",
+      "date_precision": "day",
+      "people": ["George Morrow", "J. Miles"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Judged a bluff by the paper: no backer or money was found. Rules are printed 'Marquis of pire rules' (probably Queensberry). Not an agreed match, so a challenge, not a fight."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "045",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was on exhibition as an attraction at the St. Louis fair.",
+      "excerpt": "St. Louis has Tom Allen on exhibition as an attraction to the fair.",
+      "date": "1873-10",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Two-line mention. Hint checked and kept."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "730",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Billy Carroll backed Tom Allen at one time against Jem Mace for stakes printed as '5H.' a side.",
+      "excerpt": "whom he backed at one time against\nJem Mace for 5H. a side.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Billy Carroll", "Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Obituary of Billy Carroll. The amount is garbled ('5H.'), so the hinted $5,000 is not confirmed by the text. Whether the Allen-Mace match was ever fought is not stated."
+}

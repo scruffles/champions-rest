@@ -1,0 +1,19 @@
+{
+  "bucket": "places-1903",
+  "facts": [
+    {
+      "fact": "In January 1903 Tom Allen was lying sick at his home on Market Street between Sixth and Seventh.",
+      "date": "1903-01",
+      "seed": "043",
+      "conflict": "",
+      "claims": ["194.c2", "195.c2", "196.c11"]
+    },
+    {
+      "fact": "In March 1903 Tom Allen lived over his saloon at 619 Market Street.",
+      "date": "1903-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["198.c2"]
+    }
+  ]
+}

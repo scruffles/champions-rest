@@ -1,0 +1,52 @@
+{
+  "id": "926",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen said he had planned to go to Mexico to see the Maher-Fitzsimmons fight, but stayed home after Jim Hall wrote that he would be a sucker to risk his money on the same deal as at Hot Springs.",
+      "excerpt": "I was goin' down to see the fights, but Jim 'All wrote me an' said I would be a sucker",
+      "date": "1896-02",
+      "date_precision": "month",
+      "people": ["Jim Hall", "Maher", "Fitzsimmons"],
+      "places": ["Mexico", "Hot Springs"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was one of the St. Louis pugilists quoted in February 1896.",
+      "excerpt": "Tom Allen, Dutch Neal, Fred Watkins and other lights in the St. Louis pugilistic firmament",
+      "date": "1896-02-18",
+      "date_precision": "day",
+      "people": ["Dutch Neal", "Fred Watkins"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he did not know the first principle of bull fighting but believed any so-called sport that calls for dead horses and bulls is no sport at all.",
+      "excerpt": "But he believes that any so-called sport that calls for dead horses and bulls is no sport at all.",
+      "date": "1896-02",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Mexico"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I was goin' down to see the fights, but Jim 'All wrote me an' said I would be a sucker to put up me coin an' take chances on gettin' th' same deal that was put up at 'Ot Springs.",
+      "topic": "why he stayed home from the Mexico fight"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "Th' bloody papers do all the fightin' now, instead of th' fighters doin' it. We never used to fight in th' papers. If we didn't fight th' papers roasted us.",
+      "topic": "on the newspapers and fighting"
+    }
+  ],
+  "fights": [],
+  "notes": "Dialect quotes. 'Jim 'All' read as Jim Hall. Soapy Burns mentions 'Lootenant Allen's wagon'; it is not clearly Tom Allen, so it is not recorded."
+}

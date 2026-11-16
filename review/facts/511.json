@@ -1,0 +1,58 @@
+{
+  "id": "511",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A New York telegram said Jim Mace had accepted a challenge from Tom Allen and would enter the ring next May for the championship.",
+      "excerpt": "Jim Mace bad aecepted a challenge from Tem Allep and wovld enter the ting next",
+      "date": "1874-11-20",
+      "date_precision": "day",
+      "people": ["Jim Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen announced his retirement from the ring.",
+      "excerpt": "Now thai le annourees his retirement hey are getting up bogus challenges",
+      "date": "1874-11",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Allen was still holding to his recently announced decision not to enter the ring this year.",
+      "excerpt": "pressed ceiermiratien not to exter the ring",
+      "date": "1874-11",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen offered Coburn, Jim Mace or any other man the chance to meet him in the ring, but they said nothing.",
+      "excerpt": "He held out abundant epportunities fo Coburn, Mace er avy other man to meet",
+      "date": "1874-11",
+      "date_precision": "approx",
+      "people": ["Coburn", "Jim Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "workiag righty hard for a Jittle notoriety.",
+      "topic": "bogus challenges after his retirement"
+    }
+  ],
+  "fights": [],
+  "notes": "The quote is the paper's rendering of the champion's opinion, in quotation marks; OCR is poor. The telegram's date is taken from 'yesterday' in a paper dated 1874-11-21."
+}

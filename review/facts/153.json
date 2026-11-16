@@ -1,0 +1,58 @@
+{
+  "id": "153",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen was behind Ed Smith in his corner during the fight with Joe Goddard at New Orleans.",
+      "excerpt": "Tom Allen, the veteran ex-champion, who was behind Smith, says that the fight was fairly won",
+      "date": "1893-03-03",
+      "date_precision": "day",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen had picked Ed Smith to beat Joe Goddard before the fight.",
+      "excerpt": "because he Knew that the man was cleverand had a great right and felt that Goddard could be defeated",
+      "date": "1893-03",
+      "date_precision": "month",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen told Ed Smith to get his head into Joe Goddard's body if he could and to stick close all the time.",
+      "excerpt": "He told Smith to get his head into Goddard’s body if he could and to stick close allthe time",
+      "date": "1893-03",
+      "date_precision": "month",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Ed Smith fairly won the fight with Joe Goddard.",
+      "excerpt": "Tom Allen, the veteran ex-champion, who was behind Smith, says that the fight was fairly won",
+      "date": "1893-03-03",
+      "date_precision": "day",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "There was no use fn stand-off and exchanging blows withthe giant and there is no law to make a man fight Goddard that way.",
+      "topic": "how Smith should fight Goddard"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen's view of Smith's win, reported in the paper's own words. OCR errors in the quote (fn, withthe) are as printed."
+}

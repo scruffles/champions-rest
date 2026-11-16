@@ -1,0 +1,19 @@
+{
+  "id": "623",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen was one of Jimmy Elliott's seconds when Elliott beat Charley Gallagher for $600 on Peach Island, near Detroit (printed as November 12, 1968).",
+      "excerpt": "was one of Elliott’s seconds, and his man was",
+      "date": "1868-11-12",
+      "date_precision": "day",
+      "people": ["Jimmy Elliott", "Charley Gallagher"],
+      "places": ["Peach Island, near Detroit"],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen only seconded Elliott; he did not fight in this bout, so there is no fight record. The year is printed as 1968 (OCR); 1868 comes from the hint and the surrounding dates. The hint's 'fight' kind is corrected to 'other'. Bill Davis is called Allen's old competitor, but Allen takes no part in that match, so it is not recorded."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "438",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen was to train Jem Mace four miles from St. Louis and back him for a sum printed as 200 against Ned O'Baldwin.",
+      "excerpt": "Tom Alien will train Mace at the Wasa coene four mules from this city, and back him for",
+      "date": "1871-06-30",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Ned O'Baldwin"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Dispatch datelined St. Louis, June 30. The place is printed as Wasa coene and the sum as 200 (hint says $2,000; not confirmed by the text). The O'Baldwin challenge to Mace is not about Allen and is left out."
+}

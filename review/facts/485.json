@@ -1,0 +1,19 @@
+{
+  "id": "485",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Coburn says he will fight Tom Allen within four months, in West Virginia or Canada, for $2,500 to $5,000.",
+      "excerpt": "Joe Coburn says he wiil fight fom Allen in West Virginia, or in Canada, in four mouths, for trom $2, 500 to $5, 000.",
+      "date": "1874-02",
+      "date_precision": "approx",
+      "people": ["Joe Coburn"],
+      "places": ["West Virginia", "Canada"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Headline: 'Tom Allen's challenge accepted'. The date is approximate: 'in four months' from 1873-10-16."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "550",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss, champion of England, challenged Tom Allen for the championship of the world for a stake printed as $4,000 or more a side.",
+      "excerpt": "has chalicnged Tom Allen for the championship of the world and ($4,000 or more a side.",
+      "date": "1876-05-02",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Stake is printed as '($4,000' (OCR); the hint's $1,000 is not in the text. Champion title in 'Re t of England' is garbled; read as 'champion of England'."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "850",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised concerts every evening at 619 Market Street (the word 'free' is missing from the OCR).",
+      "excerpt": "619 Market street. concerts every evening. Best of singers only engaged here.",
+      "date": "1892-06",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen styled himself retired champion of the world (the OCR reads 'champion asnies of the world').",
+      "excerpt": "Tom ALLEN, retired champion asnies of the world,» 619 Market street.",
+      "date": "1892-06",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. The accident reports on the same page do not involve Allen. 'asnies' is garbled OCR for 'pugilist' or similar."
+}

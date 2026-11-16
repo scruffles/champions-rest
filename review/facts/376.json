@@ -1,0 +1,30 @@
+{
+  "id": "376",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen apparently accepted Joe Coburn's challenge to fight for $10,000 (the report is garbled).",
+      "excerpt": "Allen has mes Joe. Coburn's challenge to fight",
+      "date": "1869-12-20",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The proposed fight with Joe Coburn was for $10,000 and was to take place within 90 days, 690 miles west of Omaha.",
+      "excerpt": "for $10.000. encounter will oceur within 90",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Coburn"],
+      "places": ["690 miles west of Omaha"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "OCR is badly garbled around the acceptance; the acceptance rests on the headline and hint. Dateline Dec 20 used as the report date."
+}

@@ -1,0 +1,89 @@
+{
+  "id": "024",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "The Allen-McCoole match was for stakes of $2,500 a side (printed as '52,50° a side').",
+      "excerpt": "The stakes are 52,50° a side,\nand betore McCoole left St.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen's backers rejected Mike McCoole's choice of stakeholder, Murray, fearing he would not pay out if Allen won.",
+      "excerpt": "Bat Allen’s\nbackers refused to allow this honur to be con-\nferred upon Mr. Murray.",
+      "date": "1869-11",
+      "date_precision": "approx",
+      "people": ["Murray", "Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Allen had been cheated twice over stake money in St. Louis, which made his backers unwilling to accept Murray as stakeholder.",
+      "excerpt": "Allen having been twice cheated in St.\nLouis was not willing",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Bill Carroll represented Allen's side in Cincinnati and had been there all week trying to settle the stakeholder dispute.",
+      "excerpt": "Boi Carroll, who also represents the Allen wing",
+      "date": "1869-11",
+      "date_precision": "approx",
+      "people": ["Bill Carroll"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Mr. Thorweger of St. Louis, who had $1,100 interest in the stake advanced by Allen, went to Cincinnati to settle the stakeholder dispute.",
+      "excerpt": "tie has eleven hundred dollars inter-\nest in the stake aivanced by Allen",
+      "date": "1869-11-05",
+      "date_precision": "day",
+      "people": ["Thorweger"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he was ready to fight Mike McCoole for the excursion money or for nothing, to settle which of them was superior.",
+      "excerpt": "Allon says that heis ready and williag\nto fight for the excursion money, or for nothing",
+      "date": "1869-11",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,500 a side (printed as 52,50° a side)",
+      "rules": "",
+      "excerpt": "The stakes are 52,50° a side,\nand betore McCoole left St.",
+      "reported_as": "report",
+      "notes": "Match arranged but not yet held; the fight date is not given in this article. Stakes printed as '52,50°', read as $2,500 per the hint."
+    }
+  ],
+  "notes": "The Cincinnati Enquirer is dated November 6, so 'last night' for Thorweger is November 5. The paper's 'Allen' and 'Allon' OCR forms are read as Allen."
+}

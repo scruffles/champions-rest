@@ -1,0 +1,120 @@
+{
+  "id": "049",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen issued a challenge offering to fight Jim Mace, Joe Coburn or any man in the world for $1,000 to $5,000.",
+      "excerpt": "a challenge, offering to fight Jim Mace, Joe Coburn, or any man in the world, for $1,000",
+      "date": "1874-01",
+      "date_precision": "approx",
+      "people": ["Jim Mace", "Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen said he would fight Mace under London prize ring rules for $1,000 to $5,000 a side, in Kansas, New Orleans or Canada.",
+      "excerpt": "for from $1,000 to $5,000 a side, the fight to take place in Kansas, New Orleans",
+      "date": "1874-01",
+      "date_precision": "approx",
+      "people": ["Jim Mace"],
+      "places": ["Kansas", "New Orleans, Louisiana", "Canada"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen offered to meet Mace's backers at Pittsburg or Cincinnati to sign articles, with a $500 deposit.",
+      "excerpt": "be ready to meet Mace or his backers from New York, at Pittsburg or",
+      "date": "1874-01",
+      "date_precision": "approx",
+      "people": ["Jim Mace"],
+      "places": ["Pittsburg", "Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "If Mace refused, Allen offered to fight Joe Coburn, wagering $2,500 to Coburn's $1,500, or to fight Ben Hogan for $1,000 to $5,000.",
+      "excerpt": "and will wager $2,500 to Coburn’s $1,500: or L will fight Ben Hogan",
+      "date": "1874-01",
+      "date_precision": "approx",
+      "people": ["Joe Coburn", "Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mace sent word back that if Allen would fight, he would return to America and fight him on Allen's terms.",
+      "excerpt": "would return to America and tight Allen according w the latter",
+      "date": "1874-01",
+      "date_precision": "approx",
+      "people": ["Jim Mace"],
+      "places": ["London, England", "America"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Jem Mace in New Orleans in May 1870.",
+      "excerpt": "New Orleans, in May, 1870. In that contest ANen was defeated",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans, Louisiana"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen's last contest, against Mike McCoole, was on Chouteau Island, Illinois, in the fall of 1873.",
+      "excerpt": "as his last contest, on Chouteanisiand, Hls., last fall, proved",
+      "date": "1873",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, Illinois"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "e knows that I never backed out. Inow desire to imiorm Mace that lam ready to make a match to fight him a stand-up fight, according to the vew rules of the London prize ring.",
+      "topic": "reply to Mace's challenge"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870-05",
+      "date_precision": "month",
+      "place": "New Orleans, Louisiana",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "New Orleans, in May, 1870. In that contest ANen was defeated",
+      "reported_as": "recollection",
+      "notes": "The paper recalls the fight. 'ANen' is OCR for Allen."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "approx",
+      "place": "Chouteau Island, Illinois",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "as his last contest, on Chouteanisiand, Hls., last fall, proved",
+      "reported_as": "recollection",
+      "notes": "The win is implied ('Allen has improved, as his last contest... proved') and not stated outright. Details are in 044."
+    }
+  ],
+  "notes": "Reprint of a New York Times item. Allen's words are quoted from it; Mace's replies are reported indirectly. Mace was in London."
+}

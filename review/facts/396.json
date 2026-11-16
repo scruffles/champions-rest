@@ -1,0 +1,30 @@
+{
+  "id": "396",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen sparred Joe Coburn at Mozart Hall; Coburn was the more active and landed about twice as many blows.",
+      "excerpt": "In sparring Coburn appeared to be more active and expert than Allen, and got in fully twice as many blows as the latter",
+      "date": "1870-04-25",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": ["Mozart Hall, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Deposits for a match between George Seddons and Johnny Lafferty were to be made at Tom Allen's saloon in St. Louis.",
+      "excerpt": "hoolies aside, to be made at Tom Allen’s sa-",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["George Seddons", "Johnny Lafferty"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The saloon deposit line is garbled (printed 'sa-', so 'saloon' is inferred; the date of the first deposit is unreadable). The Seddons-Lafferty bout, set for 24 May, does not involve Allen."
+}

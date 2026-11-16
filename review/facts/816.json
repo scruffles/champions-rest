@@ -1,0 +1,19 @@
+{
+  "id": "816",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Rev. William Jones said that at 16 he was a prize fighter, backed as a boy wonder in the ring by Tom Allen of St. Louis.",
+      "excerpt": "At the age of 16 he was a prize fighter, being backed as a boy wonder inthe ring by Tom Allen of St. Louis.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["William Jones", "Tom Allen"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only as the backer of Rev. Wm. Jones, recounted in a sermon-notice story about Mrs. Woodworth. Jones's date of boyhood fights is not given."
+}

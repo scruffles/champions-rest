@@ -1,0 +1,74 @@
+{
+  "id": "076",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss put up a $500 forfeit in Cincinnati and Tom Allen covered the same amount.",
+      "excerpt": "Goss put up $500 in Cincinnati, and Allen has covered the amount.",
+      "date": "1876-05",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Goss's and Allen's representatives were to meet at Cincinnati on May 12 to agree the purse, which was open from $1,000 a side.",
+      "excerpt": "are to meet at Cin-cinnati on the 12th inst., to agree upon the purse to be fought for",
+      "date": "1876-05-12",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen was prepared to fight Joe Goss for any amount Allen named, within twelve weeks of May 2, 1876.",
+      "excerpt": "he is prepared with the money to fight Goss for any amount he may name, within twelve weeks from this date",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen expected to make a satisfactory match with Goss, to be fought in the Southwest.",
+      "excerpt": "a satisfactory match with Goss to be fought in the Southwest.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Southwest"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen weighed 195 pounds and could reduce to about 178 pounds, his fighting weight, within twelve weeks.",
+      "excerpt": "Allen weighs now one hundred and ninety-five pounds, and can easily reduce himself to",
+      "date": "1876-05-02",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen expressed contempt for a man printed as 'burn' and for his gang, who had made bold threats.",
+      "excerpt": "his contempt for burn and “his gang,” who made bold threats",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["unknown"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Paper paraphrases Allen throughout; no direct speech. The name printed as 'burn' is unreadable."
+}

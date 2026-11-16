@@ -1,0 +1,19 @@
+{
+  "id": "703",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "A well-known doctor who was financing Fred Zachritz was a former backer of Tom Allen.",
+      "excerpt": "well-known doctor and a former backer of Tom Allen, and there is no question",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Fred Zachritz"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen takes no part in the match; he appears only as the former backer of one of Zachritz's backers. The doctor is not named."
+}

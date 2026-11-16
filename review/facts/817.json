@@ -1,0 +1,30 @@
+{
+  "id": "817",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised free concerts every evening at a place printed as '$15 heres street', with the best of singers only engaged.",
+      "excerpt": "Tom ALLEN, retired champion pugilist of the world, $15 heres street. Free concert every evening.",
+      "date": "1891-03-21",
+      "date_precision": "day",
+      "people": [],
+      "places": ["$15 heres street, St. Louis (printed as; probably 619 Market street)"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen styled himself retired champion pugilist of the world in a March 1891 advertisement.",
+      "excerpt": "Tom ALLEN, retired champion pugilist of the world, $15 heres street. Free concert every evening.",
+      "date": "1891-03-21",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The address is garbled in OCR ('$15 heres street'); other 1891 ads give 619 Market street, but the text itself does not say so. Rest of the page is unrelated sporting news."
+}

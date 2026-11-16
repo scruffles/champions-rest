@@ -1,0 +1,41 @@
+{
+  "id": "116",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "C. W. Price was barkeeper at the Washington Avenue Free and Easy that Allen kept in his prime.",
+      "excerpt": "Price was tae barkeeper in the old Washington avenue Free and Easy which Tom Allen kept in his prime",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["C. W. Price"],
+      "places": ["Washington Avenue, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "C. W. Price, an Englishman, came to America with Tom Allen.",
+      "excerpt": "came to America with Tom Allen, the well-known pugilist",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["C. W. Price"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "For some time after arriving in St. Louis, C. W. Price was Allen's protégé.",
+      "excerpt": "for some time after his arrival in St. Louis, Allen's protegee",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["C. W. Price"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Article is mainly about Policeman C. W. Price; only the Allen links are kept."
+}

@@ -1,0 +1,349 @@
+{
+ "bucket": "saloon-1892-1894",
+ "kind": "saloon",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "148.c7",
+   "date": "1892",
+   "published": "1892-09-18",
+   "statement": "Tom Allen kept a saloon in St. Louis called the Champion's Rest."
+  },
+  {
+   "cid": "148.c8",
+   "date": "1892",
+   "published": "1892-09-18",
+   "statement": "The championship cap of England was one of the revered ornaments of Tom Allen's Champion's Rest saloon."
+  },
+  {
+   "cid": "831.c1",
+   "date": "1892-01-23",
+   "published": "1892-01-23",
+   "conf": "low",
+   "statement": "An advertisement under the name printed as 'gat ALLEN' (Tom Allen) gave his place at 619 Market street, St. Louis, with free concerts every evening; the name and title are garbled."
+  },
+  {
+   "cid": "832.c1",
+   "date": "1892-01-24",
+   "published": "1892-01-24",
+   "statement": "Tom Allen advertised free concerts every evening at his place at 619 Market street, St. Louis."
+  },
+  {
+   "cid": "833.c1",
+   "date": "1892-01-30",
+   "published": "1892-01-30",
+   "conf": "medium",
+   "statement": "An advertisement for Tom Allen gave his place at 619 Market street, St. Louis, with a free concert (printed as 'toncert') every evening."
+  },
+  {
+   "cid": "838.c5",
+   "date": "1892-03-05",
+   "published": "1892-03-05",
+   "statement": "Tom Allen was interviewed at his place of business on Market Street, St. Louis, on March 5, 1892."
+  },
+  {
+   "cid": "841.c1",
+   "date": "1892-03-19",
+   "published": "1892-03-19",
+   "statement": "Tom Allen advertised free concerts every evening at his place at 619 Market Street, St. Louis, with only the best singers engaged."
+  },
+  {
+   "cid": "842.c1",
+   "date": "1892-03-26",
+   "published": "1892-03-26",
+   "statement": "Tom Allen advertised free concerts every evening at his place, 619 Market Street, St. Louis, with only the best singers engaged."
+  },
+  {
+   "cid": "843.c1",
+   "date": "1892-04-16",
+   "published": "1892-04-16",
+   "conf": "low",
+   "statement": "Tom Allen advertised free concerts every evening at his place on Market Street, St. Louis (the street number is garbled in this OCR as 'Bests'), with only the best singers engaged."
+  },
+  {
+   "cid": "844.c1",
+   "date": "1892-04-23",
+   "published": "1892-04-23",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market Street, St. Louis, with only the best singers engaged."
+  },
+  {
+   "cid": "845.c1",
+   "date": "1892-04-30",
+   "published": "1892-04-30",
+   "conf": "low",
+   "statement": "Tom Allen's place at 619 Market Street was advertised every evening, with the best singers engaged (the word after 'Free' is garbled in this OCR)."
+  },
+  {
+   "cid": "846.c1",
+   "date": "1892-05",
+   "published": "1892-05-07",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market Street."
+  },
+  {
+   "cid": "847.c1",
+   "date": "1892-05",
+   "published": "1892-05-14",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market Street."
+  },
+  {
+   "cid": "848.c1",
+   "date": "1892-05",
+   "published": "1892-05-21",
+   "conf": "low",
+   "statement": "An advertisement for a concert establishment at 619 Market Street (printed as 'Limb Market street') offered free concerts every evening; the name Tom Allen is not legible in the OCR."
+  },
+  {
+   "cid": "849.c1",
+   "date": "1892-05",
+   "published": "1892-05-28",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market Street."
+  },
+  {
+   "cid": "850.c1",
+   "date": "1892-06",
+   "published": "1892-06-11",
+   "conf": "medium",
+   "statement": "Tom Allen advertised concerts every evening at 619 Market Street (the word 'free' is missing from the OCR)."
+  },
+  {
+   "cid": "851.c1",
+   "date": "1892-06",
+   "published": "1892-06-18",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market Street."
+  },
+  {
+   "cid": "853.c1",
+   "date": "1892-06",
+   "published": "1892-06-25",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market Street."
+  },
+  {
+   "cid": "143.c1",
+   "date": "1892-07",
+   "published": "1892-07-24",
+   "conf": "medium",
+   "statement": "Tom Allen was still in the Market Street block between Sixth and Seventh streets, St. Louis, which was about to be torn down."
+  },
+  {
+   "cid": "854.c2",
+   "date": "1892-07",
+   "published": "1892-07-16",
+   "statement": "Tom Allen's place was at 619 Market Street, where he was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "854.c3",
+   "date": "1892-07",
+   "published": "1892-07-16",
+   "conf": "low",
+   "statement": "Tom Allen's place advertised entertainment every evening, printed as 'Pree Commeese aes evening', with only the best singers engaged."
+  },
+  {
+   "cid": "858.c1",
+   "date": "1892-09",
+   "published": "1892-09-03",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market street, St. Louis, with only the best singers engaged."
+  },
+  {
+   "cid": "862.c2",
+   "date": "1892-09-17",
+   "published": "1892-09-17",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market Street, St. Louis."
+  },
+  {
+   "cid": "865.c2",
+   "date": "1892-09-24",
+   "published": "1892-09-24",
+   "conf": "low",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market Street, St. Louis (the concert line is garbled in the scan)."
+  },
+  {
+   "cid": "866.c2",
+   "date": "1892-10-04",
+   "published": "1892-10-04",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market Street, St. Louis."
+  },
+  {
+   "cid": "867.c2",
+   "date": "1892-10-05",
+   "published": "1892-10-05",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market Street, St. Louis."
+  },
+  {
+   "cid": "868.c2",
+   "date": "1892-10-15",
+   "published": "1892-10-15",
+   "statement": "Tom Allen advertised a concert every evening at 619 Market Street, St. Louis."
+  },
+  {
+   "cid": "869.c2",
+   "date": "1892-10-22",
+   "published": "1892-10-22",
+   "statement": "Tom Allen advertised concerts every evening at 619 Market Street, St. Louis."
+  },
+  {
+   "cid": "149.c2",
+   "date": "1892-11",
+   "published": "1892-11-10",
+   "conf": "medium",
+   "statement": "Niel said Charley Daly could see Niel at Tom Allen's place to talk business."
+  },
+  {
+   "cid": "878.c1",
+   "date": "1892-11",
+   "published": "1892-11-26",
+   "statement": "Tom Allen's saloon at 619 Market Street was called the Champions' Retreat, where Mark Tuohy was engaged as a song-and-dance performer and sparrer."
+  },
+  {
+   "cid": "870.c1",
+   "date": "1892-11-05",
+   "published": "1892-11-05",
+   "statement": "Tom Allen advertised a free concert every evening at 619 Market Street."
+  },
+  {
+   "cid": "872.c1",
+   "date": "1892-11-12",
+   "published": "1892-11-12",
+   "statement": "Tom Allen advertised a free concert every evening at 619 Market Street."
+  },
+  {
+   "cid": "875.c1",
+   "date": "1892-11-19",
+   "published": "1892-11-19",
+   "statement": "Tom Allen advertised a free concert every evening at 619 Market Street."
+  },
+  {
+   "cid": "878.c2",
+   "date": "1892-11-25",
+   "published": "1892-11-26",
+   "statement": "William Reed, who accepted Mark Tuohy's challenge at the Champions' Retreat, broke a window and cut Tuohy's head with a piece of the glass."
+  },
+  {
+   "cid": "879.c1",
+   "date": "1892-12",
+   "published": "1892-12-03",
+   "statement": "Tom Allen's place was at 619 Market street."
+  },
+  {
+   "cid": "879.c2",
+   "date": "1892-12",
+   "published": "1892-12-03",
+   "statement": "Tom Allen advertised a free concert every evening at his place, with only the best singers engaged."
+  },
+  {
+   "cid": "880.c1",
+   "date": "1892-12",
+   "published": "1892-12-10",
+   "statement": "Tom Allen's place was at 619 Market street."
+  },
+  {
+   "cid": "880.c2",
+   "date": "1892-12",
+   "published": "1892-12-10",
+   "statement": "Tom Allen advertised a free concert every evening at his place, with only the best singers engaged."
+  },
+  {
+   "cid": "881.c1",
+   "date": "1892-12",
+   "published": "1892-12-17",
+   "conf": "low",
+   "statement": "Tom Allen's place was at 619 Market street."
+  },
+  {
+   "cid": "881.c2",
+   "date": "1892-12",
+   "published": "1892-12-17",
+   "conf": "medium",
+   "statement": "Tom Allen advertised a free concert every evening at his place, with only the best singers engaged."
+  },
+  {
+   "cid": "883.c1",
+   "date": "1892-12",
+   "published": "1892-12-24",
+   "conf": "low",
+   "statement": "Tom Allen's place was at 619 Market street (text printed garbled but the address is clear)."
+  },
+  {
+   "cid": "883.c2",
+   "date": "1892-12",
+   "published": "1892-12-24",
+   "conf": "low",
+   "statement": "Tom Allen advertised a concert every evening at his place, with only the best singers engaged (printed as 'ee concert', so the word 'Free' is a guess)."
+  },
+  {
+   "cid": "884.c1",
+   "date": "1892-12",
+   "published": "1892-12-25",
+   "conf": "low",
+   "statement": "Tom Allen's concert hall was at 619 Market street."
+  },
+  {
+   "cid": "884.c2",
+   "date": "1892-12",
+   "published": "1892-12-25",
+   "conf": "low",
+   "statement": "Tom Allen advertised a concert every evening at his concert hall, with only the best singers engaged (printed as 'ee coneert', so 'Free' is a guess)."
+  },
+  {
+   "cid": "885.c1",
+   "date": "1892-12",
+   "published": "1893-01-01",
+   "statement": "Tom Allen's place was at 619 Market street."
+  },
+  {
+   "cid": "885.c2",
+   "date": "1892-12",
+   "published": "1893-01-01",
+   "statement": "Tom Allen advertised a free concert every evening at his place, with only the best singers engaged."
+  },
+  {
+   "cid": "151.c1",
+   "date": "1893",
+   "published": "1893-02-05",
+   "conf": "medium",
+   "statement": "A sketch in Annie Bronson King's book The Children of the Slums opens at \"Tom Allen's\" on a Saturday night; the reviewer says the place described is not Tom Allen's."
+  },
+  {
+   "cid": "886.c1",
+   "date": "1893-01-28",
+   "published": "1893-01-28",
+   "statement": "Tom Allen advertised a free concert every evening at 619 Market Street."
+  },
+  {
+   "cid": "887.c1",
+   "date": "1893-02-04",
+   "published": "1893-02-04",
+   "conf": "low",
+   "statement": "Tom Allen advertised a concert every evening at 618 Market street (address garbled in the OCR)."
+  },
+  {
+   "cid": "891.c1",
+   "date": "1893-06-24",
+   "published": "1893-06-24",
+   "statement": "Tom Allen advertised a free concert every evening at 619 Market Street."
+  },
+  {
+   "cid": "892.c1",
+   "date": "1893-07",
+   "published": "1893-07-08",
+   "statement": "Tom Allen advertised a free concert every evening at 619 Market Street, St. Louis, with first-class singers only engaged."
+  },
+  {
+   "cid": "162.c3",
+   "date": "1894-02-01",
+   "published": "1894-02-01",
+   "statement": "Tom Allen had a saloon on Market Street in St. Louis, the profits of which let him live comfortably."
+  },
+  {
+   "cid": "163.c2",
+   "date": "1894-03-08",
+   "published": "1894-03-08",
+   "statement": "Tom Allen's saloon was on Market Street in St. Louis in March 1894."
+  },
+  {
+   "cid": "903.c1",
+   "date": "1894-12",
+   "published": "1894-12-19",
+   "statement": "Prize fighter Jerry Slattery hangs out around Tom Allen's saloon."
+  }
+ ]
+}

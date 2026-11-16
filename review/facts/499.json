@@ -1,0 +1,95 @@
+{
+  "id": "499",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered to match Jack Madden to fight Ben Hogan within ten weeks for $1,000 a side, in Canada near Detroit.",
+      "excerpt": "I will match Jack Madden to fight him at any time within ten weeks, for $1,000 afide",
+      "date": "1873-11-28",
+      "date_precision": "day",
+      "people": ["Jack Madden", "Ben Hogan"],
+      "places": ["Canada", "Detroit"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen challenged Ben Hogan to fight him anywhere in Canada on two days' to ten weeks' notice, with a stake printed as '@5 000 to $1,000'.",
+      "excerpt": "I will fight Hogan myself, anywhere in Canada, and will",
+      "date": "1873-11-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": ["Canada"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered to bet $1,000 that he would not get a black eye, and any amount Hogan wished that Allen would whip him inside thirty minutes.",
+      "excerpt": "I will bet $1,000 that I do. not receive a black eye",
+      "date": "1873-11-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen said Ben Hogan gave his share of the stake money to a gang that broke up their fight.",
+      "excerpt": "a gang.of murderers, who not only broke upthe fight, but",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen put up $3,000 in greenbacks as collateral for the Illinois bail bond that freed Arthur Chambers.",
+      "excerpt": "$3,000 in greenbacks in his hands a collateral for",
+      "date": "1873-11-28",
+      "date_precision": "day",
+      "people": ["Arthur Chambers"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The Globe-Democrat called Tom Allen the light weight champion.",
+      "excerpt": "in his hands a collateral for the hght weight champion’s appea",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "If there is any' fight in Hogan I will make him show it.",
+      "topic": "challenge to Hogan"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "a gang.of murderers, who not only broke upthe fight, but",
+      "reported_as": "report",
+      "notes": "Allen's account only: says a gang broke up the fight."
+    }
+  ],
+  "notes": "Allen's open letter to the Democrat, printed 1873-11-29. Hogan's reply is in article 500."
+}

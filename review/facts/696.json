@@ -1,0 +1,30 @@
+{
+  "id": "696",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen arrived in St. Louis on the same train as C. A. Booth, a bicyclist who claimed to be champion.",
+      "excerpt": "arriving here on the sume train as Tom Allen, the pugiist.",
+      "date": "1883-05",
+      "date_precision": "approx",
+      "people": ["C. A. Booth"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he had never heard of Booth in connection with racing, but believed he was a fancy rider.",
+      "excerpt": "that he had never heard of Boot in connection with racing, but believed he was a fancy rider.",
+      "date": "1883-05",
+      "date_precision": "approx",
+      "people": ["C. A. Booth"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen's views are reported in the paper's own words, not direct speech, and the OCR is garbled ('Mr. Allen. te 5'). The Pickwick cast's 'Mrs. W. L. G. B. Allen' and the Kirkwood and other items are not about this boxer."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "356",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen said there would be no more fighting until the stakes of the last fight were given up.",
+      "excerpt": "Allen said to us that there would be no more fighting until the stakes of the last fight were given up.",
+      "date": "1869-08-18",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said the referee had made no final decision and that none was needed, because Gallagher's second threw up the sponge.",
+      "excerpt": "He.says the final decision of the referee has not been made, and claims that no decision is required",
+      "date": "1869-08-18",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen said a scar under his left eye was made by a blow from a club thrown into the ring during the fight with Gallagher.",
+      "excerpt": "there is a scar under his left eye, which-he says was made by a blow from a club thrown into the ring during the progress of the fight",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Charley Gallagher wanted to add about $1,000 to the stakes and fight Allen again after Allen and McCoole settled their dispute.",
+      "excerpt": "wants to add a thousand or soto the amount, and fight the battle over, after Allen and McCoole have settled their little dispute",
+      "date": "1869-08-18",
+      "date_precision": "day",
+      "people": ["Charley Gallagher", "Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A fight between Tom Allen and Mike McCoole was expected in November 1869, though doubtful.",
+      "excerpt": "before the affair between Allen and McCoole in November.",
+      "date": "1869-11",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "No new bouts. Allen's statements are the paper's paraphrase, not direct quotes, so no quotes are recorded. Hints checked and kept."
+}

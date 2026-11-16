@@ -1,0 +1,30 @@
+{
+  "id": "355",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen claimed to be an American citizen and said he would fight under American colors from then on.",
+      "excerpt": "Tom claims to bean American citizen, and will hereafter",
+      "date": "1869-08-19",
+      "date_precision": "day",
+      "people": [],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen fought Charley Gallagher on Tuesday, August 17, 1869, under American colors: a silk handkerchief with an American eagle, stars and two American flags.",
+      "excerpt": "the colors under which Tom fought on Tuesday last with Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The colors item is a presentation of the handkerchief to the paper. 'Tom claims' is the paper's paraphrase, not a quote. The Balthasar Stark item is not about Allen."
+}

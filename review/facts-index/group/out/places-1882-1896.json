@@ -1,0 +1,173 @@
+{
+  "bucket": "places-1882-1896",
+  "facts": [
+    {
+      "fact": "Tom Allen was living in England in early 1882, reportedly in Birmingham, and took part in St. George's Day celebrations there.",
+      "date": "1882-01",
+      "seed": "",
+      "conflict": "place: Birmingham (645.c1, medium) vs 'Posten' (648.c1, low, garbled; the New York Herald said he had made enough money to live there in ease)",
+      "claims": ["645.c1", "648.c1", "141.c3"]
+    },
+    {
+      "fact": "Tom Allen returned to America from England in 1882 after about six years there, arriving in Boston in October, where he stayed as the guest of Patsy Sheppard at his sporting resort on Hayward Place with his backer; he and his backer were to leave Boston for New York the next day.",
+      "date": "1882-10",
+      "seed": "016",
+      "conflict": "purpose: he came only to visit friends and not to fight anyone (271.c6, 272.c4, medium) vs he came to meet Sullivan, whom he believed he could knock out (663.c2, medium)",
+      "claims": ["661.c1", "663.c2", "269.c1", "097.c4", "097.c5", "271.c3", "271.c6", "272.c4"]
+    },
+    {
+      "fact": "W. E. Harding was to go to Chicago with Tom Allen on Saturday to arrange the match with Elliott, and Allen arrived in Chicago on December 13, 1882, having stopped at Pittsburgh on the way.",
+      "date": "1882-12-09",
+      "seed": "",
+      "conflict": "669.c2 (medium) gives the planned Saturday trip and no arrival date, which 101.c1 supplies",
+      "claims": ["669.c2", "101.c1"]
+    },
+    {
+      "fact": "Tom Allen was rumoured to be on his way to the Saturday night sparring at Tom Kelley's parlors on December 16, 1882, but did not appear.",
+      "date": "1882-12-16",
+      "seed": "",
+      "conflict": "",
+      "claims": ["675.c1"]
+    },
+    {
+      "fact": "Tom Allen returned to St. Louis on December 29, 1882, after about six years away, and planned to live there permanently.",
+      "date": "1882-12-29",
+      "seed": "016",
+      "conflict": "100.c2 (published December 7) said he was due in St. Louis the following week, not December 29; 704.c8 (retrospective) says he returned about a year and a half before February 1884, around August 1882",
+      "claims": ["102.c1", "677.c1", "100.c2", "100.c3", "704.c8"]
+    },
+    {
+      "fact": "Tom Allen attended a quoits game between Dr. Truman of St. Louis and G. Knowles at Sam Swancut's in West Belleville on April 8, 1883.",
+      "date": "1883-04-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["694.c1"]
+    },
+    {
+      "fact": "Tom Allen arrived in St. Louis on the same train as C. A. Booth, a bicyclist who claimed to be champion, in May 1883.",
+      "date": "1883-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["696.c1"]
+    },
+    {
+      "fact": "Tom Allen went to Chicago with Tom Kelly in May 1886 to watch the Jack Burke v. Charley Mitchell fight.",
+      "date": "1886-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["119.c1"]
+    },
+    {
+      "fact": "Allen and the other men arrested in the Franklin County prize-fight case left St. Louis by train on the evening of April 18, 1888 for a preliminary hearing at Union, Franklin County.",
+      "date": "1888-04-18",
+      "seed": "",
+      "conflict": "",
+      "claims": ["756.c3"]
+    },
+    {
+      "fact": "In late 1888 Tom Allen was living in St. Louis 'after a fashion'.",
+      "date": "1888-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["765.c1"]
+    },
+    {
+      "fact": "Tom Allen went to New Orleans from St. Louis with a party of sporting men for the Sullivan-Kilrain fight, stayed at the St. Charles Hotel, and was seen taking a lemonade in its rotunda on July 7, 1889; a retrospective account says he went with the St. Louis crowd to the fight at Richburg, Mississippi, in July 1889.",
+      "date": "1889-07-07",
+      "seed": "",
+      "conflict": "177.c1 (retrospective, published 1897) places him at the Richburg, Mississippi fight, which the July 1889 reports do not mention",
+      "claims": ["772.c1", "772.c2", "770.c1", "177.c1"]
+    },
+    {
+      "fact": "On September 16, 1889 Tom Allen, Dan Daly, Artie Flint, Tom Kelly and Ed Kelly boarded a Wabash train at the Union Depot in St. Louis for Troy, Lincoln County, Mo., to stand trial, and took the 4 o'clock train home from Troy the same day.",
+      "date": "1889-09-16",
+      "seed": "",
+      "conflict": "777.c4 (medium, published September 21) reports the same-day return home, which 776.c1 does not mention",
+      "claims": ["776.c1", "777.c4"]
+    },
+    {
+      "fact": "Tom Allen was among St. Louis sporting men preparing to go to New Orleans for the Dempsey-Fitzsimmons fight the following Wednesday night.",
+      "date": "1891-01-14",
+      "seed": "",
+      "conflict": "",
+      "claims": ["806.c1"]
+    },
+    {
+      "fact": "Tom Allen had been a resident of St. Louis for years.",
+      "date": "1892",
+      "seed": "",
+      "conflict": "",
+      "claims": ["148.c6"]
+    },
+    {
+      "fact": "Tom Allen went to New Orleans with Frank Slavin, and he chaperoned a party of wealthy St. Louisans including his backer Fred Watkins to the Maher-Fitzsimmons fight; he was in the audience at the Olympic Club on March 2, 1892 and arrived home in St. Louis on the night of March 4.",
+      "date": "1892-03-02",
+      "seed": "",
+      "conflict": "departure: Slavin and Allen were to leave the night of February 28 (835.c2, medium) or the night after the paper's date (835.c1, medium, dated February 29)",
+      "claims": ["835.c2", "835.c1", "838.c2", "836.c1", "838.c3"]
+    },
+    {
+      "fact": "According to the Chicago Mail, Tom Allen was keeping very quiet in St. Louis in June 1892.",
+      "date": "1892-06-20",
+      "seed": "",
+      "conflict": "",
+      "claims": ["852.c1"]
+    },
+    {
+      "fact": "Tom Allen left St. Louis for New Orleans for the Sullivan-Corbett fight with his old backer Fred Watkins and friends, and arrived there on Sunday, September 4, 1892 with a large St. Louis delegation.",
+      "date": "1892-09-03",
+      "seed": "",
+      "conflict": "departure: Saturday night, September 3 (146.c1) vs Sunday morning, September 4 (144.c5, published August 29 as a plan); 145.c1 (September 2, planned) also names Nobby Clark, Chris Lauff and Billy Dacre as travelling with him",
+      "claims": ["145.c1", "146.c1", "144.c5", "859.c1"]
+    },
+    {
+      "fact": "Tom Allen arrived in New Orleans in March 1893 to second Ed Smith in his coming contest with Joe Goddard.",
+      "date": "1893-03",
+      "seed": "033",
+      "conflict": "",
+      "claims": ["152.c1"]
+    },
+    {
+      "fact": "Tom Allen planned to go to Jacksonville, Florida, to help prepare Charley Mitchell for his fight with Corbett, and was at Mitchell's training quarters on Anastasia Island near St. Augustine in January 1894.",
+      "date": "1893-12-24",
+      "seed": "",
+      "conflict": "Ed Smith was expected in St. Louis on December 24 and to stay about a week before going with Allen to Jacksonville (894.c4, 894.c5, medium), while Allen was to keep his departure date secret (155.c2, medium); 897.c1 says he had left for the fight by January 22",
+      "claims": ["156.c1", "894.c4", "894.c5", "155.c1", "155.c2", "157.c1", "897.c1"]
+    },
+    {
+      "fact": "Tom Allen returned to St. Louis from Jacksonville, Florida, by the L. & N. railroad on January 27, 1894, and was the only St. Louis sporting man to make the trip home that day.",
+      "date": "1894-01-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["160.c1", "161.c2", "899.c2"]
+    },
+    {
+      "fact": "Tom Allen was a resident of St. Louis in February 1894.",
+      "date": "1894-02-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["162.c2"]
+    },
+    {
+      "fact": "Tom Allen lived upstairs over his Champion's Rest saloon in March 1895.",
+      "date": "1895-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["909.c8"]
+    },
+    {
+      "fact": "In February 1896 Tom Allen had planned to go to Mexico to see the Maher-Fitzsimmons fight, but stayed home after Jim Hall wrote that he would be a sucker to risk his money on the same deal as at Hot Springs; he was one of the St. Louis pugilists quoted in February 1896.",
+      "date": "1896-02-18",
+      "seed": "",
+      "conflict": "926.c1 (medium) is the only claim about the Mexico plan",
+      "claims": ["926.c1", "926.c2"]
+    },
+    {
+      "fact": "Tom Allen went to New York to see the Peter Maher and Joe Choynski fight and then returned home.",
+      "date": "1896-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["942.c2"]
+    }
+  ]
+}

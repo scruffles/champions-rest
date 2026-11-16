@@ -1,0 +1,40 @@
+{
+  "bucket": "legal-1899-1901",
+  "facts": [
+    {
+      "fact": "Tom Allen shot Timothy Confoy in his saloon on Market Street in the early hours of Sunday 26 February 1899; Confoy died that night at City Hospital, and John Spencer was wounded in the hand.",
+      "date": "1899-02-26",
+      "seed": "028",
+      "conflict": "date: 26 February (most claims) vs 20 February (189.c1, 192.c1) and 23 February (180.c1, 180.c4, 180.c6). location: near Sixth and Market (179.c1) or 619 Market Street (985.c1) vs the corner of Seventh and Market (189.c1, 192.c1). victim: named Tom Coupry in 181.c2, 181.c3, 182.c2, 182.c3 and 185.c3 (185.c3 says Coupry was later named in the report as the man shot) vs Timothy Confoy in the rest. Disturbance: 179.c2 says there was no unusual disturbance before Allen drew, vs Allen's account of a movement by Confoy (180.c4, 985.c4, 181.c4, 182.c4). Confoy's pistol: found under him (987.c7, 987.c8, 180.c6) vs dropped on his own revolver (183.c5).",
+      "claims": ["179.c1", "179.c2", "179.c3", "180.c1", "180.c2", "180.c3", "180.c4", "180.c6", "180.c9", "181.c2", "181.c3", "181.c4", "182.c2", "182.c3", "182.c4", "183.c1", "183.c5", "185.c3", "186.c3", "189.c1", "192.c1", "985.c1", "985.c2", "985.c4", "987.c1", "987.c7", "987.c8"]
+    },
+    {
+      "fact": "After the shooting Tom Allen was taken into custody, held at the Four Courts holdover, and a coroner's jury on 28 February 1899 returned a verdict of justifiable homicide; he was then charged with second-degree murder and released on bond.",
+      "date": "1899-02-28",
+      "seed": "",
+      "conflict": "bond: $300 (184.c2, 187.c2) vs $5,000 (987.c4)",
+      "claims": ["179.c4", "180.c7", "180.c8", "181.c1", "182.c1", "185.c2", "985.c5", "985.c6", "985.c7", "180.c10", "183.c2", "183.c3", "183.c4", "184.c1", "184.c2", "184.c3", "187.c1", "187.c2", "187.c3", "987.c2", "987.c3", "987.c4", "987.c5", "987.c6", "987.c10"]
+    },
+    {
+      "fact": "A grand jury indicted Tom Allen for the murder of Tim Confoy on 3 May 1899; he was admitted to bond of $5,000 in Judge Klein's court, with Thomas J. Rowe going bond.",
+      "date": "1899-05-03",
+      "seed": "",
+      "conflict": "186.c4 says Allen was discharged on a plea of self-defense after a preliminary hearing in the Court of Criminal Correction, which sits oddly with the indictment (186.c1) and the bail on 4 May (260.c1, 260.c2); 186.c4 gives only the year 1899",
+      "claims": ["186.c1", "186.c4", "260.c1", "260.c2", "260.c3"]
+    },
+    {
+      "fact": "The state dismissed the murder case against Tom Allen for the killing of Timothy Confoy in Judge Fisher's court, the evidence being insufficient.",
+      "date": "1899-11-14",
+      "seed": "",
+      "conflict": "",
+      "claims": ["189.c2"]
+    },
+    {
+      "fact": "Police arrested Jesse Carraher, a musician employed in the saloon, on 3 March 1901, pending investigation of a fall.",
+      "date": "1901-03-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["191.c3"]
+    }
+  ]
+}

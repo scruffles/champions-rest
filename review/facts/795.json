@@ -1,0 +1,30 @@
+{
+  "id": "795",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Edward Reilly said Tom Allen, a saloon-keeper and prize-fighter on Market street, slugged him without provocation, leaving him with severe head injuries.",
+      "excerpt": "He said that he had been slugged,\nwithout provocation, by Tom Allen, the sa-",
+      "date": "1890-10-12",
+      "date_precision": "day",
+      "people": ["Edward Reilly"],
+      "places": ["Market Street, St. Louis", "Dispensary, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was a saloon-keeper on Market street.",
+      "excerpt": "by Tom Allen, the sa-\nloon-keeper and prize-fignter on Market",
+      "date": "1890-10-13",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The assault is Reilly's account as reported; no answer from Allen is printed. Reilly's own injuries are not Allen's facts and are left out."
+}

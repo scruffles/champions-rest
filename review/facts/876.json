@@ -1,0 +1,19 @@
+{
+  "id": "876",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "A headline says Charley Mitchell wrote Tom Allen a characteristic letter about his plans for the Corbett fight; the letter itself is not in the text.",
+      "excerpt": "CHARLEY MITCHELL WRITES TOM ALLEN A CHARACTERISTIC LETTER.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Mitchell", "Corbett"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only in the headline. The body is about other fighters and sporting news."
+}

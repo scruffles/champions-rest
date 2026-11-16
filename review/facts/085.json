@@ -1,0 +1,107 @@
+{
+  "id": "085",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "On a writ of habeas corpus, Judge Perkins of the Kenton Criminal Court reduced Tom Allen's bail from the Covington Mayor's figure to $3,000.",
+      "excerpt": "the court reduced the bail to the latter sum.",
+      "date": "1876-09-11",
+      "date_precision": "day",
+      "people": ["Judge Perkins", "Judge Cleary"],
+      "places": ["Covington, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "D.D. Farrell and Wilson J. Farrell were accepted as sureties, and Tom Allen was released from custody in Covington.",
+      "excerpt": "were accepted as sureties, and Allen was released.",
+      "date": "1876-09-11",
+      "date_precision": "day",
+      "people": ["D.D. Farrell", "Wilson J. Farrell"],
+      "places": ["Covington, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "After his release Tom Allen left Covington for Cincinnati in a carriage with three friends.",
+      "excerpt": "left Covington for Cincinnati in a carrisge With three of his triends.",
+      "date": "1876-09-11",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Covington, Kentucky", "Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen made the rounds of the Cincinnati hotels and then went into a saloon on Vine Street near Fourth Street while crowds waited outside.",
+      "excerpt": "the hero of the moment dropped intoassloon on Vine street, near Fourta street",
+      "date": "1876-09-11",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Vine Street, Cincinnati", "Fourth Street, Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "A slight mark on Tom Allen's upper lip and a swollen right hand were all that remained of the injuries from the Goss fight.",
+      "excerpt": "A slight mark on the upper lip is ali that remains of wout",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said that he had put up his own stake money for the Goss fight and now believed Eph Holland had used it against him.",
+      "excerpt": "He bad pnt up his own money, gid supposed it was",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Eph Holland", "Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen claimed that in a fair fight he could have beaten Joe Goss in half an hour.",
+      "excerpt": "In a fair fight he claimed that be could have whipped his opponent IN HALF AN HOUR.",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Before the Goss fight, Tom Allen was told he could not win and asked whether Eph Holland was square in his dealings.",
+      "excerpt": "He had been told six weeks ago that he",
+      "date": "1876-07",
+      "date_precision": "approx",
+      "people": ["Eph Holland"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "A benefit for Tom Allen was announced at Robinson's Opera-House in Cincinnati.",
+      "excerpt": "He is the Lion of the Day and the Great Observed—His Benefit at Rebinson’s Opera-House",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Robinson's Opera-House, Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "No fight in this item. Dated 11 September from the Cincinnati Gazette report of 'yesterday' (the Gazette issue date is not printed, so the release date is taken as 11 September). The 'other' claims paraphrase Allen's own statements; none are direct speech."
+}

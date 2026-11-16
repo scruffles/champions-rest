@@ -1,0 +1,287 @@
+{
+ "bucket": "life-undated-p1",
+ "facts": [
+  {
+   "fact": "Tom Allen was born in Birmingham, England.",
+   "date": "1840",
+   "seed": "001",
+   "conflict": "",
+   "claims": [
+    "007.c1",
+    "084.c7",
+    "154.c2",
+    "209.c4",
+    "210.c2",
+    "242.c1",
+    "1000.c3"
+   ],
+   "join": "life-1810-1874#1"
+  },
+  {
+   "fact": "Tom Allen was born in Birmingham, England.",
+   "date": "1840",
+   "seed": "",
+   "conflict": "birth year: 1539 as printed, probably 1839 (194.c5, low confidence)",
+   "claims": [
+    "194.c5"
+   ],
+   "join": "life-1810-1874#1"
+  },
+  {
+   "fact": "The paper gave Tom Allen's age as 28 at the time of a fight on January 12, 1869.",
+   "date": "1869-01-12",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "007.c2"
+   ],
+   "join": "life-1810-1874#6"
+  },
+  {
+   "fact": "Tom Allen was knocked senseless on February 23, 1869, and lay unconscious until Looney doctored him; he was then 28 years old, 5 feet 9 inches tall and weighed 168 pounds.",
+   "date": "1869-02-23",
+   "seed": "",
+   "conflict": "age and height: about 30 and 5 ft 10 in (009.c5, medium) vs 28 and 5 ft 9 in",
+   "claims": [
+    "009.c5"
+   ],
+   "join": "life-1810-1874#7"
+  },
+  {
+   "fact": "Tom Allen was seriously ill in early 1903, confined to his bed for weeks with persistent colds at his home on Market Street, and his manager Don Murphy said he would soon be out again.",
+   "date": "1903-01",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "1000.c2"
+   ],
+   "join": "life-1903-1905#1"
+  },
+  {
+   "fact": "Tom Allen was seriously ill in early 1903, confined to his bed for weeks with persistent colds at his home on Market Street, and his manager Don Murphy said he would soon be out again.",
+   "date": "1903-01",
+   "seed": "",
+   "conflict": "manager's first name: John Murphy (1002.c3) vs Don Murphy",
+   "claims": [
+    "1002.c3"
+   ],
+   "join": "life-1903-1905#1"
+  },
+  {
+   "fact": "Tom Allen planned to marry his nurse and housekeeper, Mrs. Tillie Hartgrove of St. Louis, once he recovered, on his birthday, 23 April 1903.",
+   "date": "1903-03",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "1003.c13",
+    "1011.c6",
+    "1012.c8",
+    "214.c3",
+    "215.c7",
+    "219.c3"
+   ],
+   "join": "life-1903-1905#2"
+  },
+  {
+   "fact": "Tom Allen planned to marry his nurse and housekeeper, Mrs. Tillie Hartgrove of St. Louis, once he recovered, on his birthday, 23 April 1903.",
+   "date": "1903-03",
+   "seed": "",
+   "conflict": "daughter Mary Taylor denied the marriage report (203.c20)",
+   "claims": [
+    "203.c20"
+   ],
+   "join": "life-1903-1905#2"
+  },
+  {
+   "fact": "Tom Allen was taken to the Baptist Hospital at Garrison and Franklin avenues, St. Louis, on 28 March 1903, after the physician diagnosed pneumonia and advised removal; he was seriously ill there.",
+   "date": "1903-03-28",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "203.c17"
+   ],
+   "join": "life-1903-1905#3"
+  },
+  {
+   "fact": "Tom Allen was taken to the Baptist Hospital at Garrison and Franklin avenues, St. Louis, on 28 March 1903, after the physician diagnosed pneumonia and advised removal; he was seriously ill there.",
+   "date": "1903-03-28",
+   "seed": "",
+   "conflict": "might have recovered (215.c4, medium) vs the other claims that he died there",
+   "claims": [
+    "215.c4"
+   ],
+   "join": "life-1903-1905#3"
+  },
+  {
+   "fact": "Allen's daughter, Mrs. Mary Taylor, went to the Baptist Hospital on 30 March 1903 with Robert Lyons and was refused admittance, having been told her father was too ill to talk to anyone after the report of his engagement.",
+   "date": "1903-03-30",
+   "seed": "044",
+   "conflict": "",
+   "claims": [
+    "1003.c8",
+    "1003.c9",
+    "1007.c8",
+    "203.c21"
+   ],
+   "join": "life-1903-1905#4"
+  },
+  {
+   "fact": "Tom Allen died at the Baptist Hospital, Garrison and Franklin avenues, St. Louis, early on Sunday 5 April 1903, at the age of 6-, and his body lay at an undertaking establishment.",
+   "date": "1903-04-05",
+   "seed": "042",
+   "conflict": "",
+   "claims": [
+    "1009.c1",
+    "1012.c1",
+    "1017.c1",
+    "220.c5",
+    "235.c18"
+   ],
+   "join": "life-1903-1905#6"
+  },
+  {
+   "fact": "Tom Allen died at the Baptist Hospital, Garrison and Franklin avenues, St. Louis, early on Sunday 5 April 1903, at the age of 6-, and his body lay at an undertaking establishment.",
+   "date": "1903-04-05",
+   "seed": "",
+   "conflict": "age at death: 65 (250.c1) vs about 64 from a 1839 birth",
+   "claims": [
+    "250.c1"
+   ],
+   "join": "life-1903-1905#6"
+  },
+  {
+   "fact": "Tom Allen was buried in St. Louis on Wednesday 8 April 1903, after a funeral from an undertaking establishment, with pallbearers including former prize fighters, his daughter standing by the coffin with her four children, and the funeral procession going to the cemetery.",
+   "date": "1903-04-08",
+   "seed": "",
+   "conflict": "burial place: Calvary (208.c2, medium) vs Bellefontaine (209.c3)",
+   "claims": [
+    "208.c2",
+    "209.c3",
+    "219.c14"
+   ],
+   "join": "life-1903-1905#8"
+  },
+  {
+   "fact": "Tom Allen was an Englishman.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "011.c1",
+    "033.c3",
+    "093.c1",
+    "245.c1"
+   ]
+  },
+  {
+   "fact": "Tom Allen was knocked down under the jugular in his fight with Gallagher, which a paper called an accident.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "057.c6"
+   ]
+  },
+  {
+   "fact": "Tom Allen came from a fighting family.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "084.c8"
+   ]
+  },
+  {
+   "fact": "Tom Allen's brother Harry was matched to fight Joe Goss for 100 pounds a side, but police arrested Harry and the fight never came off.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "084.c11"
+   ]
+  },
+  {
+   "fact": "Tom Allen retired from the ring at about 39 years old, after nineteen years of fighting.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "148.c3",
+    "167.c7"
+   ]
+  },
+  {
+   "fact": "Tom Allen was still married to his wife in England, from whom he had never been divorced.",
+   "date": "",
+   "seed": "040",
+   "conflict": "widower for more than twenty years (197.c3, medium) and for thirty years (1000.c5) vs wife living in Birmingham (203.c19, medium); daughter says mother living (219.c5, medium)",
+   "claims": [
+    "197.c3",
+    "203.c19",
+    "219.c5",
+    "219.c7",
+    "1000.c5",
+    "1012.c7"
+   ]
+  },
+  {
+   "fact": "Mrs. Tillie Hartgrove was born in Manchester and came to St. Louis at the age of nine.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "1000.c9"
+   ]
+  },
+  {
+   "fact": "Tillie Hartgrove nursed Tom Allen in his last illness and had charge of his affairs.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "202.c9",
+    "219.c4"
+   ]
+  },
+  {
+   "fact": "Polly Taylor is said to be behind Murphy's refusal to give up the saloon.",
+   "date": "",
+   "seed": "048",
+   "conflict": "",
+   "claims": [
+    "1007.c6"
+   ]
+  },
+  {
+   "fact": "Tom Allen had two daughters, both married: one lived in England and one, Polly Taylor, lived at home with him in St. Louis.",
+   "date": "",
+   "seed": "012",
+   "conflict": "",
+   "claims": [
+    "141.c4",
+    "141.c5",
+    "209.c5",
+    "215.c5"
+   ]
+  },
+  {
+   "fact": "Tom Allen died leaving much litigation over his estate, and according to a barbershop speaker he left less than $200.",
+   "date": "",
+   "seed": "049",
+   "conflict": "",
+   "claims": [
+    "216.c3",
+    "1014.c1"
+   ]
+  },
+  {
+   "fact": "The undertaker insisted that Tillie Hartgrove pay for Tom Allen's funeral in advance, and she is said to have done so.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "219.c15"
+   ]
+  }
+ ]
+}

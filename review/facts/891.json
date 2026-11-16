@@ -1,0 +1,30 @@
+{
+  "id": "891",
+  "claims": [
+    {
+      "kind": "business",
+      "statement": "Tom Allen advertised a free concert every evening at 619 Market Street.",
+      "excerpt": "619 Market street—free concert every evening. Best of singers only engaged here.",
+      "date": "1893-06-24",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen styled himself retired champion pugilist of the world.",
+      "excerpt": "TOM ALLEN, retired champion pugilist of the world, 619 Market street—free concert every evening.",
+      "date": "1893-06-24",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Ad only. The text does not say saloon (the hint says saloon; filed as business)."
+}

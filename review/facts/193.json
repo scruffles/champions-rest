@@ -1,0 +1,74 @@
+{
+  "id": "193",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon, Champions Rest, was on Market street.",
+      "excerpt": "Tom Allen's “Champions Rest” on_ Market street was rudely disturbed when",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Champions Rest, Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Arthur McNamara threw two paving stones through the window of Tom Allen's Champions Rest on Market street.",
+      "excerpt": "Arthur McNamara threw two paving stones. through the window.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Arthur McNamara"],
+      "places": ["Champions Rest, Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen, the retired pugilist who conducts the place, appeared in police court and told of the trouble.",
+      "excerpt": "appeared in court and told of the trouble.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Judge Sidener fined Arthur McNamara $10 in police court.",
+      "excerpt": "and told of the trouble. Judge Sidener fined McNamara $10.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Arthur McNamara", "Judge Sidener"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The article describes Tom Allen as a retired pugilist who conducts Champions Rest.",
+      "excerpt": "The retired pugilist whe conducts the place appeared in court",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Champions Rest, Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Arthur McNamara offered to sell a razor at Champions Rest; he was told he would be paid a quarter for it if he treated with the money, and the bartender kept the money.",
+      "excerpt": "McNamara offered to sell a razor in. Allen's place and was told that he would be paid a quarter for it",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Arthur McNamara"],
+      "places": ["Champions Rest, Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The date of the window-breaking is not given; the paper is dated 1901-04-20. The hint's 'Champions' Rest' spelling is kept as the text prints it."
+}

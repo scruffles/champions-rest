@@ -1,0 +1,127 @@
+{
+  "id": "047",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "The Republican interviewed Tom Allen at his hostelry on Washington Avenue, by the tunnel in St. Louis (the text says hostelry, not saloon).",
+      "excerpt": "we came to che well-known hostelry of Sir Thomas de Al-",
+      "date": "1874-02-19",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen calls himself champion of the twenty-four-foot-roped prize ring of the United States.",
+      "excerpt": "whereot he calieth himself the champion of",
+      "date": "1874-02-19",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen said he came to St. Louis to live and means to stay there.",
+      "excerpt": "I came here to live, and I’m going to stay here",
+      "date": "1874-02-19",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he sides with the legislature's bill against prize-fighting, because the ring has become corrupt.",
+      "excerpt": "Iside with the legislature about this bill against prize-tightine",
+      "date": "1874-02-19",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said the bill had put his name in to mark him, and that the Times called him a refugee, which he denied.",
+      "excerpt": "they put my name in It to mark me",
+      "date": "1874-02-19",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen said Arthur Chambers and Billy Edwards were coming to St. Louis about March 7 to give sparring exhibitions at Deagle's for a week, to test the bill.",
+      "excerpt": "Arthur Chambers and Billy Edwards are cowing on here about the 7th of March",
+      "date": "1874-03",
+      "date_precision": "month",
+      "people": ["Arthur Chambers", "Billy Edwards"],
+      "places": ["St. Louis, Missouri", "Deagle's"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Arthur Chambers had seconded him in an earlier fight.",
+      "excerpt": "As for Chambers— you remember him seconding me—he’s a Man-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Arthur Chambers"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole; the reporter says that fight 'stands for nothing'.",
+      "excerpt": "The McCoole fight stands for nothing. He was a big traud",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I think it’s unnecessary and uncalled for in this state.",
+      "topic": "the Missouri law against prize-fighting"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "It’s not the fighting meu that’s to blame and that break up the contidence. Its the gang that follow the ring.",
+      "topic": "the gang that follows the ring, not the fighters"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I’m no refugee; I can go back whenever [ want to go.",
+      "topic": "denies being a refugee"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The McCoole fight stands for nothing. He was a big traud",
+      "reported_as": "report",
+      "notes": "Mentioned as a past fight ('the conqueror of the McCoole'). The win is from that phrase. The date is in 044."
+    }
+  ],
+  "notes": "Interview at Allen's hostelry on the day before printing. The bill and the Chambers/Edwards exhibitions are Allen's talk about the law, not his own bouts."
+}

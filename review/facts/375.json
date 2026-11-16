@@ -1,0 +1,45 @@
+{
+  "id": "375",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The New York Clipper gave Tom Allen a title, printed as 'see bruiser' (the word is garbled).",
+      "excerpt": "The Clipper also confers on Tom Al-",
+      "date": "1869-11",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole refused to meet Tom Allen to settle their dispute, according to the Clipper.",
+      "excerpt": "since McCoole refused to meet him settle their little dispute",
+      "date": "1869-11",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "since McCoole refused to meet him settle their little dispute",
+      "reported_as": "report",
+      "notes": "Forfeit by McCoole, per the Clipper, which says he refused to meet Allen. The match date is not given here (10 Nov 1869 per other papers)."
+    }
+  ],
+  "notes": "The title word is garbled. The Strauss item and the baseball item are not about Allen."
+}

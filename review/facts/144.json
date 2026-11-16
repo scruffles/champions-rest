@@ -1,0 +1,63 @@
+{
+  "id": "144",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen is now with John L. Sullivan and will back him whenever an opportunity presents itself.",
+      "excerpt": "This time the old ex-champion is with Sullivan",
+      "date": "1892-08",
+      "date_precision": "month",
+      "people": ["John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen backed Jake Kilrain against John L. Sullivan at Richburg, Miss., about two years before this article, on Charlie Mitchell's judgment.",
+      "excerpt": "also a Kilrain man when Jake met defeat at the hands of John L. at Richburg, Miss., two",
+      "date": "1890",
+      "date_precision": "approx",
+      "people": ["Jake Kilrain", "John L. Sullivan", "Charlie Mitchell"],
+      "places": ["Richburg, Mississippi"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was the biggest backer of Charlie Mitchell in St. Louis when Mitchell fought Sullivan at Chantilly, France.",
+      "excerpt": "was the biggest Mitchell shoutertia St",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charlie Mitchell", "John L. Sullivan"],
+      "places": ["Chantilly, France"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Charlie Mitchell was one of Tom Allen's particular friends.",
+      "excerpt": "Alien’s particular friends, was responsible.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charlie Mitchell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was to leave St. Louis for the Crescent City (New Orleans) on Sunday morning, 4 September 1892, with friends including Fred Watkins.",
+      "excerpt": "will leave st. Louts for the Cres-",
+      "date": "1892-09-04",
+      "date_precision": "day",
+      "people": ["Fred Watkins", "Billy Dacre", "Tom Riley", "Nobby Clarke", "Chris Louff"],
+      "places": ["St. Louis", "New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Richburg bout dated from 'two years ago' in the article, so approximate. Chantilly date not given. Excerpt 'Cres-' is a line-end hyphen in the OCR. The 'Nobby Clarke' and 'Chris Louff' names are as printed here."
+}

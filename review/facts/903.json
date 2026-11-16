@@ -1,0 +1,19 @@
+{
+  "id": "903",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Prize fighter Jerry Slattery hangs out around Tom Allen's saloon.",
+      "excerpt": "Jerry Slattery, @ prize fighter who hangs out around Tom Allen's saldon",
+      "date": "1894-12",
+      "date_precision": "month",
+      "people": ["Jerry Slattery"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only as owner of the saloon Slattery frequents. Slattery's arrest for beating Mrs. Vellig is about Slattery, not Allen, so it is not recorded. The saloon's location is not in the text."
+}

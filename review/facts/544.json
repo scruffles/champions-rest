@@ -1,0 +1,41 @@
+{
+  "id": "544",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen did not come back to St. Louis from Chicago with Bauer on April 27, 1876, as had been expected.",
+      "excerpt": "Tom Allen did not come down from Chicago yesterday with Bauer, as was expected.",
+      "date": "1876-04-27",
+      "date_precision": "day",
+      "people": ["Theobaud Bauer"],
+      "places": ["Chicago", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Chicago papers announced that Tom Allen contemplated taking up his permanent home in Chicago.",
+      "excerpt": "The Chicago papers announce that he contemplates taking up his permanent abode in that city.",
+      "date": "1876-04",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen's friends in St. Louis said he would certainly make a match with Joe Goss.",
+      "excerpt": "friends here state that he will certainly make a match with Joe Goss.",
+      "date": "1876-04",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The 'yesterday' of this paper dated 1876-04-28 is 1876-04-27. The Goss match is a friends' claim, not agreed. The wrestling news is about Bauer."
+}

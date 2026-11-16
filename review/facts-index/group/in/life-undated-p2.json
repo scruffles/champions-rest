@@ -1,0 +1,242 @@
+{
+ "bucket": "life-undated-p2",
+ "kind": "life",
+ "undated": true,
+ "claims": [
+  {
+   "cid": "253.c1",
+   "date": "",
+   "published": "1937-10-29",
+   "retro": true,
+   "statement": "Tom Allen was English born."
+  },
+  {
+   "cid": "254.c5",
+   "date": "",
+   "published": "1939-03-08",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen died early in the 1900s; the article gives no exact year."
+  },
+  {
+   "cid": "255.c1",
+   "date": "",
+   "published": "1941-03-30",
+   "retro": true,
+   "statement": "Tom Allen was British-born."
+  },
+  {
+   "cid": "259.c7",
+   "date": "",
+   "published": "1903-04-10",
+   "statement": "Tom Allen had been very low for several days before he died."
+  },
+  {
+   "cid": "262.c13",
+   "date": "",
+   "published": "1978",
+   "retro": true,
+   "statement": "Polly Allen Taylor and Edward Taylor were the grandparents of Thomas Allen Taylor, Allen's great-grandson."
+  },
+  {
+   "cid": "262.c14",
+   "date": "",
+   "published": "1978",
+   "retro": true,
+   "statement": "Allen's will left everything to his daughter Polly Allen Taylor and to a friend, Tillie Hartgrove."
+  },
+  {
+   "cid": "262.c15",
+   "date": "",
+   "published": "1978",
+   "retro": true,
+   "statement": "When Allen's will was probated, his estate amounted to $278.35."
+  },
+  {
+   "cid": "262.c20",
+   "date": "",
+   "published": "1978",
+   "retro": true,
+   "statement": "Allen's face was lined with scars, and he had a terrible scar on his right hand."
+  },
+  {
+   "cid": "262.c21",
+   "date": "",
+   "published": "1978",
+   "retro": true,
+   "statement": "In later years Allen's hands were shapeless, with the knuckles gone from pounding."
+  },
+  {
+   "cid": "262.c22",
+   "date": "",
+   "published": "1978",
+   "retro": true,
+   "statement": "In his fight with Charley Gallagher a shot was fired, the ball struck Allen's hand, a doctor removed it, and the fight went on."
+  },
+  {
+   "cid": "263.c7",
+   "date": "",
+   "published": "1978-04-04",
+   "retro": true,
+   "statement": "Tom Allen's daughter Mary, also called Polly, came to the United States with him and later married Edward Taylor of St. Louis."
+  },
+  {
+   "cid": "263.c8",
+   "date": "",
+   "published": "1978-04-04",
+   "retro": true,
+   "statement": "Edward Taylor and Polly Allen Taylor were the grandparents of Thomas Allen Taylor, Tom Allen's great-grandson."
+  },
+  {
+   "cid": "264.c6",
+   "date": "",
+   "published": "1875-05-10",
+   "statement": "Tom Allen said he had not had a sick day since coming to St. Louis eight years earlier."
+  },
+  {
+   "cid": "264.c8",
+   "date": "",
+   "published": "1875-05-10",
+   "statement": "Tom Allen was married in Vincennes, Indiana."
+  },
+  {
+   "cid": "264.c9",
+   "date": "",
+   "published": "1875-05-10",
+   "statement": "Tom Allen was born in Birmingham, England."
+  },
+  {
+   "cid": "273.c1",
+   "date": "",
+   "published": "1896-12-09",
+   "retro": true,
+   "statement": "Tom Allen was an English boxer of science and renown."
+  },
+  {
+   "cid": "279.c5",
+   "date": "",
+   "published": "1900-03-18",
+   "conf": "medium",
+   "statement": "Tom Allen's daughter is said to have stayed in charge of her home for her father's sake."
+  },
+  {
+   "cid": "279.c6",
+   "date": "",
+   "published": "1900-03-18",
+   "conf": "medium",
+   "statement": "An unwritten romance is said to have linked the name of Tom Allen's daughter with that of the late Col. Fred Watkins."
+  },
+  {
+   "cid": "307.c5",
+   "date": "",
+   "published": "1869-02-24",
+   "statement": "Tom Allen was an English fighter."
+  },
+  {
+   "cid": "340.c3",
+   "date": "",
+   "published": "1869-07-15",
+   "statement": "Tom Allen is described as an Englishman."
+  },
+  {
+   "cid": "352.c2",
+   "date": "",
+   "published": "1869-08-18",
+   "retro": true,
+   "conf": "medium",
+   "statement": "The paper says Tom Allen was twenty-nine years old in April 1869, so he was born about 1839 or 1840."
+  },
+  {
+   "cid": "363.c1",
+   "date": "",
+   "published": "1869-08-28",
+   "retro": true,
+   "statement": "Tom Allen was born in England."
+  },
+  {
+   "cid": "372.c4",
+   "date": "",
+   "published": "1869-11-02",
+   "statement": "The Cincinnati Commercial calls Tom Allen a 'plucky little Englishman'."
+  },
+  {
+   "cid": "389.c5",
+   "date": "",
+   "published": "1870-03-24",
+   "conf": "medium",
+   "statement": "James Mace said Tom Allen was as much an Englishman as himself and had been in America little longer than Mace."
+  },
+  {
+   "cid": "402.c4",
+   "date": "",
+   "published": "1870-05-15",
+   "statement": "Tom Allen was not yet fully recovered from an injury to his arm."
+  },
+  {
+   "cid": "479.c2",
+   "date": "",
+   "published": "1873-10-01",
+   "conf": "medium",
+   "statement": "The Globe-Democrat describes Tom Allen as the representative of 'merrie England'."
+  },
+  {
+   "cid": "488.c8",
+   "date": "",
+   "published": "1873-10-25",
+   "statement": "Tom Allen said he was an Englishman."
+  },
+  {
+   "cid": "562.c7",
+   "date": "",
+   "published": "1876-07-17",
+   "conf": "medium",
+   "statement": "Harry Allen, Tom Allen's brother, was matched to fight Joe Goss, but the fight did not come off because of magisterial interference."
+  },
+  {
+   "cid": "577.c25",
+   "date": "",
+   "published": "1876-09-08",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Joe Goss matched himself against Tom Allen's brother Harry for 100 pounds a side, but the police arrested Harry and the fight never came off."
+  },
+  {
+   "cid": "577.c27",
+   "date": "",
+   "published": "1876-09-08",
+   "retro": true,
+   "conf": "medium",
+   "statement": "The Enquirer record says Tom Allen came from a fighting family in England."
+  },
+  {
+   "cid": "610.c2",
+   "date": "",
+   "published": "1878-04-07",
+   "statement": "The paper describes Tom Allen as being of America, and calls him the United States champion."
+  },
+  {
+   "cid": "659.c5",
+   "date": "",
+   "published": "1882-11-01",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Billy Carroll was sure Tom Allen's dissipation in the old country had not hurt him."
+  },
+  {
+   "cid": "909.c4",
+   "date": "",
+   "published": "1895-03-31",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen had a brother named Harry, whom Bob Smith had 'done' twice in England."
+  },
+  {
+   "cid": "925.c1",
+   "date": "",
+   "published": "1896-02-09",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen was English-born: the writer says England gave America two champions, Tom Allen and Joe Goss."
+  }
+ ]
+}

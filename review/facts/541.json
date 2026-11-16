@@ -1,0 +1,100 @@
+{
+  "id": "541",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen received a dispatch from Jem Coyne of Newark, N.J., announcing that Joe Goss had arrived in America.",
+      "excerpt": "morning Tom Allen received a dispatch from Jem Coyne, of Newark, N. J., announcing thé arriyal in this country of Joe Goss",
+      "date": "1876-04-10",
+      "date_precision": "day",
+      "people": ["Jem Coyne", "Joe Goss"],
+      "places": ["Newark, New Jersey"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Joe Goss fought for £100 a side and the middleweight championship; after 34 rounds lasting 1 hour 52 minutes the battle was declared a draw. The paper prints the year as 1967, but the fight was in 1867.",
+      "excerpt": "occupying one hour and fifty-two minutes, the battle was declared adraw.",
+      "date": "1867-03-05",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen had taken part in no less than nine encounters since his 1867 fight with Joe Goss.",
+      "excerpt": "in no less than nine encounters since that time",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered to fight Joe Coburn for as much money as he could raise or for nothing, at a place half way between St. Louis and New York.",
+      "excerpt": "HE WILL FIGHT COBURN for as much money as be can raise or for nothing,",
+      "date": "1876-04-10",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": ["St. Louis", "New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered to make a glove fight with Joe Coburn for nothing, or for as much as Coburn chose, and bet $500 that he would make Coburn take off the gloves.",
+      "excerpt": "Allen will make a glove fight with Coburn for nothing, orforas much as he chooses, and will bet $500 that he will make the New Yorker take off the mittens",
+      "date": "1876-04-10",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen played a legitimate part in the crib scene from Tom and Jerry at the Theatre Comique, St. Louis, a couple of weeks before April 1876.",
+      "excerpt": "a legitimate part played by Allen at the Theatre Comigue a couple of weeks ogo.",
+      "date": "1876-03",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "It was thought probable that Joe Goss would come to St. Louis and that he and Tom Allen would start out on a sparring tour.",
+      "excerpt": "that he and Tom will start out on a sparring tour",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1867-03-05",
+      "date_precision": "day",
+      "place": "",
+      "result": "draw",
+      "rounds": "34",
+      "duration": "1 hour 52 minutes",
+      "stakes": "£100 a side and the middleweight championship",
+      "rules": "",
+      "excerpt": "occupying one hour and fifty-two minutes, the battle was declared adraw.",
+      "reported_as": "recollection",
+      "notes": "Printed date 'March 5, 1967' (OCR); year read as 1867 from context. Place and rules not given in this article."
+    }
+  ],
+  "notes": "Mostly a retrospective on Goss's arrival. Coburn challenges are conditional offers, not agreed matches. The 'Manager We: Allen' of the New Adelphi is a different man and is not included."
+}

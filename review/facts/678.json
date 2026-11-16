@@ -1,0 +1,34 @@
+{
+  "id": "678",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Fred Watkins were weighed for a match: Allen 202 pounds and Watkins 200 pounds.",
+      "excerpt": "TOM ALLEN and Fred Watkins were weighed yesterday minus their heavy clothing.",
+      "date": "1882-12-29",
+      "date_precision": "day",
+      "people": ["Fred Watkins"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Fred Watkins",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "TOM ALLEN and Fred Watkins were weighed yesterday minus their heavy clothing.",
+      "reported_as": "report",
+      "notes": "Weigh-in only. The match is not named, dated or reported as fought in the text."
+    }
+  ],
+  "notes": "Tips column. The weigh-in implies a scheduled match, but the text does not say so directly."
+}

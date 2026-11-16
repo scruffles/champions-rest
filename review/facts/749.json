@@ -1,0 +1,52 @@
+{
+  "id": "749",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen deposited $160 for Flint on Saturday, and the McManus party covered it.",
+      "excerpt": "The $160 deposited by Tom Alien for Flint on Saturday was covered",
+      "date": "1888-02-18",
+      "date_precision": "day",
+      "people": ["Flint", "McManus"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen, who had the power to act for Flint, took part in arranging a fight to a finish between Flint and McManus at 160 pounds, with skin gloves under Queensberry rules.",
+      "excerpt": "arrived. an as Allen had the power to act",
+      "date": "1888-02-21",
+      "date_precision": "day",
+      "people": ["Flint", "McManus", "Jim Sweeney", "Tom Kelly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen witnessed the signing of the articles for the Flint and McManus fight.",
+      "excerpt": "were signed by McManus and Flint, who came in afterwards, and by Allen and Kelly",
+      "date": "1888-02-21",
+      "date_precision": "day",
+      "people": ["Flint", "McManus", "Tom Kelly"],
+      "places": ["Tom Kelly's"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was timekeeper at the Standard when D. McMillan stayed fifteen minutes with Muldoon at Greco-Roman wrestling.",
+      "excerpt": "Prof. Clark was Shagen referee and rom Allen time-ke r.",
+      "date": "1888-02-21",
+      "date_precision": "day",
+      "people": ["McMillan", "Muldoon", "Prof. Clark"],
+      "places": ["the Standard"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "OCR is heavily garbled. Match weight printed as 160 pounds and later 150 pounds before the fight; stake printed as 5500-4 side. The hint's 'Allen's place' meeting is not legible in the text. Articles signed 1888-02-21 per 'yesterday'."
+}

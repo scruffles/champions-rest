@@ -1,0 +1,56 @@
+{
+  "id": "621",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had a mill with Goss on the soil of Kentucky.",
+      "excerpt": "Tom Allen, whose mill with Goss on the sa-",
+      "date": "1878",
+      "date_precision": "approx",
+      "people": ["Goss"],
+      "places": ["Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen wrote to a St. Louis friend that he was thinking of returning to America.",
+      "excerpt": "turning to America. A letter to this effect bas",
+      "date": "1878-11",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Johnny Minan of San Francisco offered to match an unknown fighter, said to be Tom Allen, for $1,000 or $2,000 a side against Paddy Ryan, Mike McCoole or others.",
+      "excerpt": "bost ot power hg A is none other than Allen, who",
+      "date": "1878-11",
+      "date_precision": "approx",
+      "people": ["Johnny Minan", "Paddy Ryan", "Mike McCoole"],
+      "places": ["San Francisco"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Goss",
+      "date": "1878",
+      "date_precision": "approx",
+      "place": "Kentucky",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Tom Allen, whose mill with Goss on the sa-",
+      "reported_as": "report",
+      "notes": "Only 'Goss' is printed; the hint's 'Joe Goss' is not in the text. The result is not stated. The text says the mill caused him to 'remain ... for some time' but the OCR is garbled, so that is not recorded."
+    }
+  ],
+  "notes": "The Minan offer is printed as a rumour ('it is stated') that the unknown is Allen. The hint's 'Johnny Dwyer' as a possible match is not legible in the text, so it is left out."
+}

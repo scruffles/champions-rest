@@ -1,0 +1,98 @@
+{
+  "id": "896",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen was assisting in Mitchell's training for his fight with Corbett.",
+      "excerpt": "Tom Allen, who is assisting in Mitchell's training,",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": ["Mitchell", "Corbett"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen wrote to Fred Watkins that Mitchell could not lose and was in the pink of condition.",
+      "excerpt": "telling him that the Englishman could not lose and that he was in the pink of condi-",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": ["Fred Watkins", "Mitchell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen wrote to Fred Watkins that he thought odds of 2 to 1 might be obtainable at the ringside.",
+      "excerpt": "Allen wrote him that he thought that it might be possible to get those odds at the",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": ["Fred Watkins"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Gallagher in three rounds in St. Louis around 1869, according to Tom Kelly's recollection.",
+      "excerpt": "Gallagher got in one of those punches that puts a man to sleep and beat Allen in three rounds",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Gallagher", "Tom Kelly"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen met Gallagher again later, with Tom Kelly seconding Gallagher, and Allen won easily, according to Tom Kelly's recollection.",
+      "excerpt": "The two men met again later and I seconded Gallagher, but this time Allen was not s0",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Gallagher", "Tom Kelly"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Kelly",
+      "text": "Although Allen was manifestly the best of the two Gallagher got in one of those punches that puts a man to sleep and beat Allen in three rounds.",
+      "topic": "1869 loss to Gallagher"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Gallagher",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "St. Louis",
+      "result": "loss",
+      "rounds": "3",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Gallagher got in one of those punches that puts a man to sleep and beat Allen in three rounds",
+      "reported_as": "recollection",
+      "notes": "Recalled by Tom Kelly, who says it was back in '69 in this city (St. Louis). The article gives Gallagher's name only, not Charley."
+    },
+    {
+      "opponent": "Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The two men met again later and I seconded Gallagher, but this time Allen was not s0",
+      "reported_as": "recollection",
+      "notes": "Rematch, undated ('later'). Tom Kelly seconded Gallagher and Allen won easily."
+    }
+  ],
+  "notes": "Allen's training role and letters come from the paper's report on Fred Watkins. The $5,000 check is Watkins's, not Allen's, so it is not recorded."
+}

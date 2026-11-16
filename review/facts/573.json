@@ -1,0 +1,89 @@
+{
+  "id": "573",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss near Walton, Kentucky, on September 7, 1876, and Goss was awarded the fight on a foul in the twenty-first round.",
+      "excerpt": "Goss falls and is struck by Allen while cn his knees. A foul claimed and allowed. Fight decided in favor of Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Walton, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Eph Holland stopped the fight after seven rounds had been fought.",
+      "excerpt": "and accordingly stopped the fight, after seven rounds had been fought.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Eph Holland"],
+      "places": ["Walton, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "After the militia dispersed the crowd, a second ring was formed in Boone County and the fighting went on there.",
+      "excerpt": "After being dispersed by the militia a second ring was formed a short distance below Walton, in Boone County.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Boone County, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen came to the grounds with Kelley and Chambers as his seconds.",
+      "excerpt": "Allen, with Kelley and Chambers, his seconds,",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Kelley", "Chambers"],
+      "places": ["Walton, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Eph Holland was induced to referee the fight after several prominent pugilists declined the position.",
+      "excerpt": "After several prominent pugilists had declined the position of referee",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Eph Holland"],
+      "places": ["Walton, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested at Newport when two trains from the fight were stopped by the authorities.",
+      "excerpt": "were siopped by the authorities, and Tom Allen arrested.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Newport"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "Cloverfield, near Walton, Kentucky",
+      "result": "loss",
+      "rounds": "21",
+      "duration": "1 hour 52 minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Goss falls and is struck by Allen while cn his knees. A foul claimed and allowed. Fight decided in favor of Goss",
+      "reported_as": "report",
+      "notes": "Stopped by the militia after seven rounds, resumed in a second ring in Boone County; Goss awarded the fight on a foul in the 21st round."
+    }
+  ],
+  "notes": "Dispatch from the grounds near Walton, Kentucky. Hint about Tom Kelly spelled as Kelley in the text."
+}

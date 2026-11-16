@@ -1,0 +1,19 @@
+{
+  "id": "634",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen announced over his own signature that he contemplated returning to America in a few months.",
+      "excerpt": "that Tom Allen contemp'ates omen to America in a few months",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Short announcement only. The word before 'to America' is garbled in the OCR ('omen'). The 'Tom' in the 'All a mistake' item is Tom Gallagher, not Allen. The rest of the page is unrelated."
+}

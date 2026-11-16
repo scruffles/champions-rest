@@ -1,0 +1,70 @@
+{
+  "id": "342",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole in a prize fight; the press called it a victory for Allen, but the referee's decision gave the prize money to McCoole.",
+      "excerpt": "that MeCoole got the prize-mozey om the\ndecision of the referee.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole had already signed articles for a second fight.",
+      "excerpt": "as they have already\nsignet articles",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan of Titusville, Pennsylvania, challenged Tom Allen to a prize fight under London prize ring rules for $1,000 and the boat money, to take place in Canada West three months after articles are signed.",
+      "excerpt": "that is Tom\nAllen,.whe lately foug’si ana defeatad Mike McCoule,",
+      "date": "1869-07-02",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": ["Titusville, Pennsylvania", "Canada West"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "prize money",
+      "rules": "",
+      "excerpt": "that MeCoole got the prize-mozey om the\ndecision of the referee.",
+      "reported_as": "report",
+      "notes": "Papers reported a win for Allen; the referee's decision gave the prize money to McCoole. McCoole denies the referee was bribed and that his friends cut the ropes. Earlier pass said the place was near St. Louis; the text only has an unreadable 'St. a reece' in Hogan's letter."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "as they have already\nsignet articles",
+      "reported_as": "report",
+      "notes": "Rematch (see 344). Articles already signed, per the Clipper piece printed here. Not yet fought."
+    }
+  ],
+  "notes": "Hint 1 corrected: McCoole's letter is a denial of bribery and a challenge to Allen, not a fight claim. Hint 2 kept. Hint 3 kept, minus the Buffalo or Cleveland detail which is not in the text."
+}

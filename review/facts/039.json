@@ -1,0 +1,128 @@
+{
+  "id": "039",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested on the steamboat Belle Ida and taken to the Central police station on November 1, 1870.",
+      "excerpt": "Allen got up promptly and went with the officer.",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["Capt. Burgess"],
+      "places": ["Central police station"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Daniel B. Stephens petitioned for a writ of habeas corpus, saying Tom Allen was held illegally in the calaboose with no charge against him.",
+      "excerpt": "Thos. Alen, in the calaboose, in St. Louis county",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["Daniel B. Stephens", "James McDonough"],
+      "places": ["calaboose, St. Louis county"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The habeas corpus petition for Tom Allen was presented to Judge Stewart of the court of criminal correction.",
+      "excerpt": "which was presented to Mr. Stewart, prov judge of the court of crimi-",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["Judge Stewart"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "A writ of attachment was ordered against Chief of Police James McDonough for contempt of court in not producing Tom Allen.",
+      "excerpt": "writ of attachment was ordered against the chief",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["James McDonough"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Chief James McDonough surrendered Tom Allen to the court, which discharged him; no charges were made against Allen.",
+      "excerpt": "The chief surrenders the party into the custody of the court 41d prefers no charges against him.",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["James McDonough"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Police arrested Tom Allen and Gallagher to break off their prize fight on November 1, 1870.",
+      "excerpt": "the arrests of Allen and Gallagher was not so much to have the pugilists punished as to break off the tight.",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen said he could not claim the stakes and did not want to, and that the fight would come off that day.",
+      "excerpt": "He stated that he culd not claim the stakes and did not want to, and that the fight wou'd come off to day.",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Tom Kelly said the fight would not take place, since the agreement did not forfeit the stakes on magisterial interference.",
+      "excerpt": "Tom Allen, and also Tom Kelly, assert that the fight will not take place, as there was a clause in the",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he was never better and weighed 180 pounds when stripped (printed as 180 wounds).",
+      "excerpt": "Thomas stated that he was never better in his hfe, weighed 180 wounds when stripped",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Why didn't these men come and tell me their man (Gallagher) was sick? Had they told me, it would have saved all this trouble.",
+      "topic": "Gallagher's backers should have said he was sick"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Gallagher",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "place": "Foster's Island, 23 miles from the city",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "money held by the stakeholders",
+      "rules": "London ring",
+      "excerpt": "the arrests of Allen and Gallagher was not so much to have the pugilists punished as to break off the tight.",
+      "reported_as": "report",
+      "notes": "Stopped by the police arrests; Allen and Kelly said it would not take place, and the stakes were not forfeited under the articles. Place is the planned one given by Gallagher."
+    }
+  ],
+  "notes": "Hint's weight (186 pounds) and other personal details are not in the text; the text prints 180 wounds. The Gallagher arrest and the wife-notification hint is not clearly supported and is left out."
+}

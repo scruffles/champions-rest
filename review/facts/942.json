@@ -1,0 +1,47 @@
+{
+  "id": "942",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen is described as the veteran ex-champion of America.",
+      "excerpt": "the veteran ex-champio1\nAmerica, returned from New",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen went to New York to see the Peter Maher and Joe Choynski fight and then returned home.",
+      "excerpt": "He went to Gotham to",
+      "date": "1896-11",
+      "date_precision": "month",
+      "people": ["Peter Maher", "Joe Choynski"],
+      "places": ["New York City", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was in close conference with Peter Maher during the Maher and Choynski fight and had a reserved seat at the ringside.",
+      "excerpt": "He was fn close\njon with the big Irishman",
+      "date": "1896-11-16",
+      "date_precision": "day",
+      "people": ["Peter Maher", "Joe Choynski"],
+      "places": ["Broadway Club arena, New York City"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "was the most confident figh\ner seen enter the ring",
+      "topic": "on Maher's confidence entering the ring"
+    }
+  ],
+  "fights": [],
+  "notes": "The fight took place on the Monday before the paper's date (1896-11-16). The 'Maher party' and 'big Irishman' are Peter Maher. The OCR of the quotation is broken and partly missing."
+}

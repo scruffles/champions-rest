@@ -1,0 +1,52 @@
+{
+  "id": "173",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Two cases against Tom Allen were dismissed in Judge Peabody's court on payment of costs.",
+      "excerpt": "and as a result two cases against him were dismissed upon payment of costs",
+      "date": "1897-04-30",
+      "date_precision": "day",
+      "people": ["Judge Peabody"],
+      "places": ["Judge Peabody's court"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested for disturbing the peace and discharging firearms.",
+      "excerpt": "Allen Was ar-\nrested for disturbing the peace and dis-\ncharging firearms.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen raised a disturbance and fired several shots at The Ohio, a music and beer hall, early on Tuesday 1897-04-27.",
+      "excerpt": "While in his cu early iast Tuesday morning Allen raised a disturbance and fired",
+      "date": "1897-04-27",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "business",
+      "statement": "Tom Allen ran a concert hall that was a rival of The Ohio music hall.",
+      "excerpt": "Tom Allen's concert hall and the Ohio are rivais.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Judge's name printed 'Pea y's'; read as Peabody per the hint. The shooting sentence is garbled ('cu', 'piste]'), so low confidence. Arrest date not given."
+}

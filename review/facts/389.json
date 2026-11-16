@@ -1,0 +1,63 @@
+{
+  "id": "389",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "James Mace wrote in a card that he would only whip Tom Allen for the reputation and battle-money of their meeting, with no international character to it.",
+      "excerpt": "any international character. I, at least, can see none, and only propose to whip Mr. Tom Allen",
+      "date": "1870-03-23",
+      "date_precision": "day",
+      "people": ["James Mace"],
+      "places": ["Varieties Theater, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Mace said an item in the St. Louis Evening Dispatch had evidently been inserted at Tom Allen's request as an advertisement of his own pretensions.",
+      "excerpt": "an item evidently msertes at the request of Mr. Tom Aller",
+      "date": "1870-03-23",
+      "date_precision": "day",
+      "people": ["James Mace"],
+      "places": ["St. Louis Evening Dispatch"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "An item apparently from Tom Allen in the Dispatch described him, as a citizen, as champion of the United States.",
+      "excerpt": "Allen, (now acitizen,) who is champion of the United States",
+      "date": "1870-03-23",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen complained that Mace had not called on him.",
+      "excerpt": "He complains that I have not called upon him.",
+      "date": "1870-03-23",
+      "date_precision": "day",
+      "people": ["James Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "birth",
+      "statement": "James Mace said Tom Allen was as much an Englishman as himself and had been in America little longer than Mace.",
+      "excerpt": "much an Englishman aa myself, has been here little longer than I",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["James Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Card is dated 'March 23, 1876' in the OCR; 1870 fits the paper date. These are Mace's claims about Allen, one side of a dispute. 'aa' in the excerpt is OCR for 'as'."
+}

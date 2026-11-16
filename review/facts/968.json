@@ -1,0 +1,59 @@
+{
+  "id": "968",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Mike McCool defeated Tom Allen in 1869.",
+      "excerpt": "In 1869 Mike McCool defeated Tom Alien,",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Mike McCool"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen defeated Mike McCool in 1873.",
+      "excerpt": "and in 1873 was defeated by Tom Allen.",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Mike McCool"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCool",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "In 1869 Mike McCool defeated Tom Alien,",
+      "reported_as": "record",
+      "notes": "Printed as 'Tom Alien' (OCR). Listed in a column of champions' rematches."
+    },
+    {
+      "opponent": "Mike McCool",
+      "date": "1873",
+      "date_precision": "year",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "and in 1873 was defeated by Tom Allen.",
+      "reported_as": "record",
+      "notes": ""
+    }
+  ],
+  "notes": "Allen appears only in one line of a list of prize-ring rematches."
+}

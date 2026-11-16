@@ -1,0 +1,136 @@
+{
+  "id": "561",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Allen and Joe Goss met at Cincinnati to draw up articles for their fight and signed them quickly.",
+      "excerpt": "in coming to terms, and when the men met at Cincinnati",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Jem Mace thought of matching Joe Goss against Tom Allen while Mace was in England.",
+      "excerpt": "thought that it would be a good idea to match Goss against Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mace", "Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Joe Goss were matched to fight on 7 September 1876 for the championship of America.",
+      "excerpt": "the fight on the seventh of September was to be decided on its merits",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had fought Joe Goss to a draw in three rings, as printed.",
+      "excerpt": "with whom he had fought a draw in three rings",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen and Jack Madden left St. Louis for Cincinnati about ten days before this article, at the end of their Comique engagement.",
+      "excerpt": "Allen and Jack Madden left for Cincinnati at the close of their engagement at the Comique ten days ago",
+      "date": "1876-07-06",
+      "date_precision": "approx",
+      "people": ["Jack Madden"],
+      "places": ["St. Louis", "Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen wrote in a letter that he had begun work in earnest and was never in better trim in his life.",
+      "excerpt": "begun work in earnest, and thathe never was in better trim in his life",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said the fighting ground for the Goss fight had already been selected.",
+      "excerpt": "that the fighting ground had already been selected",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was interviewed by a Globe-Democrat reporter at the Olive Street Hotel in St. Louis and said the match was on the dead level.",
+      "excerpt": "in hia room at the Olive Street Hotel",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Olive Street Hotel, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "It will be the liveliest scrap you ever saw for the first twenty minutes",
+      "topic": "prediction for the Goss fight"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "the only way you can lick himisto blind him",
+      "topic": "how to beat Goss"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "with whom he had fought a draw in three rings",
+      "reported_as": "report",
+      "notes": "Only a passing mention. Printed as 'three rings'; no date, place or rounds given."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "a big bundle and the championship of America",
+      "rules": "",
+      "excerpt": "the fight on the seventh of September was to be decided on its merits",
+      "reported_as": "report",
+      "notes": "Planned bout as of this article. The stake amount is printed as 'a big bundle'."
+    }
+  ],
+  "notes": "Fight date and match details are taken from the article's own description. The Globe-Democrat says the match was made after Mace suggested it. The article also reports that Allen claimed the fighting ground was chosen; the claim is kept as Allen's own statement."
+}

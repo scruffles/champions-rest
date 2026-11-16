@@ -1,0 +1,19 @@
+{
+  "id": "501",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Police Chief McDonough intended to push the Wash Home case against Tom Allen and his associates, and would not use Ben Hogan as a witness.",
+      "excerpt": "intends to piush the Wash home ease wgainst Tom Allen and his associates",
+      "date": "1873-12-03",
+      "date_precision": "day",
+      "people": ["McDonough", "Ben Hogan"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mostly about Hogan's vagrancy case. Allen is named only as a Wash Home defendant."
+}

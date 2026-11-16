@@ -1,0 +1,56 @@
+{
+  "id": "249",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole in a battle for the title with side bets, about 65 years before 1935.",
+      "excerpt": "In the ring, just before a battle for the title and side bets, with Tom Allen,",
+      "date": "1870",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Before the fight, Mike McCoole bet Tom Allen $500 more that he would win, and lent Allen $200 to cover the bet because Allen had only $300.",
+      "excerpt": "Till lend you the other $200 to cover the bet",
+      "date": "1870",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Mike McCoole",
+      "text": "Till bet you $500 more I lick you.",
+      "topic": "side bet before a title fight"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I've only got $300",
+      "topic": "his stake before the title fight"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1870",
+      "date_precision": "approx",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "In the ring, just before a battle for the title and side bets, with Tom Allen,",
+      "reported_as": "recollection",
+      "notes": "Winner not stated. Date is worked out from '65 years ago' in a 1935 column."
+    }
+  ],
+  "notes": "The result of the fight is not given. The anecdote is from a column recounting an early title fight."
+}

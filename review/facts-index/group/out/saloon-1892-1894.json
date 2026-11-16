@@ -1,0 +1,96 @@
+{
+  "bucket": "saloon-1892-1894",
+  "facts": [
+    {
+      "fact": "From January to April 1892 Tom Allen advertised free concerts every evening at his place at 619 Market Street, St. Louis, with only the best singers engaged, and a reporter interviewed him there on March 5.",
+      "date": "1892-01-23",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["831.c1", "832.c1", "833.c1", "838.c5", "841.c1", "842.c1", "843.c1", "844.c1", "845.c1"]
+    },
+    {
+      "fact": "In May and June 1892 Tom Allen advertised free concerts every evening at 619 Market Street.",
+      "date": "1892-05",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["846.c1", "847.c1", "848.c1", "849.c1", "850.c1", "851.c1", "853.c1"]
+    },
+    {
+      "fact": "In July 1892 Tom Allen was still in the Market Street block between Sixth and Seventh streets, which was about to be torn down, and was advertised at 619 Market Street as the retired champion pugilist of the world.",
+      "date": "1892-07",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["143.c1", "854.c2", "854.c3"]
+    },
+    {
+      "fact": "In September 1892 Tom Allen kept a saloon in St. Louis called the Champion's Rest, and the championship cap of England was one of its revered ornaments.",
+      "date": "1892-09-18",
+      "seed": "018",
+      "conflict": "",
+      "claims": ["148.c7", "148.c8"]
+    },
+    {
+      "fact": "From September to November 1892 Tom Allen advertised free concerts every evening at 619 Market Street, with only the best singers engaged.",
+      "date": "1892-09",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["858.c1", "862.c2", "865.c2", "866.c2", "867.c2", "868.c2", "869.c2", "870.c1", "872.c1", "875.c1"]
+    },
+    {
+      "fact": "In November 1892 Tom Allen's 619 Market Street saloon was called the Champions' Retreat, where Mark Tuohy was engaged as a song-and-dance performer and sparrer.",
+      "date": "1892-11",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["878.c1"]
+    },
+    {
+      "fact": "Dutch Niel said Charley Daly could see him at Tom Allen's place to talk business.",
+      "date": "1892-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["149.c2"]
+    },
+    {
+      "fact": "On November 25, 1892, William Reed, who had accepted Mark Tuohy's challenge at the Champions' Retreat, broke a window and cut Tuohy's head with a piece of the glass.",
+      "date": "1892-11-25",
+      "seed": "",
+      "conflict": "",
+      "claims": ["878.c2"]
+    },
+    {
+      "fact": "In December 1892 Tom Allen's place at 619 Market Street was advertised with a free concert every evening, with only the best singers engaged.",
+      "date": "1892-12",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["879.c1", "879.c2", "880.c1", "880.c2", "881.c1", "881.c2", "883.c1", "883.c2", "884.c1", "884.c2", "885.c1", "885.c2"]
+    },
+    {
+      "fact": "A sketch in Annie Bronson King's book The Children of the Slums opens at a place called 'Tom Allen's' on a Saturday night.",
+      "date": "1893",
+      "seed": "020",
+      "conflict": "the reviewer says the place described is not Tom Allen's (151.c1, medium)",
+      "claims": ["151.c1"]
+    },
+    {
+      "fact": "From January to July 1893 Tom Allen advertised free concerts every evening at 619 Market Street, St. Louis, with first-class singers engaged.",
+      "date": "1893-01-28",
+      "seed": "011",
+      "conflict": "address: 618 Market Street (887.c1, garbled, low) vs 619 Market Street (886.c1, 891.c1, 892.c1)",
+      "claims": ["886.c1", "887.c1", "891.c1", "892.c1"]
+    },
+    {
+      "fact": "In early 1894 Tom Allen had a saloon on Market Street in St. Louis, the profits of which let him live comfortably.",
+      "date": "1894-02-01",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["162.c3", "163.c2"]
+    },
+    {
+      "fact": "In December 1894 prize fighter Jerry Slattery hung out around Tom Allen's saloon.",
+      "date": "1894-12",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["903.c1"]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "750",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Rusty Evans compared his age with Tom Allen's, but the passage is garbled and only fragments can be read.",
+      "excerpt": "RusTy EVANS, the Hast St. Lowis fighter, 1 ying to fea go ‘with « East. Sider sty 16 Tor Allen’s age, but nks he",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Rusty Evans"],
+      "places": ["East St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Tom Allen appears only in one garbled sentence; the sense of the comparison is unclear. Title says Evans 'compares himself to Tom Allen'."
+}

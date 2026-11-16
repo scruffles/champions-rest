@@ -1,0 +1,45 @@
+{
+  "id": "617",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Joe Goss stood up a little while against Tom Allen in Kentucky, which was his last appearance in the ring.",
+      "excerpt": "stood upa little while against ‘‘'Tom’’ Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "After the fight with Tom Allen, Joe Goss was arrested and sentenced to pay a $250 fine; unable to pay, he was imprisoned for 250 days.",
+      "excerpt": "After the fight he was arrested, and sentenced to pay a fine of $250.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss", "Tom Allen"],
+      "places": ["Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Kentucky",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "stood upa little while against ‘‘'Tom’’ Allen",
+      "reported_as": "report",
+      "notes": "This item does not say who won. Item 616 says Goss won on a foul."
+    }
+  ],
+  "notes": "Allen appears only as Goss's opponent in the Kentucky fight."
+}

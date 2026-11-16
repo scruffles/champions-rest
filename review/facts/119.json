@@ -1,0 +1,19 @@
+{
+  "id": "119",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen went to Chicago with Tom Kelly to watch the Jack Burke v. Charley Mitchell fight.",
+      "excerpt": "whither he had gone in company with ‘om Allen to witness the MbBurke-Mitchell",
+      "date": "1886-05",
+      "date_precision": "month",
+      "people": ["Tom Kelly", "Jack Burke", "Charley Mitchell"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen only went to watch; the excerpt joins a line break. The Dempsey v. Mitchell match is not Allen's."
+}

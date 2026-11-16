@@ -1,0 +1,25 @@
+{
+  "id": "383",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen hosted a presentation of colors at his saloon to George Seddons of Boston.",
+      "excerpt": "presentation of colors last night at Tom. Al-",
+      "date": "1870-01-19",
+      "date_precision": "day",
+      "people": ["George Seddons"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "All we want is to give men fair play and no partiality",
+      "topic": "fair play for fighters"
+    }
+  ],
+  "fights": [],
+  "notes": "The saloon's address is not given. Hint claims about Rafferty, a 24-foot ring on 25 Jan, trainer Carey and backer Rooch are not legible in the text and were dropped."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "690",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was announced to appear at a grand athletic tournament at the old Turner hall in Belleville.",
+      "excerpt": "Tom Ailen, the\nex-champivn of the world;",
+      "date": "1883-03-02",
+      "date_precision": "day",
+      "people": ["John Brooks", "Tom Kelly"],
+      "places": ["Turner hall, Belleville"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "The paper described Tom Allen as ex-champion of the world.",
+      "excerpt": "Tom Ailen, the\nex-champivn of the world;",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Announcement only, from a claim that it will be attended; Allen's appearance is not confirmed. Tournament date worked out from 'next Friday' in a paper dated Sunday 1883-02-25."
+}

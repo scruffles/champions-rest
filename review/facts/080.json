@@ -1,0 +1,41 @@
+{
+  "id": "080",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss said Tom Allen had authorized William Allen of Cincinnati to make a match.",
+      "excerpt": "William Allen of Cincinnati to iInake a match",
+      "date": "1876-05",
+      "date_precision": "month",
+      "people": ["William Allen", "Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen put up a forfeit (printed as 3500, probably $500), which John Brown of Cincinnati, an admirer of Goss, covered.",
+      "excerpt": "Allen met John Brown of the same city, anardent admirer of Goss, and put up a forfeit",
+      "date": "1876-05",
+      "date_precision": "month",
+      "people": ["John Brown", "Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Eph. Holland of Cincinnati was chosen stakeholder for the forfeit money.",
+      "excerpt": "of Cincinnati, being chosen stakeholder.",
+      "date": "1876-05",
+      "date_precision": "month",
+      "people": ["Eph. Holland"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Account is Joe Goss's statement to a reporter, reprinted from the New York Sun; the 'Allen' who put up the forfeit is not qualified in the text."
+}

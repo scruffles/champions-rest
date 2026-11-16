@@ -1,0 +1,161 @@
+{
+  "id": "647",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen came to St. Louis in about 1869 as a stranger, an Englishman sent to Billy Carroll as a man willing to fight anyone at any time.",
+      "excerpt": "Stranger, an Englishman who hed been sent here to Bilty Carroll as-one willing to Geht any",
+      "date": "1869",
+      "date_precision": "approx",
+      "people": ["Billy Carroll"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole on Foster's Island on June 15, 1869 for $1,000 a side; after nine rounds Jack Smith hit Allen in the eye with a stake and McCoole's backers cut the ropes and broke into the ring.",
+      "excerpt": "Jsaek Smith, who stood near the ropes, pulled upa stuke and hit Allen in the eye with it",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole", "Jack Smith"],
+      "places": ["Foster's Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Referee Val McKinney decided the Allen and McCoole fight in McCoole's favour.",
+      "excerpt": "He decided thin in favor of McCovle",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Val McKinney", "Mike McCoole"],
+      "places": ["Foster's Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Charley Gallagher fought fifty miles from St. Louis on August 17, 1869 for $1,000 a side, and the referee declared the fight a draw.",
+      "excerpt": "tought fifty miles from St. Louis, Avgust 17, 1869, was another barney",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher", "Larry Wessel"],
+      "places": ["fifty miles from St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher struck Tom Allen as Allen came forward to shake hands, and Allen jumped the ropes and fled the ring.",
+      "excerpt": "lugher smashed utbim, and Alien, thinking that. a general atteck was tobe made upou him, fatuped the ropes",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mace, the English champion, near New Orleans in 1870 for $2,500 a side and lost; Mace was given the fight.",
+      "excerpt": "He played it good, and) Mace wus given the fight.",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Mace", "Billy Carroll"],
+      "places": ["near New Orleans"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was seen drunk a few days before the Mace fight and entered the ring heavier than his usual 175 pounds (figure garbled).",
+      "excerpt": "leit - for the ase point when he was seen drunk",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen trained for the Mace fight at the Wash Home (town name unreadable).",
+      "excerpt": "(this Sree trained at the Wash Home in Ki-",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Mace"],
+      "places": ["Wash Home"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen got half the excursion money from the Mace fight and had to split it with his backers Billy Carroll and John Franklin.",
+      "excerpt": "which he had to divide with bis back;ners, Billy Carroll and John Franklin",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Billy Carroll", "John Franklin"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "That night Tom Allen played the piano with both hands, which he could not have done with a broken arm.",
+      "excerpt": "Alien played the piano that night with his two",
+      "date": "1870",
+      "date_precision": "year",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "Foster's Island",
+      "result": "loss",
+      "rounds": "9",
+      "duration": "",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "Jsaek Smith, who stood near the ropes, pulled upa stuke and hit Allen in the eye with it",
+      "reported_as": "recollection",
+      "notes": "The paper says referee Val McKinney was paid $700 by McCoole's backers (Jack Looney and Tom Kehoe) to decide for McCoole; the payment is not Allen's act and is not recorded as a claim."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "fifty miles from St. Louis (exact place not given)",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "tought fifty miles from St. Louis, Avgust 17, 1869, was another barney",
+      "reported_as": "recollection",
+      "notes": "Disagrees with the 1882 article printed on 2 January (643), which says Allen won in eleven rounds. Referee Larry Wessel."
+    },
+    {
+      "opponent": "Mace",
+      "date": "1870",
+      "date_precision": "year",
+      "place": "near New Orleans",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,500 a side",
+      "rules": "",
+      "excerpt": "He played it good, and) Mace wus given the fight.",
+      "reported_as": "recollection",
+      "notes": "Allen claimed his arm was broken after being thrown; the paper says Carroll knew it was not broken. Mace's first name is not given."
+    }
+  ],
+  "notes": "The McCoole referee bribery and the Coburn-Mace matches are not about Allen and are left out."
+}

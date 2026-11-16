@@ -1,0 +1,19 @@
+{
+  "id": "651",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Billy Carroll was the banker of various sporting enterprises, notably the prize fights in which Tom Allen appeared.",
+      "excerpt": "notably the prize fights in which the English champion, Tom Allen, nppeared.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Billy Carroll", "Tom Allen"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Article is about Billy Carroll's shooting of Nat F. Kelly. Allen appears only as a fighter whose bouts Carroll backed; no other facts about Allen."
+}

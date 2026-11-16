@@ -1,0 +1,30 @@
+{
+  "id": "792",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was billed as retired champion pugilist of the world.",
+      "excerpt": "ToM ALLEN, retired champion pugilist of\nthe world, 619 Markee street.",
+      "date": "1890-09-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place at 619 Market Street (printed as 'Markee street') offered a free concert every evening, with the best singers engaged.",
+      "excerpt": "619 Markee street. Free concert\nevery evening. The best of singers only en-\ngaged.",
+      "date": "1890-09-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement in Sporting Notes, beside racing news; the street name is printed as 'Markee'."
+}

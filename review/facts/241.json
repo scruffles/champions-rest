@@ -1,0 +1,76 @@
+{
+  "id": "241",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was holder of the American championship when Jem Mace was matched with him, in 1869.",
+      "excerpt": "was matched with Tom Allen, holder of the American championship",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Jem Mace beat Tom Allen by knockout in ten rounds at Kennerville, Louisiana, on May 10, 1870, for the world heavyweight championship.",
+      "excerpt": "They met at Kennerville, May 10, 1870, world’s heavyweight championship.",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Kennerville, Louisiana"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Joe Goss beat Tom Allen on a foul in 1876, when only Allen's American title was at stake.",
+      "excerpt": "when Allen and Goss battled in 1876 the former had but one title, that of America, to risk.",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Charles F. Mathison",
+      "text": "Mace won by knockout in ten. rounds, so that when Allen and Goss battled in 1876 the former had but one title, that of America, to risk.",
+      "topic": "Allen's title at the time of his 1876 fight with Goss"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "place": "Kennerville, Louisiana",
+      "result": "loss",
+      "rounds": "10",
+      "duration": "",
+      "stakes": "world heavyweight championship",
+      "rules": "",
+      "excerpt": "They met at Kennerville, May 10, 1870, world’s heavyweight championship.",
+      "reported_as": "report",
+      "notes": "Described in Charles F. Mathison's 1928 letter. Mace won by knockout."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1876",
+      "date_precision": "year",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "American championship",
+      "rules": "",
+      "excerpt": "when Allen and Goss battled in 1876 the former had but one title, that of America, to risk.",
+      "reported_as": "recollection",
+      "notes": "Lost on a foul, per Mathison's letter. No place or day given."
+    }
+  ],
+  "notes": "A 1928 Runyon column about the world heavyweight title. Tom Allen appears only in Mathison's letter; other items (Heeney, Tunney, baseball) are not recorded."
+}

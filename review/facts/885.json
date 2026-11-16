@@ -1,0 +1,52 @@
+{
+  "id": "885",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place was at 619 Market street.",
+      "excerpt": "Tom ALLEN, retired champion pugiHst of the world, 619 Market street.",
+      "date": "1892-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised a free concert every evening at his place, with only the best singers engaged.",
+      "excerpt": "Free concert every evening, Best of singers only engaged here.",
+      "date": "1892-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen advertised himself as the retired champion pugilist of the world.",
+      "excerpt": "Tom ALLEN, retired champion pugiHst of the world",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Ed Smith (printed as 'EP SmiTH'), the Denver heavyweight, and his brother Paddy spent a few days with Tom Allen last week.",
+      "excerpt": "the Denver heavyweight, and his brother Paddy. epent a few days with their old friend, Tom Allen, last week.",
+      "date": "1892-12",
+      "date_precision": "approx",
+      "people": ["Ed Smith", "Paddy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The Denver visitor's first name is garbled in the OCR (EP SmiTH); 'Ed' comes from the earlier hint and is not confirmed by the text. 'Last week' is the week before 1893-01-01."
+}

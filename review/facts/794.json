@@ -1,0 +1,30 @@
+{
+  "id": "794",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was billed as retired champion pugilist of the world (the text is garbled; printed as 'retirea' and 'woria').",
+      "excerpt": "Tom ALLEN, retirea champion pugilist of\nthe woria, 519 Market street.",
+      "date": "1890-10-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place on Market street (number printed as 519, not 619 as in other ads) offered a free concert every evening, with only the best singers engaged.",
+      "excerpt": "the woria, 519 Market street. Free concert\nevery evening. The best of singers ouly\nengaged.",
+      "date": "1890-10-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement in Sporting Notes; the house number 519 is probably an OCR error for 619."
+}

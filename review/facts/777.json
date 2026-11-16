@@ -1,0 +1,52 @@
+{
+  "id": "777",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen, Tom Kelly and Dan Daly became bondsmen for all the defendants in the Lincoln County prize fight case at Troy.",
+      "excerpt": "appéarance, Tom Allen,/Tom kelly ander\nPaly becoming bondsnien fot all.",
+      "date": "1889-09",
+      "date_precision": "month",
+      "people": ["Tom Kelly", "Dan Daly", "Ed Kelly", "Artie Flint"],
+      "places": ["Troy, Lincoln County, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Each defendant in the Lincoln County prize fight case was held in a $500 bond for his appearance.",
+      "excerpt": "recognized in a bond of $500 pach for their",
+      "date": "1889-09",
+      "date_precision": "month",
+      "people": ["Tom Kelly", "Dan Daly", "Ed Kelly", "Artie Flint"],
+      "places": ["Troy, Lincoln County, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "N. C. Dryden of Troy and Mr. Boe of St. Louis were the lawyers for the defendants, as printed in the text.",
+      "excerpt": "Dryden, of this city, and Mr. Boo, of St, Louls.",
+      "date": "1889-09",
+      "date_precision": "month",
+      "people": ["N. C. Dryden", "Boe"],
+      "places": ["Troy, Lincoln County, Missouri", "St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen and the other defendants took the 4 o'clock train home from Troy the same day.",
+      "excerpt": "They took the 4 o’ciock train for hpme.",
+      "date": "1889-09",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Troy, Lincoln County, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The headline says Allen was arraigned at Troy, but the body does not name Judge Hughes or any continuance; those hints are dropped. The text does not give the day of the hearing, so only the month is written. The lawyers' sentence is garbled ('dh pit sgt by'), so it is low confidence."
+}

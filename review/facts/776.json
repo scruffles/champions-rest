@@ -1,0 +1,52 @@
+{
+  "id": "776",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen, Dan Daly, Artie Flint, Tom Kelly and Ed Kelly boarded a Wabash train at the Union Depot in St. Louis for Troy, Lincoln County, Mo., to stand trial.",
+      "excerpt": "Pugilists Dan Daly, Artie Flint, Tom Allen,\nTom Kelly and Ed Kelly boarded a Wabash\ntrain at the Union Depot this morning bound",
+      "date": "1889-09-16",
+      "date_precision": "day",
+      "people": ["Dan Daly", "Artie Flint", "Tom Kelly", "Ed Kelly"],
+      "places": ["Union Depot, St. Louis, Missouri", "Troy, Lincoln County, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and the others were arrested in St. Louis about a week earlier by Detectives Burke and Fitzgerald, at the request of Lincoln County authorities.",
+      "excerpt": "Detectives Burke and Fitzgeraid at the instigation of",
+      "date": "1889-09-09",
+      "date_precision": "approx",
+      "people": ["Detective Burke", "Detective Fitzgerald", "Dan Daly", "Artie Flint", "Tom Kelly", "Ed Kelly"],
+      "places": ["St. Louis, Missouri", "Lincoln County, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The case against Tom Allen and the others was expected to go to trial in Lincoln County on the afternoon of September 16, 1889.",
+      "excerpt": "The case will probably go to trial this",
+      "date": "1889-09-16",
+      "date_precision": "day",
+      "people": ["Dan Daly", "Artie Flint", "Tom Kelly", "Ed Kelly"],
+      "places": ["Lincoln County, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen went to Lincoln County about 1887 with Dan Daly and Ed Kelly for a fight in which Daly defeated Kelly and won the middleweight championship of Missouri.",
+      "excerpt": "the party went to Lincoln County for a fight.",
+      "date": "1887",
+      "date_precision": "approx",
+      "people": ["Dan Daly", "Ed Kelly"],
+      "places": ["Lincoln County, Missouri"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The arrest date is 'about a week ago' from the article date, so it is approximate. Allen's role in the 1887 fight is not stated here beyond being in the party; the 'other' kind follows the 775 article's seconds and trainers. Fitzgeraid is printed in the OCR for Fitzgerald."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "693",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was advertised, as the retired champion of the world, to appear at a boxing entertainment at Flannigan's Hall, East St. Louis, on March 29, 1883, which was not held.",
+      "excerpt": "two veterans Tom Allen, the retired cham-\npion of the world, and Tom Kelly",
+      "date": "1883-03-29",
+      "date_precision": "day",
+      "people": ["Tom Kelly", "Sullivan", "Ryan", "Fred Zachritz", "Morris O'Connell"],
+      "places": ["Flannigan's Hall, East St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as the retired champion of the world.",
+      "excerpt": "two veterans Tom Allen, the retired cham-\npion of the world",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only in the printed poster. The article does not say he was in East St. Louis or that he refused; the cancellation is attributed to Tom Kelly. The Illinois law and the mayor's proclamation are not about Allen."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "433",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen denied the dispatch that he had challenged Joe Coburn and Ned O'Baldwin, and said he had given no such challenge and had no intention of doing so.",
+      "excerpt": "I have given no such challenge,\nend at the present writing have. no intention of doing",
+      "date": "1871-05-16",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Ned O'Baldwin"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I have given no such challenge,\nend at the present writing have. no intention of doing",
+      "topic": "denies challenge to Coburn and O'Baldwin"
+    }
+  ],
+  "fights": [],
+  "notes": "Signed disclaimer by Allen. Printed text is OCR-damaged ('end' is probably 'and')."
+}

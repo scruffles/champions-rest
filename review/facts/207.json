@@ -1,0 +1,85 @@
+{
+  "id": "207",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Public Administrator Garrard Strode took charge of the estate of Thomas Allen, the late saloonkeeper and former prize fighter.",
+      "excerpt": "took charge of the estate of Thomas Allen, the late sdloonkeeper and former prize fighter.",
+      "date": "1903-04-08",
+      "date_precision": "day",
+      "people": ["Garrard Strode"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Attorney Simon S. Bass, named as executor in Allen's will, refused to act.",
+      "excerpt": "Attorney Simon 8. Bars. who was named in Allen's will as exccutor, refused to act.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Simon S. Bass"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen's funeral took place at 2 p.m. on April 8, 1903, from the Farley & Wand undertaking establishment at 211 South Sixth Street.",
+      "excerpt": "From the undertaking establishment of Farley & Wand, No. 211 South Sixth street, yesterday afternoon at 2 o'clock the funeral",
+      "date": "1903-04-08",
+      "date_precision": "day",
+      "people": [],
+      "places": ["211 South Sixth Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Former prize fighters, including Chris Lauff, J Fletcher, Tom Kelly, Andy Kirk, Tom O'Donnell and Gus Ellis, were pallbearers at Allen's funeral.",
+      "excerpt": "They were: Chris Lauff, J Fietcher, », rom Kelly, Andy Kirk, The Tom O'Donnell and Gus Bilis.",
+      "date": "1903-04-08",
+      "date_precision": "day",
+      "people": ["Chris Lauff", "J Fletcher", "Tom Kelly", "Andy Kirk", "Tom O'Donnell", "Gus Ellis"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "family",
+      "statement": "Allen's daughter Polly Taylor stood by the coffin at the funeral with her four children.",
+      "excerpt": "Polly Taylor, da ter of the dead fighter, with her.four children",
+      "date": "1903-04-08",
+      "date_precision": "day",
+      "people": ["Polly Taylor"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Mrs. Tillie Hartgrove (printed 'Hart', cut off) stood on the other side of the coffin at the funeral.",
+      "excerpt": "with her.four children: stors side stood Mrs. Tillie Hart",
+      "date": "1903-04-08",
+      "date_precision": "day",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "Allen's bar was in the custody of an agent acting for his daughter.",
+      "excerpt": "custody of an agent acting for the dead prize ifighter's daughter.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "OCR reads 'Simon 8. Bars.' (hint says Bass). Pallbearer names garbled; the hint's Charley Daly and Theodore Neusel are not legible here. Funeral details match the hints."
+}

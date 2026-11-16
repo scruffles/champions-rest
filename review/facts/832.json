@@ -1,0 +1,30 @@
+{
+  "id": "832",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised free concerts every evening at his place at 619 Market street, St. Louis.",
+      "excerpt": "world, 619 Market street. ; Free concert every",
+      "date": "1892-01-24",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as the retired champion pugilist of the world.",
+      "excerpt": "Tom ALLEN, retired champion pugilist of the\nworld, 619 Market street.",
+      "date": "1892-01-24",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only; the burglary item (F. A. Heinrickson's store) does not involve Allen."
+}

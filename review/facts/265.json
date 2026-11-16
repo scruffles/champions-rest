@@ -1,0 +1,19 @@
+{
+  "id": "265",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon had stained glass doors and a steady throng of men coming and going on Saturday nights.",
+      "excerpt": "The stained glass doors are continually swinging to and fro; a ceaseless throng of young men and old men passing in and out.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Scene from Annie Bronson King's 1892 book sketch 'A Little Salvationist', set at 'Tom Allen's'. The scene is undated and the text is a sketch, so treat it as a saloon mention, not a record of a specific event."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "081",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he had been chosen referee for the wrestling match between Thiebaud Bauer and Julius Schroeder at the Temple.",
+      "excerpt": "Tom Allenthen stated that he had been chosen referee, and would fill the position to the best of his ability",
+      "date": "1876-05-06",
+      "date_precision": "day",
+      "people": ["Thiebaud Bauer", "Julius Schroeder"],
+      "places": ["the Temple"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen came on stage with the lightweight champions Arthur Chambers and Billy Edwards and introduced them to the audience.",
+      "excerpt": "accompanied by Arthur Chambers and Billy Edwards, the light-weight champions, whom he introduced",
+      "date": "1876-05-06",
+      "date_precision": "day",
+      "people": ["Arthur Chambers", "Billy Edwards"],
+      "places": ["the Temple"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen only refereed and introduced the lightweight champions; no bout of his own is described."
+}

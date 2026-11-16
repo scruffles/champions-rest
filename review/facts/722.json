@@ -1,0 +1,19 @@
+{
+  "id": "722",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Tom Kelly were advertised to spar at the Fourth of July athletic tournament at Cass and Jefferson Avenues, St. Louis.",
+      "excerpt": "Tom Allen and TomKelly| — ..ercivenin st. touis.",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Cass and Jefferson Avenues, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement. Allen billed as an ex-champion pugilist to spar at the tournament; OCR garbled around his name."
+}

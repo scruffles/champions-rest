@@ -1,0 +1,34 @@
+{
+  "id": "642",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Dublin Tricks was in St. Louis for a prize fight with Tom Allen, at a time the text does not date (OCR garbled around 'in training').",
+      "excerpt": "lin Tricks’’ was then in the city, t gifora prize fight with Tom Allen.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Dublin Tricks"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Dublin Tricks",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "lin Tricks’’ was then in the city, t gifora prize fight with Tom Allen.",
+      "reported_as": "report",
+      "notes": "Only a planned prize fight with Allen is mentioned; the outcome is not given. The sentence is garbled in OCR. The hint's 1871 date is not in the text."
+    }
+  ],
+  "notes": "Allen appears only as the intended opponent of Dublin Tricks, in a story about the killing of John Matthaei; the Ryan incident is not about Allen."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "928",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Fred Watkins backed Tom Allen in many of Allen's big fights.",
+      "excerpt": "backed ‘Tom Allen in many of his big fights and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Fred Watkins"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Obituary of Watkins; only the backing of Allen is recorded. Hint's 'Watkins & Lieber' and death details are not about Allen."
+}

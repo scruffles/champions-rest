@@ -1,0 +1,30 @@
+{
+  "id": "709",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was billed to spar the wind-up with Tom Kelly at the Union Base Ball Grounds tournament on July 4 for the Union Club Cup.",
+      "excerpt": "Wind-up between Tom Allien. ex-cham-\npion of the word, and ‘Tom Kelly",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Union Base Ball Grounds, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Entries for the tournament could be made at Tom Allen's, among other places, after noon on June 25, 1884.",
+      "excerpt": "Entries can be made after noon te-dar, at Tom Al-\nlen’s, Ton Keily’s",
+      "date": "1884-06-25",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Sparring exhibition only, not a fight. Allen's entry point is not stated to be his saloon."
+}

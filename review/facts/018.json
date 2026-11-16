@@ -1,0 +1,45 @@
+{
+  "id": "018",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen came into the city on the evening of August 13, 1869, from his training quarters.",
+      "excerpt": "Tom Allen visited the city last evening, coming in",
+      "date": "1869-08-13",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was training for his fight with Charley Gallagher, set for Tuesday, August 17, 1869, and was said to be in excellent condition and confident of victory.",
+      "excerpt": "coming mill’ between himself and Gallagher on\nTuesday next, which it is hardly necessary to state,",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "coming mill’ between himself and Gallagher on\nTuesday next, which it is hardly necessary to state,",
+      "reported_as": "report",
+      "notes": "Fight not yet held in this article; Tuesday next from a paper dated Saturday, August 14."
+    }
+  ],
+  "notes": "Hint on training location (outside St. Louis) is not stated in the text; only 'training quarters'."
+}

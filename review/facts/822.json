@@ -1,0 +1,30 @@
+{
+  "id": "822",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place at 619 Market Street advertised a free concert in the evening (printed as 'bikie te evening'), with only the best singers engaged.",
+      "excerpt": "the-world, 619 Market street. Free concert bikie te evening; best of singers only engaged",
+      "date": "1891-08-22",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as retired champion pugilist of the world.",
+      "excerpt": "Tom ALLEN, retired champion pugilist of the-world, 619 Market street",
+      "date": "1891-08-22",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. The hint said 'every evening'; the text reads 'bikie te evening' (OCR), so 'every' is not confirmed."
+}

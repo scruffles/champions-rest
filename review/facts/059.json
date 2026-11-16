@@ -1,0 +1,114 @@
+{
+  "id": "059",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "After the failed Rooke match, Tom Allen issued a challenge to fight any man in the country for $2,500 to $5,000 a side and the championship of the world.",
+      "excerpt": "a ehallenge to fight any man in this country",
+      "date": "1875",
+      "date_precision": "approx",
+      "people": ["George Rook"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Jem Mace, in a letter dated London, October 27, challenged Allen to fight within fifty miles of Detroit or Pittsburgh for £200 or £1,000 a side (printed as '£1,009'), and asked Allen to deposit $250 with Frank Queen.",
+      "excerpt": "within fifty miles of Detroit, Mich., or within fifty",
+      "date": "1875-10-27",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Frank Queen"],
+      "places": ["Detroit, Michigan", "Pittsburgh"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Jem Mace said he beat Tom Allen at Kennerville, Louisiana, in May 1870, in ten rounds and forty-four minutes, for $2,500 a side and the title.",
+      "excerpt": "of St. Louis, whom T beat at Neenerville,",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["Jem Mace"],
+      "places": ["Kennerville, Louisiana"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "A report said Tom Allen and Jem Mace signed articles for a $5,000-a-side fight at Chicago, with Harry Hill representing Mace.",
+      "excerpt": "were drawn up, signed, and placed in Mike",
+      "date": "1875-11-18",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Harry Hill", "Barney Aaron"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen telegraphed Mace that he was ready to meet him on Mace's terms, $5,000 a side, and would cover any amount Mace put up.",
+      "excerpt": "promptly replied that he was ready for Mace",
+      "date": "1875-11",
+      "date_precision": "month",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said there was no truth in the report that he had put up a forfeit for a fight with Jem Mace.",
+      "excerpt": "There is, as he says, no truth in",
+      "date": "1875-11-20",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was living a quiet life on Washington avenue in the autumn of 1875.",
+      "excerpt": "of life on Washington avenue, issued",
+      "date": "1875-11",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Washington avenue"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870-05",
+      "date_precision": "month",
+      "place": "Kennerville, Louisiana",
+      "result": "loss",
+      "rounds": "10",
+      "duration": "44 minutes",
+      "stakes": "$2,500 a side and the title",
+      "rules": "",
+      "excerpt": "of St. Louis, whom T beat at Neenerville,",
+      "reported_as": "recollection",
+      "notes": "Mace's claim, written in 1875; printed as 'Neenerville'. Mace also says he beat Allen for the title."
+    },
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Chicago",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$5,000 a side",
+      "rules": "",
+      "excerpt": "were drawn up, signed, and placed in Mike",
+      "reported_as": "report",
+      "notes": "Reported as signed articles; Allen denied any forfeit and the match was not made. Not confirmed."
+    }
+  ],
+  "notes": "Mace's letter is printed in full; the Chicago signing is second-hand. Mace's claim of a 1870 win is his own. Allen's amount deposited with Hill is printed as '325)' and not used."
+}

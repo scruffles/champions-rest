@@ -1,0 +1,142 @@
+{
+  "id": "487",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was staying and training at the Eight-Mile House, taking things easily before the Hogan fight.",
+      "excerpt": "Allen is taking things easily at the Eignt- Mik",
+      "date": "1873-10-24",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Eight-Mile House"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen signed a letter dated October 23, 1873 from the Mount Olive House, St. Louis County (printed as 'Moun? OLIvE Howse').",
+      "excerpt": "Moun? OLIvE Howse",
+      "date": "1873-10-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Mount Olive House, St. Louis County"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he had challenged Joe Coburn again and again and never received a reply.",
+      "excerpt": "St.Louis know that I haye challenged Coburrz",
+      "date": "1873-10-23",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered $500 that he could whip any man in the world, as well as Joe Coburn.",
+      "excerpt": "are $500 at my house that say thatIean whip any",
+      "date": "1873-10-23",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A New York dispatch said Joe Coburn would decline all challenges, having resolved after his match with Mace not to enter the ring again.",
+      "excerpt": "will decline all chaliennet |to fight. He’ deter-",
+      "date": "1873-10-18",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A New York dispatch reported that Joe Coburn said he would fight Tom Allen within four months.",
+      "excerpt": "Joe Coburn says that he will fight Tom Alten",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Coburn"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Ben Hogan were to fight on October 28, 1873.",
+      "excerpt": "Will be put on before the 28th. His colors will bi",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole lost to Tom Allen in an earlier fight and maintains he was whipped on the square.",
+      "excerpt": "e was whipped on the square. He does not at-",
+      "date": "1873",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Arthur Chambers would again act as one of Tom Allen's seconds for the Hogan fight.",
+      "excerpt": "will again act as one of Tom's seconds; but,",
+      "date": "1873-10",
+      "date_precision": "month",
+      "people": ["Arthur Chambers"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "St.Louis know that I haye challenged Coburrz again and again, and never gotany reply.",
+      "topic": "challenges to Joe Coburn"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Will be put on before the 28th. His colors will bi",
+      "reported_as": "report",
+      "notes": "Scheduled match; result not yet known."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "approx",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "e was whipped on the square. He does not at-",
+      "reported_as": "report",
+      "notes": "Earlier fight; no date given."
+    }
+  ],
+  "notes": "Letter is headed Mount Olive House, while the same article puts Allen training at the Eight-Mile House."
+}

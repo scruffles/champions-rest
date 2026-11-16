@@ -1,0 +1,59 @@
+{
+  "id": "486",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was to meet Ben Hogan in the roped arena one week after the article, on October 28, 1873.",
+      "excerpt": "is to meet Tom Allen in the roped arena",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in a recent fight, leaving McCoole with a terrible beating.",
+      "excerpt": "and the only evidence of his terrible beating",
+      "date": "1873",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "is to meet Tom Allen in the roped arena",
+      "reported_as": "report",
+      "notes": "Scheduled one week after the article; result not yet known."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "approx",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "and the only evidence of his terrible beating",
+      "reported_as": "report",
+      "notes": "No date given; described as a 'late encounter'."
+    }
+  ],
+  "notes": "Article is about Ben Hogan's training; Allen appears as the opponent and as the man who beat McCoole."
+}

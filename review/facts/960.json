@@ -1,0 +1,19 @@
+{
+  "id": "960",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was one of the well-known fighters who boxed at Mozart Hall, Broadway and Biddle street, St. Louis, in the period from about 1868 to 1874.",
+      "excerpt": "Jem Mace, Tom Allen, Aaron Jones, Mike MeCoole, Dublin (Hastings) Tricks and Charley Gallaher.",
+      "date": "1868",
+      "date_precision": "approx",
+      "people": ["Ned O. Baldwin", "Joe Coburn", "Jem Mace", "Aaron Jones", "Mike McCoole", "Charley Gallaher"],
+      "places": ["Mozart Hall, Broadway and Biddle street, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Bouts at Mozart Hall are called sparring matches in the text, but were real contests; no individual bout is described. Hint kept as exhibition."
+}

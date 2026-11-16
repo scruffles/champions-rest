@@ -1,0 +1,45 @@
+{
+  "id": "388",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was booked to fight James Mace in May 1870.",
+      "excerpt": "booked for\na fight with Tom Allen in May next",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["James Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen's friends in St. Louis said he was the strongest and as active and scientific as Mace, and would bet their bottom dollar that he would beat him.",
+      "excerpt": "they will bet their bottom doliar that he will whip",
+      "date": "1870-03-23",
+      "date_precision": "day",
+      "people": ["James Mace"],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "James Mace",
+      "date": "1870-05",
+      "date_precision": "month",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "booked for\na fight with Tom Allen in May next",
+      "reported_as": "report",
+      "notes": "Booked, not fought at the time of writing. Printed as 'James Mace'; the same man as Jem Mace. Fight location not given."
+    }
+  ],
+  "notes": "The sparring exhibition with Heenan is not about Allen and is omitted. Jack Looney's offer is garbled and omitted. The hint about Mace training in Cincinnati is about Mace, not Allen, and is omitted."
+}

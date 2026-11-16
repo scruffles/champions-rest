@@ -1,0 +1,376 @@
+{
+ "bucket": "legal-1875-1883",
+ "kind": "legal",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "513.c2",
+   "date": "1875-01",
+   "published": "1875-02-02",
+   "conf": "low",
+   "statement": "Three men, about forty years old and recently from Baltimore, were arrested in a boarding-house near Tom Allen's saloon on suspicion of being parties to the watch swindle."
+  },
+  {
+   "cid": "512.c1",
+   "date": "1875-01-30",
+   "published": "1875-02-02",
+   "statement": "Judge Snyder of the St. Clair County Circuit Court at Belleville discharged Tom Allen, Jack Looney, Arthur Chambers, Dublin Tricks and Tom Kelley from their bond to answer a Madison County indictment."
+  },
+  {
+   "cid": "512.c4",
+   "date": "1875-01-30",
+   "published": "1875-02-02",
+   "statement": "Their attorney, Capt. R. H. Halbert, secured the release of the five men because of a flaw or informality in the indictment."
+  },
+  {
+   "cid": "513.c1",
+   "date": "1875-01-31",
+   "published": "1875-02-02",
+   "conf": "medium",
+   "statement": "On Sunday night a detective saw a man enter Tom Allen's saloon who seemed to answer the description of one of the men wanted in a watch swindle."
+  },
+  {
+   "cid": "521.c8",
+   "date": "1875-05-16",
+   "published": "1875-06-20",
+   "statement": "Harry Hill telegraphed Arthur Chambers on May 16, 1875 that a formal demand had been made for Rooke's $1,500 share and that Rooke's backer threatened to sue Hill."
+  },
+  {
+   "cid": "521.c7",
+   "date": "1875-06",
+   "published": "1875-06-20",
+   "statement": "One of Rooke's backers sued Harry Hill for Rooke's share of the stakes, and Chamberlin declined to have anything to do with the affair."
+  },
+  {
+   "cid": "521.c10",
+   "date": "1875-06",
+   "published": "1875-06-20",
+   "conf": "medium",
+   "statement": "A reply to Allen's telegram, apparently from Harry Hill, said the stakeholder would not pay Rooke's share to his backers unless compelled by law."
+  },
+  {
+   "cid": "531.c1",
+   "date": "1875-12-26",
+   "published": "1875-12-27",
+   "statement": "Jack Madden was arrested in Tom Allen's saloon on suspicion of having taken part in a robbery and was taken to the Third Precinct Station."
+  },
+  {
+   "cid": "531.c2",
+   "date": "1875-12-26",
+   "published": "1875-12-27",
+   "statement": "Jack Madden was searched at the Third Precinct Station and released at once, as nothing showed he was involved in the crime."
+  },
+  {
+   "cid": "110.c2",
+   "date": "1876",
+   "published": "1884-02-13",
+   "retro": true,
+   "conf": "medium",
+   "statement": "The whole party, including Allen, was arrested at the 1876 fight, and later the spectators were tried in the Covington courts."
+  },
+  {
+   "cid": "111.c2",
+   "date": "1876",
+   "published": "1884-02-21",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Allen was indicted in Kentucky in 1876 for prize fighting, an offence that was only a misdemeanor and not a felony (place printed as Chiuexy)."
+  },
+  {
+   "cid": "114.c7",
+   "date": "1876",
+   "published": "1885-03-28",
+   "retro": true,
+   "conf": "medium",
+   "statement": "The Kenton County grand jury indicted the principals of the Goss fight, including Allen."
+  },
+  {
+   "cid": "180.c25",
+   "date": "1876",
+   "published": "1899-02-27",
+   "retro": true,
+   "statement": "After the Goss fight, Tom Allen was arrested and jailed in Kentucky on a charge of prize fighting."
+  },
+  {
+   "cid": "180.c26",
+   "date": "1876",
+   "published": "1899-02-27",
+   "retro": true,
+   "statement": "Allen was released on bond, jumped it, and went to England."
+  },
+  {
+   "cid": "266.c21",
+   "date": "1876",
+   "published": "1894",
+   "retro": true,
+   "statement": "After the 1876 Goss fight Tom Allen was arrested and put under bonds."
+  },
+  {
+   "cid": "650.c7",
+   "date": "1876",
+   "published": "1882-02-09",
+   "retro": true,
+   "statement": "After the Goss fight, Tom Allen gave bonds."
+  },
+  {
+   "cid": "067.c3",
+   "date": "1876-04-11",
+   "published": "1876-04-12",
+   "conf": "low",
+   "statement": "Ed Donnelly took his claim against Allen to a justice (printed as 'Wultoi') and had Allen's trunks attached (amount garbled in the text)."
+  },
+  {
+   "cid": "067.c4",
+   "date": "1876-04-11",
+   "published": "1876-04-12",
+   "conf": "medium",
+   "statement": "Allen left word with a police officer to have Donnelly arrested for carrying off a coat that Allen said did not belong to him; Donnelly was taken to the Third District station, but nothing came of it."
+  },
+  {
+   "cid": "069.c4",
+   "date": "1876-04-11",
+   "published": "1876-04-13",
+   "conf": "medium",
+   "statement": "Ned Donnelly had Allen's trunks attached for $125, which Allen said was done so he could not fulfil his Chicago engagement."
+  },
+  {
+   "cid": "068.c2",
+   "date": "1876-04-12",
+   "published": "1876-04-12",
+   "conf": "medium",
+   "statement": "Ned Donnelly had a constable attach the outfit of Allen's saloon over a claim of $125 for five lessons (printed as $29 each)."
+  },
+  {
+   "cid": "562.c3",
+   "date": "1876-05",
+   "published": "1876-07-17",
+   "conf": "low",
+   "statement": "Allen and Joe Goss were bound over before 'Squire Anthony in $500 each (printed as $509) to keep the peace in Ohio for one year."
+  },
+  {
+   "cid": "075.c2",
+   "date": "1876-05-01",
+   "published": "1876-05-01",
+   "statement": "Ned Donelly sued Tom Allen before Justice Walther for $125, which he claimed was due for sparring exhibitions at the Comique."
+  },
+  {
+   "cid": "075.c3",
+   "date": "1876-05-02",
+   "published": "1876-05-01",
+   "statement": "The hearing of Ned Donelly's suit against Tom Allen was postponed until two o'clock the next afternoon."
+  },
+  {
+   "cid": "557.c4",
+   "date": "1876-05-12",
+   "published": "1876-05-14",
+   "statement": "Tom Allen and Joe Goss were bound over before 'Squire Anthony not to break the peace in Ohio for one year."
+  },
+  {
+   "cid": "565.c3",
+   "date": "1876-08",
+   "published": "1876-08-04",
+   "statement": "Thomas Hackett of St. Louis garnished Tom Allen's stake money, held by A. F. Edwards, over a debt Allen had contracted in St. Louis."
+  },
+  {
+   "cid": "566.c3",
+   "date": "1876-08",
+   "published": "1876-08-06",
+   "statement": "A St. Louis creditor garnished Allen's stake money, and the defense was that the money belonged to Ben De Bar of St. Louis, not Allen."
+  },
+  {
+   "cid": "571.c1",
+   "date": "1876-08",
+   "published": "1876-09-01",
+   "statement": "At the request of the Society for the Prevention of Cruelty to Animals, Prosecuting Attorney Baker made Joe Goss and Tom Allen give bonds to keep the peace in Ohio for one year."
+  },
+  {
+   "cid": "109.c4",
+   "date": "1876-09",
+   "published": "1884-02-11",
+   "retro": true,
+   "conf": "low",
+   "statement": "After the Goss fight Allen gave $3,000 bond to answer an indictment, with W. P. Farrell and P. C. Murphy as bondsmen."
+  },
+  {
+   "cid": "197.c10",
+   "date": "1876-09",
+   "published": "1903-03-27",
+   "retro": true,
+   "conf": "medium",
+   "statement": "After Allen's fight with Joe Goss in Kentucky, warrants were sworn out for both Goss and Allen for violating the state statute against prizefighting."
+  },
+  {
+   "cid": "210.c4",
+   "date": "1876-09",
+   "published": "1903-04-12",
+   "retro": true,
+   "statement": "Both Allen and Goss were arrested after the fight; Allen got out on bail and fled to England."
+  },
+  {
+   "cid": "213.c4",
+   "date": "1876-09",
+   "published": "1903-04-26",
+   "retro": true,
+   "statement": "Tom Allen and Joe Goss were arrested after the fight and released on bail."
+  },
+  {
+   "cid": "581.c6",
+   "date": "1876-09",
+   "published": "1876-09-20",
+   "statement": "Tom Allen said he attached the stakes from the Goss fight the night of the fight."
+  },
+  {
+   "cid": "581.c8",
+   "date": "1876-09",
+   "published": "1876-09-20",
+   "statement": "Tom Allen's attorneys for the suit were Root and Gov. Carlisle of Covington."
+  },
+  {
+   "cid": "704.c4",
+   "date": "1876-09",
+   "published": "1884-02-10",
+   "retro": true,
+   "statement": "Tom Allen and Joe Goss were both arrested after their fight near Covington, Kentucky, in September 1876; Goss was tried and fined $300."
+  },
+  {
+   "cid": "704.c5",
+   "date": "1876-09",
+   "published": "1884-02-10",
+   "retro": true,
+   "statement": "After the 1876 fight, Tom Allen gave a $3,000 bond with Patrick Murphy of Cincinnati and W. J. Farrell and Farrell's brother of Covington as sureties."
+  },
+  {
+   "cid": "084.c3",
+   "date": "1876-09-07",
+   "published": "1876-09-08",
+   "statement": "Tom Allen was arrested at Newport, Kentucky, when the trains coming from the fight were stopped by the authorities."
+  },
+  {
+   "cid": "086.c4",
+   "date": "1876-09-07",
+   "published": "1876-09-14",
+   "statement": "Tom Allen was arrested on arrival at Newport, Kentucky, on 1876-09-07 and held in the Newport jail."
+  },
+  {
+   "cid": "573.c6",
+   "date": "1876-09-07",
+   "published": "1876-09-07",
+   "statement": "Tom Allen was arrested at Newport when two trains from the fight were stopped by the authorities."
+  },
+  {
+   "cid": "650.c6",
+   "date": "1876-09-07",
+   "published": "1882-02-09",
+   "retro": true,
+   "statement": "Tom Allen and Joe Goss were arrested after their September 7, 1876 fight in Kentucky."
+  },
+  {
+   "cid": "085.c1",
+   "date": "1876-09-11",
+   "published": "1876-09-13",
+   "statement": "On a writ of habeas corpus, Judge Perkins of the Kenton Criminal Court reduced Tom Allen's bail from the Covington Mayor's figure to $3,000."
+  },
+  {
+   "cid": "085.c2",
+   "date": "1876-09-11",
+   "published": "1876-09-13",
+   "statement": "D.D. Farrell and Wilson J. Farrell were accepted as sureties, and Tom Allen was released from custody in Covington."
+  },
+  {
+   "cid": "581.c7",
+   "date": "1876-09-25",
+   "published": "1876-09-20",
+   "statement": "Tom Allen said he would sue in Ohio, not Kentucky, about 25 September 1876."
+  },
+  {
+   "cid": "587.c1",
+   "date": "1876-11",
+   "published": "1876-11-12",
+   "statement": "Tom Allen fled to Windsor, Ontario, to avoid prosecution."
+  },
+  {
+   "cid": "587.c3",
+   "date": "1876-11",
+   "published": "1876-11-12",
+   "statement": "Tom Allen was arrested in Chicago at the request of Kentucky officers and gave $1,000 bail to appear before Justice Scully, but failed to appear."
+  },
+  {
+   "cid": "587.c4",
+   "date": "1876-11",
+   "published": "1876-11-12",
+   "conf": "medium",
+   "statement": "Mike McDonald was Tom Allen's bondsman and claimed to know nothing of Allen's whereabouts."
+  },
+  {
+   "cid": "587.c5",
+   "date": "1876-11",
+   "published": "1876-11-12",
+   "statement": "When arrested, Tom Allen protested that he had no intention of avoiding his trial on the 20th of November, 1876."
+  },
+  {
+   "cid": "587.c6",
+   "date": "1876-11",
+   "published": "1876-11-12",
+   "statement": "Mike McDonald went to Tom Allen's house to levy on his effects but found only a well-worn Ulster, a pair of boots and some other valueless articles."
+  },
+  {
+   "cid": "590.c1",
+   "date": "1876-11",
+   "published": "1877-02-18",
+   "statement": "Tom Allen's bond was forfeited when he did not appear to answer a Kentucky prize-fighting charge, and his sureties petitioned the Governor of Kentucky for a reduction of the amount."
+  },
+  {
+   "cid": "089.c3",
+   "date": "1877-02",
+   "published": "1877-02-23",
+   "conf": "medium",
+   "statement": "The paper says Allen's offense in the Goss fight is not extraditable, so he is safe in Canada."
+  },
+  {
+   "cid": "089.c2",
+   "date": "1877-02-20",
+   "published": "1877-02-23",
+   "statement": "City Marshal Boland of Covington, Kentucky, who was pursuing those involved in the Goss-Allen fight, met Tom Allen in Toronto on 1877-02-20."
+  },
+  {
+   "cid": "594.c1",
+   "date": "1877-03",
+   "published": "1877-03-26",
+   "conf": "medium",
+   "statement": "The Farrell brothers, sureties on a $3,000 bail bond for Tom Allen's return to stand trial, had their property near Covington, Kentucky, levied on."
+  },
+  {
+   "cid": "596.c2",
+   "date": "1877-03",
+   "published": "1877-03-31",
+   "conf": "medium",
+   "statement": "Warrants were out for Tom Allen, and he stayed in Canada to avoid them."
+  },
+  {
+   "cid": "599.c8",
+   "date": "1877-10",
+   "published": "1877-10-07",
+   "conf": "medium",
+   "statement": "Tom Allen wanted to return to America, thinking his trouble in Kentucky might blow over now that Joe Goss had been freed."
+  },
+  {
+   "cid": "692.c2",
+   "date": "1883-03",
+   "published": "1883-03-30",
+   "conf": "medium",
+   "statement": "Mayor McLean of East St. Louis revived an old indictment against Tom Allen for inducing a ring encounter in East St. Louis some years earlier."
+  },
+  {
+   "cid": "107.c2",
+   "date": "1883-10-30",
+   "published": "1883-10-30",
+   "statement": "Tom Allen was tried in the St. Louis Police Court on a charge of keeping a disorderly house at his saloon, with Cornelius McBride as his attorney."
+  },
+  {
+   "cid": "107.c3",
+   "date": "1883-10-30",
+   "published": "1883-10-30",
+   "statement": "Judge Cady said it had not been clearly proved that the house was disorderly, and discharged Tom Allen."
+  }
+ ]
+}

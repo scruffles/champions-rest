@@ -1,0 +1,52 @@
+{
+  "id": "137",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was at 619 Market street, St. Louis, where James St. John fell asleep.",
+      "excerpt": "fell asleep in Tom Allen’s saloon, 619 Market street, yester-",
+      "date": "1890-01-20",
+      "date_precision": "day",
+      "people": ["James St. John"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "James St. John reported his watch and chain stolen and Tom Allen notified police, who took a description of two men.",
+      "excerpt": "He at once notified Allen of his loss and the",
+      "date": "1890-01-20",
+      "date_precision": "day",
+      "people": ["James St. John"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Thomas Barrett and George Ohls were arrested on a corner near Allen's saloon after the watch was stolen.",
+      "excerpt": "Barrettand Ohls were found on an adjacent corner and placed under arrest",
+      "date": "1890-01-20",
+      "date_precision": "day",
+      "people": ["Thomas Barrett", "George Ohls", "James St. John"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "A warrant charging Thomas Barrett with petit larceny was sworn out after St. John identified his watch.",
+      "excerpt": "a warrant charging Barrett with petit larceny was sworn out.",
+      "date": "1890-01-21",
+      "date_precision": "day",
+      "people": ["Thomas Barrett", "James St. John"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is only a witness and complainant here; the theft itself is not Allen's act. The arrest excerpt does not name Allen; the sentence before it names the men."
+}

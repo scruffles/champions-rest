@@ -1,0 +1,67 @@
+{
+  "id": "423",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Gallagher were to fight near St. Louis on Tuesday, November 1.",
+      "excerpt": "fight between Tom Allen and Gallagher will take place",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["Gallagher"],
+      "places": ["near St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The last instalment of battle money was put up at Allen's saloon, with Roach putting up $200 for Allen and Kelly $100 for Gallagher.",
+      "excerpt": "Allen's taloom, to witness the puttingup of the last",
+      "date": "1870-10-24",
+      "date_precision": "day",
+      "people": ["Roach", "Kelly"],
+      "places": ["Allen's saloon"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Allen stopped training and was rather full in flesh after hearing that Gallagher was sick.",
+      "excerpt": "Allen looks rather full in fleab, having ceased his train",
+      "date": "1870-10",
+      "date_precision": "month",
+      "people": ["Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Betting on the fight was two to one, with few willing to back Gallagher.",
+      "excerpt": "The bet befeg two to one, there are but fow who ac",
+      "date": "1870-10",
+      "date_precision": "month",
+      "people": ["Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Gallagher",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "place": "near St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "fight between Tom Allen and Gallagher will take place",
+      "reported_as": "report",
+      "notes": "Planned bout; no result given. Printed 'Allen's taloom' for saloon."
+    }
+  ],
+  "notes": "Gallagher's sickness report was later contradicted, per the article."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "004",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Bill Davis were to fight for the pugilistic championship on 12 January 1869; whoever failed to appear on the ground would lose the match.",
+      "excerpt": "Bill Davis, of St. Louis, and Tom\nAllen, of California, to come off on the 12th of Jan-\nuary,",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "people": ["Bill Davis"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Seven or eight men said to be backers of Tom Allen attacked Bill Davis at Doyle's, near the Fair Grounds, on Christmas night; one of them cut Davis's wrist with a knife.",
+      "excerpt": "Seven or cight rowdies, sald to be backers of Alen,\ndetermined to render Davis powerless.",
+      "date": "1868-12-25",
+      "date_precision": "day",
+      "people": ["Bill Davis"],
+      "places": ["Doyle's, near the Fair Grounds, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Bill Davis",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Bill Davis, of St. Louis, and Tom\nAllen, of California, to come off on the 12th of Jan-\nuary,",
+      "reported_as": "report",
+      "notes": "Planned bout. The paper calls Allen 'of California' and Davis 'of St. Louis'; other items say Davis was of California and Allen of Cleveland."
+    }
+  ],
+  "notes": "The Christmas attack is said to be by Allen's backers; Allen is not shown taking part."
+}

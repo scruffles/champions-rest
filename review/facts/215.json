@@ -1,0 +1,85 @@
+{
+  "id": "215",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Circuit Judge Taylor refused to grant Tillie Hartgrove a divorce from her husband, Martin Hartgrove.",
+      "excerpt": "Judge Taylor refused to grant a",
+      "date": "1903-05",
+      "date_precision": "month",
+      "people": ["Tillie Hartgrove", "Martin Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tillie Hartgrove nursed Tom Allen before his death.",
+      "excerpt": "divorce to Tillie Hartgrove, who nursed the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was a former prize fighter.",
+      "excerpt": "late Tom Allen, former prize fighter.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was ill before he died, and it was said he might have recovered.",
+      "excerpt": "Had he recovered, he was to have married",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen had two daughters.",
+      "excerpt": "nominal sum to each of his two daughters.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen willed Tillie Hartgrove his property, except a nominal sum to each of his two daughters.",
+      "excerpt": "Allen willed her his property, except a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "It was stated that had Tom Allen recovered, he was to have married Tillie Hartgrove if she obtained a divorce.",
+      "excerpt": "her, if she obtained a divorce, it was stated.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Short item; the divorce and nursing lines are included because they concern Allen's household and estate. OCR garbled in places."
+}

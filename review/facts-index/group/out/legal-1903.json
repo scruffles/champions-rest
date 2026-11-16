@@ -1,0 +1,96 @@
+{
+  "bucket": "legal-1903",
+  "facts": [
+    {
+      "fact": "In March 1903 Tom Allen made a will at the Baptist hospital leaving the balance of his property to Tillie Hartgrove, with $10 each to his two sisters.",
+      "date": "1903-03",
+      "seed": "046",
+      "conflict": "date made: 4 March (202.c6, low; year cut off, hint says 24 March) vs the week before 3 April (200.c5, medium); witnesses (Marks, Newcomb, Brock) only in 202.c6 (low); the will was filed in probate court on 6 April 1903 (202.c5, 202.c7); Simon Bass filed it (202.c7) but refused to serve as executor (204.c1)",
+      "claims": ["200.c5", "202.c6", "202.c5", "204.c1", "202.c7"]
+    },
+    {
+      "fact": "Allen's daughter, Mrs. Mary Taylor, was refused access to her father, and she took her case to attorney Frank A. C. MacManus, an old friend of her father, to gain access to him.",
+      "date": "1903-03",
+      "seed": "044",
+      "conflict": "",
+      "claims": ["198.c8"]
+    },
+    {
+      "fact": "Gillespie tried to take Tom Allen's saloon from Murphy with a policeman's help, but the policeman refused to interfere and advised a warrant instead of an arrest.",
+      "date": "1903-04-01",
+      "seed": "048",
+      "conflict": "",
+      "claims": ["200.c4", "199.c3"]
+    },
+    {
+      "fact": "Public Administrator Garrard Strode took charge of Tom Allen's estate in April 1903, which was in a muddled condition.",
+      "date": "1903-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["204.c2"]
+    },
+    {
+      "fact": "Friends of Tom Allen planned to apply to the probate court on 6 April 1903 for a conservator for him.",
+      "date": "1903-04-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["1003.c2"]
+    },
+    {
+      "fact": "Gillespie said he had a claim against Tom Allen for goods sold to him.",
+      "date": "1903-04-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["202.c3"]
+    },
+    {
+      "fact": "On 6 April 1903 Mrs. Mary Taylor, Tom Allen's daughter, said she would apply to the courts that day to protect her father's property and would contest the will.",
+      "date": "1903-04-06",
+      "seed": "",
+      "conflict": "name: Polly Taylor (1007.c7, medium, says she was cut off with $10 and will contest the will) vs Mrs. Mary Taylor (other claims); 202.c8 (medium) says she alleged the property was being dissipated by people with no right to it",
+      "claims": ["202.c8", "203.c25", "1007.c7"]
+    },
+    {
+      "fact": "Tillie Hartgrove had a writ of replevin issued at Clayton for a driving horse, and Constable Fred Lenz failed to replevin it on 21 April 1903.",
+      "date": "1903-04-21",
+      "seed": "",
+      "conflict": "holder of the horse: William W. Heapes (211.c1, low, only source)",
+      "claims": ["211.c1", "212.c1"]
+    },
+    {
+      "fact": "In May 1903 Circuit Judge Taylor refused Tillie Hartgrove a divorce from her husband, Martin Hartgrove, after learning she had been Tom Allen's housekeeper.",
+      "date": "1903-05-22",
+      "seed": "",
+      "conflict": "",
+      "claims": ["214.c1", "215.c1"]
+    },
+    {
+      "fact": "Tom Allen's estate had dwindled almost to nothing and was still in litigation in May 1903.",
+      "date": "1903-05-22",
+      "seed": "049",
+      "conflict": "",
+      "claims": ["214.c5"]
+    },
+    {
+      "fact": "In July 1903 Allen's widow, who lives in England, demanded a dower interest in his estate, valued at $279.80, and engaged St. Louis attorney F. H. Sullivan to bring suit against the will.",
+      "date": "1903-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["1012.c4", "1012.c5", "1013.c1"]
+    },
+    {
+      "fact": "In July 1903 Hartgrove and Gillespie left Clayton threatening to replevin a hat.",
+      "date": "1903-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["1009.c5"]
+    },
+    {
+      "fact": "Public Administrator Garrard Strode filed the inventory of Tom Allen's estate in probate court on 28 July 1903, valuing the estate, including his saloon, at $279.80.",
+      "date": "1903-07-28",
+      "seed": "",
+      "conflict": "",
+      "claims": ["1011.c1", "1011.c2", "1012.c2", "219.c11"]
+    }
+  ]
+}

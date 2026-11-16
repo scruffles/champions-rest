@@ -1,0 +1,417 @@
+{
+ "bucket": "other-undated-p1",
+ "kind": "other",
+ "undated": true,
+ "claims": [
+  {
+   "cid": "024.c3",
+   "date": "",
+   "published": "1869-11-07",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Allen had been cheated twice over stake money in St. Louis, which made his backers unwilling to accept Murray as stakeholder."
+  },
+  {
+   "cid": "033.c2",
+   "date": "",
+   "published": "1870-04-30",
+   "statement": "The belt given to Tom Allen was made under the supervision of Wm. Walsh, who had also supervised the belt presented to Mike McCoole."
+  },
+  {
+   "cid": "047.c7",
+   "date": "",
+   "published": "1874-02-20",
+   "retro": true,
+   "statement": "Tom Allen said Arthur Chambers had seconded him in an earlier fight."
+  },
+  {
+   "cid": "050.c13",
+   "date": "",
+   "published": "1874-03-11",
+   "conf": "medium",
+   "statement": "Tom Allen said a gang from Council Bluffs and Cheyenne tried to force him to lose a fight at Omaha, threatening him with revolvers and bowie knives."
+  },
+  {
+   "cid": "069.c1",
+   "date": "",
+   "published": "1876-04-13",
+   "conf": "medium",
+   "statement": "Tom Allen said Ned Donnelly's real name was George Bruer, a laborer he had taken from the streets and trained as a boxer."
+  },
+  {
+   "cid": "076.c6",
+   "date": "",
+   "published": "1876-05-02",
+   "conf": "low",
+   "statement": "Tom Allen expressed contempt for a man printed as 'burn' and for his gang, who had made bold threats."
+  },
+  {
+   "cid": "082.c3",
+   "date": "",
+   "published": "1876-05-10",
+   "conf": "medium",
+   "statement": "Billy Edwards said that Tom Allen would beat Joe Goss without trouble in a fair fight."
+  },
+  {
+   "cid": "082.c4",
+   "date": "",
+   "published": "1876-05-10",
+   "conf": "medium",
+   "statement": "Jem Mace said that Joe Goss would win the fight barring all accidents."
+  },
+  {
+   "cid": "083.c2",
+   "date": "",
+   "published": "1876-08-11",
+   "conf": "medium",
+   "statement": "An interview with Tom Allen by a New York Clipper reporter may soon follow."
+  },
+  {
+   "cid": "084.c9",
+   "date": "",
+   "published": "1876-09-08",
+   "retro": true,
+   "conf": "medium",
+   "statement": "As a youth Tom Allen learned the trade of gunmaking in England."
+  },
+  {
+   "cid": "084.c10",
+   "date": "",
+   "published": "1876-09-08",
+   "retro": true,
+   "statement": "Tom Allen served in the Crimean War and won several turn-ups in front of Sevastopol, which convinced him he had the makings of a champion."
+  },
+  {
+   "cid": "1009.c2",
+   "date": "",
+   "published": "1903-07-19",
+   "statement": "After Allen's death, Lord Barrington wore Allen's silk hat, which J. W. Gillespie had fitted him out with."
+  },
+  {
+   "cid": "1009.c3",
+   "date": "",
+   "published": "1903-07-19",
+   "statement": "Tillie Hartgrove, Allen's housekeeper, claimed the silk hat as a keepsake of the old pugilist."
+  },
+  {
+   "cid": "1009.c7",
+   "date": "",
+   "published": "1903-07-19",
+   "statement": "Paddy Nalty, who had worked for Allen for six years, pronounced the hat the genuine Tom Allen relic."
+  },
+  {
+   "cid": "1015.c2",
+   "date": "",
+   "published": "1904-09-18",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen maintained that a thoroughly conditioned 165-pounder had a perfect license to beat a 200-pounder at the London prize ring game."
+  },
+  {
+   "cid": "1017.c2",
+   "date": "",
+   "published": "1905-11-12",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Prof. Bill Clark, a St. Louis resident, was an intimate of Tom Allen."
+  },
+  {
+   "cid": "116.c3",
+   "date": "",
+   "published": "1885-05-30",
+   "retro": true,
+   "statement": "For some time after arriving in St. Louis, C. W. Price was Allen's protégé."
+  },
+  {
+   "cid": "132.c2",
+   "date": "",
+   "published": "1888-07-20",
+   "statement": "Tom Allen gave John Ryan a terrible beating when Ryan would not keep away from his saloon."
+  },
+  {
+   "cid": "143.c2",
+   "date": "",
+   "published": "1892-07-24",
+   "retro": true,
+   "statement": "Mike McCool, Tom Kelley and Tom Allen used to meet in the Market Street block between Sixth and Seventh streets to congregate and arrange their matches."
+  },
+  {
+   "cid": "144.c3",
+   "date": "",
+   "published": "1892-08-29",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen was the biggest backer of Charlie Mitchell in St. Louis when Mitchell fought Sullivan at Chantilly, France."
+  },
+  {
+   "cid": "144.c4",
+   "date": "",
+   "published": "1892-08-29",
+   "statement": "Charlie Mitchell was one of Tom Allen's particular friends."
+  },
+  {
+   "cid": "152.c3",
+   "date": "",
+   "published": "1893-03-02",
+   "retro": true,
+   "statement": "Tom Allen handled and seconded Ed Smith when Smith fought Peter Jackson in Chicago."
+  },
+  {
+   "cid": "154.c5",
+   "date": "",
+   "published": "1893-10-21",
+   "statement": "Tom Allen believes a man born in Birmingham can always beat a man not born in Birmingham."
+  },
+  {
+   "cid": "156.c4",
+   "date": "",
+   "published": "1894-01-02",
+   "statement": "Tom Allen says Corbett jabbed his way to the championship."
+  },
+  {
+   "cid": "156.c5",
+   "date": "",
+   "published": "1894-01-02",
+   "retro": true,
+   "statement": "Tom Allen says Corbett never struck a blow in his fight with Sullivan that could be decisive."
+  },
+  {
+   "cid": "167.c10",
+   "date": "",
+   "published": "1895-01-13",
+   "retro": true,
+   "statement": "Tom Allen said he took Alf Greenfield in hand while Greenfield was working on a canal near Birmingham, England, and showed him how to box."
+  },
+  {
+   "cid": "169.c1",
+   "date": "",
+   "published": "1896-01-02",
+   "retro": true,
+   "statement": "Fred Watkins backed Tom Allen when Allen was the acknowledged champion."
+  },
+  {
+   "cid": "171.c3",
+   "date": "",
+   "published": "1897-01-22",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen lost money in the Corbett-Sullivan fight because he had misjudged Corbett, thinking him too light and spare."
+  },
+  {
+   "cid": "175.c4",
+   "date": "",
+   "published": "1897-06-14",
+   "statement": "Pat Smith, brother of Denver Ed Smith, came from Chicago and also put up at Tom Allen's place."
+  },
+  {
+   "cid": "176.c1",
+   "date": "",
+   "published": "1897-06-16",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Denver Ed Smith said Tom Allen handled him when Smith beat Goddard in eighteen rounds before the Olympic Club in New Orleans."
+  },
+  {
+   "cid": "176.c2",
+   "date": "",
+   "published": "1897-06-16",
+   "conf": "medium",
+   "statement": "Tom Allen and many people believed Denver Ed Smith could eat up and spit out Sharkey, Maher, Corbett or Fitzsimmons."
+  },
+  {
+   "cid": "178.c3",
+   "date": "",
+   "published": "1897-11-28",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Mike McCoole died a pauper in New Orleans and was rescued from a pauper's grave by Tom Allen."
+  },
+  {
+   "cid": "197.c14",
+   "date": "",
+   "published": "1903-03-27",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Allen was said to have invested some of his ring money in Missouri farms, which he was said still to own."
+  },
+  {
+   "cid": "203.c14",
+   "date": "",
+   "published": "1903-04-06",
+   "retro": true,
+   "statement": "Allen was a well-known prognosticator of prize fights, and followers of the ring came to him for his opinion before championship battles."
+  },
+  {
+   "cid": "205.c1",
+   "date": "",
+   "published": "1903-04-09",
+   "conf": "low",
+   "statement": "Allen would settle with any man who dared call him the ex-champion (text garbled)."
+  },
+  {
+   "cid": "207.c2",
+   "date": "",
+   "published": "1903-04-09",
+   "conf": "medium",
+   "statement": "Attorney Simon S. Bass, named as executor in Allen's will, refused to act."
+  },
+  {
+   "cid": "207.c7",
+   "date": "",
+   "published": "1903-04-09",
+   "conf": "medium",
+   "statement": "Allen's bar was in the custody of an agent acting for his daughter."
+  },
+  {
+   "cid": "209.c10",
+   "date": "",
+   "published": "1903-04-12",
+   "retro": true,
+   "conf": "low",
+   "statement": "The feud between Allen and rival saloonkeeper Dan Daly lasted until Daly's death, printed as '18%'."
+  },
+  {
+   "cid": "209.c12",
+   "date": "",
+   "published": "1903-04-12",
+   "retro": true,
+   "statement": "After Daly's death, Allen went to Daly's relatives and offered his services and substantial aid in money."
+  },
+  {
+   "cid": "211.c2",
+   "date": "",
+   "published": "1903-04-21",
+   "retro": true,
+   "statement": "Tom Allen had for several years wintered the horse at William W. Heapes's farm."
+  },
+  {
+   "cid": "212.c2",
+   "date": "",
+   "published": "1903-04-22",
+   "statement": "The horse was in the possession of William W. Heapes in St. Louis County."
+  },
+  {
+   "cid": "212.c5",
+   "date": "",
+   "published": "1903-04-22",
+   "statement": "William W. Heapes would hold the horse until a feed bill of some $17 was settled."
+  },
+  {
+   "cid": "214.c2",
+   "date": "",
+   "published": "1903-05-22",
+   "statement": "Tillie Hartgrove had been the housekeeper of the late Tom Allen."
+  },
+  {
+   "cid": "214.c4",
+   "date": "",
+   "published": "1903-05-22",
+   "conf": "medium",
+   "statement": "Tom Allen left his property to Tillie Hartgrove for her services."
+  },
+  {
+   "cid": "215.c2",
+   "date": "",
+   "published": "1903-05-23",
+   "statement": "Tillie Hartgrove nursed Tom Allen before his death."
+  },
+  {
+   "cid": "215.c6",
+   "date": "",
+   "published": "1903-05-23",
+   "statement": "Tom Allen willed Tillie Hartgrove his property, except a nominal sum to each of his two daughters."
+  },
+  {
+   "cid": "216.c6",
+   "date": "",
+   "published": "1903-06-20",
+   "statement": "The new manager of Champion's Rest had been a bartender under Tom Allen."
+  },
+  {
+   "cid": "218.c1",
+   "date": "",
+   "published": "1903-07-19",
+   "statement": "Lord Barrington, accused of the McCann murder, was dressed in Tom Allen's old silk hat, a frock coat and a cane when he walked up and down near Bonfils in broad daylight."
+  },
+  {
+   "cid": "248.c6",
+   "date": "",
+   "published": "1935-08-20",
+   "retro": true,
+   "statement": "Tom Allen was 5 feet 9 inches tall and weighed under 175 pounds."
+  },
+  {
+   "cid": "263.c10",
+   "date": "",
+   "published": "1978-04-04",
+   "retro": true,
+   "statement": "Tom Allen's will left everything to his daughter Polly Allen Taylor and to a friend, Tillie Hartgrove."
+  },
+  {
+   "cid": "263.c13",
+   "date": "",
+   "published": "1978-04-04",
+   "retro": true,
+   "conf": "medium",
+   "statement": "A family story says Tom Allen came into possession of a diamond belt, emblematic of the world championship, but no one can verify it."
+  },
+  {
+   "cid": "263.c14",
+   "date": "",
+   "published": "1978-04-04",
+   "statement": "Tom Taylor plans to offer Tom Allen's silver cup to the Missouri Historical Society."
+  },
+  {
+   "cid": "264.c20",
+   "date": "",
+   "published": "1875-05-10",
+   "statement": "Barney Aaron and Owney Gagin were to second Tom Allen in the Rooke fight."
+  },
+  {
+   "cid": "279.c7",
+   "date": "",
+   "published": "1900-03-18",
+   "statement": "Col. Fred Watkins was a lifelong friend and backer of Tom Allen."
+  },
+  {
+   "cid": "280.c1",
+   "date": "",
+   "published": "1898-02-01",
+   "retro": true,
+   "statement": "Tom Allen of St. Louis was one of Charley Mitchell's best friends in America, having known him as a boy around Birmingham, England."
+  },
+  {
+   "cid": "280.c2",
+   "date": "",
+   "published": "1898-02-01",
+   "retro": true,
+   "statement": "Tom Allen and Charley Mitchell often discussed the tactics of various fighters who had met Allen."
+  },
+  {
+   "cid": "280.c3",
+   "date": "",
+   "published": "1898-02-01",
+   "retro": true,
+   "statement": "Tom Allen gave Charley Mitchell boxing tips, the most valuable being the deceptive left hook, which Mitchell then improved and used."
+  },
+  {
+   "cid": "280.c4",
+   "date": "",
+   "published": "1898-02-01",
+   "statement": "Billy Madden says Tom Allen should not be credited with inventing the left hook blow."
+  },
+  {
+   "cid": "303.c17",
+   "date": "",
+   "published": "1869-01-13",
+   "conf": "medium",
+   "statement": "Tom Allen claimed he had been in active training for only nine days before the fight with Bill Davis."
+  },
+  {
+   "cid": "343.c1",
+   "date": "",
+   "published": "1869-07-26",
+   "statement": "Edward O'Baldwin, the 'Irish Giant', arrived in St. Louis from Boston, went around with Tom Allen, and dropped in on Mike McCoole and Bill Carroll."
+  }
+ ]
+}

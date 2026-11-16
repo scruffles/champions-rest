@@ -1,0 +1,19 @@
+{
+  "id": "554",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Tom Kelley gave a sparring match at the Theatre Comique in St. Louis.",
+      "excerpt": "being a sparring match between Tom Allen and Tom Kelley, a wrestling bout between Bauer and Christol",
+      "date": "1876-05-05",
+      "date_precision": "day",
+      "people": ["Tom Kelley"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Sparring match at the Comique, reported the morning after."
+}

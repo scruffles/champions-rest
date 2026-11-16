@@ -1,0 +1,34 @@
+{
+  "id": "460",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher knocked Tom Allen out of time in St. Louis.",
+      "excerpt": "knocking the renowned Tom Allen out of time",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "St. Louis",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "knocking the renowned Tom Allen out of time",
+      "reported_as": "recollection",
+      "notes": "Mentioned in Gallagher's obituary. No date or rounds given (review/facts/455.json gives a two-round account)."
+    }
+  ],
+  "notes": "Obituary of Charley Gallagher, who died 1873-09-01 at Jacksonville, Florida. Only the Allen fight is about Allen; the death is left out."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "122",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen withdrew his $200 forfeit, placed with the Post-Dispatch for a sword match between Duncan C. Ross and August Schmitt, because Ross had not covered it.",
+      "excerpt": "the Post-DISPATCH for a match between Ross and August Schmitt, has withdrawn the",
+      "date": "1886-10",
+      "date_precision": "month",
+      "people": ["Duncan C. Ross", "August Schmitt"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Duncan C. Ross was in the city on Thursday and Friday, saw Tom Allen's challenge, and paid no attention to it.",
+      "excerpt": "Friday, saw Allen’s challenge and paid no at-",
+      "date": "1886-09-30",
+      "date_precision": "approx",
+      "people": ["Duncan C. Ross", "Tom Allen"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Withdrawal date not stated; month used. Excerpt joins a line break. Ross's behaviour is reported, not Allen's."
+}

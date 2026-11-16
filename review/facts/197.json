@@ -1,0 +1,227 @@
+{
+  "id": "197",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was born in Birmingham, England, on April 23, 1839.",
+      "excerpt": "who was born in Birmingham, April 23, 1839, and who fought in England",
+      "date": "1839-04-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen planned to marry his nurse, Mrs. Tillie Hartgrove of St. Louis, as soon as he recovered from his illness; the paper gives her age as 21 (headline).",
+      "excerpt": "the ceremony will take place as soon as possible",
+      "date": "1903-03",
+      "date_precision": "month",
+      "people": ["Tillie Hartgrove"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "Allen had been a widower for more than twenty years.",
+      "excerpt": "Allen hes bern @ | re widower for more than twenty years",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Allen had been ill since Christmas 1902 with an illness from which he was only now convalescing.",
+      "excerpt": "who has been acting as his nurce durng)| am an illness which began last Christmas",
+      "date": "1902-12",
+      "date_precision": "month",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "For about 23 years Allen had been proprietor of a small saloon with an English concert hall annex at Market Street (printed as 69 Market street; 619 in other papers).",
+      "excerpt": "For about twenty-three years Allen has been the proprietor of a small saloon with",
+      "date": "1880",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "For about 23 years Allen lived alone in apartments above his saloon.",
+      "excerpt": "Hved alone in apartments above the saloon",
+      "date": "1880",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen won the championship boxing cup of England by defeating Charlie Davis in five rounds for a purse of £100; the date is printed as 'April if', 1878.",
+      "excerpt": "feated Charlic Davis in five rounds tor & gurse of £100",
+      "date": "1878-04",
+      "date_precision": "month",
+      "people": ["Charlie Davis"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen won the championship of America by defeating Mike McCool in seven rounds for a $2,000 purse on September 23, 1873; the paper says this contest is said to have occurred in St. Louis.",
+      "excerpt": "Mike McCoo! in seven rounds for a} $2006 purse",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCool"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen fought Joe Goss in Kentucky in September 1876, after which warrants were sworn out for both men.",
+      "excerpt": "After a fight with Joe Goss in Ken",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "After Allen's fight with Joe Goss in Kentucky, warrants were sworn out for both Goss and Allen for violating the state statute against prizefighting.",
+      "excerpt": "warrants were sworn out for both Goss and Allen for violating",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen fled from Kentucky back to England and waited out the five-year statute of limitations before returning to St. Louis.",
+      "excerpt": "Allen, however, skipped from Kentucky back to “merry hold Hingiand”",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Kentucky", "England", "St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "After returning, Allen kept a saloon on Washington Avenue between Fourth Street and Broadway for a few years before moving to his Market Street location.",
+      "excerpt": "conducting a saloon on Wash-\nineton avenue, between Fourth street and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "It was said that Kentucky authorities tried to have Allen brought back after he reached St. Louis, but Gov. Marmaduke refused to issue requisition papers.",
+      "excerpt": "to have him brouglit back there, but that Gov. Marmaduke refused to issue requisi",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Gov. Marmaduke"],
+      "places": ["Kentucky", "St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Allen was said to have invested some of his ring money in Missouri farms, which he was said still to own.",
+      "excerpt": "invested some of his ring money in Missouri! farms",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Missouri"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Allen has not fought professionally since his last fight; his saloon made him a living in the interval.",
+      "excerpt": "Since then Tom Allen has not fought professionally",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "In March 1903 Tom Allen was described as a retired champion pugilist.",
+      "excerpt": "Tom Allen, retired champion pugilist, is Planning to celebrate his sixty-fourth birth",
+      "date": "1903-03",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charlie Davis",
+      "date": "1878-04",
+      "date_precision": "month",
+      "place": "",
+      "result": "win",
+      "rounds": "five",
+      "duration": "",
+      "stakes": "£100 purse; championship boxing cup of England",
+      "rules": "",
+      "excerpt": "feated Charlic Davis in five rounds tor & gurse of £100",
+      "reported_as": "recollection",
+      "notes": "Date printed as 'April if. i878'; 203 and 204 give April 17, 1878."
+    },
+    {
+      "opponent": "Mike McCool",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "St. Louis (said to be)",
+      "result": "win",
+      "rounds": "seven",
+      "duration": "",
+      "stakes": "$2,000 purse (printed $2006); championship of America",
+      "rules": "",
+      "excerpt": "Mike McCoo! in seven rounds for a} $2006 purse",
+      "reported_as": "recollection",
+      "notes": "Printed as 'Sept. 23. 1873'. The 1903-04-06 Republic table dates the McCool win 1872-09-22; disputed."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09",
+      "date_precision": "month",
+      "place": "Kentucky",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "After a fight with Joe Goss in Ken",
+      "reported_as": "recollection",
+      "notes": "Date printed as 'Sept. i. i876'. Result not stated here; 203 says Allen beat Goss (disputed)."
+    }
+  ],
+  "notes": "OCR is poor. Saloon address printed as 69 Market street (619 elsewhere). Fight date 1878 read from 'April if'. Mrs. Hartgrove's age 21 is from the headline only (article body is garbled). Fight with Joe Goss (1876) is in the legal claims only; no record entry here."
+}

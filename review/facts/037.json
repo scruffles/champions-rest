@@ -1,0 +1,19 @@
+{
+  "id": "037",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen invited his friends to a free and easy evening at his place, No. 417 Washington avenue, on July 16, 1870.",
+      "excerpt": "Tom Allen would be happy to see his friends this evening at his place",
+      "date": "1870-07-16",
+      "date_precision": "day",
+      "people": [],
+      "places": ["417 Washington avenue"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": ""
+}

@@ -1,0 +1,89 @@
+{
+  "id": "463",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Mike McCoole were arrested by detectives on Sunday night, 21 September 1873.",
+      "excerpt": "The arrest of both men by the detectives dur-",
+      "date": "1873-09-21",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested at a temporary snuggery, the 'Hunter's Retreat' near Jefferson Barracks, while McCoole was arrested at his training quarters.",
+      "excerpt": "and Allen ata tempocary snuggery at the",
+      "date": "1873-09-21",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Hunter's Retreat, near Jefferson Barracks"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Mike McCoole were released from the Four Courts on bail of $1,000 each, to keep the peace in Missouri for three months.",
+      "excerpt": "$1,000 not to disturb the peace and quiet of the",
+      "date": "1873-09-22",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Four Courts, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole were to fight again on the day this issue was printed, the match being the talk of St. Louis.",
+      "excerpt": "and Allen, claiming its full share of interest.",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Arthur Chambers and Patsy Sheppard were expected to go into the ring as Tom Allen's seconds.",
+      "excerpt": "the ring us Alien’s vulets de chambre. As to",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Arthur Chambers", "Patsy Sheppard"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was crowded with fight followers on the evening of 22 September 1873.",
+      "excerpt": "This was filled with professors and admirers ot",
+      "date": "1873-09-22",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "and Allen, claiming its full share of interest.",
+      "reported_as": "report",
+      "notes": "Scheduled bout; the result is not given in this article. The location was kept secret."
+    }
+  ],
+  "notes": "Only the Allen items are extracted. The 'Dublin Tricks' and McCoole-seconding items, and the Jack Looney and Mike McCoole saloon reports, are not about Allen."
+}

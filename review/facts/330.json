@@ -1,0 +1,45 @@
+{
+  "id": "330",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "A full-length portrait of Tom Allen, the renowned pugilist, was made by photographer L. vis Umber.",
+      "excerpt": "a full length portrait of Tom Allen, the renowned",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "people": ["L. vis Umber"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought the gigantic Mike McCoole, and the portrait was taken the day after that fight.",
+      "excerpt": "taken the day after his fight with the gi",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "McCoole",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "taken the day after his fight with the gi",
+      "reported_as": "report",
+      "notes": "Mentioned in passing in a portrait notice; result not stated."
+    }
+  ],
+  "notes": "The hint says 'Louis Umber'; the text gives only 'L. vis Umber' (OCR, possibly 'Vis'). Copies of the portrait were sold at the Book and News Company, Fourth street; not recorded as a claim because the excerpt would be too short to prove it."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "471",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "On the first evening of his complimentary benefit at the Theater Comique, Tom Allen was to spar with Jack Madden, with Arthur Chambers and Patsy Sheppard also boxing.",
+      "excerpt": "a set-to with Jack Msdden, after which Arthur",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": ["Jack Madden", "Arthur Chambers", "Patsy Sheppard"],
+      "places": ["Theater Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Printed as Msdden for Madden. Hint's 'two days after beating McCoole' is consistent with the 25 Sept date."
+}

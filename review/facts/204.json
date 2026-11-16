@@ -1,0 +1,52 @@
+{
+  "id": "204",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Simon S. Bass, named executor in Allen's will, refused to serve.",
+      "excerpt": "Simon S. Bass, who in the will was named",
+      "date": "1903-04",
+      "date_precision": "month",
+      "people": ["Simon S. Bass"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Public Administrator Garrard Strode took charge of Allen's estate, which was in a muddled condition.",
+      "excerpt": "taken charge of the estate left by Tom Al",
+      "date": "1903-04",
+      "date_precision": "month",
+      "people": ["Garrard Strode"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Persons with a bill of sale held the living rooms over the saloon, and an agent of Allen's daughter had charge of the bar.",
+      "excerpt": "Persons who have a bill of sale have possession of the living",
+      "date": "1903-04",
+      "date_precision": "month",
+      "people": ["Mary Taylor"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "death",
+      "statement": "At Allen's funeral on Wednesday, April 8, 1903, from Wand's undertaking establishment, his daughter Mrs. Polly Taylor and Mrs. Tillie Hartgrove stood on opposite sides of the bier.",
+      "excerpt": "stood on one side of the bier and Mrs. Tillle",
+      "date": "1903-04-08",
+      "date_precision": "day",
+      "people": ["Polly Taylor", "Tillie Hartgrove"],
+      "places": ["Wand's undertaking establishment, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Daughter is 'Polly' here but 'Mary' in the other papers. Pallbearers (Chris Lauff, Jack Fletcher, Charley Daly, Tom Kelly and others) are left out as minor and garbled in the OCR. Mrs. Hartgrove's husband in England is not Allen's and was left out."
+}

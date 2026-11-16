@@ -1,0 +1,63 @@
+{
+  "id": "224",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon stood at Seventh and Market streets, where the American Theater now stands.",
+      "excerpt": "Tom Allen’s saloon at Seventh and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was one big barroom in a tumble-down frame building, over which the proprietor lived.",
+      "excerpt": "saloon consisted of one big barroom",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "A sign posted on the front window of Tom Allen's saloon read 'We are lower than the lowest.'",
+      "excerpt": "significant sign, ‘““‘We are lower than",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "As many as 200 men, aged 18 to 65, slept in Tom Allen's saloon on cold nights.",
+      "excerpt": "joint as many as 200 men slept on",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The Star charged that Tom Allen's saloon dragged scores of men to ruin with 'doped' liquor.",
+      "excerpt": "through the medium of “doped”",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The article is about dives in general; the Allen material is his saloon only. The Knight story names no saloon, so it is not counted as Allen's. The hint about the saloon's open-all-night hours is general and not extracted."
+}

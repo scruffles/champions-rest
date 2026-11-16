@@ -1,0 +1,28 @@
+{
+  "id": "652",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Billy Madden said Tom Allen was a first-class man and hard hitter but that John L. Sullivan could have beaten him in his prime.",
+      "excerpt": "Tom Allen isa first-class man\nand a hard hitter, but the Boston Boy could\nwhip him in his palmy or.",
+      "date": "1882-03",
+      "date_precision": "approx",
+      "people": [
+        "Billy Madden",
+        "John L. Sullivan"
+      ],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Billy Madden",
+      "text": "Tom Allen isa first-class man and a hard hitter, but the Boston Boy could whip him in his palmy or.",
+      "topic": "Sullivan could beat Allen"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen is only the subject of Billy Madden's opinion about a Sullivan match; no facts about Allen's life or bouts. Article is mainly about Sullivan."
+}

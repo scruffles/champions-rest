@@ -1,0 +1,30 @@
+{
+  "id": "760",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen's place at 619 Market street advertised a free concert and the best boxing in the city every evening.",
+      "excerpt": "Free concert and best boxing in the city every evening.",
+      "date": "1888-06-02",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as the retired champion pugilist of the world.",
+      "excerpt": "Tom Allen, retired champion pugilist of the world, 619 Market street.",
+      "date": "1888-06-02",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market street"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Other items (base ball, the river find, the amateur games) are not about Allen."
+}

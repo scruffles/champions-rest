@@ -1,0 +1,19 @@
+{
+  "id": "992",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Mr. Scholes, former heavyweight champion of Canada, donned the gloves with Tom Allen and other celebrities.",
+      "excerpt": "were Tom Alien, Joe Goss, Jake Kilrain,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mr. Scholes", "Joe Goss", "Jake Kilrain"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "In a letter from Sam Austin about John Scholes; Allen appears only as one of Mr. Scholes's glove partners (printed as 'Tom Alien'). The hint's claim that the father later ran the Athletes' Rest is in the text, but it is not about Allen, so it is not recorded."
+}

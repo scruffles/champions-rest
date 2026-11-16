@@ -1,0 +1,30 @@
+{
+  "id": "757",
+  "claims": [
+    {
+      "kind": "business",
+      "statement": "Tom Allen announced that his new boxing school at 619 Market street would open that night and offer the finest singing in the city.",
+      "excerpt": "that hisnew boxing school opens to-night. Lhe finest singing in the city. No.619 Market street.",
+      "date": "1888-05-19",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described in May 1888 as the retired champion pugilist of the world.",
+      "excerpt": "Tom Allen, the retired champion pugilist of the world, wishes to inform his friends",
+      "date": "1888-05-19",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint called this a saloon entry; the ad is for a boxing school, so kind is business. Rest of the column is about other men."
+}

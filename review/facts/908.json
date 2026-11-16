@@ -1,0 +1,30 @@
+{
+  "id": "908",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised a free concert every evening at 619 Market street.",
+      "excerpt": "retired champion pugilist of the\nworld, 619 Market street. Free concert every",
+      "date": "1895-03-16",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as the retired champion pugilist of the world.",
+      "excerpt": "Tom Allen, retired champion pugilist of the\nworld",
+      "date": "1895-03-16",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. The text does not say 'saloon'; the 909 article places Allen's Champion's Rest saloon on Market street near Seventh."
+}

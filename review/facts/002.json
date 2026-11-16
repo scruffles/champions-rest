@@ -1,0 +1,100 @@
+{
+  "id": "002",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and William M. Davis signed articles of agreement on 4 December 1868 for a prize fight under the new rules of the English Prize Ring.",
+      "excerpt": "Articles of agreement entered into, this 4th day of\nDecember, 1868, between William M. Davis and\nThomas Alien.",
+      "date": "1868-12-04",
+      "date_precision": "day",
+      "people": ["William M. Davis", "Bill Ryall"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Bill Ryall signed the articles of agreement on behalf of Thomas Allen.",
+      "excerpt": "WM. RYALL,\nOn behalf ot Thomas Allen,",
+      "date": "1868-12-04",
+      "date_precision": "day",
+      "people": ["Bill Ryall"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The second deposit of $200 a side for the Allen and Davis fight was to be made at William Ryall's house, 417 Washington avenue, St. Louis, on Friday 18 December 1868.",
+      "excerpt": "The second deposit of $200 a side shall be at the\nhouse of Mr. William Ryall, 417 Washington\navenue, St. Louis, on Friday, the 18th day of De-",
+      "date": "1868-12-18",
+      "date_precision": "day",
+      "people": ["William Ryall", "William M. Davis"],
+      "places": ["417 Washington avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The third and final deposit of $500 a side for the Allen and Davis fight was to be made at Mike McCoole's house, St. Louis, on Monday 4 January 1869.",
+      "excerpt": "ouse of Mr. Mike MeCoole. St. Louis, on Monday,\nthe 4th day of January next.",
+      "date": "1869-01-04",
+      "date_precision": "day",
+      "people": ["Mike McCoole", "William M. Davis"],
+      "places": ["Mike McCoole's house, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "The Allen and Davis fight was to be on a Tuesday in January 1869; the day is printed as '22ts January', which is garbled.",
+      "excerpt": "The said fight\nDiaceon Tuesday, the 22ts January, 1560;",
+      "date": "1869-01",
+      "date_precision": "month",
+      "people": ["William M. Davis"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was training for the Davis fight in the neighborhood of Cleveland, Ohio.",
+      "excerpt": "His field of operations\nis in the neighborhood of Cleveland, Ohio.",
+      "date": "1868-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["neighborhood of Cleveland, Ohio"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Charles Convy Gallagher, a Cleveland fighter, was described as a warm friend of Tom Allen.",
+      "excerpt": "Chas. Convy Gallagher.of Cleveland, Ohio, andawarm friend fof Tom Alley.",
+      "date": "1868-12",
+      "date_precision": "month",
+      "people": ["Charles Convy Gallagher"],
+      "places": ["Cleveland, Ohio"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "William M. Davis",
+      "date": "1869-01",
+      "date_precision": "month",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 a side (three deposits of $300, $200 and $500 a side)",
+      "rules": "new rules of the English Prize Ring",
+      "excerpt": "The said fight\nDiaceon Tuesday, the 22ts January, 1560;",
+      "reported_as": "report",
+      "notes": "Planned bout. The day is printed as '22ts January' (garbled); place is unreadable in the OCR. The first deposit amount ($300) is in the text; the total is inferred from the three printed deposits."
+    }
+  ],
+  "notes": "Several OCR-garbled passages. The first deposit of $300 a side is only partly legible."
+}

@@ -1,0 +1,118 @@
+{
+  "id": "155",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen, the retired heavyweight champion, plans to attend the Corbett-Mitchell fight in January 1894.",
+      "excerpt": "Tom Allen, the famous retired heavyweight champion, will take in the Corbett-Mitchell fight next month",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": ["Corbett", "Mitchell"],
+      "places": ["Jacksonville, Florida"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen planned to leave St. Louis for Jacksonville, Florida, keeping his departure date secret.",
+      "excerpt": "departure from this city for Jacksonville will be known to only his most intimate friends",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis", "Jacksonville, Florida"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was indicted in Kentucky over a decade before 1893 for his battle with Joe Goss.",
+      "excerpt": "Over a decade ago, Was indicted in Kentucky for his battie with Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen has not set foot in Kentucky since his indictment and fears trouble there, though Kentucky has never sought his extradition.",
+      "excerpt": "The Kentucky authorities have never made any _ @ffort to extradite him from this State",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen is confident Corbett will meet his conqueror in Charley Mitchell.",
+      "excerpt": "is confident Corbett will Meet his conqueror in the sturdy",
+      "date": "1893-12",
+      "date_precision": "month",
+      "people": ["Corbett", "Charley Mitchell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen says Corbett's battles with Jackson and Sullivan show him to be a very ordinary fighter.",
+      "excerpt": "Allenciaims the champlion’s battles with Jackson and Sullivan show himtobea Very ordinary fighter",
+      "date": "1893-12",
+      "date_precision": "month",
+      "people": ["Corbett", "Jackson", "Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen has secured twelve ox tails from which he will make a jelly to harden the stomach.",
+      "excerpt": "Allen says he has secured twelve ox talls from which he will make a jelly that hasa tendency",
+      "date": "1893-12",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen will send the jelly to Mitchell's training quarters.",
+      "excerpt": "Tom says he will send this preparation to Mitchell’s training quarters",
+      "date": "1893-12",
+      "date_precision": "month",
+      "people": ["Mitchell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen offered Paddy Smith, brother of Denver Smith, $100 for the receipt for the jelly.",
+      "excerpt": "Allen states that ase offered Paddy Smith, ‘-Denver’’ Smith’s brother, $100 for the receipt for this jelly",
+      "date": "1893-12",
+      "date_precision": "month",
+      "people": ["Paddy Smith", "Denver Smith"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Mitchell’s forte will be at infighting, and when they come to close quarters the Californian’s stomach will suffer.",
+      "topic": "Mitchell's infighting against Corbett"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "No watter how shifty he may be, Corbett will learn early in the affair that Mitchell is just as clever when it comes to avoiding wicked punches.",
+      "topic": "Mitchell's cleverness against Corbett"
+    }
+  ],
+  "fights": [],
+  "notes": "Corbett-Mitchell fight preparations. Kentucky indictment is described only as 'over a decade ago' in the text; the 1876 year in the hints is not stated here."
+}

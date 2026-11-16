@@ -1,0 +1,41 @@
+{
+  "id": "756",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was captured at his saloon by the Franklin County officers and taken to the Four Courts on 1888-04-18.",
+      "excerpt": "repaired to Tom Allen’s saloon, where hey captured the ex-champion and escorted",
+      "date": "1888-04-18",
+      "date_precision": "day",
+      "people": ["Sheriff Ehlers", "Chief Huebler"],
+      "places": ["Tom Allen's saloon", "Four Courts"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The Globe-Democrat called Tom Allen the ex-champion.",
+      "excerpt": "where hey captured the ex-champion and escorted",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Allen and the other men arrested left St. Louis by train on the evening of 1888-04-18 for a preliminary hearing at Union, Franklin County.",
+      "excerpt": "The sports left on the same ain, and will, im all probabt!lity, Waive jexamination",
+      "date": "1888-04-18",
+      "date_precision": "day",
+      "people": ["Sheriff Ehlers"],
+      "places": ["Union, Franklin County, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Conflicts with 754, which says Allen was arrested as he was about to sit down to breakfast. The $500 bond printed here is for Kelly, Tucker and Esher, not Allen (Allen's bond is in 754). The travel line is partly a prediction ('will, in all probability, waive examination')."
+}

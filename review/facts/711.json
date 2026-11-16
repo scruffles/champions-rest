@@ -1,0 +1,30 @@
+{
+  "id": "711",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen, the ex-champion, was to spar Tom Kelly at the Union grounds in the Fourth of July tournament.",
+      "excerpt": "Tom Allen,the ex-champion,whoistospar with Tom Kelly atthe Union grounds in the",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Union Base Ball Grounds, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen said a score of local boxers would spar for the middle and heavy weight prizes at the Fourth of July tournament.",
+      "excerpt": "says thata score of the local boxers willappear and spar for",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Union Base Ball Grounds, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only the Fourth of July 1884 sparring exhibition is about Allen. Hint on the Union Club Cup is not in this text and was dropped."
+}

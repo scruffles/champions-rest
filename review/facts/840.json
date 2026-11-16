@@ -1,0 +1,30 @@
+{
+  "id": "840",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen is described as the retired heavy-weight champion of this city.",
+      "excerpt": "Tom Allen, the retired heavy-weight cham- pion, of thiscity.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was present in Charles Mitchell's room at the Southern Hotel on March 5, 1892, when Mitchell dictated his reply to John L. Sullivan's challenge.",
+      "excerpt": "there was present at the time, Frank P. Slavin, the Australian heavy-weignt; Charies Tate, the retired pugilist cf Toledo, O.,and Tom Allen",
+      "date": "1892-03-05",
+      "date_precision": "day",
+      "people": ["Charles Mitchell", "John L. Sullivan", "Frank P. Slavin", "Charles Tate"],
+      "places": ["Southern Hotel"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen only witnessed Mitchell's letter; he said nothing in the article. The reply was dictated the evening before the paper date ('last evening')."
+}

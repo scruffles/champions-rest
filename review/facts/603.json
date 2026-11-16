@@ -1,0 +1,19 @@
+{
+  "id": "603",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "The sporting column of the Globe-Democrat headed its notice of Tom Allen as 'Tom Allen Again Matched'.",
+      "excerpt": "Tom Allen Again Matched—The Turf—_\nSporting Sundries,",
+      "date": "1877-12",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only the headline mentions Allen; the body of the article is about baseball. The match itself is in the 1877-12-09 gymnasium and ring column (602)."
+}

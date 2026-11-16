@@ -1,0 +1,45 @@
+{
+  "id": "600",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Tompkins Gilbert of Lincoln in a glove fight for the championship in seven rounds, lasting about 16 minutes 25 seconds.",
+      "excerpt": "Tbe battle lasted ahogether srxiecco\nminutes amd twent) fve seconds",
+      "date": "1877-10",
+      "date_precision": "approx",
+      "people": ["Tompkins Gilbert"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "Pat Mullins and J. Driscoll were Tom Allen's seconds in his glove fight with Tompkins Gilbert.",
+      "excerpt": "Bat Mullins and J. Driscoll, while Gilbert was",
+      "date": "1877-10",
+      "date_precision": "approx",
+      "people": ["Pat Mullins", "J. Driscoll", "Tompkins Gilbert"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Tompkins Gilbert",
+      "date": "1877-10",
+      "date_precision": "approx",
+      "place": "",
+      "result": "win",
+      "rounds": "7",
+      "duration": "16 min 25 sec",
+      "stakes": "championship",
+      "rules": "gloves",
+      "excerpt": "Tbe battle lasted ahogether srxiecco\nminutes amd twent) fve seconds",
+      "reported_as": "report",
+      "notes": "Duration is garbled in the OCR (srxiecco minutes amd twent) fve seconds); 16 min 25 sec is a low-confidence reading. Date is not in this article; taken from the 1877-11-21 account (London Sporting Life of Oct 31). Gilbert would not come back after the seventh round."
+    }
+  ],
+  "notes": "Report from the London Sportsman. The paper's remark that Allen's condition was not the best is paraphrase, not Allen's words, so it is not recorded."
+}

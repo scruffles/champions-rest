@@ -1,0 +1,47 @@
+{
+  "id": "150",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he told Dutch Niel he would give $50 towards a purse for a contest between Niel and Johnnie Daly.",
+      "excerpt": "him,’’ said Tom, ‘‘that I would give $50 towards a purse for such ae contest,",
+      "date": "1892-11-11",
+      "date_precision": "day",
+      "people": ["Dutch Niel", "Johnnie Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen denied that he would furnish a $500 side bet for Dutch Niel, and said he was not prepared to wager $500 on the result.",
+      "excerpt": "assaying I would furnish a $500 side bet for him.",
+      "date": "1892-11-11",
+      "date_precision": "day",
+      "people": ["Dutch Niel", "Johnnie Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Dutch Niel said he had been given to understand that Tom Allen would furnish a stake for him in a contest with Johnnie Daly.",
+      "excerpt": "given to under-\n|} stand that Allen would furnisha stake for",
+      "date": "1892-11-11",
+      "date_precision": "day",
+      "people": ["Dutch Niel", "Tom Allen", "Johnnie Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I would like to see ‘‘Dutch’’ and Johnnie brought together, Dut I am not prepared to wager $500 on the result.",
+      "topic": "denies backing Niel for $500"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen's denial of the $500 backing; Niel's statement that he had been given to understand Allen would back him is his own claim. The paper dates the interview 'yesterday', so 1892-11-11."
+}

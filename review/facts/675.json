@@ -1,0 +1,19 @@
+{
+  "id": "675",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was rumored to be on his way to the Saturday night sparring at Tom Kelley's parlors, but did not appear.",
+      "excerpt": "is rumored is on the way, would be on hand.",
+      "date": "1882-12-16",
+      "date_precision": "day",
+      "people": ["Tom Kelley"],
+      "places": ["Tom Kelley's parlors, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen only appears as a rumored visitor who did not turn up. Paper dated 1882-12-17; 'last night' is Saturday 1882-12-16."
+}

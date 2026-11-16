@@ -1,0 +1,23 @@
+{
+  "id": "151",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "A sketch in Annie Bronson King's book The Children of the Slums opens at \"Tom Allen's\" on a Saturday night; the reviewer says the place described is not Tom Allen's.",
+      "excerpt": "The\nplace described is not Tom Allen’s, and the\nwoman does not behave",
+      "date": "1893",
+      "date_precision": "year",
+      "people": [
+        "Annie Bronson King"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Book review; Allen's saloon is only the named setting of a fictional sketch, and the reviewer says it is not accurate."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "386",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A fight between Charley Gallagher and Tom Allen was in contemplation in February 1869 and did not come off.",
+      "excerpt": "a fight between Chas. Gallagher and Tom Al-\nlen being in contemplation",
+      "date": "1869-02-25",
+      "date_precision": "day",
+      "people": ["Charley Gallagher", "John Williams", "William Pendergast"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "According to Tom Kehoe's testimony, Allen and his agent came the next day with $1,000 to back the Gallagher fight.",
+      "excerpt": "Allen and his agent came next day with $1,000.",
+      "date": "1869-02",
+      "date_precision": "month",
+      "people": ["Tom Kehoe", "Mike McCoole"],
+      "places": ["McCoole's saloon, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "John Williams sued Tom Kehoe and Mike McCoole, the stakeholders of a $30 bet on the proposed Allen-Gallagher fight, and the court gave judgment for the defendants.",
+      "excerpt": "and Tom Kehve and Mike McCoole, defendants.",
+      "date": "1870-02-23",
+      "date_precision": "day",
+      "people": ["John Williams", "Tom Kehoe", "Mike McCoole", "William Pendergast"],
+      "places": ["Circuit Court No. 2"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Trial date from 'yesterday' (paper dated 1870-02-24). Judgment is from the headline 'Judgment for McCoole'; the ruling text is garbled. Kehoe's testimony names Allen and his agent, not Pendergast, as bringing the $1,000; the hint's Pendergast detail is garbled in the text."
+}

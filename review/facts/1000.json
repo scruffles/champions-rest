@@ -1,0 +1,136 @@
+{
+  "id": "1000",
+  "claims": [
+    {
+      "kind": "family",
+      "statement": "Tom Allen announced he would marry Mrs. Tillie Hartgrove, 21, a trained nurse, on April 23, 1903, his 65th birthday.",
+      "excerpt": "April 23, his. 65th birthday, he would ‘marry Mrs. Tillie",
+      "date": "1903-04-23",
+      "date_precision": "day",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen had been ill for several months, and his nurse Tillie Hartgrove had been attending him.",
+      "excerpt": "who has been attending him in an illness of several months",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen is a native of England.",
+      "excerpt": "The bride-to-be, Mrs. Hartgrove, like her future husband, is a native of England.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": ["England"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was known locally for a score of years as a retired champion pugilist of England and America.",
+      "excerpt": "Tom Allen, well known localy for a scoré.of years as a retired",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England", "America"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen has been a widower for thirty years.",
+      "excerpt": "Allen has been a widower for thirty years",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen defeated Charlie Davis on April 17, 1878, in what the paper calls his first battle.",
+      "excerpt": "His first battle was with Charlie Davis April 17, 1878, whom he defeated in",
+      "date": "1878-04-17",
+      "date_precision": "day",
+      "people": ["Charlie Davis"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCool for championship honors in America, a fight remembered by old-time St. Louis sports; a purse of $2000 was raised.",
+      "excerpt": "Allen’s fight with Mike McCool for cham-\n wengesy 34 honors in America is remembered",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCool"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen conducted the Champions' Rest, a combined saloon and concert hall.",
+      "excerpt": "a combined saloon! and con-\nert hall, conducted by Allen",
+      "date": "1903-03",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Mrs. Tillie Hartgrove, Allen's future wife, was born in Manchester and came to St. Louis at the age of nine.",
+      "excerpt": "was born in Manchester, and came to Et. Louis at the age of 9 years.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": ["Manchester", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charlie Davis",
+      "date": "1878-04-17",
+      "date_precision": "day",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "championship of England",
+      "rules": "",
+      "excerpt": "His first battle was with Charlie Davis April 17, 1878, whom he defeated in",
+      "reported_as": "recollection",
+      "notes": "Rounds are unreadable in the OCR ('test eon'). The hint's five rounds is not in the text."
+    },
+    {
+      "opponent": "Mike McCool",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "purse of $2000 raised",
+      "rules": "",
+      "excerpt": "Allen’s fight with Mike McCool for cham-\n wengesy 34 honors in America is remembered",
+      "reported_as": "recollection",
+      "notes": "Text is cut off: no date, place or result. The word 'championship' is garbled in the OCR."
+    }
+  ],
+  "notes": "Hints about the McCool fight location and the Baptist Hospital illness come from the page continuation, which is not in this text, so they are dropped. The 'wrongly calls it his first battle' remark is not in the text and is dropped."
+}

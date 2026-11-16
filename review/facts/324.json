@@ -1,0 +1,127 @@
+{
+  "id": "324",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "The Republic reported Tom Allen's age as twenty-eight.",
+      "excerpt": "Allen's age is tweniy-eight, and his fighting weight one hundred and sixty-four",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The Republic gave Tom Allen's fighting weight as 164 pounds.",
+      "excerpt": "Allen's age is tweniy-eight, and his fighting weight one hundred and sixty-four",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "After the fight Tom Allen had only a slight abrasion of the lower lip.",
+      "excerpt": "except a alight abrasion of the lower lip",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole on June 15, 1869; the referee's decision went to McCoole.",
+      "excerpt": "But the decision of the referee 1. McCoole’s favor seemingly",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "After the referee's decision, a crowd went to Tom Allen's saloon and the Concert Saloon was liberally patronized.",
+      "excerpt": "Tom Allen's saloon to do the same things there.",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Fifth Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Friends of Tom Allen in St. Louis were preparing a complimentary benefit sparring exhibition for him.",
+      "excerpt": "friends of Allen, in this city, are preparing to tem ler him a compliment",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen said the stakes would not be given up and that the whole excursion money had been pledged to him.",
+      "excerpt": "that the stakes would not be given up, and that the whole of the ex-cursion money had been pledged to him.",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said any future match with McCoole must be at least 200 miles from St. Louis.",
+      "excerpt": "the battle does not take place within less than two hundred miles fom St. Louis",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "now just in my prime, and shal!’be for two years yet; but ufterthat the path goes down bill, and a man’s fighting days ar over.",
+      "topic": "his fighting career"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "it was he who was frightened, and when he came up to me in the ring with the money to bet, his hand trembled, and then I knew that [had him.",
+      "topic": "McCoole's nerve"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I bad rather fight him than est this sandwich, for there is more fom in it.",
+      "topic": "eagerness to fight McCoole"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "But the decision of the referee 1. McCoole’s favor seemingly",
+      "reported_as": "report",
+      "notes": "Referee decided for McCoole per this article; Allen says he had whipped him. Place not given."
+    }
+  ],
+  "notes": "Interview after the fight; age and weight as printed (OCR)."
+}

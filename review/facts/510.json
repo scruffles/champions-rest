@@ -1,0 +1,30 @@
+{
+  "id": "510",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's Free and Easy saloon at 117 Washington avenue was advertised as the best place of amusement in the city.",
+      "excerpt": "Tom Allen's Freeand Easy 117 Washington avenue, is the best",
+      "date": "1874-11-21",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["117 Washington avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's Free and Easy advertised the latest songs every night, with the champion keeping order.",
+      "excerpt": "Latest songs of the day can be heard every night. The champion will keep order.",
+      "date": "1874-11-21",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["117 Washington avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "This is a paid advertisement in the Post-Dispatch, not news. The OCR is poor, so the wording is as read."
+}

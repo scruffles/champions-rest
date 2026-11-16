@@ -1,0 +1,30 @@
+{
+  "id": "657",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Richard K. Fox deposited money with Harry Hill (amount printed as '$1,') as part of a challenge on Tom Allen's behalf.",
+      "excerpt": "Richard K. Fox has deposited. with Harry Hill $1, and",
+      "date": "1882-10-30",
+      "date_precision": "day",
+      "people": ["Richard K. Fox", "Harry Hill"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Richard K. Fox issued a challenge offering to back Tom Allen, the ex-champion of America, to fight any pugilist, John L. Sullivan preferred, for the championship of the world, within three months of signing articles.",
+      "excerpt": "sued a challenge offering to ack Tom Alep, the ¢x-champion of",
+      "date": "1882-10-30",
+      "date_precision": "day",
+      "people": ["Richard K. Fox", "John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Same challenge as in 655; the deposit amount is printed as '$1,' and the OCR is garbled in places."
+}

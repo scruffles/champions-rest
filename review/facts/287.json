@@ -1,0 +1,92 @@
+{
+  "id": "287",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "John C. Heenan and James Mace visited Tom Allen's concert room on Washington avenue in St. Louis.",
+      "excerpt": "ind Tom Allen's ¢oncert room on Washington avenue.",
+      "date": "1870-03-22",
+      "date_precision": "day",
+      "people": ["John C. Heenan", "James Mace"],
+      "places": ["Washington Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was a resident of St. Louis in March 1870.",
+      "excerpt": "Tom Allen, who now wears the colors of champion, is alsoa denizem here.",
+      "date": "1870-03-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "In March 1870 Tom Allen was described as wearing the colors of champion.",
+      "excerpt": "Tom Allen, who now wears the colors of champion",
+      "date": "1870-03-23",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher won a match against Tom Allen; the date is not given.",
+      "excerpt": "Charley Gallagher, who won a match\nwith Alien",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was matched to fight James Mace on May 10, 1870.",
+      "excerpt": "sattle with Tom Allen on the 10th of May.",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["James Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Charley Gallagher, who won a match\nwith Alien",
+      "reported_as": "report",
+      "notes": "Date and details not given; the text says Gallagher won a match with Allen, so Allen's result is inferred as a loss."
+    },
+    {
+      "opponent": "James Mace",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "sattle with Tom Allen on the 10th of May.",
+      "reported_as": "report",
+      "notes": "Matched for 10 May 1870; place not given here. The text says Mace would train at New Orleans first. Outcome not in this article."
+    }
+  ],
+  "notes": "Mostly about the Heenan-Mace exhibition, which is not about Allen. Allen's concert room visit and the Gallagher and Mace matches are the Allen-related items."
+}

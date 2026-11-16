@@ -1,0 +1,67 @@
+{
+  "id": "429",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen wrote from St. Louis, in a letter dated January 1871, that he had challenged Joe Coburn ten times and that Coburn never answered.",
+      "excerpt": "lenged Coburn ten times since I have beet\ncountry, and he neyer answered any of my",
+      "date": "1871-01",
+      "date_precision": "month",
+      "people": ["Frank Queen", "Joe Coburn"],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen said he had been in America for several years and was no longer a foreigner (the number of years is not readable).",
+      "excerpt": "I have been in this cuuntry néarly for",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["United States"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen offered to give Joe Coburn $200 to withdraw from his match with Jem Mace, and to stake $3,000 to fight Coburn on the same day, the 11th of April (printed as '1th of A:'), about fifty miles from Detroit.",
+      "excerpt": "Lwili give bi $200 to draw ont of thi\nwith Mace, and I will etake {183000 to",
+      "date": "1871-04",
+      "date_precision": "month",
+      "people": ["Joe Coburn", "Jem Mace"],
+      "places": ["Detroit, Michigan"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen had fights with Jem Mace, which Joe Coburn had mentioned; the place and result are not readable.",
+      "excerpt": "Coburn mentioned my fighs with Mace at\nlenns,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace", "Joe Coburn"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Coburn mentioned my fighs with Mace at\nlenns,",
+      "reported_as": "recollection",
+      "notes": "Passing mention in Allen's letter; place, date and result are not readable."
+    }
+  ],
+  "notes": "Letter from Allen to the Clipper, printed in the Globe-Democrat. The OCR is badly damaged; the hints' dates (1871-01-27) are not printed in the text, so only the month is used."
+}

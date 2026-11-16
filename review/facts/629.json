@@ -1,0 +1,25 @@
+{
+  "id": "629",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "John Dwyer said that if Tom Allen were brought over to America, Dwyer would, with his brother's consent, fight him for any sum up to $5,000 a side.",
+      "excerpt": "and fight him for any sum up to $5,000",
+      "date": "1879-05-17",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "John Dwyer",
+      "text": "I shall, with my brother's consent, be willing to niget him and fight him for any sum up to $5,000.",
+      "topic": "willing to fight Allen if brought over"
+    }
+  ],
+  "fights": [],
+  "notes": "Dwyer's offer is conditional on Allen being brought over; the quote's first word is garbled in the OCR (printed as niget). Allen is not otherwise described."
+}

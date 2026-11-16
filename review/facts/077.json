@@ -1,0 +1,63 @@
+{
+  "id": "077",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "In May 1876 Tom Allen was living in St. Louis.",
+      "excerpt": "Tom Allen, now of St. Louis, to fight mc a",
+      "date": "1876-05",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss challenged Tom Allen, now of St. Louis, to a stand-up fight for $1,000 a side or more.",
+      "excerpt": "Tom Allen, now of St. Louis, to fight mc a Square stand-up fizit. atcording to the",
+      "date": "1876-05",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Goss proposed the fight be for the championship of the world under London prize ring rules.",
+      "excerpt": "rules of the London pris Pionship of the world",
+      "date": "1876-05",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The fight was to take place four months after articles were signed.",
+      "excerpt": "the iight to tak piace four months from the date of signi ticles.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen telegraphed Joe Goss that he would meet him in Cincinnati on May 12 (printed 'May i2') to draw up articles for a fight.",
+      "excerpt": "May i2to drznw up articles for a fight with that purty.",
+      "date": "1876-05-03",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The challenge is Joe Goss's letter, printed in the paper; its date line is unreadable. Date of the challenge taken as May 1876."
+}

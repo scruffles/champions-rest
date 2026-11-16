@@ -1,0 +1,19 @@
+{
+  "id": "602",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Jack Knifton of Manchester were matched to fight for £200 a side and the championship of the world, in England, in about four weeks, in light gloves at catch weights under London Prize Ring rules.",
+      "excerpt": "matched to fight for £200\na side and the championship of the world.",
+      "date": "1878-01",
+      "date_precision": "approx",
+      "people": ["Jack Knifton"],
+      "places": ["England"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Match was agreed but no result is printed; not a fight entry. Date is planned, about four weeks after the 1877-12-09 paper."
+}

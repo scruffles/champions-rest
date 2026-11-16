@@ -1,0 +1,63 @@
+{
+  "id": "1002",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "A bill of sale for the Champion's Rest was given to J. W. L. Gillespie on Monday evening, March 30, 1903.",
+      "excerpt": "Murphy. NA bill of sale was given.to Gillesple",
+      "date": "1903-03-30",
+      "date_precision": "day",
+      "people": ["J. W. L. Gillespie"],
+      "places": ["Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "J. W. L. Gillespie recently acquired the Champion's Rest, a concert hall and saloon on Market Street, formerly owned by Tom Allen.",
+      "excerpt": "the “Champion’s Rest,’’ a concert hall and saloon on Market street, formerly owned by Tcm. Allen",
+      "date": "1903-03",
+      "date_precision": "approx",
+      "people": ["J. W. L. Gillespie"],
+      "places": ["Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was ill, and since his illness the Champion's Rest had been conducted by John Murphy.",
+      "excerpt": "Since Allen’s illness the place has been conducted by",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["John Murphy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "On April 2, 1903, John Murphy, the bartender, met J. W. L. Gillespie with a revolver at the Champion's Rest when Gillespie tried to take possession.",
+      "excerpt": "encountered John Murphy, ‘the bartender, armed with a\\revolver, when he went to take",
+      "date": "1903-04-02",
+      "date_precision": "day",
+      "people": ["John Murphy", "J. W. L. Gillespie"],
+      "places": ["Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Gillespie said several doctors were present at the Baptist Hospital when Allen read and signed the papers.",
+      "excerpt": "Several doctors were prese at \\the Baptist\\bospital\\when",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["J. W. L. Gillespie"],
+      "places": ["Baptist Hospital"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Murphy's claim that Polly Taylor said Allen was non compos mentis, and Gillespie's account that Allen wanted the place transferred, are in garbled print and are not recorded. Polly Taylor is only a 'near relative' here."
+}

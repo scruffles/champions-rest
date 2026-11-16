@@ -1,0 +1,19 @@
+{
+  "id": "036",
+  "claims": [
+    {
+      "kind": "family",
+      "statement": "Tom Allen has a pretty sister who teaches school in Corydon, Indiana.",
+      "excerpt": "Tom Allen, the prize-fighter, has a pretty sister teaching school in Corydon, Ind.",
+      "date": "1870-06",
+      "date_precision": "month",
+      "people": ["unknown"],
+      "places": ["Corydon, Indiana"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only item about Allen; the rest of the page is unrelated. Hint checked and kept."
+}

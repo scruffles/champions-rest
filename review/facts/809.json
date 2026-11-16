@@ -1,0 +1,36 @@
+{
+  "id": "809",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Jack King says he has $50 in Tom Allen's hands for a fight between Allen and Mike Boden, and asks Allen to cover it and arrange a match.",
+      "excerpt": "Thave $50in Tom Allen’s hands to fight\nMike Boden, any style he may mention.",
+      "date": "1891-01-17",
+      "date_precision": "approx",
+      "people": ["Jack King", "Mike Boden"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "According to Jack King, Tom Allen has been talking about fighting anybody in St. Louis.",
+      "excerpt": "He has been talking about fighting anybody in\nSt. Louls.",
+      "date": "1891-01-17",
+      "date_precision": "approx",
+      "people": ["Jack King"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Jack King",
+      "text": "He has been talking about fighting anybody in St. Louls. Now, ifhe means fight let him cover this money and arrange a match for a purse and stake.",
+      "topic": "challenge to Allen and Boden"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen appears only in Jack King's letter; the claim is one side's. The letter is undated; printed 1891-01-17."
+}

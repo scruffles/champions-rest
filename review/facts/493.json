@@ -1,0 +1,98 @@
+{
+  "id": "493",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "A Madison County, Illinois, writ ordered the sheriff to take Tom Allen and others to the circuit court at Edwardsville to answer an indictment for prize-fighting in the Allen-McCoole fight, returnable Monday, Nov. 3.",
+      "excerpt": "Thoinas Allen, Michael MeCoole, Patsey Shep-\npard, Arthur Chambers,",
+      "date": "1873-10",
+      "date_precision": "month",
+      "people": ["Mike McCoole", "Arthur Chambers", "John Looney"],
+      "places": ["Edwardsville, Illinois"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "John Renshaw of St. Clair County swore an affidavit that Tom Allen and Ben Hogan were about to fight in Illinois, and asked for warrants against them and their backers.",
+      "excerpt": "Lom Allen aud Ben Hogan are about to engage",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["John Renshaw", "Ben Hogan"],
+      "places": ["St. Clair County, Illinois"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen's fight with Ben Hogan at East St. Louis on October 28, 1873 came to nothing, and Allen was disgusted at the fizzle.",
+      "excerpt": "Heexpvessed lis tieody disgust at the\nblondy fizzle they madinede of it.",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": ["East St. Louis, Illinois"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen came back to St. Louis the night of the failed Hogan fight and met a reporter in the direction of Looney's resort.",
+      "excerpt": "bit sallied forthin the direction of Loovey's",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Jack Looney"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole in 1873, and the fight led to an Illinois indictment against Allen for prize-fighting.",
+      "excerpt": "This, it willbe seen, refers to the Ailen-Mc-",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "there’s more days in # year than\none.",
+      "topic": "after the failed Hogan fight"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "place": "East St. Louis, Illinois",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Heexpvessed lis tieody disgust at the\nblondy fizzle they madinede of it.",
+      "reported_as": "report",
+      "notes": "Did not take place; the Republic describes it only as a fizzle."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "year",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "This, it willbe seen, refers to the Ailen-Mc-",
+      "reported_as": "report",
+      "notes": "Result and date not given in this article."
+    }
+  ],
+  "notes": "Thoinas Allen and Ailen are OCR for Thomas Allen and Allen. The quote is the paper's report of Allen speaking in the Republic's 'At Allen's Place' column."
+}

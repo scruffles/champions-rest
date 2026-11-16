@@ -6,7 +6,8 @@ When committing and pushing changes, always update `CHANGELOG.md`:
 
 - Add a dated entry under the most recent date header (or create a new one if the date changed) describing what was added, changed, or fixed
 - Keep entries concise — one line per change
-- If a backlog item was completed, remove it from the Backlog section
+- Keep the Backlog current: remove items when they are done, update items when part of the work is done or the plan changes, and add new work the user asks for. Check an item against the data before trusting it; don't let done or obsolete items linger
+- Keep the Status section at the bottom current: whenever articles, crops, full pages, transcripts or the missing-pages list change, recount from the data (not by adjusting the old numbers) and update the table and its "As of" date
 
 ## Build
 
@@ -45,6 +46,18 @@ Every article was reviewed (crop, OCR, title, summary, importance, tags, facts) 
 Commands (`npm run review -- …`): `status`, `prep <ids>`, `validate [ids]`, `set <status> <ids>`, `issues`, `init` (re-sync with the database, keeps statuses).
 
 Hand transcripts are in `review/work/<id>/transcript.txt` (gitignored). Agents stop when the usage limit is hit; resume them with SendMessage rather than restarting.
+
+## Facts Index
+
+Facts, quotes and fights from every article, each with an excerpt checked against the text. Pipeline (instructions in `.claude/skills/index-facts/`):
+
+1. `scripts/facts-tools.cjs prep|batches|verify` — Haiku follows `EXTRACT.md` and writes `review/facts/<id>.json`; `verify` checks every excerpt against the text.
+2. `scripts/facts-names.cjs build` — joins name spellings into `review/facts-index/names.json`; decisions in `aliases.json`.
+3. `scripts/facts-group.cjs index`, then `bouts` (fight entries into bouts, seeded by `bout-seeds.json`; its `ref` is the Biography's `<Fight id>`), then `buckets` → Haiku follows `GROUP.md` → `check`, `existing` (for the undated buckets), `merge`.
+4. Fixes after grouping: `fact-joins.json` (same episode in two buckets), `fact-seeds.json` (pin a `data/facts.js` id to a fact), `manual-facts.json` (claims added by hand), `fact-disputes.json` (split a fact into versions that name each other in `disputed`). Re-run `merge`. In `bout-seeds.json`, `result` fixes a bout's main result; other results given stay under the fight's `disputed`.
+5. `build` writes draft `facts.js`, `fights.js` and `quotes.js` to `review/facts-index/draft/`. Copy them to `data/` only after the user approves.
+
+For a new article: `prep` and extract it, then re-run steps 2–5 (add its claims to a fact with `manual-facts.json` or a join rather than re-grouping everything).
 
 ## Clippings
 

@@ -1,0 +1,52 @@
+{
+  "id": "626",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Johnny Dwyer, after beating Jimmy Elliott, said he wanted to fight Tom Allen.",
+      "excerpt": "that man is Tom Alein. He has talked",
+      "date": "1879-05",
+      "date_precision": "approx",
+      "people": ["Johnny Dwyer", "Jimmy Elliott"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Johnny Dwyer said he was willing to go to England to fight Tom Allen.",
+      "excerpt": "willing vo goright to Engtand to fizht him.",
+      "date": "1879-05",
+      "date_precision": "approx",
+      "people": ["Johnny Dwyer"],
+      "places": ["England"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Johnny Dwyer offered to send £10 to the editor of Bell's Life in London as a forfeit for a match with Tom Allen.",
+      "excerpt": "Please say thatl will send £10 to the editor",
+      "date": "1879-05",
+      "date_precision": "approx",
+      "people": ["Johnny Dwyer"],
+      "places": ["London"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Johnny Dwyer",
+      "text": "He has talked about me and maligned me in the inest scandalous manner, and I would just like to get mim before me in a twenty-tour foot ring.",
+      "topic": "wants to fight Allen, who had maligned him"
+    },
+    {
+      "speaker": "Jimmy Elliott",
+      "text": "Il’m yiad that it wus Dwyer and not Tom Allen who licked me. 1 hope Jolunny will fight Alien",
+      "topic": "glad Dwyer beat him, not Allen"
+    }
+  ],
+  "fights": [],
+  "notes": "The Dwyer interview was printed from Buffalo, May 9, and says 'the other evening', so the date is approximate (the hint's 1879-05-08 is not in the text). The Dwyer-Elliott fight is not Allen's and is not recorded. Elliott's remark is included as a quote about Allen. The hint's 'promising to back Dwyer' is not in the text, so it is left out."
+}

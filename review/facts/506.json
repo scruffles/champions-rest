@@ -1,0 +1,78 @@
+{
+  "id": "506",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Talk of a match between Tom Allen and Jem Mace was circulating in sporting circles.",
+      "excerpt": "sporting circles are more agitated than ever over two or three projected battles, the, most— important of which is that betweenflom Allen and JemeMace.",
+      "date": "1874-02",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was said to propose a speculating tour of his native country, which was the cause of the anticipated match with Mace.",
+      "excerpt": "It is hinted that Tom proposes visiting his native country on aspeculating tour",
+      "date": "1874-02",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "A Post-Dispatch reporter called at Tom Allen's hostelrie at noon and found Jack Madden there while Allen was out.",
+      "excerpt": "dropped inte the Chiinpion’s hostelrie, at noon to-day",
+      "date": "1874-02-24",
+      "date_precision": "day",
+      "people": ["Jack Madden"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Arthur Chambers was coming on to stand trial before the Illinois authorities for seconding Tom Allen in his last fight with Mike McCoole.",
+      "excerpt": "before the Illinois authorities for seconding Allen in his last fght with Mike MeCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Arthur Chambers", "Mike McCoole"],
+      "places": ["Illinois"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen's last fight was with Mike McCoole, and Arthur Chambers seconded him.",
+      "excerpt": "for seconding Allen in his last fght with Mike MeCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole", "Arthur Chambers"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "for seconding Allen in his last fght with Mike MeCoole",
+      "reported_as": "report",
+      "notes": "Mentioned only in passing as Allen's last fight. Result and place not given."
+    }
+  ],
+  "notes": "Rumours of a Mace match. The Madden item is about Allen's hostelrie. Tom's own words are not quoted."
+}

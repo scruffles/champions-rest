@@ -1,0 +1,30 @@
+{
+  "id": "412",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen intimated to his friends that he would not accept McCoole's last challenge to fight for the belts, saying he could not afford a month or two of training for a fight with no money to win.",
+      "excerpt": "intimated that he will not accept MeCoole’s last challenge to tight for the belts.",
+      "date": "1870-07",
+      "date_precision": "month",
+      "people": ["McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Rumours from New York of a $1,000-a-side match between Tom Allen and Joe Goss of England, said to have been made by Joe Coburn and Jim Mace, were treated as moonshine; Allen said no match had been made and he had no information on the subject.",
+      "excerpt": "Tom Alien and Joe Goes, of England. alleged to hare been made by Joe Coburn and Jim Mace for",
+      "date": "1870-07",
+      "date_precision": "month",
+      "people": ["Joe Goss", "Joe Coburn", "Jim Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint 2 reads Joe Goes as Joe Goss, which is an obvious OCR fix. Allen's reason for refusing is paraphrased, not quoted."
+}

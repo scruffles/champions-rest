@@ -1,0 +1,221 @@
+{
+  "id": "242",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was British-born.",
+      "excerpt": "This was Tom Allen, British-born, former champion of the world",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was a cold-eyed Englishman of about 170 pounds and lately champion around 1873.",
+      "excerpt": "There was Tom Allen, a cold-eyed Englishman of 170 pounds, lately champion",
+      "date": "1873",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost the world heavyweight title to Mike McCoole on a foul in 1869, after thugs cut the ropes and intimidated the referee.",
+      "excerpt": "had cut the ropes when it was certain McCoole could not win, intimidating the referee into declaring McCoole victor on a foul",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in seven rounds on Chouteau Island on September 23, 1873, regaining the world heavyweight title.",
+      "excerpt": "The end came in the seventh round with Mike virtually blind in both eyes",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The article says Tom Allen was the only man in heavyweight championship history to lose his title and regain it.",
+      "excerpt": "the only man in the history of the heavyweight championship to lose his title and regain it",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole loaned Tom Allen $200 to cover Allen's share of the $1,000 side bet placed with referee John Looney before the 1873 fight.",
+      "excerpt": "McCoole, when he found Allen had only $800 cash to cover his own $1000, loaned Allen the extra $200",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole", "John Looney"],
+      "places": ["Chouteau Island, near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Johnny Daly was Tom Allen's handler at the 1873 fight with Mike McCoole.",
+      "excerpt": "He asked his handler, Johnny Daly, for a file",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Johnny Daly"],
+      "places": ["Chouteau Island, near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost his world title to Joe Goss in a fight near Louisville, Kentucky, three years after the 1873 McCoole fight.",
+      "excerpt": "Allen, three years later, had his title wrested from him in a desperate struggle near Louisville by Joe Goss",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": ["near Louisville, Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "After losing his title, Tom Allen retired to his public house.",
+      "excerpt": "Allen soon retired to his public house, where he continued to be a factor",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was called the Champion's Rest and kept running in a milder way until the day of his death.",
+      "excerpt": "continued to function in a milder way, strictly in an Allenesque manner, to the day of his demise",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was on Market Street, east of Seventh Street, in St. Louis.",
+      "excerpt": "Allen's place was on Market, east of Seventh",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Market Street, east of Seventh Street, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died in 1905.",
+      "excerpt": "right down to his death in 1905",
+      "date": "1905",
+      "date_precision": "year",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen backed Artie Flint in Flint's fight against Hugh McManus near St. Clair, Missouri, on April 16, 1888.",
+      "excerpt": "since old Tom was back of Flint and Tom Kelly, who seconded McCoole in the old days, was in McManus' corner",
+      "date": "1888-04-16",
+      "date_precision": "day",
+      "people": ["Artie Flint", "Hugh McManus", "Tom Kelly"],
+      "places": ["six miles from St. Clair, Missouri"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The day after the Flint fight, a Post-Dispatch reporter interviewed Tom Allen at his saloon.",
+      "excerpt": "The next day, in his saloon, the Post-Dispatch reporter interviewed Allen.",
+      "date": "1888-04-17",
+      "date_precision": "day",
+      "people": ["Artie Flint"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Tom, it's a bloody shame to put such a man up before me—take him out.",
+      "topic": "urging Kelly to stop the McCoole fight"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "no title, decided under any other than London prize-ring rules, with the 'raw 'uns,'",
+      "topic": "against gloves and the Queensberry code"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "The bloody quitter!",
+      "topic": "calls Artie Flint a quitter"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "world heavyweight title",
+      "rules": "",
+      "excerpt": "had cut the ropes when it was certain McCoole could not win, intimidating the referee into declaring McCoole victor on a foul",
+      "reported_as": "recollection",
+      "notes": "Only mentioned in passing; no place, rounds or rules given. Result was a foul."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "Chouteau Island, near St. Louis",
+      "result": "win",
+      "rounds": "7",
+      "duration": "16 minutes",
+      "stakes": "world heavyweight title; $4,000 purse and gate money (about $2,040); $1,000 side bet",
+      "rules": "bare knuckles",
+      "excerpt": "The end came in the seventh round with Mike virtually blind in both eyes",
+      "reported_as": "recollection",
+      "notes": "Retrospective account from 1928. The 16 minutes includes the 30-second intermissions."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1876",
+      "date_precision": "year",
+      "place": "near Louisville, Kentucky",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "world heavyweight title",
+      "rules": "",
+      "excerpt": "Allen, three years later, had his title wrested from him in a desperate struggle near Louisville by Joe Goss",
+      "reported_as": "recollection",
+      "notes": "Year worked out from 'three years later' than 1873."
+    }
+  ],
+  "notes": "1928 retrospective; Flint 1888 and Kelly/Daly material is about others but Allen is named in each. Dates for 1869 and 1876 are approximate from passing mentions."
+}

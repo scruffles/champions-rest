@@ -1,0 +1,19 @@
+{
+  "id": "416",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Punch Morris and Owen Meeker, quartered at the Wash Home, were to be trained by the trainer of Tom Allen.",
+      "excerpt": "Morris and Meeken are quartered at the Wash Home, and will be trained",
+      "date": "1870-08-10",
+      "date_precision": "day",
+      "people": ["Punch Morris", "Owen Meeker"],
+      "places": ["Wash Home"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The sentence about Allen's trainer and Mace is garbled (\"~ be the\"), so the Mace reference is not used. The trainer is not named in the text, so the hint's Goldwin/Goulding is dropped."
+}

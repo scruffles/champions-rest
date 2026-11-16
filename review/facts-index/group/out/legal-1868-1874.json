@@ -1,0 +1,159 @@
+{
+  "bucket": "legal-1868-1874",
+  "facts": [
+    {
+      "fact": "In September 1868 Tom Allen was arrested and put under £1,000 bonds, which ended the planned fight with Joe Goss.",
+      "date": "1868-09",
+      "seed": "",
+      "conflict": "name: 283.c6 gives the arrested man as Harry Allen",
+      "claims": ["283.c6"]
+    },
+    {
+      "fact": "In December 1868 Tom Allen was arrested in Cleveland for violating the prize-fighting laws, and the court held that training for a prize fight was not a violation of state law, so he was discharged.",
+      "date": "1868-12-30",
+      "seed": "",
+      "conflict": "",
+      "claims": ["005.c1", "005.c2"]
+    },
+    {
+      "fact": "On 14 May 1869 Tom Allen was arrested in Cincinnati for training for a prize fight in Ohio, gave bonds not to fight in Ohio within a year, and was released to go back to training.",
+      "date": "1869-05-14",
+      "seed": "038",
+      "conflict": "",
+      "claims": ["317.c1", "015.c1", "015.c2", "465.c30"]
+    },
+    {
+      "fact": "In June 1869 Referee Val McKinney swore that Sherman Thurston and Billy Carroll offered to let him name his price to decide a fight for them; Carroll offered $100 to any man who would say he had offered to bribe McKinney, and Thurston, Carroll, B. Riley and James Stewart swore counter-affidavits; the stakes stayed with the men holding them under legal process.",
+      "date": "1869-06-15",
+      "seed": "",
+      "conflict": "",
+      "claims": ["326.c2", "326.c3", "326.c4"]
+    },
+    {
+      "fact": "In 1870 a sheriff and his deputies broke up the Allen-Goss fight, and the fighters fled to an adjoining county.",
+      "date": "1870",
+      "seed": "",
+      "conflict": "",
+      "claims": ["273.c3"]
+    },
+    {
+      "fact": "In February 1870 John Williams sued Tom Kehoe and Mike McCoole, the stakeholders of a $30 bet on the proposed Allen-Gallagher fight, and the court gave judgment for the defendants.",
+      "date": "1870-02-23",
+      "seed": "",
+      "conflict": "",
+      "claims": ["386.c3"]
+    },
+    {
+      "fact": "After their 1869 fight, Tom Allen sued to recover his stake money, and in April 1870 he and Mike McCoole compromised their claims to the excursion money, McCoole taking $1,232.50 and Allen $1,000.",
+      "date": "1870-04",
+      "seed": "",
+      "conflict": "date: 643.c5 gives the suit as 1869; 031.c1 and 031.c2 (1870-04) describe the lawsuit and the compromise together",
+      "claims": ["643.c5", "031.c1", "031.c2"]
+    },
+    {
+      "fact": "On 1 November 1870 Tom Allen was arrested on the steamboat Belle Ida and held in the calaboose; a planned Allen-Gallagher fight set for that Tuesday was spoiled by police interference. Daniel B. Stephens petitioned for a writ of habeas corpus, Judge Stewart of the Court of Criminal Correction attached Chief of Police James McDonough for contempt, and McDonough surrendered Allen to the court, which discharged him with no charges made against him. Allen's lawyer, Mr. Voullaire, said a report that Allen would sue the city for false imprisonment was untrue.",
+      "date": "1870-11-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["039.c1", "039.c2", "039.c3", "039.c4", "039.c5", "424.c2", "424.c4"]
+    },
+    {
+      "fact": "In early November 1870 a fight was arranged in secret so the police would not be told, and was held early in the morning.",
+      "date": "1870-11-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["425.c2"]
+    },
+    {
+      "fact": "In June 1871 Tom Allen was in Jem Mace's party at Wyandotte when Sheriff William Holcomb tried to capture them, and they were not taken; a rumour had Allen with Mace at Pleasant Hill, where the sheriff and deputies hunted for him.",
+      "date": "1871-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["042.c4", "043.c3"]
+    },
+    {
+      "fact": "On 20 May 1872 Nelson Adams died of a pistol wound from the accidental discharge of a pistol in Tom Allen's hands at Allen's saloon at 417 Washington Avenue; Allen ran for a physician and called the police.",
+      "date": "1872-05-20",
+      "seed": "",
+      "conflict": "",
+      "claims": ["446.c1", "446.c2"]
+    },
+    {
+      "fact": "Tom Allen's fights with Mike McCoole near St. Louis were indirectly responsible for the Missouri boxing statute of 1873, which made prize fighting a felony.",
+      "date": "1873",
+      "seed": "",
+      "conflict": "",
+      "claims": ["240.c5"]
+    },
+    {
+      "fact": "On 1 August 1873 Tom Allen was tried in the Court of Criminal Correction on a charge of assault to kill after Joseph P. Moore said Allen struck and kicked him in Allen's saloon; the judge discharged Allen on the evidence, and police officers were present to testify to his character but were not needed.",
+      "date": "1873-08-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["456.c1", "456.c2", "456.c3", "456.c4", "456.c5", "456.c6"]
+    },
+    {
+      "fact": "On 16 August 1873 Tom Allen was a witness for the defense in the Mollie McCoole case in Police Court.",
+      "date": "1873-08-16",
+      "seed": "",
+      "conflict": "",
+      "claims": ["458.c1"]
+    },
+    {
+      "fact": "On 21 and 22 September 1873 Tom Allen and Mike McCoole were arrested by detectives and released on $1,000 bonds each to keep the peace in Missouri for three months, the bonds being signed by John Whelan and William Brown for Allen and McCoole.",
+      "date": "1873-09-21",
+      "seed": "",
+      "conflict": "arrest time: 463.c1 gives Sunday night, 21 September, while 464.c2 gives the morning after McCoole's arrest, 22 September",
+      "claims": ["463.c1", "463.c2", "463.c3", "464.c2", "464.c3"]
+    },
+    {
+      "fact": "On 25 September 1873 Maj. Jones offered Tom Allen as a witness to prove that Mike McCoole was too sick to appear in James Scott's $900 debt suit in Judge Knight's court, St. Louis; the case was continued.",
+      "date": "1873-09-25",
+      "seed": "",
+      "conflict": "",
+      "claims": ["475.c1"]
+    },
+    {
+      "fact": "In October 1873 a Madison County, Illinois, writ ordered the sheriff to take Tom Allen and others to the circuit court at Edwardsville to answer an indictment for prize-fighting in the Allen-McCoole fight, returnable 3 November; in November Gov. Beveridge of Illinois issued requisitions for Allen, McCoole and others engaged in the September fight.",
+      "date": "1873-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["493.c1", "497.c1"]
+    },
+    {
+      "fact": "On 28 October 1873 John Renshaw of St. Clair County swore that Tom Allen and Ben Hogan were about to fight in Illinois and asked for warrants; on 29 October Illinois Gov. Beveridge sent Col. E. L. Higgins with a hundred stands of arms to East St. Louis to prevent the Allen-Hogan fight.",
+      "date": "1873-10-28",
+      "seed": "",
+      "conflict": "",
+      "claims": ["493.c2", "495.c4"]
+    },
+    {
+      "fact": "Allen said he could not fight in Missouri because of the bonds.",
+      "date": "1873-11-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["276.c7"]
+    },
+    {
+      "fact": "On 21 November 1873 Tom Allen and Arthur Chambers were arrested by St. Louis detectives on an Illinois requisition for the prize fight with Mike McCoole and held without bail at the Four Courts; on 28 November Allen put up $3,000 in greenbacks as collateral for the Illinois bail bond that freed Chambers.",
+      "date": "1873-11-21",
+      "seed": "",
+      "conflict": "",
+      "claims": ["498.c1", "498.c2", "499.c5"]
+    },
+    {
+      "fact": "Police Chief McDonough meant to push the Wash Home case against Tom Allen and his associates, but on 9 December 1873 Allen, Johnnie Smith, Sam Smith and Jim Eagan were discharged in Police Court over their Sunday chase after Ben Hogan.",
+      "date": "1873-12-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["501.c1", "502.c1", "503.c4"]
+    },
+    {
+      "fact": "On 24 January 1874 the Missouri governor signed the bill suppressing prize-fighting, which the Republic said dimmed Tom Allen's hopes in Missouri.",
+      "date": "1874-01-24",
+      "seed": "",
+      "conflict": "",
+      "claims": ["504.c1"]
+    }
+  ]
+}

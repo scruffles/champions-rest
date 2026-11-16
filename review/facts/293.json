@@ -1,0 +1,12 @@
+{
+  "id": "293",
+  "claims": [
+    {"kind": "fight", "statement": "A match between Tom Allen and Mike McCoole for March 17, 1868 was called off without any money being forfeited.", "excerpt": "to come offon the 17th, was Gngen Wi out any money being forfeited.", "date": "1868-03-17", "date_precision": "day", "people": ["Mike McCoole"], "places": [], "retrospective": false, "confidence": "medium"},
+    {"kind": "challenge", "statement": "Tom Allen intended to challenge the champion, or to accept McCoole's proposal to fight, and would go for the conqueror.", "excerpt": "Allen, who intends to chailenge the champion; or", "date": "1868-03", "date_precision": "month", "people": ["Mike McCoole"], "places": [], "retrospective": false, "confidence": "medium"}
+  ],
+  "quotes": [],
+  "fights": [
+    {"opponent": "Mike McCoole", "date": "1868-03-17", "date_precision": "day", "place": "", "result": "no contest", "rounds": "", "duration": "", "stakes": "$310 put up by backers (Rider and Pendergast for McCoole; Carroll, Looney and Roach for Allen); neither principal put up money", "rules": "", "excerpt": "to come offon the 17th, was Gngen Wi out any money being forfeited.", "reported_as": "report", "notes": "Match made by friends, then called off without forfeit. The OCR of the key verb ('Gngen Wi') is unclear; the title says it was called off."}
+  ],
+  "notes": "The challenge wording is badly garbled. The stake details are in the notes column of the fight entry. Other items on the page are not about Allen."
+}

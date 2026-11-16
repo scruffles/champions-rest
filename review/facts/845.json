@@ -1,0 +1,30 @@
+{
+  "id": "845",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place at 619 Market Street was advertised every evening, with the best singers engaged (the word after 'Free' is garbled in this OCR).",
+      "excerpt": "world, 619 Market street. Free fm port | every evening. Best of singers only engaged here.",
+      "date": "1892-04-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as a retired champion pugilist of the world (text garbled: 'champion pugilist of t').",
+      "excerpt": "Tom ALLEN, retirea champion pugilist of t world,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only, with heavy OCR damage. Allen does nothing else in the text."
+}

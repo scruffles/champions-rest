@@ -1,0 +1,19 @@
+{
+  "id": "555",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen, described as the champion, agreed to a glove contest with Tom Kelly at Kelly's benefit at the Theater Comique.",
+      "excerpt": "Tom Allen, the champion, <inclv consented to appear ina glove con- test wil Kelly",
+      "date": "1876-05-05",
+      "date_precision": "day",
+      "people": ["Tom Kelly", "Otto Burbank"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Glove contest at a benefit with no decision given; recorded as an exhibition, not a fight. OCR damage in the excerpt is as printed."
+}

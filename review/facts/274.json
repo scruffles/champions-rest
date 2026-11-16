@@ -1,0 +1,81 @@
+{
+  "id": "274",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Joe Goss around 1870 in Kentucky, when referee Eph Holland, said to be fixed, gave Goss the decision on a foul.",
+      "excerpt": "The referee, one Eph Holland, from Boston, was fixed to give Goss the decision, and he declared Goss the winner on a foul after the Englishman had beaten his adversary almost blind and insensible.",
+      "date": "1870",
+      "date_precision": "approx",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Fred Watkins, Allen's backer, lost $1,000 to referee Eph Holland, who took it to bet on Joe Goss.",
+      "excerpt": "Allen's backer, Fred Watkins, was victimized to the tune of $1,000 by Holland.",
+      "date": "1870",
+      "date_precision": "approx",
+      "people": ["Fred Watkins", "Eph Holland", "Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCool and beat him, but the referee called a foul and McCool later admitted he had been fairly beaten by Allen.",
+      "excerpt": "but the referee sprang the foul gag. McCool afterward acknowledged that he was fairly beaten by Allen.",
+      "date": "1870",
+      "date_precision": "approx",
+      "people": ["Mike McCool"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was an English boxer of science and renown.",
+      "excerpt": "Tom Allen, an English boxer of science and renown, was robbed of two hard-earned battles",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1870",
+      "date_precision": "approx",
+      "place": "Kentucky",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen met Goss in a ring pitched on the blueward of Kentucky.",
+      "reported_as": "recollection",
+      "notes": "Paper says a sheriff's posse broke up the fight, and the decision was given on a foul by Holland, said to be fixed."
+    },
+    {
+      "opponent": "Mike McCool",
+      "date": "1870",
+      "date_precision": "approx",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen also met big Mike McCool, a burly Irishman,",
+      "reported_as": "recollection",
+      "notes": "Result is inferred from the paper's 'robbed of' wording; the text says Allen clearly beat McCool before the referee called a foul."
+    }
+  ],
+  "notes": "Dates are inferred from 'ten years later' than 1860. The 'ALLEN'S TESTIMONY' heading is about a Sharkey witness at the Fitzsimmons trial, not Tom Allen, so it is not extracted. Both hints checked and kept."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "500",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan declined Tom Allen's challenge for now, saying illness had kept him from training, and offered to fight Allen or anyone for $1,000 to $2,500 once his health improved.",
+      "excerpt": "But as soon as iny health improvesI will match myself,",
+      "date": "1873-11-29",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen issued a new challenge offering to fight Ben Hogan at any time within six weeks.",
+      "excerpt": "in which he offers to fight me at any time within six weeks",
+      "date": "1873-11-29",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Ben Hogan said he fought Tom Allen while ill and untrained, and was in no condition to enter the ring.",
+      "excerpt": "on the day of the fightI was in no condition to enter tae ring",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tom Allen"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Ben Hogan",
+      "text": "I do not wishto underrate Tom Alien, but I think if he had more muscle in his arms and less m his tongue he would bea much better man than he is.",
+      "topic": "on Allen's boasting"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "on the day of the fightI was in no condition to enter tae ring",
+      "reported_as": "report",
+      "notes": "Hogan's account: he was ill and untrained. The result is not given in this card."
+    }
+  ],
+  "notes": "Hogan's card, printed 1873-11-30. The Globe reported Allen's offer as ten weeks; this card says six."
+}

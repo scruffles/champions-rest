@@ -1,0 +1,41 @@
+{
+  "id": "360",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen accepted Gallagher's proposal to leave the stakes on deposit and add $1,900 (printed as $1,900).",
+      "excerpt": "Tom will leave the stakes on deposit and add $1,900",
+      "date": "1869-08-20",
+      "date_precision": "day",
+      "people": ["Charley Gallagher", "Sherman Thurston", "Wm. Carroll"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen would name a place within fifty miles of Cincinnati for the fight, to take place in a week or ten days.",
+      "excerpt": "in a week or ten days, within fifty miles of",
+      "date": "1869-08-20",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen was to meet Gallagher at 3 o'clock on Saturday afternoon to draw up articles.",
+      "excerpt": "He will meet Charlie Gallagher at 3 o'clock",
+      "date": "1869-08-21",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Note signed by Wm. Carroll for Allen. The $1,900 is probably OCR for $1,000, as in the 359 account, but the printed figure is recorded. Hint about the place was kept only as far as the note says."
+}

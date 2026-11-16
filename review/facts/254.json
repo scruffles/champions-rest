@@ -1,0 +1,78 @@
+{
+  "id": "254",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen, a British fighter, settled in St. Louis in the sixties.",
+      "excerpt": "British fighter Tom Al-\nlen settled here in the sixties",
+      "date": "1860",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Joe Goss defeated Tom Allen in the seventies, after which Allen was no longer rated world champion.",
+      "excerpt": "until late in his career Joe Goss defeated him",
+      "date": "1870",
+      "date_precision": "approx",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "After retiring, Tom Allen opened a saloon on Market Street near Seventh.",
+      "excerpt": "opened a saloon on Market street near Seventh",
+      "date": "1870",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Market Street near Seventh, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen named his saloon Champion's Rest and ran it until his death early this century.",
+      "excerpt": "Tom flourished un-\ntil his death early this century",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died early in the 1900s; the article gives no exact year.",
+      "excerpt": "Tom flourished un-\ntil his death early this century",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1870",
+      "date_precision": "approx",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "until late in his career Joe Goss defeated him",
+      "reported_as": "recollection",
+      "notes": "Article gives only 'in the seventies'; the year is approximate."
+    }
+  ],
+  "notes": "Retrospective feature. Name printed as 'Alien' in places. Death year not given (other articles: 1903)."
+}

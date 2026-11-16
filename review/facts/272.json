@@ -1,0 +1,12 @@
+{
+  "id": "272",
+  "claims": [
+    {"kind": "career", "statement": "Tom Allen was presented with a silver cup as champion boxer of England by his backers, on May 22, 1878, at Cambridge Hall, London.", "excerpt": "pion boxer of England, by his backers", "date": "1878-05-22", "date_precision": "day", "people": [], "places": ["Cambridge Hall, London"], "retrospective": true, "confidence": "high"},
+    {"kind": "other", "statement": "Tom Allen's silver cup was displayed on Mr. Shepherd's sideboard at the Abbey in Boston.", "excerpt": "of the ‘‘Abbey’’ may be seen the", "date": "1882-11", "date_precision": "month", "people": ["Shepherd"], "places": ["Boston"], "retrospective": false, "confidence": "high"},
+    {"kind": "career", "statement": "The Boston Star reported that Tom Allen has won more battles than any other man in England.", "excerpt": "He has won more battles than any other", "date": "1882-11", "date_precision": "month", "people": [], "places": ["England"], "retrospective": false, "confidence": "medium"},
+    {"kind": "travel", "statement": "Tom Allen said he came to America to visit his friends, not to fight anybody.", "excerpt": "simply came on a visit to his friends", "date": "1882-11", "date_precision": "month", "people": [], "places": ["America"], "retrospective": false, "confidence": "medium"}
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Clipping of a Boston Star piece reprinted in the St. Louis paper; the Star's words are paraphrased, not Allen's own speech."
+}

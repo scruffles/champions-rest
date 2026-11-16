@@ -33,10 +33,11 @@ class FootNote extends React.Component {
         References for{" "}
         <span className="fact">
           {this.props.type === "fact"
-            ? this.props.fact
+            ? String(this.props.fact).replace(/\.$/, "")
             : `the fight against ${this.props.opponent} on ${this.props.date}`}
         </span>
         :
+        <Disputed type={this.props.type} disputed={this.props.disputed} />
         <ul>
           {this.props.articles.map((id) => {
             const article = db.find((a) => a.id === id);
@@ -59,6 +60,40 @@ class FootNote extends React.Component {
     );
   }
 }
+
+// Other versions of a disputed fact (ids of other facts) or other results reported for a fight.
+const SourceLinks = ({ ids }) =>
+  ids.map((id, j) => {
+    const article = db.find((a) => a.id === id);
+    return (
+      <React.Fragment key={id}>
+        {j > 0 && ", "}
+        <a href={`/articles/${id}`}>
+          {article ? `${article.publication}, ${moment(article.sourceDate, "YYYY-MM-DD").format("MMM D YYYY")}` : id}
+        </a>
+      </React.Fragment>
+    );
+  });
+
+const Disputed = ({ type, disputed }) => {
+  if (!disputed || !disputed.length) return null;
+  const rows =
+    type === "fact"
+      ? disputed.map((id) => facts.find((f) => f.id === id)).filter(Boolean).map((f) => ({ key: f.id, text: f.fact, articles: f.articles }))
+      : disputed.map((d) => ({ key: d.result, text: `Result: ${d.result}`, articles: d.articles }));
+  return (
+    <div className="disputed">
+      <span className="label">Disputed</span> Other sources say:
+      <ul>
+        {rows.map((r) => (
+          <li key={r.key}>
+            <span className="fact">{r.text}</span> (<SourceLinks ids={r.articles} />)
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+};
 
 class CaptionedImage extends React.Component {
   render() {

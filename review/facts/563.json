@@ -1,0 +1,25 @@
+{
+  "id": "563",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Joe Goss said the coming fight with Tom Allen will be one of the hardest ever known in the annals of the ring.",
+      "excerpt": "the battle  betweerAllen and himself will be one of the hardest ever known",
+      "date": "1876-07-26",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Forest Home, Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Joe Goss",
+      "text": "It’salean dog that’s best forahard road, and if anybod Te thae Tom Allen is nota hard road for the best of them totravel over he is much mistaken.",
+      "topic": "Goss on Allen as a hard road"
+    }
+  ],
+  "fights": [],
+  "notes": "Mostly about Goss's training at Forest Home. The date is taken from the Enquirer's 'last evening' visit, printed in a paper dated the day after. Only the Allen-related passages are recorded."
+}

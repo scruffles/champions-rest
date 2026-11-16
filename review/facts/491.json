@@ -1,0 +1,19 @@
+{
+  "id": "491",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen had a benefit at Deagle's Theater in St. Louis on the night of October 28, 1873.",
+      "excerpt": "To-night Tom Allen hasa benefit at this theater.",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Deagle's Theater, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": ""
+}

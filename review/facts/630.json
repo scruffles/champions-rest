@@ -1,0 +1,89 @@
+{
+  "id": "630",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen of St. Louis agreed, conditionally, to accept John Dwyer's challenge to fight for the championship of America and a stake printed as $2 gg (probably $2,000).",
+      "excerpt": "bas agreed to accept, conditfonally, the chal lenge of John Dwyer to fight for",
+      "date": "1879-06",
+      "date_precision": "month",
+      "people": ["John Dwyer"],
+      "places": ["London, England", "St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Advices from London said that Tom Allen was in London, England, in June 1879.",
+      "excerpt": "Advices from London, England, state that Tom Allen, of St. Louis,",
+      "date": "1879-06",
+      "date_precision": "month",
+      "people": [],
+      "places": ["London, England"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen's conditions for the fight were that it take place within three months of signing the articles, within fifty miles of St. Louis or Pittsburg, under London prize-ring rules but with a sixteen-foot ring.",
+      "excerpt": "that the fight must take pince in three*months from signing the articles",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis", "Pittsburg"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen said he would cover the $250 that Dwyer posted with Frank Queen to back the challenge.",
+      "excerpt": "Asscon as Dwyer posts $250 with Frank Queen, to back up the challenge, Allen will see",
+      "date": "1879-06",
+      "date_precision": "month",
+      "people": ["John Dwyer", "Frank Queen"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen claimed that Dwyer could not claim the championship until he met Allen in the ring, because Allen had kept a challenge open to the world since his fight with Goss in Kentucky and had won the title three times.",
+      "excerpt": "Allen claims that Dwyer can not claim the championship until he meets him in the ring",
+      "date": "1879-06",
+      "date_precision": "month",
+      "people": ["John Dwyer", "Goss"],
+      "places": ["Kentucky"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Goss in Kentucky; the date and result are not given.",
+      "excerpt": "as he has, since his fight with Goss in Kentucky, hada cael open tothe world",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Goss"],
+      "places": ["Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Kentucky",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "as he has, since his fight with Goss in Kentucky, hada cael open tothe world",
+      "reported_as": "report",
+      "notes": "Mentioned in passing only; result not stated. Allen says he won the title three times, which the article does not detail."
+    }
+  ],
+  "notes": "Dwyer's challenge was accepted only conditionally, so no fight is recorded for it. Dateline June 11 under a June 4 paper; stake figure is garbled."
+}

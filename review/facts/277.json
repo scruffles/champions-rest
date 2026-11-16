@@ -1,0 +1,10 @@
+{
+  "id": "277",
+  "claims": [
+    {"kind": "exhibition", "statement": "Tom Allen's friends gave him a complimentary benefit at the Avenue Theater in Washington on June 10, 1876.", "excerpt": "selected by Tom Allen’s friends to tender him a complimentary benefit", "date": "1876-06-10", "date_precision": "day", "people": [], "places": ["Avenue Theater, Washington"], "retrospective": false, "confidence": "high"},
+    {"kind": "exhibition", "statement": "Tom Allen was to appear in an exhibition of his boxing skill with his trainer, Jack Madden, at the benefit.", "excerpt": "will have the pleasure of appearing before the audience in an exhibition of his skill in the manly art", "date": "1876-06-10", "date_precision": "day", "people": ["Jack Madden"], "places": ["Avenue Theater, Washington"], "retrospective": false, "confidence": "high"}
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Announcement printed the day of the benefit; no result is given."
+}

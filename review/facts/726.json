@@ -1,0 +1,81 @@
+{
+  "id": "726",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Joe Goss fought Tom Allen to a draw in England, with Goss untrained.",
+      "excerpt": "He had fought Tom a draw in the oid country without",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Eph Holland of Cincinnati imported Joe Goss to America to fight Tom Allen.",
+      "excerpt": "He was imported to this country by\nEph Holiand of Cincinnati to fight Tom Alien.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Cincinnati", "America"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss in two rings near Walton, Kentucky.",
+      "excerpt": "They fought in two rings, near Walton, Ky.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Walton, Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen struck Joe Goss two foul blows, and the battle was given against Allen.",
+      "excerpt": "striking Joe two foul blows, and the battle\nwas given against him.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Walton, Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "old country (England)",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "He had fought Tom a draw in the oid country without",
+      "reported_as": "recollection",
+      "notes": "Goss had no preparation for this bout."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "near Walton, Kentucky",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "They fought in two rings, near Walton, Ky.",
+      "reported_as": "recollection",
+      "notes": "Allen fought defensively but lost when the battle was given against him for two foul blows he struck on Goss. Year not stated in the text."
+    }
+  ],
+  "notes": "Obituary of Joe Goss with recollections; Allen-related passages are Goss's two fights with Allen and Holland's import."
+}

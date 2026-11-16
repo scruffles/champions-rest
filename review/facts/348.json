@@ -1,0 +1,114 @@
+{
+  "id": "348",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Gallagher knocked Allen out of time in their fight near this city on 23 February 1869.",
+      "excerpt": "the 23d of last February. He knocked Allen out of time",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen and Gallagher had articles of agreement for a rematch, and the last $100 a side of battle money was due on 14 August 1869.",
+      "excerpt": "between Allen and Gallagher, for the depositing of",
+      "date": "1869-08-14",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "On the night of 14 August 1869 a crowd packed Allen's saloon while the battle money was deposited.",
+      "excerpt": "At Allen’s, the crowd was packed as close as herring in",
+      "date": "1869-08-14",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Allen's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen trained at the Wash Home under Jim Coyne for his rematch with Gallagher.",
+      "excerpt": "Home, under the direction of Jim Coyne. We found",
+      "date": "1869-08",
+      "date_precision": "month",
+      "people": ["Jim Coyne"],
+      "places": ["Wash Home"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen has been in seven or eight fights in England and this country.",
+      "excerpt": "Tom has been in seven or eight fights in England",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England", "United States"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen is described as a gymnast by trade and a good workman at it (printed as 'gymnast').",
+      "excerpt": "Allen is a gymnast by trade, and was a good workman at the business.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen and Blacksmith Dan were the seconds of Jim Elliott in his fight with Gallagher at Peach Island, near Detroit.",
+      "excerpt": "Dan were the seconds of Elliott, who had three ribs bro-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jim Elliott", "Charley Gallagher", "Blacksmith Dan"],
+      "places": ["Peach Island, near Detroit"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "place": "near St. Louis",
+      "result": "loss",
+      "rounds": "2",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the 23d of last February. He knocked Allen out of time",
+      "reported_as": "recollection",
+      "notes": "Text says 'near this city'. Gallagher's account in this article."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "between Allen and Gallagher, for the depositing of",
+      "reported_as": "report",
+      "notes": "Rematch articles agreed; date and place are not given in this article (see the other records for 17 August 1869)."
+    }
+  ],
+  "notes": "Quote hint dropped: 'bloody corner' is the paper's paraphrase ('He said he would...'), not direct speech. Gymnast here conflicts with gunsmith in the 349 record. Weight (170 lb) and Gallagher's own training left out as minor."
+}

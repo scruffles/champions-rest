@@ -1,0 +1,26 @@
+{
+  "bucket": "legal-1897-1898",
+  "facts": [
+    {
+      "fact": "On 27 April 1897 Tom Allen fired a revolver in the street and was arrested for disturbing the peace and carrying concealed weapons; on 30 April his cases before Judge Peabody were dismissed on payment of costs.",
+      "date": "1897-04-27",
+      "seed": "",
+      "conflict": "target: The Ohio, a rival saloon across the street (172.c1, 173.c3) vs shots fired in front of his own saloon at Seventh and Market (957.c1, 959.c1); the hearing was continued to 30 April (957.c3, 172.c3) and set for the following Friday (959.c3)",
+      "claims": ["172.c1", "172.c2", "173.c3", "957.c1", "957.c2", "959.c1", "957.c3", "172.c3", "173.c1", "959.c3"]
+    },
+    {
+      "fact": "After William C. Brown was assaulted across the street from Tom Allen's place in July 1897 and died, Tom Allen and his housekeeper Mrs. Mary Duffy were summoned before Chief Desmond.",
+      "date": "1897-07-15",
+      "seed": "",
+      "conflict": "",
+      "claims": ["966.c1", "966.c2", "966.c3", "965.c1"]
+    },
+    {
+      "fact": "On 1 July 1898 several shots were fired during an attack on Tom Allen, and none of them hit him.",
+      "date": "1898-07-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["974.c2", "975.c2"]
+    }
+  ]
+}

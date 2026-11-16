@@ -1,0 +1,19 @@
+{
+  "id": "944",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's ad lists him as retired champion pugilist of the world at 619 Market street, with a free concert every evening and the best of talent only.",
+      "excerpt": "Tom Allen, retired champion pugilist of the\nworld, 619 Market street.",
+      "date": "1896-11-21",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The phrase 'ee every' is garbled in the OCR; the free concert wording is partly illegible."
+}

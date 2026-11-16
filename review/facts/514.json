@@ -1,0 +1,175 @@
+{
+  "id": "514",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen had denied a report that he was about to make a match with George Rooke, despite his earlier announced retirement from the ring.",
+      "excerpt": "and in the face of his recent denial of the report that he was about",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen went East to arrange the preliminaries for a fight with George Rooke, despite his retirement and his recent denial of the match.",
+      "excerpt": "he has gone East to arrange the preliminaries for that encounter",
+      "date": "1875-03",
+      "date_precision": "month",
+      "people": ["George Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A deposit of $500 a side, one-sixth of the agreed stake, was held by Harry Hill for Allen's match with George Rooke.",
+      "excerpt": "a deposit of $500 a side, being one-sixth of the agreed stake, is now in the hands of Harry Hill",
+      "date": "1875-03",
+      "date_precision": "month",
+      "people": ["George Rooke", "Harry Hill"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was matched to fight George Rooke within fifty miles of Pittsburg on 17 June 1875.",
+      "excerpt": "The fight is arrangefl to take place withiu fifty miles of Pittsburg, on the 17th of June.",
+      "date": "1875-06-17",
+      "date_precision": "day",
+      "people": ["George Rooke"],
+      "places": ["within fifty miles of Pittsburg"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was 36 years old in March 1875.",
+      "excerpt": "Not that his age—36—has begun to tell on",
+      "date": "1875-03",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen weighed about 210 pounds and would have to train down to 172 pounds to fight.",
+      "excerpt": "get down from his present 210 pound of adipose tothe 172 pounds of bone and muscle requisite to fit him",
+      "date": "1875-03",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen has fought only three long, drawn-out fights in his life, all of them in England several years earlier.",
+      "excerpt": "he has never fought but three dragging tichts in his life and those were ull fought in Englaud several Sears ago",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat McCoole in about a dozen minutes.",
+      "excerpt": "Allen will not chop him up, as he did McCoole, in a dozen minutes",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen weakened Gallagher in the first two or three rounds of a fight (the wording is unclear).",
+      "excerpt": "nor weaken his buck, as he did Gallagher's, inthe first two or three rounds",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "The longest time Tom Allen has stood up in the ring in the United States was 44 minutes with Mace, about 30 of them sparring.",
+      "excerpt": "The longest time he has stood up in’the ring in this country was 44 minutes with Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mace"],
+      "places": ["United States"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "George Rooke",
+      "date": "1875-06-17",
+      "date_precision": "day",
+      "place": "within fifty miles of Pittsburg",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$500 a side deposit, one-sixth of the agreed stake",
+      "rules": "",
+      "excerpt": "The fight is arrangefl to take place withiu fifty miles of Pittsburg, on the 17th of June.",
+      "reported_as": "report",
+      "notes": "Planned, not yet fought. The article gives about five to two odds that it will not take place."
+    },
+    {
+      "opponent": "McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "about 12 minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen will not chop him up, as he did McCoole, in a dozen minutes",
+      "reported_as": "recollection",
+      "notes": "Win is implied by 'chop him up'; place not stated."
+    },
+    {
+      "opponent": "Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "first two or three rounds",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "nor weaken his buck, as he did Gallagher's, inthe first two or three rounds",
+      "reported_as": "recollection",
+      "notes": "Result not stated. The wording ('weaken his buck, as he did Gallagher's') is unclear."
+    },
+    {
+      "opponent": "Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "United States",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "44 minutes, about 30 of them sparring",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The longest time he has stood up in’the ring in this country was 44 minutes with Mace",
+      "reported_as": "recollection",
+      "notes": "Result not stated. About 30 of the 44 minutes were a sparring match, so the bout is partly an exhibition."
+    }
+  ],
+  "notes": "The article is mainly about George Rooke and his record; only Allen's claims are recorded. The Rooke-Moore fight is not Allen's."
+}

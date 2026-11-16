@@ -1,0 +1,30 @@
+{
+  "id": "833",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "An advertisement for Tom Allen gave his place at 619 Market street, St. Louis, with a free concert (printed as 'toncert') every evening.",
+      "excerpt": "world, 619 Market street. Free toncert eve",
+      "date": "1892-01-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "The advertisement describes Tom Allen as 'retired'; the rest of the title is garbled.",
+      "excerpt": "TOM ALLEN, retired mt ep, i be oa of ae",
+      "date": "1892-01-30",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint said 'champion pugilist of the world'; the text does not show that wording (the title is garbled), so only 'retired' is claimed."
+}

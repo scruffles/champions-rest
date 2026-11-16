@@ -1,0 +1,34 @@
+{
+  "id": "601",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Tompkin Gilbert in a glove fight for the English championship; Gilbert left the ring after the seventh round and Allen was declared the winner, after 16 minutes 45 seconds.",
+      "excerpt": "summons, was declared the winner, after boxing 16",
+      "date": "1877-10",
+      "date_precision": "approx",
+      "people": ["Tompkin Gilbert"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Tompkin Gilbert",
+      "date": "1877-10",
+      "date_precision": "approx",
+      "place": "",
+      "result": "win",
+      "rounds": "7",
+      "duration": "16 min 45 sec",
+      "stakes": "English championship",
+      "rules": "gloves",
+      "excerpt": "summons, was declared the winner, after boxing 16",
+      "reported_as": "report",
+      "notes": "Round-by-round account from the London Sporting Life of Oct 31. Allen claimed a foul, which the referee disallowed. Same fight as 600."
+    }
+  ],
+  "notes": "The round times are listed in the text; only the total duration and the result are recorded."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "190",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen sold property on the south side of Geyer Avenue, between Ninth and Tenth, to Henry Steinmeyer for $2,500.",
+      "excerpt": "GEYER—[?]0 ft., s. s., bet. Ninth and Tenth; Tom Allen to Henry Steinmeyer—w. d. 2,500",
+      "date": "1901-02",
+      "date_precision": "approx",
+      "people": ["Henry Steinmeyer"],
+      "places": ["Geyer Avenue, between Ninth and Tenth, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Real estate transfer list. The name matches the boxer but the text does not say it is him, so confidence is medium. Frontage is OCR-damaged; the deed date is not given, so the date is the paper's month. Hint checked and kept."
+}

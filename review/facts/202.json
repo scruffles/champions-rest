@@ -1,0 +1,173 @@
+{
+  "id": "202",
+  "claims": [
+    {
+      "kind": "death",
+      "statement": "Tom Allen died on Sunday, April 5, 1903, at the Baptist Hospital in St. Louis, at the age of 6- (printed; the last digit is cut off).",
+      "excerpt": "died Sunday ro in the Baptist hospital at the age of 6",
+      "date": "1903-04-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Baptist Hospital, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "After Allen's death, W. A. Byrne, representing J. W. L. Gillespie, held the living rooms over the Champion's Rest at 619 Market street and declared he would keep them.",
+      "excerpt": "who is in possession of the living rooms over Tom Allen’s Champion",
+      "date": "1903-04-06",
+      "date_precision": "day",
+      "people": ["W. A. Byrne", "J. W. L. Gillespie"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Gillespie said he had a claim against Allen for goods sold to him.",
+      "excerpt": "says he has a claim against Allen for goods sold to him",
+      "date": "1903-04-06",
+      "date_precision": "day",
+      "people": ["J. W. L. Gillespie"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "John Murphy, Allen's old bartender, was said to be holding the barroom in the interest of Allen's daughter, Mrs. Mary Taylor, of 3427 Clark Avenue (printed %427).",
+      "excerpt": "is said to be acting in the interest of Mrs. Mary Taylor of %427 Clark",
+      "date": "1903-04-06",
+      "date_precision": "day",
+      "people": ["John Murphy", "Mary Taylor"],
+      "places": ["Clark Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen's will was filed in probate court on Monday, April 6, 1903; it left $10 each to his two sisters and the balance to Mrs. Tillie Hartgrove.",
+      "excerpt": "It bequeaths $10 each to his two sisters and leaves the balance to",
+      "date": "1903-04-06",
+      "date_precision": "day",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen's will is dated March 4, 193 (the year is cut off; the hint says March 24, 1903); its witnesses were Dr. Heine Marks, Dr. E. R. Newcomb and Charles Brock.",
+      "excerpt": "The will is dated March 4, 193. The witnesses are Dr. Heine Marks",
+      "date": "1903-03",
+      "date_precision": "month",
+      "people": ["Heine Marks", "E. R. Newcomb", "Charles Brock"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "legal",
+      "statement": "Attorney Simon Bass filed Allen's will in probate court; it gave no estimate of the value of the estate and no inventory of his personal property.",
+      "excerpt": "Attorney Simon Bass filed the document. It gives no estimate of the",
+      "date": "1903-04-06",
+      "date_precision": "day",
+      "people": ["Simon Bass"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen's daughter, Mrs. Mary Taylor, said she would apply to the courts to protect the property, which she alleged was being dissipated by people with no right to it.",
+      "excerpt": "She alleges it is being dissipated by persons who have no right to it",
+      "date": "1903-04-06",
+      "date_precision": "day",
+      "people": ["Mary Taylor"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "Mrs. Tillie Hartgrove, to whom Allen was reported to be engaged, had charge of his affairs during his illness.",
+      "excerpt": "and who has had charge of his affairs since his illness",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "When Mrs. Taylor tried to see her father at the Baptist Hospital after the report of his engagement, she was told he was too ill to talk to anyone.",
+      "excerpt": "persons in charge said he was too ill to talk to anyone",
+      "date": "1903-03",
+      "date_precision": "month",
+      "people": ["Mary Taylor", "Tillie Hartgrove"],
+      "places": ["Baptist Hospital, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "J. W. L. Gillespie said he had a bill of sale for the saloon; in the dispute at the saloon that followed, guns were drawn, but Murphy remained in charge.",
+      "excerpt": "Gillespic said he had a bill of sale. In the dispute which followed guns were drawn",
+      "date": "1903-04",
+      "date_precision": "month",
+      "people": ["J. W. L. Gillespie", "John Murphy"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen won the championship of the world in the days when fighters did not use gloves; he lost the championship and then regained it.",
+      "excerpt": "Tom Allen won the championship of the world in the days when fighters did not use",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Allen was champion of England when he came to the United States, in 1869 (printed as 18v9).",
+      "excerpt": "He was champion of England when he came to the United States in 18v9",
+      "date": "1869",
+      "date_precision": "year",
+      "people": [],
+      "places": ["United States"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "residence",
+      "statement": "Since Allen came to America, St. Louis has been his home.",
+      "excerpt": "Since he has been in America St. Louis has been his home",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Mrs. Hartgrove had charge of the saloon, The Champion's Rest, during Allen's illness and was said to have a bill of sale for it.",
+      "excerpt": "charge of the saloon, “The Champion's Rest,’ during Allen's illness and is sald to",
+      "date": "1903-04",
+      "date_precision": "month",
+      "people": ["Tillie Hartgrove"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Not a bout list. Allen's death (April 5), the will (filed April 6) and the rival claims to the saloon are reported here. The printed age '6' is cut off. The saloon number is 619 here; 615 in 203. Mrs. Hartgrove's 'bill of sale' and the husband in England are reported as hearsay. The article says Allen won the championship in gloveless days but does not list bouts."
+}

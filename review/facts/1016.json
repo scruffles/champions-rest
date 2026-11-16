@@ -1,0 +1,9 @@
+{
+  "id": "1016",
+  "claims": [
+    {"kind": "saloon", "statement": "The lower floor of the building at 61) Market street was formerly Tom Allen's saloon.", "excerpt": "of the building was formerly occu-\npied by Tom Allen as a saloon", "date": "", "date_precision": "unknown", "people": [], "places": ["61) Market street"], "retrospective": false, "confidence": "high"}
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The hint gave 619 Market Street, but the OCR reads '61)', so the number is not recorded. The 102 voter registrations at the building are not about Allen. The Sullivan mention is unrelated."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "975",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was badly beaten in front of his saloon on Market Street early on Friday, July 1, 1898.",
+      "excerpt": "badly beaten In front of his saloon on Mar-",
+      "date": "1898-07-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Several shots were fired during the attack on Tom Allen, but none took effect on him.",
+      "excerpt": "Several shots were fired, but none took effect on the",
+      "date": "1898-07-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "His barkeeper came to his rescue just in time, saving Tom Allen from serious injury.",
+      "excerpt": "Fs barkeeper came to his rescue just fn",
+      "date": "1898-07-01",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Assailants escaped (not in the excerpts). The hint's kind 'health' is corrected to saloon for the beating. Published 1898-07-02; 'early Friday' is 1898-07-01."
+}

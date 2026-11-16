@@ -1,0 +1,30 @@
+{
+  "id": "689",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen sparred Morris O'Connell as the windup of O'Connell's farewell benefit at Kelly's.",
+      "excerpt": "The next et-to was the windup\nbetween O’Connell and Allen",
+      "date": "1883-02-21",
+      "date_precision": "day",
+      "people": ["Morris O'Connell"],
+      "places": ["Kelly's, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Morris O'Connell boxed three rounds of light tapping and then retired.",
+      "excerpt": "After three\nrounds of tapping they retired and the exhibition was over.",
+      "date": "1883-02-21",
+      "date_precision": "day",
+      "people": ["Morris O'Connell"],
+      "places": ["Kelly's, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Same benefit as 687. The paper's remark that it was the tamest set-to is opinion, not a fact about Allen; not recorded."
+}

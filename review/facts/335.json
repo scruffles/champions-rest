@@ -1,0 +1,19 @@
+{
+  "id": "335",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Coburn offered to back Mike McCoole against Tom Allen in a 24-foot prize ring under the latest London rules, for $5,000 to $10,000, anywhere in the United States, to be fought within sixty days of signing.",
+      "excerpt": "I bereby offer to back Mike McCoole against Tom Allen, ina fight in a twert:-four foot prize ring,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Coburn", "Mike McCoole", "Tom Allen"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Signed manifesto printed from a Nevada paper; the date of the offer is not given. 'twert:-four' is read as 24-foot."
+}

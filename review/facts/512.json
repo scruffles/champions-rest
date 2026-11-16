@@ -1,0 +1,67 @@
+{
+  "id": "512",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Judge Snyder of the St. Clair County Circuit Court at Belleville discharged Tom Allen, Jack Looney, Arthur Chambers, Dublin Tricks and Tom Kelley from their bond to answer a Madison County indictment.",
+      "excerpt": "discharged Tom Allen, Jack Looney, Arthur Chambers, Dublin Tricks and Tom Kelley from their bond",
+      "date": "1875-01-30",
+      "date_precision": "day",
+      "people": ["Judge Snyder", "Jack Looney", "Arthur Chambers", "Dublin Tricks", "Tom Kelley"],
+      "places": ["Belleville, Illinois"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought McCoole in a prize fight in Madison County, Illinois, more than a year before February 1875.",
+      "excerpt": "the Allen and McCoole prize fight, which ‘took lace in that county romans over @ year ago",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["McCoole"],
+      "places": ["Madison County, Illinois"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The indictment case was moved on a change of venue from Madison County to St. Clair County, Illinois.",
+      "excerpt": "These parties teok a change of vente from",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Madison County, Illinois", "St. Clair County, Illinois"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Their attorney, Capt. R. H. Halbert, secured the release of the five men because of a flaw or informality in the indictment.",
+      "excerpt": "R. H. Halbert, secured their release owing to a ,fuw or informality in the indictment",
+      "date": "1875-01-30",
+      "date_precision": "day",
+      "people": ["R. H. Halbert", "Tom Allen", "Jack Looney", "Arthur Chambers", "Dublin Tricks", "Tom Kelley"],
+      "places": ["Belleville, Illinois"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Madison County, Illinois",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the Allen and McCoole prize fight, which ‘took lace in that county romans over @ year ago",
+      "reported_as": "report",
+      "notes": "Result not stated in this article; the fight is mentioned only as the basis of the indictment."
+    }
+  ],
+  "notes": "The indictment was for connection with the fight. The other four men were discharged with Allen."
+}

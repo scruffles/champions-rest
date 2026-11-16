@@ -1,0 +1,173 @@
+{
+  "bucket": "other-1876-1878",
+  "facts": [
+    {
+      "fact": "In 1876 Tom Allen had about $25,000 but lost most of it making a book in England.",
+      "date": "1876",
+      "seed": "",
+      "conflict": "",
+      "claims": ["909.c17"]
+    },
+    {
+      "fact": "Tom Allen held over $600 in stakes on the Carteron-Rigal wrestling match and refereed it at the Theatre Comique, St. Louis, on February 8, 1876, where it went undecided after a severe struggle; he ruled that the final decision would come on Thursday evening, February 10.",
+      "date": "1876-02-08",
+      "seed": "030",
+      "conflict": "",
+      "claims": ["063.c1", "532.c1", "532.c2"]
+    },
+    {
+      "fact": "Tom Allen played a legitimate part in the crib scene from Tom and Jerry at the Theatre Comique, St. Louis, a couple of weeks before April 1876.",
+      "date": "1876-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["541.c6"]
+    },
+    {
+      "fact": "Friends of Tom Allen met to raise money to buy back the belt won from Mike McCoole and present it to him at his benefit on March 30, 1876; Theobald Bauer and Andre Christol volunteered to wrestle there for a massive silver goblet from Allen, with Wilhelm Beyer to referee.",
+      "date": "1876-03-28",
+      "seed": "",
+      "conflict": "",
+      "claims": ["536.c1", "538.c3", "538.c4"]
+    },
+    {
+      "fact": "Tom Allen objected when Joe Coburn was billed in St. Louis as the Champion of the World.",
+      "date": "1876-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["073.c1"]
+    },
+    {
+      "fact": "Tom Allen introduced Prof. Bauer and Herr Heygster to the audience at the Temple, St. Louis, before their second wrestling match on April 8, 1876, and during the recess announced that a silver belt, obtained by Bauer's friends for Bauer as champion Greco-Roman wrestler of America, would be presented to Bauer.",
+      "date": "1876-04-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["540.c1", "540.c2"]
+    },
+    {
+      "fact": "Tom Allen received a dispatch from Jem Coyne of Newark, N.J., announcing that Joe Goss had arrived in America.",
+      "date": "1876-04-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["541.c1"]
+    },
+    {
+      "fact": "Tom Allen was a guest, with Prof. Bauer, Andre Christol and Leon Schuler, at a breakfast given by the French caterer Jean Bonnet in St. Louis on April 10, 1876, where Bauer said he would return to St. Louis and make a match with Julius Schroeder once Allen notified him that a suitable deposit had been posted.",
+      "date": "1876-04-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["542.c1", "542.c2"]
+    },
+    {
+      "fact": "Tom Allen said he knocked Ned Donnelly down on Tuesday, April 11, 1876, after Donnelly sneered when Allen asked whether he would break their engagement.",
+      "date": "1876-04-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["069.c3"]
+    },
+    {
+      "fact": "Tom Allen appeared for the wrestler Bauer and put up his $250 deposit for Bauer's wrestling match with Julius Schroeder at the Temple, and on May 4, 1876 at Tony Faust's he deposited the remainder of the stakes and was empowered to sign articles of agreement for the match.",
+      "date": "1876-05-04",
+      "seed": "033",
+      "conflict": "amount: a $250 deposit (079.c1) vs the remainder of the stakes (552.c1), both put up by Allen for Bauer",
+      "claims": ["079.c1", "552.c1", "552.c2"]
+    },
+    {
+      "fact": "Tom Allen was chosen referee for the wrestling match between Thiebaud Bauer and Julius Schroeder at the Temple, and on May 6, 1876 he came on stage with the lightweight champions Arthur Chambers and Billy Edwards and introduced them to the audience.",
+      "date": "1876-05-06",
+      "seed": "030",
+      "conflict": "",
+      "claims": ["081.c1", "081.c2"]
+    },
+    {
+      "fact": "Ben De Bar stood by Tom Allen at a signing on May 12, 1876 and put up Allen's money.",
+      "date": "1876-05-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["557.c3"]
+    },
+    {
+      "fact": "In July 1876 Tom Allen trained at Cedar Park, a retreat near Carthage owned by John Young, under the care of Jack Madden, and began active training on the Monday before an interview.",
+      "date": "1876-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["562.c5", "562.c6"]
+    },
+    {
+      "fact": "Joe Goss said the coming fight with Tom Allen would be one of the hardest ever known in the annals of the ring.",
+      "date": "1876-07-26",
+      "seed": "",
+      "conflict": "",
+      "claims": ["563.c1"]
+    },
+    {
+      "fact": "Tom Allen published an apology to the New York Clipper in August 1876 for the unjust criticism he had written; the Clipper had excluded his name from its columns for nearly four years after a card he wrote.",
+      "date": "1876-08",
+      "seed": "",
+      "conflict": "083.c1 is low confidence and garbled ('urjust str'ctures')",
+      "claims": ["083.c1", "566.c2"]
+    },
+    {
+      "fact": "Tom Allen refereed the Bauer-Miller wrestling match at Wood's Theater in Cincinnati on August 29, 1876.",
+      "date": "1876-08-29",
+      "seed": "030",
+      "conflict": "570.c1 calls it a match, while 569.c1 calls it the Bauer-Miller wrestling championship match",
+      "claims": ["569.c1", "570.c1"]
+    },
+    {
+      "fact": "Before the Joe Goss fight, Eph Holland was in charge of the affair, Dad Ryan acted as Allen's umpire and Jack Brown as Goss's, and Joe Goss offered $1,000 on the result; Allen covered a $1,000 wager from Goss, and Fred Watkins, backing Allen, handed a $1,000 bill to referee Holland, who had made himself stakeholder.",
+      "date": "1876-09-07",
+      "seed": "",
+      "conflict": "Holland's role: stakeholder (909.c15, retrospective) vs the referee who held the bill; the $1,000 offer by Goss (578.c4) is medium confidence",
+      "claims": ["213.c5", "578.c3", "578.c4", "579.c4", "909.c15"]
+    },
+    {
+      "fact": "On the day of the Joe Goss fight Tom Allen weighed 174 pounds to Goss's 165; Tom Kelly and Arthur Chambers were Allen's seconds, and Jack Looney arrived in Cincinnati with a party of 25 men, saying Allen must be whipped.",
+      "date": "1876-09-07",
+      "seed": "",
+      "conflict": "Looney's arrival is dated September 6 (572.c3) and the rest September 7",
+      "claims": ["579.c3", "084.c5", "572.c3"]
+    },
+    {
+      "fact": "Tom Allen said he had put up his own stake money for the Goss fight and believed Eph Holland had used it against him, and that in a fair fight he could have beaten Joe Goss in half an hour; in a card he wrote, he said it was impossible to obtain fair play in this country.",
+      "date": "1876-09-08",
+      "seed": "",
+      "conflict": "085.c8 (medium) says that before the fight Allen was told he could not win and asked whether Holland was square; that claim is dated July 1876 but was published with the others on September 13",
+      "claims": ["085.c6", "085.c7", "085.c8", "578.c6"]
+    },
+    {
+      "fact": "On September 11, 1876 Tom Allen made the rounds of the Cincinnati hotels and then went into a saloon on Vine Street near Fourth Street while crowds waited outside.",
+      "date": "1876-09-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["085.c4"]
+    },
+    {
+      "fact": "Tom Allen weighed about 180 pounds after the Goss fight.",
+      "date": "1876-09-21",
+      "seed": "",
+      "conflict": "",
+      "claims": ["087.c7"]
+    },
+    {
+      "fact": "Tom Allen claimed in March 1877 that he could beat Joe Goss.",
+      "date": "1877-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["596.c3"]
+    },
+    {
+      "fact": "Pat Mullins and J. Driscoll were Tom Allen's seconds in his glove fight with Tompkins Gilbert in October 1877.",
+      "date": "1877-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["600.c2"]
+    },
+    {
+      "fact": "In March 1878 Tom Allen was in training at Barnet, on the Thames near London, under his trainer Jack Hopkins, weighing fourteen stone (196 pounds).",
+      "date": "1878-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["092.c1", "092.c3"]
+    }
+  ]
+}

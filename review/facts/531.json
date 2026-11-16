@@ -1,0 +1,30 @@
+{
+  "id": "531",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Jack Madden was arrested in Tom Allen's saloon on suspicion of having taken part in a robbery and was taken to the Third Precinct Station.",
+      "excerpt": "gobbled in Tom Allen’s saloon, last night",
+      "date": "1875-12-26",
+      "date_precision": "day",
+      "people": ["Jack Madden"],
+      "places": ["Tom Allen's saloon, St. Louis", "Third Precinct Station"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Jack Madden was searched at the Third Precinct Station and released at once, as nothing showed he was involved in the crime.",
+      "excerpt": "he was released at once, there being nothing tendixg to show",
+      "date": "1875-12-26",
+      "date_precision": "day",
+      "people": ["Jack Madden"],
+      "places": ["Third Precinct Station"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The arrest is about Madden but happened in Allen's saloon, so it is recorded. Madden is not Allen."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "715",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Tom Kelly, ex-champion pugilists of the world, were billed to do the wind-up sparring at the Fourth of July athletic tournament at the Union Base Ball Grounds.",
+      "excerpt": "TOM ALLEN and TOM KELLY, Poe Sar ae eters ox-Champion. prone of the Vorld, wi 6 Wind-up.",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Union Base Ball Grounds, Cass and Jefferson Avenues, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement; OCR columns are interleaved, so the excerpt joins fragments from the same ad. Hint kept; wording matches the ad."
+}

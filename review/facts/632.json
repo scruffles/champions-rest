@@ -1,0 +1,52 @@
+{
+  "id": "632",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen, then in London, issued a challenge to fight John Dwyer or any other man in the world at catch weights under London prize-ring rules for $1,000 a side.",
+      "excerpt": "has issued a challenge to fight Dwyer or any other man in the world at catch weights",
+      "date": "1879-11-20",
+      "date_precision": "day",
+      "people": ["John Dwyer"],
+      "places": ["London, England"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen proposed that the fight be held in Canada (printed as Canaca) within 100 miles of Buffalo or within 50 miles of Pittsburg.",
+      "excerpt": "within 100 miles of Buffalo or within 50 miles of Pittsburg",
+      "date": "1879-11-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Canada", "Buffalo", "Pittsburg"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen, formerly of St. Louis, was living in London, England, in November 1879.",
+      "excerpt": "formerly ot St. Louis, but now in Lon-don",
+      "date": "1879-11",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis", "London, England"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The paper said John Dwyer was out of training and probably would not accept Allen's challenge.",
+      "excerpt": "is out of training, and prob-\nably will not accept Alien’s challenge",
+      "date": "1879-11-20",
+      "date_precision": "day",
+      "people": ["John Dwyer"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Challenge only; no match agreed. Some OCR damage in the challenge and the Canada location."
+}

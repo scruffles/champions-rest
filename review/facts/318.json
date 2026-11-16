@@ -1,0 +1,56 @@
+{
+  "id": "318",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen had his headquarters at the Buckeye House near Cincinnati while training.",
+      "excerpt": "the headquarte-s of the above-named gentleman at this time.",
+      "date": "1869-05-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Buckeye House, near Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was training under his trainer, Sherman Thurston.",
+      "excerpt": "under the scientitic handling of his experienced trainer, Sherman Thurston,",
+      "date": "1869-05-23",
+      "date_precision": "day",
+      "people": ["Sherman Thurston"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was training for a forthcoming prize fight; the opponent is not named in this article.",
+      "excerpt": "is rapidly approaching the splenaid physical condition whien he deems it",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "unknown",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "is rapidly approaching the splenaid physical condition whien he deems it",
+      "reported_as": "report",
+      "notes": "Opponent not named in this article. Printed as a reprint of the Cincinnati Enquirer of 24 May 1869, so 'yesterday' is 1869-05-23."
+    }
+  ],
+  "notes": "Weight is blank in this printing, so the hint's 165 pounds is not supported here and is dropped. Allen's walk and the paper's comments on betting are not included."
+}

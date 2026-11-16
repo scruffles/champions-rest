@@ -1,0 +1,47 @@
+{
+  "id": "170",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen hung a picture of William McKinley on the wall of Champion's Rest among the best pugs and wrestlers, and backed him for president against Cleveland.",
+      "excerpt": "I’ve decked the wall with his picter. I've\nput ‘im among the best of the pugs and",
+      "date": "1896-09-25",
+      "date_precision": "day",
+      "people": ["William McKinley"],
+      "places": ["Champion's Rest"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "On Friday night Tom Allen sat at a table with a mallet and called the frequenters of Champion's Rest to order to start a McKinley club.",
+      "excerpt": "sat at a\ntuble with maliet in hand Friday night\nand called the frequenters of Champion's",
+      "date": "1896-09-25",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Champion's Rest"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The paper says Tom Allen's last battle was his 1876 fight with Joe Goss.",
+      "excerpt": "whose last\nbattle was with Joe (;os8s im 1876",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "1 think a club ought to be got up for this man McKinley.",
+      "topic": "forming a McKinley club"
+    }
+  ],
+  "fights": [],
+  "notes": "Headline says the McKinley club died aborning; the club's outcome is not stated in the body. Joe Goss name is garbled in the OCR (Joe (;os8s)."
+}

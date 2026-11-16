@@ -1,0 +1,19 @@
+{
+  "id": "539",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "The program for Tom Allen's benefit on March 30, 1876 included a wrestling match between Theobald Bauer and Andre Christol and a variety bill.",
+      "excerpt": "BENETIT GF _ TOM ALLEN, on_ which ocecasionx LAUER AND CHTMISTOL WILL WRESTLE.",
+      "date": "1876-03-30",
+      "date_precision": "day",
+      "people": ["Theobald Bauer", "Andre Christol"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The benefit bill is OCR-garbled; 'LAUER' and 'CHTMISTOL' are read as Bauer and Christol, which the other article confirms."
+}

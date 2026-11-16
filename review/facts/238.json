@@ -1,0 +1,59 @@
+{
+  "id": "238",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Bill Davis in one of the greatest bouts ever fought near St. Louis.",
+      "excerpt": "Tom Allen and Liil Davis. Mike McCoole and Tom Allen.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bill Davis"],
+      "places": ["near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole beat Tom Allen in one of the greatest bouts ever fought near St. Louis.",
+      "excerpt": "Tom Allen and Liil Davis. Mike McCoole and Tom Allen.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Bill Davis",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "near St. Louis",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Tom Allen and Liil Davis. Mike McCoole and Tom Allen.",
+      "reported_as": "record",
+      "notes": "Listed as one of the best bouts near St. Louis, winner named first. No date or round count given. The name is printed 'Liil Davis' (OCR for Bill)."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "near St. Louis",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Tom Allen and Liil Davis. Mike McCoole and Tom Allen.",
+      "reported_as": "record",
+      "notes": "Listed as one of the best bouts near St. Louis, winner named first. No date or round count given."
+    }
+  ],
+  "notes": "A 1920 list of the best bouts near St. Louis; the article is mainly about a Moore vs Lynch bout. Only the two Allen entries are recorded."
+}

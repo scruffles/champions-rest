@@ -1,0 +1,19 @@
+{
+  "id": "774",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "James Kelly, a St. Louis switchman later injured in Memphis, had been in the saloon business in St. Louis with Tom Allen.",
+      "excerpt": "ie associated there with Tom Allen, |\n» fighter, in the saloon business.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["James Kelly"],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The article is about James Kelly's accident in Memphis; Allen appears only as Kelly's former saloon partner. The date of the partnership is not given. The OCR is ragged at the start of the line."
+}

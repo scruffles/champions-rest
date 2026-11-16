@@ -1,0 +1,41 @@
+{
+  "id": "859",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen arrived in New Orleans with a large St. Louis delegation for the coming fights.",
+      "excerpt": "A large delegation from St. Louis arrived to-night, including Billy Johnson, Ed Butler, Chris Krauss, Constable Ben hee g & Harry Harris of the Morgan Club, Tom Kelly and Tom Allen",
+      "date": "1892-09-04",
+      "date_precision": "day",
+      "people": ["Billy Johnson", "Ed Butler", "Chris Krauss", "Harry Harris", "Tom Kelly"],
+      "places": ["New Orleans, Louisiana", "St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was very positive that John L. Sullivan would win.",
+      "excerpt": "Tom Allen is very positive that Sulliyan will win, sois Watkins.",
+      "date": "1892-09-04",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "Fred Watkins"],
+      "places": ["New Orleans, Louisiana"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Fred Watkins, Allen's old backer, was in the St. Louis delegation at New Orleans.",
+      "excerpt": "Tom Kelly and Tom Allen, the prize ring veterans; Fred Watkins, Allen's old backer;",
+      "date": "1892-09-04",
+      "date_precision": "day",
+      "people": ["Fred Watkins", "Tom Kelly"],
+      "places": ["New Orleans, Louisiana"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The hint's Corbett wording is not in this text; the text names only Sullivan. The paper's 'to-night' is taken as the paper's date. Allen is in a list of arrivals; no direct quote from him."
+}

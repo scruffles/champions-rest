@@ -1,0 +1,134 @@
+{
+  "bucket": "saloon-undated-p2",
+  "facts": [
+    {
+      "fact": "Tom Allen's Concert Saloon was on Fifth Street between O'Fallon and Biddle streets in 1869, with a bar in front, a back room with tables and a piano, and a photograph of Allen over the decanters.",
+      "date": "1869-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["767.c1"],
+      "join": "saloon-1868-1873#4"
+    },
+    {
+      "fact": "After retiring, Tom Allen opened a saloon on Market Street near Seventh.",
+      "date": "1870",
+      "seed": "",
+      "conflict": "",
+      "claims": ["252.c2"],
+      "join": "saloon-1868-1873#12"
+    },
+    {
+      "fact": "Tom Allen's concert saloon and free-and-easy were at 417 Washington Avenue, between Fourth and Fifth streets, from 1870 to 1873.",
+      "date": "1870-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["767.c2"],
+      "join": "saloon-1868-1873#20"
+    },
+    {
+      "fact": "Tom Allen was a saloon keeper on Market Street in St. Louis, near Seventh Street.",
+      "date": "",
+      "seed": "011",
+      "conflict": "name: Champion's Rest (252.c1) vs Sportsmen's Rest (262.c17, 263.c1); location: near Seventh (252.c1, 253.c4) vs between Sixth and Seventh (262.c17) vs at Sixth and Market (263.c1)",
+      "claims": ["252.c1", "253.c4", "262.c17", "263.c1"]
+    },
+    {
+      "fact": "After retiring from the ring, Tom Allen named his saloon the Champion's Rest and ran it until his death.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["252.c3", "253.c8", "254.c4"]
+    },
+    {
+      "fact": "Tom Allen's place had a large back room with a ring pitched in one corner and a platform for a piano in another.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["253.c9"]
+    },
+    {
+      "fact": "Tom Allen sat by the doorway with a gavel as master of ceremonies and bouncer.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["253.c10"]
+    },
+    {
+      "fact": "Disputants at Tom Allen's place who got too noisy were made to fight it out, and arguments that words could not settle were settled with bare hands in the back room, against the law.",
+      "date": "",
+      "seed": "",
+      "conflict": "method: thrown into the ring with gloves on (253.c11) vs bare hands in the back room (262.c18)",
+      "claims": ["253.c11", "262.c18"]
+    },
+    {
+      "fact": "Tom Allen had the liquor concession at the island fights and sold whiskey to spectators there.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["262.c19", "263.c15"]
+    },
+    {
+      "fact": "Tom Allen's saloon had stained glass doors and a steady throng of men coming and going on Saturday nights.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["265.c1"]
+    },
+    {
+      "fact": "It was said that Tom Allen's daughter had never crossed the threshold of the concert hall her father ran in St. Louis.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["279.c8"]
+    },
+    {
+      "fact": "While in Cleveland, Tom Allen sold beer and liquor and ran a business that was liberally patronized.",
+      "date": "",
+      "seed": "007",
+      "conflict": "",
+      "claims": ["352.c6", "352.c7"]
+    },
+    {
+      "fact": "Tom Allen was said to be behind an offer to lease the Washington School.",
+      "date": "",
+      "seed": "",
+      "conflict": "Peacock denied ever naming Allen (524.c1)",
+      "claims": ["524.c1"]
+    },
+    {
+      "fact": "Tom Allen was astonished by the change at Washington Avenue, where his old Champion's Rest, between Fourth and Fifth streets, had given place to a massive business structure.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["677.c3"]
+    },
+    {
+      "fact": "Tom Allen planned to choose a location in St. Louis and resume his old business there, making the city his permanent home.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["677.c4"]
+    },
+    {
+      "fact": "Capt. Wm. Richards secured the trophy from the first championship game at the Union base ball grounds, planning to have it gilded and presented to Tom Allen to hang in his Market Street saloon.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["705.c1"]
+    },
+    {
+      "fact": "James Kelly, a St. Louis switchman later injured in Memphis, had been in the saloon business in St. Louis with Tom Allen.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["774.c1"]
+    },
+    {
+      "fact": "Tom Allen's saloon had been for years one of the toughest resorts in St. Louis, and Allen handled its crowds by brute force.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["985.c9", "985.c10"]
+    }
+  ]
+}

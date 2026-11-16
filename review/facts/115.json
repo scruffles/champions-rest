@@ -1,0 +1,35 @@
+{
+  "id": "115",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen predicted that John L. Sullivan would knock out Dominick McCaffery in one round if the police let the fight go on.",
+      "excerpt": "if they iet Sullivan go in to win he'll Enock him out in one round",
+      "date": "1885-04-02",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "Dominick McCaffery"],
+      "places": ["Philadelphia"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Why that old newspaper wind-bag McCaffery couldn't lick anybody.",
+      "topic": "dismisses McCaffery"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "He's got no use for that kind of a man, and if he ever gets a show at bir: look out for a picnic.",
+      "topic": "on Sullivan and McCaffery"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "No, sir; he won't. 's too big a coward and besides, that wouid let Lim out of the gate money.",
+      "topic": "McCaffery would not fight outside the city"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen's opinions on the proposed Sullivan-McCaffery bout. No biographical facts."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "553",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen agreed to spar Tom Kelly at the Theater Comique in St. Louis at Kelly's benefit.",
+      "excerpt": "against Tom Kelly at the Theater Comique this evening, on the occasion of Kelly's benefit.",
+      "date": "1876-05-05",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Theater Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Sparring exhibition at a benefit, not a fight. The verb 'pnutup' is OCR for 'put up'."
+}

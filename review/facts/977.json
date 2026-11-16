@@ -1,0 +1,30 @@
+{
+  "id": "977",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's advertisement gave his address as 610 Market street (printed as 610) and offered concerts every evening.",
+      "excerpt": "Tom Allen, retiréd champion of the world: | 610 Market atreet",
+      "date": "1898-08-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["610 Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was billed in this advertisement as retired champion of the world.",
+      "excerpt": "Tom Allen, retiréd champion of the world: | 610 Market atreet",
+      "date": "1898-08-20",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Address printed as 610; the same ad runs as 619 elsewhere. Concerts line is garbled. Kerwin and Everhart items do not involve Allen."
+}

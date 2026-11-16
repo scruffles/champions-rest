@@ -1,0 +1,12 @@
+{
+  "id": "300",
+  "claims": [
+    {"kind": "fight", "statement": "Tom Allen was to fight Bill Davis for the championship on January 12, 1869, and whoever failed to appear would lose the match.", "excerpt": "Bill Davis, of St. Louis, and Tom Allen, of California, to come off on the 12th of Jan-", "date": "1869-01-12", "date_precision": "day", "people": ["Bill Davis"], "places": [], "retrospective": false, "confidence": "high"},
+    {"kind": "other", "statement": "On Christmas night 1868, at Doyle's near the Fair Grounds, rowdies said to be Allen's backers quarrelled with Bill Davis, and one cut Davis on the wrist with a carving knife.", "excerpt": "Seven or eight rowdies, said to be backers of Allen,", "date": "1868-12-25", "date_precision": "day", "people": ["Bill Davis"], "places": ["Doyle's, near the Fair Grounds, St. Louis"], "retrospective": false, "confidence": "medium"}
+  ],
+  "quotes": [],
+  "fights": [
+    {"opponent": "Bill Davis", "date": "1869-01-12", "date_precision": "day", "place": "", "result": "unknown", "rounds": "", "duration": "", "stakes": "", "rules": "", "excerpt": "Bill Davis, of St. Louis, and Tom Allen, of California, to come off on the 12th of Jan-", "reported_as": "report", "notes": "Described as the national championship. The paper gives Allen as 'of California' and Davis as 'of St. Louis', the reverse of article 298. No forfeit is stated."}
+  ],
+  "notes": "The attack on Davis is recorded as an other claim because the rowdies are said to be Allen's backers and Allen is not named. The bribery rumour about 'Dublin Tricks' is not about Allen."
+}

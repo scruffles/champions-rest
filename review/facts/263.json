@@ -1,0 +1,208 @@
+{
+  "id": "263",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen had been a saloon keeper in St. Louis and operated the Sportsmen's Rest at Sixth and Market.",
+      "excerpt": "He had been a saloon keeper in St. Louis, had operated the Sportsmen’s Rest at Sixth and Market,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Sixth and Market, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen defeated Bill McCoole for the championship on Chouteau Island in the Mississippi in September 1871.",
+      "excerpt": "had defeated Bill McCoole for the championship on Chouteau Island in the Mississippi in September of 1871.",
+      "date": "1871-09",
+      "date_precision": "month",
+      "people": ["Bill McCoole"],
+      "places": ["Chouteau Island, Mississippi River"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost the championship to Joe Goss in 1876 on a foul.",
+      "excerpt": "He defended against all. comers until 1876 when he lost the title on a foul to Joe Goss.",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to his native England for a visit in 1878.",
+      "excerpt": "Two years later he returned to his native England",
+      "date": "1878",
+      "date_precision": "year",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was presented with a huge silver cup by his friends and admirers on 22 May 1878.",
+      "excerpt": "silver cup by his friends and admirers. That happened exactly 100 years ago on next May 22.",
+      "date": "1878-05-22",
+      "date_precision": "day",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen lost interest in boxing and retired when the Marquis of Queensberry refined the rules of the game.",
+      "excerpt": "Allen lost interest in boxing when the Marquis of Queensberry, appalled by the bloody carnage he had witnessed in the bare knuckle brawls, refined the rules of the game.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Marquis of Queensberry"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen's daughter Mary, also called Polly, came to the United States with him and later married Edward Taylor of St. Louis.",
+      "excerpt": "States with him and she subsequently married Edward Taylor of St.. Louis.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Polly Allen Taylor", "Edward Taylor"],
+      "places": ["United States", "St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Edward Taylor and Polly Allen Taylor were the grandparents of Thomas Allen Taylor, Tom Allen's great-grandson.",
+      "excerpt": "They are the grandparents of Thomas Allen Taylor, chairman of the Board of the Seven Up Company",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Thomas Allen Taylor", "Edward Taylor", "Polly Allen Taylor"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died in 1903.",
+      "excerpt": "When Allen died in 1903, it was assumed he left some money.",
+      "date": "1903",
+      "date_precision": "year",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen's will left everything to his daughter Polly Allen Taylor and to a friend, Tillie Hartgrove.",
+      "excerpt": "His will left everything to his daughter, Polly Allen Taylor, and to a friend, Tillie Hartgrove.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Polly Allen Taylor", "Tillie Hartgrove"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "When Tom Allen's will was probated, the estate was valued at $278.35.",
+      "excerpt": "had gone the way of fighters up to this day. The will amounted to $278.35.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen's silver cup went to Miss Hartgrove, and was retrieved from a Market Street pawn shop in 1938 by Tom Taylor's father.",
+      "excerpt": "until my father retrieved it from a Market Street pawn shop in 1938",
+      "date": "1938",
+      "date_precision": "year",
+      "people": ["Tillie Hartgrove", "Tom Taylor"],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "A family story says Tom Allen came into possession of a diamond belt, emblematic of the world championship, but no one can verify it.",
+      "excerpt": "Tom Allen came into possession of a diamond belt, emblematic of the world championship.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Taylor plans to offer Tom Allen's silver cup to the Missouri Historical Society.",
+      "excerpt": "He plans to offer the silver cup, the lone remaining memento of his great grandfather’s reign as champion, to the Missouri Historical Society.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tom Taylor"],
+      "places": ["Missouri Historical Society"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was prosperous, selling whiskey to spectators at the island fights.",
+      "excerpt": "his saloon had been prosperous, he had made a fair amount of money selling whiskey to the spectators who gathered for the fights on the islands.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["the islands, Mississippi River"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "They’ve made it a sissy sport,’ he said. ‘‘I want no part of it.",
+      "topic": "on the Queensberry rules and gloves"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Bill McCoole",
+      "date": "1871-09",
+      "date_precision": "month",
+      "place": "Chouteau Island, Mississippi River",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "the championship",
+      "rules": "",
+      "excerpt": "had defeated Bill McCoole for the championship on Chouteau Island in the Mississippi in September of 1871.",
+      "reported_as": "recollection",
+      "notes": "Printed as Bill McCoole; 266 gives Mike McCoole and a 1873 Allen win at Chateau Island, St. Louis, with no 1871 title fight."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1876",
+      "date_precision": "year",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "the title",
+      "rules": "",
+      "excerpt": "He defended against all. comers until 1876 when he lost the title on a foul to Joe Goss.",
+      "reported_as": "recollection",
+      "notes": "Lost on a foul. 266 places the Goss fight in Kentucky for the championship of America."
+    }
+  ],
+  "notes": "1978 retrospective piece; the 1871 McCoole title fight conflicts with 266. Hints for 1903 and 1938 are confirmed; the 1938 Hartgrove link is inferred from 'Miss Hartgrove'."
+}

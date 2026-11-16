@@ -1,0 +1,34 @@
+{
+  "id": "611",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Davis, champion of the United Kingdom, for the championship of the world and £200 a side at St. George Hall; Davis was knocked senseless in the fifth round.",
+      "excerpt": "prize fight for the yf the world and £200 a sid",
+      "date": "1878-04-04",
+      "date_precision": "day",
+      "people": ["Davis"],
+      "places": ["St. George Hall"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Davis",
+      "date": "1878-04-04",
+      "date_precision": "day",
+      "place": "St. George Hall",
+      "result": "win",
+      "rounds": "5",
+      "duration": "eighteen and a half minutes",
+      "stakes": "£200 a side",
+      "rules": "",
+      "excerpt": "prize fight for the yf the world and £200 a sid",
+      "reported_as": "report",
+      "notes": "The referee declared Allen the winner after cries of foul; the item is a fuller re-run of the London dispatch, with heavy OCR damage."
+    }
+  ],
+  "notes": "Fight of last Thursday (4 April); OCR damage throughout."
+}

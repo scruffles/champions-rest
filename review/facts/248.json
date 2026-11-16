@@ -1,0 +1,131 @@
+{
+  "id": "248",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "In their first fight, Tom Allen was beating Mike McCoole when the crowd broke into the ring, and the referee then gave McCoole the win on a foul.",
+      "excerpt": "Allen was giving Mike a bad whipping when the crowd broke into the ring",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen defeated Mike McCoole in their return match, which was advertised as a championship fight, on an island in the Mississippi opposite St. Louis.",
+      "excerpt": "as was their return match, in which Allen was an easy victor",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["Island in the Mississippi opposite St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Titles were nebulous in those days, and Tom Allen had only a thin claim to the heavyweight title.",
+      "excerpt": "Titles, in those days, were nebulous, however, and Allen had only a thin claim to it",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss to a 35-round draw before leaving England.",
+      "excerpt": "Allen had fought a 35-round draw with Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "In 1876 Joe Goss beat Tom Allen in Kentucky on a foul after 29 rounds, and Allen lost all claim to the title.",
+      "excerpt": "years later when, in 1876, they fought in Kentucky, Goss winning on a foul after 29 rounds",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was 5 feet 9 inches tall and weighed under 175 pounds.",
+      "excerpt": "He was only 5 feet 9 inches tall and weighed under 175 pounds",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen was giving Mike a bad whipping when the crowd broke into the ring",
+      "reported_as": "recollection",
+      "notes": "Referee declared McCoole the winner on a foul; McCoole then claimed the title. Undated in this text."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Island in the Mississippi opposite St. Louis",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "as was their return match, in which Allen was an easy victor",
+      "reported_as": "recollection",
+      "notes": "Advertised as a championship event. Undated in this text."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "draw",
+      "rounds": "35",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen had fought a 35-round draw with Joe Goss",
+      "reported_as": "recollection",
+      "notes": "Fought before Allen left England for St. Louis (OCR reads 'Engiand'). Date not given."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1876",
+      "date_precision": "year",
+      "place": "Kentucky",
+      "result": "loss",
+      "rounds": "29",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "years later when, in 1876, they fought in Kentucky, Goss winning on a foul after 29 rounds",
+      "reported_as": "recollection",
+      "notes": "Goss won on a foul; the text does not say whose foul."
+    }
+  ],
+  "notes": "Dates for the two McCoole fights and the return match are not given in this text, so they are left undated. The hint that Allen 'regained his title' in 1873 is not in this text."
+}

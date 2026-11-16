@@ -1,0 +1,19 @@
+{
+  "id": "606",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "As of 13 February 1878, £50 a side was posted for the glove match between Tom Allen and Charley Davis for £100 a side and the championship.",
+      "excerpt": "At last advices, February 13, £50 a side was",
+      "date": "1878-02-13",
+      "date_precision": "day",
+      "people": ["Charley Davis"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Deposit is £50 a side here but £40 a side in 604 (dated 1878-02-24); the two conflict."
+}

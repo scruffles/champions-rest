@@ -1,0 +1,128 @@
+{
+  "id": "516",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to St. Louis from a visit to the principal cities of the East.",
+      "excerpt": "turned home yesterday from a visit to the princi-",
+      "date": "1875-03-19",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis", "New York", "Boston", "Philadelphia", "Pittsburg"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen gave sparring exhibitions in New York, Boston, Philadelphia and Pittsburg on his eastern tour.",
+      "excerpt": "He gave sparring exhibi-\ntions in. New York, Boston, Philadelphia, and",
+      "date": "1875-03",
+      "date_precision": "month",
+      "people": [],
+      "places": ["New York", "Boston", "Philadelphia", "Pittsburg"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "At his benefit at the Grand Central Variety Theater in Philadelphia, Tom Allen was presented with a large solid silver goblet.",
+      "excerpt": "At Philadelphia Tom was presented, on the oc-\ncasion of his benefit, with a large solid silver",
+      "date": "1875-03",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Grand Central Variety Theater, Philadelphia"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "The silver goblet presented to Tom Allen held a quart and cost $250.",
+      "excerpt": "mounted by the figure of a gladiator, The vessel\ncost $250.",
+      "date": "1875-03",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The inscription on the goblet presented to Tom Allen calls him Champion of America.",
+      "excerpt": "Presented to Tom Allen, Champion of Amegica,",
+      "date": "1875-03",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen is described as the belted pugilist of America.",
+      "excerpt": "Tom Allen, the belted pugilist of Ameriea, re-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "A match with George Rooke was announced for June 1875, and Tom Allen expected Rooke to forfeit.",
+      "excerpt": "Rook in June, Tom says he thinks his opponent",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": ["George Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was in fine health but still quite fleshy.",
+      "excerpt": "Allen is in fine health, but still quite fleshy.",
+      "date": "1875-03-19",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen planned to leave St. Louis in two or three weeks and go into training.",
+      "excerpt": "leave the city intwo or three weeks and go into",
+      "date": "1875-04",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Rook is ‘no greatscratch.’",
+      "topic": "dismissing George Rooke"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "George Rooke",
+      "date": "1875-06",
+      "date_precision": "month",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Rook in June, Tom says he thinks his opponent",
+      "reported_as": "report",
+      "notes": "Match announced for June 1875; Allen expected Rooke to forfeit. Outcome not given in this article."
+    }
+  ],
+  "notes": "Hint dates for the goblet (03-12) and Rooke quote are not in the text, which gives only 'March' and 'June'. Benefit date is month only."
+}

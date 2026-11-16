@@ -1,0 +1,92 @@
+{
+  "id": "229",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Joe Goss, who had signed articles to fight for the English championship, were both arrested on bench warrants on the eve of the fight.",
+      "excerpt": "both men were arrested on the eve of the fight upon bench warrants",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was in America in 1867.",
+      "excerpt": "At that time (1867) Tom Allen was at his very best",
+      "date": "1867",
+      "date_precision": "year",
+      "people": [],
+      "places": ["United States"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "In 1867 Tom Allen was about 5 feet 10 inches tall and weighed about 164 pounds.",
+      "excerpt": "fully 5 feet 10 inches, and about 164 pounds.",
+      "date": "1867",
+      "date_precision": "year",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Soon after arriving in America, Tom Allen was matched with Mike McCoole; McCoole's friends stopped the fight with ball cartridge while Allen was winning.",
+      "excerpt": "soon after his arrival in America he made a match with Mike McCoole, a man almost big enough to eat him",
+      "date": "1867",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss in America for the championship of the world; Goss's armed backers forced the referee to give the decision to Goss when Goss was losing.",
+      "excerpt": "that worthy was induced to give his decision in favor of the man who would in all probability have lost",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1867",
+      "date_precision": "approx",
+      "place": "",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "soon after his arrival in America he made a match with Mike McCoole, a man almost big enough to eat him",
+      "reported_as": "recollection",
+      "notes": "Stopped by McCoole's friends with ball cartridge while Allen was winning (Clark's account). Date approximate."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "championship of the world",
+      "rules": "London Prize Ring Rules",
+      "excerpt": "The men, of course, fought under the recognized London Prize Ring Rules",
+      "reported_as": "recollection",
+      "notes": "Year not given in this article. Decision given to Goss after the referee was pressured by Goss's backers."
+    }
+  ],
+  "notes": "Clark's recollections in Billy Murphy's article. The arrest story conflicts with article 234, which has Allen and Goss fighting a draw on March 5, 1867."
+}

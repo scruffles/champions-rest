@@ -1,0 +1,67 @@
+{
+  "id": "421",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Jas. C. Gallagher made a match for a fight at a meeting over Hennessey's saloon, Fourth and Morgan streets.",
+      "excerpt": "A match for a tight between Tom Alien and Jas.",
+      "date": "1870-09-19",
+      "date_precision": "day",
+      "people": ["Jas. C. Gallagher"],
+      "places": ["Hennessey's saloon, Fourth and Morgan streets"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The match was for $1,500, with Allen staking $1,000 against Gallagher's $500.",
+      "excerpt": "Allen staking $1,000 to Gallagher’s $500, The fight",
+      "date": "1870-09-19",
+      "date_precision": "day",
+      "people": ["Jas. C. Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen deposited $200 and Gallagher deposited $100 toward the match.",
+      "excerpt": "Allen made a deposit of $200\nand Gallagher one of $100.",
+      "date": "1870-09-19",
+      "date_precision": "day",
+      "people": ["Jas. C. Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The fight was to come off on November 1 within fifty miles of St. Louis.",
+      "excerpt": "has to come off on the Ist of November, within 0",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["Jas. C. Gallagher"],
+      "places": ["within fifty miles of St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jas. C. Gallagher",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "place": "within fifty miles of St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,500 ($1,000 Allen, $500 Gallagher)",
+      "rules": "",
+      "excerpt": "has to come off on the Ist of November, within 0",
+      "reported_as": "report",
+      "notes": "Articles signed; no result given. Distance printed as '0 mailes' (OCR for 50)."
+    }
+  ],
+  "notes": "Only the match-making items concern Allen; the other news is unrelated."
+}

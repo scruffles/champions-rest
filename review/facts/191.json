@@ -1,0 +1,41 @@
+{
+  "id": "191",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was at No. 619 Market street, St. Louis.",
+      "excerpt": "ning at Tom Allen's saloon, at No. 619 Mar-\nket street.",
+      "date": "1901-03-03",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Edward Hodo of Granite City fell down a flight of stairs at Tom Allen's saloon at about 1:40 a.m. on March 3, 1901.",
+      "excerpt": "Officer Schleifstein of the Central Police District saw Hodo fall down a flicht of Stairs at the saloon at 1:40 o'clock yesterday morning.",
+      "date": "1901-03-03",
+      "date_precision": "day",
+      "people": ["Edward Hodo", "Officer Schleifstein"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Police arrested Jesse Carraher, a musician employed in the saloon, pending investigation of the fall.",
+      "excerpt": "placed him under arrest pending investiga-\ntion of the case.",
+      "date": "1901-03-03",
+      "date_precision": "day",
+      "people": ["Jesse Carraher"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The printed text gives the name once as Garraher and elsewhere as Carraher; Carraher is used. Hodo's skull fracture is reported in the article but is not Allen's injury, so it is not claimed. Allen himself is not named in the incident."
+}

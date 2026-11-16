@@ -1,0 +1,45 @@
+{
+  "id": "598",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was matched to fight Tompkins Gilbert on October 29, 1877, in the London district, with £100 in stakes posted.",
+      "excerpt": "between Tompkins Gilbert, the champion of England, and Tom Allen, the champion of America. All the stakes, £100, have been posted",
+      "date": "1877-10-29",
+      "date_precision": "day",
+      "people": ["Tompkins Gilbert"],
+      "places": ["London district, England"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "In September 1877 Tom Allen was described as the champion of America.",
+      "excerpt": "between Tompkins Gilbert, the champion of England, and Tom Allen, the champion of America",
+      "date": "1877-09",
+      "date_precision": "month",
+      "people": ["Tompkins Gilbert"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Tompkins Gilbert",
+      "date": "1877-10-29",
+      "date_precision": "day",
+      "place": "London district, England",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "£100 posted",
+      "rules": "new rules of the London prize-ring, catchweight",
+      "excerpt": "between Tompkins Gilbert, the champion of England, and Tom Allen, the champion of America. All the stakes, £100, have been posted",
+      "reported_as": "report",
+      "notes": "Planned bout; not yet fought when printed."
+    }
+  ],
+  "notes": ""
+}

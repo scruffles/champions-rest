@@ -1,0 +1,19 @@
+{
+  "id": "631",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen was anxious to fight John Dwyer.",
+      "excerpt": "The Pugilist Tom Allen Anxious to Fight With Dwyer.",
+      "date": "1879-11",
+      "date_precision": "month",
+      "people": ["John Dwyer"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only the headline and cross-head survive; the article body is not in the scan. The rest of the page (a mail coach robbery, a double death) is not about Allen."
+}

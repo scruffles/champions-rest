@@ -1,0 +1,152 @@
+{
+  "bucket": "life-1875-1902",
+  "facts": [
+    {
+      "fact": "In March 1875 Tom Allen was reported to be 36 years old.",
+      "date": "1875-03",
+      "seed": "",
+      "conflict": "age: 264.c10 (published 10 May 1875) gives him as about 33, one year younger than Rooke",
+      "claims": ["514.c5", "264.c10"]
+    },
+    {
+      "fact": "In March 1875 Tom Allen weighed about 210 pounds, was in fine health but still quite fleshy, and would have to train down to 172 pounds to fight.",
+      "date": "1875-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["514.c6", "516.c8"]
+    },
+    {
+      "fact": "In July 1875 Tom Allen had a family to care for.",
+      "date": "1875-07-18",
+      "seed": "",
+      "conflict": "",
+      "claims": ["523.c6"]
+    },
+    {
+      "fact": "In September 1876 Tom Allen was four years younger than his opponent, Joe Goss.",
+      "date": "1876-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["578.c2", "579.c2"]
+    },
+    {
+      "fact": "After his September 1876 fight with Joe Goss, Tom Allen had only a slight mark on his upper lip and a swollen right hand, and a paper said he looked the very picture of physical health.",
+      "date": "1876-09-13",
+      "seed": "",
+      "conflict": "",
+      "claims": ["085.c5", "581.c5"]
+    },
+    {
+      "fact": "In September 1876 a paper said Tom Allen's accent showed his nationality, without naming it.",
+      "date": "1876-09-19",
+      "seed": "",
+      "conflict": "",
+      "claims": ["581.c4"]
+    },
+    {
+      "fact": "Tom Allen's daughter Mary, called Polly, returned to the United States with him and later married Edward Taylor of St. Louis.",
+      "date": "1878",
+      "seed": "",
+      "conflict": "location: 262.c12 says Mary returned to the US with Allen, while seed 012 places Mary Taylor in Birmingham, England",
+      "claims": ["262.c12"]
+    },
+    {
+      "fact": "In November 1882 Tom Allen was 43 years old, according to the Boston Star.",
+      "date": "1882-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["269.c5", "271.c1"]
+    },
+    {
+      "fact": "In January 1882 a mob of roughs at Cork, Ireland, attacked Tom Allen and cut and bruised him so badly that his life was despaired of.",
+      "date": "1882-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["645.c2"]
+    },
+    {
+      "fact": "In 1882 Tom Allen had a severe attack of sea-sickness crossing the ocean, from which he had just recovered.",
+      "date": "1882",
+      "seed": "",
+      "conflict": "",
+      "claims": ["677.c5"]
+    },
+    {
+      "fact": "On 5 December 1882 Tom Allen said he had been sick and had not left the house since his exhibition.",
+      "date": "1882-12-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["099.c3"]
+    },
+    {
+      "fact": "On 29 December 1882 Tom Allen said he was as well as ever, though he had a sore throat from a slight cold.",
+      "date": "1882-12-29",
+      "seed": "",
+      "conflict": "",
+      "claims": ["102.c2"]
+    },
+    {
+      "fact": "In September 1885 Tom Allen was an incorrigible bachelor, and hints of marriage had come to nothing.",
+      "date": "1885-09-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["117.c4"]
+    },
+    {
+      "fact": "After the June 1888 street fight Tom Allen had a cut and discoloured ear, an abrasion on the left jaw, a black eye and a bruise on the side of his face.",
+      "date": "1888-06-17",
+      "seed": "",
+      "conflict": "",
+      "claims": ["130.c3", "131.c4"]
+    },
+    {
+      "fact": "Tom Allen was thrown from his buggy on Saturday 10 September 1892 when his horse became uncontrollable on his usual afternoon drive, and was confined to bed from 13 September with a painful illness from the shaking up.",
+      "date": "1892-09-10",
+      "seed": "",
+      "conflict": "severity and cause: 148.c36 says he was thrown against a post and was seriously ill from the shock a day or two after returning from New Orleans, while 861.c2 says the illness was not thought to be serious",
+      "claims": ["861.c1", "861.c2", "148.c36"]
+    },
+    {
+      "fact": "Tom Allen's birthday was celebrated on 23 April 1892.",
+      "date": "1892-04-23",
+      "seed": "",
+      "conflict": "",
+      "claims": ["141.c1"]
+    },
+    {
+      "fact": "In March 1895 Tom Allen was described as 54 years old.",
+      "date": "1895-03",
+      "seed": "",
+      "conflict": "age: 909.c1 also gives his age as 56 in the same article",
+      "claims": ["909.c1"]
+    },
+    {
+      "fact": "In May 1896 Tom Allen was reported as not badly hurt; the sentence is cut off in the scan.",
+      "date": "1896-05-15",
+      "seed": "",
+      "conflict": "",
+      "claims": ["931.c6"]
+    },
+    {
+      "fact": "On 1 July 1898 Tom Allen was badly punished in an attack and was saved from serious injury when his barkeeper came to his rescue just in time.",
+      "date": "1898-07-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["974.c3", "975.c3"]
+    },
+    {
+      "fact": "In March 1900 Tom Allen's daughter lived in the building where he ran his concert hall and had devoted her life to caring for him.",
+      "date": "1900-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["279.c3", "279.c4"]
+    },
+    {
+      "fact": "Tom Allen had been ill since Christmas 1902 and was convalescing in March and April 1903.",
+      "date": "1902-12",
+      "seed": "",
+      "conflict": "illness onset: 197.c4 and 201.c3 say ill since Christmas 1902, while seed 043 says he was in bed from 31 January 1903",
+      "claims": ["197.c4", "201.c3"]
+    }
+  ]
+}

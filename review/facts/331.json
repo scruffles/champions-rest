@@ -1,0 +1,111 @@
+{
+  "id": "331",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen left St. Louis on June 29, 1869 for an extensive sparring tour.",
+      "excerpt": "Tom Allen, the fistic hero, left the city yesterday",
+      "date": "1869-06-29",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was to give a sparring exhibition with Jim Coyne at Vincennes, Indiana, on the night of June 30, 1869.",
+      "excerpt": "night he has a sparring exhibition at Vincennes, Ind.",
+      "date": "1869-06-30",
+      "date_precision": "day",
+      "people": ["Jim Coyne"],
+      "places": ["Vincennes, Indiana"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Jim Coyne were to give a gloves exhibition at Cincinnati on Thursday night, July 1, 1869.",
+      "excerpt": "night the two pugilists give an exhibition of",
+      "date": "1869-07-01",
+      "date_precision": "day",
+      "people": ["Jim Coyne"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "After Cincinnati, Tom Allen and Jim Coyne were to go to Louisville and return to St. Louis about July 6, 1869.",
+      "excerpt": "go to Louisville, and will return here about the 6th",
+      "date": "1869-07-06",
+      "date_precision": "approx",
+      "people": ["Jim Coyne"],
+      "places": ["Louisville", "St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "The Cincinnati Commercial reported that Tom Allen did not go on to Cincinnati and returned to St. Louis instead, in response to a telegram.",
+      "excerpt": "He returned to St. Louis instead, in response",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis", "Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "The Cincinnati Commercial reported that Tom Allen's early love from England, whose family had settled in New York State, ran away from home to share his honors and went with him toward St. Louis.",
+      "excerpt": "early love, who ran away from heme to share his",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["New York State", "St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "The Cincinnati Commercial called Tom Allen the champion pugilist of the United States.",
+      "excerpt": "Tom Allen, the champion pugilist of the Untod",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had a recent fight with Mike McCoole, after which his correspondence with the English girl was ended.",
+      "excerpt": "Tecent fight with McCoole. Fiat ght settled the",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "McCoole",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Tecent fight with McCoole. Fiat ght settled the",
+      "reported_as": "report",
+      "notes": "Mentioned in passing in a Cincinnati Commercial account; result not stated. The passage is garbled by OCR."
+    }
+  ],
+  "notes": "The Commercial account (reprinted) conflicts with the paper's own report that Allen was to exhibit at Vincennes on June 30; the Commercial's date is uncertain. Passage is heavily garbled; the family claim is a press report of a courtship and is medium confidence. Champion title is the Commercial's description."
+}

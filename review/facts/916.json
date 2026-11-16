@@ -1,0 +1,30 @@
+{
+  "id": "916",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised free concerts every evening at 619 Market street, St. Louis.",
+      "excerpt": "Tom Allen, retired champion pugilist of the\nworld, 619 Market street; free concert every",
+      "date": "1895-09-28",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as the retired champion pugilist of the world.",
+      "excerpt": "Tom Allen, retired champion pugilist of the\nworld",
+      "date": "1895-09-28",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. The rest of the page (the Teetotaler item) is not about Allen. The text does not say 'saloon'; see the 909 article."
+}

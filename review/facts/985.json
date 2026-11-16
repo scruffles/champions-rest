@@ -1,0 +1,129 @@
+{
+  "id": "985",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen shot and fatally wounded Tim Confoy in his saloon at 619 Market street just after 2 o'clock on the morning of 26 February 1899.",
+      "excerpt": "In a fight in his saloon at 619 Market street just after 2 o'clock this morning Tom Allen, the ex-pugilist, shot and fatally wounded Tim Confoy",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Tim Confoy"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen fired five shots at Confoy, and Confoy fell after the fifth.",
+      "excerpt": "as he fired the fifth shot Confoy fell, without a word",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Tim Confoy"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen said he recognized Confoy as a man who had been in the saloon on a previous night during the past week.",
+      "excerpt": "recognized Confoy as a man who had been in the saloon on a previous night during the past week",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tim Confoy"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen said he had not produced his revolver until he saw Confoy try to draw his weapon.",
+      "excerpt": "he had said that he had not produced his revolver until he had seen Confoy make an effort to draw his weapon",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Tim Confoy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen surrendered his revolvers to Officer Clifford.",
+      "excerpt": "To Officer Clifford, who was one of the first policemen to arrive, Allen turned over his revolvers and surrendered",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Officer Clifford"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen was taken to the Chestnut Street station and placed in the holdover.",
+      "excerpt": "Allen was hurried to the Chestnut street station, where he was placed in the holdover",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Chestnut Street station, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen was later moved to the Four Courts holdover by direct order of Chief Pickel.",
+      "excerpt": "Later Allen was removed to the Four Courts holdover by direct order of Chief Pickel",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Chief Pickel"],
+      "places": ["Four Courts, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Allen had been drinking heavily and was still under the influence of liquor when he was moved to the Four Courts.",
+      "excerpt": "Here he showed that he had been drinking heavily, for he was still considerably under the influence of liquor",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Four Courts, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Allen's saloon had been for years one of the toughest resorts in the city.",
+      "excerpt": "Allen's resort has been for years one of the toughest resorts in the city",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Allen, an old prizefighter, handled the crowds in his saloon by brute force.",
+      "excerpt": "Himself an old prizefighter, he was able to handle the crowds by brute force",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Oh, no, you're too bloody slow",
+      "topic": "firing at Confoy"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "Then, you bet your life, I let the bloody fool have it, and have it right.",
+      "topic": "defends the shooting"
+    }
+  ],
+  "fights": [],
+  "notes": "Confoy's wounds, the bartender's account and Spencer's injury concern other people and were not extracted. The hints on the holdover and drinking were kept."
+}

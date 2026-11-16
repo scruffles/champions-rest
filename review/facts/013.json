@@ -1,0 +1,34 @@
+{
+  "id": "013",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "The Allen and McCoole fight was agreed to take place within fifty miles of St. Louis on 15 May 1869, with the winner to take the stakes and excursion money.",
+      "excerpt": "the fight is to come ot within fifty miles of St. Louis, on the 15th prox.",
+      "date": "1869-05-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["within fifty miles of St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-05-15",
+      "date_precision": "day",
+      "place": "within fifty miles of St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "the stakes and excursion money",
+      "rules": "",
+      "excerpt": "the fight is to come ot within fifty miles of St. Louis, on the 15th prox.",
+      "reported_as": "report",
+      "notes": "Agreed match under the published articles; not yet fought in this article. 'Prox.' read as the next month."
+    }
+  ],
+  "notes": "The training at Doyle's Exchange is McCoole's, not Allen's."
+}

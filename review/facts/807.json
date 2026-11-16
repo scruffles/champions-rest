@@ -1,0 +1,30 @@
+{
+  "id": "807",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place at 619 Market Street offered a free concert every evening.",
+      "excerpt": "the worlu, 619 Market street. Prée concert",
+      "date": "1891-01-10",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "A notice advertised Tom Allen as the retired champion pugilist of the world.",
+      "excerpt": "Tom ALLEN, retired champion pugilist of\nthe worlu, 619 Market street.",
+      "date": "1891-01-10",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. 'Saloon' comes from the title; the notice does not use the word. 'Prée' is OCR for 'Free'."
+}

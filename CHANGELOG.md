@@ -1,11 +1,19 @@
 # Changelog
 
+## 2026-11-16
+
+### Changed
+- `data/facts.js`, `data/fights.js` and new `data/quotes.js` replaced with the generated facts index (1,030 facts, 64 fight entries, 225 quotes); disputed facts are separate versions that point at each other
+- Record page: shows the result most sources give, flags "Result disputed" and lists the other results with their sources under "Also reported"; Biography footnotes list the other versions of a disputed fact or fight
+
 ## 2026-11-15
 
 ### Added
 - 47 re-cut clippings installed and uploaded to S3, each with a rebuilt thumbnail: 1000, 1004, 1009, 185, 186, 252, 407, 478, 493, 498, 506, 520, 525, 526, 539, 570, 573, 587, 633, 647, 667, 675, 681, 685, 699, 701 (crop from 702), 712, 739, 771, 777, 837, 859, 876, 891, 896, 897, 898, 906, 924, 930, 931, 942, 955, 962, 965, 974, 985
 - Crop of 307 (`image-307c.jpg`) uploaded to S3; its thumbnail rebuilt
 - `review/MISSING-PAGES.md`: articles whose clipping is missing a page, torn or cut short
+- Facts index (`review/facts/`, `review/facts-index/`): every article re-read for facts, quotes and fights, each claim with an excerpt checked against the text (3,571 claims, 225 quotes, 783 fight entries); claims grouped into 1,027 facts and 64 bouts, with conflicts noted; disputed facts split into versions that reference each other, and fights list every disputed result. Tools: `scripts/facts-tools.cjs`, `scripts/facts-names.cjs`, `scripts/facts-group.cjs`; instructions in `.claude/skills/index-facts/`
+- Draft `facts.js`, `fights.js` and `quotes.js` in `review/facts-index/draft/` (copied to `data/`); every Biography `<Ref>` and `<Fight>` id resolves in them
 
 ### Changed
 - Duplicates merged and removed: 943 into 942, 986 into 985, 1005 and 1006 into 1004, 1010 into 1009
@@ -16,6 +24,7 @@
 - `scripts/upload-images.cjs` also syncs the re-cut clippings (`image-NNNc.jpg`) from `public/images/articles`
 - Article review finished and merged into the site data: new summaries for 933 articles, title fixes for 434, focus levels for 573, and tags for every article
 - The records of 33 articles whose text or source changed were redone before the merge
+- Hand transcripts for the Allen passages the OCR lost: 036, 045, 190, 274, 445, 892, 988
 - Hand transcripts replace unusable OCR for 21 articles: 088, 094, 106, 145, 146, 147, 201, 242, 243, 255, 303, 508, 678, 891, 906, 909, 924, 926, 974, 985, 1009
 - Transcript errors fixed: 106 (Egan, not Brooks, was knocked out), 109 ("both" principals arrested), 617 ($250 fine, 250 days); facts index note for 203 corrected (1869, not 1979)
 - 59 more re-cut clippings installed, with thumbnails: the 44 that had passed with doubts, 145, 146, 147 and 201 (their old crops were whole pages), the re-cut fails 1017, 196, 221, 686, 723, 873, 902, 923, 963, 996, and 058. Every listed cut-off clipping is now re-cut except 769 (torn scan)
@@ -142,8 +151,10 @@
 ## Backlog
 
 ### Biography & Facts
-- Settle the fact conflicts in `review/FINDINGS.md` (birth year, burial, saloon address, arrival, war service and others) when the Biography is next edited; they only matter where it states them
-- Merge the extracted facts in `review/records/` into `data/facts.js` (91 facts now), if the facts index is to be expanded
+- 219 other facts still carry a free-text `conflict` note; split any that matter into versions with `review/facts-index/fact-disputes.json`
+- Clean up the Record page's single-source entries ("Questionable": garbled or unknown opponents from one article each) and check the auto-made bouts against the old hand-made list
+- Burial (Calvary or Bellefontaine) isn't stated in any article text; find the source before citing either
+- Maybe later: a facts page and a quotes page built from the index
 
 ### Home & Highlights
 - "On this day" can disagree between pages: on about 72 days a year the Home box shows a supporting article or passing mention while the Articles hero falls back to Article of the day. Pick one rule for both
@@ -194,3 +205,17 @@
 ### Media
 - Scan every full-page scan for photographs and drawings of Tom Allen (the portraits, the sketches and any photographs in the articles), noting the page, article id and caption
 - Build a "media" page of those images with captions and links to the articles, or merge any photos that are missing into the existing media page
+
+## Status
+
+As of 2026-11-15. Update these numbers whenever articles, crops, pages or transcripts change.
+
+| | Count | Notes |
+|---|---|---|
+| Published articles | 957 | All unique: duplicates and reprints are merged or removed |
+| With text | 957 | 686 good (72%; a hand transcript or clean OCR), 271 rough OCR (28%): readable but with garbled words |
+| With a clipping | 956 | 074's crop is the same file as its full page; 769's clip is cut short by a tear; 222 show the whole column, not just the Allen item (accepted) |
+| With the full page | 902 (94%) | 55 have no full-page image on file, mostly early articles (ids under 270) |
+| Reviewed and merged | 957 | Titles, summaries, focus and tags from `review/records/` |
+| Missing or damaged pages | 20 | Listed in `review/MISSING-PAGES.md` |
+| Indexed for facts | 957 | 3,571 claims grouped into 1,027 facts, 64 bouts and 225 quotes (`review/facts-index/`); 3 facts split into disputed versions, 219 carry a conflict note |

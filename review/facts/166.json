@@ -1,0 +1,30 @@
+{
+  "id": "166",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Mathew Groves said he was assaulted without provocation in Tom Allen's saloon on Market Street near Seventh.",
+      "excerpt": "He said he had been asaulted without\nprovocation in Allen’s saloon.",
+      "date": "1895-01",
+      "date_precision": "month",
+      "people": ["Mathew Groves"],
+      "places": ["Market Street near Seventh, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Andrew Flynn, the bartender at Tom Allen's saloon, struck Mathew Groves on the jaw, slightly fracturing it, after Groves pulled chairs from under other men.",
+      "excerpt": "went up to Groves and lan\nhis ht on the latter's jaw, fracturing it\nslightly.",
+      "date": "1895-01",
+      "date_precision": "month",
+      "people": ["Andrew Flynn", "Mathew Groves"],
+      "places": ["Market Street near Seventh, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is not named as taking part; the claims are about his saloon. Police inquiry, and the bartender's blow, as reported; OCR garbled in places."
+}

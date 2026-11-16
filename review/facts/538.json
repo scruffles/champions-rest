@@ -1,0 +1,52 @@
+{
+  "id": "538",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "A grand benefit tendered to the champion Tom Allen was to be held at the Theatre Comique, Pine Street, St. Louis, on Thursday evening, March 30, 1876.",
+      "excerpt": "THIS (Thursday) erening, March 30, GRAND BENEFTY tendered the Champtou. TOM ALLEN,",
+      "date": "1876-03-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Theatre Comique, Pine Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was to set to with the gloves against Ned Donnelly at his benefit at the Theatre Comique on March 30, 1876.",
+      "excerpt": "en which oerssion he wili set-ro with NED DON=",
+      "date": "1876-03-30",
+      "date_precision": "day",
+      "people": ["Ned Donnelly"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Theobald Bauer and Andre Christol volunteered to wrestle at Tom Allen's benefit, with the winner to receive a massive silver goblet from Allen; Wilhelm Beyer was to referee.",
+      "excerpt": "the victor to be presentea witha Wassive silver godiet by Tom Allen.",
+      "date": "1876-03-30",
+      "date_precision": "day",
+      "people": ["Theobald Bauer", "Andre Christol", "Wilhelm Beyer"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was to be presented with the disputed McCoole belt at his benefit on March 30, 1876.",
+      "excerpt": "will also be presented with the dispuicd Mc-",
+      "date": "1876-03-30",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The ad gives the program only. Wilhelm Beyer's name is OCR-garbled and is written here as the most likely reading."
+}

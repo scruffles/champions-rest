@@ -1,0 +1,19 @@
+{
+  "id": "387",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Jem Mace was touring with a view to meeting Tom Allen in the ring, and the text is garbled at this point.",
+      "excerpt": "with a view to meéting .Tom Allen the ring",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Article is about Mace and John C. Heenan's Chicago exhibition; Allen appears only in one garbled passage. No date for the planned fight is given."
+}

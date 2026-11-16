@@ -1,0 +1,19 @@
+{
+  "id": "474",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "F. C. Cox won over $102 betting on Tom Allen on September 23, 1873.",
+      "excerpt": "$102 on Tom Allen, on the 23d, has taken a trip to",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["F. C. Cox"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only item about Allen on this page. The rest is East St. Louis local news."
+}

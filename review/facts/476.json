@@ -1,0 +1,30 @@
+{
+  "id": "476",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "At his benefit at the Theater Comique on the evening of September 25, 1873, Tom Allen sparred with Jack Madden; the house was crowded.",
+      "excerpt": "of & benefit, and that he would spar with Jack",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": ["Jack Madden", "Patsy Sheppard", "Arthur Chambers", "Fred Wilson"],
+      "places": ["Theater Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "At the benefit, manager Fred Wilson introduced Tom Allen as the champion of the world, ready and willing to fight any man in the world, with the heavyweight belt around his waist.",
+      "excerpt": "pion ofthe world. Iam imstructed, by Mr. Allen",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": ["Fred Wilson"],
+      "places": ["Theater Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint on the belt is supported ('heavy weight ... belts of the world' around Allen and Chambers). Ben Hogan's appearance at the next night's benefit is not about Allen and is left out."
+}

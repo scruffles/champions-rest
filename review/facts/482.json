@@ -1,0 +1,19 @@
+{
+  "id": "482",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen exhibited himself to the curious at a fair booth and took the blue ribbon on his 'mug-masher'.",
+      "excerpt": "TOM ALLEN extibited himself to the curious at a beoth. He took the blue ribbon on his mug-masher.",
+      "date": "1873-10-06",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis Fair grounds"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The paragraph is in the 'Fair Facts' column; 'yesterday' is taken as 1873-10-06, the day before publication."
+}

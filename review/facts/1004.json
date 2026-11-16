@@ -1,0 +1,133 @@
+{
+  "id": "1004",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was born at Birmingham, England, in April, the year printed as 1830.",
+      "excerpt": "Tom Allen was an Englishtidn, born at Birmingham, England, April i 1830",
+      "date": "1830-04",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen fought fourteen prize ring matches in England and ten in America, according to his own official record.",
+      "excerpt": "figured in fourteen prize ring) matches in England and ten in America",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England", "America"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen won his last prize fight, against Jim Stewart in England in March 1878 (day garbled), lasting fifty-five minutes.",
+      "excerpt": "with Jim Stewart on Marc Gs 1878, in England",
+      "date": "1878-03",
+      "date_precision": "month",
+      "people": ["Jim Stewart"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen opened a saloon in 1868 at the present home of the Boatmen's bank (printed as 'fan'), at Fourth Street and Washington Avenue.",
+      "excerpt": "Allen opened a saloon med the present home of the Boatmen's fan, at Fourth",
+      "date": "1868",
+      "date_precision": "year",
+      "people": [],
+      "places": ["Fourth Street and Washington Avenue, St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "business",
+      "statement": "Tom Allen was a tenant of the real estate firm J. C. Kaime & Bro. ever since he opened his saloon.",
+      "excerpt": "real estate firm, J.>C. Kaime & Bro., who",
+      "date": "1868",
+      "date_precision": "approx",
+      "people": ["J. C. Kaime & Bro."],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "For the past three months before his death, Tom Allen was in poor health.",
+      "excerpt": "For the past three months |ithe /ex-cham- pion was in poor health an@ during the",
+      "date": "1903-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was taken to the hospital on Friday, 27 March 1903, a week before the article.",
+      "excerpt": "He was taken to the hospital a week ago Friday",
+      "date": "1903-03-27",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen, retired champion pugilist of the world, died at the Baptist Hospital, Garrison and Franklin avenues, St. Louis, on the morning of 5 April 1903.",
+      "excerpt": "Tom Alien, retired chamiog pugilist. of the world, died at the Baptist hospital",
+      "date": "1903-04-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Baptist Hospital, Garrison and Franklin avenues, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The night after Allen's death, a yard of crape hung from the doorknob of his saloon, Tom Allen's Champion's Rest, at 619 Market street, which was dark inside.",
+      "excerpt": "the doorknob last night, and an was dark within, where the erstwhile champion of the ring had dispensed liquid refrashments",
+      "date": "1903-04-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "A will Tom Allen made a few weeks before his death was witnessed by Dr. Heine Marks and Dr. C. A. Newcomb.",
+      "excerpt": "nesesd by Dr. Heine/ Marks |and/ Dr. C/A. Neweomb, a few weeks ago",
+      "date": "1903-03",
+      "date_precision": "approx",
+      "people": ["Heine Marks", "C. A. Newcomb"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jim Stewart",
+      "date": "1878-03",
+      "date_precision": "month",
+      "place": "England",
+      "result": "win",
+      "rounds": "",
+      "duration": "fifty-five minutes",
+      "stakes": "a side, amount printed as '#S0'",
+      "rules": "",
+      "excerpt": "with Jim Stewart on Marc Gs 1878, in England",
+      "reported_as": "record",
+      "notes": "Day garbled ('Marc Gs 1878'); round count printed as 'cil teen' (unreadable)."
+    }
+  ],
+  "notes": "Text garbled and cut off at the will. Hints about the strong box, daughters and a wife in England are not in the text and were dropped. Birth year printed 1830 (hint said 1839)."
+}

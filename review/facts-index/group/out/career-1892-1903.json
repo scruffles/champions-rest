@@ -1,0 +1,54 @@
+{
+  "bucket": "career-1892-1903",
+  "facts": [
+    {
+      "fact": "Tom Allen was advertised as, and styled himself, the retired champion pugilist of the world during 1892.",
+      "date": "1892-01",
+      "seed": "",
+      "conflict": "title wording: \"ex-champion of America\" (835.c3) and \"veteran ex-champion heavy-weight of America\" (861.c3) vs \"retired champion pugilist of the world\" in the other 1892 claims",
+      "claims": ["831.c2", "832.c2", "833.c2", "835.c3", "836.c2", "846.c2", "847.c2", "848.c2", "849.c2", "850.c2", "851.c2", "853.c2", "854.c1", "858.c2", "861.c3", "862.c1", "865.c1", "866.c1", "867.c1", "868.c1", "869.c1"]
+    },
+    {
+      "fact": "Tom Allen was advertised as the retired champion pugilist of the world during 1893.",
+      "date": "1893-01",
+      "seed": "",
+      "conflict": "title wording: the paper called him \"the ex-champion heavy-weight\" (888.c3) vs \"retired champion pugilist of the world\" in the advertisements",
+      "claims": ["886.c2", "887.c2", "888.c3", "891.c2", "892.c2"]
+    },
+    {
+      "fact": "Tom Allen was described and advertised as a retired champion of the world from 1894 into 1895, and signed a December 1894 letter as \"Retired Champion of the World\".",
+      "date": "1894-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["162.c1", "900.c1", "164.c3", "908.c2", "909.c2", "916.c2", "917.c2", "919.c1", "920.c1"]
+    },
+    {
+      "fact": "Tom Allen was advertised as the retired champion pugilist of the world from June 1896 to March 1897.",
+      "date": "1896-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["932.c3", "933.c2", "934.c3", "935.c3", "946.c2", "947.c2", "948.c2", "949.c2", "950.c2", "951.c2", "954.c1", "956.c1"]
+    },
+    {
+      "fact": "Tom Allen was billed in advertisements and described in print as the retired champion pugilist of the world from 1898 to 1900.",
+      "date": "1898-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["976.c2", "977.c2", "978.c2", "981.c2", "982.c2", "984.c2", "988.c2", "989.c2", "990.c2", "279.c1"]
+    },
+    {
+      "fact": "In March and April 1903 Tom Allen was described as a retired champion pugilist living in St. Louis.",
+      "date": "1903-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["197.c16", "201.c1"]
+    },
+    {
+      "fact": "An estate inventory of Tom Allen's property, dated July 1903, listed a champion's cup.",
+      "date": "1903-07-28",
+      "seed": "",
+      "conflict": "",
+      "claims": ["219.c13"]
+    }
+  ]
+}

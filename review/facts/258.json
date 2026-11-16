@@ -1,0 +1,19 @@
+{
+  "id": "258",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "A gambling game was running upstairs over Tom Allen's free and easy on Washington Avenue.",
+      "excerpt": "Tom Alien had a fine ganie running up stairs over his",
+      "date": "1875-08",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Name printed 'Alien' (OCR); free and easy printed 'firee and easy'. Date is the week of the Saturday raids, not a stated day. Not about a fight."
+}

@@ -1,0 +1,159 @@
+{
+  "bucket": "other-1870-1872",
+  "facts": [
+    {
+      "fact": "Referee Eph Holland of Boston was said to have been fixed to give Joe Goss the decision, and Fred Watkins, Allen's backer, lost $1,000 to him.",
+      "date": "1870",
+      "seed": "",
+      "conflict": "date: all three claims say 1870 (retro, published 1896), but the Goss fight is the one seed 031 places in 1876; 274.c2 says Holland took the $1,000 to bet on Goss",
+      "claims": ["273.c4", "273.c5", "274.c2"]
+    },
+    {
+      "fact": "On 25 January 1870 Tom Allen seconded George Seddons, with Patsey Curtin, against John Lafferty at Carroll Island, Illinois, and took charge of Seddons before the fight.",
+      "date": "1870-01-25",
+      "seed": "033",
+      "conflict": "",
+      "claims": ["028.c1"]
+    },
+    {
+      "fact": "On 25 January 1870 Tom Allen seconded George Carey, with Patsey Curtin, against James C. Gallagher at Carroll Island, Illinois, and threw up the sponge for Carey, who was beaten in 18 minutes.",
+      "date": "1870-01-25",
+      "seed": "033",
+      "conflict": "",
+      "claims": ["028.c2", "028.c3"]
+    },
+    {
+      "fact": "In March 1870, before his fight with Jem Mace, Tom Allen's St. Louis friends said he would beat Mace, and Allen and Mace traded remarks in the newspapers.",
+      "date": "1870-03-23",
+      "seed": "",
+      "conflict": "",
+      "claims": ["388.c2", "389.c2", "389.c4"]
+    },
+    {
+      "fact": "Tom Allen trained at the Wash House for his fight with Jem Mace in spring 1870.",
+      "date": "1870-03-29",
+      "seed": "",
+      "conflict": "trainer: Jack Gelding (029.c1) vs Jack Goulding with Joe Coburn (228.c3, retro 1912); place: Wash House (029.c1, 030.c1, 647.c8 low) vs St. Louis (228.c3)",
+      "claims": ["029.c1", "030.c1", "228.c3", "647.c8"]
+    },
+    {
+      "fact": "A championship belt from Allen's St. Louis friends was to be presented to him at his benefit in April 1870, and Mrs. Allen took it with her after the Mace fight.",
+      "date": "1870-04-30",
+      "seed": "021",
+      "conflict": "406.c4 (low) says the belt was to be presented at an entertainment (published 24 May 1870), not at the benefit (288.c4)",
+      "claims": ["288.c4", "402.c2", "406.c4"]
+    },
+    {
+      "fact": "Jack Looney predicted, about a week before the Mace fight, that Allen would be defeated because he was not in proper condition.",
+      "date": "1870-05-03",
+      "seed": "",
+      "conflict": "399.c4 (low) also says Looney called the Mace fight a sham, a put-up job",
+      "claims": ["399.c3", "399.c4"]
+    },
+    {
+      "fact": "Joe Coburn and Sherman Thurston seconded Tom Allen in his fight with Jem Mace on 10 May 1870.",
+      "date": "1870-05-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["096.c9", "030.c2", "228.c5", "281.c7", "400.c4"]
+    },
+    {
+      "fact": "Tom Allen weighed about 175 pounds on the day of the Mace fight.",
+      "date": "1870-05-10",
+      "seed": "",
+      "conflict": "400.c5 (low) says he had not trained down and had not got below 190; 647.c7 (medium) says he was seen drunk a few days before and entered the ring heavier than his usual 175 pounds (figure garbled)",
+      "claims": ["228.c7", "400.c5", "647.c7"]
+    },
+    {
+      "fact": "On the day of the Mace fight Billy Carroll accepted John C. Heenan's proposal of Rufus Hunt as referee, and told the crowd that Allen had never had a fair show.",
+      "date": "1870-05-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["400.c2", "400.c3"]
+    },
+    {
+      "fact": "Mike McCoole and Tom Allen had bets on the Mace fight.",
+      "date": "1870-05-10",
+      "seed": "",
+      "conflict": "bet: McCoole bet Allen $500 more that he would win and lent him $200 because Allen had only $300 (249.c2, retro 1935) vs after the Mace fight Allen received a $1,000 forfeit from McCoole (465.c26, retro 1873)",
+      "claims": ["249.c2", "465.c26"]
+    },
+    {
+      "fact": "Tom Allen got half the excursion money from the Mace fight and had to split it with his backers Billy Carroll and John Franklin.",
+      "date": "1870-05-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["647.c9"]
+    },
+    {
+      "fact": "On the night of the Mace fight Tom Allen played the piano with both hands.",
+      "date": "1870-05-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["647.c10"]
+    },
+    {
+      "fact": "Dr. Morse said a $1,000 premium at an agricultural fair might bring Tom Allen or Mike McCoole to a prize fight.",
+      "date": "1870-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["419.c1"]
+    },
+    {
+      "fact": "In August 1870 Tom Allen backed Punch Morris in a $100 fight against Steve O'Donnell, and Morris was quartered at the Wash Home to be trained by Allen's trainer.",
+      "date": "1870-08-06",
+      "seed": "",
+      "conflict": "415.c2 names Jack Leoney as O'Donnell's backer; 416.c1 (medium) also names Owen Meeker as quartered with Morris",
+      "claims": ["415.c2", "416.c1"]
+    },
+    {
+      "fact": "In October 1870 Allen eased his training after a report that Gallagher was sick, and betting was two to one with few willing to back Gallagher.",
+      "date": "1870-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["422.c4", "423.c3", "423.c4"]
+    },
+    {
+      "fact": "Tom Allen bet $1,000 to $600 that he could whip the winner of the Owen Meekin and James C. Gallagher match.",
+      "date": "1870-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["643.c7"]
+    },
+    {
+      "fact": "Tom Allen's fight with Gallagher took place in early November 1870, with Barney Aaron and George Collins as his seconds, and afterwards Allen gave $50 of a $100 subscription to Gallagher.",
+      "date": "1870-11-05",
+      "seed": "",
+      "conflict": "seconds: Mace and B. Aaron were to be his seconds (038.c2, medium, before the fight) vs Barney Aaron and George Collins (425.c3)",
+      "claims": ["038.c2", "039.c9", "425.c3", "425.c4"]
+    },
+    {
+      "fact": "A garbled June 1871 report seems to place Tom Allen at the ring where Jem Mace was sitting.",
+      "date": "1871-06-02",
+      "seed": "",
+      "conflict": "reading uncertain (042.c5, low, printed 'Tom Ailes')",
+      "claims": ["042.c5"]
+    },
+    {
+      "fact": "In June 1871 Tom Allen was to train Jem Mace four miles from St. Louis and back him against Ned O'Baldwin.",
+      "date": "1871-06-30",
+      "seed": "",
+      "conflict": "sum backed: printed as 200 (438.c1, low)",
+      "claims": ["438.c1"]
+    },
+    {
+      "fact": "Tom Allen seconded Jem Mace at the Mace-Coburn fight near New Orleans on 30 November 1871, and was among the prize-ring notables present.",
+      "date": "1871-11-30",
+      "seed": "033",
+      "conflict": "place: Bay St. Louis (096.c10) vs near New Orleans (440.c1, 441.c1) vs Montgomery Station, Mississippi (442.c1); 096.c10 calls the fight drawn; 443.c3 (medium) says Allen claimed a foul for Mace that the referee would not hear, and 443.c4 (low) says a man pulled a revolver on him",
+      "claims": ["096.c10", "440.c1", "441.c1", "441.c2", "442.c1", "442.c2", "443.c3", "443.c4"]
+    },
+    {
+      "fact": "On 21 August 1872 Tom Allen waited at the telegraph office for news of a reported Mace and O'Baldwin fight, and later said O'Baldwin was too much for Mace.",
+      "date": "1872-08-21",
+      "seed": "",
+      "conflict": "447.c2 (medium) is the only source for O'Baldwin being too much for Mace",
+      "claims": ["447.c1", "447.c2"]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "654",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen went from St. Louis to Springfield, Illinois, in 1874 to attend the dedication of the National Lincoln Monument and the Army of the Tennessee reunion.",
+      "excerpt": "the prize-fighter, who had gone up from Sg&, Louis to attend the Lincoln monument",
+      "date": "1874",
+      "date_precision": "year",
+      "people": [],
+      "places": ["St. Louis", "Springfield, Illinois"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "At the 1874 Springfield reunion, Tom Allen caught a pickpocket's hand and squeezed it, and the victim's outcry was the first alarm of a panic in the gallery.",
+      "excerpt": "The pagilist caught the hand, braced himself and began to sqneeze,",
+      "date": "1874",
+      "date_precision": "year",
+      "people": [],
+      "places": ["Springfield, Illinois"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was sitting in the second gallery with a friend when a pickpocket reached for his pocket at the 1874 Springfield reunion.",
+      "excerpt": "He was sitting in the second gallery with a friend, when a pickpocket",
+      "date": "1874",
+      "date_precision": "year",
+      "people": [],
+      "places": ["Springfield, Illinois"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Lincolu, ’* was one of us, ’e Was a man",
+      "topic": "why he went to the Lincoln monument dedication"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "The bloody duffer,’’ said he, ‘‘Il think I broke hevry bone in ’is ‘and.",
+      "topic": "on squeezing the pickpocket's hand"
+    }
+  ],
+  "fights": [],
+  "notes": "The panic account is a recollection from 1882; the pickpocket's outcry is attributed to Allen as 'responsible for the first outcry'. Several OCR errors in the quotes."
+}

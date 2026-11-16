@@ -1,0 +1,81 @@
+{
+  "id": "767",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen kept a saloon on Broadway between O'Fallon and Biddle streets at the time of his first fight with Mike McCoole.",
+      "excerpt": "Tom Allen kept a saloon on Broadway, between O'Fallon and Biddle",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["Broadway, between O'Fallon and Biddle streets"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Before the second fight with Mike McCoole, Tom Allen moved his saloon to Washington avenue, between Fourth street and Broadway.",
+      "excerpt": "Before the second fight Allen moved his saloon to Washington avenue, between Fourth street and Broad-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["Washington avenue, between Fourth street and Broadway"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had a first fight with Mike McCoole; the text gives no date or result.",
+      "excerpt": "at the time of the first fight between the men.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had a second fight with Mike McCoole; the text gives no date or result.",
+      "excerpt": "Before the second fight Allen moved his saloon to Washington",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "at the time of the first fight between the men.",
+      "reported_as": "recollection",
+      "notes": "First of two fights; the answer gives no year or result."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Before the second fight Allen moved his saloon to Washington",
+      "reported_as": "recollection",
+      "notes": "Second of two fights; the answer gives no year or result."
+    }
+  ],
+  "notes": "Reader's answer about where Allen and McCoole kept saloons; McCoole's own saloon locations left out as not about Allen."
+}

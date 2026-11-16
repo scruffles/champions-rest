@@ -1,0 +1,41 @@
+{
+  "id": "772",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen came to New Orleans from St. Louis with a party of sporting men for the Sullivan-Kilrain fight.",
+      "excerpt": "Ampbng them were the Dalys, Tom Allen, Tom",
+      "date": "1889-07-07",
+      "date_precision": "day",
+      "people": ["Tom Kelley", "Fred Watkins", "Hugh McManus"],
+      "places": ["New Orleans, Louisiana", "St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was staying at the St. Charles hotel in New Orleans during the days before the Sullivan-Kilrain fight.",
+      "excerpt": "Allof them are stopping at the St.\nCh les.",
+      "date": "1889-07-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Charles Hotel, New Orleans, Louisiana"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen and Tom Kelley favored the Police Gazette's alleged champion, Jake Kilrain, over John L. Sullivan.",
+      "excerpt": "Tom Allen and Tom Kelley\nalsp favor the Police Gazette's alleged cham-",
+      "date": "1889-07-07",
+      "date_precision": "day",
+      "people": ["Tom Kelley", "Jake Kilrain", "John L. Sullivan"],
+      "places": ["New Orleans, Louisiana"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint on the St. Louis party is supported (Dalys, Kelley, Watkins, McManus). The text does not name Sullivan's party or Allen's fight role; Allen is not a fighter here."
+}

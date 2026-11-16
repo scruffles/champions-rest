@@ -1,0 +1,67 @@
+{
+  "id": "425",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat J. C. Gallagher on a small island near the arsenal when the sponge was thrown up before the 17th round.",
+      "excerpt": "was thrown up for Gallagher, and Allen was declared",
+      "date": "1870-11-05",
+      "date_precision": "day",
+      "people": ["J. C. Gallagher"],
+      "places": ["small island near the arsenal"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The fight was arranged in secret so the police would not be told, and was held early in the morning.",
+      "excerpt": "police were kept ignorant of the proposed action.",
+      "date": "1870-11-04",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Barney Aaron and George Collins seconded Allen.",
+      "excerpt": "for seconds, Barney Aaron ald Geo. Collins, and was",
+      "date": "1870-11-05",
+      "date_precision": "day",
+      "people": ["Barney Aaron", "George Collins"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Allen gave $50 of the $100 subscribed for Gallagher after the fight.",
+      "excerpt": "$100 collected, $50 of which was given by Allen.",
+      "date": "1870-11-05",
+      "date_precision": "day",
+      "people": ["J. C. Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "J. C. Gallagher",
+      "date": "1870-11-05",
+      "date_precision": "day",
+      "place": "small island near the arsenal",
+      "result": "win",
+      "rounds": "16",
+      "duration": "26 1/2 minutes",
+      "stakes": "$1,500 ($1,000 Allen, $500 Gallagher)",
+      "rules": "",
+      "excerpt": "was thrown up for Gallagher, and Allen was declared",
+      "reported_as": "report",
+      "notes": "Duration printed as '26+; minutes'. Sponge thrown in when the 17th round was called."
+    }
+  ],
+  "notes": "Seconds for Gallagher (Mike McCoole, Tom Kelly) not recorded as claims because they concern Gallagher's corner."
+}

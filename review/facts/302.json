@@ -1,0 +1,56 @@
+{
+  "id": "302",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen is to fight Wm. M. Davis of California for $1,000 a side on Tuesday, 12 January 1869, at a place some 49 or 59 miles from the city.",
+      "excerpt": "between Wm. M. Davis, of Califor-\nnia, and Thomas Allen, of Cleveland, for $1,000 a",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "people": ["Wm. M. Davis"],
+      "places": ["unknown (printed as some 49 or 59 miles from the city)"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen's arrival was announced a few days before 11 January 1869.",
+      "excerpt": "Tom Alien’s arriyal was announced a few days",
+      "date": "1869-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen went out on the Gravois road, some nine miles from the city, to train under Tom Kelly.",
+      "excerpt": "He went out on the Gravois road, some nine",
+      "date": "1869-01",
+      "date_precision": "approx",
+      "people": ["Tom Kelly"],
+      "places": ["Gravois road"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Wm. M. Davis",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "place": "unknown (printed as some 49 or 59 miles from the city)",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "between Wm. M. Davis, of Califor-\nnia, and Thomas Allen, of Cleveland, for $1,000 a",
+      "reported_as": "report",
+      "notes": "Planned bout; result not given in this article. Date from 'Tuesday next' in a paper dated Monday 11 January 1869. Distance is OCR-garbled."
+    }
+  ],
+  "notes": "Hint on the 12 January match kept as a fight, not a challenge, since the bout was arranged. Hint's 40 or 50 miles replaced by the printed 49 or 59."
+}

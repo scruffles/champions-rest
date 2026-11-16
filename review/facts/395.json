@@ -1,0 +1,30 @@
+{
+  "id": "395",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen sparred Joe Coburn at a sparring exhibition for Coburn's benefit at Mozart Hall.",
+      "excerpt": "Joe. Coburn and Tom. Alen. The sparring generally was lively and satisfactory",
+      "date": "1870-04-25",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": ["Mozart Hall, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "A benefit for Tom Allen was announced for Saturday night, when his championship belt would be presented.",
+      "excerpt": "A benefit for Tom. Allen was announced for Saturday night, when the much-talked-of belt",
+      "date": "1870-04-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The exhibition is described as 'last night' in a paper dated 26 April, so 25 April. The benefit was announced, not confirmed as held."
+}

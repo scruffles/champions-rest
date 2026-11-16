@@ -1,0 +1,30 @@
+{
+  "id": "135",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "A St. Louis County warrant for prize-fighting, issued by Justice Caffrey, named Tom Allen among those charged for their part in the Kelly-McManus fight at Florissant.",
+      "excerpt": "and Tom Kelly, Tom Allen, Chariey Woods, im Brown, the referee, seconds, etc., in the fight",
+      "date": "1889-02-11",
+      "date_precision": "day",
+      "people": ["Ed Kelly", "Hugh McManus", "Tom Kelly", "Charley Woods"],
+      "places": ["Florissant, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested on the afternoon of 11 February 1889 and gave bond.",
+      "excerpt": "arrested by2o’tiock this afternoon and all gave bond",
+      "date": "1889-02-11",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The warrant text gives Allen's role only as one of the 'seconds, etc.' The bonds were $500 each. The arrest excerpt does not name Allen; his name is in the preceding line of the article."
+}

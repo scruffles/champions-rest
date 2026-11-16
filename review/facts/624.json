@@ -1,0 +1,34 @@
+{
+  "id": "624",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was matched to fight Jack Stewart of Glasgow under the new London prize ring rules for £200 a side, at Glasgow in March 1879.",
+      "excerpt": "Glasgow, and Tom Alien, of St. Louis, have",
+      "date": "1879-03",
+      "date_precision": "month",
+      "people": ["Jack Stewart"],
+      "places": ["Glasgow"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jack Stewart",
+      "date": "1879-03",
+      "date_precision": "month",
+      "place": "Glasgow",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "£200 a side",
+      "rules": "new rules of the London prize ring",
+      "excerpt": "Glasgow, and Tom Alien, of St. Louis, have",
+      "reported_as": "report",
+      "notes": "Matched only in this article (dispatch dated 1879-02-12). The planned date is taken from 'the first week in March', which is printed as 'Marcn' (low reading). The result is in article 625. The hint's 'light gloves' is not in the text, so it is left out."
+    }
+  ],
+  "notes": "The planned date is from 'the first week in March'. The printed date is 1879-02-12 and the planned fight is in March 1879."
+}

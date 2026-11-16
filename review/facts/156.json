@@ -1,0 +1,74 @@
+{
+  "id": "156",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen will go to Jacksonville to help prepare Mitchell for his fight with Corbett.",
+      "excerpt": "Tom Allen will go to Jacksonville to assist in preparing Mitchell for the fight",
+      "date": "1893-12",
+      "date_precision": "month",
+      "people": ["Mitchell", "Corbett"],
+      "places": ["Jacksonville, Florida"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen is a cook of rare accomplishments and a good deal of a doctor, with much experience in prize ring affairs and training pugilists.",
+      "excerpt": "Tom is 2 cook of rare accomplishments and a good deal of a doctor",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen will have charge of preparing Mitchell's food and may be one of his seconds in the ring.",
+      "excerpt": "He will have charge of the preparation of Mitchell's food and may be one of his seconds in the ring",
+      "date": "1893-12",
+      "date_precision": "month",
+      "people": ["Mitchell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen says Corbett jabbed his way to the championship.",
+      "excerpt": "Tom Allen of St. Louts says that Corbett jabbed his way to the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Corbett"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen says Corbett never struck a blow in his fight with Sullivan that could be decisive.",
+      "excerpt": "that in his fight with Sullivan he never struck a blow that by any means could be decisive of a battle",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Corbett", "Sullivan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen is described as being of St. Louis (printed as St. Louts).",
+      "excerpt": "Tom Allen of St. Louts says that Corbett",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears as Mitchell's trainer; the article is mainly about the Corbett-Mitchell fight. 'St. Louts' is OCR for St. Louis."
+}

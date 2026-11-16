@@ -1,0 +1,19 @@
+{
+  "id": "392",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was to spar the wind-up against Joe Coburn at a sparring exhibition at Mozart Hall on 25 April 1870.",
+      "excerpt": "between Joe Cobura aud Tom Alien, who appear in ring costume.",
+      "date": "1870-04-25",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Mike McCoole", "Tom Kelly"],
+      "places": ["Mozart Hall, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Date from 'to-morrow night' (paper dated 1870-04-24). The list of other boxers is garbled; the hint's McCoole and Kelly are not clearly readable here and are not claimed."
+}

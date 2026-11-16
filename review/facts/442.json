@@ -1,0 +1,30 @@
+{
+  "id": "442",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen was one of Jem Mace's seconds in the Mace-Coburn fight at Montgomery Station, Mississippi.",
+      "excerpt": "Tom McAlpine and Larry Powers are seconds for Coburn ; Cusick and Tom Allen for Mace.",
+      "date": "1871-11-30",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Jim Cusick"],
+      "places": ["Montgomery Station, Mississippi"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was among the notables of the prize ring present at the Mace-Coburn fight.",
+      "excerpt": "Among the notables of the prize ring present were Tom. Allen, Ned. O Baldwin",
+      "date": "1871-11-30",
+      "date_precision": "day",
+      "people": ["Ned O'Baldwin"],
+      "places": ["Montgomery Station, Mississippi"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Republic account of the same fight as the Globe-Democrat item 441. Allen was a second, not a fighter, so no fight entry. The hint that Allen travelled on the excursion train is not stated and is dropped."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "496",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Mike McCoole was described as the opponent of Tom Allen.",
+      "excerpt": "wife of the opponent of Tom Allen had left the",
+      "date": "1873-10",
+      "date_precision": "month",
+      "people": [
+        "Mike McCoole",
+        "Mollie McCoole"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Case dismissed is against Mollie McCoole; Allen appears only as McCoole's opponent."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "532",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen refereed the wrestling match between Carteron and Rigal at the Theatre Comique, St. Louis, which went undecided after a severe struggle on Tuesday evening.",
+      "excerpt": "Owing to the Great Wrestling Match betweer CARTERON and RIGAL having peen undecided or Tuesday evening, after a severe struggle",
+      "date": "1876-02-08",
+      "date_precision": "day",
+      "people": ["Carteron", "Rigal"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen ruled that the match between Carteron and Rigal would have its final decision on Thursday evening, February 10, 1876, at the same hour and place.",
+      "excerpt": "the great match shall have its tinal decision on THURSDAY EVENING",
+      "date": "1876-02-10",
+      "date_precision": "day",
+      "people": ["Carteron", "Rigal"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Refereeing only; no bout of Allen's own. The hint's 'the decision on Thursday' matches the text."
+}

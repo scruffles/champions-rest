@@ -1,0 +1,75 @@
+{
+  "id": "181",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was under arrest at the Four Courts, St. Louis, charged with murder.",
+      "excerpt": "is under arrest at the Four Courts, charged with murder.",
+      "date": "1899-02-27",
+      "date_precision": "day",
+      "people": [],
+      "places": [
+        "Four Courts, St. Louis"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen shot Tom Coupry in the course of a fracas in Allen's saloon in St. Louis.",
+      "excerpt": "Tom Coupry, whom Alien shot in the course of a fracas in the ex-prize fighter’s saloon,",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": [
+        "Tom Coupry"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Coupry died at the city hospital shortly before midnight on the night of the shooting.",
+      "excerpt": "died at the city hospital Shortly before midnight to-night.",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": [
+        "Tom Coupry"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen said he thought Coupry was going to shoot him, and for that reason used his revolver.",
+      "excerpt": "Allen declares that he thought Coupry Was going to shoot him and for that reason used his revolver.",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": [
+        "Tom Coupry"
+      ],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen is an old-time prize fighter who was at one time heavy-weight champion of the world.",
+      "excerpt": "an ola-\ntime prize fighter, at one time heavy-\nweight champion of the world.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Printed as Tom Coupry (OCR 'Alien' for Allen). Other papers print the dead man as Timothy Confoy. Article is a short wire report."
+}

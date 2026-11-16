@@ -1,0 +1,30 @@
+{
+  "id": "472",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Ben Hogan were to sign articles for a fight at 3 o'clock at Looney & Herbert's Sixth Street saloon in St. Louis, arranged by Mike Ganley.",
+      "excerpt": "and Looney & Hubert's Sixth Street Saloon has",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": ["Ben Hogan", "Mike Ganley", "John Looney"],
+      "places": ["Looney & Herbert's Sixth Street saloon, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mike Ganley was ready to back Joe Coburn against Tom Allen.",
+      "excerpt": "veri ready to back Joe Coburn against Tom",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": ["Mike Ganley", "Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Headline says 'to sign today', so the signing is dated 25 Sept (the same day as the 473 articles). The second hint's date is given only as 1873-09; the text gives 25 Sept."
+}

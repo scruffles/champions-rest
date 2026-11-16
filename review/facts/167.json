@@ -1,0 +1,163 @@
+{
+  "id": "167",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "After his 1876 fight with Joe Goss, Tom Allen went to Chicago and told Mike McDonald he would fight Jem Mace for $10, or as much as Mace could raise.",
+      "excerpt": "I told Mike I would fight Mace\nfor $10 or as much more as Jem could raise.",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Mike McDonald", "Jem Mace"],
+      "places": ["Chicago"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen said he was robbed of his 1876 fight with Joe Goss on a claim of foul, and that Goss's backers got about $10,000 from it.",
+      "excerpt": "After I had been\nrobbed out of the fight and I got back",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Johnny Dyer, one of Goss's seconds, offered to fight Tom Allen for $1,000 at Cincinnati, and forfeited after a $250 forfeit was posted for a four-week match.",
+      "excerpt": "We put up a $250 forfeit to\nfight in four weeks, but he forfeited.",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Johnny Dyer"],
+      "places": ["Cincinnati"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "After the Goss fight, Tom Allen and Jem Mace travelled together around the country, Allen billed and acknowledged as champion of the world.",
+      "excerpt": "I was billed and acknowledged as the\nchampion of the world, and Mace is the\nex-champion.",
+      "date": "1876",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he was the only pugilist who ever left America open to fight any man living.",
+      "excerpt": "I am the only pugilist who\never left this country, open to fight\nany man living.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said that on arriving in England he beat all the best men there and retired from the ring.",
+      "excerpt": "On my arrival in England I\nbeat all the best men of that country and\nretired.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen said he was 39 years old when he retired, after nineteen years in the ring.",
+      "excerpt": "I was then 39 years of age, and had\nbeen in the ring nineteen years.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "In this letter Tom Allen said he had thirty-four years' experience in the prize ring.",
+      "excerpt": "my thirty-four years’ experience in the\nprize ring.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Billy Madden, an old beer-slinger of Tom Allen's, later took Jack Sullivan to New York.",
+      "excerpt": "Billy Madden,\nan old beer-slinger of mine, took",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Billy Madden", "Jack Sullivan"],
+      "places": ["New York"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he took Alf Greenfield in hand while Greenfield was working on a canal near Birmingham, England, and showed him how to box.",
+      "excerpt": "This man Greenfield was working on\na canal near Birmingham, England, when 1",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Alf Greenfield"],
+      "places": ["Birmingham, England"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "In my time we had prize fights; now there are boxing matches with top-heavy purses hung up.",
+      "topic": "prize fights versus modern boxing"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I am the only pugilist who ever left this country, open to fight any man living.",
+      "topic": "open challenge abroad"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "The public is to blame for going to their shows. They would box oftener if their houses were smaller.",
+      "topic": "blames the public for modern boxing"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876",
+      "date_precision": "year",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "After I had been\nrobbed out of the fight and I got back",
+      "reported_as": "recollection",
+      "notes": "Allen says he was robbed out of the fight on a claim of foul; result disputed by his account."
+    },
+    {
+      "opponent": "Johnny Dyer",
+      "date": "1876",
+      "date_precision": "year",
+      "place": "Cincinnati",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$250 forfeit; $1,000 match",
+      "rules": "",
+      "excerpt": "We put up a $250 forfeit to\nfight in four weeks, but he forfeited.",
+      "reported_as": "recollection",
+      "notes": "Dyer forfeited (Dyer's forfeit); the match was never fought."
+    }
+  ],
+  "notes": "Allen's letter, signed Thos. Allen. Not reconciled: says 19 years in the ring when he retired at 39, and 34 years' experience in 1895. Dave Kendal, Eph Holland and others who took the Goss purse are left out as minor detail."
+}

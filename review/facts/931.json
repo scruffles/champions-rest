@@ -1,0 +1,74 @@
+{
+  "id": "931",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was assaulted at his place, 619 Market street, at 2:30 Friday morning.",
+      "excerpt": "his place, 619 Market street, at 2:30 aban Friday morning.",
+      "date": "1896-05-15",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["619 Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "legal",
+      "statement": "Two men jumped onto Tom Allen and one revolver shot was fired.",
+      "excerpt": "Both men jumped onto All - fired one shot from a revolver",
+      "date": "1896-05-15",
+      "date_precision": "day",
+      "people": ["Robert Flannigan", "Edward Clancy"],
+      "places": ["Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "legal",
+      "statement": "Robert Flannigan and Edward Clancy followed an unknown man out of Allen's place and tried to hold him up at a corner of Market street.",
+      "excerpt": "and tried to hold him up at the corner n",
+      "date": "1896-05-15",
+      "date_precision": "day",
+      "people": ["Robert Flannigan", "Edward Clancy"],
+      "places": ["Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Police arrested Robert Flannigan and Edward Clancy, who were sent to Police Court.",
+      "excerpt": "rest Flapnigan and Clancy. They sent to the Police Court.",
+      "date": "1896-05-15",
+      "date_precision": "day",
+      "people": ["Robert Flannigan", "Edward Clancy"],
+      "places": ["Police Court, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place was at 619 Market street, St. Louis.",
+      "excerpt": "his place, 619 Market street, at 2:30 aban Friday morning.",
+      "date": "1896-05-15",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["619 Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was reported as not badly hurt (the sentence is cut off in the scan).",
+      "excerpt": "The name of the man assaulted be learned. Allen was not badly",
+      "date": "1896-05-15",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The hint says Allen ran out to help a man at Seventh and Market; the OCR's 'his place, 619 Market street' suggests the assault was at his place. Unresolved in the garbled text. The bartender's name is unreadable in the OCR and is not recorded. Paper dated Friday, so 'Friday morning' taken as 1896-05-15."
+}

@@ -1,0 +1,85 @@
+{
+  "id": "445",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Billy Carroll published a card offering to back Mike McCoole in a match against Tom Allen.",
+      "excerpt": "Seeing in your paper of this morning a card from Mr. Carroll in behalf of Mr. Michael McCoole, in which he offers to back McCoole in a match against me",
+      "date": "1872-01-07",
+      "date_precision": "day",
+      "people": ["Billy Carroll", "Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen answered with a conditional offer to meet Carroll at the St. Louis Billiard Hall on Monday, January 8, 1872, and put up $500 to fight McCoole.",
+      "excerpt": "I will meet him at the St. Louis Billiard Hall on Monday, 8th instant, at three o'clock P. M., and put up $500 to fight McCoole",
+      "date": "1872-01-08",
+      "date_precision": "day",
+      "people": ["Billy Carroll", "Mike McCoole"],
+      "places": ["St. Louis Billiard Hall, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered to fight Joe Coburn for $2,500 or $5,000 as an alternative to McCoole.",
+      "excerpt": "or I will fight the friend he blows so much about—Joe Coburn—for either $2500 or $5000.",
+      "date": "1872-01-07",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen gave his address as 417 Washington Avenue, St. Louis, in January 1872.",
+      "excerpt": "417 WASHINGTON AVENUE,\nST. LOUIS, January 7, 1872.",
+      "date": "1872-01-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["417 Washington Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he had retired from the ring twelve months earlier.",
+      "excerpt": "I retired from the ring twelve months ago, and have no particular desire to enter it again.",
+      "date": "1871-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he had appeared seventeen times in the ring.",
+      "excerpt": "I have appeared seventeen times in the ring, and it is no novelty to me.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Put up or shut up.",
+      "topic": "challenge to Carroll and McCoole"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I have appeared seventeen times in the ring, and it is no novelty to me.",
+      "topic": "his ring record"
+    }
+  ],
+  "fights": [],
+  "notes": "Only a challenge was made and never agreed in this text, so no fight entry. The paper refers to 'another mill', implying an earlier bout with McCoole. Carroll's card is known only through Allen's letter. Hint checked and kept."
+}

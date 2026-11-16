@@ -1,0 +1,41 @@
+{
+  "id": "855",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The paper described Tom Allen as the heavy-weight champion.",
+      "excerpt": "Tom Allen, the heavy-weight |champion quotes 7 tq 4 Sullivan",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen predicted Sullivan would win in 20 to 30 rounds, McAuliffe in 25 rounds and Dixon in 10 rounds in the New Orleans fights of September 1892.",
+      "excerpt": "illivan, 20 to 30; McAulifte. 25; Dixon, 10.",
+      "date": "1892-08-21",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "Joe McAuliffe", "George Dixon"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen quoted betting odds of 7 to 4 on Sullivan, 5 to 4 on McAuliffe and 3 to 1 on Dixon for the New Orleans fights.",
+      "excerpt": "Tom Allen, the heavy-weight |champion quotes 7 tq 4 Sullivan, 5-4 McAulifie and 3-i",
+      "date": "1892-08-21",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "Joe McAuliffe", "George Dixon"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Expert predictions from the Inter Ocean circular. The prediction line is 'Tem Allen, ex-heavy-weight champion' on the line above the excerpt, and the excerpt begins with garbled 'illivan' (Sullivan). Round counts are read as the rounds in which each man wins. The 3-1 Dixon odds are OCR '3-i'. The hint's 'quote' is the printed prediction, not direct speech, so no quote is recorded."
+}

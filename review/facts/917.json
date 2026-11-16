@@ -1,0 +1,30 @@
+{
+  "id": "917",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised free concerts every evening at 619 Market street, with first-class singers only.",
+      "excerpt": "retired champlon puigillst of\nthe world, 619 Market street; free concert",
+      "date": "1895-10-19",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as the retired champion pugilist of the world.",
+      "excerpt": "retired champlon puigillst of\nthe world",
+      "date": "1895-10-19",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only, OCR garbled in the title line ('champlon puigillst'). The text does not say 'saloon'; see the 909 article."
+}

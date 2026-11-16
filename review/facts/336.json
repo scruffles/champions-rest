@@ -1,0 +1,147 @@
+{
+  "id": "336",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The paper calls Tom Allen the champion pugilist of America.",
+      "excerpt": "The champion pugilist of America, Tom Allen,",
+      "date": "1869-07",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned home to St. Louis from Cincinnati, where he had spent a few days with his old English sweetheart.",
+      "excerpt": "returned bome yesterday from Cincinna‘l, where he spent a few days with his old Epglish sweetheart,",
+      "date": "1869-07-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cincinnati", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen arrived in Louisville about 5 o'clock on July 5, 1869, by train from Cincinnati.",
+      "excerpt": "He arrivedin Louisville about 5 o’clock, in time",
+      "date": "1869-07-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Louisville", "Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen gave a sparring exhibition at Benson's Theatre in Louisville on July 5, 1869, where the hall was crowded.",
+      "excerpt": "befcre the sparring commenced the ball was crowded",
+      "date": "1869-07-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Louisville"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen had a set-to with his trainer and travelling companion Jim Coyne at the Louisville exhibition.",
+      "excerpt": "to with Jim Coyne, bis trainer and travelling com-",
+      "date": "1869-07-05",
+      "date_precision": "day",
+      "people": ["Jim Coyne"],
+      "places": ["Louisville"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he was willing to fight any man in America for a purse of $1,000 to $5,000.",
+      "excerpt": "willing to fight anv manu in America for a puree of $1000 to $5000",
+      "date": "1869-07",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered to put up $2,500 against Charley Gallagher's $1,500 for a rematch.",
+      "excerpt": "he 1s willing to put up $2500 agains; Charley’s $1500.",
+      "date": "1869-07",
+      "date_precision": "month",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen wants his fight with Charley Gallagher to take place within fifty miles of Cincinnati.",
+      "excerpt": "Tom wants to fight within fifty miles of Cincinnati.",
+      "date": "1869-07",
+      "date_precision": "month",
+      "people": ["Charley Gallagher"],
+      "places": ["within fifty miles of Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher knocked out Tom Allen with a lucky blow in the second round, the winter before July 1869.",
+      "excerpt": "who laid him out last winter by a lucky blow in the second round",
+      "date": "1869",
+      "date_precision": "approx",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen won the late prize fight against Mike McCoole.",
+      "excerpt": "the man who had deprived McCoole of tis fighting pistize",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the man who had deprived McCoole of tis fighting pistize",
+      "reported_as": "report",
+      "notes": "Called only 'the late prize fight'; no date or details given here."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869",
+      "date_precision": "approx",
+      "place": "",
+      "result": "loss",
+      "rounds": "2",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "who laid him out last winter by a lucky blow in the second round",
+      "reported_as": "report",
+      "notes": "Date given only as 'last winter'; the year is worked out from the article's date."
+    }
+  ],
+  "notes": "Dates: the paper is dated 8 July, so 'yesterday' is 7 July for the return home. The Louisville arrival is 5 July, from the Courier of the 6th. The article's fight with McCoole is only mentioned in passing."
+}

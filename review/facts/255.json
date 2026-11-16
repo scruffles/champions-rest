@@ -1,0 +1,169 @@
+{
+  "id": "255",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was British-born.",
+      "excerpt": "Tom Allen, British-born heavyweight fighter who, as a resident of St. Louis",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was 33 years old when he fought Mike McCoole on 23 September 1873.",
+      "excerpt": "the 170-pound, 33-year-old, half-bald Briton followed it into the ring",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was a resident of St. Louis when he beat Mike McCoole in 1873.",
+      "excerpt": "as a resident of St. Louis, beat Mike McCoole in a fight on a Mississippi island",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen first fought Mike McCoole in 1869 on Foster's Island in the Mississippi, near St. Louis.",
+      "excerpt": "when in 1869 they fought for the first time, on Foster's Island in the Mississippi, not far from St. Louis",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": ["Foster's Island, Mississippi River, near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "After the 1869 fight, referee Valentine McKinney gave his decision for McCoole at the Casino Theater, citing a foul by Allen for gouging an eye.",
+      "excerpt": "I, Valentine McKinney, give my decision in the McCoole-Allen fight in favor of McCoole, a foul being committed by Allen in the last round by gouging his eye.",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Valentine McKinney", "Mike McCoole"],
+      "places": ["Casino Theater, St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "A second fight with Mike McCoole, for the world title, was arranged for 23 September 1873 on Chouteau Island.",
+      "excerpt": "A fight was at length arranged to take place Sept. 23, 1873, on Chouteau Island",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, near East St. Louis, Illinois"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen covered $800 of the $1000 bet McCoole wanted to make.",
+      "excerpt": "covered $800 of the $1000 McCoole wanted to bet",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen beat Mike McCoole in seven rounds, 16 minutes, when McCoole's second Tom Kelly threw in the towel.",
+      "excerpt": "It lasted a total of only 16 minutes, ending in the seventh round when Tom Kelly, McCoole's second, tossed in the towel",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole", "Tom Kelly"],
+      "places": ["Chouteau Island, near East St. Louis, Illinois"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "After beating McCoole, Allen had a right to claim the world championship.",
+      "excerpt": "by this complete victory, Allen gained sweet revenge for his wrongs of four years before and a right to claim the world championship",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Allen lost his title to Joe Goss about three years after 1873, when he was 37 years old.",
+      "excerpt": "Three years latter, when Tom (left) was 37-years old, he lost his title to Joe Goss",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Near the turn of the century Allen was retired and was proprietor of the Champion's Rest saloon.",
+      "excerpt": "old Tom near the turn of the century, retired and proprietor of",
+      "date": "1900",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "It's a shame to keep such a man before me. Take him out!",
+      "topic": "asks that McCoole be taken out of the ring"
+    },
+    {
+      "speaker": "Valentine McKinney",
+      "text": "I, Valentine McKinney, give my decision in the McCoole-Allen fight in favor of McCoole, a foul being committed by Allen in the last round by gouging his eye.",
+      "topic": "referee's decision for McCoole"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "Foster's Island, Mississippi River, near St. Louis",
+      "result": "loss",
+      "rounds": "9 (stopped by the referee)",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "when in 1869 they fought for the first time, on Foster's Island in the Mississippi, not far from St. Louis",
+      "reported_as": "recollection",
+      "notes": "Allen claimed the fight; the referee's decision that night gave it to McCoole for a foul. Result is disputed."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "Chouteau Island, near East St. Louis, Illinois",
+      "result": "win",
+      "rounds": "7",
+      "duration": "16 minutes",
+      "stakes": "world title",
+      "rules": "bare-knuckle",
+      "excerpt": "It lasted a total of only 16 minutes, ending in the seventh round when Tom Kelly, McCoole's second, tossed in the towel",
+      "reported_as": "recollection",
+      "notes": "Stopped when McCoole's second threw in the towel."
+    }
+  ],
+  "notes": "Caption supplies the nationality, residence and 1876 loss facts; the 1876 date is worked out from 'three years latter'. Hints on the mob and bet details were kept as claims."
+}

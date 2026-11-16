@@ -1,0 +1,45 @@
+{
+  "id": "038",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was to fight Gallagher in a prize fight on Tuesday, November 1, 1870.",
+      "excerpt": "The approaching prize fight between Tom Allen and Gallegher, which isto take place on Tuesd.r,",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Mace and B. Aaron were to be the seconds of Tom Allen for the fight with Gallagher.",
+      "excerpt": "Mace and B. Aaron will be the seconds of Allen",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["Mace", "B. Aaron"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Gallagher",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The approaching prize fight between Tom Allen and Gallegher, which isto take place on Tuesd.r,",
+      "reported_as": "report",
+      "notes": "Advance notice; the fight place is not given and the outcome is not in this text. Gallegher is printed in the text; spelled Gallagher in the statement."
+    }
+  ],
+  "notes": "Hints named Barney Aaron and the Belle Ida; the text gives B. Aaron and only the boat's departure point."
+}

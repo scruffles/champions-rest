@@ -1,0 +1,197 @@
+{
+  "id": "195",
+  "claims": [
+    {
+      "kind": "health",
+      "statement": "Tom Allen has been confined to his bed for two or three weeks with persistent colds and is believed to be seriously ill.",
+      "excerpt": "for the last two or three weeks, and which have coufined him to his bed",
+      "date": "1903-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen is lying sick at his home on Market street between Sixth and Seventh.",
+      "excerpt": "is lying sick at his home on Market street between Sixth and Seventh, and",
+      "date": "1903-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Market Street between Sixth and Seventh, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was born in 1839.",
+      "excerpt": "Born in 1839, he took up the ring rather later than do most",
+      "date": "1839",
+      "date_precision": "year",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen started his ring career at age 21 in 186x (last digit garbled in the scan) and fought for about eighteen years.",
+      "excerpt": "He started his ring career when 21 years oid, in 186), and for elghtesa years",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was for years considered the strongest candidate for the heavyweight championship.",
+      "excerpt": "years considered the strongest candidate for the heavyweight championship of the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "A silver cup emblematic of the championship of England, given as a reward, hangs over Tom Allen's bar.",
+      "excerpt": "a massive silver op, emblematic of the utle, which now hangs over his bar.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss for the heavyweight championship in 1867; the bout ended in a riot and Allen's seconds were mobbed.",
+      "excerpt": "In 1867 he fought the then celebrated Joe Goss for the heavy-weight championship",
+      "date": "1867",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Jem Mace in Louisiana in 1870 for the heavyweight championship and a $5,000 purse; his seconds threw up the sponge after ten rounds.",
+      "excerpt": "In 1870 he fought Jem Mace In Louisiana for the heavy-weight championship and a purse of $5,000",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Jem Mace"],
+      "places": ["Louisiana"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen injured his arm in the 1870 fight with Jem Mace.",
+      "excerpt": "seconds throwing up the sponge at the end of ten rotnds, after Tom had Injured his arm.",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Jem Mace"],
+      "places": ["Louisiana"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen knocked out Charlie Davis in five rounds in England under Queensberry rules, the first championship fight in England under those rules, winning the championship of England.",
+      "excerpt": "when ke knocked out Charlie Davis in five rounds.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charlie Davis"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCool in seven rounds on Bloody Island.",
+      "excerpt": "Mike McCool on Bloody Island. He beat MeCool there in seven rounds.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCool"],
+      "places": ["Bloody Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Don Murphy, manager of Allen's place, said Allen would soon be out again, but that his illness had told on him considerably.",
+      "excerpt": "stated that he belleved the veteran woul be out again soon, but that the effects of his illness had told on him considerably.",
+      "date": "1903-01",
+      "date_precision": "approx",
+      "people": ["Don Murphy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1867",
+      "date_precision": "year",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "heavyweight championship",
+      "rules": "",
+      "excerpt": "In 1867 he fought the then celebrated Joe Goss for the heavy-weight championship",
+      "reported_as": "recollection",
+      "notes": "The bout ended in a riot and Allen's seconds were mobbed; no result is given."
+    },
+    {
+      "opponent": "Jem Mace",
+      "date": "1870",
+      "date_precision": "year",
+      "place": "Louisiana",
+      "result": "loss",
+      "rounds": "10",
+      "duration": "fifty minutes",
+      "stakes": "heavy-weight championship and a purse of $5,000",
+      "rules": "",
+      "excerpt": "In 1870 he fought Jem Mace In Louisiana for the heavy-weight championship and a purse of $5,000",
+      "reported_as": "recollection",
+      "notes": "Allen's seconds threw up the sponge after ten rounds, after Tom had injured his arm."
+    },
+    {
+      "opponent": "Charlie Davis",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "win",
+      "rounds": "5",
+      "duration": "",
+      "stakes": "championship of England; purse printed as £190",
+      "rules": "Queensberry rules",
+      "excerpt": "when ke knocked out Charlie Davis in five rounds.",
+      "reported_as": "recollection",
+      "notes": "First championship fight in England under Queensberry rules."
+    },
+    {
+      "opponent": "Mike McCool",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Bloody Island",
+      "result": "win",
+      "rounds": "7",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Mike McCool on Bloody Island. He beat MeCool there in seven rounds.",
+      "reported_as": "recollection",
+      "notes": ""
+    }
+  ],
+  "notes": "Scan is damaged in places: the 1867 and 1870 accounts and the start of the career are partly garbled. The 'world' at the end of the championship sentence is lost. Otherwise matches review input 194 on the same story."
+}

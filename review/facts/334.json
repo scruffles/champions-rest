@@ -1,0 +1,34 @@
+{
+  "id": "334",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen defeated Mike McCoole in a fight at Williams', on the river below the city.",
+      "excerpt": "the scene of McCoole’s late defeat by Tom Aijen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["Williams'"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Williams'",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the scene of McCoole’s late defeat by Tom Aijen",
+      "reported_as": "report",
+      "notes": "Only a passing mention; the article gives no date or details."
+    }
+  ],
+  "notes": "Passing mention in an Independence Day roundup; the rest of the article is not about Allen. The fight is called 'Tom Aijen' in the OCR."
+}

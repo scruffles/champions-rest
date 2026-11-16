@@ -1,0 +1,81 @@
+{
+  "id": "370",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "$500 a side was put up for the Mike McCoole and Tom Allen match on the night of 9 October 1869.",
+      "excerpt": "putting up, Jast night, of $500 a sile in th",
+      "date": "1869-10-09",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Allen's saloon"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The stakes were put up at Allen's saloon before a large crowd, with Allen and Jim Coyne said to be present.",
+      "excerpt": "event took place at Allen's sa‘oon, in ths presence of",
+      "date": "1869-10-09",
+      "date_precision": "day",
+      "people": ["Jim Coyne"],
+      "places": ["Allen's saloon"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen is matched to fight Mike McCoole.",
+      "excerpt": "match between Mik: McCools and Tom Allen.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Bill Davis fought Tom Allen; the result is not given in this text.",
+      "excerpt": "Mike McCoole, Charley Gallagher and Tom Ailen, has",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bill Davis"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$500 a side",
+      "rules": "",
+      "excerpt": "match between Mik: McCools and Tom Allen.",
+      "reported_as": "report",
+      "notes": "Match date and result not given in this article."
+    },
+    {
+      "opponent": "Bill Davis",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Mike McCoole, Charley Gallagher and Tom Ailen, has",
+      "reported_as": "record",
+      "notes": "Listed in a testimonial notice of Davis's opponents; the date and result are not given."
+    }
+  ],
+  "notes": "The Republic of 9 Oct prints $599 a side; this paper says $500. OCR of the saloon paragraph is damaged in places."
+}

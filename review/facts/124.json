@@ -1,0 +1,59 @@
+{
+  "id": "124",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole the first time; the enemies of Allen broke into the ring and robbed McCoole of the fight.",
+      "excerpt": "of Ailen broke into the ring and robbed him of",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole the second time, when Tom Kelly gave in for McCoole after about twenty minutes.",
+      "excerpt": "badly that Tom Kelly gave in for him at the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole", "Tom Kelly"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "of Ailen broke into the ring and robbed him of",
+      "reported_as": "recollection",
+      "notes": "Contest stopped when Allen's enemies broke into the ring and robbed McCoole of the fight. Allen's result is not stated, so entered as no contest."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "twenty minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "badly that Tom Kelly gave in for him at the",
+      "reported_as": "recollection",
+      "notes": "Printed as twenty minates. Kelly gave in (threw in) for McCoole, so Allen won. Article is an obituary-style recollection of McCoole."
+    }
+  ],
+  "notes": "Recollections from a Philadelphia correspondent about McCoole, who died in October 1886. Allen appears only in the two fights; the other McCoole bouts are not Allen's. Excerpts contain the OCR error Ailen and Mike are named McCoole in the text."
+}

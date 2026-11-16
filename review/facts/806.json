@@ -1,0 +1,19 @@
+{
+  "id": "806",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was among St. Louis sporting men preparing to go to New Orleans for the Dempsey-Fitzsimmons fight the next Wednesday night.",
+      "excerpt": "New Orleans next\nWednesday night. Tom Allen, Tom Kelly,",
+      "date": "1891-01-14",
+      "date_precision": "day",
+      "people": ["Tom Kelly", "Daly brothers", "McManus brothers", "Bob Farrell"],
+      "places": ["New Orleans, Louisiana"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Travel plans only; the paper is dated 1891-01-08 (hint's 1891-01-14 is the fight date). The McGregor letter does not involve Allen."
+}

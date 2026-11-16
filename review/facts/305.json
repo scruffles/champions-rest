@@ -1,0 +1,41 @@
+{
+  "id": "305",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Charles C. Gallagher had the preliminaries of a prize fight arranged and articles drawn up.",
+      "excerpt": "the preliminaries of a fight to come off between Charles C. Gallagher",
+      "date": "1869-01-13",
+      "date_precision": "day",
+      "people": ["Charles C. Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A $200 a side forfeit deposit was made for the Allen-Gallagher fight.",
+      "excerpt": "and $200 aside is already deposited &s fortett money",
+      "date": "1869-01-13",
+      "date_precision": "day",
+      "people": ["Charles C. Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen and Charles C. Gallagher were both of Cleveland, Ohio.",
+      "excerpt": "land, Obio, were arranged last night and the",
+      "date": "1869-01",
+      "date_precision": "month",
+      "people": ["Charles C. Gallagher"],
+      "places": ["Cleveland, Ohio"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Fight was to take place five weeks after the articles (no date given). It was fought on 23 Feb 1869; see 307. Paper's OCR garbles Cleveland and Ohio."
+}

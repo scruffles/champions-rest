@@ -1,0 +1,68 @@
+{
+  "id": "063",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he was holding over $600 in stakes on the Rigal and Carteron match.",
+      "excerpt": "because I hold over $600 in stakes now",
+      "date": "1876-02-08",
+      "date_precision": "day",
+      "people": ["Rigal", "Carteron"],
+      "places": ["Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said Jem Mace never intended to come to America to fight and was telling English sporting men that Allen had challenged him and would not fight.",
+      "excerpt": "fish Scopie he hes challenged me and that I wouldn’t fight him",
+      "date": "1876-02-07",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he had only retired from the ring until an opportunity came to get back in.",
+      "excerpt": "Ihave only retired fromthe ring until opportunity is effered for me.",
+      "date": "1876-02-07",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he would cover any amount put up by Jem Mace or anybody else who said they could whip him.",
+      "excerpt": "let ’em atick the stamps: Ill cover any amount.",
+      "date": "1876-02-07",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Jem Mace has nover intended te ceme to America todoany tighting.",
+      "topic": "Mace will not fight in America"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "Ihave only retired fromthe ring until opportunity is effered for me.",
+      "topic": "retirement from the ring"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "In other words, business is dull and I’m epen for engagements.",
+      "topic": "business is dull"
+    }
+  ],
+  "fights": [],
+  "notes": "Interview with Allen himself. The Rigal and Carteron match is a wrestling match, not a boxing match; it is recorded only as Allen's stakes."
+}

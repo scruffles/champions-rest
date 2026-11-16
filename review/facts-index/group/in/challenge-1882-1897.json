@@ -1,0 +1,382 @@
+{
+ "bucket": "challenge-1882-1897",
+ "kind": "challenge",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "103.c3",
+   "date": "1882",
+   "published": "1883-03-27",
+   "conf": "medium",
+   "statement": "Tom Allen was announced to meet Sullivan for $2,500 a side in the twenty-four-foot ring, but the match did not come off."
+  },
+  {
+   "cid": "656.c1",
+   "date": "1882-10",
+   "published": "1882-10-31",
+   "statement": "Richard K. Fox wants to back Tom Allen against John L. Sullivan or any other pugilist for the championship of the world."
+  },
+  {
+   "cid": "659.c9",
+   "date": "1882-10",
+   "published": "1882-11-01",
+   "statement": "Tom Allen issued a challenge to fight John L. Sullivan, the American champion."
+  },
+  {
+   "cid": "662.c3",
+   "date": "1882-10",
+   "published": "1882-11-14",
+   "statement": "Richard K. Fox deposited $1,000 with Harry Hill to show that Tom Allen wanted to fight."
+  },
+  {
+   "cid": "270.c2",
+   "date": "1882-10-09",
+   "published": "1882-10-31",
+   "statement": "Richard K. Fox posted $1,000 with Harry Hill on 9 October 1882, offering to match Tom Allen against any man in America."
+  },
+  {
+   "cid": "270.c3",
+   "date": "1882-10-09",
+   "published": "1882-10-31",
+   "conf": "medium",
+   "statement": "The proposed match was for $1,000 to $2,500 a side and the championship of the world, within 100 miles of New Orleans, to take place within three months of signing articles."
+  },
+  {
+   "cid": "655.c1",
+   "date": "1882-10-30",
+   "published": "1882-10-31",
+   "conf": "medium",
+   "statement": "Richard K. Fox deposited money with Harry Hill (amount printed as '$1,') as part of a challenge on Tom Allen's behalf."
+  },
+  {
+   "cid": "655.c2",
+   "date": "1882-10-30",
+   "published": "1882-10-31",
+   "conf": "medium",
+   "statement": "Richard K. Fox issued a challenge on Tom Allen's behalf to fight any pugilist, John L. Sullivan preferred, for the championship, at $1,000 to $2,500 a side, within three months of signing articles, near New Orleans."
+  },
+  {
+   "cid": "657.c1",
+   "date": "1882-10-30",
+   "published": "1882-10-31",
+   "conf": "medium",
+   "statement": "Richard K. Fox deposited money with Harry Hill (amount printed as '$1,') as part of a challenge on Tom Allen's behalf."
+  },
+  {
+   "cid": "657.c2",
+   "date": "1882-10-30",
+   "published": "1882-10-31",
+   "conf": "medium",
+   "statement": "Richard K. Fox issued a challenge offering to back Tom Allen, the ex-champion of America, to fight any pugilist, John L. Sullivan preferred, for the championship of the world, within three months of signing articles."
+  },
+  {
+   "cid": "658.c1",
+   "date": "1882-10-30",
+   "published": "1882-10-31",
+   "statement": "Richard K. Fox deposited $1,000 with Harry Hill and issued a challenge on behalf of Tom Allen."
+  },
+  {
+   "cid": "658.c2",
+   "date": "1882-10-30",
+   "published": "1882-10-31",
+   "statement": "Fox offered to back Tom Allen to fight any pugilist, John L. Sullivan preferred, for the championship of the world."
+  },
+  {
+   "cid": "097.c1",
+   "date": "1882-11",
+   "published": "1882-11-02",
+   "conf": "medium",
+   "statement": "Sullivan was notified to accept the challenge issued on Tom Allen's behalf, to fight within three months and within one hundred miles of Kansas City."
+  },
+  {
+   "cid": "098.c1",
+   "date": "1882-11",
+   "published": "1882-11-16",
+   "conf": "low",
+   "statement": "Tom Allen offered to fight Jno. L. Sullivan for a stake printed as $1,000 to $5,000."
+  },
+  {
+   "cid": "268.c1",
+   "date": "1882-11",
+   "published": "1882-12-01",
+   "conf": "low",
+   "statement": "A sum was posted with Harry Hill and John L. Sullivan was defied to cover it; the fragment does not name the depositor."
+  },
+  {
+   "cid": "275.c2",
+   "date": "1882-11",
+   "published": "1882-11-29",
+   "conf": "medium",
+   "statement": "Richard Fox proposed to wager $5,000 that Tom Allen could defeat John L. Sullivan in the prize ring."
+  },
+  {
+   "cid": "275.c3",
+   "date": "1882-11",
+   "published": "1882-11-29",
+   "statement": "Richard Fox posted $1,000 with Harry Hill to cover his challenge to John L. Sullivan."
+  },
+  {
+   "cid": "275.c4",
+   "date": "1882-11",
+   "published": "1882-11-29",
+   "conf": "medium",
+   "statement": "Mr. Harding, Allen's representative, did not go to Harry Hill's theatre to settle the $1,000 match."
+  },
+  {
+   "cid": "275.c5",
+   "date": "1882-11",
+   "published": "1882-11-29",
+   "conf": "medium",
+   "statement": "Farrell, a friend of Sullivan, claimed the $1,000 that Fox had posted."
+  },
+  {
+   "cid": "661.c9",
+   "date": "1882-11",
+   "published": "1882-11-06",
+   "conf": "medium",
+   "statement": "A proposed prize fight for $2,500 a side between Tom Allen and John L. Sullivan was under discussion in Boston sporting circles."
+  },
+  {
+   "cid": "662.c2",
+   "date": "1882-11",
+   "published": "1882-11-14",
+   "conf": "medium",
+   "statement": "Sullivan sent word to Richard K. Fox that he would fight Tom Allen for $5,000 a side, or for any sum Fox could raise, in Colorado or the Indian Territory."
+  },
+  {
+   "cid": "663.c3",
+   "date": "1882-11",
+   "published": "1882-11-19",
+   "conf": "medium",
+   "statement": "Fox would match Jim Mace against Sullivan only if Sullivan defeated Tom Allen."
+  },
+  {
+   "cid": "661.c4",
+   "date": "1882-11-02",
+   "published": "1882-11-06",
+   "statement": "Tom Allen challenged John L. Sullivan or any man in the world to fight for $1,600 or $5,000 a side and the championship of the world, under London prize ring rules."
+  },
+  {
+   "cid": "661.c6",
+   "date": "1882-11-02",
+   "published": "1882-11-06",
+   "statement": "Allen's backer posted $1,000 to back the challenge."
+  },
+  {
+   "cid": "097.c3",
+   "date": "1882-11-10",
+   "published": "1882-11-02",
+   "conf": "medium",
+   "statement": "Allen was to meet the champion's representative in New York on November 10, 1882 to arrange the match."
+  },
+  {
+   "cid": "661.c10",
+   "date": "1882-11-10",
+   "published": "1882-11-06",
+   "conf": "medium",
+   "statement": "Sullivan's backer named November 10 to meet and sign articles for the match with Allen."
+  },
+  {
+   "cid": "661.c8",
+   "date": "1882-11-16",
+   "published": "1882-11-06",
+   "statement": "Allen offered to meet Sullivan or any pugilist at the Police Gazette office on November 16 to arrange a match."
+  },
+  {
+   "cid": "662.c1",
+   "date": "1882-11-20",
+   "published": "1882-11-14",
+   "conf": "medium",
+   "statement": "Sullivan told Harry Hill he would be in New York on November 20 to sign articles to fight Tom Allen."
+  },
+  {
+   "cid": "666.c1",
+   "date": "1882-11-27",
+   "published": "1882-11-30",
+   "conf": "medium",
+   "statement": "After Allen's exhibition, the chance of a fight between Tom Allen and John L. Sullivan was considered scarcely probable."
+  },
+  {
+   "cid": "667.c2",
+   "date": "1882-11-27",
+   "published": "1882-12-01",
+   "conf": "medium",
+   "statement": "John L. Sullivan said at the exhibition that he had not come to make a match with Tom Allen and would not be permitted to spar with him."
+  },
+  {
+   "cid": "102.c10",
+   "date": "1882-12",
+   "published": "1882-12-30",
+   "conf": "medium",
+   "statement": "In Chicago Tom Allen refused to take part in a fixed fight with Jim Elliott, proposed by 'the Parson' and others."
+  },
+  {
+   "cid": "673.c2",
+   "date": "1882-12",
+   "published": "1882-12-15",
+   "conf": "medium",
+   "statement": "Tom Allen said he would make no match until after the Sullivan and Elliott fight, and would then fight the winner with bare knuckles or gloves."
+  },
+  {
+   "cid": "676.c1",
+   "date": "1882-12",
+   "published": "1882-12-21",
+   "statement": "Richard K. Fox telegraphed Charles Davies in Chicago that he would not back Tom Allen against Elliott and had dropped Allen altogether, because of Allen's conduct since leaving New York."
+  },
+  {
+   "cid": "099.c5",
+   "date": "1882-12-05",
+   "published": "1882-12-06",
+   "conf": "medium",
+   "statement": "Tom Allen said he would fight the winner of the Sullivan-Elliott glove contest if he recovered."
+  },
+  {
+   "cid": "669.c1",
+   "date": "1882-12-06",
+   "published": "1882-12-07",
+   "statement": "After a consultation with R. K. Fox in New York, Tom Allen agreed to accept James Elliott's challenge to fight him for $1,000 and the championship of America, within six weeks of signing articles and within 1,000 miles of New Orleans."
+  },
+  {
+   "cid": "673.c1",
+   "date": "1882-12-14",
+   "published": "1882-12-15",
+   "statement": "Tom Allen did not appear at Charles E. Davies' place in Chicago on December 14, 1882, to sign articles for a prize fight with Jimmy Elliott."
+  },
+  {
+   "cid": "101.c2",
+   "date": "1882-12-15",
+   "published": "1882-12-13",
+   "conf": "medium",
+   "statement": "A match between Tom Allen and Jim Elliott was to be arranged on Friday, December 15, 1882, in Chicago."
+  },
+  {
+   "cid": "680.c1",
+   "date": "1883-01-03",
+   "published": "1883-01-06",
+   "conf": "medium",
+   "statement": "George Morrow offered to bet $500 that Tom Allen could not knock out J. Miles in four three-minute rounds."
+  },
+  {
+   "cid": "103.c7",
+   "date": "1883-03",
+   "published": "1883-03-27",
+   "conf": "medium",
+   "statement": "Mitchell issued a challenge to meet Slade, Sullivan, Jem Mace, Joe Goss or Tom Allen for $5,000 to $10,000 a side; the men named did not reply."
+  },
+  {
+   "cid": "121.c1",
+   "date": "1886-09-30",
+   "published": "1886-09-30",
+   "statement": "Tom Allen offered an unnamed man to meet Duncan C. Ross in a mounted or on-foot broadsword contest for $500 a side or a $1,000 stake."
+  },
+  {
+   "cid": "121.c2",
+   "date": "1886-09-30",
+   "published": "1886-09-30",
+   "statement": "Tom Allen deposited $200 with the Post-Dispatch as a forfeit to guarantee a sword match with Duncan C. Ross."
+  },
+  {
+   "cid": "122.c2",
+   "date": "1886-09-30",
+   "published": "1886-10-02",
+   "statement": "Duncan C. Ross was in the city on Thursday and Friday, saw Tom Allen's challenge, and paid no attention to it."
+  },
+  {
+   "cid": "122.c1",
+   "date": "1886-10",
+   "published": "1886-10-02",
+   "statement": "Tom Allen withdrew his $200 forfeit, placed with the Post-Dispatch for a sword match between Duncan C. Ross and August Schmitt, because Ross had not covered it."
+  },
+  {
+   "cid": "749.c1",
+   "date": "1888-02-18",
+   "published": "1888-02-22",
+   "statement": "Tom Allen deposited $160 for Flint on Saturday, and the McManus party covered it."
+  },
+  {
+   "cid": "749.c2",
+   "date": "1888-02-21",
+   "published": "1888-02-22",
+   "conf": "medium",
+   "statement": "Tom Allen, who had the power to act for Flint, took part in arranging a fight to a finish between Flint and McManus at 160 pounds, with skin gloves under Queensberry rules."
+  },
+  {
+   "cid": "749.c3",
+   "date": "1888-02-21",
+   "published": "1888-02-22",
+   "statement": "Tom Allen witnessed the signing of the articles for the Flint and McManus fight."
+  },
+  {
+   "cid": "809.c1",
+   "date": "1891-01-17",
+   "published": "1891-01-17",
+   "conf": "medium",
+   "statement": "Jack King says he has $50 in Tom Allen's hands for a fight between Allen and Mike Boden, and asks Allen to cover it and arrange a match."
+  },
+  {
+   "cid": "809.c2",
+   "date": "1891-01-17",
+   "published": "1891-01-17",
+   "conf": "medium",
+   "statement": "According to Jack King, Tom Allen has been talking about fighting anybody in St. Louis."
+  },
+  {
+   "cid": "150.c1",
+   "date": "1892-11-11",
+   "published": "1892-11-12",
+   "statement": "Tom Allen said he told Dutch Niel he would give $50 towards a purse for a contest between Niel and Johnnie Daly."
+  },
+  {
+   "cid": "150.c2",
+   "date": "1892-11-11",
+   "published": "1892-11-12",
+   "statement": "Tom Allen denied that he would furnish a $500 side bet for Dutch Niel, and said he was not prepared to wager $500 on the result."
+  },
+  {
+   "cid": "150.c3",
+   "date": "1892-11-11",
+   "published": "1892-11-12",
+   "conf": "medium",
+   "statement": "Dutch Niel said he had been given to understand that Tom Allen would furnish a stake for him in a contest with Johnnie Daly."
+  },
+  {
+   "cid": "894.c3",
+   "date": "1893-11",
+   "published": "1893-12-23",
+   "statement": "Tom Allen wrote to Ed Smith several weeks before December 1893 advising him to try to arrange a match with Jackson."
+  },
+  {
+   "cid": "894.c2",
+   "date": "1893-12-22",
+   "published": "1893-12-23",
+   "statement": "Ed Smith wrote to Tom Allen, in a letter received on 22 December 1893, that his next fight would be with the winner of the Corbett-Mitchell fight."
+  },
+  {
+   "cid": "165.c1",
+   "date": "1895-01-11",
+   "published": "1895-01-11",
+   "statement": "Tom Allen announced he would back Al J. Neist against Mike Mooney in a lightweight wrestling match, any style, for $250 a side, winner take all."
+  },
+  {
+   "cid": "906.c1",
+   "date": "1895-02",
+   "published": "1895-02-24",
+   "conf": "medium",
+   "statement": "Jem Mace wanted to come to America and fight Tom Allen again, after hearing that Allen had said he could whip him."
+  },
+  {
+   "cid": "174.c3",
+   "date": "1897-06",
+   "published": "1897-06-13",
+   "conf": "medium",
+   "statement": "Tom Allen said he would back Denver Ed Smith if Smith could get a match with a prominent pugilist, and Smith would then probably train in St. Louis."
+  },
+  {
+   "cid": "175.c5",
+   "date": "1897-06",
+   "published": "1897-06-14",
+   "conf": "medium",
+   "statement": "Tom Allen said he would back Denver Ed Smith if Smith could get a fight with any of the big heavyweights."
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1011",
+  "claims": [
+    {"kind": "legal", "statement": "Public Administrator Garrard Strode filed the inventory of Allen's estate in probate court on Tuesday, July 28, 1903.", "excerpt": "filed in the prebate court Puesday by Public Administrator Garrard Strode", "date": "1903-07-28", "date_precision": "day", "people": ["Garrard Strode"], "places": [], "retrospective": false, "confidence": "high"},
+    {"kind": "legal", "statement": "The inventory valued Allen's estate, including his saloon, at $279.80.", "excerpt": "the late proprietor of “The Champion's Res* left property valued at", "date": "1903-07-28", "date_precision": "day", "people": [], "places": [], "retrospective": false, "confidence": "high"},
+    {"kind": "legal", "statement": "Allen's will left his property to his two married daughters, one in St. Louis and one in England.", "excerpt": "Allen bequeathed his property to two married daurhiers", "date": "", "date_precision": "unknown", "people": [], "places": ["St. Louis", "England"], "retrospective": false, "confidence": "high"},
+    {"kind": "saloon", "statement": "After Allen's death his saloon, The Champion's Rest, fell into other hands.", "excerpt": "fell into the hands of others and a will", "date": "", "date_precision": "unknown", "people": [], "places": [], "retrospective": false, "confidence": "high"},
+    {"kind": "other", "statement": "The inventory listed a champion's cup and shade, a barrel of whisky and other goods among Allen's property.", "excerpt": "model of ship, chamopioen’s cup and shude, pictures, barrel of whisky", "date": "1903-07-28", "date_precision": "day", "people": [], "places": [], "retrospective": false, "confidence": "medium"},
+    {"kind": "health", "statement": "Allen intended to marry his nurse, Tillie Hartgrove, if he recovered from his last illness.", "excerpt": "his mnurce whom i€ intended to marry in the event of his recovery", "date": "", "date_precision": "unknown", "people": ["Tillie Hartgrove"], "places": [], "retrospective": false, "confidence": "low"}
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "OCR is heavily garbled. Item values (cup $25, cash $11, horse $80) are not reliably legible, so no individual figures are recorded; the horse and harness line has no legible value, so the hint's $80 is dropped. The 'well-to-do' reading is too garbled to use. Hint 3 (will) kept."
+}

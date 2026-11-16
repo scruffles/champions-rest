@@ -1,0 +1,58 @@
+{
+  "id": "172",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen fired bullets at the Ohio saloon, a rival across the street that had taken his customers.",
+      "excerpt": "Fired Bullets at a Rival Saloon That\nHad Gotten His Customers.",
+      "date": "1897-04",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Ohio saloon, lower Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was in Police Court on a dual charge of disturbing the peace and carrying concealed weapons.",
+      "excerpt": "to answer the dual charge\nof disturbing the peace",
+      "date": "1897-04",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen's case was continued until April 30 (printed as 'April ov.').",
+      "excerpt": "is case was continue® until April ov.",
+      "date": "1897-04-30",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen ran his own place of amusement, a dance hall, on lower Market Street.",
+      "excerpt": "to his own temp.e of amusement, on lower\nMarket street and give a performance.",
+      "date": "1897-04",
+      "date_precision": "month",
+      "people": [],
+      "places": ["lower Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Allen talked about how square he had always run his place, and how he had kept within the law.",
+      "topic": "running his place square"
+    }
+  ],
+  "fights": [],
+  "notes": "Shooting is stated in the headline; the body text is garbled in places. The quote is reported speech. The night is not dated (paper dated 1897-04-27); the continuance is read as April 30 with low confidence."
+}

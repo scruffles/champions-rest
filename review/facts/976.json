@@ -1,0 +1,30 @@
+{
+  "id": "976",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised free concerts every evening at 619 Market Street, St. Louis.",
+      "excerpt": "Tom Allen, retired champion pugtiist of the world, 619 Market t. Free",
+      "date": "1898-07-16",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was billed in this advertisement as retired champion pugilist of the world.",
+      "excerpt": "Tom Allen, retired champion pugtiist of the world",
+      "date": "1898-07-16",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement notice. The Bement item on the same page does not involve Allen."
+}

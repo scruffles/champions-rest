@@ -1,0 +1,19 @@
+{
+  "id": "343",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Edward O'Baldwin, the 'Irish Giant', arrived in St. Louis from Boston, went around with Tom Allen, and dropped in on Mike McCoole and Bill Carroll.",
+      "excerpt": "He was around with Tox\nAllen, and dropped im on Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Edward O'Baldwin", "Mike McCoole", "Bill Carroll"],
+      "places": ["Laclede Hotel, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint kept only for the Allen connection. The 'talk that the visit means business' is about O'Baldwin, not Allen, so not recorded. Arrival date not given in the text."
+}

@@ -1,0 +1,129 @@
+{
+  "id": "069",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Ned Donnelly's real name was George Bruer, a laborer he had taken from the streets and trained as a boxer.",
+      "excerpt": "is George Bruer, I took from the streets",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ned Donnelly", "George Bruer"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen had agreed with the manager of the Adelphi Theater to go with Ned Donnelly for one week of sparring exhibitions.",
+      "excerpt": "to go with Donnelly and give sparring exhi-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ned Donnelly"],
+      "places": ["Adelphi Theater, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he knocked Ned Donnelly down on Tuesday, 11 April, after Donnelly sneered when Allen asked whether he would break their engagement.",
+      "excerpt": "I knocked him down, and he lay where he",
+      "date": "1876-04-11",
+      "date_precision": "day",
+      "people": ["Ned Donnelly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Ned Donnelly had Allen's trunks attached for $125, which Allen said was done so he could not fulfil his Chicago engagement.",
+      "excerpt": "ned for $125. This was done you see to get",
+      "date": "1876-04-11",
+      "date_precision": "day",
+      "people": ["Ned Donnelly"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen planned to go to Chicago to fill an engagement and return to St. Louis on the 28th (printed as '2sth').",
+      "excerpt": "Chicago, fill my engagement, and return",
+      "date": "1876-04-28",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Chicago", "St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Allen said the lease on his Washington Avenue saloon had expired and the building was to be torn down, and that his goods were stored at 1222 Collins Street and not sold.",
+      "excerpt": "were not sold as stated, but are stored at",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis", "1222 Collins Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he had made arrangements with his backer Fred Watkins, of 720 Main Street, to accept any challenge from Joe Coburn or his friends for $500 a side or more.",
+      "excerpt": "Coburn or his frienas may offer for $500 a",
+      "date": "1876-04-13",
+      "date_precision": "day",
+      "people": ["Fred Watkins", "Joe Coburn"],
+      "places": ["720 Main Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he had given Joe Coburn every chance to fight him, but Coburn would not fight.",
+      "excerpt": "a man could give but he won’t fight me",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen would not spar with Joe Coburn at Billy Allen's Adelphi, saying Coburn had refused to spar with him in New York.",
+      "excerpt": "for when I was in New York he refused to spar with me",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Coburn", "Billy Allen"],
+      "places": ["New York", "St. Louis Adelphi"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen said he had lived in St. Louis for seven years and intended to go on living there.",
+      "excerpt": "where I have lived seven vears’ No; Il intendtolive in St. Louis",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Well, thatis a bloody lie, for I hadno more intention than yeu have of going to the old country.",
+      "topic": "denies leaving St. Louis for England"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I wouldn’t want any better sport than to get Joe. Coburn out of the bounds of the law in the Indian Territory",
+      "topic": "on fighting Coburn in the Indian Territory"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen's own statement, one side of the dispute with Donnelly. The Donnelly note ('I HAVE PLAYED IRISHMAN LONG ENOUGH') is Donnelly's words, so it is left out. Billy Allen's role as manager is not stated outright; the Adelphi manager is not named in the text."
+}

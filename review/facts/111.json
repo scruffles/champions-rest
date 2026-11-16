@@ -1,0 +1,89 @@
+{
+  "id": "111",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Judge Chester H. Krum asked Gov. Crittenden of Missouri to refuse to surrender Tom Allen on Kentucky's requisition.",
+      "excerpt": "asked the @overuor to refuse te surrender Tom Ajlen, the pngilist",
+      "date": "1884-02-21",
+      "date_precision": "day",
+      "people": ["Chester H. Krum", "Gov. Crittenden", "Gov. Knott"],
+      "places": ["Jefferson City, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen was indicted in Kentucky in 1876 for prize fighting, an offence that was only a misdemeanor and not a felony (place printed as Chiuexy).",
+      "excerpt": "was indicted in Chiuexy in 1876 for prize fighting. The erime was Heta lelony, but Ouly a inisdeineanor",
+      "date": "1876",
+      "date_precision": "year",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen fought a prize fight in 1876 that led to a Kentucky indictment (opponent not named in this article).",
+      "excerpt": "was indicted in Chiuexy in 1876 for prize fighting",
+      "date": "1876",
+      "date_precision": "year",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Krum argued the requisition was meant to enforce collection of a debt Allen owed to Farrell, the bearer of the requisition.",
+      "excerpt": "bUL that the Object was to enforce the collection Ola débt due from Allen to Farrejj",
+      "date": "1884-02-21",
+      "date_precision": "day",
+      "people": ["W. P. Farrell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Gov. Crittenden said he was not prepared to honor the Kentucky requisition for Allen and would consider it well first.",
+      "excerpt": "ain Nol prepared now to! hovor the requisition",
+      "date": "1884-02-21",
+      "date_precision": "day",
+      "people": ["Gov. Crittenden"],
+      "places": ["Jefferson City, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The paper judged that Allen would not be turned over or sent back to Kentucky.",
+      "excerpt": "A fen Will not be turved oyer or Sent back iv hen-ucky",
+      "date": "1884-02-21",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "unknown",
+      "date": "1876",
+      "date_precision": "year",
+      "place": "Kentucky",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "was indicted in Chiuexy in 1876 for prize fighting",
+      "reported_as": "recollection",
+      "notes": "Opponent not named here; almost certainly the Joe Goss fight of 1876 (see article 110). Place printed as Chiuexy."
+    }
+  ],
+  "notes": "Hearing before Gov. Crittenden at Jefferson City. Judge Krum's role for Allen is implied, not stated."
+}

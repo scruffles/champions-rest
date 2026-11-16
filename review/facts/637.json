@@ -1,0 +1,59 @@
+{
+  "id": "637",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Mike McCoole in eight rounds and seventeen minutes in St. Louis, with no year given (OCR prints the rounds as '¢igit').",
+      "excerpt": "I whipped him in ¢igit rounds and seventeen minutes.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in forty minutes in St. Louis in 1875 (printed as 1575).",
+      "excerpt": "when 1 met Allen again in 8. Louis. 1 lost that battie in forty minutes",
+      "date": "1875",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "St. Louis",
+      "result": "loss",
+      "rounds": "8",
+      "duration": "17 minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "I whipped him in ¢igit rounds and seventeen minutes.",
+      "reported_as": "recollection",
+      "notes": "McCoole's recollection. No year given; in his account it falls after 1867 and before 1875. Rounds printed as '¢igit' (eight)."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1875",
+      "date_precision": "year",
+      "place": "St. Louis",
+      "result": "win",
+      "rounds": "",
+      "duration": "40 minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "when 1 met Allen again in 8. Louis. 1 lost that battie in forty minutes",
+      "reported_as": "recollection",
+      "notes": "Year printed as 1575; 1875 is inferred from the OCR and the sequence of the story."
+    }
+  ],
+  "notes": "McCoole's own recollection of two bouts with Allen, told in an interview. Dates are garbled in OCR."
+}

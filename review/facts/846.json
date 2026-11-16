@@ -1,0 +1,30 @@
+{
+  "id": "846",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised free concerts every evening at 619 Market Street.",
+      "excerpt": "Free concerts every @vening. Best of singers only engaged here.",
+      "date": "1892-05",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen styled himself retired champion pugilist of the world.",
+      "excerpt": "ToM ALLEN, retired champion pugilist ofthe word, 619 Marketstreet.",
+      "date": "1892-05",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. OCR has 'ofthe' and 'Marketstreet' (spacing errors)."
+}

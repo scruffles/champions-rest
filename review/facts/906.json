@@ -1,0 +1,45 @@
+{
+  "id": "906",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Jem Mace wanted to come to America and fight Tom Allen again, after hearing that Allen had said he could whip him.",
+      "excerpt": "Someone has been stringing him to the effect that his old antagonist, Tom Allen, has been saying that he can whip him and Jem wants to come over and show him that he can't.",
+      "date": "1895-02",
+      "date_precision": "month",
+      "people": ["Jem Mace", "Billy Delaney"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Jem Mace about a quarter of a century before 1895; the article does not give the result.",
+      "excerpt": "A bout between the old veterans would be interesting, indeed, but I don't think the Allen of to-day would have any more chance with Gypsey Jem than he did when he met him a quarter of a century ago.",
+      "date": "1870",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870",
+      "date_precision": "approx",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "A bout between the old veterans would be interesting, indeed, but I don't think the Allen of to-day would have any more chance with Gypsey Jem than he did when he met him a quarter of a century ago.",
+      "reported_as": "recollection",
+      "notes": "Passing reference only. 'A quarter of a century ago' gives about 1870. The result is not stated; see the 909 record for the May 1870 New Orleans fight."
+    }
+  ],
+  "notes": "The Bill Clark challenge in this article does not involve Allen and is not recorded. The hint's challenge is kept; Mace's wish is second-hand (via Billy Delaney)."
+}

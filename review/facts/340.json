@@ -1,0 +1,95 @@
+{
+  "id": "340",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Charley Gallagher made a match, with articles signed, to fight for a small amount near St. Louis on August 17, 1869.",
+      "excerpt": "Charley Gal-\nager, who are to fight for a small amount, near\nnip city, on the 17th of next month.",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had an engagement to fight Mike McCoole in November 1869.",
+      "excerpt": "bysiness, as he has an engagement to fight Mike Mc-",
+      "date": "1869-11",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen is described as an Englishman.",
+      "excerpt": "The Englishman certainly means\nbysiness, as he has an engagement to fight Mike Mc-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Charley Gallagher near an island a few miles below St. Louis in the winter of 1868-69 and was knocked out of time in the second round by a chance blow on the neck.",
+      "excerpt": "second round Allen was knocked out of time by",
+      "date": "1869-01",
+      "date_precision": "approx",
+      "people": ["Charley Gallagher"],
+      "places": ["an island a few miles below St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "near St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "small amount",
+      "rules": "",
+      "excerpt": "Charley Gal-\nager, who are to fight for a small amount, near\nnip city, on the 17th of next month.",
+      "reported_as": "report",
+      "notes": "Match made and articles signed; portion of the purse put up. Not yet fought when reported."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-11",
+      "date_precision": "month",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "bysiness, as he has an engagement to fight Mike Mc-",
+      "reported_as": "report",
+      "notes": "Engagement only; no place given. Date is the month printed (November), year inferred from the article date."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-01",
+      "date_precision": "approx",
+      "place": "an island a few miles below St. Louis",
+      "result": "loss",
+      "rounds": "2",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "second round Allen was knocked out of time by",
+      "reported_as": "report",
+      "notes": "Earlier pass named the island as Carroll Island; this text does not. Opponent is not named in that sentence; taken from context (the two pugilists are Allen and Gallagher). 'Last winter' taken as winter 1868-69."
+    }
+  ],
+  "notes": "Hint 1 corrected: the match is an agreed fight (not a challenge). Hint 2 kept, minus the Carroll Island name."
+}

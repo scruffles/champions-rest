@@ -1,0 +1,96 @@
+{
+  "id": "269",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen had just arrived in Boston from England and was staying at Patsy Sheppard's sporting resort on Hayward Place.",
+      "excerpt": "stopping at Patsy Sheppard’s well-known sporting resort on Hayward Place, He has just arrived from over the water",
+      "date": "1882-10",
+      "date_precision": "approx",
+      "people": ["Patsy Sheppard"],
+      "places": ["Hayward Place, Boston"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Allen planned to stay in Boston about another week, then go to New York for a few weeks, possibly giving exhibitions, before returning to England.",
+      "excerpt": "remain as the guest of Patsy Sheppard for a Week or s0 longer, when he will go to New York tora few weeks before he goes back to England",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Patsy Sheppard"],
+      "places": ["Boston", "New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen called Tug Wilson a faker for skipping out on his backer, Richard K. Fox.",
+      "excerpt": "considered him a “faker” for skipplng out on his backer, Richerd K. Fox",
+      "date": "1882-10",
+      "date_precision": "approx",
+      "people": ["Tug Wilson", "Richard K. Fox"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he had never met John L. Sullivan but judged him, from his record, the best man in the world.",
+      "excerpt": "judging from_ his record, he considered athe best man in the world",
+      "date": "1882-10",
+      "date_precision": "approx",
+      "people": ["John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "birth",
+      "statement": "In 1882 Tom Allen was forty-three years old, according to the Boston Star.",
+      "excerpt": "Allen is forty-three years old, and looks in Prime condition",
+      "date": "1882",
+      "date_precision": "year",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "The Boston Star described Tom Allen as a perfect gentleman and a credit to his profession.",
+      "excerpt": "and a perfect gentleman, and is a credit to his profession.",
+      "date": "1882-10",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he had not come to America to fight anyone.",
+      "excerpt": "that he did not ‘come over to this coun for the purpose of fightin any one,",
+      "date": "1882-10",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "A silver cup was presented to Tom Allen by his backers and admirers in England on 22 May 1878.",
+      "excerpt": "by his backers and admirers token of their admiration of his skill ‘end science: May 22, 1878, at Cambridge Hull",
+      "date": "1878-05-22",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cambridge Hall, Newman Street, London"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Boston paper report, paraphrased (not direct speech), so no quotes. The Tug Wilson and Sullivan opinions are the paper's paraphrase of Allen. Hint on 'visit friends' is not in the text. The 22 May 1878 presentation is from the cup inscription, quoted here."
+}

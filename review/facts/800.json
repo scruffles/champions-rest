@@ -1,0 +1,19 @@
+{
+  "id": "800",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Ben Hogan once measured muscle and science with men such as Tom Allen for the championship of America.",
+      "excerpt": "h men as Tom Allen ior the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan", "Tom Allen"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Text is badly garbled. Allen is named only as one of the men Hogan contested with; no bout is legible, so the hinted Hogan-Allen fight is not confirmed."
+}

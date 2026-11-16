@@ -1,0 +1,103 @@
+{
+  "id": "363",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was born in England.",
+      "excerpt": "the soil of England, and from this lamentable indiscre-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen defeated McCoole, but was declared to have lost the stakes through a foul.",
+      "excerpt": "who recently defeated McCoole, but who -vas declared to",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["McCoole"],
+      "places": ["below St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen met Charley Gallagher in a fight on 17 August 1869.",
+      "excerpt": "a hearing on the 17th day of August, Anno Domini,",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The referee decided the Allen-Gallagher match a draw on 20 August 1869, and the stakes were divided.",
+      "excerpt": "referee decided the match a draw, and the stakes and",
+      "date": "1869-08-20",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen was already under engagement to fight McCoole when Gallagher asked for a meeting.",
+      "excerpt": "was already under engagement to the McCoole;",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "people": ["McCoole", "Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "A benefit for Tom Allen was said to be planned at Frank's hall on Friday night.",
+      "excerpt": "will have a benefit at Frank’s hall on Friday night",
+      "date": "1869-08-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Frank's hall"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "McCoole",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "below St. Louis",
+      "result": "win",
+      "rounds": "",
+      "duration": "less than a quarter of an hour",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "who recently defeated McCoole, but who -vas declared to",
+      "reported_as": "report",
+      "notes": "The Clipper says Allen beat McCoole but lost the stakes on a foul it calls imaginary."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "a hearing on the 17th day of August, Anno Domini,",
+      "reported_as": "report",
+      "notes": "Allen was held to have won on the day; the referee declared a draw on 1869-08-20 and Gallagher's second threw up the sponge."
+    }
+  ],
+  "notes": "Clipper editorial in a satirical tone; the birth claim is a jibe, and the McCoole and Gallagher fights rest on the editorial. The benefit is 'it is said' from the Kansas City Journal. The dog and California Joe items are ignored."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "993",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Joe Goss was declared the victor over Tom Allen in a fight in Kentucky, not far from Cincinnati.",
+      "excerpt": "the victor over Tom Allen in a fight",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky, near Cincinnati"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had the best of the fight with Joe Goss but, in the writer's view, purposely struck Goss three foul blows in the last round to save his own life.",
+      "excerpt": "purpusely struck Goss three foul blows In",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky, near Cincinnati"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Goss had been brought over from England specially to fight Allen.",
+      "excerpt": "imported especially from England for the purpose of fighting Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "The writer says a gang including 'Red' Leary and Johnny Dwyer meant to kill Allen if he beat Goss, because they claimed he had given some of their pals away to the police in England.",
+      "excerpt": "because they claimed that Alien had given",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Red Leary", "Johnny Dwyer"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Kentucky, near Cincinnati",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the victor over Tom Allen in a fight",
+      "reported_as": "recollection",
+      "notes": "Goss was declared the victor; the writer says Allen had the best of it but struck three foul blows in the last round. No year is given in the text (hint's 1876 dropped)."
+    }
+  ],
+  "notes": "Paddy Ryan career piece; Allen figures only in the Goss paragraphs. The Ryan-Goss and Ryan-Sullivan fights do not involve Allen and are not recorded."
+}

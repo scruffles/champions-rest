@@ -1,0 +1,19 @@
+{
+  "id": "965",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Mrs. Duffy, housekeeper for Tom Allen, was the only witness at the coroner's inquest into the death of William C. Brown who said she saw Brown assaulted.",
+      "excerpt": "Mrs. Duffy, housekeeper for Tom Allen, the ex-pugilist. was the only witness who claimed to have seen Brown",
+      "date": "1897-07-16",
+      "date_precision": "day",
+      "people": ["Mrs. Duffy", "William C. Brown", "William Dann"],
+      "places": ["Ohio saloon, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only as the employer of the witness. Hint kept as legal (inquest)."
+}

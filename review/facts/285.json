@@ -1,0 +1,41 @@
+{
+  "id": "285",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss arrived from England in New York, with business to make a match with Tom Allen or any other man for the championship of the world.",
+      "excerpt": "Being to make a match with Tom Allen, or any",
+      "date": "1876-04-10",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss said Tom Allen had written him several letters inviting him to come to America.",
+      "excerpt": "has received several Jetters from Tom Allen inviting him to come to this",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss planned to go to St. Louis that week to challenge Tom Allen formally.",
+      "excerpt": "he expats to leave for St. Louis this week and formally challenge Allen",
+      "date": "1876-04",
+      "date_precision": "approx",
+      "people": ["Joe Goss"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Dispatch doubted Allen would accept; that line is garbled in the OCR, so not kept as a claim. Mace did not come with Goss (not about Allen). Rest of page is baseball and other news."
+}

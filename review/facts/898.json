@@ -1,0 +1,106 @@
+{
+  "id": "898",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen set up his claim to the American championship again after beating Mike McCoole.",
+      "excerpt": "Allen again set up bis claim to th e American championship",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Jim Mace at New Orleans in a match for the championship of America, with a purse printed as $15,000; Mace won in 14 rounds, lasting 44 minutes (OCR).",
+      "excerpt": "New Orleans, and Mace won in 14 lasting 44 minutes.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jim Mace"],
+      "places": ["New Orleans"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen met Mike McCoole in St. Louis and defeated him in seven rounds.",
+      "excerpt": "Tom Allen met Mike MéeCoole n city and defeated him. in seven",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss challenged Tom Allen for the American championship in 1876.",
+      "excerpt": "lenged by Joe Goss. The battle to on September 7 of that year",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Joe Goss on 7 September 1876 when Goss won in the first round on a foul, for a purse printed as $6,000.",
+      "excerpt": "Goss won in the first round on a foul",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jim Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "New Orleans",
+      "result": "loss",
+      "rounds": "14",
+      "duration": "44 minutes",
+      "stakes": "purse printed as $15,000",
+      "rules": "",
+      "excerpt": "New Orleans, and Mace won in 14 lasting 44 minutes.",
+      "reported_as": "record",
+      "notes": "Text says the challenge came in the late 1860s and gives OCR 'May 1' with no year. The hint's 1870-05-10, $5,000 and 10 rounds are not supported by the text."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "St. Louis",
+      "result": "win",
+      "rounds": "7",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Tom Allen met Mike MéeCoole n city and defeated him. in seven",
+      "reported_as": "record",
+      "notes": "'This city' is taken as St. Louis. Date not given; OCR garbled around 'n city'."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "",
+      "result": "loss",
+      "rounds": "1",
+      "duration": "",
+      "stakes": "purse printed as $6,000",
+      "rules": "",
+      "excerpt": "Goss won in the first round on a foul",
+      "reported_as": "record",
+      "notes": "Goss won on a foul in round 1; the text does not say who fouled. Hint gave $5,000; text reads $6,000."
+    }
+  ],
+  "notes": "Historical review of championship fights, so several entries are retrospective. Many numbers are garbled in the OCR (Mace bout date, rounds, purse) and are marked low confidence. The hint's 1870 date and $5,000 purse for Mace are not confirmed."
+}

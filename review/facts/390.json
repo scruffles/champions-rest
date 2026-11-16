@@ -1,0 +1,25 @@
+{
+  "id": "390",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "After Mace and Heenan's sparring exhibition in Cincinnati, the common remark was that Tom Allen would beat Mace in twenty minutes in a twenty-four-foot ring.",
+      "excerpt": "Well, if Tom Allen ever gets that fellow",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["James Mace", "John C. Heenan"],
+      "places": ["Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Cincinnati spectators (quoted by a Cincinnati paper)",
+      "text": "Well, if Tom Allen ever gets that fellow inside of s twenty-four foot ring, he'll just lick him in twenty minutes.",
+      "topic": "Allen would beat Mace in a ring"
+    }
+  ],
+  "fights": [],
+  "notes": "Headline 'Mace and Allen'. The remark is quoted from a Cincinnati paper, so the speaker is unnamed. 's' in the quote is OCR for 'a'."
+}

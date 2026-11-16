@@ -1,0 +1,58 @@
+{
+  "id": "160",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to St. Louis from Jacksonville, Florida, by the L. & N. railroad on the morning of 1894-01-27, the only one of the St. Louis sports to make the trip home that day.",
+      "excerpt": "arrived home this morning over the L. & N.",
+      "date": "1894-01-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Jacksonville, Florida", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen lost a diamond ring on the train home from Jacksonville, and later found it by the glitter of a piece of wire from a beer bottle.",
+      "excerpt": "Say, cawn’t you see I’ve lost me diamond",
+      "date": "1894-01-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["train from Jacksonville, Florida to St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen had prepared his famous ox-tail jelly as a stomach hardener for Charley Mitchell before the Corbett fight.",
+      "excerpt": "which he had prepared for Charley Mitchell, with the Intention of throwing it out the car",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": ["Charley Mitchell", "James J. Corbett"],
+      "places": ["Jacksonville, Florida"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said there was no fight between Corbett and Mitchell.",
+      "excerpt": "Foight! Foight! There was no fight,’’ was the answer, as Alien searched his pock-",
+      "date": "1894-01-27",
+      "date_precision": "day",
+      "people": ["Charley Mitchell", "James J. Corbett"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Foight! Foight! There was no fight",
+      "topic": "on the Corbett-Mitchell fight"
+    }
+  ],
+  "fights": [],
+  "notes": "The hint that Allen had picked Mitchell to win is not in this article; it is supported by the 161 article, so it is not claimed here. Allen's dreams are minor and omitted. The reporter's account says Allen was in Florida; the dates come from the printed date."
+}

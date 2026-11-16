@@ -1,0 +1,30 @@
+{
+  "id": "920",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as the retired champion pugilist of the world.",
+      "excerpt": "retired charmipion pugilist of the. World, GIY Market street",
+      "date": "1895-11-09",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised a free concert every evening at his Market street place, with only the best singers engaged (street number printed as 'GIY').",
+      "excerpt": "best of singers only engaged here",
+      "date": "1895-11-09",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement, badly garbled OCR; the address number is unreadable here (619 in 919). Text does not say 'saloon'."
+}

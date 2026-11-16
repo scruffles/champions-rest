@@ -1,0 +1,41 @@
+{
+  "id": "174",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Paddy Smith, brother of Denver Ed Smith, came to St. Louis and stayed with Tom Allen.",
+      "excerpt": "came to St. Louis Friday, and is stopping with ‘Tom Allen,",
+      "date": "1897-06-11",
+      "date_precision": "day",
+      "people": ["Paddy Smith", "Denver Ed Smith"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Denver Ed Smith followed his brother to St. Louis and also stayed at Tom Allen's place.",
+      "excerpt": "followed his brother, and he ts also at Allen’s.",
+      "date": "1897-06-12",
+      "date_precision": "day",
+      "people": ["Denver Ed Smith"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he would back Denver Ed Smith if Smith could get a match with a prominent pugilist, and Smith would then probably train in St. Louis.",
+      "excerpt": "Tom Allen will back Smith if he can get a match on with one of the",
+      "date": "1897-06",
+      "date_precision": "month",
+      "people": ["Denver Ed Smith"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Smith's name is printed 'Ea’' in one place; read as Ed. Date of the stay taken from 'came Friday' and 'last night' in a paper dated Sunday."
+}

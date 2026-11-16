@@ -1,0 +1,19 @@
+{
+  "id": "882",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "A New York writer said Joe Goddard was no more a prize fighter in the modern sense than Tom Allen was.",
+      "excerpt": "Goddard is no more of a prize fighter in the modern sense of the word than Tom Allen is.",
+      "date": "1892-12-01",
+      "date_precision": "day",
+      "people": ["Joe Goddard"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only as a comparison in a New York opinion letter about Joe Goddard; he takes no part and the letter gives no fight or other facts about him."
+}

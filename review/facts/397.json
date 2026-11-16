@@ -1,0 +1,78 @@
+{
+  "id": "397",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was to be presented with a champion belt at a pugilistic exhibition at the Theater Comique on 30 April 1870.",
+      "excerpt": "which is tc be presented to Tom Allen to-night at the pugilistic",
+      "date": "1870-04-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Theater Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The champion belt for Tom Allen was inscribed 'Presented to Thomas Allen by his St. Louis friends'.",
+      "excerpt": "**Presented to Thomas Allen by his St. Louisa friends.",
+      "date": "1870-04-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Eugene Jaccard & Co. of St. Louis made Tom Allen's champion belt and McLean Porter engraved it.",
+      "excerpt": "manufactured by Eugene Jaccard & Co., of this city, and the engraving was done by McLean Porter",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Eugene Jaccard", "McLean Porter"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen's champion belt cost $1,000.",
+      "excerpt": "The beli cost $1,000. It will be shown in the ring near New Orleans on the 10th of May",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mace were to meet in the ring near New Orleans on 10 May 1870.",
+      "excerpt": "It will be shown in the ring near New Orleans on the 10th of May, when Allen and Mace meet",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Mace"],
+      "places": ["near New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mace",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "place": "near New Orleans",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "It will be shown in the ring near New Orleans on the 10th of May, when Allen and Mace meet",
+      "reported_as": "report",
+      "notes": "Match announced only; the fight itself is reported in articles 398 and 399."
+    }
+  ],
+  "notes": "The belt cost line is OCR 'beli' for belt. The inscription is printed 'St. Louisa friends'."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "941",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's ad lists him as retired champion pugilist of the world at a Market street address printed as '(19 Market st.', with a free concert every evening.",
+      "excerpt": "Tom Allen, retired champion pugilist of the\nworld. (19 Market st. Free concert every",
+      "date": "1896-10-06",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The street number is garbled in the OCR ('(19'); 619 is taken from other ads in the series. The 'Edward Allen, an actor' item is a different man and is ignored."
+}

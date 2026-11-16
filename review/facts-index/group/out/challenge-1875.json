@@ -1,0 +1,61 @@
+{
+  "bucket": "challenge-1875",
+  "facts": [
+    {
+      "fact": "After the failed Rooke match, Tom Allen issued an open challenge to any man in the country for $2,500 to $5,000 a side and the championship of the world.",
+      "date": "1875",
+      "seed": "",
+      "conflict": "",
+      "claims": ["059.c1"]
+    },
+    {
+      "fact": "George Rooke challenged Tom Allen in early 1875 to fight for the American championship at $2,500 a side; Arthur Chambers accepted for Allen, the two met at Harry Hill's in New York on February 16, 1875 to discuss stakes, and Harry Hill held a $500 deposit in March.",
+      "date": "1875-02",
+      "seed": "",
+      "conflict": "challenge date: January 1875 (521.c1) vs February 1875 (289.c2)",
+      "claims": ["521.c1", "289.c2", "521.c2", "264.c1", "289.c1", "514.c3"]
+    },
+    {
+      "fact": "Ben Hogan challenged Tom Allen to fight for $2,500 a side in April 1875, and Allen accepted by letter to Sam French, with a $250 deposit sent to bind the match.",
+      "date": "1875-04",
+      "seed": "",
+      "conflict": "challenge date: April 1875 (519.c1) vs summer 1875 (580.c2, retro, low); Allen told a reporter he had received no challenge and a match was impossible (519.c3, 519.c4) vs his letter accepting it (519.c2); stake: $2,500 a side (519.c1) vs a garbled amount ($5. OD to $20,000) (519.c7, low)",
+      "claims": ["519.c1", "519.c2", "519.c3", "519.c4", "519.c6", "519.c7", "580.c2"]
+    },
+    {
+      "fact": "In June 1875 Arthur Chambers sent George Rooke articles for a fight within fifty miles of Detroit at $1,000 a side, after Allen telegraphed Philadelphia, and Rooke's backer Muldoon and Rooke himself also offered terms for a match with Allen.",
+      "date": "1875-06",
+      "seed": "",
+      "conflict": "stakes: $1,000 a side (522.c1, 256.c5) vs no stakes with a $1,000 bet (058.c5); place: within fifty miles of Detroit (522.c1) vs fifty miles from Pittsburg (256.c5)",
+      "claims": ["522.c1", "522.c2", "256.c5", "058.c5"]
+    },
+    {
+      "fact": "Talk of a match between Tom Allen and Ned O'Baldwin arose in late June 1875, and efforts to arrange it went on for three months.",
+      "date": "1875-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["525.c1"]
+    },
+    {
+      "fact": "Teddy Neary, brother of Fiddler Neary, was eager to fight George Rooke and would be matched against him if Allen's challenge came to nothing.",
+      "date": "1875-06-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["522.c4"]
+    },
+    {
+      "fact": "A New York report in July 1875 said Tom Allen had challenged Jem Mace and that Mace had accepted; the paper said the report was a scheme and not true.",
+      "date": "1875-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["523.c2"]
+    },
+    {
+      "fact": "Jem Mace challenged Tom Allen by letter from London dated October 27, 1875, and Allen's replies from November to December 1875 said he would meet Mace on Mace's terms, denied putting up a forfeit, and said he had not heard from Mace officially.",
+      "date": "1875-10",
+      "seed": "",
+      "conflict": "Allen's November telegram saying he was ready to meet Mace on Mace's terms, $5,000 a side (059.c5) vs his December 25 statement that he had done nothing to bring Mace forward (530.c1)",
+      "claims": ["059.c2", "059.c5", "059.c6", "530.c1", "530.c3", "530.c4", "530.c5"]
+    }
+  ]
+}

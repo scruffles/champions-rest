@@ -1,0 +1,16 @@
+{
+  "id": "292",
+  "claims": [
+    {"kind": "fight", "statement": "Tom Allen fought Joe Goss to a draw at Marshfield near Cardiff in 34 rounds, lasting 1 hour 53 minutes.", "excerpt": "one hour and fifty-three minutes, and thirty-four rounds", "date": "1867-03", "date_precision": "month", "people": ["Joe Goss"], "places": ["Marshfield, near Cardiff"], "retrospective": false, "confidence": "high"},
+    {"kind": "health", "statement": "Tom Allen's right shoulder was dislocated in the twenty-fifth round against Goss, but he fought on.", "excerpt": "Alien was thrown heavily, and bis right shoulder duslocated", "date": "1867-03", "date_precision": "month", "people": ["Joe Goss"], "places": ["Marshfield, near Cardiff"], "retrospective": false, "confidence": "high"},
+    {"kind": "birth", "statement": "Tom Allen of Birmingham was twenty-seven years old and five feet ten inches tall at the time of the Goss fight.", "excerpt": "end Tom Allen oF Birmingharn Allen ia twenty-seven years old, five feet ten", "date": "1867-03", "date_precision": "month", "people": [], "places": ["Birmingham"], "retrospective": false, "confidence": "high"},
+    {"kind": "career", "statement": "Before 1867 Tom Allen fought in England, including bouts against Morris Connor, Jack Gould and Bingey Rose.", "excerpt": "Morris Connor, Jack Gould, Bingey ious and Jeo", "date": "", "date_precision": "unknown", "people": ["Morris Connor", "Jack Gould", "Bingey Rose"], "places": ["England"], "retrospective": true, "confidence": "low"},
+    {"kind": "fight", "statement": "Tom Allen defeated Price in a tough contest that lasted two hours and some minutes.", "excerpt": "in a tough contest, which lasted two hours and", "date": "", "date_precision": "unknown", "people": ["Price"], "places": ["England"], "retrospective": true, "confidence": "low"}
+  ],
+  "quotes": [],
+  "fights": [
+    {"opponent": "Joe Goss", "date": "1867-03", "date_precision": "month", "place": "Marshfield, near Cardiff, Wales", "result": "draw", "rounds": "34", "duration": "1 hour 53 minutes", "stakes": "", "rules": "", "excerpt": "one hour and fifty-three minutes, and thirty-four rounds", "reported_as": "report", "notes": "Police from Newport stopped the fight twice; it was moved to Marshfield and ended in a draw. The exact day is garbled in the OCR."},
+    {"opponent": "Price", "date": "", "date_precision": "unknown", "place": "England", "result": "win", "rounds": "", "duration": "2 hours and ? minutes", "stakes": "", "rules": "", "excerpt": "in a tough contest, which lasted two hours and", "reported_as": "record", "notes": "The OCR is badly garbled; the hint's 1866 date is not clear in the text. Only this Price bout is legible."}
+  ],
+  "notes": "The early-career record is garbled, so only the Price and Connor/Gould/Rose names are legible; a Mace match (1866) mentioned in the garbled text is not recorded. The trainer and Goss's imprisonment do not clearly concern Allen."
+}

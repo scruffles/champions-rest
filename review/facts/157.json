@@ -1,0 +1,41 @@
+{
+  "id": "157",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was at Charley Mitchell's training quarters on Anastasia Island, near St. Augustine, Florida, in January 1894.",
+      "excerpt": "H. Converse of Denver, Tom Alien ts here. Tom is around much, though he spends most",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": ["Charley Mitchell"],
+      "places": ["Anastasia Island, St. Augustine, Florida"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen spent much of his time on the beach or at the top of the old Anastasia lighthouse, a stone's throw from Mitchell's cottage.",
+      "excerpt": "of his time on the beach or at the top of the",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": ["Charley Mitchell"],
+      "places": ["Anastasia Island, St. Augustine, Florida"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen and Bat Masterson would like to bet $5,000 against the even-money wagers that Corbett wins in twenty rounds.",
+      "excerpt": "‘‘Bat’’ Masterson and Tom Allen would like to invest $5,000 against this",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": ["Bat Masterson", "James J. Corbett", "Charley Mitchell"],
+      "places": ["Jacksonville, Florida"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is named only in passing in this article about the Corbett-Mitchell match. The hint about Allen's Florida presence is kept; the hint about the wager is kept as medium confidence."
+}

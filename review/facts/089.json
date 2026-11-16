@@ -1,0 +1,41 @@
+{
+  "id": "089",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was living in Toronto, Canada, in February 1877.",
+      "excerpt": "is taking it easy at Toronto, Canada.",
+      "date": "1877-02",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Toronto, Canada"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "City Marshal Boland of Covington, Kentucky, who was pursuing those involved in the Goss-Allen fight, met Tom Allen in Toronto on 1877-02-20.",
+      "excerpt": "enfaged inthe Goss-Allen mill last fall, met Tom gt Toronto.",
+      "date": "1877-02-20",
+      "date_precision": "day",
+      "people": ["Boland"],
+      "places": ["Toronto, Canada"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The paper says Allen's offense in the Goss fight is not extraditable, so he is safe in Canada.",
+      "excerpt": "As his otlense is not extraditable Tom is safe",
+      "date": "1877-02",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Toronto, Canada"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Tuesday taken as 1877-02-20 (paper dated Friday 1877-02-23)."
+}

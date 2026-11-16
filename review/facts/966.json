@@ -1,0 +1,52 @@
+{
+  "id": "966",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen told his housekeeper, Mrs. Mary Duffy, that a man assaulted across the street the night before had died.",
+      "excerpt": "to his housekeeper, Mrs. Mary Duffy, that a man who h been as- isaulted across the street the nicht before thad died.",
+      "date": "1897-07-15",
+      "date_precision": "day",
+      "people": ["Mary Duffy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen listened to his housekeeper's account of the assault and informed the authorities.",
+      "excerpt": "Allen list¢ned to her story and! informed the authorifies.",
+      "date": "1897-07-15",
+      "date_precision": "day",
+      "people": ["Mary Duffy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and his housekeeper Mrs. Duffy were summoned before Chief Desmond to tell their stories.",
+      "excerpt": "were surh moned be- fore Chief Desmond to tell thedr stortés.",
+      "date": "1897-07-15",
+      "date_precision": "day",
+      "people": ["Mary Duffy", "Chief Desmond"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Mrs. Duffy sat at a window over Tom Allen's saloon, almost opposite the Ohio saloon, when the assault occurred.",
+      "excerpt": "Mrs. Duffy sat at a window oWer Tom Al- jlen's saloon, almost opposite the Ohio sa-",
+      "date": "1897-07-14",
+      "date_precision": "day",
+      "people": ["Mary Duffy"],
+      "places": ["Ohio saloon, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears as employer and as the one who reported the assault. William Damm's arrest and the murder charge do not involve Allen and are not recorded. Dates: assault Wednesday night 1897-07-14; Allen's talk 'yesterday afternoon' of 1897-07-15."
+}

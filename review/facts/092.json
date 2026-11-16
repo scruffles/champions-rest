@@ -1,0 +1,81 @@
+{
+  "id": "092",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen was in training at Barnet, on the Thames near London, in March 1878 under his trainer Jack Hopkins.",
+      "excerpt": "Tom Allen has been in training about a week now",
+      "date": "1878-03",
+      "date_precision": "approx",
+      "people": ["Jack Hopkins"],
+      "places": ["Barnet, on the Thames, near London"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Charley Davis were expected to meet for the championship and £200 at St. George's Hall, London, though the law had a great deal to do in the matter.",
+      "excerpt": "Blip the £200 and more beside, meet at St.",
+      "date": "1878-03",
+      "date_precision": "approx",
+      "people": ["Charley Davis"],
+      "places": ["St. George's Hall, London"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen weighed fourteen stone, or 196 pounds, in training.",
+      "excerpt": "weighs what in England is termed fourteen stone",
+      "date": "1878-03",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen agreed to meet George Rooke for $2,500 and the championship of America, but the match fell through over a difficulty about the stakeholders.",
+      "excerpt": "Tom Alien also shortly after agreed to meet Rooke ior $2,500 and the championship otf",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["George Rooke"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Davis",
+      "date": "1878-03",
+      "date_precision": "approx",
+      "place": "St. George's Hall, London",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "£200 and the championship",
+      "rules": "",
+      "excerpt": "Blip the £200 and more beside, meet at St.",
+      "reported_as": "report",
+      "notes": "Forthcoming in about fourteen or sixteen days from 13 March 1878; no result in this article. Law may interfere."
+    },
+    {
+      "opponent": "George Rooke",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,500 and the championship of America",
+      "rules": "",
+      "excerpt": "Tom Alien also shortly after agreed to meet Rooke ior $2,500 and the championship otf",
+      "reported_as": "recollection",
+      "notes": "Agreed match that fell through over a difficulty about the stakeholders; never fought."
+    }
+  ],
+  "notes": "Trainer and ring details from a Cincinnati Enquirer letter dated London, 13 March 1878."
+}

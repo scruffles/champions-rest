@@ -1,0 +1,147 @@
+{
+  "id": "252",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was proprietor of a sawdust-floored tavern on Market Street near Seventh in St. Louis, known as the Champion's Rest.",
+      "excerpt": "proprietor of the old saw-dust floored tavern on Market street near Seventh",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Market Street near Seventh, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen opened and ran the Champion's Rest after retiring from the ring.",
+      "excerpt": "opened and operated the place after his retirement from the ring",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen operated the Champion's Rest up to his death.",
+      "excerpt": "Allen operated that resort up to his death in 1904",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died in 1904.",
+      "excerpt": "Allen operated that resort up to his death in 1904",
+      "date": "1904",
+      "date_precision": "year",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen came from England and settled in St. Louis in the early 1860s.",
+      "excerpt": "after he came from England and settled here in here in the early sixties",
+      "date": "1860",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis", "England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "It has been contended that Tom Allen was not universally recognized as champion.",
+      "excerpt": "where he fought leading opponents, was not universally recognized as champion",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen seemed to have the best claim to the title of any man at that time.",
+      "excerpt": "Allen seemed to have the best right of all",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole challenged Tom Allen for the title, and they fought on Chouteau Island.",
+      "excerpt": "challenged Allen for the title and they fought on Chouteau Island",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen was winning when the referee, intimidated by roughs, gave the verdict to McCoole, who claimed the title for four years.",
+      "excerpt": "Allen was winning, but the referee, intimidated by",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen met Mike McCoole again in 1873 and made him quit in seven rounds, regaining his title.",
+      "excerpt": "bons and made him quit in seven rounds, regaining his title rights",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Chouteau Island, in the Mississippi",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen was winning, but the referee, intimidated by",
+      "reported_as": "recollection",
+      "notes": "Referee, intimidated by roughs, gave the verdict to McCoole, who claimed the title for four years. Undated in this text."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "year",
+      "place": "",
+      "result": "win",
+      "rounds": "7",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "bons and made him quit in seven rounds, regaining his title rights",
+      "reported_as": "recollection",
+      "notes": "McCoole quit in seven rounds. The 1873 date is from 'met again in 1873' in the same article."
+    }
+  ],
+  "notes": "Conflict: this article says Allen came to St. Louis in the early 1860s; article 247 (1934) says he came in 1884. Article 1869 date for the first McCoole fight is not given here."
+}

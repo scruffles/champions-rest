@@ -1,0 +1,67 @@
+{
+  "id": "350",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Allen and Gallagher were to fight on 17 August 1869 at a point down the Mississippi River within fifty miles of St. Louis (the place is garbled in the scan).",
+      "excerpt": "Miesiesippi river within fifty miles of. this city.",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": ["Mississippi River, within fifty miles of St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "travel",
+      "statement": "Allen and Gallagher were both to go to the fight on the same boat.",
+      "excerpt": "Both men will goon the same bost, and the friends of",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "After the Gallagher fight, Allen was expected to meet Ned O'Baldwin, then Ben Hogan.",
+      "excerpt": "After that he must make his bow to the infant Ned O’Baldwin, then to Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ned O'Baldwin", "Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A meeting between Joe Goss of England and Allen, to settle old scores, was expected to take place.",
+      "excerpt": "Allen,,.to,settle old scores, is almost sure to take place.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "down the Mississippi River, within fifty miles of St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Miesiesippi river within fifty miles of. this city.",
+      "reported_as": "report",
+      "notes": "Pre-fight report; place is OCR-garbled. Hours (9 a.m. to 4 p.m.) are too garbled to use."
+    }
+  ],
+  "notes": "Quote is garbled OCR and dropped. Hint about McCool on 10 October near Cincinnati is not in the text, so dropped. Hint saying the saloon result depended on the fight is not readable, so dropped. Tom Kelly line is garbled and dropped."
+}

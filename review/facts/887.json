@@ -1,0 +1,30 @@
+{
+  "id": "887",
+  "claims": [
+    {
+      "kind": "business",
+      "statement": "Tom Allen advertised a concert every evening at 618 Market street (address garbled in the OCR).",
+      "excerpt": "world, nota pillow Se gee Se 618 rket street. Concert every evening.",
+      "date": "1893-02-04",
+      "date_precision": "day",
+      "people": [],
+      "places": ["618 Market Street"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen styled himself retired champion pugilist of the world (printed as 'goats' in the OCR).",
+      "excerpt": "Tom ALLEN, retired champion goats of the world, nota pillow Se gee Se 618 rket street.",
+      "date": "1893-02-04",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Ad only, badly garbled. The hint's 'not a pillow champion' quote is not legible as a quote (OCR 'nota pillow'), so not recorded. Other items on the page (Corbett, Talbot-Brown, Sullivan) do not involve Allen."
+}

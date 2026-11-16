@@ -1,0 +1,114 @@
+{
+  "id": "498",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Arthur Chambers were arrested by St. Louis detectives on arrival from Kansas City, on an Illinois requisition for the prize fight with Mike McCoole.",
+      "excerpt": "Last evening, on the arrival of the 6:40 train",
+      "date": "1873-11-21",
+      "date_precision": "day",
+      "people": ["Arthur Chambers", "Mike McCoole", "Duckworth", "Tracy"],
+      "places": ["Kansas City", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Arthur Chambers were taken to the Four Courts in St. Louis and held there without bail.",
+      "excerpt": "trotted off to the Four Courts and\nbdged im the jug, there to remain without bail.",
+      "date": "1873-11-21",
+      "date_precision": "day",
+      "people": ["Arthur Chambers"],
+      "places": ["Four Courts, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Ben Hogan near Omaha, Nebraska, in November 1873; Hogan knocked him down in the first round, and the Omaha men cut the ropes and broke up the fight.",
+      "excerpt": "Allen was a fair one, he thinks, although Allen",
+      "date": "1873-11",
+      "date_precision": "approx",
+      "people": ["Ben Hogan", "Mike Ganley", "Sweeney"],
+      "places": ["Omaha, Nebraska"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen's fight with Ben Hogan came to grief on the steamer Continental at East St. Louis on October 28, 1873.",
+      "excerpt": "belr numerous friends came to grief on the Con-",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": ["East St. Louis, Illinois", "Continental steamer"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "After Omaha men threatened to shoot them, Tom Allen and Jack Looney left Omaha for Kansas City, reaching it safely on Friday, November 21.",
+      "excerpt": "Looney shook the dust or Oraaha from off their",
+      "date": "1873-11-21",
+      "date_precision": "day",
+      "people": ["Jack Looney"],
+      "places": ["Omaha, Nebraska", "Kansas City"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Arthur Chambers seconded Tom Allen in the fight with Mike McCoole.",
+      "excerpt": "econded Allen cn that momentous occasion of\nhe MeCoole strawberry festival,",
+      "date": "1873-09",
+      "date_precision": "month",
+      "people": ["Arthur Chambers", "Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Arthur Chambers also seconded Tom Allen in the Hogan fight at East St. Louis.",
+      "excerpt": "ther Hogan oveusion, when the fighters and\nbelr numerous friends came to grief",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Arthur Chambers", "Ben Hogan"],
+      "places": ["East St. Louis, Illinois"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "place": "East St. Louis, Illinois (on the steamer Continental)",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$500 a side extra, put up after the Continental fiasco",
+      "rules": "",
+      "excerpt": "belr numerous friends came to grief on the Con-",
+      "reported_as": "report",
+      "notes": "Stopped on the Continental; did not take place."
+    },
+    {
+      "opponent": "Ben Hogan",
+      "date": "1873-11",
+      "date_precision": "approx",
+      "place": "Omaha, Nebraska",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "about sixteen minutes (printed as 'six-eeniminutes')",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen was a fair one, he thinks, although Allen",
+      "reported_as": "report",
+      "notes": "Broken up when the Omaha men cut the ropes; first round about six minutes; Allen said his shoe spike caught in the grass. Duration is an OCR-garbled figure."
+    }
+  ],
+  "notes": "Conflict: the Republic here says Allen 'did not show at East St. Louis' on Oct. 28, but the Globe-Democrat (article 493) says Allen had just come back from down below that night. The 'bloody go' quote is not legible here (printed 'bloody gu'), so it is left out. Eagan's arrest and Chambers's escape do not concern Allen and are left out."
+}

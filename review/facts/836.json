@@ -1,0 +1,30 @@
+{
+  "id": "836",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was among the sporting men in the audience at the Olympic Club, New Orleans, for the Maher-Fitzsimmons fight.",
+      "excerpt": "to have Knocked out, but who denies it; Tom\nAllen, retired pugilist; Jack Burke,the Texas",
+      "date": "1892-03-02",
+      "date_precision": "day",
+      "people": ["Peter Maher", "Bob Fitzsimmons", "Jack Burke"],
+      "places": ["Olympic Club, New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as a retired pugilist.",
+      "excerpt": "to have Knocked out, but who denies it; Tom\nAllen, retired pugilist; Jack Burke,the Texas",
+      "date": "1892-03-02",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is named only in the list of attendees. The Fitzsimmons-Maher result is not Allen's fight and is not recorded."
+}

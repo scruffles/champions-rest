@@ -1,0 +1,74 @@
+{
+  "id": "379",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Jem Mace deposited $500 at the Clipper office to cover Tom Allen's challenge and asked Allen to cover it.",
+      "excerpt": "have this day depusi ed $500 at the Ciinper",
+      "date": "1869-12-27",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mace would not meet Allen in Pittsburgh but offered to meet him in New York and pay half his expenses there.",
+      "excerpt": "meet you mm Pittsburgh, as you propose, but [ will",
+      "date": "1869-12-27",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Pittsburgh", "New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mace's New York friends proposed to present him with a belt, which he would stake against Allen's belt.",
+      "excerpt": "propose to present me will a belt als»,",
+      "date": "1869-12-27",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Billy Carroll, acting for Tom Allen, forwarded forfeit money (printed as $690) to Frank Queen of the New York Clipper, accepting Mace's challenge.",
+      "excerpt": "Yesterday Billy Carroll, acting for Tom Allen, for-",
+      "date": "1869-12-31",
+      "date_precision": "day",
+      "people": ["Billy Carroll", "Frank Queen", "Jem Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen proposed to fight Jem Mace for $2,500 a side on 5 July 1870, within fifty miles of a place the OCR garbles as 'vane', with the forfeit lost by any party arrested in another state.",
+      "excerpt": "Allen’s proposition fs to fight for $2,500 a side with-",
+      "date": "1870-07-05",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The fight with Mace was also to be, as alleged by Billy Carroll, for the championship of the world.",
+      "excerpt": "The fight is also to be, as alleged by Carroll, for",
+      "date": "1870-07-05",
+      "date_precision": "day",
+      "people": ["Billy Carroll", "Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Deposit printed as $690 (hint said $500; Mace's card says $500). The place for the fight is garbled in the OCR. The forfeit clause, the 'vane' place and the $690 figure are low confidence."
+}

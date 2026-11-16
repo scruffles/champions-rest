@@ -1,0 +1,30 @@
+{
+  "id": "948",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "An advertisement gave Tom Allen's place as 619 Market Street, St. Louis, with a free concert every evening.",
+      "excerpt": "Tom Allen, retired champion pugilist of the world, 619 Market street.",
+      "date": "1897-01-09",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen styled himself retired champion pugilist of the world.",
+      "excerpt": "Tom Allen, retired champion pugilist of the world, 619 Market street.",
+      "date": "1897-01-09",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only a saloon advertisement. The Smith-White, Creedon and other sporting items do not involve Allen."
+}

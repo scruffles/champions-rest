@@ -1,0 +1,30 @@
+{
+  "id": "120",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen backed Antonio Pierre in a private catch-as-catch-can wrestling match against Greek George; the stakes are printed as 3200 a side.",
+      "excerpt": "was baeked by John Delargy and Pierre by | Tom Allen.",
+      "date": "1886-08-02",
+      "date_precision": "day",
+      "people": ["Antonio Pierre", "Greek George", "John Delargy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Greek George beat Antonio Pierre, whom Tom Allen had backed, in two falls in the private wrestling match.",
+      "excerpt": "The private match between Antonio Pierre and Greek George, the wrestiers, took place",
+      "date": "1886-08-02",
+      "date_precision": "day",
+      "people": ["Antonio Pierre", "Greek George"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen backed the wrestler; he did not wrestle. Stake printed as 3200 (probably $200, as the hint says). Excerpt joins a line break. Place not given."
+}

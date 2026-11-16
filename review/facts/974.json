@@ -1,0 +1,41 @@
+{
+  "id": "974",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was badly beaten in front of his saloon on Market Street, near Sixth Street, early in the morning of July 1, 1898.",
+      "excerpt": "badly beaten in fr[?] [?] of his saloon on Market, near Sixth st[?] early this morning.",
+      "date": "1898-07-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, near Sixth Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "At first it was reported that Tom Allen had been shot, but the bullet did not hit him.",
+      "excerpt": "It was at first rep[?] [?] that he had been shot, but the bullet",
+      "date": "1898-07-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, near Sixth Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was badly punished in the attack and might have been killed but for his barkeeper coming to his rescue.",
+      "excerpt": "Allen was badly punished and [?] [?] been killed but for his barkeep[?] [?]ne to his rescue.",
+      "date": "1898-07-01",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Heavily garbled; [?] marks are illegible words. The beating, the shot report and the barkeeper's rescue are legible. The hint's kind 'other' is corrected to saloon."
+}

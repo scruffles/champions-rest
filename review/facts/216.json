@@ -1,0 +1,124 @@
+{
+  "id": "216",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen named his saloon Champion's Rest, thinking of the rest it would give his old age.",
+      "excerpt": "he thought only of the rest",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Market Street"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Champion's Rest stood among the Market Street saloons between Sixth and Tenth streets.",
+      "excerpt": "the saloons between Sixth and Tenth",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Market Street, between Sixth and Tenth streets"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen, a retired champion pugilist and proprietor of Champion's Rest, died leaving much litigation.",
+      "excerpt": "Tom Allen, retired champion pugilist and proprietor of Champion's Rest, in dying,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Champion's Rest"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tillie Hartgrove took possession of Champion's Rest under a document said to be Tom Allen's will, leaving his daughter out of the inheritance.",
+      "excerpt": "His housekeeper, Tillie Hartgrove, took",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": ["Champion's Rest"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The court probated the will, and a manager was put in to run Champion's Rest.",
+      "excerpt": "the court probated the will and a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Champion's Rest"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "The new manager of Champion's Rest had been a bartender under Tom Allen.",
+      "excerpt": "This manager had been a bariender under",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Champion's Rest"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "In Tom Allen's time, Weary Willies bunked under the piano at Champion's Rest.",
+      "excerpt": "that used to bunk under the piano were",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Champion's Rest"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Only Tom Allen had pressed the push button for the bell behind the bar, to call for a drink or a bouncer.",
+      "excerpt": "except Allen when he wanted a drink or a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Champion's Rest"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The new manager's plans for a linoleum floor and new plate glass mirrors at Champion's Rest were dropped the same day.",
+      "excerpt": "The new plate glass mirrors were taken",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Champion's Rest"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Market Street believed the spirit of Tom Allen was ringing the bell behind the bar at Champion's Rest.",
+      "excerpt": "nothing else than the spirit of Tom Allen",
+      "date": "1903-06",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Champion's Rest"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Old patrons of Champion's Rest",
+      "text": "Poor, old Tom. Wouldn’t he turn over in his grave at such goings on.",
+      "topic": "reaction to the new manager's changes"
+    }
+  ],
+  "fights": [],
+  "notes": "Items about Champion's Rest after Allen's death; the bell and the new manager's changes are included as they concern his saloon. The quote joins two printed lines."
+}

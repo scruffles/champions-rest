@@ -1,0 +1,67 @@
+{
+  "id": "006",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was described as being of Cleveland.",
+      "excerpt": "and Thomas Allen, of Cleveland, for $1,000 a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Cleveland"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen's arrival in St. Louis was announced a few days before this article.",
+      "excerpt": "Tom Allen’s arriyal was announced a few days\nago",
+      "date": "1869-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen trained on the Gravois road, about nine miles from St. Louis, under trainer Tom Kelly.",
+      "excerpt": "He went out on the Gravois road, some nine\nmules from the city, in training, under the manage-\nment of Tom Kelly",
+      "date": "1869-01",
+      "date_precision": "approx",
+      "people": ["Tom Kelly"],
+      "places": ["Gravois road, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was to fight Wm. M. Davis for $1,000 a side on Tuesday 12 January 1869, at a point some 40 or 59 miles from St. Louis.",
+      "excerpt": "on Tuesday next, ata point some 40 or 59 miles\nfrom the city, between Wm. M. Davis, of Califor-\nnia, and Thomas Allen, of Cleveland, for $1,000 a",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "people": ["Wm. M. Davis"],
+      "places": ["a point some 40 or 59 miles from St. Louis (printed as '40 or 59')"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Wm. M. Davis",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "place": "a point some 40 or 59 miles from St. Louis (printed as '40 or 59')",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "on Tuesday next, ata point some 40 or 59 miles\nfrom the city, between Wm. M. Davis, of Califor-\nnia, and Thomas Allen, of Cleveland, for $1,000 a",
+      "reported_as": "report",
+      "notes": "Planned bout, written before it was fought. The date is worked out from 'Tuesday next' in a paper dated 1869-01-10."
+    }
+  ],
+  "notes": "Hints checked: the arrival and training items are supported; the distance is printed as '40 or 59' and may be OCR."
+}

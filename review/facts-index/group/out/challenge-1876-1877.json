@@ -1,0 +1,189 @@
+{
+  "bucket": "challenge-1876-1877",
+  "facts": [
+    {
+      "fact": "Tom Allen was reported to have said Jem Mace would fight him for $10 or as much as Mace could raise, after Allen's 1876 fight with Joe Goss, when Allen went to Chicago and spoke to Mike McDonald.",
+      "date": "1876",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "167.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen was said to want a rematch with Johnny Dwyer to reverse his earlier defeat.",
+      "date": "1876-01",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "062.c5"
+      ]
+    },
+    {
+      "fact": "Steve Taylor said he was ready to fight Tom Allen at catch weight under London prize ring rules for $1,000 a side within 500 miles of New York the next April.",
+      "date": "1876-01-27",
+      "seed": "",
+      "conflict": "stake: $1,000 a side (062.c4, printed as '31,000')",
+      "claims": [
+        "062.c4"
+      ]
+    },
+    {
+      "fact": "Tom Allen and Jem Mace traded statements in early 1876 over whether Mace would come to America to fight Allen for the championship.",
+      "date": "1876-02",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "062.c2",
+        "063.c2",
+        "063.c4",
+        "065.c3",
+        "065.c4",
+        "065.c5"
+      ]
+    },
+    {
+      "fact": "Tom Allen offered to back Theobald Bauer to wrestle Andre Christol, and Christol replied he would wrestle only in Chicago, not St. Louis.",
+      "date": "1876-03",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "534.c1",
+        "534.c2",
+        "534.c5"
+      ]
+    },
+    {
+      "fact": "Tom Allen offered to fight Joe Coburn with gloves for all the money Coburn could raise, or for nothing, and would back his offer with a $500 bet.",
+      "date": "1876-04-10",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "541.c4",
+        "541.c5",
+        "069.c7",
+        "070.c2",
+        "073.c3"
+      ]
+    },
+    {
+      "fact": "Joe Goss arrived from England in New York in April 1876 to make a match with Tom Allen for the championship, and planned to go to St. Louis to challenge him formally.",
+      "date": "1876-04-10",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "283.c2",
+        "285.c1",
+        "285.c3",
+        "543.c3"
+      ]
+    },
+    {
+      "fact": "A fight between Joe Goss and Tom Allen was reported as expected or being arranged in late April and early May 1876.",
+      "date": "1876-04",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "074.c3",
+        "544.c3",
+        "075.c5"
+      ]
+    },
+    {
+      "fact": "Joe Coburn refused Tom Allen's offer to fight with gloves, calling it an advertising dodge, and left for New York on April 24, 1876 promising to return with Jem Mace and Joe Goss.",
+      "date": "1876-04-17",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "070.c3",
+        "071.c1",
+        "071.c2",
+        "072.c1"
+      ]
+    },
+    {
+      "fact": "Joe Goss and Tom Allen each put up a $500 forfeit with Eph Holland at Cincinnati, Holland acting as stakeholder, as the fight arrangements went ahead.",
+      "date": "1876-04-29",
+      "seed": "",
+      "conflict": "date: 29 April (545.c2, 546.c1, 547.c1) vs early May (076.c1, 079.c2, 080.c2, 080.c3 undated May); forfeit covered by: Allen (546.c1, 547.c1, 076.c1) vs John Brown of Cincinnati (080.c2)",
+      "claims": [
+        "545.c2",
+        "546.c1",
+        "547.c1",
+        "076.c1",
+        "075.c6",
+        "079.c2",
+        "080.c2",
+        "080.c3"
+      ]
+    },
+    {
+      "fact": "Joe Goss challenged Tom Allen for the championship in 1876 and Allen promptly accepted.",
+      "date": "1876-05-02",
+      "seed": "",
+      "conflict": "stake: $500 to $5,000 a side (545.c1), $4,000 or more (550.c1), $1,000 or more (077.c2), $2,500 (114.c1); title: world (545.c1, 550.c1, 077.c3) vs American (898.c4, 114.c1); date: April 1876 (545.c1) vs 2 May (550.c1, 551.c2)",
+      "claims": [
+        "545.c1",
+        "114.c1",
+        "114.c2",
+        "898.c4",
+        "550.c1",
+        "551.c2",
+        "551.c3",
+        "077.c2",
+        "077.c3"
+      ]
+    },
+    {
+      "fact": "Tom Allen and Joe Goss were to meet at Cincinnati on 12 May 1876 to draw up articles for their fight, and Goss said Allen had authorized William Allen of Cincinnati to make the match.",
+      "date": "1876-05-12",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "076.c2",
+        "077.c5",
+        "551.c5",
+        "556.c1",
+        "080.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen and Joe Goss signed articles for their fight for the championship of the world at Cincinnati on 12 May 1876, at Eph Holland's Empire Saloon.",
+      "date": "1876-05-12",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "561.c1",
+        "562.c1"
+      ]
+    },
+    {
+      "fact": "Red Leary offered to let the fight go on for a fresh stake of $1,000 a side, and Tom Allen declined, saying he could not have fair play.",
+      "date": "1876-09",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "578.c5",
+        "579.c5"
+      ]
+    },
+    {
+      "fact": "Ben Hogan challenged Tom Allen by letter to fight in Canada to show who was the better man, offering to pay Allen's expenses to Detroit or to fight for stakes.",
+      "date": "1876-09-11",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "580.c1"
+      ]
+    },
+    {
+      "fact": "The Globe-Democrat sporting column headed its notice of Tom Allen 'Tom Allen Again Matched' in December 1877.",
+      "date": "1877-12",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "603.c1"
+      ]
+    }
+  ]
+}

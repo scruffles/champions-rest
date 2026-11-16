@@ -1,0 +1,133 @@
+{
+  "id": "109",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested on Saturday evening, 9 February 1884, at the instance of W. P. Farrell of Covington, Ky.",
+      "excerpt": "was arrested on Saturday evening at the instigation of W. P. Farrell of Covington",
+      "date": "1884-02-09",
+      "date_precision": "day",
+      "people": ["W. P. Farrell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Farrell charged that Allen was wanted to answer an indictment in Kentucky.",
+      "excerpt": "who charges that Tom is wanted to answer an indictmont-in Hentucky",
+      "date": "1884-02-09",
+      "date_precision": "day",
+      "people": ["W. P. Farrell"],
+      "places": ["Kentucky"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen's prize fight with Joe Goss, printed as 10 September 1876 (year garbled), led to an indictment in Kentucky.",
+      "excerpt": "growing out of his prize t with Goss, on September 10,",
+      "date": "1876-09-10",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "legal",
+      "statement": "After the Goss fight Allen gave $3,000 bond to answer an indictment, with W. P. Farrell and P. C. Murphy as bondsmen.",
+      "excerpt": "Allen gavé lmgnad in the suaref £3,000 to answer to an indictment",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["W. P. Farrell", "P. C. Murphy"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "travel",
+      "statement": "Allen went to England and allowed his bond to be forfeited.",
+      "excerpt": "Alien went to Engiand and allowed his bond to be forfeited",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "His bondsmen's property was sold to make good Allen's debt to the State.",
+      "excerpt": "The property of his bondsmen was sold to make good bis debt to the State",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen said he had already paid each of his sureties $250 and would pay the whole debt if they gave him time.",
+      "excerpt": "says he has already paid them $250 each",
+      "date": "1884-02",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Farrell sent for a Kentucky requisition and procured Allen's arrest after Allen refused his money demand.",
+      "excerpt": "adopted an agressive plan, sent for a requisition and procured the arrest",
+      "date": "1884-02",
+      "date_precision": "month",
+      "people": ["W. P. Farrell"],
+      "places": ["Kentucky"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen gave $2,000 bond (printed as $2°000) with Fred Walters and Jos. Schnaider as sureties.",
+      "excerpt": "gave bond in the sum of $2°000, with Fred Walters and Jos.",
+      "date": "1884-02",
+      "date_precision": "month",
+      "people": ["Fred Walters", "Jos. Schnaider"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen declared he would prosecute Farrell for attempted extortion.",
+      "excerpt": "pros culing him ior an attempt to extort",
+      "date": "1884-02",
+      "date_precision": "month",
+      "people": ["W. P. Farrell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-10",
+      "date_precision": "day",
+      "place": "Kentucky",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "growing out of his prize t with Goss, on September 10,",
+      "reported_as": "recollection",
+      "notes": "Printed as September 10, year garbled. Article 114 gives 7 September 1876. Result not given here."
+    }
+  ],
+  "notes": "Arrest, bond and the Goss-era indictment. Goss's own conviction is not included (not about Allen)."
+}

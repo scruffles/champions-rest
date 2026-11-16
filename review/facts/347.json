@@ -1,0 +1,67 @@
+{
+  "id": "347",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan arrived in St. Louis and said he was willing to fight Tom Allen.",
+      "excerpt": "has expressed his wiiliaguess to\n\nfight Tom Allen",
+      "date": "1869-08",
+      "date_precision": "month",
+      "people": ["Ben Hogan"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was in town last night at his saloon on Fifth street, in first-rate condition.",
+      "excerpt": "Tom Allen was in towa last night\nat his saloon on Fifth street",
+      "date": "1869-08-13",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Fifth Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was to enter the ring on Tuesday next, weighing about 168 pounds, for his fight with Charley Gallagher.",
+      "excerpt": "day no xt, at about 168 pounds wei ght, and feels",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was to be at his saloon on Saturday night with his trainer Jim Coyne, where the public and his friends could see him.",
+      "excerpt": "saloon on Saturday nigbt, with his trainer. (Jim",
+      "date": "1869-08-14",
+      "date_precision": "day",
+      "people": ["Jim Coyne"],
+      "places": ["Fifth Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "day no xt, at about 168 pounds wei ght, and feels",
+      "reported_as": "report",
+      "notes": "Same bout as 340. Allen's weight given as about 168 pounds. Opponent named as Gallagher from the context of the other articles; this item says only 'the ring on Tuesday next'."
+    }
+  ],
+  "notes": "Hint 1 (Hogan challenge) is about Hogan's own challenge; the Reardon letter in the same column is about Reardon and Hogan and is not recorded as an Allen claim. Hint 2 kept as saloon claims, with the trainer and Saturday date added. 'Last night' taken as 1869-08-13 from a paper dated 1869-08-14."
+}

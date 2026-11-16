@@ -1,0 +1,45 @@
+{
+  "id": "023",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was to fight Mike McCoole on November 10, 1869, within fifty miles of Cincinnati.",
+      "excerpt": "The approaching fight between Mike McCoole and\nTom Allen, to come off within fifty miles of Cincin-\nnati, on the 10thof next month",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["within fifty miles of Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen had numerous friends in Cincinnati, judging by the tone of the Cincinnati press.",
+      "excerpt": "Judging from the tone of the Cincianati press Allen\nhas numerous friends there",
+      "date": "1869-10-26",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "place": "within fifty miles of Cincinnati",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The approaching fight between Mike McCoole and\nTom Allen, to come off within fifty miles of Cincin-\nnati, on the 10thof next month",
+      "reported_as": "report",
+      "notes": "Scheduled fight; not yet held in this article."
+    }
+  ],
+  "notes": "Hint's date of November 10, 1869 is confirmed by the text ('the 10th of next month' in an October 26 paper)."
+}

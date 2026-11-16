@@ -1,0 +1,19 @@
+{
+  "id": "929",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Fred Watkins backed Tom Allen when Allen was champion pugilist of the world.",
+      "excerpt": "“backed” Tom Allen when the latter was champion pugilist of the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Fred Watkins"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Obituary of Watkins; only the backing of Allen is recorded. The OCR before the backing line is garbled and not about Allen."
+}

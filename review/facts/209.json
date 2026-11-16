@@ -1,0 +1,193 @@
+{
+  "id": "209",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen held sway for 21 years at the Champion's Rest saloon at 615 Market Street.",
+      "excerpt": "shop at 615 Market etreet,/ where former Champion Pugilist Tom Allen held iron sway for 21 years",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [
+        "615 Market Street"
+      ],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen's funeral procession went to the cemetery on Wednesday, April 8, 1903.",
+      "excerpt": "who followed the hearse to the cemetery Wednesday",
+      "date": "1903-04-08",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen is buried in Bellefontaine Cemetery.",
+      "excerpt": "champion, out in Bellefontaine Cemetery, could have a voice",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [
+        "Bellefontaine Cemetery"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was born in Birmingham, England (year unreadable in OCR).",
+      "excerpt": "skeleton facts that was born in Birmingham, E:",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [
+        "Birmingham, England"
+      ],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen was married and had children, including a daughter, Mrs. Polly Taylor.",
+      "excerpt": "chilaren, one of whom, « ter, Mra. Polly. Tayior",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Polly Taylor"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Champion's Rest had a prize ring in its concert hall, where bouts were held nightly.",
+      "excerpt": "was the prize ring in which bouts of some sort, many of them desperate, were held nightly.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen acted as master of ceremonies, referee of all fights and arbitrator at Champion's Rest.",
+      "excerpt": "He was referee of all fights, director of the musical entertainment and arbitrator",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen would not turn homeless men out on the street on cold nights, and let them sleep in the saloon.",
+      "excerpt": "could not find it in his heart to turn them on the street when he knew they had no place to sleep",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen drove thieves out of his saloon as soon as they were known.",
+      "excerpt": "Thieves he could not tolerate and drove them from his establishment",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "The feud between Allen and rival saloonkeeper Dan Daly lasted until Daly's death, printed as '18%'.",
+      "excerpt": "feud, growing more bitter each year, lasted until the death of Daly in 18%.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Dan Daly"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "In a fight that spilled into the street after Allen tried to invade Dan Daly's saloon, Daly whipped Allen.",
+      "excerpt": "Daly whipped Allen— about the tmly cecasion in which the champion ever finished second after leaving",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Dan Daly"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "After Daly's death, Allen went to Daly's relatives and offered his services and substantial aid in money.",
+      "excerpt": "one of the first to go to Daly's relatives, follow-\ning the news of the death.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Dan Daly"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "A cup for Allen's English championship victory was displayed in front of the mirror behind the bar.",
+      "excerpt": "the cup emblematic of AHlen’s Engli ampionship victory",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was said to have been one of the most savage and vicious men ever to fight under London prize ring rules.",
+      "excerpt": "he is said to have beer one of the most savage and vicious men who ever fought under London prize ring rules",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "people": [],
+      "places": [],
+      "date": "",
+      "date_precision": "unknown",
+      "retrospective": true,
+      "confidence": "high",
+      "kind": "saloon",
+      "statement": "The pianist in Tom Allen's saloon, in his employ for fifteen years, was known for singing 'Annie Laurie'.",
+      "excerpt": "His especial forte was singing ‘Annie Laurie” in a deep bass yoice"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Post-Dispatch writer",
+      "text": "He had to be killed to be beaten, and it was his bulldog tenacity of purpose that pulled him through on top of many engagements.",
+      "topic": "fighting character"
+    }
+  ],
+  "fights": [],
+  "notes": "Conflicts: 21 years here vs 25 years in 206; Bellefontaine here vs Calvary in 208. Birth year and Daly's death year are unreadable ('18%'). Hint's 1895 is not in the text."
+}

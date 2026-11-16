@@ -1,0 +1,364 @@
+{
+ "bucket": "saloon-1868-1873",
+ "kind": "saloon",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "1004.c4",
+   "date": "1868",
+   "published": "1903-04-06",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen opened a saloon in 1868 at the present home of the Boatmen's bank (printed as 'fan'), at Fourth Street and Washington Avenue."
+  },
+  {
+   "cid": "1004.c5",
+   "date": "1868",
+   "published": "1903-04-06",
+   "retro": true,
+   "statement": "Tom Allen was a tenant of the real estate firm J. C. Kaime & Bro. ever since he opened his saloon."
+  },
+  {
+   "cid": "259.c5",
+   "date": "1868",
+   "published": "1903-04-10",
+   "retro": true,
+   "statement": "Tom Allen opened a saloon near the present home of the Boatmen's Bank, at Fourth Street and Washington Avenue, in 1868."
+  },
+  {
+   "cid": "278.c4",
+   "date": "1869-03",
+   "published": "1869-03-20",
+   "conf": "low",
+   "statement": "Tom Allen was busy superintending the opening of his new saloon on Fitch street, St. Louis (printed as 'Fitch stzee}', street name garbled)."
+  },
+  {
+   "cid": "316.c2",
+   "date": "1869-05-07",
+   "published": "1869-05-08",
+   "statement": "The last $800 of stakes for the Allen and McCoole fight was put up at Tom Allen's saloon, with a large crowd present."
+  },
+  {
+   "cid": "465.c28",
+   "date": "1869-05-10",
+   "published": "1873-09-23",
+   "retro": true,
+   "statement": "Tom Allen attended to business as a boniface (innkeeper) in St. Louis until 10 May 1869."
+  },
+  {
+   "cid": "322.c3",
+   "date": "1869-06",
+   "published": "1869-06-11",
+   "conf": "low",
+   "statement": "Tom Allen's saloon was on Fifth Street near Biddle (printed as 'Filth' and 'Bid-die')."
+  },
+  {
+   "cid": "016.c1",
+   "date": "1869-06-14",
+   "published": "1869-06-15",
+   "statement": "Tom Allen's Concert Saloon on Fifth Street, between O'Fallon and Biddle, was almost uncomfortably full on the night of 14 June 1869, a 'Free and Easy' night."
+  },
+  {
+   "cid": "016.c2",
+   "date": "1869-06-14",
+   "published": "1869-06-15",
+   "statement": "A photograph of Tom Allen hung over the array of decanters in his concert saloon."
+  },
+  {
+   "cid": "324.c5",
+   "date": "1869-06-15",
+   "published": "1869-06-17",
+   "statement": "After the referee's decision, a crowd went to Tom Allen's saloon and the Concert Saloon was liberally patronized."
+  },
+  {
+   "cid": "329.c3",
+   "date": "1869-06-24",
+   "published": "1869-06-24",
+   "statement": "Tom Allen owned a saloon in June 1869, which the paper urged him to dispose of."
+  },
+  {
+   "cid": "365.c1",
+   "date": "1869-08",
+   "published": "1869-08-31",
+   "statement": "Tom Allen wrote to a St. Louis friend that he would buy Gallagher's business at a fair valuation and buy out other champions who wished to sell."
+  },
+  {
+   "cid": "345.c2",
+   "date": "1869-08-07",
+   "published": "1869-08-07",
+   "statement": "$100 was deposited for a match at the Wash Home or at Tom Allen's saloon on Fifth street."
+  },
+  {
+   "cid": "345.c3",
+   "date": "1869-08-07",
+   "published": "1869-08-07",
+   "statement": "Tom Allen and Jim Coyne invited their friends to Allen's saloon on Fifth street that evening."
+  },
+  {
+   "cid": "347.c2",
+   "date": "1869-08-13",
+   "published": "1869-08-14",
+   "statement": "Tom Allen was in town last night at his saloon on Fifth street, in first-rate condition."
+  },
+  {
+   "cid": "019.c2",
+   "date": "1869-08-14",
+   "published": "1869-08-15",
+   "statement": "The final stakes for the fight between Tom Allen and Charley Gallagher were deposited at Allen's saloon on the night of August 14, 1869."
+  },
+  {
+   "cid": "347.c4",
+   "date": "1869-08-14",
+   "published": "1869-08-14",
+   "conf": "medium",
+   "statement": "Tom Allen was to be at his saloon on Saturday night with his trainer Jim Coyne, where the public and his friends could see him."
+  },
+  {
+   "cid": "348.c3",
+   "date": "1869-08-14",
+   "published": "1869-08-15",
+   "statement": "On the night of 14 August 1869 a crowd packed Allen's saloon while the battle money was deposited."
+  },
+  {
+   "cid": "349.c4",
+   "date": "1869-08-14",
+   "published": "1869-08-16",
+   "statement": "On the night of 14 August 1869 a crowd packed Allen's saloon while the battle money was deposited."
+  },
+  {
+   "cid": "020.c3",
+   "date": "1869-08-16",
+   "published": "1869-08-17",
+   "statement": "Tom Allen's saloon, a 'Concert Saloon' on Fifth Street between Biddle and O'Fallon streets, had a bar in front and a back room with tables and a piano."
+  },
+  {
+   "cid": "369.c2",
+   "date": "1869-10",
+   "published": "1869-10-09",
+   "statement": "Tom Allen's saloon was at 1205 Fifth Street, St. Louis, in October 1869."
+  },
+  {
+   "cid": "370.c2",
+   "date": "1869-10-09",
+   "published": "1869-10-10",
+   "conf": "medium",
+   "statement": "The stakes were put up at Allen's saloon before a large crowd, with Allen and Jim Coyne said to be present."
+  },
+  {
+   "cid": "372.c1",
+   "date": "1869-11-01",
+   "published": "1869-11-02",
+   "statement": "Jim Coyne held a levee at Tom Allen's saloon in St. Louis on 1 November 1869 and was welcomed by many friends."
+  },
+  {
+   "cid": "254.c3",
+   "date": "1870",
+   "published": "1939-03-08",
+   "retro": true,
+   "statement": "After retiring, Tom Allen opened a saloon on Market Street near Seventh."
+  },
+  {
+   "cid": "383.c1",
+   "date": "1870-01-19",
+   "published": "1870-01-20",
+   "statement": "Tom Allen hosted a presentation of colors at his saloon to George Seddons of Boston."
+  },
+  {
+   "cid": "287.c1",
+   "date": "1870-03-22",
+   "published": "1870-03-23",
+   "statement": "John C. Heenan and James Mace visited Tom Allen's concert room on Washington avenue in St. Louis."
+  },
+  {
+   "cid": "396.c2",
+   "date": "1870-05",
+   "published": "1870-04-26",
+   "conf": "low",
+   "statement": "Deposits for a match between George Seddons and Johnny Lafferty were to be made at Tom Allen's saloon in St. Louis."
+  },
+  {
+   "cid": "402.c8",
+   "date": "1870-05",
+   "published": "1870-05-15",
+   "statement": "J. L. Hughes, a Californian, left a $500 forfeit to be found at Tom Allen's saloon for a challenge to fight at light weight."
+  },
+  {
+   "cid": "037.c1",
+   "date": "1870-07-16",
+   "published": "1870-07-16",
+   "statement": "Tom Allen invited his friends to a free and easy evening at his place, No. 417 Washington avenue, on July 16, 1870."
+  },
+  {
+   "cid": "415.c1",
+   "date": "1870-08-06",
+   "published": "1870-08-08",
+   "statement": "A $100-a-side fight between Punch Morris and Steve O'Donnell was made up at Tom Allen's saloon on Saturday night."
+  },
+  {
+   "cid": "415.c3",
+   "date": "1870-08-06",
+   "published": "1870-08-08",
+   "statement": "The forfeit money for the Morris and O'Donnell fight was put up at Tom Allen's saloon."
+  },
+  {
+   "cid": "417.c1",
+   "date": "1870-08-15",
+   "published": "1870-08-16",
+   "statement": "John Madden said terms for a match with Buckey Barrett could be arranged by calling at Tom Allen's saloon."
+  },
+  {
+   "cid": "418.c1",
+   "date": "1870-08-17",
+   "published": "1870-08-18",
+   "conf": "low",
+   "statement": "Collins, the Cast Iron Man, wrote that he would be ready at a St. Louis saloon to put up $50 to $100 to meet Annabury."
+  },
+  {
+   "cid": "418.c2",
+   "date": "1870-08-20",
+   "published": "1870-08-18",
+   "conf": "medium",
+   "statement": "Collins invited Mr. Annabury's friends to make arrangements at Tom Allen's saloon on Saturday evening, August 20, 1870."
+  },
+  {
+   "cid": "422.c1",
+   "date": "1870-10-24",
+   "published": "1870-10-25",
+   "statement": "The last preliminary deposit for the Allen and Gallagher fight was made at Allen's saloon, with John Campbell holding the stakes."
+  },
+  {
+   "cid": "423.c2",
+   "date": "1870-10-24",
+   "published": "1870-10-25",
+   "conf": "medium",
+   "statement": "The last instalment of battle money was put up at Allen's saloon, with Roach putting up $200 for Allen and Kelly $100 for Gallagher."
+  },
+  {
+   "cid": "040.c2",
+   "date": "1870-11-02",
+   "published": "1870-11-03",
+   "statement": "J. C. Gallagher visited Tom Allen at his saloon on Washington avenue on November 2, 1870."
+  },
+  {
+   "cid": "041.c1",
+   "date": "1871-03-04",
+   "published": "1871-03-03",
+   "statement": "Tom Allen planned a grand opening of his new concert hall at 417 Washington avenue on Saturday, March 4, 1871, with concerts every Saturday, Sunday and Monday evening."
+  },
+  {
+   "cid": "434.c2",
+   "date": "1871-05",
+   "published": "1871-05-27",
+   "conf": "medium",
+   "statement": "Jem Mace was to be Tom Allen's guest for three or four days before leaving for Kansas City to meet Joe Coburn."
+  },
+  {
+   "cid": "435.c1",
+   "date": "1871-05",
+   "published": "1871-05-27",
+   "statement": "Jem Mace made Tom Allen's saloon in St. Louis his favorite resort while training for the Coburn match."
+  },
+  {
+   "cid": "434.c1",
+   "date": "1871-05-27",
+   "published": "1871-05-27",
+   "statement": "Tom Allen's Free Concert Hall was open on Saturday, Sunday, Monday and Wednesday evenings."
+  },
+  {
+   "cid": "437.c2",
+   "date": "1871-06-03",
+   "published": "1871-06-03",
+   "statement": "Tom Allen had a concert saloon at 417 Washington avenue."
+  },
+  {
+   "cid": "437.c3",
+   "date": "1871-06-03",
+   "published": "1871-06-03",
+   "conf": "medium",
+   "statement": "Tom Allen and Jem Mace were to meet their friends at Allen's free-and-easy at the saloon that night."
+  },
+  {
+   "cid": "439.c1",
+   "date": "1871-11-30",
+   "published": "1871-11-30",
+   "conf": "low",
+   "statement": "Dispatches from the Mace-Coburn fight were to be received at Tom Allen's saloon at 417 Washington avenue (printed as 417 Wesbicg on avenve)."
+  },
+  {
+   "cid": "443.c2",
+   "date": "1871-12-04",
+   "published": "1871-12-05",
+   "conf": "medium",
+   "statement": "A reporter interviewed Tom Allen at his popular Washington avenue resort."
+  },
+  {
+   "cid": "446.c3",
+   "date": "1872-05",
+   "published": "1872-05-21",
+   "statement": "Tom Allen's saloon was at 417 Washington avenue, near Fifth street."
+  },
+  {
+   "cid": "454.c3",
+   "date": "1873-07-08",
+   "published": "1873-07-09",
+   "statement": "Tom Allen's saloon was on Washington avenue, between Fourth and Fifth streets, and the third deposit was made there."
+  },
+  {
+   "cid": "139.c3",
+   "date": "1873-09",
+   "published": "1891-07-24",
+   "retro": true,
+   "statement": "At the time of his 1873 fight with McCoole, Tom Allen kept a saloon on Washington Avenue between Fourth and Fifth streets, St. Louis."
+  },
+  {
+   "cid": "463.c6",
+   "date": "1873-09-22",
+   "published": "1873-09-23",
+   "statement": "Tom Allen's saloon was crowded with fight followers on the evening of 22 September 1873."
+  },
+  {
+   "cid": "465.c40",
+   "date": "1873-09-22",
+   "published": "1873-09-23",
+   "statement": "Tom Allen's free-and-easy on Washington avenue was crowded on the evening of 22 September 1873."
+  },
+  {
+   "cid": "467.c2",
+   "date": "1873-09-23",
+   "published": "1873-09-24",
+   "statement": "That night Tom Allen made a speech at his saloon, telling the crowd to take a walk."
+  },
+  {
+   "cid": "480.c3",
+   "date": "1873-10-04",
+   "published": "1873-10-06",
+   "conf": "medium",
+   "statement": "Tom Allen presided over his Saturday night 'free and racy' on 1873-10-04; the paper does not name the place."
+  },
+  {
+   "cid": "481.c1",
+   "date": "1873-10-07",
+   "published": "1873-10-07",
+   "conf": "medium",
+   "statement": "An advertisement says Tom Allen's Free Concert Hall at 417 Washington Avenue is open every evening, with the champion presiding."
+  },
+  {
+   "cid": "483.c1",
+   "date": "1873-10-08",
+   "published": "1873-10-08",
+   "statement": "An advertisement says Tom Allen's Free Concert Hall at 417 Washington Avenue is the best place of amusement in the city, open every evening with the champion presiding."
+  },
+  {
+   "cid": "490.c6",
+   "date": "1873-10-27",
+   "published": "1873-10-28",
+   "statement": "Betting at Tom Allen's Washington Avenue saloon the night before the fight made him the strong favorite."
+  },
+  {
+   "cid": "503.c5",
+   "date": "1873-12-09",
+   "published": "1873-12-10",
+   "statement": "A Democrat reporter found Tom Allen in the back room of Allen's Saloon while asking for sporting news."
+  }
+ ]
+}

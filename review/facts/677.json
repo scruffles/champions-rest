@@ -1,0 +1,129 @@
+{
+  "id": "677",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to St. Louis after an absence of about six years.",
+      "excerpt": "Tom Allen, the pugilist, reture/ to St. Louis",
+      "date": "1882-12-29",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The paper calls Tom Allen the ex-champion, and says he received a cordial welcome at St. Louis sporting resorts on his return.",
+      "excerpt": "peived a cordiai welcoine. During the day",
+      "date": "1882-12-29",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was astonished by the change at Washington avenue, where his old establishment, The Champion's Rest, between Fourth and Fifth streets, had given place to a massive business structure.",
+      "excerpt": "tonishéd at the appearance of Wushington",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Washington avenue, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "business",
+      "statement": "Tom Allen planned to choose a location in St. Louis and resume his old business, making the city his permanent home.",
+      "excerpt": "he will select a location and resume tis oid business.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen had a severe attack of sea-sickness crossing the ocean, from which he had just recovered.",
+      "excerpt": "of seu-sickness from which he has just recovered",
+      "date": "1882",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen blamed a Chicago sporting man known as 'The Parson' for spreading stories about his dissipation.",
+      "excerpt": "of Chicago, who for some unknown",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["The Parson"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Chicago papers reported Tom Allen in drunken street brawls, which he denied.",
+      "excerpt": "The Cluicugo papers on two occasions reported",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen had a set-to with George Rooke that was agreed to have no rough work.",
+      "excerpt": "with George Rooke was similar to thut between",
+      "date": "1882-12",
+      "date_precision": "approx",
+      "people": ["George Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen said he fell in his set-to with George Rooke only because his foot broke through the staging.",
+      "excerpt": "the fact that his foot broke through the staging",
+      "date": "1882-12",
+      "date_precision": "approx",
+      "people": ["George Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen went to England about six years before 1882, when he was in the prime of life.",
+      "excerpt": "ALLEN ILED FOR ENGLAND. He was then prime of life",
+      "date": "1876",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen's benefit in Birmingham, on his first return to England, was the largest of its kind there except one for Bob Brettle seventeen years earlier.",
+      "excerpt": "with tne exception of the one nunsibad b Brettle seventeen yeurs-previous",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bob Brettle"],
+      "places": ["Birmingham, England"],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Long return article. Allen's account of the Chicago stories, the Rooke set-to and sea-sickness is his own, reported by the paper. The 'ILED' heading is probably 'FLED' (OCR); the Birmingham sentence is garbled."
+}

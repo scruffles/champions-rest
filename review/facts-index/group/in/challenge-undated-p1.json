@@ -1,0 +1,415 @@
+{
+ "bucket": "challenge-undated-p1",
+ "kind": "challenge",
+ "undated": true,
+ "claims": [
+  {
+   "cid": "010.c4",
+   "date": "",
+   "published": "1869-02-25",
+   "conf": "medium",
+   "statement": "A rematch between Tom Allen and Charley Gallagher was expected once calm was restored."
+  },
+  {
+   "cid": "011.c2",
+   "date": "",
+   "published": "1869-03-11",
+   "conf": "medium",
+   "statement": "Tom Allen sent a card to a morning paper challenging Mike McCoole to fight for $2,500, within three months and within fifty miles of St. Louis."
+  },
+  {
+   "cid": "016.c4",
+   "date": "",
+   "published": "1869-06-15",
+   "conf": "medium",
+   "statement": "Carroll, who kept a dramatic saloon near the Varieties, was understood to have been the go-between through whom Tom Allen and Mike McCoole arranged their match."
+  },
+  {
+   "cid": "050.c1",
+   "date": "",
+   "published": "1874-03-11",
+   "statement": "Tom Allen wrote to Billy Harding of the New York News challenging Joe Coburn to fight for $2,500 a side or more, in Canada within fifty miles of Detroit, with no excursion and twenty men per party."
+  },
+  {
+   "cid": "050.c2",
+   "date": "",
+   "published": "1874-03-11",
+   "statement": "Tom Allen wrote to a friend in New York offering to fight Jem Mace a stand-up fight under the new London prize ring rules, two to four months from signing, for $2,000 to $5,000 a side, in Kansas, New Orleans or Canada."
+  },
+  {
+   "cid": "050.c3",
+   "date": "",
+   "published": "1874-03-11",
+   "statement": "Jem Mace replied from London, through a New York sporting man, that if Allen meant business he would return to America and make the match."
+  },
+  {
+   "cid": "050.c5",
+   "date": "",
+   "published": "1874-03-11",
+   "statement": "If Mace would not agree, Allen offered to fight Joe Coburn at the same places, wagering $2,500 to Coburn's $1,500, or to fight Ben Hogan for $1,000 to $5,000 with as much training time as Hogan wanted."
+  },
+  {
+   "cid": "050.c6",
+   "date": "",
+   "published": "1874-03-11",
+   "conf": "low",
+   "statement": "Allen offered to fight any man in the world for a stake printed as $1,009 to 35,000 (probably $1,000 to $5,000)."
+  },
+  {
+   "cid": "050.c7",
+   "date": "",
+   "published": "1874-03-11",
+   "conf": "medium",
+   "statement": "The paper said Joe Coburn was ill and had promised his wife he would not fight again, so a match between him and Allen was abandoned."
+  },
+  {
+   "cid": "057.c3",
+   "date": "",
+   "published": "1875-02-16",
+   "conf": "medium",
+   "statement": "Tom Allen had repeatedly challenged Joe Coburn, and would sooner fight Coburn than any man living, according to the Republican."
+  },
+  {
+   "cid": "065.c1",
+   "date": "",
+   "published": "1876-03-02",
+   "statement": "Tom Allen wrote an acceptance of Jem Mace's challenge."
+  },
+  {
+   "cid": "065.c2",
+   "date": "",
+   "published": "1876-03-02",
+   "statement": "Allen sent his acceptance to Bell's Life in London for publication, but the paper did not publish it."
+  },
+  {
+   "cid": "068.c6",
+   "date": "",
+   "published": "1876-04-12",
+   "statement": "Tom Allen said he would promptly accept any challenge from Joe Goss or anybody else to fight for money, for as big stakes as desired, and dismissed a Philadelphia report that Goss had come to challenge him."
+  },
+  {
+   "cid": "069.c8",
+   "date": "",
+   "published": "1876-04-13",
+   "conf": "medium",
+   "statement": "Tom Allen said he had given Joe Coburn every chance to fight him, but Coburn would not fight."
+  },
+  {
+   "cid": "070.c4",
+   "date": "",
+   "published": "1876-04-17",
+   "conf": "medium",
+   "statement": "Jem Mace wrote to Joe Coburn that Joe Goss, then in New York, had come over on a special mission to fight Allen."
+  },
+  {
+   "cid": "076.c3",
+   "date": "",
+   "published": "1876-05-02",
+   "conf": "medium",
+   "statement": "Tom Allen was prepared to fight Joe Goss for any amount Allen named, within twelve weeks of May 2, 1876."
+  },
+  {
+   "cid": "076.c4",
+   "date": "",
+   "published": "1876-05-02",
+   "conf": "medium",
+   "statement": "Tom Allen expected to make a satisfactory match with Goss, to be fought in the Southwest."
+  },
+  {
+   "cid": "077.c4",
+   "date": "",
+   "published": "1876-05-04",
+   "conf": "medium",
+   "statement": "The fight was to take place four months after articles were signed."
+  },
+  {
+   "cid": "082.c1",
+   "date": "",
+   "published": "1876-05-10",
+   "statement": "A fight between Tom Allen and Joe Goss, the English champion, was pending in May 1876."
+  },
+  {
+   "cid": "082.c5",
+   "date": "",
+   "published": "1876-05-10",
+   "conf": "medium",
+   "statement": "Arthur Chambers and Billy Edwards thought that, if the fight came off, Goss might put it off for at least four months."
+  },
+  {
+   "cid": "084.c12",
+   "date": "",
+   "published": "1876-09-08",
+   "conf": "medium",
+   "statement": "Tom Allen had wordy contests with Coburn, Rooke, O'Baldwin and others, which made them his enemies."
+  },
+  {
+   "cid": "095.c4",
+   "date": "",
+   "published": "1879-11-22",
+   "conf": "medium",
+   "statement": "Tom Allen wants to fight Johnny Dwyer, who holds the heavyweight championship of America."
+  },
+  {
+   "cid": "102.c7",
+   "date": "",
+   "published": "1882-12-30",
+   "conf": "medium",
+   "statement": "Tom Allen planned to challenge any man in the world to fight him for any sum and the championship once his backer had set him up in business."
+  },
+  {
+   "cid": "102.c8",
+   "date": "",
+   "published": "1882-12-30",
+   "conf": "medium",
+   "statement": "Tom Allen planned that any fight he made would be held in the Indian Nation on the M., K. & T. road, a day's ride from St. Louis, to avoid police interference."
+  },
+  {
+   "cid": "102.c9",
+   "date": "",
+   "published": "1882-12-30",
+   "statement": "Tom Allen said he would meet Sullivan, but Sullivan would not meet him."
+  },
+  {
+   "cid": "103.c4",
+   "date": "",
+   "published": "1883-03-27",
+   "conf": "medium",
+   "statement": "Tom Allen's backer dropped the match when he saw how puffy and old Allen had become."
+  },
+  {
+   "cid": "134.c1",
+   "date": "",
+   "published": "1888-12-10",
+   "conf": "medium",
+   "statement": "A well-known man in the business said Tom Allen put up the first $250 forfeit for the Daly-McManus match."
+  },
+  {
+   "cid": "134.c2",
+   "date": "",
+   "published": "1888-12-10",
+   "conf": "medium",
+   "statement": "Tom Allen made the later forfeit deposits himself when the other parties did not come forward, until he had put up the whole $1,000."
+  },
+  {
+   "cid": "134.c3",
+   "date": "",
+   "published": "1888-12-10",
+   "conf": "medium",
+   "statement": "Dan Daly said McManus bluffed and challenged him in the theatres and got Tom Allen mixed up in the match."
+  },
+  {
+   "cid": "134.c4",
+   "date": "",
+   "published": "1888-12-10",
+   "conf": "medium",
+   "statement": "Dan Daly said Tom Allen and Hugh McManus were both sorry after they got into the match and then tried to get out of it."
+  },
+  {
+   "cid": "134.c5",
+   "date": "",
+   "published": "1888-12-10",
+   "conf": "medium",
+   "statement": "It is said Tom Allen stuck on technicalities to avoid the choice of fighting or forfeiting his $1,000."
+  },
+  {
+   "cid": "140.c4",
+   "date": "",
+   "published": "1891-12-08",
+   "retro": true,
+   "conf": "low",
+   "statement": "Ben Hogan (printed as 'tien Hogan') was matched against Tom Allen in a scheme arranged to rob Allen and his backers, carried out by a crowd of toughs."
+  },
+  {
+   "cid": "149.c1",
+   "date": "",
+   "published": "1892-11-10",
+   "conf": "medium",
+   "statement": "A representative of 'Dutch' Niel said Tom Allen would back Niel against Johnnie Daly in a skin-tight glove finish contest at 149 pounds for $500 a side."
+  },
+  {
+   "cid": "180.c28",
+   "date": "",
+   "published": "1899-02-27",
+   "retro": true,
+   "statement": "Tom Allen challenged John L. Sullivan to a fight in New York; the challenge came to nothing."
+  },
+  {
+   "cid": "235.c15",
+   "date": "",
+   "published": "1919-01-03",
+   "retro": true,
+   "statement": "Tom Allen sought a match with Joe Goss for the championship of America and a $2,000 side bet."
+  },
+  {
+   "cid": "236.c2",
+   "date": "",
+   "published": "1919-01-04",
+   "retro": true,
+   "statement": "Hogan's backers offered to back him for any amount against Allen, but Allen ignored the challenge."
+  },
+  {
+   "cid": "236.c3",
+   "date": "",
+   "published": "1919-01-04",
+   "retro": true,
+   "statement": "Ben Hogan challenged Tom Allen for a $2,000 side bet and the heavyweight championship of America, and Allen accepted."
+  },
+  {
+   "cid": "247.c6",
+   "date": "",
+   "published": "1934-12-03",
+   "retro": true,
+   "conf": "low",
+   "statement": "After Allen's poor showing (printed as 'snowing') in the exhibition, Richard K. Fox dropped the idea of Allen fighting John L. Sullivan."
+  },
+  {
+   "cid": "264.c2",
+   "date": "",
+   "published": "1875-05-10",
+   "statement": "Rooke challenged Tom Allen in the New York papers."
+  },
+  {
+   "cid": "264.c3",
+   "date": "",
+   "published": "1875-05-10",
+   "statement": "Tom Allen authorized Arthur Chambers to cover the deposit for the Rooke match."
+  },
+  {
+   "cid": "271.c8",
+   "date": "",
+   "published": "1882-11-02",
+   "conf": "medium",
+   "statement": "Tom Allen left England to come to America to meet John L. Sullivan."
+  },
+  {
+   "cid": "276.c3",
+   "date": "",
+   "published": "1873-11-04",
+   "conf": "medium",
+   "statement": "Hogan challenged Tom Allen to a fight, but Allen said Hogan never intended to fight him."
+  },
+  {
+   "cid": "281.c9",
+   "date": "",
+   "published": "1910-05-08",
+   "retro": true,
+   "statement": "After the McCool fight, a rematch was negotiated, but McCool withdrew, leaving Tom Allen in actual possession of the title."
+  },
+  {
+   "cid": "283.c1",
+   "date": "",
+   "published": "1876-04-15",
+   "statement": "Tom Allen had a standing challenge out, offering to fight any man in the world."
+  },
+  {
+   "cid": "283.c3",
+   "date": "",
+   "published": "1876-04-15",
+   "statement": "A match between Joe Goss and Tom Allen for $2,000 a side had not yet been made."
+  },
+  {
+   "cid": "283.c4",
+   "date": "",
+   "published": "1876-04-15",
+   "conf": "medium",
+   "statement": "The headline calls Tom Allen 'the Champion' and says he challenged Joe Goss to fight in the Indian Territory."
+  },
+  {
+   "cid": "285.c2",
+   "date": "",
+   "published": "1876-04-12",
+   "conf": "medium",
+   "statement": "Joe Goss said Tom Allen had written him several letters inviting him to come to America."
+  },
+  {
+   "cid": "312.c2",
+   "date": "",
+   "published": "1869-03-09",
+   "conf": "low",
+   "statement": "The postponed McCoole-Allen battle was to come off in about two months."
+  },
+  {
+   "cid": "335.c1",
+   "date": "",
+   "published": "1869-07-07",
+   "statement": "Joe Coburn offered to back Mike McCoole against Tom Allen in a 24-foot prize ring under the latest London rules, for $5,000 to $10,000, anywhere in the United States, to be fought within sixty days of signing."
+  },
+  {
+   "cid": "345.c4",
+   "date": "",
+   "published": "1869-08-07",
+   "conf": "medium",
+   "statement": "Ben Hogan arrived in St. Louis, where he said he came to fight Tom Allen."
+  },
+  {
+   "cid": "350.c3",
+   "date": "",
+   "published": "1869-08-16",
+   "conf": "medium",
+   "statement": "After the Gallagher fight, Allen was expected to meet Ned O'Baldwin, then Ben Hogan."
+  },
+  {
+   "cid": "350.c4",
+   "date": "",
+   "published": "1869-08-16",
+   "conf": "medium",
+   "statement": "A meeting between Joe Goss of England and Allen, to settle old scores, was expected to take place."
+  },
+  {
+   "cid": "352.c8",
+   "date": "",
+   "published": "1869-08-18",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Mike McCoole challenged Tom Allen to a fight, but McCoole's friends and backers prevented the match."
+  },
+  {
+   "cid": "352.c11",
+   "date": "",
+   "published": "1869-08-18",
+   "retro": true,
+   "statement": "At the Davis fight, Allen wanted to fight Gallagher in the same ring straight after, but his friends prevented it."
+  },
+  {
+   "cid": "352.c12",
+   "date": "",
+   "published": "1869-08-18",
+   "retro": true,
+   "statement": "At ringside at the Davis fight, Gallagher said he could lick any Englishman in Allen's corner."
+  },
+  {
+   "cid": "352.c25",
+   "date": "",
+   "published": "1869-08-18",
+   "retro": true,
+   "statement": "After losing to Gallagher by a chance blow, Tom Allen challenged him again."
+  },
+  {
+   "cid": "376.c2",
+   "date": "",
+   "published": "1869-12-21",
+   "conf": "medium",
+   "statement": "The proposed fight with Joe Coburn was for $10,000 and was to take place within 90 days, 690 miles west of Omaha."
+  },
+  {
+   "cid": "377.c4",
+   "date": "",
+   "published": "1869-12-25",
+   "conf": "medium",
+   "statement": "The fight was to take place fifty miles from Cincinnati or fifty miles from Detroit, which would take it into Canada."
+  },
+  {
+   "cid": "380.c1",
+   "date": "",
+   "published": "1870-01-04",
+   "statement": "A prize fight between Tom Allen and Jem Mace was anticipated in sporting circles in St. Louis."
+  },
+  {
+   "cid": "381.c2",
+   "date": "",
+   "published": "1870-01-09",
+   "conf": "medium",
+   "statement": "The proposed fight with Mace was for $2,500 a side, in Louisiana or Canada, within six months."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "130",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "According to the Daly side, Tom Allen was knocked down by Dan Daly in a street fight at Seventh and Market streets, St. Louis, on June 17, 1888.",
+      "excerpt": "Alien, it would appear, squared off und was ‘‘downed’*’ by Daly",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "people": ["Dan Daly", "Charley Daly"],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "According to the Daly party, Tom Allen was knocked out and asked Dan Daly to quit.",
+      "excerpt": "They all agree, however, that Allen was knocked out and asked Daly to quit,",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "people": ["Dan Daly"],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen had an abrasion on the left jaw, another on the right ear and a slightly black eye after the street fight.",
+      "excerpt": "anabrasion on the left jaw, another on the rightear anda slightly Black eye",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Charley Daly were taken to the station after the street fight and gave bond.",
+      "excerpt": "Allen and Charley Daly were taken to the istation and gave bond",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "people": ["Charley Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The Police Court case against Tom Allen was continued until Thursday at Allen's request.",
+      "excerpt": "thé case was continued until Thursday at Allen’s request.",
+      "date": "1888-06-18",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen kept a free-and-easy on Market Street, St. Louis.",
+      "excerpt": "The ex-champian himself was found at his **free-and-ecasy’’ on Market street.",
+      "date": "1888-06-18",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Daly says he fought me, did he? Why, he backed up in front of his door before me.",
+      "topic": "his version of the street fight"
+    }
+  ],
+  "fights": [],
+  "notes": "Daly and Allen accounts differ, so the knock-down claims are medium. The street brawl was not a contest, so there is no fight entry."
+}

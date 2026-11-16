@@ -1,0 +1,19 @@
+{
+  "id": "524",
+  "claims": [
+    {
+      "kind": "business",
+      "statement": "Mr. Stanton said Mr. Peacock had told him at the last meeting that Tom Allen was behind an offer to lease the Washington School; Mr. Peacock denied ever naming Allen.",
+      "excerpt": "At the la&t meeting the gentleman told me that Tom Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Peacock", "Stanton"],
+      "places": ["Washington School, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only Stanton's account names Allen; Peacock denies it. The date of the earlier meeting is not given. The lease offer itself is not about Allen."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "481",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "An advertisement says Tom Allen's Free Concert Hall at 417 Washington Avenue is open every evening, with the champion presiding.",
+      "excerpt": "Tom Allen's Free be orga Hall, 417 Washington avenue. Best place amusement in the city. Open every evening. Champion will preside.",
+      "date": "1873-10-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["417 Washington Avenue"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The hall's name is partly garbled in the scan ('Free be orga Hall'); 'Concert' comes from the title."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "945",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was in New York to attend the Maher-Choynski fight, where he met Frank Slavin.",
+      "excerpt": "met Slavin in New York while he (Allen) was there to attend the Maher-Choynski fight.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Frank Slavin"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The paper describes Tom Allen as the retired champion.",
+      "excerpt": "Tom Allen, the retired champion, met Slavin in New York",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Frank Slavin"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "According to the paper, Frank Slavin was in no condition to fight anybody when he took on Bob Armstrong.",
+      "excerpt": "and was really in no condition to fight anybody.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Frank Slavin", "Bob Armstrong"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Frank Slavin's defeat by Bob Armstrong could not have ended any other way, given Slavin's condition.",
+      "excerpt": "From what I know of the condition he was In the fight could not have resulted other than it did.",
+      "date": "1896-11-26",
+      "date_precision": "day",
+      "people": ["Frank Slavin", "Bob Armstrong"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I guess the poor fellow knew he was up against it, and was willing to, take a good beating for the coin. From what I know of the condition he was In the fight could not have resulted other than it did.",
+      "topic": "Slavin's condition before the Armstrong fight"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen only comments on Slavin's fight with Armstrong and takes no part in it. The hint that Slavin told Allen he was in hard luck is in the text but is not given its own claim."
+}

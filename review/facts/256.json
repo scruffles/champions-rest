@@ -1,0 +1,89 @@
+{
+  "id": "256",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and George Rooke of New York agreed to fight for the championship of America and $3,000, but the match fell through before it was fought.",
+      "excerpt": "fight between Tom Allen and George Rooke of New York for the honor",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": ["George Rooke"],
+      "places": ["Pittsburg"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "John Chamberlain was selected as final stakeholder for the Allen–Rooke match and accepted on June 1, 1875.",
+      "excerpt": "Mr. Jno. Chamber-\nlain. He accepted.",
+      "date": "1875-06-01",
+      "date_precision": "day",
+      "people": ["John Chamberlain"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Chamberlain declined to take part at the eleventh hour because some of his friends had money on Rooke and wanted their stakes back.",
+      "excerpt": "however, at the eleventh hour, declined haying avything to do with the affair",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": ["John Chamberlain"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "A report said Joe Coburn had organized a gang to go to Pittsburg and win the fight for Rooke by a staged foul if Rooke could not win.",
+      "excerpt": "Joe Coburn had organized a gang of rutiians to go on ito Pittsburg",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": ["Joe Coburn", "George Rooke"],
+      "places": ["Pittsburg"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Rooke's backer Muldoon, through Billy Edwards, offered to match Rooke against Allen for $1,000 within ten days, 50 miles from Pittsburg, with Harry Hill as stakeholder.",
+      "excerpt": "if Allen would agree to fight Rooke for that amount, within ten days, 50 miles from Pittsburg",
+      "date": "1875-06-16",
+      "date_precision": "day",
+      "people": ["Muldoon", "Billy Edwards", "George Rooke", "Harry Hill"],
+      "places": ["Pittsburg"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Shaughnessy, one of Rooke's backers, put an attachment on the stakes held by Harry Hill.",
+      "excerpt": "put an attachment on the stakes now held by Harry Hill",
+      "date": "1875-06-16",
+      "date_precision": "day",
+      "people": ["Shaughnessy", "Harry Hill"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "George Rooke",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Pittsburg (planned)",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$3,000 and the championship of America",
+      "rules": "",
+      "excerpt": "fight between Tom Allen and George Rooke of New York for the honor",
+      "reported_as": "report",
+      "notes": "Never fought: the final stakeholder withdrew and the stakes were attached. Article is dated 17 June 1875."
+    }
+  ],
+  "notes": "The later match for 15 July 1875 is in 257."
+}

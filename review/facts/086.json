@@ -1,0 +1,67 @@
+{
+  "id": "086",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Joe Goss on 1876-09-07 near Walton, Kentucky, when the fight was decided in Goss's favor at 11:50 a.m. after a foul.",
+      "excerpt": "Fight decided in favor of Goss at 11:50 a. in.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Walton, Boone County, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The first ring at Rodemacher's farm near Walton, Kentucky, was broken up by the militia after seven rounds, with the fight stopped.",
+      "excerpt": "stopped at the end of the seventh round",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Rodemacher's farm, near Walton, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The fight was resumed the same day at a second ring near Walton, Boone County, Kentucky.",
+      "excerpt": "At 10:15 the ring is being formed amidst much excitement.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Pat Lane farm, near Walton, Boone County, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested on arrival at Newport, Kentucky, on 1876-09-07 and held in the Newport jail.",
+      "excerpt": "Allen wus arrested and is now in Newport jail.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Newport, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "Walton, Boone County, Kentucky",
+      "result": "loss",
+      "rounds": "21",
+      "duration": "1 hour 52 minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Fight decided in favor of Goss at 11:50 a. in.",
+      "reported_as": "report",
+      "notes": "Post-Dispatch says Allen was swindled out of the fight by the referee. First ring broken up by militia after seven rounds; decided in Goss's favor on a foul in the 21st round."
+    }
+  ],
+  "notes": ""
+}

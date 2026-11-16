@@ -1,0 +1,19 @@
+{
+  "id": "991",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen (printed as 'Tom glen'), retired champion pugilist of the world, advertised a free concert at 619 Market Street.",
+      "excerpt": "pugiliat of the\nworld, 619 Market street. Free",
+      "date": "1899-06-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The name is printed as 'Tom glen' and the ad's second line is garbled; the identification as Allen rests on the same ad as 989 and 990."
+}

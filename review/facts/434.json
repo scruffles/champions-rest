@@ -1,0 +1,30 @@
+{
+  "id": "434",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's Free Concert Hall was open on Saturday, Sunday, Monday and Wednesday evenings.",
+      "excerpt": "Tem Allen's Free Concert Hall\nia open every Saturday, Sunday, Monday and",
+      "date": "1871-05-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Jem Mace was to be Tom Allen's guest for three or four days before leaving for Kansas City to meet Joe Coburn.",
+      "excerpt": "Jem Mace will be the guest\nof Tom for three or four days",
+      "date": "1871-05",
+      "date_precision": "month",
+      "people": ["Jem Mace", "Joe Coburn"],
+      "places": ["Kansas City, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hall notice in the entertainment column. Mace's planned singing is not included as it is not about Allen."
+}

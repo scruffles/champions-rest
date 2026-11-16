@@ -1,0 +1,41 @@
+{
+  "id": "854",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen styled himself the retired champion pugilist of the world.",
+      "excerpt": "M ALLEN, retired champion pugilist of the world, 619 Market street.",
+      "date": "1892-07",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place was at 619 Market Street, where he was advertised as the retired champion pugilist of the world.",
+      "excerpt": "M ALLEN, retired champion pugilist of the world, 619 Market street.",
+      "date": "1892-07",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place advertised entertainment every evening, printed as 'Pree Commeese aes evening', with only the best singers engaged.",
+      "excerpt": "Pree Commeese aes evening. Best ol singers only engaged y",
+      "date": "1892-07",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement under Sporting Notes. The word for the entertainment is garbled in OCR ('Pree Commeese aes evening'); 'free concerts' comes from the title and hint, not the text, so the claim is low confidence."
+}

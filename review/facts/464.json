@@ -1,0 +1,56 @@
+{
+  "id": "464",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Thomas Allen and Michael McCoole were to face each other in a prize fight on 23 September 1873, the second time they had met in the prize ring.",
+      "excerpt": "prize ring ,Thomas Allen and Michael McCoole will",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Michael McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested on the morning after McCoole's arrest at his training quarters.",
+      "excerpt": "eeleck in the morning by the arrest of Tom",
+      "date": "1873-09-22",
+      "date_precision": "day",
+      "people": ["Mike McCoole", "Pat McDonough"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Judge Colvin of the Court of Criminal Correction accepted $1,000 bonds from Tom Allen and Mike McCoole to keep the peace in Missouri for three months; John Whelan and William Brown signed the bonds for Allen and McCoole.",
+      "excerpt": "authorities, concluded to accept bonds in $1,000",
+      "date": "1873-09-22",
+      "date_precision": "day",
+      "people": ["Judge Colvin", "John Whelan", "William Brown", "Mike McCoole"],
+      "places": ["Court of Criminal Correction, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Michael McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "prize ring ,Thomas Allen and Michael McCoole will",
+      "reported_as": "report",
+      "notes": "Preview published on the day of the fight; the result is not in this article. Location not given."
+    }
+  ],
+  "notes": "Article is cut off before the promised synopsis of the men's fights. The arrest times and the bond date are inferred from the Monday morning arrest and the arrest sequence in the text."
+}

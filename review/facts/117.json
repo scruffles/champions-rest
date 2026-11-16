@@ -1,0 +1,58 @@
+{
+  "id": "117",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was the proprietor of a free-and-easy in St. Louis, patterned after those in England.",
+      "excerpt": "Louis as the proprietor of a ‘‘free and easy.” pat-",
+      "date": "1885-09-04",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "At Tom Allen's free-and-easy, Allen announced songs by rapping a gavel on the table.",
+      "excerpt": "table with a gavel, and announced asong, thereby",
+      "date": "1885-09-04",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen, an Englishman, came to America years ago, fought his way to pre-eminent fame, and then settled in St. Louis.",
+      "excerpt": "here years ago, fought his way to pre-eminent",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen is an incorrigible bachelor; hints of marriage had come to nothing as of September 1885.",
+      "excerpt": "Tom Allen is an_ ineorrigivle bachelor.",
+      "date": "1885-09-05",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "There he isin your tumbler, and his name’s John Barleycorn",
+      "topic": "answer to a drunk patron about who can down Tom Paddock"
+    }
+  ],
+  "fights": [],
+  "notes": "Article is about several saloons; the Tom Kelly and Tom Paddock material is not Allen's. Quote is joined across a line break. Weight of about fifteen stone omitted as minor."
+}

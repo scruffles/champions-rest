@@ -1,0 +1,81 @@
+{
+  "id": "221",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Jem Mace defeated Tom Allen in 1870 for the heavyweight championship.",
+      "excerpt": "In 1870 Jem Mace defeated Tom Alien",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "In 1873 Tom Allen won the heavyweight championship back by defeating Mike McCool.",
+      "excerpt": "he won it back by defeating Mike McCool.",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Mike McCool"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The article says Tom Allen was about the only noted fighter who made good in the ring again after being beaten and retiring.",
+      "excerpt": "onlv fighter of note who ever made good",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died in St. Louis about two years before this article was printed, so around 1905.",
+      "excerpt": "Allen died about two years ago",
+      "date": "1905",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870",
+      "date_precision": "year",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "heavyweight championship",
+      "rules": "",
+      "excerpt": "In 1870 Jem Mace defeated Tom Alien",
+      "reported_as": "recollection",
+      "notes": ""
+    },
+    {
+      "opponent": "Mike McCool",
+      "date": "1873",
+      "date_precision": "year",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "heavyweight championship",
+      "rules": "",
+      "excerpt": "he won it back by defeating Mike McCool.",
+      "reported_as": "recollection",
+      "notes": "Excerpt spans a line break in the OCR ('Mike' / 'McCool')."
+    }
+  ],
+  "notes": "Short piece. Death year is inferred from 'about two years ago' in a 1907 article. Article 220 implies Allen was already dead by August 1903, which conflicts with this date."
+}

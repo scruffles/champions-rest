@@ -1,0 +1,67 @@
+{
+  "id": "162",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was a retired world's champion in February 1894 and had nothing to show for his long ring career but a saloon.",
+      "excerpt": "Tom Allen, retired world’s champion, now @ resident of St. Louls, has nothing to show",
+      "date": "1894-02-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was a resident of St. Louis in February 1894.",
+      "excerpt": "@ resident of St. Louls, has nothing to show",
+      "date": "1894-02-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen had a saloon on Market Street in St. Louis, the profits of which let him live comfortably.",
+      "excerpt": "successful ringcarrer but a saloon on Market street, the profits of whicn",
+      "date": "1894-02-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Jem Mace defeated Tom Allen for the world's championship.",
+      "excerpt": "Jem Mace, who defeated Allen for the world’s championship",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "world championship",
+      "rules": "",
+      "excerpt": "Jem Mace, who defeated Allen for the world’s championship",
+      "reported_as": "recollection",
+      "notes": "The article gives no date or place; it is a passing mention of Mace's victory over Allen."
+    }
+  ],
+  "notes": "The McCool death is a passing mention about a rival, not Allen's own fact, so it is omitted. The saloon location comes from this article and matches the hint."
+}

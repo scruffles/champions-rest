@@ -1,0 +1,19 @@
+{
+  "id": "478",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and the seconds of both principals in the late prize fight boxed before a crowded house at the Theatre Comique.",
+      "excerpt": "Last night there was another sensation in the appearance of Tom Allen and the seconds of both principats",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["Theatre Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Theatre Comique is from the title; the text itself does not name the theatre. The text says only 'the late prize-ring exhibition'."
+}

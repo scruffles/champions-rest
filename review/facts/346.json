@@ -1,0 +1,45 @@
+{
+  "id": "346",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen's fight with Charley Gallagher was set for Tuesday, August 17, 1869, with Billy Carroll chartering the steamer Louisville for the trip.",
+      "excerpt": "The fight between Allen aud Gallagher is to come\nof next Tuesdsy",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher", "Billy Carroll"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen's friends made up a handkerchief of colors for him to wear at the coming fight.",
+      "excerpt": "The friends of Tom Allen have got up",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The fight between Allen aud Gallagher is to come\nof next Tuesdsy",
+      "reported_as": "report",
+      "notes": "Same bout as 340. Date is 'next Tuesday' from a paper dated 1869-08-11, i.e. August 17. Place not given."
+    }
+  ],
+  "notes": "Hint 1 kept (fight, date August 17). The boat charter is a boat arrangement and is not recorded."
+}

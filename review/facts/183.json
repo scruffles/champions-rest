@@ -1,0 +1,63 @@
+{
+  "id": "183",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen killed Timothy Confoy in the early hours of Sunday morning, February 26, 1899.",
+      "excerpt": "Timothy Confoy by ex-Pugil'st Tom Allen",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Timothy Confoy"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "A coroner's jury returned a verdict of justifiable homicide in the killing of Timothy Confoy by Tom Allen.",
+      "excerpt": "Justifiable homicide was the verdict of the Coroner’s jury Tuesday",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": ["Timothy Confoy", "Coroner Lloyd"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Judge Harvey and Attorney Thomas P. Rowe represented Allen at the coroner's inquest.",
+      "excerpt": "Allen was represented Ly Judge Harvey and Attorney Thomas FP. Rowe.",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": ["Judge Harvey", "Thomas P. Rowe"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "A large delegation of Allen's friends met him at City Hall when he was brought over from the Four Courts, and he was congratulated when taken back to jail after the verdict.",
+      "excerpt": "A large delegation of Allen’s friends came to the City Hall to greet him",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": [],
+      "places": ["City Hall, St. Louis", "Four Courts, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Confoy dropped at the fourth of Allen's shots, falling on his own revolver, according to witness John Spencer.",
+      "excerpt": "at the fourth shot, falling on his gun.",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Timothy Confoy", "John Spencer"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Inquest report. Witness accounts conflict with the printed statement of Allen's self-defense (the jury accepted Allen's account). Quotes from the testimony are too garbled in OCR to copy exactly."
+}

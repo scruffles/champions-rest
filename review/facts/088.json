@@ -1,0 +1,19 @@
+{
+  "id": "088",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Tom Kelly appeared on stage at the Theatre Comique in St. Louis on 1876-09-21 and were given a grand reception before a crowded house.",
+      "excerpt": "Tom Allen and Tom Kelly appeared at the Comique last night, and were tendered a grand reception",
+      "date": "1876-09-21",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": ""
+}

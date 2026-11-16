@@ -1,0 +1,56 @@
+{
+  "id": "566",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was in training at Cincinnati to fight Joe Goss.",
+      "excerpt": "training here to fight Joe Goss, has taken steps to",
+      "date": "1876-08",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen wrote a full apology to the New York Clipper, which had excluded his name from its columns for nearly four years after a card he wrote.",
+      "excerpt": "Written a full apology. saying he wrote his",
+      "date": "1876-08",
+      "date_precision": "month",
+      "people": ["New York Clipper"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "A St. Louis creditor garnished Allen's stake money, and the defense was that the money belonged to Ben De Bar of St. Louis, not Allen.",
+      "excerpt": "long to Allen, but to Ben De Bar, of St. Louis.",
+      "date": "1876-08",
+      "date_precision": "month",
+      "people": ["Ben De Bar"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "training here to fight Joe Goss, has taken steps to",
+      "reported_as": "report",
+      "notes": "Allen training for the match; no result given."
+    }
+  ],
+  "notes": "Apology wording is the paper's paraphrase. Stake garnishment defense is stated as planned."
+}

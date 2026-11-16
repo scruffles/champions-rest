@@ -1,0 +1,62 @@
+{
+  "id": "373",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was staying at the Buckeye House in Cincinnati, where crowds came to see him.",
+      "excerpt": "Tom Allen had another big crowd down to see him at",
+      "date": "1869-10-31",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Buckeye House, Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen had a row with Sherman Thurston at the Buckeye House in Cincinnati; the Enquirer says it was settled with a drink and a handshake.",
+      "excerpt": "between Tom Allen and Sherman Thersten",
+      "date": "1869-10-31",
+      "date_precision": "day",
+      "people": ["Sherman Thurston"],
+      "places": ["Buckeye House, Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen's fight with Mike McCoole was set for 10 November 1869.",
+      "excerpt": "duty on the 10th, with McCoole",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Cincinnati Commercial",
+      "text": "losing sight apparently of his duty on the 10th, with McCoole, allowed himself to have a personal controversy",
+      "topic": "criticism of Allen over the Thurston row"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "duty on the 10th, with McCoole",
+      "reported_as": "report",
+      "notes": "Scheduled; not yet fought at this date."
+    }
+  ],
+  "notes": "The Commercial says the row came very near a fight outside Allen's sleeping room; the Enquirer says it was settled. The 31 Oct date rests on 'yesterday' in the Monday Enquirer; medium confidence on the row's date."
+}

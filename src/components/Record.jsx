@@ -34,12 +34,14 @@ const kindOf = (f) => {
   if (!happened(f)) return "other";
   if (f.result === "win") return "win";
   if (f.result === "draw") return "draw";
-  if (f.result === "loss or draw") return "disputed";
-  if (f.result.startsWith("loss")) return "loss";
+  if (f.result === "loss") return "loss";
   return "other";
 };
 
-const STAMP = { win: "Win", loss: "Loss", draw: "Draw", disputed: "Disputed" };
+// Other results some sources give; the main result is the one most sources give.
+const disputesOf = (f) => f.disputed || [];
+
+const STAMP = { win: "Win", loss: "Loss", draw: "Draw" };
 
 const sortKey = (f) => (String(f.date).startsWith("pre") ? 1868 : yearOf(f.date) ?? 9999);
 
@@ -66,6 +68,7 @@ export default function Record() {
   const list = ROWS.filter(keep);
   const fought = fights.filter(happened);
   const count = (k) => fought.filter((f) => kindOf(f) === k).length;
+  const disputedCount = fought.filter((f) => disputesOf(f).length > 0).length;
 
   return (
     <div className="record">
@@ -82,7 +85,7 @@ export default function Record() {
           [count("win"), "Wins", ""],
           [count("loss"), "Losses", "red"],
           [count("draw"), "Draws", ""],
-          [count("disputed"), "Disputed", "muted"],
+          [disputedCount, "Result disputed", "muted"],
           [fights.length - fought.length, "Planned or unfought", "muted"],
         ].map(([n, label, tone]) => (
           <div key={label}>
@@ -94,7 +97,7 @@ export default function Record() {
 
       <div className="record-intro">
         <p className="dropcap">
-          Below is Tom Allen's fight record as pieced together from dozens of sources. Because boxing wasn't widely covered, especially at an international level, early reporters relied on the fighters to honestly recall their past fights. Many entries carry two or three versions of the date, the rounds or the stakes. Each one is annotated to reference the original sources. Please review them and make your own judgements.
+          Below is Tom Allen's fight record as pieced together from dozens of sources. Because boxing wasn't widely covered, especially at an international level, early reporters relied on the fighters to honestly recall their past fights. Many entries carry two or three versions of the date, the rounds or the stakes. Where the sources disagree on the result, the one most of them give is shown and the others are listed under "Also reported". Each one is annotated to reference the original sources. Please review them and make your own judgements.
         </p>
         <div>
           <div className="label">Show</div>
@@ -138,7 +141,7 @@ export default function Record() {
             {rows.map((f) => {
               const kind = kindOf(f);
               const isOpen = open === f.i;
-              const flags = [f.questionable && "Questionable sources", f.plannedOnly && "Planned only"].filter(Boolean);
+              const flags = [f.questionable && "Questionable sources", f.plannedOnly && "Planned only", disputesOf(f).length > 0 && "Result disputed"].filter(Boolean);
               const stamp = STAMP[kind] || (f.result === "?" ? (f.plannedOnly ? "Planned" : "Unknown") : f.result);
               return (
                 <div key={f.i} className={`record-entry ${isOpen ? "open" : ""} ${f.questionable || f.plannedOnly ? "dim" : ""}`}>
@@ -166,6 +169,25 @@ export default function Record() {
                         <dd>{f.time || "—"}</dd>
                         <dt>Result</dt>
                         <dd>{f.result}</dd>
+                        {disputesOf(f).length > 0 && (
+                          <>
+                            <dt>Also reported</dt>
+                            <dd>
+                              {disputesOf(f).map((d) => (
+                                <div key={d.result} className="also-reported">
+                                  {d.result}{" "}
+                                  <span className="also-sources">
+                                    {d.articles.map((id, j) => (
+                                      <Link key={id} to={`/articles/${id}`} aria-label={`${d.result}: source ${j + 1}, article ${id}`}>
+                                        {j + 1}
+                                      </Link>
+                                    ))}
+                                  </span>
+                                </div>
+                              ))}
+                            </dd>
+                          </>
+                        )}
                       </dl>
                       <div>
                         {f.details && f.details.length > 0 && (

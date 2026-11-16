@@ -1,0 +1,30 @@
+{
+  "id": "312",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Mike McCoole and Tom Allen agreed at Alex. McKee's to withdraw the stakes on their match and postpone the battle.",
+      "excerpt": "Meeting at Alex. MeKee's last night, and it was agreed that tile stakes put up on the match",
+      "date": "1869-03-08",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Alex. McKee's"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The postponed McCoole-Allen battle was to come off in about two months.",
+      "excerpt": "for a mill. to come off in abont two months",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The reason for the postponement is garbled in the OCR. The Gallagher link in the hint is not confirmed by the readable text."
+}

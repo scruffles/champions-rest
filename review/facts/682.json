@@ -1,0 +1,36 @@
+{
+  "id": "682",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "W. E. Harding, sporting editor of the Police Gazette, said Tom Allen was spoiling for a fight with Sullivan.",
+      "excerpt": "Allen, 1 think, is spoilin\nfor a fight with Sullivan.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["W. E. Harding", "Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "W. E. Harding said that when the Police Gazette brought Tom Allen out from Boston he was a wreck (printed as \"tot wreck\").",
+      "excerpt": "When we brough\nTom Allen out from Boston he was a tot\nwreck",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["W. E. Harding"],
+      "places": ["Boston"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "W. E. Harding",
+      "text": "This Tom Alien fuss i\nall wind and nothing more.",
+      "topic": "dismissing Allen's fuss"
+    }
+  ],
+  "fights": [],
+  "notes": "Harding's dismissal of Allen as a contender; no bout by Allen in the text. Hint called the Sullivan remark a challenge; it is an opinion, not a match. Date of the interview not given."
+}

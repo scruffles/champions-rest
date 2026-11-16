@@ -1,0 +1,56 @@
+{
+  "id": "316",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole's prize fight had its last $800 of stakes put up on 1869-05-07.",
+      "excerpt": "The last $800 of the stakes in the prize Sight which is to pe ag be- tween McCoole and Allen,",
+      "date": "1869-05-07",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The last $800 of stakes for the Allen and McCoole fight was put up at Tom Allen's saloon, with a large crowd present.",
+      "excerpt": "was put up night at Tom Aljien's esioon. A large crowd of pugilistic",
+      "date": "1869-05-07",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was in good condition on 1869-05-07 and would not need much training; he was to go into training at once.",
+      "excerpt": "Alien iooks in five condition, and will not require a great dealot training.",
+      "date": "1869-05-07",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "last $800 of the stakes",
+      "rules": "",
+      "excerpt": "The last $800 of the stakes in the prize Sight which is to pe ag be- tween McCoole and Allen,",
+      "reported_as": "report",
+      "notes": "Fight date and place not given. McCoole was not present when the stakes were put up."
+    }
+  ],
+  "notes": "Most of the page is unrelated. Heavy OCR damage in the Allen item; the saloon name is printed as 'Tom Aljien'."
+}

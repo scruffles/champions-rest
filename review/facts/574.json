@@ -1,0 +1,45 @@
+{
+  "id": "574",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The paper said the world championship was still undecided and that Tom Allen was unlikely to surrender the belt he had won.",
+      "excerpt": "The championship of the world is yet uvdecided, and itis by no means probable",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Street opinion in St. Louis held that Tom Allen had been grossly wronged and that the job was set up weeks before to defeat him by foul means.",
+      "excerpt": "They consider that he bas been grossly wronged, and that the job was set up weeks before",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "They consider that he bas been grossly wronged, and that the job was set up weeks before",
+      "reported_as": "report",
+      "notes": "Opinion piece, not a report of the fight. It says Allen was beaten through foul means and that the fight was not a fair one."
+    }
+  ],
+  "notes": "Street-opinion piece on the Goss fight; no round, place or time details."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "848",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "An advertisement for a concert establishment at 619 Market Street (printed as 'Limb Market street') offered free concerts every evening; the name Tom Allen is not legible in the OCR.",
+      "excerpt": "world, Limb Market street. Free esncerte every evening, Best of singers only engaged here.",
+      "date": "1892-05",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "An advertisement styled Tom Allen as retired champion of the world (the OCR reads 'retire cham: of').",
+      "excerpt": "retire cham: of” world, Limb Market street.",
+      "date": "1892-05",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Heavily garbled OCR. Attribution to Allen rests on the title and the matching ads (846, 847, 849); the advertisement itself does not show his name legibly."
+}

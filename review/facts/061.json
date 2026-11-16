@@ -1,0 +1,19 @@
+{
+  "id": "061",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "A rumour said Tom Allen was preparing for the stage and would make a debut in St. Louis in an American drama written for him.",
+      "excerpt": "is preparing for the silage",
+      "date": "1875-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Jocular rumour; Allen is not quoted. 'silage' is printed for 'stage' and 'heroinit' for 'heroine'; the role is not used."
+}

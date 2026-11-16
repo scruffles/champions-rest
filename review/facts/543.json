@@ -1,0 +1,41 @@
+{
+  "id": "543",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen and old Bill Ryall first came to America in 1868.",
+      "excerpt": "when old Bill Ryall and Tom Allen first came to this ‘‘blarsted’’ country",
+      "date": "1868",
+      "date_precision": "year",
+      "people": ["Bill Ryall"],
+      "places": ["United States"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Ned Donnelly was Tom Allen's opponent in many mimic (sparring) encounters.",
+      "excerpt": "Ned Donnelly, Allen's opponent in many mimic encounters",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ned Donnelly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Jem Mace wrote on March 13, 1876 that Joe Goss was coming to America principally to fight (the OCR reads 'fight / n', probably Allen), if a match could be arranged.",
+      "excerpt": "Goss is coming over, principally to fight / n, ifwecan geton",
+      "date": "1876-03-13",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mace's letter to Coburn is garbled at the key word; 'probably Allen' is inferred from the hint and the context. The Coburn-Bauer wrestling proposal is not about Allen."
+}

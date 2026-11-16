@@ -1,0 +1,26 @@
+{
+  "bucket": "challenge-1866-1868",
+  "facts": [
+    {
+      "fact": "A match between Tom Allen and Bill Ryall fell through about 1866 over the choice of a battle ground.",
+      "date": "1866",
+      "seed": "",
+      "conflict": "",
+      "claims": ["296.c1"]
+    },
+    {
+      "fact": "In 1867 Joe Goss offered Tom Allen a rematch, which Allen refused, even though Goss offered to increase the stakes.",
+      "date": "1867",
+      "seed": "",
+      "conflict": "",
+      "claims": ["283.c11"]
+    },
+    {
+      "fact": "In March 1868 Mike McCoole proposed a fight with Tom Allen after withdrawing from their match, and Allen intended to accept McCoole's proposal.",
+      "date": "1868-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["293.c2", "001.c4"]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "bucket": "saloon-1868-1873",
+  "facts": [
+    {
+      "fact": "Tom Allen opened a saloon in 1868 near the present Boatmen's Bank at Fourth Street and Washington Avenue, and was a tenant of the real estate firm J. C. Kaime & Bro. from then on.",
+      "date": "1868",
+      "seed": "",
+      "conflict": "",
+      "claims": ["1004.c4", "1004.c5", "259.c5"]
+    },
+    {
+      "fact": "Tom Allen was busy superintending the opening of a new saloon on Fitch Street, St. Louis, in March 1869.",
+      "date": "1869-03",
+      "seed": "",
+      "conflict": "street name garbled in the print ('Fitch stzee}'), low confidence",
+      "claims": ["278.c4"]
+    },
+    {
+      "fact": "The last $800 of stakes for the Allen and McCoole fight was put up at Tom Allen's saloon on 7 May 1869, and Allen attended to his saloon business in St. Louis until 10 May 1869.",
+      "date": "1869-05-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["316.c2", "465.c28"]
+    },
+    {
+      "fact": "Tom Allen's Concert Saloon was on Fifth Street between O'Fallon and Biddle streets in 1869, with a bar in front, a back room with tables and a piano, and a photograph of Allen over the decanters.",
+      "date": "1869-06",
+      "seed": "008",
+      "conflict": "address in October 1869: 1205 Fifth Street (369.c2) vs Fifth Street between O'Fallon and Biddle (016.c1, 020.c3); Biddle spelled 'Bid-die' and 'Filth' in the print (322.c3, low)",
+      "claims": ["016.c1", "016.c2", "020.c3", "322.c3", "369.c2"]
+    },
+    {
+      "fact": "After the referee's decision on 15 June 1869, a crowd went to Tom Allen's saloon and the Concert Saloon was liberally patronized.",
+      "date": "1869-06-15",
+      "seed": "",
+      "conflict": "",
+      "claims": ["324.c5"]
+    },
+    {
+      "fact": "Tom Allen owned a saloon in June 1869, which the paper urged him to dispose of.",
+      "date": "1869-06-24",
+      "seed": "",
+      "conflict": "",
+      "claims": ["329.c3"]
+    },
+    {
+      "fact": "Tom Allen wrote to a St. Louis friend in August 1869 that he would buy Gallagher's business at a fair valuation and buy out other champions who wished to sell.",
+      "date": "1869-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["365.c1"]
+    },
+    {
+      "fact": "On 7 August 1869 $100 was deposited for a match at the Wash Home or at Tom Allen's saloon on Fifth Street, and Allen and Jim Coyne invited their friends to the saloon that evening.",
+      "date": "1869-08-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["345.c2", "345.c3"]
+    },
+    {
+      "fact": "The final stakes for the fight between Tom Allen and Charley Gallagher were deposited at Allen's saloon on 14 August 1869, with a crowd packed in while Allen, in first-rate condition, was there with his trainer Jim Coyne.",
+      "date": "1869-08-14",
+      "seed": "",
+      "conflict": "",
+      "claims": ["019.c2", "348.c3", "349.c4", "347.c2", "347.c4"]
+    },
+    {
+      "fact": "Stakes were put up at Tom Allen's saloon on 9 October 1869 before a large crowd, with Allen and Jim Coyne said to be present.",
+      "date": "1869-10-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["370.c2"]
+    },
+    {
+      "fact": "Jim Coyne held a levee at Tom Allen's saloon in St. Louis on 1 November 1869 and was welcomed by many friends.",
+      "date": "1869-11-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["372.c1"]
+    },
+    {
+      "fact": "After retiring, Tom Allen opened a saloon on Market Street near Seventh.",
+      "date": "1870",
+      "seed": "",
+      "conflict": "place and period: Market Street near Seventh in 1870 (254.c3, retro 1939) vs 417 Washington Avenue in 1870-1873 (other claims)",
+      "claims": ["254.c3"]
+    },
+    {
+      "fact": "Tom Allen hosted a presentation of colors at his saloon to George Seddons of Boston on 19 January 1870.",
+      "date": "1870-01-19",
+      "seed": "",
+      "conflict": "",
+      "claims": ["383.c1"]
+    },
+    {
+      "fact": "Deposits for a match between George Seddons and Johnny Lafferty were to be made at Tom Allen's saloon in St. Louis.",
+      "date": "1870-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["396.c2"]
+    },
+    {
+      "fact": "J. L. Hughes, a Californian, left a $500 forfeit at Tom Allen's saloon for a challenge to fight at light weight.",
+      "date": "1870-05-15",
+      "seed": "",
+      "conflict": "",
+      "claims": ["402.c8"]
+    },
+    {
+      "fact": "A $100-a-side fight between Punch Morris and Steve O'Donnell was made up at Tom Allen's saloon on Saturday 6 August 1870, and its forfeit money was put up there.",
+      "date": "1870-08-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["415.c1", "415.c3"]
+    },
+    {
+      "fact": "John Madden said terms for a match with Buckey Barrett could be arranged by calling at Tom Allen's saloon.",
+      "date": "1870-08-15",
+      "seed": "",
+      "conflict": "",
+      "claims": ["417.c1"]
+    },
+    {
+      "fact": "Collins, the Cast Iron Man, wrote from a St. Louis saloon that he would put up $50 to $100 to meet Annabury, and invited Annabury's friends to make arrangements at Tom Allen's saloon on Saturday 20 August 1870.",
+      "date": "1870-08-17",
+      "seed": "",
+      "conflict": "",
+      "claims": ["418.c1", "418.c2"]
+    },
+    {
+      "fact": "The last preliminary deposit for the Allen and Gallagher fight was made at Allen's saloon on 24 October 1870, with John Campbell holding the stakes, and Roach put up $200 for Allen while Kelly put up $100 for Gallagher.",
+      "date": "1870-10-24",
+      "seed": "",
+      "conflict": "",
+      "claims": ["422.c1", "423.c2"]
+    },
+    {
+      "fact": "Tom Allen's concert saloon and free-and-easy were at 417 Washington Avenue, between Fourth and Fifth streets, from 1870 to 1873.",
+      "date": "1870-03",
+      "seed": "",
+      "conflict": "opening: 417 Washington already in use by March 1870 (287.c1, on Washington avenue) and July 1870 (037.c1) vs a new hall opened 4 March 1871 (041.c1)",
+      "claims": ["287.c1", "037.c1", "040.c2", "434.c1", "437.c2", "439.c1", "443.c2", "446.c3", "454.c3", "139.c3", "481.c1", "483.c1"]
+    },
+    {
+      "fact": "Tom Allen planned a grand opening of his new concert hall at 417 Washington Avenue on Saturday 4 March 1871, with concerts every Saturday, Sunday and Monday evening.",
+      "date": "1871-03-04",
+      "seed": "009",
+      "conflict": "evenings: Saturday, Sunday and Monday (041.c1) vs Saturday, Sunday, Monday and Wednesday (434.c1, May 1871, in the address fact)",
+      "claims": ["041.c1"]
+    },
+    {
+      "fact": "Jem Mace was Tom Allen's guest for three or four days before going to Kansas City to meet Joe Coburn in May 1871, and made Allen's saloon his favorite resort while training; Mace and Allen met their friends at the free-and-easy that June.",
+      "date": "1871-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["434.c2", "435.c1", "437.c3"]
+    },
+    {
+      "fact": "On the nights of 22 and 23 September 1873, Tom Allen's saloon and free-and-easy on Washington Avenue were crowded with fight followers, and Allen made a speech there telling the crowd to take a walk.",
+      "date": "1873-09-22",
+      "seed": "",
+      "conflict": "",
+      "claims": ["463.c6", "465.c40", "467.c2"]
+    },
+    {
+      "fact": "Tom Allen presided over his Saturday night 'free and racy' on 4 October 1873.",
+      "date": "1873-10-04",
+      "seed": "",
+      "conflict": "place not named (480.c3, medium)",
+      "claims": ["480.c3"]
+    },
+    {
+      "fact": "Betting at Tom Allen's Washington Avenue saloon on the night before the fight made him the strong favorite.",
+      "date": "1873-10-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["490.c6"]
+    },
+    {
+      "fact": "A Democrat reporter found Tom Allen in the back room of Allen's Saloon while asking for sporting news on 9 December 1873.",
+      "date": "1873-12-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["503.c5"]
+    }
+  ]
+}

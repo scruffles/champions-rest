@@ -1,0 +1,89 @@
+{
+  "id": "572",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "The arrangements for Tom Allen's fight with Joe Goss were completed in Cincinnati for September 7, 1876.",
+      "excerpt": "Goss and Tom. Allen have been completed",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Kelly of St. Louis and Arthur Chambers of Philadelphia were to second Tom Allen in the fight.",
+      "excerpt": "onded by Tom Kelly of St. Louis and Arthur Chambers of Philadelphia.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Tom Kelly", "Arthur Chambers"],
+      "places": ["St. Louis", "Philadelphia"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Jack Looney of St. Louis arrived with a party of 25 men, saying Allen must be whipped.",
+      "excerpt": "Jack Looney of St. Louis, and a party",
+      "date": "1876-09-06",
+      "date_precision": "day",
+      "people": ["Jack Looney"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Joe Coburn said that although Allen was the better man, the fight would be fixed for Goss to get the money.",
+      "excerpt": "but it will be fixed for Goss to get the money.",
+      "date": "1876-09-06",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Kelly wired that a rumour said Allen would not get fair play and the best he could get was a draw.",
+      "excerpt": "rumor here this morning that Allen will not get fair play",
+      "date": "1876-09-06",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen had already left for the fighting ground, with Joe Goss to follow.",
+      "excerpt": "Alien has already left for the",
+      "date": "1876-09-06",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Goss and Tom. Allen have been completed",
+      "reported_as": "report",
+      "notes": "Dad Ryan of St. Louis expected as referee. Goss to weigh about 164 lb and Allen about 178 lb. No result given."
+    }
+  ],
+  "notes": "Dispatch datelined Cincinnati, September 6. Kelly's rumor is one side's claim."
+}

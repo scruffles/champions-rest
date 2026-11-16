@@ -1,0 +1,30 @@
+{
+  "id": "825",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place at 619 Market Street advertised a free concert every evening, with only the best singers engaged.",
+      "excerpt": "Tom ALLEN, retired champion pugilist of the world, 619 Markét street. Free concert every evening",
+      "date": "1891-10-24",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as retired champion pugilist of the world.",
+      "excerpt": "Tom ALLEN, retired champion pugilist of the world, 619 Markét street",
+      "date": "1891-10-24",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. The Johnny Daly and James Morgan bout on the page does not involve Allen. Notice date used as the date."
+}

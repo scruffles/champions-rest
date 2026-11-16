@@ -1,0 +1,12 @@
+{
+  "id": "1014",
+  "claims": [
+    {"kind": "death", "statement": "According to a barbershop speaker, Tom Allen died without leaving $200.", "excerpt": "and when he died he didn't leave $200", "date": "", "date_precision": "unknown", "people": [], "places": [], "retrospective": false, "confidence": "medium"},
+    {"kind": "saloon", "statement": "According to a barbershop speaker, Allen spent his last days at his place on Market Street.", "excerpt": "reet before the old masthead. He lived on", "date": "", "date_precision": "unknown", "people": [], "places": ["Market Street"], "retrospective": false, "confidence": "low"}
+  ],
+  "quotes": [
+    {"speaker": "Unnamed barbershop speaker", "text": "Tom Allen never knew_ how .to play ‘the game for profit. He sesnt have much of a figure on the stage, anyhow.", "topic": "Allen did not know how to play the game for profit"}
+  ],
+  "fights": [],
+  "notes": "Barbershop column with very garbled OCR. 'Lived on rum' is uncertain (OCR reads 'sum'), so it is not recorded. The Corbett and Haughton passages are not about Allen. The quote's hyphen break ('any- now') is joined."
+}

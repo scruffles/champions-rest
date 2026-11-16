@@ -1,0 +1,66 @@
+[
+ {
+  "key": "life-1810-1874#1",
+  "fact": "Tom Allen was born in Birmingham, England, on April 23, 1839.",
+  "conflict": "years misprinted as 1810 (180.c11), 1830 (1004.c1) and 1539 (194.c5)",
+  "parts": [
+   {
+    "fact": "Tom Allen was born in Birmingham, England, on April 23, 1840.",
+    "date": "1840-04-23",
+    "claims": [
+     "148.c1",
+     "354.c1",
+     "266.c1",
+     "234.c1",
+     "291.c8",
+     "659.c1"
+    ]
+   },
+   {
+    "fact": "Tom Allen was born in Birmingham, England, in 1841.",
+    "date": "1841",
+    "claims": [
+     "281.c1",
+     "303.c1"
+    ]
+   },
+   {
+    "fact": "Tom Allen was born in Birmingham, England, on April 23, 1843.",
+    "date": "1843-04-23",
+    "claims": [
+     "465.c1"
+    ]
+   }
+  ],
+  "date": "1839-04-23"
+ },
+ {
+  "key": "career-undated-p2#3",
+  "fact": "Tom Allen learned gun-making and then entered the English army during the Crimean War, where his success in turn-ups in front of Sevastopol convinced him he could be a champion.",
+  "parts": [
+   {
+    "fact": "Tom Allen ran away from home at seventeen, enlisted in the 8th Hussars and served through the Indian Mutiny under General Havelock.",
+    "date": "",
+    "claims": [
+     "264.c11",
+     "488.c10"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "life-undated-p1#20",
+  "fact": "Tom Allen was still married to his wife in England when he died; they had not lived together for years but had never divorced, and his will did not mention her.",
+  "parts": [
+   {
+    "fact": "Tom Allen had been a widower for twenty to thirty years when he died.",
+    "date": "",
+    "conflict": "more than twenty years (197.c3) vs thirty years (1000.c5)",
+    "claims": [
+     "197.c3",
+     "1000.c5"
+    ]
+   }
+  ]
+ }
+]

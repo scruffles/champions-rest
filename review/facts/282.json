@@ -1,0 +1,41 @@
+{
+  "id": "282",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "A benefit for Tom Allen was set for Saturday night, April 30, 1870, at the Theater Comique (old Mozart Hall).",
+      "excerpt": "to attend the pugilistic display for the\nbenefit of Tom Allen, the renowned prize-fighter.",
+      "date": "1870-04-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Theater Comique (old Mozart Hall)"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "A $1000 championship belt was to be presented to Tom Allen at the benefit, and Joe Coburn, Mike McCoole and others were to put on the gloves.",
+      "excerpt": "belt would be presented to Allen, and that Joe Co-\nburn, Mike McCoole, Tom Allen, and other pugilists",
+      "date": "1870-04-30",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Mike McCoole"],
+      "places": ["Theater Comique (old Mozart Hall)"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Allen's benefit was postponed until Wednesday night, May 4, 1870, after the Biddle Street sewer caved in before the show.",
+      "excerpt": "It was announced that the benefit\nwas postponed until Wednesday night",
+      "date": "1870-05-04",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Theater Comique (old Mozart Hall)"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Paper dated Sunday May 1, 1870, so the benefit was Saturday April 30. Wednesday is taken as May 4. The sewer collapse and the rest of the page are not about Allen."
+}

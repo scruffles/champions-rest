@@ -1,0 +1,818 @@
+{
+  "id": "084",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Joe Goss beat Tom Allen on a foul in the 21st round of their fight on 7 September 1876, near Walton, Kentucky, after the fight was stopped and resumed in a second ring in Boone County.",
+      "excerpt": "Fight decided in favor of Goss at 11:50 a. M.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [
+        "Joe Goss",
+        "Eph Holland"
+      ],
+      "places": [
+        "Walton, Kentucky",
+        "Boone County, Kentucky"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The Allen-Goss fight was stopped after seven rounds, with Allen ahead, when the Covington Light Guard militia arrived; Eph Holland stopped it.",
+      "excerpt": "accordingly stopped the fight atter seven rounds had been fought.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [
+        "Eph Holland",
+        "Joe Goss",
+        "W.G. Lobban"
+      ],
+      "places": [
+        "Walton, Kentucky"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested at Newport, Kentucky, when the trains coming from the fight were stopped by the authorities.",
+      "excerpt": "were stopped by the authorities and Tom Allen arrested.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [],
+      "places": [
+        "Newport, Kentucky"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen and Joe Goss slept in Cincinnati at the Gibson House on the night before the fight.",
+      "excerpt": "Alien slept in Cincinnati at the Gibson house last night",
+      "date": "1876-09-06",
+      "date_precision": "day",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "Gibson House, Cincinnati"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Kelly and Arthur Chambers were Tom Allen's seconds for the Goss fight.",
+      "excerpt": "Tom Kelly and Artitur Chambers for Allen",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [
+        "Tom Kelly",
+        "Arthur Chambers",
+        "Barney Aaron",
+        "John Dwyer"
+      ],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss near Walton, Kentucky, on 7 September 1876; the fight began at about 7:35 a.m.",
+      "excerpt": "The fight between Tom Alien of St. Louis and Joe Goss of Lon-",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "St. Louis",
+        "Walton, Kentucky"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was from England, and the birthplace given in the record is garbled in the OCR (printed as 'lidwn_Biaminehan').",
+      "excerpt": "lidwn_Biaminehan. in merrv England. When! a youth he learned the trade of gan-making.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [
+        "England"
+      ],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen came from a fighting family.",
+      "excerpt": "Comes from a fighting family and a fighting",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "As a youth Tom Allen learned the trade of gunmaking in England.",
+      "excerpt": "When a youth he learned the trade of gan-making.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [
+        "England"
+      ],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen served in the Crimean War and won several turn-ups in front of Sevastopol, which convinced him he had the makings of a champion.",
+      "excerpt": "During the Crimean wir he entered the army",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [
+        "Sevastopol"
+      ],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen had a brother named Harry, whom Joe Goss tried to match for 100 pounds a side; police arrested Harry and the fight never came off.",
+      "excerpt": "Goss next matched himseli with Tom's brother Harry for £1°9 aside, but the police apprehended Harry",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Harry Allen",
+        "Joe Goss"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen had wordy contests with Coburn, Rooke, O'Baldwin and others, which made them his enemies.",
+      "excerpt": "Allen’s wordy contests with Coburn, Rooke, O’Baldwin and others have made him irreconcilable",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Coburn",
+        "George Rooke",
+        "O'Baldwin"
+      ],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen came to America with Peter Morris, the featherweight, arriving in 1867 (printed as 1567).",
+      "excerpt": "in company with the celebrated feather-weight, Pever Morris, came to this country, arriving herein 1567.",
+      "date": "1867",
+      "date_precision": "year",
+      "people": [
+        "Peter Morris"
+      ],
+      "places": [
+        "America"
+      ],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss in England for 100 pounds a side; the fight lasted until night and was declared a draw.",
+      "excerpt": "His next match was for £100 a side, and his opponent wasTorm Allen.",
+      "date": "1867",
+      "date_precision": "approx",
+      "people": [
+        "Joe Goss"
+      ],
+      "places": [
+        "England"
+      ],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen tested himself against Jack White in England for 5 pounds a side; the paper says the result was satisfactory to Allen.",
+      "excerpt": "he tested the matter with Jack White tor £5 a side.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Jack White"
+      ],
+      "places": [
+        "England"
+      ],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Morris in 22 rounds and 50 minutes for 10 pounds a side.",
+      "excerpt": "He got the best of Morris in twen ty-two rounds and fifty minutes.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Morris"
+      ],
+      "places": [
+        "England"
+      ],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Jack Gould in 51 rounds and 1 hour 22 minutes for 15 pounds a side in September 1861.",
+      "excerpt": "he beat Jack Gould for £15 a side in fifty-one rounds",
+      "date": "1861-09",
+      "date_precision": "month",
+      "people": [
+        "Jack Gould"
+      ],
+      "places": [
+        "England"
+      ],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Hali of Portsmouth in 15 rounds and 42 minutes for 25 pounds a side.",
+      "excerpt": "was won by the conquering Ailen in fifteen rounds and forty-two minutes.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Hali of Portsmouth"
+      ],
+      "places": [
+        "Portsmouth, England"
+      ],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Posh Price beat Tom Allen in 2 rounds and 55 minutes for 10 pounds a side.",
+      "excerpt": "won by Price i “two rounds and flity-five minute a.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Posh Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat an unnamed opponent in 10 rounds and 22 minutes for 25 pounds a side.",
+      "excerpt": "his colors to Alien for £25 a side im ten rounds",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [
+        "England"
+      ],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Bob Smith beat Tom Allen in 108 rounds and 3 hours 57 minutes; the stakes are garbled in the OCR.",
+      "excerpt": "battle was we zh one hunared and eight rounds",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Bob Smith"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Jack Parkison in 11 rounds in 20 minutes for 25 pounds a side; Parkison gave in.",
+      "excerpt": "After fighting eleven rounds in twenty minutes, Jack",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Jack Parkison"
+      ],
+      "places": [
+        "England"
+      ],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Posh Price in 45 rounds and 2 hours 5 minutes for 50 pounds a side.",
+      "excerpt": "after milling forty-five rounds in two hours and iive minutes",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Posh Price"
+      ],
+      "places": [
+        "England"
+      ],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat George Iles in 15 rounds and 52 minutes for 100 pounds a side (printed as 'George Lies').",
+      "excerpt": "They met for £100 aside, and after fifteen rounds and fifty-two mintues",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "George Iles",
+        "O'Baldwin"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Bill Davis in 40 rounds and 40 minutes for $1,000 a side in January 1869, his first fight in America.",
+      "excerpt": "was won with ease by Allen in forty rounds and 40 minutes.",
+      "date": "1869-01",
+      "date_precision": "month",
+      "people": [
+        "Bill Davis"
+      ],
+      "places": [
+        "America"
+      ],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher of Cleveland put Tom Allen to sleep in 2 rounds and 3 minutes for $1,000 a side in 1869 (printed as 1569).",
+      "excerpt": "put him to sleep in two rounds and three",
+      "date": "1869",
+      "date_precision": "year",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [
+        "Cleveland"
+      ],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole fought a draw after 7 rounds and 14 minutes for $1,000 in June 1869; the crowd cut the ring to pieces.",
+      "excerpt": "the crowd cut the ring to pieces and the fight was drawn after seven rounds",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Charley Gallagher in 17 rounds and 22 minutes for $1,000 a side in 1869, his fourth fight that year.",
+      "excerpt": "turned the tables on Gallagher and whipped him in seventeen rounds",
+      "date": "1869",
+      "date_precision": "year",
+      "people": [
+        "Charley Gallagher"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Jem Mace beat Tom Allen in 10 rounds and 44 minutes for $1,500 a side near New Orleans, in about 1869.",
+      "excerpt": "He next fought Jem Mace near New Orleans for $1,500 a side",
+      "date": "1869",
+      "date_precision": "approx",
+      "people": [
+        "Jem Mace"
+      ],
+      "places": [
+        "New Orleans"
+      ],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Jim Gallagher in 15 rounds and 22 minutes for $500 a side.",
+      "excerpt": "thumped him to a stand-still without half trying in fiftecn",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Jim Gallagher"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole forfeited $1,000 in December 1870, and the match with Tom Allen was off.",
+      "excerpt": "of 1870 Mike McCoole, who had again been matched against Ajlen, forfeited $1,000",
+      "date": "1870-12",
+      "date_precision": "month",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in 8 rounds and 19 minutes near St. Louis in September 1873, in a match for $2,500.",
+      "excerpt": "they met near St. Lonis and fought eight rounds in nineteen minutes,",
+      "date": "1873-09",
+      "date_precision": "month",
+      "people": [
+        "Mike McCoole"
+      ],
+      "places": [
+        "near St. Louis"
+      ],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Ben Hogan in 3 rounds and 6 minutes for $1,000 a side.",
+      "excerpt": "to meet Ailen for $1,000 aside, butin three rounds, occupying but six",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Ben Hogan"
+      ],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "George Rooke of Newark did not appear for his match with Tom Allen in 1875, and the stakes were drawn (printed as 21.500).",
+      "excerpt": "at the last moment his heart faiied him and he did not put in",
+      "date": "1875",
+      "date_precision": "approx",
+      "people": [
+        "George Rooke"
+      ],
+      "places": [
+        "Newark"
+      ],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "people": [],
+      "places": [
+        "Sevastopol"
+      ],
+      "date": "",
+      "date_precision": "unknown",
+      "retrospective": true,
+      "confidence": "high",
+      "kind": "career",
+      "statement": "Tom Allen entered the army during the Crimean War, and his success in turn-ups in front of Sevastopol convinced him he could be a champion.",
+      "excerpt": "During the Crimean wir he entered the army, and it was Liss good luck in a number of ‘‘turn-ups’’ that he had in front of Sevastopol that convinced him"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "Walton, Kentucky (resumed in a second ring in Boone County, Kentucky)",
+      "result": "loss",
+      "rounds": "21",
+      "duration": "1 hour 52 minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Fight decided in favor of Goss at 11:50 a. M.",
+      "reported_as": "report",
+      "notes": "Stopped by militia after seven rounds with Allen ahead; resumed in a second ring; Goss won on a foul claimed and allowed in the 21st round."
+    },
+    {
+      "opponent": "Jack White",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "5 pounds a side",
+      "rules": "",
+      "excerpt": "he tested the matter with Jack White tor £5 a side.",
+      "reported_as": "record",
+      "notes": "Result is only given as 'satisfactory to Allen' (OCR 's factory'); not treated as a confirmed win."
+    },
+    {
+      "opponent": "Morris",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "win",
+      "rounds": "22",
+      "duration": "50 minutes",
+      "stakes": "10 pounds a side",
+      "rules": "",
+      "excerpt": "He got the best of Morris in twen ty-two rounds and fifty minutes.",
+      "reported_as": "record",
+      "notes": "Printed as 'Mor Conner' at first mention, 'Morris' after."
+    },
+    {
+      "opponent": "Jack Gould",
+      "date": "1861-09",
+      "date_precision": "month",
+      "place": "England",
+      "result": "win",
+      "rounds": "51",
+      "duration": "1 hour 22 minutes",
+      "stakes": "15 pounds a side",
+      "rules": "",
+      "excerpt": "he beat Jack Gould for £15 a side in fifty-one rounds",
+      "reported_as": "record",
+      "notes": ""
+    },
+    {
+      "opponent": "Hali of Portsmouth",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Portsmouth, England",
+      "result": "win",
+      "rounds": "15",
+      "duration": "42 minutes",
+      "stakes": "25 pounds a side",
+      "rules": "",
+      "excerpt": "was won by the conquering Ailen in fifteen rounds and forty-two minutes.",
+      "reported_as": "record",
+      "notes": "Opponent name as printed ('Hali'); may be an OCR variant."
+    },
+    {
+      "opponent": "Posh Price",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "loss",
+      "rounds": "2",
+      "duration": "55 minutes",
+      "stakes": "10 pounds a side",
+      "rules": "",
+      "excerpt": "won by Price i “two rounds and flity-five minute a.",
+      "reported_as": "record",
+      "notes": "Printed as '2 Price' at first mention; the paper later calls him 'his old conqueror Posh Price'."
+    },
+    {
+      "opponent": "unknown",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "win",
+      "rounds": "10",
+      "duration": "22 minutes",
+      "stakes": "25 pounds a side",
+      "rules": "",
+      "excerpt": "his colors to Alien for £25 a side im ten rounds",
+      "reported_as": "record",
+      "notes": "Opponent name garbled in the OCR ('Sse'); Allen won."
+    },
+    {
+      "opponent": "Bob Smith",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "108",
+      "duration": "3 hours 57 minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "battle was we zh one hunared and eight rounds",
+      "reported_as": "record",
+      "notes": "Described as an American Black fighter ('darky'); stakes garbled in the OCR ('They fe a side')."
+    },
+    {
+      "opponent": "Jack Parkison",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "win",
+      "rounds": "11",
+      "duration": "20 minutes",
+      "stakes": "25 pounds a side",
+      "rules": "",
+      "excerpt": "After fighting eleven rounds in twenty minutes, Jack",
+      "reported_as": "record",
+      "notes": "Parkison gave in."
+    },
+    {
+      "opponent": "Posh Price",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "win",
+      "rounds": "45",
+      "duration": "2 hours 5 minutes",
+      "stakes": "50 pounds a side",
+      "rules": "",
+      "excerpt": "after milling forty-five rounds in two hours and iive minutes",
+      "reported_as": "record",
+      "notes": "Second meeting with Price."
+    },
+    {
+      "opponent": "George Iles",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "15",
+      "duration": "52 minutes",
+      "stakes": "100 pounds a side",
+      "rules": "",
+      "excerpt": "They met for £100 aside, and after fifteen rounds and fifty-two mintues",
+      "reported_as": "record",
+      "notes": "Printed as 'George Lies'; the paper says 'Les was defeated'."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1867",
+      "date_precision": "approx",
+      "place": "England",
+      "result": "draw",
+      "rounds": "",
+      "duration": "until nightfall",
+      "stakes": "100 pounds a side",
+      "rules": "",
+      "excerpt": "His next match was for £100 a side, and his opponent wasTorm Allen.",
+      "reported_as": "record",
+      "notes": "From the Enquirer's account of Goss's career; the year follows the nine-years-earlier reference in the 1876 Post-Dispatch item."
+    },
+    {
+      "opponent": "Bill Davis",
+      "date": "1869-01",
+      "date_precision": "month",
+      "place": "",
+      "result": "win",
+      "rounds": "40",
+      "duration": "40 minutes",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "was won with ease by Allen in forty rounds and 40 minutes.",
+      "reported_as": "record",
+      "notes": "Printed as 'Old Bill Davis'; the paper calls it his first fight in America."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "",
+      "result": "loss",
+      "rounds": "2",
+      "duration": "3 minutes",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "put him to sleep in two rounds and three",
+      "reported_as": "record",
+      "notes": "Year printed as 1569 in the OCR; read as 1869 from the sequence of the record."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06",
+      "date_precision": "month",
+      "place": "",
+      "result": "draw",
+      "rounds": "7",
+      "duration": "14 minutes",
+      "stakes": "$1,000",
+      "rules": "",
+      "excerpt": "the crowd cut the ring to pieces and the fight was drawn after seven rounds",
+      "reported_as": "record",
+      "notes": "Allen had the best of the fight; the crowd cut the ring."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "",
+      "result": "win",
+      "rounds": "17",
+      "duration": "22 minutes",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "turned the tables on Gallagher and whipped him in seventeen rounds",
+      "reported_as": "record",
+      "notes": "Rematch; Allen's fourth fight of 1869."
+    },
+    {
+      "opponent": "Jem Mace",
+      "date": "1869",
+      "date_precision": "approx",
+      "place": "near New Orleans",
+      "result": "loss",
+      "rounds": "10",
+      "duration": "44 minutes",
+      "stakes": "$1,500 a side",
+      "rules": "",
+      "excerpt": "He next fought Jem Mace near New Orleans for $1,500 a side",
+      "reported_as": "record",
+      "notes": "Year is inferred from the order of the record (after Allen's fourth fight of 1869)."
+    },
+    {
+      "opponent": "Jim Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "15",
+      "duration": "22 minutes",
+      "stakes": "$500 a side",
+      "rules": "",
+      "excerpt": "thumped him to a stand-still without half trying in fiftecn",
+      "reported_as": "record",
+      "notes": ""
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1870-12",
+      "date_precision": "month",
+      "place": "",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000",
+      "rules": "",
+      "excerpt": "of 1870 Mike McCoole, who had again been matched against Ajlen, forfeited $1,000",
+      "reported_as": "record",
+      "notes": "Forfeit by McCoole; the match was off."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09",
+      "date_precision": "month",
+      "place": "near St. Louis",
+      "result": "win",
+      "rounds": "8",
+      "duration": "19 minutes",
+      "stakes": "$2,500",
+      "rules": "",
+      "excerpt": "they met near St. Lonis and fought eight rounds in nineteen minutes,",
+      "reported_as": "record",
+      "notes": "Rematch on a fresh match made in 1873."
+    },
+    {
+      "opponent": "Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "3",
+      "duration": "6 minutes",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "to meet Ailen for $1,000 aside, butin three rounds, occupying but six",
+      "reported_as": "record",
+      "notes": ""
+    },
+    {
+      "opponent": "George Rooke",
+      "date": "1875",
+      "date_precision": "approx",
+      "place": "",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,500 a side (printed as 21.500)",
+      "rules": "",
+      "excerpt": "at the last moment his heart faiied him and he did not put in",
+      "reported_as": "record",
+      "notes": "Rooke of Newark did not appear; the stakes were drawn. 'Last year' is read as 1875 from the 1876 record."
+    }
+  ],
+  "notes": "Walton fight of 7 Sept 1876 is one bout (stopped, then resumed; Goss won on a foul). Record entries are from the Cincinnati Enquirer history of the two men as printed, so many dates and stakes are approximate or garbled. Headline says the arrest was at Covington; the text says the trains were stopped at Newport. Allen fought Goss in England (c.1867) and again in 1876."
+}

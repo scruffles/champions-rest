@@ -1,0 +1,41 @@
+{
+  "id": "712",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen, ex-champion of the world, and Tom Kelly were to do the wind-up sparring at the Union Club tournament on July 4 at the Union Base-Ball Grounds.",
+      "excerpt": "Allen and Tom Kelly, will appear and do the wind-up, while another attraction in this line will be the",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Union Base-Ball Grounds, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen and Tom Kelly were to supervise the arrangements for the Union Club tournament.",
+      "excerpt": "all other arrangements will be under the special supervision af Messrs. Kelly and Allen.",
+      "date": "1884-06",
+      "date_precision": "month",
+      "people": ["Tom Kelly"],
+      "places": ["Union Base-Ball Grounds, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "business",
+      "statement": "Entries to the tournament events could be made at Allen's until July 2.",
+      "excerpt": "Entries to the different eventscan be made until July 2d at Kelly's, Allen's, Homefield's",
+      "date": "1884-07-02",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Sparring wind-up is a planned exhibition, not a fight. The entries office at Allen's is named without a saloon; the text does not say Allen's was a saloon."
+}

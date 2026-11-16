@@ -1,0 +1,30 @@
+{
+  "id": "607",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was formerly of St. Louis.",
+      "excerpt": "Mr. TomM ALLEN, formerly of St. Louis, is",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen was about to fight a prize fight with the champion of England.",
+      "excerpt": "about to fight a prize fight with the champion",
+      "date": "1878-03",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["England"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The rest of the item is a joke about a zoological college, not recorded. The champion is not named here; 605 names Charley Davis."
+}

@@ -1,0 +1,95 @@
+{
+  "id": "359",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Referee Larry Wessells declared the Allen-Gallagher fight a draw after a meeting in St. Louis.",
+      "excerpt": "passing the word sround that it was a draw and all bets were off.",
+      "date": "1869-08-20",
+      "date_precision": "day",
+      "people": ["Larry Wessells", "Charley Gallagher"],
+      "places": ["26 North Fourth Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Charley Gallagher in a prize fight in August 1869.",
+      "excerpt": "the referee in the late mill between Allen and Gallagher",
+      "date": "1869-08",
+      "date_precision": "month",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Dad Ryan, Allen's second, claimed the referee had given Allen the fight in the ring.",
+      "excerpt": "the referee had given him the fight in the ring.",
+      "date": "1869-08-20",
+      "date_precision": "day",
+      "people": ["Dad Ryan", "Larry Wessells"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Referee Wessells said he was satisfied that Allen was afraid for his life and so left the ring immediately.",
+      "excerpt": "he was satisfied that Allen was afraid of his life, and had cause to be",
+      "date": "1869-08-20",
+      "date_precision": "day",
+      "people": ["Larry Wessells"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen accepted Gallagher's proposal to fight again for the same stakes, adding $1,000 a side.",
+      "excerpt": "for the same stakes, and tosdd an additional $1,000 a side.",
+      "date": "1869-08-20",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Sherman Thurston said Allen had to fight McCoole before making any other engagement.",
+      "excerpt": "Thurston said Alien had to fight MsCodle before mak",
+      "date": "1869-08-20",
+      "date_precision": "day",
+      "people": ["Sherman Thurston", "McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Larry Wessells",
+      "text": "If I had seen it, I would have given the decision for Allen.",
+      "topic": "the sponge and the decision"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08",
+      "date_precision": "month",
+      "place": "",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$700 (Allen's stake)",
+      "rules": "London Prize Ring",
+      "excerpt": "the referee in the late mill between Allen and Gallagher",
+      "reported_as": "report",
+      "notes": "Ryan says the referee gave Allen the fight in the ring; the referee declared a draw on 1869-08-20 after Kelly, the sponge thrower, did not appear."
+    }
+  ],
+  "notes": "Long account of the referee's meeting; OCR garbled in places, and Allen's challenge letter is largely unreadable, so only its terms are taken. Hint about Allen's sponge remark and the November McCoole date are not supported by readable text and were dropped."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "698",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen judged Charley Mitchell the coming man after Mitchell's sparring exhibition with Billy Madden at the People's Theatre, St. Louis.",
+      "excerpt": "Tom Allen thought him the com- ing man, and Tom Kelly thinks his work very fine.",
+      "date": "1883-06-24",
+      "date_precision": "day",
+      "people": ["Charley Mitchell", "Billy Madden", "Tom Kelly"],
+      "places": ["People's Theatre, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The theatre name is garbled in the OCR ('Pir! eel theatre'); the People's Theatre is taken from the hint. Allen's presence at the exhibition is not stated outright; the opinion is in the paper's words, not direct speech."
+}

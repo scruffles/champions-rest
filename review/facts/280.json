@@ -1,0 +1,58 @@
+{
+  "id": "280",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen of St. Louis was one of Charley Mitchell's best friends in America, having known him as a boy around Birmingham, England.",
+      "excerpt": "was old Tom Alien, of St. Louis, who knew Charley as a kid around Birmingham",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Mitchell"],
+      "places": ["St. Louis, Missouri", "Birmingham, England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen and Charley Mitchell often discussed the tactics of various fighters who had met Allen.",
+      "excerpt": "Mitchell end Allen often fil to discussing the tactics of various fight- ers who had met Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Mitchell"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen gave Charley Mitchell boxing tips, the most valuable being the deceptive left hook, which Mitchell then improved and used.",
+      "excerpt": "Perhaps the most valuable ‘pointer he received from Allen was the deceptive left /hook.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Mitchell"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Billy Madden says Tom Allen should not be credited with inventing the left hook blow.",
+      "excerpt": "still Allen is not to be given credit for being the inventor of the biow",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Billy Madden"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Billy Madden",
+      "text": "One of Mitchell's best friends in this country was old Tom Alien, of St. Louis, who knew Charley as a kid around Birmingham.",
+      "topic": "Allen as Mitchell's friend"
+    }
+  ],
+  "fights": [],
+  "notes": "Article is about the left hook; Allen appears only as Mitchell's friend and tutor. Madden's quotation is the paper's direct speech, which is his own. The article's word 'Alien' is OCR for Allen; the excerpt keeps it as printed. No fights of Allen named."
+}

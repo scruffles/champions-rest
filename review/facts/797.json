@@ -1,0 +1,19 @@
+{
+  "id": "797",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Before Joe Coburn's match with Jem Mace in England, the Mace party pitted Tom Allen (printed as 'Tom Aflen'), Joe Goss and Bill Rayel against Coburn to test him, and Coburn bested them all.",
+      "excerpt": "Goss, Tom Aflen and Bill Rayel against Joe to",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace", "Joe Coburn", "Joe Goss", "Bill Rayel"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Career recollection; no date given for the test bout. Allen's name is OCR-garbled as 'Aflen'."
+}

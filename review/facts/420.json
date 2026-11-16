@@ -1,0 +1,45 @@
+{
+  "id": "420",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and James C. Gallagher signed articles of agreement at Hennessy's saloon for a match.",
+      "excerpt": "betweem Tom Allen and James CC. Gallagher, to fight",
+      "date": "1870-09-19",
+      "date_precision": "day",
+      "people": ["James C. Gallagher"],
+      "places": ["Hennessy's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen and Gallagher agreed to fight for $1,500 on November 1 within fifty miles of St. Louis, under the new London prize ring rules.",
+      "excerpt": "to fight for $1, 500, on the ist of Novembernext",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["James C. Gallagher"],
+      "places": ["within fifty miles of St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "James C. Gallagher",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "place": "within fifty miles of St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,500 ($1,000 Allen, $500 Gallagher)",
+      "rules": "London prize ring",
+      "excerpt": "to fight for $1, 500, on the ist of Novembernext",
+      "reported_as": "report",
+      "notes": "Articles signed; this article gives no result. Gallagher's name printed as James CC. Gallagher."
+    }
+  ],
+  "notes": "Articles signing only; the bout itself is described in later articles."
+}

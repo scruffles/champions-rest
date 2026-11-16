@@ -1,0 +1,52 @@
+{
+  "id": "309",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "At McCoole's, Charley Gallagher agreed to an immediate rematch with Tom Allen in the ring.",
+      "excerpt": "guve his assent to an immediate meeting with Allen in the ring",
+      "date": "1869-02-25",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": ["McCoole's"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A forfeit was put up by one of Tom Allen's admirers for a $1,000 match.",
+      "excerpt": "a forfeit was promptly put up by one of his admirers for a $1,000 match",
+      "date": "1869-02-25",
+      "date_precision": "day",
+      "people": [],
+      "places": ["McCoole's"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "At a benefit exhibition at Looney's Hall, Tom Allen announced he was ready to meet Gallagher at any time.",
+      "excerpt": "Tom Allen was present, and announced? himself ready to meet Gallagher at uny time.",
+      "date": "1869-02-25",
+      "date_precision": "day",
+      "people": ["Patsy Reardon"],
+      "places": ["Looney's Hall"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Charley Gallagher had said he would accept Tom Allen's published challenge.",
+      "excerpt": "at uny time. Gailagher has already expressed bis inten- tlon to aceepr Allen’s published challenge",
+      "date": "1869-02-25",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The benefit at Looney's Hall was for Patsy Reardon, Allen's second in the 23 Feb fight. The East St. Louis police bill and the rest of the page are unrelated."
+}

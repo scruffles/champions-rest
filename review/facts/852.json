@@ -1,0 +1,41 @@
+{
+  "id": "852",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "According to the Chicago Mail, Tom Allen was keeping very quiet in St. Louis.",
+      "excerpt": "Tom Alien is keeping very quiet overin St. Louis",
+      "date": "1892-06-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen is credited with discovering, before the Jackson-Slavin fight, that Peter Jackson's lungs were gone.",
+      "excerpt": "It was Tom that discovered before the Jackson-Siavin fight that Peter Jackson's",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Peter Jackson"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "The Chicago Mail said Tom Allen's diagnosis of Peter Jackson was not remarkably successful.",
+      "excerpt": "Tom’s— diagnosis was not remarkably successful.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Peter Jackson"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Reprinted from the Chicago Mail, which mocks Allen's prediction; the paragraph is paraphrase, not Allen's own words. Peter Jackson's fight with Slavin is not Allen's bout."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "384",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen declined Joe Coburn's challenge to fight for $5,000 or $10,000.",
+      "excerpt": "Tom Allen declines Joe Coburn’s chal'en e to fight for",
+      "date": "1870-01",
+      "date_precision": "month",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen would not fight Coburn until after his contest with Jem Mace, expected in July 1870.",
+      "excerpt": "$5000 or $10, COO until after his (Alien’s) contest with Jim",
+      "date": "1870-07",
+      "date_precision": "month",
+      "people": ["Joe Coburn", "Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Dateline in the OCR is garbled, so the decline is dated to the month of the report. The contest with Mace is printed as 'Jim Mace'."
+}

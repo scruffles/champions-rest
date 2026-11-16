@@ -1,0 +1,205 @@
+{
+ "bucket": "career-undated-p3",
+ "kind": "career",
+ "undated": true,
+ "claims": [
+  {
+   "cid": "839.c1",
+   "date": "",
+   "published": "1892-03-06",
+   "statement": "Tom Allen is described as an ex-champion heavy-weight."
+  },
+  {
+   "cid": "840.c1",
+   "date": "",
+   "published": "1892-03-06",
+   "statement": "Tom Allen is described as the retired heavy-weight champion of this city."
+  },
+  {
+   "cid": "841.c2",
+   "date": "",
+   "published": "1892-03-19",
+   "conf": "low",
+   "statement": "Tom Allen was advertised as retired champion pugilist of the world (printed as 'Wworla')."
+  },
+  {
+   "cid": "842.c2",
+   "date": "",
+   "published": "1892-03-26",
+   "statement": "Tom Allen was advertised as retired champion pugilist of the world."
+  },
+  {
+   "cid": "843.c2",
+   "date": "",
+   "published": "1892-04-16",
+   "conf": "low",
+   "statement": "Tom Allen was advertised as a retired champion pugilist; the rest of the title is garbled in this OCR."
+  },
+  {
+   "cid": "844.c2",
+   "date": "",
+   "published": "1892-04-23",
+   "statement": "Tom Allen was advertised as retired champion pugilist of the world."
+  },
+  {
+   "cid": "845.c2",
+   "date": "",
+   "published": "1892-04-30",
+   "conf": "low",
+   "statement": "Tom Allen was advertised as a retired champion pugilist of the world (text garbled: 'champion pugilist of t')."
+  },
+  {
+   "cid": "855.c1",
+   "date": "",
+   "published": "1892-08-21",
+   "statement": "The paper described Tom Allen as the heavy-weight champion."
+  },
+  {
+   "cid": "870.c2",
+   "date": "",
+   "published": "1892-11-05",
+   "statement": "Tom Allen was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "872.c2",
+   "date": "",
+   "published": "1892-11-12",
+   "statement": "Tom Allen was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "875.c2",
+   "date": "",
+   "published": "1892-11-19",
+   "statement": "Tom Allen was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "877.c2",
+   "date": "",
+   "published": "1892-11-19",
+   "statement": "Tom Allen was described as the noted retired champion pugilist of the world."
+  },
+  {
+   "cid": "879.c3",
+   "date": "",
+   "published": "1892-12-03",
+   "statement": "Tom Allen advertised himself as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "880.c3",
+   "date": "",
+   "published": "1892-12-10",
+   "statement": "Tom Allen advertised himself as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "881.c3",
+   "date": "",
+   "published": "1892-12-17",
+   "conf": "low",
+   "statement": "Tom Allen advertised himself as the retired champion pugilist of the world (printed as 'of a} world')."
+  },
+  {
+   "cid": "883.c3",
+   "date": "",
+   "published": "1892-12-24",
+   "conf": "low",
+   "statement": "Tom Allen advertised himself as the retired pugilist of the world (printed as 'retired Spam gion pugilist', so the wording is unclear)."
+  },
+  {
+   "cid": "884.c3",
+   "date": "",
+   "published": "1892-12-25",
+   "conf": "low",
+   "statement": "Tom Allen advertised himself as the retired pugilist of the world (printed as 'phasipion pugilist', so the word is unclear)."
+  },
+  {
+   "cid": "885.c3",
+   "date": "",
+   "published": "1893-01-01",
+   "statement": "Tom Allen advertised himself as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "890.c1",
+   "date": "",
+   "published": "1893-04-23",
+   "retro": true,
+   "statement": "Tom Allen is listed as the next champion after Mike McCoole."
+  },
+  {
+   "cid": "894.c6",
+   "date": "",
+   "published": "1893-12-23",
+   "conf": "low",
+   "statement": "The paper calls Tom Allen an ex-champion (the OCR reads Ex-eChamyioa)."
+  },
+  {
+   "cid": "898.c1",
+   "date": "",
+   "published": "1894-01-25",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen set up his claim to the American championship again after beating Mike McCoole."
+  },
+  {
+   "cid": "923.c2",
+   "date": "",
+   "published": "1895-11-17",
+   "retro": true,
+   "conf": "medium",
+   "statement": "After Johnny Dwyer went into politics, Tom Allen claimed the championship."
+  },
+  {
+   "cid": "925.c2",
+   "date": "",
+   "published": "1896-02-09",
+   "retro": true,
+   "statement": "Tom Allen was named as one of two English champions of America, with Joe Goss."
+  },
+  {
+   "cid": "942.c1",
+   "date": "",
+   "published": "1896-11-20",
+   "conf": "low",
+   "statement": "Tom Allen is described as the veteran ex-champion of America."
+  },
+  {
+   "cid": "945.c2",
+   "date": "",
+   "published": "1896-11-27",
+   "statement": "The paper describes Tom Allen as the retired champion."
+  },
+  {
+   "cid": "952.c4",
+   "date": "",
+   "published": "1897-02-07",
+   "retro": true,
+   "statement": "The paper describes Tom Allen as one of the cleverest fighters of the old-time school."
+  },
+  {
+   "cid": "957.c4",
+   "date": "",
+   "published": "1897-04-28",
+   "statement": "Tom Allen was described as an ex-champion pugilist."
+  },
+  {
+   "cid": "964.c3",
+   "date": "",
+   "published": "1897-07-02",
+   "statement": "The paper describes Tom Allen as a retired champion."
+  },
+  {
+   "cid": "996.c2",
+   "date": "",
+   "published": "1901-01-19",
+   "retro": true,
+   "statement": "Tom Allen at one time in his career had a claim on the championship of the world."
+  },
+  {
+   "cid": "999.c1",
+   "date": "",
+   "published": "1902-04-20",
+   "retro": true,
+   "conf": "medium",
+   "statement": "The paper says Tom Allen, with Dannie Daly and Tom Kelly, belonged to a past period of boxing and was not in the prize ring guide."
+  }
+ ]
+}

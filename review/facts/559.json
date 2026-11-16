@@ -1,0 +1,19 @@
+{
+  "id": "559",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen covered the $500 that Joe Goss deposited with Eph Holland of Cincinnati to make a match for the championship of America and a purse of $1,000 to $5,900 (printed as $5,900).",
+      "excerpt": "has been covered by Allen, anda fight will come off in about a month's time.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Reprinted from the London Sporting and Dramatic News (citing Sporting Life). The Globe-Democrat says it doubts the fight will happen at all."
+}

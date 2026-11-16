@@ -1,0 +1,30 @@
+{
+  "id": "458",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was a witness for the defense in the Mollie McCoole case in Police Court on Saturday morning.",
+      "excerpt": "wasa witness for the defense in the Mollie Mc-",
+      "date": "1873-08-16",
+      "date_precision": "day",
+      "people": ["Mollie McCoole"],
+      "places": ["Police Court, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was reported to have done little training and to be reducing by walking before the McCoole fight.",
+      "excerpt": "Allen, it is said, has done little or 20 work, and ig endeavoring to_reduce ‘himself by walking and",
+      "date": "1873-08",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "'Saturday morning' in a paper dated 1873-08-19 is 1873-08-16."
+}

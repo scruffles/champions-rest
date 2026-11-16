@@ -1,0 +1,59 @@
+{
+  "id": "338",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole had underrated Tom Allen in the late battle and paid the penalty for it.",
+      "excerpt": "McCoole had underrated his man, apd paid the penalty",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole were to fight on November 10, 1869.",
+      "excerpt": "both will step into the ring on the 10th of November,",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "McCoole had underrated his man, apd paid the penalty",
+      "reported_as": "report",
+      "notes": "The earlier battle is called 'the late battle'; the article gives no date or round details."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "both will step into the ring on the 10th of November,",
+      "reported_as": "report",
+      "notes": "Planned rematch; not yet fought when the article was printed."
+    }
+  ],
+  "notes": "Editorial on the coming rematch; it describes the earlier battle only in general terms."
+}

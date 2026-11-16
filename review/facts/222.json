@@ -1,0 +1,59 @@
+{
+  "id": "222",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher had lately beaten Tom Allen, according to a sporting notice reprinted here; the notice is headed 1860 but the items concern 1869.",
+      "excerpt": "barley Gallagher, who lately beat Tom Allen,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "A reprinted 1869 sporting notice says disgraceful scenes were enacted at the fight between Allen and McCoole.",
+      "excerpt": "etween Allen and McCoole will be tolerated",
+      "date": "1869",
+      "date_precision": "approx",
+      "people": ["McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "barley Gallagher, who lately beat Tom Allen,",
+      "reported_as": "report",
+      "notes": "Mentioned in passing in a notice headed June 15, printed 1860 (probably 1869). Date, place and details of the bout are not given."
+    },
+    {
+      "opponent": "McCoole",
+      "date": "1869",
+      "date_precision": "approx",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "etween Allen and McCoole will be tolerated",
+      "reported_as": "report",
+      "notes": "Result not given. The notice says disgraceful scenes were enacted at the fight."
+    }
+  ],
+  "notes": "Both Allen mentions are in a reprinted 'sport notes from old files' column. The hint that Gallagher was expected in Kansas City is not in the text; the notice lists him among noted members expected at the final King-Hickey deposit."
+}

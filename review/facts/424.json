@@ -1,0 +1,81 @@
+{
+  "id": "424",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "A fight between Tom Allen and Jim Gallagher was set for Tuesday, November 1, and was stopped by police.",
+      "excerpt": "The managers of the little affair between Tom Allon",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["Jim Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The planned Allen and Gallagher fight, set for Tuesday, was spoiled by police interference.",
+      "excerpt": "the interference of the Obial of Poitce",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": ["Jim Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen and Gallagher agreed to fight in the State of Kansas on Tuesday next, November 8, with the stakes unchanged and held by a new stakeholder.",
+      "excerpt": "in the State of Kansas, the rtakes remaining",
+      "date": "1870-11-08",
+      "date_precision": "day",
+      "people": ["Jim Gallagher"],
+      "places": ["State of Kansas"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen's lawyer, Mr. Voullaire, said a report that Allen intended to sue the city for false imprisonment was untrue.",
+      "excerpt": "Tom Allen futenda to sue’ the city for false imp",
+      "date": "1870-11-02",
+      "date_precision": "day",
+      "people": ["Mr. Voullaire"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jim Gallagher",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "place": "",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,500 ($1,000 Allen, $600 Gallagher as printed)",
+      "rules": "",
+      "excerpt": "the interference of the Obial of Poitce",
+      "reported_as": "report",
+      "notes": "Stopped by police before it was fought. Gallagher's stake printed as $600; other articles say $500."
+    },
+    {
+      "opponent": "Jim Gallagher",
+      "date": "1870-11-08",
+      "date_precision": "day",
+      "place": "State of Kansas",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,500 ($1,000 Allen, $600 Gallagher as printed)",
+      "rules": "",
+      "excerpt": "in the State of Kansas, the rtakes remaining",
+      "reported_as": "report",
+      "notes": "Agreed for Tuesday next; no result given. Gallagher's stake printed as $600."
+    }
+  ],
+  "notes": "Agreement to fight in Kansas was written at the bottom of the original articles."
+}

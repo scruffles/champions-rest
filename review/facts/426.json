@@ -1,0 +1,45 @@
+{
+  "id": "426",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat James C. Gallagher a few days before this paper.",
+      "excerpt": "the man whom Tom Allen polished off the",
+      "date": "1870-11",
+      "date_precision": "month",
+      "people": ["James C. Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen, the champion, has permanently retired from the ring and will attend to his saloon business.",
+      "excerpt": "retired from the ring, aud will attend hereafter to his",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "James C. Gallagher",
+      "date": "1870-11",
+      "date_precision": "month",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the man whom Tom Allen polished off the",
+      "reported_as": "report",
+      "notes": "Mentioned only in passing ('the other day')."
+    }
+  ],
+  "notes": "Retirement reported on good authority; the date is not given."
+}

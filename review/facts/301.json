@@ -1,0 +1,45 @@
+{
+  "id": "301",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen had arrived for his fight with Davis and was still in training.",
+      "excerpt": "the 12th, has arrived. He is still under training.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen is to fight Davis on January 12, 1869.",
+      "excerpt": "Tom Allen, who is to tight Davis on\nthe 12th",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "people": ["Davis"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Davis",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Tom Allen, who is to tight Davis on\nthe 12th",
+      "reported_as": "report",
+      "notes": "Planned bout; result not given in this article. Date taken from 'the 12th' in a paper dated 7 January 1869."
+    }
+  ],
+  "notes": "Arrival date is not given; the article says only that he has arrived. Opponent named only as Davis."
+}

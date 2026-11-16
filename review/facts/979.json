@@ -1,0 +1,52 @@
+{
+  "id": "979",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen coached Ed Smith when Smith beat Joe Goddard at the Olympic Club in New Orleans, in a fight printed as March 32, 1893.",
+      "excerpt": "it was the latter who coached him when he beat Goddard at New Orleans",
+      "date": "1893-03",
+      "date_precision": "month",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": ["Olympic Club, New Orleans"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "Ed Smith was a great friend of Tom Allen.",
+      "excerpt": "He was a greut friend of Tom Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ed Smith"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said that Swift was an old friend of his, whom he heard from often until recently.",
+      "excerpt": "He was an old friend of mine and I used to hear from him often until recently.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Swift"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Swift was one of the gamest fighters that ever entered the ring. But he was hardly big enough for the heavyweights of this*day.",
+      "topic": "on Swift's courage and size"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "He was an old friend of mine and I used to hear from him often until recently.",
+      "topic": "on Swift as an old friend"
+    }
+  ],
+  "fights": [],
+  "notes": "Article is about Ed Smith's death; Allen appears as Smith's coach and friend and as a speaker. The Smith-Goddard fight is not an Allen fight. Quotes name Swift; unclear whether this is the same man."
+}

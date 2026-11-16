@@ -1,0 +1,52 @@
+{
+  "id": "067",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen closed his Free and Easy on Washington Avenue, St. Louis, and packed up to take a trip to England or some other Eastern destination (printed as 'Hingiand').",
+      "excerpt": "the ‘‘Free and Easy’’ and packed up prepa",
+      "date": "1876-04-11",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Ed Donnelly said Tom Allen had hired him to receive $2 for each of five sparring exhibitions (figure as printed).",
+      "excerpt": "was te receive $2 for each of the five sparring exhibitions",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ed Donnelly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Ed Donnelly took his claim against Allen to a justice (printed as 'Wultoi') and had Allen's trunks attached (amount garbled in the text).",
+      "excerpt": "of Tom's trunks attached for",
+      "date": "1876-04-11",
+      "date_precision": "day",
+      "people": ["Ed Donnelly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen left word with a police officer to have Donnelly arrested for carrying off a coat that Allen said did not belong to him; Donnelly was taken to the Third District station, but nothing came of it.",
+      "excerpt": "Deanelly arrested for carrying of u coat",
+      "date": "1876-04-11",
+      "date_precision": "day",
+      "people": ["Ed Donnelly"],
+      "places": ["Third District police station, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Article is garbled (OCR). Hint says $25 each; the text prints $2 and the $125 total is only partly legible. Knockdown in the hint ('Enockine him down') is too garbled to claim. Hint's 'Justice Walton' is printed as 'Wultoi'."
+}

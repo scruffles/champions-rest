@@ -1,0 +1,30 @@
+{
+  "id": "824",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place at 619 Market Street (printed as 'No. G19 Market street') advertised a free concert every evening, with only the best singers engaged.",
+      "excerpt": "Tom ALLEN, retired champion pugilist of the world, No. G19 Market street. Free concert every evening; best of singers only engaged",
+      "date": "1891-10-06",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as retired champion pugilist of the world.",
+      "excerpt": "Tom ALLEN, retired champion pugilist of the world, No. G19 Market street",
+      "date": "1891-10-06",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only; the number is printed as G19, read as 619 from other notices. Army orders and other news on the page do not involve Allen."
+}

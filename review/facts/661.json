@@ -1,0 +1,124 @@
+{
+  "id": "661",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to America after six years' sojourn in England.",
+      "excerpt": "after six\nyears’ sojourn in England, where I had a",
+      "date": "1882",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["England", "America"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "While in England, Tom Allen kept a standing challenge to fight any man in Great Britain.",
+      "excerpt": "a\nstanding challenge to fight any manin Great",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England", "Great Britain"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he held the heavyweight championship until his fight with Joe Goss in 1876.",
+      "excerpt": "held until my bat-\ntle with Joe Goss in 1876",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen challenged John L. Sullivan or any man in the world to fight for $1,600 or $5,000 a side and the championship of the world, under London prize ring rules.",
+      "excerpt": "I will cy gr John L. Sullivan or Any man in\nthe world",
+      "date": "1882-11-02",
+      "date_precision": "day",
+      "people": ["John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen's challenge set the fight to take place within three months and within 100 miles of New Orleans.",
+      "excerpt": "the fight to take place in three months within\n100 miles of New Orleans",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen's backer posted $1,000 to back the challenge.",
+      "excerpt": "My backer has posted $1,000 to back up",
+      "date": "1882-11-02",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Harry Hill was to be the final stakeholder for the match.",
+      "excerpt": "Harry Hill to be\nfinal stukeholder",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Harry Hill"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen offered to meet Sullivan or any pugilist at the Police Gazette office on November 16 to arrange a match.",
+      "excerpt": "office, to arrange a match, on Novesnper i6,",
+      "date": "1882-11-16",
+      "date_precision": "day",
+      "people": ["John L. Sullivan"],
+      "places": ["Police Gazette office"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A proposed prize fight for $2,500 a side between Tom Allen and John L. Sullivan was under discussion in Boston sporting circles.",
+      "excerpt": "over a proposed prize fight,\nfor $2,500 2 side, between Tom Alien, ex-chain-",
+      "date": "1882-11",
+      "date_precision": "month",
+      "people": ["John L. Sullivan"],
+      "places": ["Boston"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Sullivan's backer named November 10 to meet and sign articles for the match with Allen.",
+      "excerpt": "Ko vember 10 to meet and sign articles",
+      "date": "1882-11-10",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I will cy gr John L. Sullivan or Any man in\nthe world, according to the rules of the Lon-\ndon prize ring, at catch weight, for $1,600.",
+      "topic": "terms of his challenge"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen's own open letter to the Herald; the Boston paragraph and the backer's date are the paper's reports."
+}

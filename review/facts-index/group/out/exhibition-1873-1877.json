@@ -1,0 +1,285 @@
+{
+ "bucket": "exhibition-1873-1877",
+ "facts": [
+  {
+   "fact": "Tom Allen had a complimentary benefit as Champion of the World at the Theatre Comique on 25 and 26 September 1873, sparring Jack Madden, with Arthur Chambers and Patsy Sheppard also boxing; the house was crowded.",
+   "date": "1873-09-25",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "466.c1",
+    "471.c1",
+    "476.c1",
+    "478.c1",
+    "477.c1"
+   ]
+  },
+  {
+   "fact": "Tom Allen was on exhibition as an attraction at a booth during the St. Louis Fair in October 1873.",
+   "date": "1873-10",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "045.c1",
+    "480.c8",
+    "482.c1"
+   ]
+  },
+  {
+   "fact": "Tom Allen had a benefit at Deagle's Theatre in St. Louis on the night of 28 October 1873, with sparring planned, including Ben Hogan, Arthur Chambers and Young Ryan.",
+   "date": "1873-10-28",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "488.c11",
+    "490.c5",
+    "491.c1",
+    "492.c1",
+    "494.c2"
+   ]
+  },
+  {
+   "fact": "Tom Allen was to give an exhibition in Kansas City in November 1873 with Arthur Chambers and Jack Madden.",
+   "date": "1873-11",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "276.c10"
+   ]
+  },
+  {
+   "fact": "Tom Allen said Arthur Chambers and Billy Edwards were to come to St. Louis about 7 March 1874 to give sparring exhibitions at Deagle's for a week, to test the bill.",
+   "date": "1874-03",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "047.c6"
+   ]
+  },
+  {
+   "fact": "Tom Allen sparred Joe Coburn at a benefit for Mike Coburn at Harry Hill's in New York in 1875, on condition that Coburn promise not to throw him, and Coburn gave that promise.",
+   "date": "1875",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "284.c3",
+    "284.c4"
+   ]
+  },
+  {
+   "fact": "A sparring exhibition between Tom Allen and Jimmy Walsh of London, advertised for Rickard's benefit, was stopped by the authorities under a statute prohibiting public sparring exhibitions.",
+   "date": "1875-01-21",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "056.c1"
+   ]
+  },
+  {
+   "fact": "A benefit for Tom Allen was held at Harry Hill's in New York in March 1875, with Allen in the main bout against Jim Coyne.",
+   "date": "1875-03",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "291.c4"
+   ]
+  },
+  {
+   "fact": "Tom Allen went on an eastern sparring tour in March 1875, giving exhibitions in New York, Boston, Philadelphia and Pittsburg.",
+   "date": "1875-03",
+   "seed": "",
+   "conflict": "route: planned as Philadelphia, Pittsburg, Cleveland, Detroit, Toledo and Chicago before returning to St. Louis (291.c5) vs New York, Boston, Philadelphia and Pittsburg as reported (516.c2)",
+   "claims": [
+    "291.c5",
+    "516.c2"
+   ]
+  },
+  {
+   "fact": "At his benefit at the Grand Central Variety Theater in Philadelphia in March 1875, Tom Allen was presented with a large solid silver goblet.",
+   "date": "1875-03",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "516.c3"
+   ]
+  },
+  {
+   "fact": "Ed O'Baldwin, the Irish giant, asked Tom Allen to travel with him giving sparring exhibitions across the country in July 1875, and Allen declined.",
+   "date": "1875-07",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "523.c4"
+   ]
+  },
+  {
+   "fact": "Tom Allen left St. Louis on 1 December 1875 to give sparring exhibitions in Louisville, Cincinnati, Columbus, Cleveland, Pittsburg, Buffalo and other cities, with Young Donnelly to travel with him as sparring partner.",
+   "date": "1875-12-01",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "529.c1",
+    "529.c2"
+   ]
+  },
+  {
+   "fact": "After the Goss fight in 1876, Tom Allen and Jem Mace travelled together around the country, Allen billed as champion of the world, and Billy Harrison went ahead as their advance agent to prepare exhibitions in California.",
+   "date": "1876",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "167.c4",
+    "587.c7"
+   ]
+  },
+  {
+   "fact": "Tom Allen and his trainer Ned Donnelly put on the gloves and sparred at an entertainment, a private benefit for Donnelly given by members of Tom Allen's Gymnasium Club in St. Louis, on 22 February 1876.",
+   "date": "1876-02-22",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "064.c1",
+    "533.c1"
+   ]
+  },
+  {
+   "fact": "Tom Allen played a one-week engagement at the Theatre Comique, Pine Street, St. Louis, in March 1876, setting to with the gloves with Ned Donnelly every evening in the crib scene from Tom and Jerry; it was the last three nights of the run.",
+   "date": "1876-03",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "066.c1",
+    "535.c1",
+    "535.c2"
+   ]
+  },
+  {
+   "fact": "Tom Allen gave a sparring exhibition in Louisville on 11 March 1876, assisted by his trainers Ned Donnelly and Jack Madden and local boxers.",
+   "date": "1876-03-11",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "534.c4"
+   ]
+  },
+  {
+   "fact": "A grand benefit for Tom Allen was to be held at the Theatre Comique, St. Louis, on Thursday 30 March 1876, with a glove set-to against Ned Donnelly, a wrestling match and a variety bill, and the recovered belt was to be presented to him.",
+   "date": "1876-03-30",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "536.c4",
+    "537.c1",
+    "538.c1",
+    "538.c2",
+    "539.c1"
+   ]
+  },
+  {
+   "fact": "Tom Allen gave sparring exhibitions at the Comique in St. Louis some weeks before May 1876.",
+   "date": "1876-04",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "075.c4"
+   ]
+  },
+  {
+   "fact": "Immediately after signing the articles, Tom Allen left Cincinnati in May 1876 to give exhibitions in several of the most prominent Eastern cities.",
+   "date": "1876-05",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "562.c4"
+   ]
+  },
+  {
+   "fact": "Tom Allen sparred Tom Kelly in the crib scene from Tom and Jerry at Kelly's benefit at the Theatre Comique in St. Louis on 5 May 1876, Allen being described as the champion.",
+   "date": "1876-05-05",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "078.c1",
+    "553.c1",
+    "554.c1",
+    "555.c1"
+   ]
+  },
+  {
+   "fact": "Tom Allen's friends gave him a complimentary benefit at the Avenue Theatre in Washington on 10 June 1876, where he appeared in a boxing exhibition with his trainer Jack Madden.",
+   "date": "1876-06-10",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "277.c1",
+    "277.c2"
+   ]
+  },
+  {
+   "fact": "Tom Allen and his trainer Jack Madden gave nightly glove set-tos at the Comique in St. Louis, with the last appearance on 28 June 1876.",
+   "date": "1876-06-28",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "560.c3"
+   ]
+  },
+  {
+   "fact": "Tom Allen and Tom Kelly appeared on stage at the Theatre Comique in St. Louis on 21 September 1876, in Allen's farewell benefit, with a bout between Allen and Kelly; they were given a grand reception before a crowded house.",
+   "date": "1876-09-21",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "088.c1",
+    "581.c9"
+   ]
+  },
+  {
+   "fact": "Tom Allen and Jem Mace gave a boxing match at the Theatre Comique in St. Louis on 24 and 25 October 1876.",
+   "date": "1876-10-24",
+   "seed": "",
+   "conflict": "description: sparring exhibitions (584.c2, medium) vs a boxing match (585.c1, 586.c1)",
+   "claims": [
+    "584.c2",
+    "585.c1",
+    "586.c1"
+   ]
+  },
+  {
+   "fact": "In 1877 Tom Allen and George Rooke gave sparring exhibitions throughout England.",
+   "date": "1877",
+   "seed": "015",
+   "conflict": "",
+   "claims": [
+    "599.c2"
+   ]
+  },
+  {
+   "fact": "Tom Allen's first exhibition in Birmingham, his home town, in 1877 drew the largest crowd for such an affair in many years.",
+   "date": "1877",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "599.c3"
+   ]
+  },
+  {
+   "fact": "At Manchester in 1877, Tom Allen knocked George Rooke out of time with a left during a sparring bout with gloves.",
+   "date": "1877",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "599.c4"
+   ]
+  },
+  {
+   "fact": "Tom Allen was reported to be matched against Tomkins Gilbert, champion sparrer of England, in a sparring match for 50 pounds a side.",
+   "date": "1877-09",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "090.c5"
+   ]
+  }
+ ]
+}

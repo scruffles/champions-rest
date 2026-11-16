@@ -1,0 +1,119 @@
+{
+  "bucket": "saloon-1903",
+  "facts": [
+    {
+      "fact": "Tom Allen conducted the Champion's Rest, a combined saloon and concert hall, in March 1903.",
+      "date": "1903-03",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "1000.c8"
+      ]
+    },
+    {
+      "fact": "J. W. L. Gillespie acquired the Champion's Rest, a concert hall and saloon on Market Street formerly owned by Tom Allen, by a bill of sale given to him on Monday evening, March 30, 1903.",
+      "date": "1903-03-30",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "1002.c1",
+        "1002.c2",
+        "200.c3"
+      ]
+    },
+    {
+      "fact": "Mrs. Hartgrove had charge of the saloon during Tom Allen's illness and took charge of the money in the cash register, with power of attorney.",
+      "date": "1903-03-30",
+      "seed": "045",
+      "conflict": "bill of sale: Mrs. Hartgrove said to have one (202.c15, medium) vs Gillespie holds the bill of sale (1002.c1, 1002.c2)",
+      "claims": [
+        "198.c6",
+        "202.c15"
+      ]
+    },
+    {
+      "fact": "Gillespie paid $125 rent for Allen's saloon from April 1, 1903, and installed William Burns and his family in Allen's apartments above it to manage the place.",
+      "date": "1903-04-01",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "200.c2"
+      ]
+    },
+    {
+      "fact": "On April 2, 1903, Gillespie tried to take possession of Allen's saloon at 619 Market Street with a bill of sale made by Allen, who was sick; bartender John Murphy met him with a revolver, drove him out, and kept the day's receipts, acting on the advice of Robert Lyons, Allen's bartender for sixteen years.",
+      "date": "1903-04-02",
+      "seed": "",
+      "conflict": "date: 2 April (1002.c4, 1003.c5, 199.c1) vs 1 April (200.c1, when Murphy pointed a revolver at Gillespie entering with William Burns); initials: J. W. L. Gillespie (1002.c4, 199.c1) vs W. J. Gillespie (200.c1); guns were drawn but Murphy remained in charge (202.c11)",
+      "claims": [
+        "199.c1",
+        "199.c2",
+        "1002.c4",
+        "1003.c5",
+        "1003.c6",
+        "200.c1",
+        "202.c11"
+      ]
+    },
+    {
+      "fact": "On April 3, 1903, Gillespie came from Allen's room with an attorney and a notary, carrying a second bill of sale bearing Allen's mark.",
+      "date": "1903-04-03",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "1003.c10"
+      ]
+    },
+    {
+      "fact": "On the night after Allen's death a yard of crape hung from the doorknob of his saloon, Tom Allen's Champion's Rest, at 619 Market Street, which was dark inside.",
+      "date": "1903-04-05",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "1004.c9"
+      ]
+    },
+    {
+      "fact": "On April 6, 1903, W. A. Byrne, for Gillespie, claimed a bill of sale for the goods and fixtures and held the upstairs rooms of the Champion's Rest by force of arms if necessary, while John Murphy, Allen's bartender, refused to give up the bar, which he held for Allen's daughter.",
+      "date": "1903-04-06",
+      "seed": "048",
+      "conflict": "who held the bar: Murphy for Allen's daughter Mrs. Mary Taylor (202.c4, 1007.c5) vs an agent of the daughter had charge of the bar (204.c3); daughter's address printed as %427 (202.c4)",
+      "claims": [
+        "202.c2",
+        "1007.c3",
+        "1007.c4",
+        "1007.c5",
+        "202.c4",
+        "204.c3"
+      ]
+    },
+    {
+      "fact": "The Champion's Rest was headquarters of the Albion Social Club in April 1903 and was a resort for the city's poor, who could sleep in the chairs even with no money.",
+      "date": "1903-04",
+      "seed": "027",
+      "conflict": "date: April 1903 (203.c7) and August 1903 (220.c3, still described)",
+      "claims": [
+        "203.c7",
+        "220.c3"
+      ]
+    },
+    {
+      "fact": "Tom Allen's saloon at Market Street near Seventh had an old piano used at concerts, which the estate inventory listed in July 1903.",
+      "date": "1903-07-28",
+      "seed": "",
+      "conflict": "address wording: Market near Seventh Street (219.c12) vs 619 Market Street (199.c1, 1004.c9)",
+      "claims": [
+        "219.c12"
+      ]
+    },
+    {
+      "fact": "Jack Gillespie, a Klondike fortune-seeker, ran the Champion's Rest in August 1903.",
+      "date": "1903-08",
+      "seed": "",
+      "conflict": "identity: named Jack Gillespie (220.c1) vs J. W. L. Gillespie (1002.c2), probably the same man",
+      "claims": [
+        "220.c1"
+      ]
+    }
+  ]
+}

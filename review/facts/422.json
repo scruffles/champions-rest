@@ -1,0 +1,67 @@
+{
+  "id": "422",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "The last preliminary deposit for the Allen and Gallagher fight was made at Allen's saloon, with John Campbell holding the stakes.",
+      "excerpt": "at the saloon of Tom. Allen, at 9:15, Mr. John Campbell taking",
+      "date": "1870-10-24",
+      "date_precision": "day",
+      "people": ["John Campbell", "Roach", "Kelley"],
+      "places": ["Tom Allen's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The last deposit was $200 for Allen and $100 for Gallagher.",
+      "excerpt": "required amount, $200 for Allen and $100 for Gallagher,",
+      "date": "1870-10-24",
+      "date_precision": "day",
+      "people": ["Roach", "Kelley"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The Allen and Gallagher fight was set for November 1, probably near the locality of the last mill.",
+      "excerpt": "come offon the Ist proximo. will in all probability",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["near the locality of the last mill"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Allen eased his training for a few days after a report that Gallagher was sick.",
+      "excerpt": "jallagber was sich, has not been under a severe",
+      "date": "1870-10",
+      "date_precision": "month",
+      "people": ["Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Gallagher",
+      "date": "1870-11-01",
+      "date_precision": "day",
+      "place": "near the locality of the last mill",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "come offon the Ist proximo. will in all probability",
+      "reported_as": "report",
+      "notes": "Planned bout; no result given."
+    }
+  ],
+  "notes": "Kelley is the trainer and representative of Gallagher. Boat to be chartered by Jack Looney and Kelly."
+}

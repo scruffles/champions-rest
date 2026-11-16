@@ -1,0 +1,34 @@
+{
+  "id": "091",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was matched with Charley Davis to box with ordinary sized gloves under the Queensberry rules, for a £200 cup and the championship, in London, England.",
+      "excerpt": "Tom Allen and Charley Davis are matched to box with ordinary sized gloves, according to the Queensberry rules, fora £200 cup (?) and",
+      "date": "1878-01",
+      "date_precision": "approx",
+      "people": ["Charley Davis"],
+      "places": ["London, England"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Davis",
+      "date": "1878-01",
+      "date_precision": "approx",
+      "place": "London, England",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "£200 cup and the championship",
+      "rules": "Queensberry rules, ordinary sized gloves",
+      "excerpt": "Tom Allen and Charley Davis are matched to box with ordinary sized gloves, according to the Queensberry rules, fora £200 cup (?) and",
+      "reported_as": "report",
+      "notes": "Matched only; no result in this article. Date is the paper's date, not confirmed."
+    }
+  ],
+  "notes": ""
+}

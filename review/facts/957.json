@@ -1,0 +1,52 @@
+{
+  "id": "957",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested at 2 o'clock on the morning of 1897-04-27 for shooting off a revolver in front of his saloon at Seventh and Market streets (printed as 'in f loon').",
+      "excerpt": "Pd at 2 o'cloc yesterday n shooting off a revolver in f loon, at Seventh and Market",
+      "date": "1897-04-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Seventh and Market streets"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was to appear before Judge Peabody on charges of disturbing the peace and a firearms offence; the charge is partly unreadable.",
+      "excerpt": "to appear in Judge Peabody’s jay morning on charges of dis’ ace and Sabai a! LAL firearms",
+      "date": "1897-04-27",
+      "date_precision": "day",
+      "people": ["Judge Peabody"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen's case before Judge Peabody was continued until April 30.",
+      "excerpt": "remained in the holdover all rhen his case was called, had until April 30",
+      "date": "1897-04-28",
+      "date_precision": "day",
+      "people": ["Judge Peabody"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as an ex-champion pugilist.",
+      "excerpt": "Allen, ex-champfon pugilist",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Text is badly garbled, so the charge and some arrest words are unreadable. Arrest date is 'yesterday' from the paper's date 1897-04-28. The continuance date assumes the case was called on the paper's date."
+}

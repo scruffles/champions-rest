@@ -1,0 +1,100 @@
+{
+  "id": "213",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss on September 7, 1876, near Cincinnati, in a ring moved to Boone County, Kentucky.",
+      "excerpt": "moved over into Boone County, and there",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Boone County, Kentucky", "Cincinnati"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost his fight with Joe Goss on a deliberate foul.",
+      "excerpt": "Allen lost the fight on a deliberate foul.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Boone County, Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Side bets on the Allen and Goss fight were arranged; the amount is garbled in the OCR.",
+      "excerpt": "Gf $2.00) were arranged. This was conside>-",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Joe Goss were arrested after the fight and released on bail.",
+      "excerpt": "irrested and released on bail.",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Eph Holland, a Cincinnati sporting man, was in charge of the affair for the fight between Tom Allen and Joe Goss.",
+      "excerpt": "Eph Holland, a Cincinnati sporting man.",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Eph Holland", "Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen had come to the United States from England some years before 1876.",
+      "excerpt": "come to this country from Engiand some",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England", "United States"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died in St. Louis about one month before this article was printed.",
+      "excerpt": "Allen died in St. Louts",
+      "date": "1903-03",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "Boone County, Kentucky, near Cincinnati",
+      "result": "loss",
+      "rounds": "at least 21",
+      "duration": "",
+      "stakes": "side bets (amount garbled in OCR)",
+      "rules": "",
+      "excerpt": "Allen lost the fight on a deliberate foul.",
+      "reported_as": "recollection",
+      "notes": "Allen knocked Goss down in round 21, then struck him while down; Holland gave the verdict to Goss."
+    }
+  ],
+  "notes": "Recollection of the 1876 fight, reprinted in 1903. Ring was on the farm of the father of horseman Rome Respass (printed Home Respass). OCR garbled in places."
+}

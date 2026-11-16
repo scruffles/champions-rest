@@ -1,0 +1,19 @@
+{
+  "id": "546",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen covered the $500 forfeit put up by Joe Goss at Cincinnati, and arrangements for their fight were to be completed soon.",
+      "excerpt": "Tom Allen has covered the $500 forfeit put up by Goss",
+      "date": "1876-04-29",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Same news item as 547 (St. Louis Globe-Democrat versus The St. Louis Republic). The fight itself had not yet taken place."
+}

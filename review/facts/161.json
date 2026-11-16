@@ -1,0 +1,69 @@
+{
+  "id": "161",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen was one of Charley Mitchell's seconds at the Corbett-Mitchell fight in Florida.",
+      "excerpt": "who was one of Charley Mitchell's seconds, returned to the city from Florida",
+      "date": "1894-01-25",
+      "date_precision": "day",
+      "people": ["Charley Mitchell", "James J. Corbett"],
+      "places": ["Florida"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to St. Louis from Florida on 1894-01-27.",
+      "excerpt": "returned to the city from Florida yesterday",
+      "date": "1894-01-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Florida", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he thoroughly believed Corbett could whip any pugilist, including Peter Jackson and Ed Smith.",
+      "excerpt": "Iam thoroughly convinced this Californian can whip them all, including",
+      "date": "1894-01-27",
+      "date_precision": "day",
+      "people": ["James J. Corbett", "Peter Jackson", "Ed Smith"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said his ox-tail jelly hardened Mitchell's stomach all right, but Corbett punched Mitchell in the face.",
+      "excerpt": "Allen says his famous ox-tail jelly hardened up Mitchell’s stomach all right, but Corbett",
+      "date": "1894-01-27",
+      "date_precision": "day",
+      "people": ["Charley Mitchell", "James J. Corbett"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he had fancied Mitchell but decided not to bet a cent on him after seeing the two men before the fight.",
+      "excerpt": "I must confess that I fancied Mitchel], but after seeing and comparing the pair before",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": ["Charley Mitchell", "James J. Corbett"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Mitchell was outclassed in every respect, and Corbett would have chopped him into ribbons in a few more rounds",
+      "topic": "on the Corbett-Mitchell fight"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen's role as second is from the article, not a bout he fought. The Corbett fight is not a fight of Allen's, so no fights entry."
+}

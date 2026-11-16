@@ -1,0 +1,56 @@
+{
+  "id": "413",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Billy Carroll, of Carroll's Sample room, tried to make a match between Mike McCoole and Tom Allen.",
+      "excerpt": "endeavoring fo make a matgh between Mike and Tom Allen.",
+      "date": "1870-07",
+      "date_precision": "month",
+      "people": ["Billy Carroll", "Mike McCoole"],
+      "places": ["Carroll's Sample room"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mike McCoole issued a manifesto challenging Tom Allen to fight for the champion belt and the excursion money.",
+      "excerpt": "cballenging Allen to combat for the champion belt and",
+      "date": "1870-07",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole withheld the stakes from a former fight with Tom Allen, which public opinion held that Allen had won.",
+      "excerpt": "the stakes that the public verdict declared Alea had won tn their former renconunter.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the stakes that the public verdict declared Alea had won tn their former renconunter.",
+      "reported_as": "report",
+      "notes": "The win is the public verdict as printed, not an official result. The date of the former fight is not printed."
+    }
+  ],
+  "notes": "The former fight's date is not in the text; the 1869 hint is not supported here."
+}

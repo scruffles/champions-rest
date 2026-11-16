@@ -1,0 +1,25 @@
+{
+  "id": "365",
+  "claims": [
+    {
+      "kind": "business",
+      "statement": "Tom Allen wrote to a St. Louis friend that he would buy Gallagher's business at a fair valuation and buy out other champions who wished to sell.",
+      "excerpt": "Gallagher wishes to dispose of his place of business at a",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "people": ["Charley Gallagher"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I have got the ‘rhino’ t put down and buy them out, bag and baggage.",
+      "topic": "offer to buy out rival champions"
+    }
+  ],
+  "fights": [],
+  "notes": "Letter to a friend, reported second-hand by the paper; the last lines are garbled. The hint that challengers should leave terms at Allen's saloon is not in the text and was dropped."
+}

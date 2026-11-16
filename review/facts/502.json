@@ -1,0 +1,19 @@
+{
+  "id": "502",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen, Johnnie Smith, Sam Smith and Jim Eagan were discharged in Police Court over their Sunday chase after Ben Hogan, without making a defense.",
+      "excerpt": "little testimony wus taken, and without being called on to make a",
+      "date": "1873-12-09",
+      "date_precision": "day",
+      "people": ["Johnnie Smith", "Sam Smith", "Jim Eagan", "Ben Hogan"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is named only in the Police Court item. Witnesses named in the text are not included."
+}

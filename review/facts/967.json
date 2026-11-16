@@ -1,0 +1,62 @@
+{
+  "id": "967",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss in Kentucky, not far from Cincinnati, in a bout the columnist recalled.",
+      "excerpt": "the day that Joe Goss and Tom Allen had",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky, not far from Cincinnati"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen purposely struck Joe Goss a foul blow during their fight.",
+      "excerpt": "back of Goss purposely struck Joe a foul",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky, not far from Cincinnati"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The referee declared Joe Goss the winner of his fight with Tom Allen, after a foul claim was made against Allen.",
+      "excerpt": "Goss was the winner.’’ I remember this oc-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky, not far from Cincinnati"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Joe Goss",
+      "text": "Coom on, let’s foight it out.",
+      "topic": "offer to fight on after a foul"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Kentucky, not far from Cincinnati",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the day that Joe Goss and Tom Allen had",
+      "reported_as": "recollection",
+      "notes": "Year not given in the text. Allen struck a foul blow; the referee awarded the fight to Goss."
+    }
+  ],
+  "notes": "Macon McCormick column. The year of the fight is not in the text, so the hint's 1876 is dropped."
+}

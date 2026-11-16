@@ -1,0 +1,124 @@
+{
+  "bucket": "places-1860-1869",
+  "facts": [
+    {
+      "fact": "Tom Allen came from England to America in July 1867; his first residence in America was Cleveland, Ohio, where he kept a saloon.",
+      "date": "1867-07",
+      "seed": "",
+      "conflict": "year: 1865 (096.c1, with Ryall and Morris, retro); 1867 (most claims) vs 1868 (543.c1, 283.c8) vs 1869 (202.c13, 203.c12, 909.c5); companion: Peter Morris (084.c13, 577.c26, 562.c9) vs Bill Ryall (465.c15, 543.c1, 096.c1); 007.c3 printed as Joly, low",
+      "claims": ["229.c2", "230.c2", "234.c14", "354.c12", "577.c26", "084.c13", "007.c3", "266.c12", "465.c15", "562.c9", "303.c3", "096.c1", "543.c1", "283.c8", "202.c13", "203.c12", "909.c5", "465.c17"]
+    },
+    {
+      "fact": "Tom Allen settled in St. Louis around 1868.",
+      "date": "1868",
+      "seed": "",
+      "conflict": "year: early 1860s (252.c5, 253.c2, 254.c1, retro); 1867 (264.c7, medium); 1868 (465.c18, 264.c22); 1869 (647.c1, medium, as a stranger)",
+      "claims": ["252.c5", "253.c2", "254.c1", "264.c7", "264.c22", "465.c18", "647.c1"]
+    },
+    {
+      "fact": "Tom Allen was a tenant of the same real estate firm since 1868, in different parts of the city.",
+      "date": "1868",
+      "seed": "",
+      "conflict": "",
+      "claims": ["259.c6"]
+    },
+    {
+      "fact": "Tom Allen and Charlie Gallagher were both of Cleveland, Ohio in early 1869.",
+      "date": "1869-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["305.c3", "306.c3"]
+    },
+    {
+      "fact": "Tom Allen's arrival in St. Louis was announced a few days before 11 January 1869, and he went out on the Gravois road, some nine miles from the city, to train under Tom Kelly.",
+      "date": "1869-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["006.c2", "302.c2", "302.c3"]
+    },
+    {
+      "fact": "Tom Allen and his trainer Tom Kelly boarded the Henry Adkins at Venice on 12 January 1869 on the way to the Davis fight.",
+      "date": "1869-01-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["007.c7"]
+    },
+    {
+      "fact": "Tom Allen boarded the Galatea at Bissell's Point on 23 February 1869 to travel down the river to a fight.",
+      "date": "1869-02-23",
+      "seed": "",
+      "conflict": "",
+      "claims": ["009.c2"]
+    },
+    {
+      "fact": "Tom Allen was training at the Buckeye House near Cincinnati for his fight with Mike McCoole in May 1869, having been expected there on 8 May and having left St. Louis for Cincinnati on 10 May.",
+      "date": "1869-05-08",
+      "seed": "",
+      "conflict": "date of leaving: expected in Cincinnati night of 8 May (014.c1) vs left St. Louis 10 May (465.c29, retro)",
+      "claims": ["317.c3", "014.c1", "014.c2", "465.c29", "318.c1", "319.c1", "015.c3"]
+    },
+    {
+      "fact": "Tom Allen returned to St. Louis instead of going on to Cincinnati, in response to a telegram, in June 1869.",
+      "date": "1869-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["331.c5", "333.c4"]
+    },
+    {
+      "fact": "Tom Allen left Cincinnati on 10 June 1869 after finishing training, and was due to arrive in St. Louis on Saturday 12 June; by 15 June he was reported as supposed to be at Venice.",
+      "date": "1869-06-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["465.c32", "322.c2", "016.c3"]
+    },
+    {
+      "fact": "Tom Allen and Jim Coyne were to go from Cincinnati to Louisville in early July 1869 and return to St. Louis; Allen had spent a few days in Cincinnati with his old English sweetheart.",
+      "date": "1869-07-05",
+      "seed": "",
+      "conflict": "route: via Louisville (336.c3, 331.c4) vs returned from Cincinnati (336.c2); return: about 6 July planned (331.c4) vs 7 July (336.c2)",
+      "claims": ["336.c3", "336.c2", "331.c4"]
+    },
+    {
+      "fact": "Tom Allen came into St. Louis on the evening of 13 August 1869 from his training quarters.",
+      "date": "1869-08-13",
+      "seed": "",
+      "conflict": "",
+      "claims": ["018.c1"]
+    },
+    {
+      "fact": "Tom Allen, Charley Gallagher and Mike McCoole were permanent residents of St. Louis in August 1869.",
+      "date": "1869-08-17",
+      "seed": "",
+      "conflict": "",
+      "claims": ["020.c1"]
+    },
+    {
+      "fact": "Tom Allen and Charley Gallagher were both to go to the fight on 17 August 1869 on the same excursion steamer, joining it at some point beyond the city.",
+      "date": "1869-08-17",
+      "seed": "",
+      "conflict": "",
+      "claims": ["020.c5", "350.c2"]
+    },
+    {
+      "fact": "Tom Allen of St. Louis was visiting New York City in September 1869.",
+      "date": "1869-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["368.c1"]
+    },
+    {
+      "fact": "Tom Allen's party was expected to be joined by Jem Mace and to reach St. Louis on Saturday 25 September 1869.",
+      "date": "1869-09-25",
+      "seed": "",
+      "conflict": "",
+      "claims": ["022.c2"]
+    },
+    {
+      "fact": "Tom Allen reached Cincinnati on 11 October 1869, planning to stay until after his fight with McCoole, and was staying at the Buckeye House there, where crowds came to see him.",
+      "date": "1869-10-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["371.c1", "373.c1"]
+    }
+  ]
+}

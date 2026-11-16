@@ -1,0 +1,19 @@
+{
+  "id": "980",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was at the Champion's Rest, around the corner from Tom Kelly's.",
+      "excerpt": "Around from Keliy's too, Tom Allen ie at the Champion's Rest",
+      "date": "1898-11-16",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Champion's Rest"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Text says Allen was at the Champion's Rest; ownership is not stated. 'Around from' read as 'around the corner from'."
+}

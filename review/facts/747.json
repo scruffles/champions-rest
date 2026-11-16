@@ -1,0 +1,45 @@
+{
+  "id": "747",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The article lists Tom Allen among the nineteen champions of the American prize ring.",
+      "excerpt": "Jim Dunn, Bill Davis, Aaron Jones, Tom\nAllen, Ned O’Baldwin",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bill Davis", "Aaron Jones", "Ned O'Baldwin"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Bob Smith, the colored fighter, won decisive victories over Tom Allen and Harry Allen, which the writer calls two of the hardest fights ever recorded in the prize ring.",
+      "excerpt": "over Tom and Harry Allen remain as two of",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bob Smith", "Harry Allen"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Bob Smith",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "over Tom and Harry Allen remain as two of",
+      "reported_as": "recollection",
+      "notes": "Undated and no place given. The article does not say whether this Tom Allen is the St. Louis champion."
+    }
+  ],
+  "notes": "Champion list is a Boston Globe history reprinted by the Post-Dispatch. Hint on the list confirmed; hint on the Bob Smith fights kept at low confidence."
+}

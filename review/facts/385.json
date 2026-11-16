@@ -1,0 +1,30 @@
+{
+  "id": "385",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen declined Joe Coburn's challenge to fight for $500 or $10,000 (printed as $10,009) until after his contest with Jim Mace in July.",
+      "excerpt": "Tom Allen declines Joe Coburn’s challenge to fight for $500 or $10,009 until after his (Allen's) contest with Jim Mace in July next.",
+      "date": "1870-01-21",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Jim Mace"],
+      "places": ["San Francisco, California"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen's contest with Jim Mace was expected to take place in July 1870.",
+      "excerpt": "until after his (Allen's) contest with Jim Mace in July next.",
+      "date": "1870-07",
+      "date_precision": "month",
+      "people": ["Jim Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Dateline 'Saw Frascisco' (San Francisco). The amount is OCR-garbled; hint's $10,000 reading is likely but not printed."
+}

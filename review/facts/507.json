@@ -1,0 +1,19 @@
+{
+  "id": "507",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Henry Slade frequently sparred with the gloves on against Mace, King and Tom Allen.",
+      "excerpt": "having frequently donned the mittens with Mace, King, Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Henry Slade", "Mace", "King"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Article is about Henry Slade. Allen appears as a sparring partner and as the source of the opinion that Slade is the most scientific sparrer; that opinion is paraphrased, not quoted."
+}

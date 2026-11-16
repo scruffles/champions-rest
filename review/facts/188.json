@@ -1,0 +1,30 @@
+{
+  "id": "188",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Excise officers visited Tom Allen's Market Street saloon on the order to remove its wineroom, and Allen said no woman had been in the place in six months.",
+      "excerpt": "Tom has one room. He said no woman had been in the place in six months.",
+      "date": "1899-09-05",
+      "date_precision": "day",
+      "people": ["R. P. Thompson", "Tim Danaher"],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Allen offered to take the door of his room off its hinges, and was left to construe the Excise order as he pleased after being told the penalty for failing to obey it.",
+      "excerpt": "offering to take the doo: to the room off its hinges",
+      "date": "1899-09-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Excise Commissioner Higgins's order to close winerooms; the article's wider list does not name Allen beyond this block. Hint's 'saloon' claim is kept; the text does not say the order was enforced at Allen's place."
+}

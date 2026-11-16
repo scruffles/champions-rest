@@ -1,0 +1,90 @@
+{
+  "id": "838",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen is described as the veteran ex-champion heavy-weight of America.",
+      "excerpt": "Tom Allen, the veteran ex-champion heavy-weight of America, who chaperoned a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen chaperoned a party of wealthy St. Louisans, including his backer Fred Watkins and Frank P. Slavin, to the Fitzsimmons-Maher fight.",
+      "excerpt": "who chaperoned a party of wealthy St. Loulsans, including his",
+      "date": "1892-03",
+      "date_precision": "month",
+      "people": ["Fred Watkins", "Frank P. Slavin"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen arrived home in St. Louis on the night of March 4, 1892, after the Fitzsimmons-Maher fight.",
+      "excerpt": "arrived home last night. He was seen by a representative of",
+      "date": "1892-03-04",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Fred Watkins was Tom Allen's backer.",
+      "excerpt": "his sid backer Fred Watkins ana Frank P.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Fred Watkins"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "business",
+      "statement": "Tom Allen was interviewed at his place of business on Market Street, St. Louis, on March 5, 1892.",
+      "excerpt": "at his place of business on Market street this afternoon",
+      "date": "1892-03-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen tried to place money on Maher before his fight with Fitzsimmons, but could not find anyone to take it.",
+      "excerpt": "endeavored to place some moneyon Madden’s protege before the encounter, but it was impossible to do so.",
+      "date": "1892-03",
+      "date_precision": "month",
+      "people": ["Maher", "Fitzsimmons"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Maher is not what he was cracked up tc be.",
+      "topic": "opinion of Maher"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "Maher lacks everything essential toa prize-fighter. He is too slow and has no experience.",
+      "topic": "Maher as a fighter"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I don’t think this victary has placed Fitzsimmons one peg higher in the scale as a fighter.",
+      "topic": "Fitzsimmons after the fight"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen did not fight in this article. Hint 'Allen said Maher could not be bet on' is in the claims; the bet claim has no exact date beyond March 1892. The top of the page (Fitzsimmons 'Isay' passage) is not attributed to Allen and is not used."
+}

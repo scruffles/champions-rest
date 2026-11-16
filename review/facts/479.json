@@ -1,0 +1,81 @@
+{
+  "id": "479",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen is matched to fight Ben Hogan in a prize fight; no date is given.",
+      "excerpt": "The coming prize-fight between Ben Hogan and Tom-Allen is tho alleabsorbing topic among the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "The Globe-Democrat describes Tom Allen as the representative of 'merrie England'.",
+      "excerpt": "over-confidence may result diseqnoerr, to the representative of “‘merrie England.”",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen has not yet begun training for the Hogan fight and will start only a few days before the contest.",
+      "excerpt": "Allen has as yet paid no attenticn to traming for this fight",
+      "date": "1873-10-01",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat McCoole in an earlier fight, and McCoole was only now recovering from it.",
+      "excerpt": "eCoole has so far receyered from Allen’s handiwork",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The coming prize-fight between Ben Hogan and Tom-Allen is tho alleabsorbing topic among the",
+      "reported_as": "report",
+      "notes": "Matched; no date or place given in this article."
+    },
+    {
+      "opponent": "McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "eCoole has so far receyered from Allen’s handiwork",
+      "reported_as": "report",
+      "notes": "Mention only; the result is inferred from the phrase 'Allen's handiwork'."
+    }
+  ],
+  "notes": "Hogan's trainer and other training details are not about Allen and are omitted."
+}

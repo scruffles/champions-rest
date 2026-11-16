@@ -1,0 +1,30 @@
+{
+  "id": "414",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen sent the New York Clipper a challenge to fight any man in America for $2,500 or $5,000 a side, Joe Coburn preferred.",
+      "excerpt": "offering to fight any man in Americ: $2,500 or $5,000a side, Joe Coburn preferred.",
+      "date": "1870-07",
+      "date_precision": "approx",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "If the challenge were accepted, the fight would take place at a point between St. Louis and a place the OCR cannot read.",
+      "excerpt": "fight take place at any point between St. Louis",
+      "date": "1870-07",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The lower half of the article is garbled. The trainer and the Louisiana/New York places in hint 1 are not readable here, and the trainer hint is not about Allen, so it is dropped."
+}

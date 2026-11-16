@@ -1,0 +1,36 @@
+{
+  "id": "813",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The Globe-Democrat called Tom Allen ex-champion in a January 1891 sporting column about a proposed Sioux boxer.",
+      "excerpt": "EX-CHAMPION TOM ALLEN—The sugg¢stion of *‘A Sportiog Man’’ In the interesting",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen wrote that a Sioux boxer would be unlikely to become a pugilist and would kick and bite like a savage once he began to take punishment.",
+      "excerpt": "As soon as the red Man began to Sustain punlshment, he wouid commences to Kick or DOite like the savage that he is.",
+      "date": "1891-01-25",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "As soon as the red Man began to Sustain punlshment, he wouid commences to Kick or DOite like the savage that he is.",
+      "topic": "Sioux boxer in the prize ring"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen's column is one item in a page of unrelated news. The hint about officiating in a corner and Anglo-Saxon superiority is not in the text; dropped."
+}

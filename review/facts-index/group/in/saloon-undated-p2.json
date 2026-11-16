@@ -1,0 +1,196 @@
+{
+ "bucket": "saloon-undated-p2",
+ "kind": "saloon",
+ "undated": true,
+ "claims": [
+  {
+   "cid": "252.c1",
+   "date": "",
+   "published": "1936-12-13",
+   "retro": true,
+   "statement": "Tom Allen was proprietor of a sawdust-floored tavern on Market Street near Seventh in St. Louis, known as the Champion's Rest."
+  },
+  {
+   "cid": "252.c2",
+   "date": "",
+   "published": "1936-12-13",
+   "retro": true,
+   "statement": "Tom Allen opened and ran the Champion's Rest after retiring from the ring."
+  },
+  {
+   "cid": "252.c3",
+   "date": "",
+   "published": "1936-12-13",
+   "retro": true,
+   "statement": "Tom Allen operated the Champion's Rest up to his death."
+  },
+  {
+   "cid": "253.c4",
+   "date": "",
+   "published": "1937-10-29",
+   "retro": true,
+   "statement": "Tom Allen was the proprietor of a saloon on Market Street east of Seventh."
+  },
+  {
+   "cid": "253.c8",
+   "date": "",
+   "published": "1937-10-29",
+   "retro": true,
+   "statement": "After retiring, Tom Allen renamed his saloon Champion's Rest, the name it kept for many years."
+  },
+  {
+   "cid": "253.c9",
+   "date": "",
+   "published": "1937-10-29",
+   "retro": true,
+   "statement": "Tom Allen's place had a large back room with a ring pitched in one corner and a platform for a piano in another."
+  },
+  {
+   "cid": "253.c10",
+   "date": "",
+   "published": "1937-10-29",
+   "retro": true,
+   "statement": "Tom Allen sat by the doorway with a gavel as master of ceremonies and bouncer."
+  },
+  {
+   "cid": "253.c11",
+   "date": "",
+   "published": "1937-10-29",
+   "retro": true,
+   "statement": "At Allen's place, disputants who got too noisy were thrown into the ring with gloves on and told to fight it out."
+  },
+  {
+   "cid": "254.c4",
+   "date": "",
+   "published": "1939-03-08",
+   "retro": true,
+   "statement": "Tom Allen named his saloon Champion's Rest and ran it until his death early this century."
+  },
+  {
+   "cid": "262.c17",
+   "date": "",
+   "published": "1978",
+   "retro": true,
+   "statement": "Allen's saloon, Sportsmen's Rest, was on Market Street between 6th and 7th, St. Louis, where the old American Theater once stood."
+  },
+  {
+   "cid": "262.c18",
+   "date": "",
+   "published": "1978",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Arguments at Allen's saloon that could not be settled with words were settled with bare hands in the back room, against the law."
+  },
+  {
+   "cid": "262.c19",
+   "date": "",
+   "published": "1978",
+   "retro": true,
+   "statement": "Allen had the liquor concession at the island fights."
+  },
+  {
+   "cid": "263.c1",
+   "date": "",
+   "published": "1978-04-04",
+   "retro": true,
+   "statement": "Tom Allen had been a saloon keeper in St. Louis and operated the Sportsmen's Rest at Sixth and Market."
+  },
+  {
+   "cid": "263.c15",
+   "date": "",
+   "published": "1978-04-04",
+   "retro": true,
+   "statement": "Tom Allen's saloon was prosperous, selling whiskey to spectators at the island fights."
+  },
+  {
+   "cid": "265.c1",
+   "date": "",
+   "published": "1892-01-01",
+   "conf": "medium",
+   "statement": "Tom Allen's saloon had stained glass doors and a steady throng of men coming and going on Saturday nights."
+  },
+  {
+   "cid": "279.c8",
+   "date": "",
+   "published": "1900-03-18",
+   "conf": "medium",
+   "statement": "It is said that Tom Allen's daughter has never crossed the threshold of the concert hall her father has run in St. Louis for years."
+  },
+  {
+   "cid": "352.c6",
+   "date": "",
+   "published": "1869-08-18",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen went to Cleveland, where he ran a business that was liberally patronized (the word for it is garbled in the scan)."
+  },
+  {
+   "cid": "352.c7",
+   "date": "",
+   "published": "1869-08-18",
+   "retro": true,
+   "conf": "medium",
+   "statement": "While Allen was in Cleveland he sold beer and tanglefoot (liquor), and his place was liberally patronized."
+  },
+  {
+   "cid": "524.c1",
+   "date": "",
+   "published": "1875-07-21",
+   "conf": "medium",
+   "statement": "Mr. Stanton said Mr. Peacock had told him at the last meeting that Tom Allen was behind an offer to lease the Washington School; Mr. Peacock denied ever naming Allen."
+  },
+  {
+   "cid": "677.c3",
+   "date": "",
+   "published": "1882-12-30",
+   "retro": true,
+   "statement": "Tom Allen was astonished by the change at Washington avenue, where his old establishment, The Champion's Rest, between Fourth and Fifth streets, had given place to a massive business structure."
+  },
+  {
+   "cid": "677.c4",
+   "date": "",
+   "published": "1882-12-30",
+   "conf": "medium",
+   "statement": "Tom Allen planned to choose a location in St. Louis and resume his old business, making the city his permanent home."
+  },
+  {
+   "cid": "705.c1",
+   "date": "",
+   "published": "1884-04-21",
+   "conf": "low",
+   "statement": "Capt. Wm. Richards secured the trophy (printed as pail) from the first championship game at the Union base ball grounds, planning to have it gilded and presented to Tom Allen to hang in his Market Street saloon."
+  },
+  {
+   "cid": "767.c1",
+   "date": "",
+   "published": "1889-02-17",
+   "retro": true,
+   "statement": "Tom Allen kept a saloon on Broadway between O'Fallon and Biddle streets at the time of his first fight with Mike McCoole."
+  },
+  {
+   "cid": "767.c2",
+   "date": "",
+   "published": "1889-02-17",
+   "retro": true,
+   "statement": "Before the second fight with Mike McCoole, Tom Allen moved his saloon to Washington avenue, between Fourth street and Broadway."
+  },
+  {
+   "cid": "774.c1",
+   "date": "",
+   "published": "1889-08-22",
+   "statement": "James Kelly, a St. Louis switchman later injured in Memphis, had been in the saloon business in St. Louis with Tom Allen."
+  },
+  {
+   "cid": "985.c9",
+   "date": "",
+   "published": "1899-02-26",
+   "statement": "Allen's saloon had been for years one of the toughest resorts in the city."
+  },
+  {
+   "cid": "985.c10",
+   "date": "",
+   "published": "1899-02-26",
+   "statement": "Allen, an old prizefighter, handled the crowds in his saloon by brute force."
+  }
+ ]
+}

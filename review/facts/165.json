@@ -1,0 +1,36 @@
+{
+  "id": "165",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen announced he would back Al J. Neist against Mike Mooney in a lightweight wrestling match, any style, for $250 a side, winner take all.",
+      "excerpt": "announces his willingness to back Al. J. Neist\nagainst Mike Mooney, in a wrestling match",
+      "date": "1895-01-11",
+      "date_precision": "day",
+      "people": ["Al J. Neist", "Mike Mooney"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said no fight could be pulled off in any shape around St. Louis at that time, so he advised Neist to try for a wrestling match with Mooney.",
+      "excerpt": "There is no chance to pull off a fight\nin any kind of shape",
+      "date": "1895-01-11",
+      "date_precision": "day",
+      "people": ["Al J. Neist", "Mike Mooney"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Neist doesn’t want a cent if he can’t win, and if Mooney wants a match, now is his chance.",
+      "topic": "stake and challenge to Mooney"
+    }
+  ],
+  "fights": [],
+  "notes": "Wrestling match, not a prize fight; recorded as challenges only."
+}

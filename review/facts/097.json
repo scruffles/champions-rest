@@ -1,0 +1,78 @@
+{
+  "id": "097",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Sullivan was notified to accept the challenge issued on Tom Allen's behalf, to fight within three months and within one hundred miles of Kansas City.",
+      "excerpt": "fied Killbride to accept the challenge issned\non behalf of Allen, to fight in three months",
+      "date": "1882-11",
+      "date_precision": "month",
+      "people": ["John L. Sullivan", "Killbride"],
+      "places": ["Kansas City"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and John L. Sullivan were matched to fight for $5,000 and the championship of the world.",
+      "excerpt": "A Match Arranged Between John Sualli- |\nvan and Pom Alien",
+      "date": "1882-11",
+      "date_precision": "month",
+      "people": ["John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen was to meet the champion's representative in New York on November 10, 1882 to arrange the match.",
+      "excerpt": "will meet Allen in\nNew York on November 10 to arrange",
+      "date": "1882-11-10",
+      "date_precision": "day",
+      "people": [],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen had just returned from England and was in Boston with his backer.",
+      "excerpt": "Tom Ailen, who has just returned from\nEngland",
+      "date": "1882-11",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Boston", "England"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen and his backer were to leave Boston for New York the next day.",
+      "excerpt": "Allen, with his backer, will leave\nfor New York to-morrow",
+      "date": "1882-11",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Boston", "New York"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "John L. Sullivan",
+      "date": "1882-11",
+      "date_precision": "month",
+      "place": "within one hundred miles of Kansas City",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$5,000 and the championship of the world",
+      "rules": "",
+      "excerpt": "A Match Arranged Between John Sualli- |\nvan and Pom Alien",
+      "reported_as": "report",
+      "notes": "Match agreed on paper; no bout takes place in this text. Dispatch is datelined November 3 in a paper dated November 2."
+    }
+  ],
+  "notes": "Only the match, the challenge and Allen's travel are about him; the paper's date and datelines are as printed."
+}

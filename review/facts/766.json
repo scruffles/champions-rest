@@ -1,0 +1,59 @@
+{
+  "id": "766",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Jem Mace beat Tom Allen in a fight whose date is not given.",
+      "excerpt": "Mace also beat Allen, who was whipped by",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was whipped by Goss in a fight whose date is not given.",
+      "excerpt": "beat Allen, who was whipped by Goss, whom Ryan defeated.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Mace also beat Allen, who was whipped by",
+      "reported_as": "record",
+      "notes": "From a writer's list of old champions' defeats; no date or place given."
+    },
+    {
+      "opponent": "Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "beat Allen, who was whipped by Goss, whom Ryan defeated.",
+      "reported_as": "record",
+      "notes": "Opponent named by surname only in the text; no date or place given."
+    }
+  ],
+  "notes": "Writer's column arguing that old champions were all beaten; Allen's two defeats are listed without dates."
+}

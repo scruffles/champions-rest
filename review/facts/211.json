@@ -1,0 +1,52 @@
+{
+  "id": "211",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tillie Hartgrove, Allen's housekeeper, had a writ of replevin issued at Clayton for a driving horse held by William W. Heapes.",
+      "excerpt": "went to Clayton by ohn and had a writ of replevin issued to recover possession of",
+      "date": "1903-04",
+      "date_precision": "approx",
+      "people": ["Tillie Hartgrove", "William W. Heapes"],
+      "places": ["Clayton"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen had for several years wintered the horse at William W. Heapes's farm.",
+      "excerpt": "of Allen to winter the anima! at Heapess",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["William W. Heapes"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The Public Administrator told Heapes not to give the horse to Tillie Hartgrove and to hold it for the estate.",
+      "excerpt": "notified Heapes not to give the norse tothe woman, but to hold it. subject to his order.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["William W. Heapes", "Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tillie Hartgrove maintained that Allen gave her the horse, so it could not be part of his estate.",
+      "excerpt": "She maintains that Allen gave her the horse and that it cannot be tmncluded",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Printed as 'Tillie Heitgrove' in the headline and text; 212 prints Hartgrove. The horse value is printed '315)' (OCR); the hint's $150 is not in this text, so not used. Lenz's writ is in 212."
+}

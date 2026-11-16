@@ -1,0 +1,52 @@
+{
+  "id": "138",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen kept a saloon on Market Street near Seventh Street in St. Louis.",
+      "excerpt": "who Keeps a saloon on Market, near Seventh street.",
+      "date": "1891-06-24",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street near Seventh Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "In June 1891 Tom Allen was described as a retired prize-fighter.",
+      "excerpt": "Tom Alien, the retired prize-fighter, who Keeps a saloon",
+      "date": "1891-06-24",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "John Craig, an Irishman, was charged in the First District Police Court with disturbing Tom Allen's peace.",
+      "excerpt": "John Craig, an Irishman, was hauled be-\nfore Judge Morris in the First District Police",
+      "date": "1891-06-24",
+      "date_precision": "day",
+      "people": ["John Craig", "Judge Morris"],
+      "places": ["First District Police Court, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Judge Morris discharged Craig because a man who had disturbed Allen's peace could not have come out with a face as badly beaten as Craig's.",
+      "excerpt": "Judge Morris could not see how a man could",
+      "date": "1891-06-24",
+      "date_precision": "day",
+      "people": ["John Craig", "Judge Morris"],
+      "places": ["First District Police Court, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is the complainant; the assault was on Craig. The 'Tom Alien' spelling is the paper's OCR."
+}

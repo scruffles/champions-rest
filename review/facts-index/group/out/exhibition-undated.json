@@ -1,0 +1,177 @@
+{
+  "bucket": "exhibition-undated",
+  "facts": [
+    {
+      "fact": "Tom Allen and Bill Ryall gave sparring exhibitions throughout the country after arriving in America.",
+      "date": "1867",
+      "seed": "",
+      "conflict": "",
+      "claims": ["352.c5"],
+      "join": "exhibition-1867-1872#1"
+    },
+    {
+      "fact": "In 1868, before Joe Coburn's match with Jem Mace, Joe Goss, Tom Allen and Bill Rayne were pitted against Coburn as a test, and Coburn beat them all.",
+      "date": "1868",
+      "seed": "",
+      "conflict": "third man: 'Bill Rayel' (797.c1) and an unnamed, garbled name (802.c1) vs 'Bill Rayne' in the existing fact",
+      "claims": ["797.c1", "802.c1"],
+      "join": "exhibition-1867-1872#3"
+    },
+    {
+      "fact": "Friends of Tom Allen in St. Louis were preparing a complimentary benefit sparring exhibition for him.",
+      "date": "1869-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["324.c6"]
+    },
+    {
+      "fact": "Mace and Allen planned an extended sparring tour through the country, and an exhibition in New Orleans before leaving.",
+      "date": "1870-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["402.c5", "402.c6"]
+    },
+    {
+      "fact": "Tom Allen agreed with the manager of the Adelphi Theater to go with Ned Donnelly for one week of sparring exhibitions, and Ed Donnelly said Allen had hired him to receive $2 for each of five sparring exhibitions.",
+      "date": "1876-04",
+      "seed": "",
+      "conflict": "name: Ed Donnelly (067.c2) vs Ned Donnelly (069.c2), probably the same man",
+      "claims": ["067.c2", "069.c2"]
+    },
+    {
+      "fact": "Tom Allen would not spar with Joe Coburn at Billy Allen's Adelphi, saying Coburn had refused to spar with him in New York.",
+      "date": "1876-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["069.c9"]
+    },
+    {
+      "fact": "It was thought probable that Joe Goss would come to St. Louis and that he and Tom Allen would start out on a sparring tour.",
+      "date": "1876-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["541.c7"]
+    },
+    {
+      "fact": "Tom Allen was expected to make an engagement, in St. Louis or elsewhere, for another sparring exhibition on the stage.",
+      "date": "1876-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["075.c8"]
+    },
+    {
+      "fact": "A benefit for Tom Allen was announced at Robinson's Opera-House in Cincinnati.",
+      "date": "1876-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["085.c9"]
+    },
+    {
+      "fact": "Tom Allen had a set-to with George Rooke in December 1882, agreed to be without rough work, and said he fell in it only because his foot broke through the staging.",
+      "date": "1882-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["102.c4", "102.c5"],
+      "join": "exhibition-1882-1903#2"
+    },
+    {
+      "fact": "Tom Allen said he sparred with Cleary of Philadelphia just after the Rooke meeting and found him not as clever as George Rooke.",
+      "date": "1882-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["102.c6"]
+    },
+    {
+      "fact": "Tom Allen thought it more than likely that he would give some exhibitions in England.",
+      "date": "1882-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["271.c5"]
+    },
+    {
+      "fact": "At his benefit at the Garden in New York, Tom Allen wound up with George Rooke, who knocked him down twice wearing gloves as big as pillows.",
+      "date": "1883-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["103.c5"]
+    },
+    {
+      "fact": "Tom Allen seconded Fred Bussey in his fight against Tom Kelly in St. Louis, which Kelly won in twenty-seven rounds.",
+      "date": "1892-09",
+      "seed": "033",
+      "conflict": "",
+      "claims": ["148.c33"]
+    },
+    {
+      "fact": "Henry Slade frequently sparred with the gloves on against Jem Mace, King and Tom Allen.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["507.c1"]
+    },
+    {
+      "fact": "Tom Allen sparred Rocky Moore, the first man he sparred with in America, and made a child of him with the gloves; the sparring was stopped when the crowd came on the stage to mob him.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["517.c10", "517.c11"]
+    },
+    {
+      "fact": "Ned Donnelly was Tom Allen's opponent in many mimic sparring encounters.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["543.c2"]
+    },
+    {
+      "fact": "Ben Hogan appeared in a sparring exhibition with Tom Allen and was given the popular verdict.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["236.c1"]
+    },
+    {
+      "fact": "Richard K. Fox arranged an exhibition between Tom Allen and Joe Goss, which took place at Madison Square Garden in New York City.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["247.c5"]
+    },
+    {
+      "fact": "Tom Allen and Jem Mace had a set-to with gloves at a performance at the Theatre Comique in St. Louis, the same night John Bonnet and Leon Schuler fenced.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["668.c1"]
+    },
+    {
+      "fact": "Tom Allen had a memorable set-to with Tom Kelly at the old Theatre Comique some years before 1882.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["674.c1"]
+    },
+    {
+      "fact": "Tom Allen's first exhibition in Birmingham, his home town, in 1877 drew the largest crowd for such an affair in many years.",
+      "date": "1877",
+      "seed": "",
+      "conflict": "",
+      "claims": ["677.c11"],
+      "join": "exhibition-1873-1877#26"
+    },
+    {
+      "fact": "Tom Ryan, the late sporting printer, sparred with Tom Allen, as Macon recalls.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["810.c1"]
+    },
+    {
+      "fact": "Mr. Scholes, former heavyweight champion of Canada, donned the gloves with Tom Allen and other celebrities.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["992.c1"]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+ "bucket": "places-undated",
+ "facts": [
+  {
+   "fact": "Tom Allen came from England to America in July 1867; his first residence in America was Cleveland, Ohio, where he kept a saloon.",
+   "date": "1867-07",
+   "seed": "006",
+   "conflict": "",
+   "claims": [
+    "213.c6",
+    "591.c1",
+    "643.c1",
+    "352.c3"
+   ],
+   "join": "places-1860-1869#1"
+  },
+  {
+   "fact": "Tom Allen settled in St. Louis around 1868.",
+   "date": "1868",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "001.c3"
+   ],
+   "join": "places-1860-1869#2"
+  },
+  {
+   "fact": "Tom Allen and Charlie Gallagher were both of Cleveland, Ohio in early 1869.",
+   "date": "1869-01",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "006.c1",
+    "007.c4"
+   ],
+   "join": "places-1860-1869#4"
+  },
+  {
+   "fact": "Tom Allen's arrival in St. Louis was announced a few days before 11 January 1869, and he went out on the Gravois road, some nine miles from the city, to train under Tom Kelly.",
+   "date": "1869-01",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "301.c1"
+   ],
+   "join": "places-1860-1869#5"
+  },
+  {
+   "fact": "After the Goss fight and his bonds, Tom Allen got away through Canada and left for England in 1876.",
+   "date": "1876",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "110.c3",
+    "245.c13",
+    "659.c3",
+    "659.c4"
+   ],
+   "join": "places-1876-1880#2"
+  },
+  {
+   "fact": "Tom Allen returned to England in May 1877, planning only a brief stay.",
+   "date": "1877-05-06",
+   "seed": "015",
+   "conflict": "",
+   "claims": [
+    "114.c9"
+   ],
+   "join": "places-1876-1880#16"
+  },
+  {
+   "fact": "Tom Allen returned to America from England in 1882 after about six years there, arriving in Boston in October, where he stayed as the guest of Patsy Sheppard at his sporting resort on Hayward Place with his backer; he and his backer were to leave Boston for New York the next day.",
+   "date": "1882-10",
+   "seed": "016",
+   "conflict": "",
+   "claims": [
+    "103.c1"
+   ],
+   "join": "places-1882-1896#2"
+  },
+  {
+   "fact": "Tom Allen returned to America from England in 1882 after about six years there, arriving in Boston in October, where he stayed as the guest of Patsy Sheppard at his sporting resort on Hayward Place with his backer; he and his backer were to leave Boston for New York the next day.",
+   "date": "1882-10",
+   "seed": "016",
+   "conflict": "stay in Boston about another week (269.c2, 271.c4, medium) vs leave for New York the next day (joined fact)",
+   "claims": [
+    "269.c2",
+    "271.c4"
+   ],
+   "join": "places-1882-1896#2"
+  },
+  {
+   "fact": "W. E. Harding was to go to Chicago with Tom Allen on Saturday to arrange the match with Elliott, and Allen arrived in Chicago on December 13, 1882, having stopped at Pittsburgh on the way.",
+   "date": "1882-12-09",
+   "seed": "",
+   "conflict": "purpose: to see the Sullivan-Elliott glove contest (099.c4) vs to arrange the match with Elliott (joined fact)",
+   "claims": [
+    "099.c4"
+   ],
+   "join": "places-1882-1896#3"
+  },
+  {
+   "fact": "Tom Allen returned to St. Louis on December 29, 1882, after about six years away, and planned to live there permanently.",
+   "date": "1882-12-29",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "148.c35",
+    "110.c4",
+    "210.c5",
+    "686.c3"
+   ],
+   "join": "places-1882-1896#5"
+  },
+  {
+   "fact": "Tom Allen went to New Orleans from St. Louis with a party of sporting men for the Sullivan-Kilrain fight, stayed at the St. Charles Hotel, and was seen taking a lemonade in its rotunda on July 7, 1889; a retrospective account says he went with the St. Louis crowd to the fight at Richburg, Mississippi, in July 1889.",
+   "date": "1889-07-07",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "136.c1"
+   ],
+   "join": "places-1882-1896#11"
+  },
+  {
+   "fact": "Tom Allen left St. Louis for New Orleans for the Sullivan-Corbett fight with his old backer Fred Watkins and friends, and arrived there on Sunday, September 4, 1892 with a large St. Louis delegation.",
+   "date": "1892-09-03",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "952.c1"
+   ],
+   "join": "places-1882-1896#17"
+  },
+  {
+   "fact": "Tom Allen planned to go to Jacksonville, Florida, to help prepare Charley Mitchell for his fight with Corbett, and was at Mitchell's training quarters on Anastasia Island near St. Augustine in January 1894.",
+   "date": "1893-12-24",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "952.c2"
+   ],
+   "join": "places-1882-1896#19"
+  },
+  {
+   "fact": "Tom Allen went to New York to see the Peter Maher and Joe Choynski fight and then returned home.",
+   "date": "1896-11",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "945.c1"
+   ],
+   "join": "places-1882-1896#24"
+  },
+  {
+   "fact": "Tom Allen was described as being of St. Louis.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "156.c6",
+    "225.c2",
+    "226.c2",
+    "227.c2"
+   ]
+  },
+  {
+   "fact": "Tom Allen had lived in St. Louis for many years and made it his home.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "090.c1",
+    "093.c3",
+    "228.c4",
+    "266.c22",
+    "202.c14",
+    "488.c9",
+    "641.c1",
+    "645.c4"
+   ]
+  },
+  {
+   "fact": "Tom Allen was formerly of St. Louis.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "607.c1"
+   ]
+  },
+  {
+   "fact": "Tom Allen's home town was Birmingham, England.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "599.c1"
+   ]
+  },
+  {
+   "fact": "Tom Allen declared he never had any idea of returning to England.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "068.c5"
+   ]
+  },
+  {
+   "fact": "Tom Allen said he had lived in St. Louis for seven years and intended to keep living there.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "069.c10"
+   ]
+  },
+  {
+   "fact": "Tom Allen had a home in St. Louis, which he left some months before the Goss fight to go into training.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "087.c1"
+   ]
+  },
+  {
+   "fact": "The Adelphi manager said Tom Allen had sent his wife out of St. Louis and turned his property into cash so he could leave at any time.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "284.c6"
+   ]
+  },
+  {
+   "fact": "Tom Allen took up quarters at the Mount Olive House while preparing for the McCoole fight.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "480.c4"
+   ]
+  },
+  {
+   "fact": "Tom Allen brought Theobald Bauer from Boston to St. Louis on word that Andre Christol would wrestle him there.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "534.c3"
+   ]
+  },
+  {
+   "fact": "Tom Allen said he had been in America for several years and was no longer a foreigner.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "429.c2"
+   ]
+  },
+  {
+   "fact": "C. W. Price, an Englishman, came to America with Tom Allen.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "116.c2"
+   ]
+  },
+  {
+   "fact": "Tom Allen went to England and let his bond be forfeited.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "109.c5"
+   ]
+  },
+  {
+   "fact": "Tom Allen ran away to Birmingham, England, to escape going to the penitentiary.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "725.c3"
+   ]
+  },
+  {
+   "fact": "Tom Allen went west after a match fell through.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "103.c6"
+   ]
+  },
+  {
+   "fact": "Tom Allen and Bill Ryall came to St. Louis with a letter from Frank Queen introducing them to Jack Looney and Billy Carroll.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "659.c2"
+   ]
+  },
+  {
+   "fact": "Tom Allen had left New York, according to a telegram from Richard K. Fox.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "676.c2"
+   ]
+  },
+  {
+   "fact": "Tom Allen announced that he contemplated returning to America in a few months.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "634.c1"
+   ]
+  },
+  {
+   "fact": "Tom Allen had left the United States by the time Johnny Dwyer began seeking the championship, and Dwyer had not fought him while he was in the country.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "612.c1"
+   ]
+  },
+  {
+   "fact": "Tom Allen spent about a year in England on the race tracks, then returned to America.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "180.c27"
+   ]
+  },
+  {
+   "fact": "Tom Allen said he had witnessed all of Fitzsimmons' fights in New Orleans.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "952.c3"
+   ]
+  },
+  {
+   "fact": "Tom Allen is named among English fighters who visited America and were treated squarely.",
+   "date": "",
+   "seed": "",
+   "conflict": "",
+   "claims": [
+    "731.c1"
+   ]
+  }
+ ]
+}

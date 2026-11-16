@@ -1,0 +1,75 @@
+{
+  "id": "182",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was under arrest at the Four Courts, St. Louis, charged with murder.",
+      "excerpt": "is under arrest at the four courts, charged with murder.",
+      "date": "1899-02-27",
+      "date_precision": "day",
+      "people": [],
+      "places": [
+        "Four Courts, St. Louis"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen shot Tom Coupry in the course of a fracas in his saloon in St. Louis.",
+      "excerpt": "Tom Coupry, whom Allen shot in the course of a fracas",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": [
+        "Tom Coupry"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Coupry died at the city hospital shortly before midnight on the night of the shooting.",
+      "excerpt": "died at the\ncity hospital shortly before mid-\nnight last night.",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": [
+        "Tom Coupry"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen said he thought Coupry was going to shoot him, and for that reason used his revolver.",
+      "excerpt": "Couprv was going to shoot him and for that reason used his re-volver",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": [
+        "Tom Coupry"
+      ],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was an old-time prize fighter who was at one time heavy-weight champion of the world.",
+      "excerpt": "at one [time heavy-weight championship of the world",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Printed as Tom Coupry; other papers print Timothy Confoy. The hints' 'Timothy Confoy' is not in this text. Short wire report, OCR errors in the excerpts copied as printed."
+}

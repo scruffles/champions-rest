@@ -1,0 +1,89 @@
+{
+  "id": "082",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A fight between Tom Allen and Joe Goss, the English champion, was pending in May 1876.",
+      "excerpt": "in reference to the pending mill between Joe. Goss, the English champion, and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Joe Goss fought a draw about nine years before 1876, when Allen was comparatively young.",
+      "excerpt": "nine years ago when Allen and Goss fought",
+      "date": "1867",
+      "date_precision": "approx",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Billy Edwards said that Tom Allen would beat Joe Goss without trouble in a fair fight.",
+      "excerpt": "Allen will whip Goss without trouble.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Billy Edwards", "Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Jem Mace said that Joe Goss would win the fight barring all accidents.",
+      "excerpt": "Goss will win the fight barring ali accidents.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace", "Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Arthur Chambers and Billy Edwards thought that, if the fight came off, Goss might put it off for at least four months.",
+      "excerpt": "it will be staved off by Goss for four months at least.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Arthur Chambers", "Billy Edwards", "Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "St. Louis sporting men had the utmost confidence in Tom Allen, the home champion.",
+      "excerpt": "sporting menof St. Louis have the ut-\nmost confidence in the home champion.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1867",
+      "date_precision": "approx",
+      "place": "",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "nine years ago when Allen and Goss fought",
+      "reported_as": "recollection",
+      "notes": "Mentioned in passing by Billy Edwards; the year is worked out from 'nine years' before 1876."
+    }
+  ],
+  "notes": "Opinions from Jem Mace, Arthur Chambers and Billy Edwards on the pending Allen-Goss match; no date or stakes for the 1876 match are given."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "101",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen arrived in Chicago on December 13, 1882, having stopped at Pittsburgh on the way.",
+      "excerpt": "Allen arrived here, having stopped at Pigts-",
+      "date": "1882-12-13",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Chicago", "Pittsburgh"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A match between Tom Allen and Jim Elliott was to be arranged on Friday, December 15, 1882, in Chicago.",
+      "excerpt": "Jim Elliott will be arranged Friday.",
+      "date": "1882-12-15",
+      "date_precision": "day",
+      "people": ["Jim Elliott"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": ""
+}

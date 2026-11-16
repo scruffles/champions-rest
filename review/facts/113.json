@@ -1,0 +1,47 @@
+{
+  "id": "113",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Frank Rush was shot in front of Allen's saloon at 621 Market Street at about 1 a.m. on 22 December 1884 by an unknown man who escaped.",
+      "excerpt": "shot in front of Tom Allen’s saloon at 621 Market street by an unknown man",
+      "date": "1884-12-22",
+      "date_precision": "day",
+      "people": ["Frank Rush"],
+      "places": ["621 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Free and easy concerts were given at Allen's saloon.",
+      "excerpt": "Free and easy concerts are given — at Allen's place.",
+      "date": "1884-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["621 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Frank Rush, a coal miner, lodged over Allen's saloon and was one of its regular attaches.",
+      "excerpt": "Among those attaches of the place 1s Frank Rush, a coal miner, who lodges over the saloon",
+      "date": "1884-12",
+      "date_precision": "approx",
+      "people": ["Frank Rush"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "He was so drunk he couldn't light his cigar and Rush hit him a tip.",
+      "topic": "his account of the stranger in the shooting"
+    }
+  ],
+  "fights": [],
+  "notes": "Shooting account; Allen's version is the quote. The shooter and Rush's own statement are not Allen's and are left out."
+}

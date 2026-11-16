@@ -1,0 +1,30 @@
+{
+  "id": "515",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen announced he would take the chair at his free and easy at 417 Washington avenue on Saturday night and sing his favorite songs.",
+      "excerpt": "takes the chair at his free an@ easy,No- 417 Wash-\nington avenue, on Saturday night, and will sing",
+      "date": "1875-03-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["417 Washington Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Silver goblets are displayed at the bar of Tom Allen's saloon at 417 Washington avenue.",
+      "excerpt": "The splendid silver goblets\nean be seén at the bar.",
+      "date": "1875-03-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["417 Washington Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Notice dated Saturday 1875-03-20; 'Saturday night' taken as 1875-03-27 (next Saturday). Headline 'The Champion Returned Home' too short to quote, so no travel claim."
+}

@@ -1,0 +1,78 @@
+{
+  "id": "452",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole agreed to a prize fight on September 23, 1873.",
+      "excerpt": "take place on the 23d of September",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Tom Allen", "Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen handed four $100 bills to stakeholder Jno. R. Scott at Tom Kelly's saloon as the second deposit of $400 a side for the Allen and McCoole fight; McCoole's representative William Brown handed over a similar amount.",
+      "excerpt": "Crowds of the fancy were in attendance and thronged the",
+      "date": "1873-06-10",
+      "date_precision": "day",
+      "people": ["Tom Allen", "Mike McCoole", "Tom Kelly", "Jno. R. Scott", "William Brown"],
+      "places": ["Tom Kelly's saloon, Sixth street near Market"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Three more $500 deposits were due in July, August and September 1873 for the Allen and McCoole fight.",
+      "excerpt": "Three more deposits will be made. of $500 each,",
+      "date": "1873-07",
+      "date_precision": "month",
+      "people": ["Tom Allen", "Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "On June 10, 1873, Tom Allen weighed about 200 pounds and was in good health.",
+      "excerpt": "At present he weighs about 200 pounds, and is in goo! health.",
+      "date": "1873-06-10",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen stayed at home taking longer walks to reduce to 170 pounds fighting weight, and would not go into training quarters for nearly two months.",
+      "excerpt": "He will not go into traming quarters for nearly two months",
+      "date": "1873-06",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$400 a side second deposit; three more $500 deposits due",
+      "rules": "",
+      "excerpt": "take place on the 23d of September",
+      "reported_as": "report",
+      "notes": "Scheduled, not yet fought. The place is not given. Articles of agreement were set for that evening."
+    }
+  ],
+  "notes": "Fight is planned, not yet fought, so result is unknown. Deposit amounts read from OCR ('#400 aside'). Hint 3 says 'health' and 'training at home'; the claim is kept with the excerpt as printed."
+}

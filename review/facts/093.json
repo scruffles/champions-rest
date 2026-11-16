@@ -1,0 +1,164 @@
+{
+  "id": "093",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was described as an Englishman.",
+      "excerpt": "shaking the brawny hand of the pincky Englishman",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "In 1869 Tom Allen said he had declared his intention to become a United States citizen two years earlier.",
+      "excerpt": "intention to become a citizen of the United",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Foster's Island"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen made his headquarters in St. Louis for many years.",
+      "excerpt": "Hiere Toin Allen made his leadguariers for many years",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was looked upon as the rightful claimant to the title of champion between about 1859 and 1873 (the article prints the first year as 1559).",
+      "excerpt": "was looked upon asthe riglt{ul claimant to the title of champion",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's popular establishment on Washington Avenue in St. Louis was a favorite resort of fighting men.",
+      "excerpt": "His popular cstablishment on Washington evenue was a favorite resort of these knights of the fancy",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "In 1878 Tom Allen was in England, according to a report in the Post-Dispatch.",
+      "excerpt": "foun A.ienis nowin Enciand, and parties well",
+      "date": "1878-08",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["England"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "travel",
+      "statement": "In 1878 well-informed parties said Tom Allen intended to return to St. Louis.",
+      "excerpt": "fntormend vow that Tom intends returniug to St. Louis ere",
+      "date": "1878-08",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "In May 1869 Tom Allen and Mike McCoole signed articles for a London prize ring fight for $1,000 a side, to be fought on 15 June 1869.",
+      "excerpt": "and signed by Tom Allen and Mike McCoole, whereby these two giants were to enter the",
+      "date": "1869-05",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Mike McCoole on 15 June 1869 at Foster's Island; referee Val McKinney gave the decision to McCoole for a foul by Allen in the last round.",
+      "excerpt": "in favor of McCoole, a foul being commi3ted by",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole", "Val McKinney"],
+      "places": ["Foster's Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole fought a rematch on 10 November 1869, lasting 17 rounds.",
+      "excerpt": "It took place on the tenth day of November of the same year and lasted just seventeen rounds.",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in the rematch, cutting him up so that McCoole's sponge was thrown up.",
+      "excerpt": "In thay fight Allen eut ap his adversary terribly, causing the sponge to be thrown up in his behalf",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Ieame here to-day to fight this gentiemen, and all I ask of you is to give me a fair show. I ask no favors.",
+      "topic": "speech to the crowd before the McCoole fight"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "Foster's Island, below St. Louis",
+      "result": "loss",
+      "rounds": "17",
+      "duration": "",
+      "stakes": "$1,000 a side",
+      "rules": "London Prize Ring",
+      "excerpt": "Seventeen rounds were fought, and at the end McCoole was terribly used up",
+      "reported_as": "recollection",
+      "notes": "Decision by referee Val McKinney for McCoole on a claimed foul (gouging) by Allen; the article prints the decision and describes threats from McCoole's armed friends."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "place": "Chouteau Island",
+      "result": "win",
+      "rounds": "17",
+      "duration": "",
+      "stakes": "$2,500 a side and the championship of America",
+      "rules": "",
+      "excerpt": "It took place on the tenth day of November of the same year and lasted just seventeen rounds.",
+      "reported_as": "recollection",
+      "notes": "Date taken as 1869 from 'the same year'. The 1878-12-28 article (094) says the 10 November 1869 match fell through and that the fight was in fall 1870."
+    }
+  ],
+  "notes": "Retrospective account of 1869 fights. Hint 1878-08 said 'from England' is supported only as 'now in England' (garbled). The Hogan-Allen and Jim and Doc's items are not about Allen's own actions here."
+}

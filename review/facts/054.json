@@ -1,0 +1,19 @@
+{
+  "id": "054",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's Free and Easy, at 417 Washington avenue, was advertised as a place of amusement with songs every night, and the champion would keep order.",
+      "excerpt": "417 Washingion avenue, is the best and cool-",
+      "date": "1874-10-03",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["417 Washington avenue"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. The text does not name the city."
+}

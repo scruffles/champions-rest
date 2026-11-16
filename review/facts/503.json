@@ -1,0 +1,100 @@
+{
+  "id": "503",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Dr. C. E. Tennent alleged that Ben Hogan never meant to fight Tom Allen, and that it was arranged on the train that the ropes be cut and the fight made a draw.",
+      "excerpt": "thatit was arrange: on heard the cars that the ropes sheuld be cut",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["C. E. Tennent", "Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen denied fouling Ben Hogan, after Dr. C. E. Tennent had certified that Hogan was struck below the belt.",
+      "excerpt": "Me bit Hogan foul, indeed! Why I made up my mind not to hit thit",
+      "date": "1873-12-09",
+      "date_precision": "day",
+      "people": ["C. E. Tennent", "Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he sent word to Dr. Tennent that if Tennent told the truth about the fight, Allen would see that he lost nothing.",
+      "excerpt": "I sent to him to tell him that if/he told the truth abcut the fight",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["C. E. Tennent"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen said his Police Court cases over the chase after Hogan had been dismissed on evidence that morning.",
+      "excerpt": "our cases in the Police Court were all dismissed on evidence",
+      "date": "1873-12-09",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "A Democrat reporter found Tom Allen in the back room of Allen's Saloon while asking for sporting news.",
+      "excerpt": "finding Tom in the back room, inquired if",
+      "date": "1873-12-09",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Allen's Saloon, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Dr. C. E. Tennent came out to see Tom Allen while Allen was working near Omaha, before the Hogan fight.",
+      "excerpt": "came out to see me when [ was near Ooraha at work",
+      "date": "1873-11",
+      "date_precision": "approx",
+      "people": ["C. E. Tennent"],
+      "places": ["Omaha, Nebraska"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I sent to him to tell him that if he told the truth about the fight, I would see that he didn’t lose anything.",
+      "topic": "Dr. Tennent's change of story"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "Me bit Hogan foul, indeed! Why I made up my mind not to hit thit plaster if they put it around his neck.",
+      "topic": "denies fouling Hogan"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "thatit was arrange: on heard the cars that the ropes sheuld be cut",
+      "reported_as": "report",
+      "notes": "Tennent's allegation that the fight was arranged to be a draw. No result given; not confirmed."
+    }
+  ],
+  "notes": "Tennent's card, and Allen's interview at his saloon, printed 1873-12-10."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "306",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Charlie Gallagher had the articles of agreement read and a final $300 a side deposit made with stakeholder William Murray.",
+      "excerpt": "and to witness the fina! deposit of $300 a side made into the hands of the stake-holder",
+      "date": "1869-02-16",
+      "date_precision": "day",
+      "people": ["Charlie Gallagher", "William Murray"],
+      "places": ["Mike McCoole's new house, opposite the Court-House"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The Allen-Gallagher fight was set for 23 February 1869.",
+      "excerpt": "approaching prize fight between Tom Allen and Charlie Gallagher, both of Cleveland, to come off on the 23d of this month",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Charlie Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen and Charlie Gallagher were both of Cleveland.",
+      "excerpt": "approaching prize fight between Tom Allen and Charlie Gallagher, both of Cleveland, to come off on the 23d of this month",
+      "date": "1869-02",
+      "date_precision": "month",
+      "people": ["Charlie Gallagher"],
+      "places": ["Cleveland"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Fight of 23 Feb 1869 is recorded from its report in 307. Mike McCoole and others are named as spectators and backers only."
+}

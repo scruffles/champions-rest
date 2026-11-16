@@ -1,0 +1,65 @@
+{
+  "id": "567",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had fought Davis earlier, and a gentleman who backed Allen in that fight was interviewed in Belleville.",
+      "excerpt": "backed Tom Allen in his fight with Davis",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Davis"],
+      "places": ["Belleville"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "A coming fight between Joe Goss and Tom Allen, the champion, was expected.",
+      "excerpt": "the coming mill between Goes and the Champion:",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Unnamed backer of Tom Allen",
+      "text": "In order to lick Goss Tom must blind him.",
+      "topic": "how Goss must be beaten"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Davis",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "backed Tom Allen in his fight with Davis",
+      "reported_as": "recollection",
+      "notes": "Only the surname Davis is given. Result not stated."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the coming mill between Goes and the Champion:",
+      "reported_as": "report",
+      "notes": "Upcoming fight; no date or result in this article. Goss printed as Goes."
+    }
+  ],
+  "notes": "Backer is unnamed. Quote is the backer's opinion of Allen."
+}

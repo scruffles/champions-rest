@@ -1,0 +1,190 @@
+{
+ "bucket": "challenge-1875",
+ "kind": "challenge",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "059.c1",
+   "date": "1875",
+   "published": "1875-11-20",
+   "statement": "After the failed Rooke match, Tom Allen issued a challenge to fight any man in the country for $2,500 to $5,000 a side and the championship of the world."
+  },
+  {
+   "cid": "580.c2",
+   "date": "1875",
+   "published": "1876-09-15",
+   "retro": true,
+   "conf": "low",
+   "statement": "Ben Hogan says he challenged Tom Allen in the summer of 1875 (printed as 'mer of 1875')."
+  },
+  {
+   "cid": "521.c1",
+   "date": "1875-01",
+   "published": "1875-06-20",
+   "statement": "In January 1875 George Rooke of Newark, N.J., challenged Tom Allen to fight him for the championship of America for $2,500 a side."
+  },
+  {
+   "cid": "289.c2",
+   "date": "1875-02",
+   "published": "1875-02-21",
+   "conf": "medium",
+   "statement": "George Rooke, signing himself 'Champion of the United States', issued a challenge to heavyweight fighters, and to Tom Allen in particular."
+  },
+  {
+   "cid": "521.c2",
+   "date": "1875-02",
+   "published": "1875-06-20",
+   "statement": "Tom Allen authorized his friend Arthur Chambers to accept George Rooke's challenge."
+  },
+  {
+   "cid": "264.c1",
+   "date": "1875-02-16",
+   "published": "1875-05-10",
+   "statement": "Tom Allen and Rooke met at Harry Hill's in New York on 16 February 1875 to discuss the stakes."
+  },
+  {
+   "cid": "289.c1",
+   "date": "1875-02-17",
+   "published": "1875-02-21",
+   "conf": "medium",
+   "statement": "According to the New York Sun, Arthur Chambers named Tom Allen as his 'unknown' for a $2,500-a-side match with George Rooke."
+  },
+  {
+   "cid": "514.c3",
+   "date": "1875-03",
+   "published": "1875-03-17",
+   "conf": "medium",
+   "statement": "A deposit of $500 a side, one-sixth of the agreed stake, was held by Harry Hill for Allen's match with George Rooke."
+  },
+  {
+   "cid": "519.c1",
+   "date": "1875-04",
+   "published": "1875-04-07",
+   "statement": "Ben Hogan of Petrolia, then giving sparring exhibitions in New York, challenged Tom Allen to fight him for $2,500 a side."
+  },
+  {
+   "cid": "519.c2",
+   "date": "1875-04-02",
+   "published": "1875-04-07",
+   "statement": "Tom Allen accepted Ben Hogan's challenge in a letter from St. Louis to Sam French, saying he would fight Hogan in the same ring on the same day as George Rooke."
+  },
+  {
+   "cid": "519.c3",
+   "date": "1875-04-02",
+   "published": "1875-04-07",
+   "statement": "Tom Allen told a Democrat reporter at the Champion's Rest that he had received no challenge from Ben Hogan, which the paper called a falsehood."
+  },
+  {
+   "cid": "519.c4",
+   "date": "1875-04-02",
+   "published": "1875-04-07",
+   "statement": "Tom Allen told the reporter that any match between himself and Ben Hogan was impossible."
+  },
+  {
+   "cid": "519.c6",
+   "date": "1875-04-06",
+   "published": "1875-04-07",
+   "statement": "Tom Allen sent a $250 deposit to Sam French by Adams Express, received on April 6, 1875, to bind the match."
+  },
+  {
+   "cid": "519.c7",
+   "date": "1875-04-06",
+   "published": "1875-04-07",
+   "conf": "low",
+   "statement": "A club of about sixty sporting men friendly to Allen put up another $250, making $500 for a match with Hogan for an amount printed as $5. OD to $20,000."
+  },
+  {
+   "cid": "522.c1",
+   "date": "1875-06",
+   "published": "1875-06-28",
+   "statement": "Arthur Chambers, acting for Allen, sent articles to Harry Hill's for George Rooke to sign for a fight within fifty miles of Detroit at $1,000 a side."
+  },
+  {
+   "cid": "522.c2",
+   "date": "1875-06",
+   "published": "1875-06-28",
+   "statement": "Allen had sent a telegram to Philadelphia a few days earlier, which was forwarded to Arthur Chambers, and the articles were the response."
+  },
+  {
+   "cid": "525.c1",
+   "date": "1875-06",
+   "published": "1875-09-30",
+   "conf": "medium",
+   "statement": "In late June 1875 there was talk of a match between Tom Allen and Ned O'Baldwin, and for three months efforts to arrange a meeting were made."
+  },
+  {
+   "cid": "256.c5",
+   "date": "1875-06-16",
+   "published": "1875-06-17",
+   "conf": "medium",
+   "statement": "Rooke's backer Muldoon, through Billy Edwards, offered to match Rooke against Allen for $1,000 within ten days, 50 miles from Pittsburg, with Harry Hill as stakeholder."
+  },
+  {
+   "cid": "058.c5",
+   "date": "1875-06-22",
+   "published": "1875-06-22",
+   "conf": "medium",
+   "statement": "Rooke challenged Tom Allen to fight without stakes and offered to bet $1,000 that he would whip him."
+  },
+  {
+   "cid": "522.c4",
+   "date": "1875-06-27",
+   "published": "1875-06-28",
+   "conf": "medium",
+   "statement": "Teddy Neary, brother of Fiddler Neary, was also eager to fight Rooke and would be matched against him if Allen's challenge came to nothing."
+  },
+  {
+   "cid": "523.c2",
+   "date": "1875-07",
+   "published": "1875-07-19",
+   "conf": "medium",
+   "statement": "New York rivals spread a report that Tom Allen had challenged Jem Mace and that Mace had accepted; the paper says this was a scheme and not true."
+  },
+  {
+   "cid": "059.c2",
+   "date": "1875-10-27",
+   "published": "1875-11-20",
+   "conf": "low",
+   "statement": "Jem Mace, in a letter dated London, October 27, challenged Allen to fight within fifty miles of Detroit or Pittsburgh for £200 or £1,000 a side (printed as '£1,009'), and asked Allen to deposit $250 with Frank Queen."
+  },
+  {
+   "cid": "059.c5",
+   "date": "1875-11",
+   "published": "1875-11-20",
+   "statement": "Tom Allen telegraphed Mace that he was ready to meet him on Mace's terms, $5,000 a side, and would cover any amount Mace put up."
+  },
+  {
+   "cid": "059.c6",
+   "date": "1875-11-20",
+   "published": "1875-11-20",
+   "statement": "Tom Allen said there was no truth in the report that he had put up a forfeit for a fight with Jem Mace."
+  },
+  {
+   "cid": "530.c1",
+   "date": "1875-12-25",
+   "published": "1875-12-26",
+   "statement": "Tom Allen said he had done nothing to bring Jem Mace forward with a challenge and had not heard from Mace in any official manner."
+  },
+  {
+   "cid": "530.c3",
+   "date": "1875-12-25",
+   "published": "1875-12-26",
+   "conf": "medium",
+   "statement": "Allen said he would not fight Mace in the East."
+  },
+  {
+   "cid": "530.c4",
+   "date": "1875-12-25",
+   "published": "1875-12-26",
+   "conf": "medium",
+   "statement": "Allen said he was by no means loth to meet Mace in a twenty-four foot ring."
+  },
+  {
+   "cid": "530.c5",
+   "date": "1875-12-25",
+   "published": "1875-12-26",
+   "conf": "low",
+   "statement": "Allen was willing to back himself for a sum (unreadable in the OCR) if Mace would fight in the Indian Territory or another Western or Southwestern region."
+  }
+ ]
+}

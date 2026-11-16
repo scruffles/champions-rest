@@ -1,0 +1,45 @@
+{
+  "id": "449",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen gave the giant McCoole a magnificent drubbing in one of several fights near St. Louis that Johnny Franklin was responsible for.",
+      "excerpt": "magnificent drubbing of the giant MecCoole at the hands of the game man, Tom Allen.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["McCoole", "Johnny Franklin"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Johnny Franklin brought Tom Allen and Coburn together at New Orleans for a match.",
+      "excerpt": "he brought Allen and Coburn together at New Orleans.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Johnny Franklin", "Coburn"],
+      "places": ["New Orleans"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "near St. Louis",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "magnificent drubbing of the giant MecCoole at the hands of the game man, Tom Allen.",
+      "reported_as": "recollection",
+      "notes": "Date not given. Franklin arranged several fights near St. Louis; this one is named only as a win by Allen."
+    }
+  ],
+  "notes": "Life story of Johnny Franklin, so all Allen claims are retrospective. Hint 2 said 1872, but the text gives no date for the New Orleans match and calls Coburn only by surname. Hint 1 is kept as a fight with the opponent as printed (McCoole, no first name in the text)."
+}

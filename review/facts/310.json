@@ -1,0 +1,38 @@
+{
+  "id": "310",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had recently fought Charlie Gallagher, who was called the champion of that fight.",
+      "excerpt": "Galagher, the champion of the late fight with Tom\nAllm",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [
+        "Charlie Gallagher"
+      ],
+      "places": [
+        "St. Louis"
+      ],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charlie Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Galagher, the champion of the late fight with Tom\nAllm",
+      "reported_as": "report",
+      "notes": "Result inferred from Gallagher being called the champion of the fight; OCR prints names as Galagher and Allm."
+    }
+  ],
+  "notes": "Benefit sparring exhibition for Gallagher at Carroll's Hall; Allen appears only as Gallagher's opponent in the late fight."
+}

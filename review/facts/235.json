@@ -1,0 +1,330 @@
+{
+  "id": "235",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Bill Davis in 43 rounds on Chouteau Island, St. Louis, on January 12, 1869.",
+      "excerpt": "resulted in a forty-three-round victory over Bill Davis, the Californian, on Chouteau Island, St. Louis, January 12, 1869.",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "people": ["Bill Davis"],
+      "places": ["Chouteau Island, St. Louis, Missouri"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "After beating Davis, Tom Allen claimed the championship of America.",
+      "excerpt": "By beating Davis, i have earned the right to claim the championship",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "people": ["Bill Davis"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he would fight any man in the country who disputed his claim, for any purse that the challenger named.",
+      "excerpt": "I'll give him a battle any time he wants it and for any purse that he names",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charlie Gallagher beat Tom Allen on Carroll Island, near St. Louis, on February 23, 1869, after three minutes of fighting.",
+      "excerpt": "Gallagher won + on three minutes of fighting by landing a terrific",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Charlie Gallagher"],
+      "places": ["Carroll Island, near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Charlie Gallagher challenged Tom Allen again a few days after the McCoole fight.",
+      "excerpt": "A few days afterward Gallagher again challenged Allen",
+      "date": "1869-07",
+      "date_precision": "approx",
+      "people": ["Charlie Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole for a $1,000 side bet on Boster's Island, near St. Louis, on July 15, 1869.",
+      "excerpt": "took on Mike McCoole in a battie on Boster's Island, near St. Louis.",
+      "date": "1869-07-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Boster's Island, near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The referee gave the fight to Mike McCoole under threat from McCoole's backers, after Allen had outfought him.",
+      "excerpt": "Confronted with the alternative of death or deciding in favor of a beaten warrior",
+      "date": "1869-07-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Boster's Island, near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charlie Gallagher and Tom Allen fought a rematch on Foster's Island, near St. Louis, on August 17, 1869.",
+      "excerpt": "the contest was fought on Foster's Island August 17, 1869.",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charlie Gallagher"],
+      "places": ["Foster's Island, near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Allen battered Gallagher for eleven rounds, but Gallagher's backers cut the ropes and threatened referee Larry Wessel, who then declared Gallagher the winner.",
+      "excerpt": "Allen battered his rival from one side the other for cleven rounds",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charlie Gallagher", "Larry Wessel"],
+      "places": ["Foster's Island, near St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen issued a boasting challenge that he could whip any man in the world, and Jem Mace accepted it.",
+      "excerpt": "issued by Allen that he could whip any manin the world",
+      "date": "1869",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Jem Mace beat Tom Allen in the tenth round, after forty minutes of fighting, at Kennerville, La., in May 1870, for a side bet of $2,500 and the championship of the world.",
+      "excerpt": "The finish came for Allen in the tenth round—after forty minutes of fighting.",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["Jem Mace"],
+      "places": ["Kennerville, La."],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen challenged Mike McCoole once more, about two years after the Mace fight, and McCoole accepted.",
+      "excerpt": "challenged Mike once more, He accepted and the battle",
+      "date": "1872",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in 29 rounds (printed as 'twentr-nine rOunds') for a $2,000 side bet, at Chouteau Island, near St. Louis, on September 23, 1873.",
+      "excerpt": "Allen beat McCoole almost to a pulp, winning in twentr- nine rOunds",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, near St. Louis"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen defeated Ben Hogan, a celebrated pugilist of that day; the text gives no date.",
+      "excerpt": "After defeating Ben.Hogan, a ccle-\nbated pugilist of that day",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen sought a match with Joe Goss for the championship of America and a $2,000 side bet.",
+      "excerpt": "Allen made overtures for “a match with Joe Goss, for the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Joe Goss in Kentucky after 21 rounds, when the referee awarded the fight to Goss for Allen's foul tactics.",
+      "excerpt": "round, and after twenty-one rounds had been fought, Allen was in such condition",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The fight with Joe Goss ended Tom Allen's boxing career.",
+      "excerpt": "That battle ended the pugilistic career of Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died in St. Louis several years before this 1919 article.",
+      "excerpt": "who died several years ago in St. Louis.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "By beating Davis, i have earned the right to claim the championship of America",
+      "topic": "claim to the American championship after Davis"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I'll give him a battle any time he wants it and for any purse that he names",
+      "topic": "open challenge to all rivals"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Bill Davis",
+      "date": "1869-01-12",
+      "date_precision": "day",
+      "place": "Chouteau Island, St. Louis, Missouri",
+      "result": "win",
+      "rounds": "43",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "resulted in a forty-three-round victory over Bill Davis, the Californian, on Chouteau Island, St. Louis, January 12, 1869.",
+      "reported_as": "recollection",
+      "notes": ""
+    },
+    {
+      "opponent": "Charlie Gallagher",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "place": "Carroll Island, near St. Louis",
+      "result": "loss",
+      "rounds": "",
+      "duration": "three minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Gallagher won + on three minutes of fighting by landing a terrific",
+      "reported_as": "recollection",
+      "notes": ""
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-07-15",
+      "date_precision": "day",
+      "place": "Boster's Island, near St. Louis",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 side bet",
+      "rules": "",
+      "excerpt": "took on Mike McCoole in a battie on Boster's Island, near St. Louis.",
+      "reported_as": "recollection",
+      "notes": "Allen was outfighting McCoole when McCoole's backers rioted; the referee then gave the decision to McCoole."
+    },
+    {
+      "opponent": "Charlie Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "Foster's Island, near St. Louis",
+      "result": "loss",
+      "rounds": "11",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the contest was fought on Foster's Island August 17, 1869.",
+      "reported_as": "recollection",
+      "notes": "Allen had the better of eleven rounds; the referee, threatened by Gallagher's backers, declared Gallagher the winner."
+    },
+    {
+      "opponent": "Jem Mace",
+      "date": "1870-05",
+      "date_precision": "month",
+      "place": "Kennerville, La.",
+      "result": "loss",
+      "rounds": "10",
+      "duration": "40 minutes",
+      "stakes": "$2,500 side bet and the championship of the world",
+      "rules": "",
+      "excerpt": "The finish came for Allen in the tenth round—after forty minutes of fighting.",
+      "reported_as": "recollection",
+      "notes": "Printed as 'May id. 1870'; the day is unreadable. The place is printed 'Rennersville', corrected here to Kennerville."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "Chouteau Island, near St. Louis",
+      "result": "win",
+      "rounds": "29",
+      "duration": "",
+      "stakes": "$2,000 side bet",
+      "rules": "",
+      "excerpt": "Allen beat McCoole almost to a pulp, winning in twentr- nine rOunds",
+      "reported_as": "recollection",
+      "notes": "Round count printed as 'twentr-nine rOunds' (OCR)."
+    },
+    {
+      "opponent": "Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "After defeating Ben.Hogan, a ccle-\nbated pugilist of that day",
+      "reported_as": "recollection",
+      "notes": "Only mentioned in passing; no date, place or details."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Kentucky",
+      "result": "loss",
+      "rounds": "21",
+      "duration": "",
+      "stakes": "championship of America and $2,000",
+      "rules": "",
+      "excerpt": "round, and after twenty-one rounds had been fought, Allen was in such condition",
+      "reported_as": "recollection",
+      "notes": "Allen lost on a foul: the referee cautioned him several times, then awarded the fight to Goss."
+    }
+  ],
+  "notes": "Corbett's 1919 retrospective. Only Allen's bouts and related events are recorded. The Hogan and Goss fights have no dates in the text."
+}

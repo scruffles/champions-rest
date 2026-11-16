@@ -1,0 +1,30 @@
+{
+  "id": "542",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen was a guest, with Prof. Bauer, Andre Christol and Leon Schuler, at a breakfast given by the French caterer Jean Bonnet in St. Louis.",
+      "excerpt": "Signor Andre Christol, Tom Allen and Mr. Leon Schuler, were yesterday the gucsts",
+      "date": "1876-04-10",
+      "date_precision": "day",
+      "people": ["Theobaud Bauer", "Andre Christol", "Leon Schuler", "Jean Bonnet"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Bauer said he would return to St. Louis and make a match with Julius Schroeder once Tom Allen notified him that a suitable deposit had been posted.",
+      "excerpt": "a suitable deposit has been posted he will return to St. Louis and make the match",
+      "date": "1876-04-10",
+      "date_precision": "approx",
+      "people": ["Theobaud Bauer", "Julius Schroeder"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears as a guest and as Bauer's friend and go-between; the Schroeder challenge itself concerns Bauer, not Allen."
+}

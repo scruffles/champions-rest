@@ -1,0 +1,69 @@
+{
+  "id": "065",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen wrote an acceptance of Jem Mace's challenge.",
+      "excerpt": "Tom Allen wrote an acceptance of Jem. Mace’s chulienge some time since",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen sent his acceptance to Bell's Life in London for publication, but the paper did not publish it.",
+      "excerpt": "g@nt it to * Beli’s. Liie” for publication.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["London"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen wrote to London asking for the return of his letter.",
+      "excerpt": "has written to London for the retuin ef his letter",
+      "date": "1876-03",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["London"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen said Jem Mace had no intention of fighting for the championship of the two countries and preferred bluster to business.",
+      "excerpt": "intention of fighting for the championship of the two countries",
+      "date": "1876-03",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen repeated his wish to meet Jem Mace in the prize ring whenever and wherever their friends chose.",
+      "excerpt": "sire to meet Mace in the prize ring",
+      "date": "1876-03",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "in the interest of the Gypsey.",
+      "topic": "why Bell's Life did not publish his card"
+    }
+  ],
+  "fights": [],
+  "notes": "Acceptance letter is not printed. The Bell's Life refusal and Allen's letter to London are from the paper's interview with Allen."
+}

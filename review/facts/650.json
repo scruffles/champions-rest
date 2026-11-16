@@ -1,0 +1,167 @@
+{
+  "id": "650",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Bill Davis at Chouteau Island in January 1869.",
+      "excerpt": "In January, 1869, Tom Allen whipped Bill Davis at Chouteau island",
+      "date": "1869-01",
+      "date_precision": "month",
+      "people": ["Bill Davis"],
+      "places": ["Chouteau Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher knocked Tom Allen out of time on Carroll Island near St. Louis on February 23, 1869.",
+      "excerpt": "Charley Gallagher knocked Allen out of time on Carroll Island near St. Louis",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll Island, near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat James C. Gallagher on November 5, 1870, at a place printed as 'near the same ciry', presumably St. Louis.",
+      "excerpt": "Allen whipped James C. Gallagher nearthbe same ciry",
+      "date": "1870-11-05",
+      "date_precision": "day",
+      "people": ["James C. Gallagher"],
+      "places": ["near St. Louis (OCR unclear)"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole near St. Louis on September 23, 1873, in nine rounds lasting twenty minutes.",
+      "excerpt": "near St. Louis, in nine rounds, lasting twenty minutes",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Joe Goss beat Tom Allen in Kentucky on September 7, 1876, in twenty-one rounds lasting fifty-three minutes.",
+      "excerpt": "On September 7, 1876, Joe Gogs and Allen | had a fight for the te gent in Kentucky.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Joe Goss were arrested after their September 7, 1876 fight in Kentucky.",
+      "excerpt": "Goss won in twenty-one rounds; time, fitty-— three minutes. The principals were arrested.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "After the Goss fight, Tom Allen gave bonds.",
+      "excerpt": "Allen gave bonds and left for Englund, and Goss served out the time for which he was",
+      "date": "1876",
+      "date_precision": "year",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "After giving bonds following the Goss fight, Tom Allen left for England in 1876.",
+      "excerpt": "Allen gave bonds and left for Englund, and Goss served out the time for which he was",
+      "date": "1876",
+      "date_precision": "year",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Bill Davis",
+      "date": "1869-01",
+      "date_precision": "month",
+      "place": "Chouteau Island",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "In January, 1869, Tom Allen whipped Bill Davis at Chouteau island",
+      "reported_as": "record",
+      "notes": ""
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "place": "Carroll Island, near St. Louis",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Charley Gallagher knocked Allen out of time on Carroll Island near St. Louis",
+      "reported_as": "record",
+      "notes": ""
+    },
+    {
+      "opponent": "James C. Gallagher",
+      "date": "1870-11-05",
+      "date_precision": "day",
+      "place": "near St. Louis (OCR unclear)",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen whipped James C. Gallagher nearthbe same ciry",
+      "reported_as": "record",
+      "notes": "Place printed as 'nearthbe same ciry'."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "near St. Louis",
+      "result": "win",
+      "rounds": "nine",
+      "duration": "twenty minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "near St. Louis, in nine rounds, lasting twenty minutes",
+      "reported_as": "record",
+      "notes": ""
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "Kentucky",
+      "result": "loss",
+      "rounds": "twenty-one",
+      "duration": "fifty-three minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "On September 7, 1876, Joe Gogs and Allen | had a fight for the te gent in Kentucky.",
+      "reported_as": "record",
+      "notes": "Stakes garbled in OCR ('te gent'). Both principals were arrested."
+    }
+  ],
+  "notes": "Historical list of American ring battles; Allen appears only in his own bouts. Some OCR damage in names and stakes."
+}

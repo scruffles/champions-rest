@@ -1,0 +1,30 @@
+{
+  "id": "982",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised a free concert every evening at 619 Market street, St. Louis.",
+      "excerpt": "Tom Allen, retired champion pugilist of the world, 619 Market street. Free concert every evening.",
+      "date": "1899-01-21",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was billed in this advertisement as retired champion pugilist of the world.",
+      "excerpt": "Tom Allen, retired champion pugilist of the world",
+      "date": "1899-01-21",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement notice. Cotillion Club report is unrelated; 'Lucas, Allen' in its list is not Tom Allen."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "143",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was still in the Market Street block between Sixth and Seventh streets, St. Louis, which was about to be torn down.",
+      "excerpt": "Tom Allen is in the same place yet, but it will not be long",
+      "date": "1892-07",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Market Street block between Sixth and Seventh streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Mike McCool, Tom Kelley and Tom Allen used to meet in the Market Street block between Sixth and Seventh streets to congregate and arrange their matches.",
+      "excerpt": "and Tom Allen and their following of the fistic fraternity used to congregate",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCool", "Tom Kelley"],
+      "places": ["Market Street block between Sixth and Seventh streets, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The text does not say Allen ran the block's drinking place; the 'saloon' kind is from the hint and the block's use as a haunt. The rest of the page (old buildings, Greek murder case, rail fares) is not about Allen."
+}

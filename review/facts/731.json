@@ -1,0 +1,19 @@
+{
+  "id": "731",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen is named among English fighters who visited America, fought there and were treated squarely.",
+      "excerpt": "Since then Ben Caunt, Bob Caunt, Tom Allen, Joe Goss, George Ryall, Ned O’Baldwin, Jem",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["United States"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only a passing list mention. No specific bout is named for Allen."
+}

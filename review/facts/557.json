@@ -1,0 +1,78 @@
+{
+  "id": "557",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Joe Goss signed articles at the Empire Saloon in Cincinnati to fight under the new London Prize Ring rules for $5,000 ($2,500 a side).",
+      "excerpt": "to meet in a twenty-four-foot ring and fight, under the new rules of the London Prize Ring, for the sum of five thousand doilars",
+      "date": "1876-05-12",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Empire Saloon, Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The Allen and Goss fight was set for September 7, 1876, at a place within one hundred miles of Cincinnati to be chosen by Ephraim Holland.",
+      "excerpt": "September sev-enth Gt), 1876, they will meet ata point, to be selected by",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss", "Ephraim Holland"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Ben De Bar stood by Tom Allen at the signing and put up Allen's money.",
+      "excerpt": "was Ben De Bar, ready to. put up necéssary money",
+      "date": "1876-05-12",
+      "date_precision": "day",
+      "people": ["Ben De Bar"],
+      "places": ["Empire Saloon, Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Joe Goss were bound over before 'Squire Anthony not to break the peace in Ohio for one year.",
+      "excerpt": "and bound themselves not to break the peace in the State of Ohio for one year.",
+      "date": "1876-05-12",
+      "date_precision": "day",
+      "people": ["Joe Goss", "Squire Anthony"],
+      "places": ["Ohio"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Thnt'sago.",
+      "topic": "agreeing to a $2,500 a side stake"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "Well, I never did like to sign articles first, but here ‘oes .",
+      "topic": "signing the articles after Goss"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "within one hundred miles of Cincinnati, to be chosen by Ephraim Holland",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$5,000 total ($2,500 a side)",
+      "rules": "London Prize Ring",
+      "excerpt": "to meet in a twenty-four-foot ring and fight, under the new rules of the London Prize Ring, for the sum of five thousand doilars",
+      "reported_as": "report",
+      "notes": "Articles signed in Cincinnati, May 12, 1876; the fight was not yet held. The 'Thursday' in the hint is not in the text. The date is printed as 'sof September seventh'."
+    }
+  ],
+  "notes": "Articles of agreement reprinted from the Cincinnati Commercial. The hint's 'challenge' is recorded here as an agreed match, so it is a fight."
+}

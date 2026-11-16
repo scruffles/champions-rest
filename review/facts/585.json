@@ -1,0 +1,19 @@
+{
+  "id": "585",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Jem Mace were announced for a boxing match at the Theatre Comique, St. Louis, on October 24 and 25, 1876.",
+      "excerpt": "Tom Alien and Jem Mace are announced fora boxing match this and to-morrow evening.",
+      "date": "1876-10-24",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only mention of Allen is in the theatre listings; the rest of the article is about other shows."
+}

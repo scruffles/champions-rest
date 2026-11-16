@@ -1,0 +1,30 @@
+{
+  "id": "168",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Patrick Sullivan and Charles Dempsey picked a fight with Tom Allen in his saloon on Tuesday night, and were left badly bruised in the Dispensary.",
+      "excerpt": "Tuesday night and picked @\n\nfight with Tom Allen in his s*loon.",
+      "date": "1895-11-19",
+      "date_precision": "day",
+      "people": ["Patrick Sullivan", "Charles Dempsey"],
+      "places": ["Tom Allen's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Judge Peabody fined Patrick Sullivan $200 and Charles Dempsey $50 (printed as 3530) on Thursday morning for disturbing the peace.",
+      "excerpt": "fined Sullivan $200 and Dempsey 3530\nThursday morning on charges of disturbing",
+      "date": "1895-11-21",
+      "date_precision": "day",
+      "people": ["Judge Peabody", "Patrick Sullivan", "Charles Dempsey"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen was the man they attacked; the text does not say he was hurt or charged. Dempsey's fine is garbled in the OCR (3530)."
+}

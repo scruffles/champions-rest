@@ -1,0 +1,56 @@
+{
+  "id": "230",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "After vainly challenging Mace, Tom Allen claimed the British heavyweight title, but Mace kept the belt.",
+      "excerpt": "claimed the British heavy-weight title. But Mace retained the belt.",
+      "date": "1867",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen came to the United States after his claim to the British title.",
+      "excerpt": "Then AlI-\nlen came to the United States.",
+      "date": "1867",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["United States"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole in St. Louis in 1869 for the heavyweight championship of the world; McCoole won on a foul in the ninth round, and Allen refused to concede.",
+      "excerpt": "won in the ninth round on a foul but Allen refused to",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "St. Louis",
+      "result": "loss",
+      "rounds": "9",
+      "duration": "",
+      "stakes": "heavyweight championship of the world",
+      "rules": "",
+      "excerpt": "won in the ninth round on a foul but Allen refused to",
+      "reported_as": "recollection",
+      "notes": "McCoole won on a foul in round 9; Allen did not accept McCoole's claim to the championship."
+    }
+  ],
+  "notes": "Corbett's account in the 1918 series. The 1867 date is inferred from 'a year or later' after 1866."
+}

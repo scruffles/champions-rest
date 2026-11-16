@@ -1,0 +1,30 @@
+{
+  "id": "701",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "John L. Sullivan, with his manager Al Smith and two or three of his company, spent some time in Tom Allen's saloon on Market Street, where a large crowd gathered to look at him.",
+      "excerpt": "Some time was spent in Tom Kelly's and Ton Allen’:",
+      "date": "1883-11-03",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "Al Smith"],
+      "places": ["Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "In Tom Allen's saloon, Sullivan's party retired to a room and drank champagne, while Sullivan himself drank nothing.",
+      "excerpt": "In Tom Allen’s place the party, with 1 highly favored few, retired to a room",
+      "date": "1883-11-03",
+      "date_precision": "day",
+      "people": ["John L. Sullivan"],
+      "places": ["Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen only hosts the visit; he takes no part in the exhibition. Jim Miles's boast names Allen as a man he could hold his own against, but Allen does nothing in it."
+}

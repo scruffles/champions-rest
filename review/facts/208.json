@@ -1,0 +1,69 @@
+{
+  "id": "208",
+  "claims": [
+    {
+      "kind": "death",
+      "statement": "Tom Allen was buried in St. Louis on Wednesday, April 8, 1903.",
+      "excerpt": "who was buried in St. Louis last Wednesday",
+      "date": "1903-04-08",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen's grave lot is in Calvary Cemetery, and friends planned to care for it.",
+      "excerpt": "former champion, and will ee for the care of his lot In Calvary Cemetery.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Calvary Cemetery"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Friends led by R. W. L. Gillespie planned a benefit of boxing bouts and feats of strength, probably at the West End Club, to pay for a monument and the care of Allen's grave.",
+      "excerpt": "The proceeds are to be used to purchase a monument and provide for the care of the mound under",
+      "date": "1903-04",
+      "date_precision": "approx",
+      "people": ["R. W. L. Gillespie"],
+      "places": ["West End Club", "Lemp's Park Hall"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "death",
+      "statement": "Charlie Daly, Chris Lauff, Jack Fletcher, Tom Kelly, T. Neusel, Tom O'Donnell and Gus Ellis were pallbearers at Allen's funeral and agreed to serve on the benefit committee.",
+      "excerpt": "Gus Ellis, who acted as pall bearers at “x len’s funeral, have consented to",
+      "date": "1903-04-08",
+      "date_precision": "day",
+      "people": ["Charlie Daly", "Chris Lauff", "Jack Fletcher", "Tom Kelly", "T. Neusel", "Tom O'Donnell", "Gus Ellis"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "R. W. L. Gillespie said Allen left no estate, as was generally supposed.",
+      "excerpt": "AJlen left no estate as Was gencrally - said Mr. Gilleepfe, Saturday at",
+      "date": "1903-04-11",
+      "date_precision": "day",
+      "people": ["R. W. L. Gillespie"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "R. W. L. Gillespie",
+      "text": "we do not propose to ses his grave ‘neglected, az was poor old — Dempsey's out in Oregon.",
+      "topic": "care of Allen's grave"
+    }
+  ],
+  "fights": [],
+  "notes": "Burial place conflicts with 209 (Bellefontaine Cemetery); Calvary is the text here. The benefit is a plan, not a held event. OCR garbles several pallbearer names."
+}

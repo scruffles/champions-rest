@@ -1,0 +1,56 @@
+{
+  "id": "314",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Patsy Reardon challenged Tom Allen in a city paper to a bout in the twenty-four foot arena.",
+      "excerpt": "Reardon, challenging Tom Allen fora bout in the ‘wenty-four foot arena,",
+      "date": "1869-03-24",
+      "date_precision": "day",
+      "people": ["Patsy Reardon"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen answered Patsy Reardon's challenge with a counter-challenge to Reardon, or any other man, with provisos.",
+      "excerpt": "and lastevening Tom Allen retorted in a challenge to Reardon, with provisos,",
+      "date": "1869-03-24",
+      "date_precision": "day",
+      "people": ["Patsy Reardon"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Patsy Reardon were matched to fight at 150 pounds for $2,000 a side.",
+      "excerpt": "for $2,000 a side, to fight at 150 pounds weight,",
+      "date": "1869-03-24",
+      "date_precision": "day",
+      "people": ["Patsy Reardon"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Patsy Reardon",
+      "date": "1869-03-24",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,000 a side, with a $100 clincher put up",
+      "rules": "",
+      "excerpt": "for $2,000 a side, to fight at 150 pounds weight,",
+      "reported_as": "report",
+      "notes": "Match made, not yet fought in this article. The date is when the match was made; the fight date is not given."
+    }
+  ],
+  "notes": "Challenge and counter-challenge and the match all date from the night of 1869-03-24. Some OCR damage in the challenge wording."
+}

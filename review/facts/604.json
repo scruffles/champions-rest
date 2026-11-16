@@ -1,0 +1,19 @@
+{
+  "id": "604",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Charley Davis had posted £40 a side toward their glove match for £100 a side and the English championship.",
+      "excerpt": "posted £40 a side for their glove match",
+      "date": "1878-02",
+      "date_precision": "approx",
+      "people": ["Charley Davis"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "'At last accounts' gives no date; the paper is dated 1878-02-24. Conflicts with 606, which says £50 a side was down by 13 February."
+}

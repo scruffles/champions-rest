@@ -1,0 +1,56 @@
+{
+  "id": "619",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan says he met Tom Allen, who was spoiling for a fight.",
+      "excerpt": "There we met Tom ‘Alien’ who",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan says he put up the money for a match with Tom Allen (printed as 'nsiieed the money right down').",
+      "excerpt": "wait, but nsiieed the money right down.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Ben Hogan says his fight with Tom Allen was a tough one and came out a draw.",
+      "excerpt": "It wasea tough one. It came out a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "It wasea tough one. It came out a",
+      "reported_as": "recollection",
+      "notes": "Hogan's own account in the New York World, reprinted 1878-11-04. Conflicts with 618, which says Allen beat Hogan at Omaha. Hogan's 38-minute fight with an unnamed opponent (knocked down eleven times) is not clearly Allen, so it is not recorded."
+    }
+  ],
+  "notes": "Hogan's own account. The meeting place is garbled and the text does not say St. Louis, so the hint's place is dropped. The hint's date of 1873 is not in the text."
+}

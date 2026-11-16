@@ -1,0 +1,329 @@
+{
+ "bucket": "saloon-1888-1891",
+ "kind": "saloon",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "242.c14",
+   "date": "1888-04-17",
+   "published": "1928-12-09",
+   "retro": true,
+   "statement": "The day after the Flint fight, a Post-Dispatch reporter interviewed Tom Allen at his saloon."
+  },
+  {
+   "cid": "758.c1",
+   "date": "1888-05",
+   "published": "1888-05-20",
+   "statement": "Tom Allen placed a boxing ring in his saloon, joining a popular craze."
+  },
+  {
+   "cid": "757.c1",
+   "date": "1888-05-19",
+   "published": "1888-05-19",
+   "statement": "Tom Allen announced that his new boxing school at 619 Market street would open that night and offer the finest singing in the city."
+  },
+  {
+   "cid": "129.c1",
+   "date": "1888-05-20",
+   "published": "1888-05-20",
+   "statement": "Tom Allen's saloon closed its doors at 12:40 a.m. on May 20, 1888, under the midnight closing of the Sunday law."
+  },
+  {
+   "cid": "129.c2",
+   "date": "1888-05-20",
+   "published": "1888-05-20",
+   "statement": "A policeman came into Tom Allen's saloon after midnight, spoke to the bartender, and the company in the back room broke up."
+  },
+  {
+   "cid": "129.c3",
+   "date": "1888-05-20",
+   "published": "1888-05-20",
+   "statement": "A bouncer at Tom Allen's saloon knocked down a big man who had objected to leaving, and Allen led the bleeding man out."
+  },
+  {
+   "cid": "130.c6",
+   "date": "1888-06-18",
+   "published": "1888-06-18",
+   "statement": "Tom Allen kept a free-and-easy on Market Street, St. Louis."
+  },
+  {
+   "cid": "137.c1",
+   "date": "1890-01-20",
+   "published": "1890-01-21",
+   "statement": "Tom Allen's saloon was at 619 Market street, St. Louis, where James St. John fell asleep."
+  },
+  {
+   "cid": "779.c2",
+   "date": "1890-02",
+   "published": "1890-02-08",
+   "statement": "Tom Allen advertised a free concert every evening at his place at 619 Market Street, St. Louis."
+  },
+  {
+   "cid": "781.c2",
+   "date": "1890-04-05",
+   "published": "1890-04-05",
+   "statement": "Tom Allen's saloon at 619 Market Street advertised a free concert every evening."
+  },
+  {
+   "cid": "782.c2",
+   "date": "1890-05-24",
+   "published": "1890-05-24",
+   "statement": "Tom Allen's saloon at 619 Market Street advertised a free concert every evening."
+  },
+  {
+   "cid": "783.c2",
+   "date": "1890-05-31",
+   "published": "1890-05-31",
+   "statement": "Tom Allen's saloon at 619 Market Street advertised a free concert every evening, with the best singers in the country engaged."
+  },
+  {
+   "cid": "784.c2",
+   "date": "1890-06-21",
+   "published": "1890-06-21",
+   "statement": "Tom Allen's saloon at 619 Market Street advertised a free concert every evening, with the best singers in the city engaged."
+  },
+  {
+   "cid": "785.c2",
+   "date": "1890-07-12",
+   "published": "1890-07-12",
+   "statement": "Tom Allen's saloon at 619 Market Street advertised a free concert every evening, with only the best singers engaged."
+  },
+  {
+   "cid": "786.c1",
+   "date": "1890-07-25",
+   "published": "1890-07-26",
+   "statement": "Lem McGregor knocked Tom Allen down in Tom Allen's saloon on the morning of 1890-07-25 after a quarrel, and punished him to a considerable extent."
+  },
+  {
+   "cid": "787.c2",
+   "date": "1890-08-02",
+   "published": "1890-08-02",
+   "statement": "Tom Allen's saloon at 619 Market Street advertised a free concert every evening, with the best singing in the city."
+  },
+  {
+   "cid": "788.c2",
+   "date": "1890-08-09",
+   "published": "1890-08-09",
+   "statement": "Tom Allen's saloon at 619 Market Street advertised a free concert every evening."
+  },
+  {
+   "cid": "789.c2",
+   "date": "1890-08-16",
+   "published": "1890-08-16",
+   "statement": "Tom Allen's place at 619 Market Street offered a free concert every evening, with only the best singers engaged."
+  },
+  {
+   "cid": "790.c2",
+   "date": "1890-08-24",
+   "published": "1890-08-24",
+   "statement": "Tom Allen's place at 619 Market Street offered a free concert every evening, with only the best singers engaged."
+  },
+  {
+   "cid": "791.c2",
+   "date": "1890-09-06",
+   "published": "1890-09-06",
+   "conf": "low",
+   "statement": "Tom Allen's place at 619 Market Street (printed as 'Murket street') offered a free concert every evening, with the best singers engaged."
+  },
+  {
+   "cid": "792.c2",
+   "date": "1890-09-27",
+   "published": "1890-09-27",
+   "conf": "low",
+   "statement": "Tom Allen's place at 619 Market Street (printed as 'Markee street') offered a free concert every evening, with the best singers engaged."
+  },
+  {
+   "cid": "793.c2",
+   "date": "1890-10-04",
+   "published": "1890-10-04",
+   "statement": "Tom Allen's place at 619 Market Street offered a free concert every evening, with only the best singers engaged."
+  },
+  {
+   "cid": "794.c2",
+   "date": "1890-10-07",
+   "published": "1890-10-07",
+   "conf": "low",
+   "statement": "Tom Allen's place on Market street (number printed as 519, not 619 as in other ads) offered a free concert every evening, with only the best singers engaged."
+  },
+  {
+   "cid": "795.c2",
+   "date": "1890-10-13",
+   "published": "1890-10-13",
+   "statement": "Tom Allen was a saloon-keeper on Market street."
+  },
+  {
+   "cid": "796.c2",
+   "date": "1890-10-25",
+   "published": "1890-10-25",
+   "statement": "Tom Allen's place at 619 Market Street offered a free concert every evening, with only the best singers engaged."
+  },
+  {
+   "cid": "798.c2",
+   "date": "1890-11",
+   "published": "1890-11-08",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market street, with only the best singers engaged."
+  },
+  {
+   "cid": "799.c2",
+   "date": "1890-11",
+   "published": "1890-11-15",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market street, with only the best singers engaged."
+  },
+  {
+   "cid": "801.c2",
+   "date": "1890-12",
+   "published": "1890-12-06",
+   "conf": "medium",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market street."
+  },
+  {
+   "cid": "803.c2",
+   "date": "1890-12",
+   "published": "1890-12-13",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market street, with only the best singers engaged."
+  },
+  {
+   "cid": "805.c1",
+   "date": "1890-12-20",
+   "published": "1890-12-20",
+   "statement": "Tom Allen's place at 619 Market Street offered a free concert every evening."
+  },
+  {
+   "cid": "807.c1",
+   "date": "1891-01-10",
+   "published": "1891-01-10",
+   "statement": "Tom Allen's place at 619 Market Street offered a free concert every evening."
+  },
+  {
+   "cid": "811.c1",
+   "date": "1891-01-24",
+   "published": "1891-01-24",
+   "statement": "Tom Allen's place at 619 Market Street offered a free concert every evening."
+  },
+  {
+   "cid": "812.c1",
+   "date": "1891-01-24",
+   "published": "1891-01-24",
+   "statement": "Tom Allen's place at 619 Market Street offered a free concert every evening, with best singers only."
+  },
+  {
+   "cid": "814.c1",
+   "date": "1891-02-21",
+   "published": "1891-02-21",
+   "statement": "Tom Allen advertised free concerts every evening at his place at 619 Market street, St. Louis, with the best of singers only engaged."
+  },
+  {
+   "cid": "815.c1",
+   "date": "1891-03-14",
+   "published": "1891-03-14",
+   "conf": "medium",
+   "statement": "Tom Allen advertised his place at 619 Market street, St. Louis, with concerts every evening and the best of singers only engaged."
+  },
+  {
+   "cid": "817.c1",
+   "date": "1891-03-21",
+   "published": "1891-03-21",
+   "conf": "low",
+   "statement": "Tom Allen advertised free concerts every evening at a place printed as '$15 heres street', with the best of singers only engaged."
+  },
+  {
+   "cid": "818.c1",
+   "date": "1891-06-13",
+   "published": "1891-06-13",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market street, St. Louis, with the best of singers only engaged."
+  },
+  {
+   "cid": "138.c1",
+   "date": "1891-06-24",
+   "published": "1891-06-24",
+   "statement": "Tom Allen kept a saloon on Market Street near Seventh Street in St. Louis."
+  },
+  {
+   "cid": "819.c1",
+   "date": "1891-06-27",
+   "published": "1891-06-27",
+   "statement": "Tom Allen advertised free concerts every evening with the latest songs at 619 Market street, St. Louis."
+  },
+  {
+   "cid": "820.c1",
+   "date": "1891-07-04",
+   "published": "1891-07-04",
+   "statement": "Tom Allen advertised free concerts every evening with the latest songs of the day at 619 Market street, St. Louis."
+  },
+  {
+   "cid": "821.c1",
+   "date": "1891-08-15",
+   "published": "1891-08-15",
+   "statement": "Tom Allen ran a free and easy at 619 Market Street, St. Louis, with only the best singers engaged."
+  },
+  {
+   "cid": "822.c1",
+   "date": "1891-08-22",
+   "published": "1891-08-22",
+   "conf": "low",
+   "statement": "Tom Allen's place at 619 Market Street advertised a free concert in the evening (printed as 'bikie te evening'), with only the best singers engaged."
+  },
+  {
+   "cid": "823.c1",
+   "date": "1891-09-19",
+   "published": "1891-09-19",
+   "conf": "low",
+   "statement": "Tom Allen's place at 619 Market Street advertised a free concert (printed as 'every. Ai pening.'), with the best singers only engaged."
+  },
+  {
+   "cid": "824.c1",
+   "date": "1891-10-06",
+   "published": "1891-10-06",
+   "conf": "low",
+   "statement": "Tom Allen's place at 619 Market Street (printed as 'No. G19 Market street') advertised a free concert every evening, with only the best singers engaged."
+  },
+  {
+   "cid": "825.c1",
+   "date": "1891-10-24",
+   "published": "1891-10-24",
+   "statement": "Tom Allen's place at 619 Market Street advertised a free concert every evening, with only the best singers engaged."
+  },
+  {
+   "cid": "826.c1",
+   "date": "1891-10-31",
+   "published": "1891-10-31",
+   "statement": "Tom Allen's place at 619 Market Street advertised a free concert, with the best singers only engaged."
+  },
+  {
+   "cid": "827.c1",
+   "date": "1891-11-07",
+   "published": "1891-11-07",
+   "statement": "Tom Allen's place at 619 Market Street advertised a free concert every evening, with only the best singers engaged."
+  },
+  {
+   "cid": "828.c1",
+   "date": "1891-11-14",
+   "published": "1891-11-14",
+   "statement": "Tom Allen's concert saloon at 619 Market Street advertised a free concert every evening, with only the best singers engaged."
+  },
+  {
+   "cid": "829.c1",
+   "date": "1891-11-28",
+   "published": "1891-11-28",
+   "statement": "Tom Allen advertised free concerts every evening at his place at 619 Market street, St. Louis."
+  },
+  {
+   "cid": "140.c2",
+   "date": "1891-12-08",
+   "published": "1891-12-08",
+   "statement": "In December 1891 Tom Allen ran a saloon on Market Street in St. Louis."
+  },
+  {
+   "cid": "140.c3",
+   "date": "1891-12-08",
+   "published": "1891-12-08",
+   "statement": "Tom Allen's saloon on Market Street is in the same block as a saloon owned by Tom Kelly, a former middleweight champion."
+  },
+  {
+   "cid": "830.c1",
+   "date": "1891-12-19",
+   "published": "1891-12-19",
+   "statement": "Tom Allen advertised free concerts every evening at his place at 619 Market street, St. Louis."
+  }
+ ]
+}

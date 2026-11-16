@@ -1,0 +1,111 @@
+{
+  "id": "247",
+  "claims": [
+    {
+      "kind": "death",
+      "statement": "Tom Allen died in St. Louis on April 5, 1904.",
+      "excerpt": "In the lower picture Tom Allen, heavyweight champion in the 80’s,who died in St. Louis April 5, 1904, is",
+      "date": "1904-04-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was heavyweight champion in the 1880s.",
+      "excerpt": "In the lower picture Tom Allen, heavyweight champion in the 80’s,who died in St. Louis April 5, 1904, is",
+      "date": "1880",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen came to St. Louis in 1884 and went into the saloon business.",
+      "excerpt": "Allen came on to St. Louis in 1884",
+      "date": "1884",
+      "date_precision": "year",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon, the Champion's Rest, was at Seventh and Market Streets in St. Louis and became a popular resort for followers of pugilism.",
+      "excerpt": "Seventh and Market Streets and soon became a popular",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Seventh and Market Streets, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Richard K. Fox arranged an exhibition between Tom Allen and Joe Goss, which took place at Madison Square Garden in New York City.",
+      "excerpt": "Fox sent for Allen and arranged an exhibition with Joe Goss, whom Allen had previously defeated.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Richard K. Fox", "Joe Goss"],
+      "places": ["Madison Square Garden, New York City"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "After Allen's poor showing (printed as 'snowing') in the exhibition, Richard K. Fox dropped the idea of Allen fighting John L. Sullivan.",
+      "excerpt": "Allen made such a_ miserable snowing that Fox dismissed the idea of his fighting Sullivan",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Richard K. Fox", "John L. Sullivan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen defeated Mike McCoole in 1873 in a fight on Chouteau Island in the Mississippi river above St. Louis.",
+      "excerpt": "the defeat of Mike McCoole by Tom Allen in 1873",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, Mississippi River, above St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "After the Allen-McCoole fight, the Missouri Legislature made prize-fighting a felony in January 1874.",
+      "excerpt": "Missouri Legislature passed a statute making prize-fighting a felony",
+      "date": "1874-01",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": ["Missouri"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "year",
+      "place": "Chouteau Island, in the Mississippi river above St. Louis",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the defeat of Mike McCoole by Tom Allen in 1873",
+      "reported_as": "recollection",
+      "notes": "Text says only that few fights near St. Louis were under London Prize Ring rules 'following the defeat of Mike McCoole'; rules for this bout are not stated."
+    }
+  ],
+  "notes": "Article is by Harry Sharpe and mostly about other fighters. The caption gives Allen's death as April 5, 1904. Hints about the Daly and Kelly feud and the return to London are not clearly readable in this garbled text, so they are not extracted."
+}

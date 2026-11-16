@@ -1,0 +1,41 @@
+{
+  "id": "692",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was advertised to take part in a sparring exhibition at Flannigan's Hall, East St. Louis, on March 29, 1883, which was called off.",
+      "excerpt": "announcing that Tom Allen, the caer ploy wom Morris O'Conneli, om Kelly, Churles Taylor",
+      "date": "1883-03-29",
+      "date_precision": "day",
+      "people": ["Morris O'Connell", "Tom Kelly", "Charles Taylor"],
+      "places": ["Flannigan's Hall, East St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Mayor McLean of East St. Louis revived an old indictment against Tom Allen for inducing a ring encounter in East St. Louis some years earlier.",
+      "excerpt": "resurrected an .old indictment fpuinst Tom Allen tor induigingin a ring en- chuiter here Sutme years ago",
+      "date": "1883-03",
+      "date_precision": "month",
+      "people": ["Mayor McLean"],
+      "places": ["East St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen told Chief Kerrigan that he did not wish to break the law and so decided not to give the exhibition in East St. Louis.",
+      "excerpt": "Chief Kerrigan yestelduy nl informed that oflicial that be did not de-",
+      "date": "1883-03-29",
+      "date_precision": "day",
+      "people": ["Chief Kerrigan"],
+      "places": ["East St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen named only in the garbled OCR of the poster line and the Kerrigan visit ('Tom eHy'); both read as Allen by the hint and context. No direct speech. The report of the mayor's order and the Kelly and Taylor matter is not about Allen."
+}

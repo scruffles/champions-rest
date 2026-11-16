@@ -1,0 +1,30 @@
+{
+  "id": "815",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised his place at 619 Market street, St. Louis, with concerts every evening and the best of singers only engaged.",
+      "excerpt": "TOM ALLEN, retired champion pugilist of world, 619 Market street. gee evening. The best of singers only engaged.",
+      "date": "1891-03-14",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen styled himself retired champion pugilist of the world in a March 1891 advertisement.",
+      "excerpt": "TOM ALLEN, retired champion pugilist of world, 619 Market street.",
+      "date": "1891-03-14",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only the Sporting Notes advertisement mentions Allen; the rest of the page is unrelated. The line 'gee evening' is garbled OCR, read as the concert notice."
+}

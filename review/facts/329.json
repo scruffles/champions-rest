@@ -1,0 +1,56 @@
+{
+  "id": "329",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Certain parties were working to bring about a renewal of the fight between Tom Allen and Mike McCoole, which the paper hoped would be postponed.",
+      "excerpt": "geged in striving to bring about a renewal",
+      "date": "1869-06-24",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had a recent fight with Mike McCoole, from which the editorial suggests the stakes might be divided.",
+      "excerpt": "of the fight between Allen and McCoole, and",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen owned a saloon in June 1869, which the paper urged him to dispose of.",
+      "excerpt": "Let him dispose of his saloon, and rid",
+      "date": "1869-06-24",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "McCoole",
+      "date": "1869-06",
+      "date_precision": "approx",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "stakes (amount not given)",
+      "rules": "",
+      "excerpt": "of the fight between Allen and McCoole, and",
+      "reported_as": "report",
+      "notes": "Result not stated. The editorial asks that the two 'amicably divide the stakes', which may suggest no clear winner; this is inference, not stated."
+    }
+  ],
+  "notes": "The hint's 'Missouri Republican' is wrong; the paper is The St Louis Republic. The editorial's advice (quit the ring, open a sparring school) is opinion, not a fact, so it is not recorded. Saloon claim is implied by the advice to dispose of it."
+}

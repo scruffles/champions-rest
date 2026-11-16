@@ -1,0 +1,179 @@
+{
+ "bucket": "legal-1903",
+ "kind": "legal",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "198.c8",
+   "date": "1903-03",
+   "published": "1903-03-30",
+   "conf": "medium",
+   "statement": "Mrs. Taylor took her case to attorney Frank A. C. MacManus, an old friend of her father, to gain access to him."
+  },
+  {
+   "cid": "200.c5",
+   "date": "1903-03",
+   "published": "1903-04-03",
+   "conf": "medium",
+   "statement": "It was said that Allen made a will at the Baptist hospital the week before, leaving his championship cup and other property to Mrs. Tillie Hartgrove."
+  },
+  {
+   "cid": "202.c6",
+   "date": "1903-03",
+   "published": "1903-04-06",
+   "conf": "low",
+   "statement": "Allen's will is dated March 4, 193 (the year is cut off; the hint says March 24, 1903); its witnesses were Dr. Heine Marks, Dr. E. R. Newcomb and Charles Brock."
+  },
+  {
+   "cid": "204.c1",
+   "date": "1903-04",
+   "published": "1903-04-09",
+   "statement": "Simon S. Bass, named executor in Allen's will, refused to serve."
+  },
+  {
+   "cid": "204.c2",
+   "date": "1903-04",
+   "published": "1903-04-09",
+   "statement": "Public Administrator Garrard Strode took charge of Allen's estate, which was in a muddled condition."
+  },
+  {
+   "cid": "211.c1",
+   "date": "1903-04",
+   "published": "1903-04-21",
+   "conf": "low",
+   "statement": "Tillie Hartgrove, Allen's housekeeper, had a writ of replevin issued at Clayton for a driving horse held by William W. Heapes."
+  },
+  {
+   "cid": "200.c4",
+   "date": "1903-04-01",
+   "published": "1903-04-03",
+   "conf": "medium",
+   "statement": "Gillespie got a policeman to help him take the saloon, but the policeman refused to interfere, and Gillespie decided not to risk his life."
+  },
+  {
+   "cid": "199.c3",
+   "date": "1903-04-02",
+   "published": "1903-04-03",
+   "statement": "Gillespie asked the officer to arrest Murphy, but the officer advised that a warrant be issued instead."
+  },
+  {
+   "cid": "1003.c2",
+   "date": "1903-04-06",
+   "published": "1903-04-05",
+   "conf": "medium",
+   "statement": "Friends of Tom Allen planned to apply to the probate court on Monday, April 6, 1903, for a conservator for him."
+  },
+  {
+   "cid": "1007.c7",
+   "date": "1903-04-06",
+   "published": "1903-04-07",
+   "conf": "medium",
+   "statement": "Polly Taylor was cut off with $10 in her father's will and says she will contest the will in the courts."
+  },
+  {
+   "cid": "202.c3",
+   "date": "1903-04-06",
+   "published": "1903-04-06",
+   "conf": "medium",
+   "statement": "Gillespie said he had a claim against Allen for goods sold to him."
+  },
+  {
+   "cid": "202.c5",
+   "date": "1903-04-06",
+   "published": "1903-04-06",
+   "statement": "Allen's will was filed in probate court on Monday, April 6, 1903; it left $10 each to his two sisters and the balance to Mrs. Tillie Hartgrove."
+  },
+  {
+   "cid": "202.c7",
+   "date": "1903-04-06",
+   "published": "1903-04-06",
+   "statement": "Attorney Simon Bass filed Allen's will in probate court; it gave no estimate of the value of the estate and no inventory of his personal property."
+  },
+  {
+   "cid": "202.c8",
+   "date": "1903-04-06",
+   "published": "1903-04-06",
+   "conf": "medium",
+   "statement": "Allen's daughter, Mrs. Mary Taylor, said she would apply to the courts to protect the property, which she alleged was being dissipated by people with no right to it."
+  },
+  {
+   "cid": "203.c25",
+   "date": "1903-04-06",
+   "published": "1903-04-06",
+   "statement": "Mrs. Mary Taylor said she would apply to the courts that day to secure protection for her father's property."
+  },
+  {
+   "cid": "212.c1",
+   "date": "1903-04-21",
+   "published": "1903-04-22",
+   "statement": "Constable Fred Lenz failed on April 21, 1903 to replevin the driving horse claimed by Tillie Hartgrove, Tom Allen's former housekeeper."
+  },
+  {
+   "cid": "214.c1",
+   "date": "1903-05",
+   "published": "1903-05-22",
+   "statement": "Judge Taylor denied Tillie Hartgrove a divorce from her husband, Martin Hartgrove, after learning she had been Tom Allen's housekeeper."
+  },
+  {
+   "cid": "214.c5",
+   "date": "1903-05",
+   "published": "1903-05-22",
+   "statement": "Tom Allen's estate has dwindled almost to nothing and is still in litigation."
+  },
+  {
+   "cid": "215.c1",
+   "date": "1903-05",
+   "published": "1903-05-23",
+   "statement": "Circuit Judge Taylor refused to grant Tillie Hartgrove a divorce from her husband, Martin Hartgrove."
+  },
+  {
+   "cid": "1009.c5",
+   "date": "1903-07",
+   "published": "1903-07-19",
+   "statement": "Hartgrove and Gillespie left Clayton threatening to replevin (sue to recover) the hat."
+  },
+  {
+   "cid": "1012.c4",
+   "date": "1903-07",
+   "published": "1903-07-29",
+   "conf": "medium",
+   "statement": "Allen's widow, who lives in England, intends to contest the will and claim a dower interest."
+  },
+  {
+   "cid": "1012.c5",
+   "date": "1903-07",
+   "published": "1903-07-29",
+   "statement": "The widow engaged St. Louis attorney F. H. Sullivan to bring the suit against the will."
+  },
+  {
+   "cid": "1013.c1",
+   "date": "1903-07",
+   "published": "1903-07-29",
+   "statement": "The widow of Tom Allen demanded a dower interest in his estate, which is valued at $279.80."
+  },
+  {
+   "cid": "1011.c1",
+   "date": "1903-07-28",
+   "published": "1903-07-28",
+   "statement": "Public Administrator Garrard Strode filed the inventory of Allen's estate in probate court on Tuesday, July 28, 1903."
+  },
+  {
+   "cid": "1011.c2",
+   "date": "1903-07-28",
+   "published": "1903-07-28",
+   "statement": "The inventory valued Allen's estate, including his saloon, at $279.80."
+  },
+  {
+   "cid": "1012.c2",
+   "date": "1903-07-28",
+   "published": "1903-07-29",
+   "statement": "Public Administrator Strode's appraisal, filed for record on 1903-07-28, valued Allen's estate at $279.80."
+  },
+  {
+   "cid": "219.c11",
+   "date": "1903-07-28",
+   "published": "1903-07-29",
+   "statement": "Public Administrator Garrard Strode filed an inventory of Tom Allen's estate in probate court."
+  }
+ ]
+}

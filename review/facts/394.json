@@ -1,0 +1,19 @@
+{
+  "id": "394",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was to spar Joe Coburn in ring costume as the wind-up of a sparring exhibition at Mozart Hall.",
+      "excerpt": "is between Joe Coburn and Tom Allen, who appear in ring costume",
+      "date": "1870-04-26",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": ["Mozart Hall, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Says the exhibition was 'to-morrow night' (26 April). Articles 395 and 396 say it was on Monday night, 25 April; the date conflicts and needs checking."
+}

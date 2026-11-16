@@ -1,0 +1,30 @@
+{
+  "id": "789",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was billed as the retired champion pugilist of the world.",
+      "excerpt": "Tom ALLEN, retired champion pugilist of\nthe world, 619 Marketstreet.",
+      "date": "1890-08-16",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place at 619 Market Street offered a free concert every evening, with only the best singers engaged.",
+      "excerpt": "Free concert\nevery evening. The best cf singers only eo-\ngaged.",
+      "date": "1890-08-16",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement in Sporting Notes only; no fight, challenge or family detail about Allen."
+}

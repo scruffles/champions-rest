@@ -1,0 +1,34 @@
+{
+  "id": "526",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "A New York telegram reported that a match was made, with a forfeit put up, for a fight between Tom Allen and Jem Mace.",
+      "excerpt": "match is made and forfeit up for a fight be\ntween Tom. Allen and Jem. Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tom Allen", "Jem Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "match is made and forfeit up for a fight be\ntween Tom. Allen and Jem. Mace",
+      "reported_as": "report",
+      "notes": "Telegram report in an editorial. The bout date and stakes are not given here. Not yet fought."
+    }
+  ],
+  "notes": "The article is an editorial against the prize ring; its opinions are not about Allen and are left out."
+}

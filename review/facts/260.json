@@ -1,0 +1,41 @@
+{
+  "id": "260",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen, charged with the murder of Timothy Confoy, was admitted to bond in Judge Klein's court.",
+      "excerpt": "Tem Allen. charged with the murder of Timothy Confoy",
+      "date": "1899-05-04",
+      "date_precision": "day",
+      "people": ["Timothy Confoy"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was released from custody on $5,000 bail.",
+      "excerpt": "Released From Custody on Bail in the Sum of $5000",
+      "date": "1899-05-04",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Thomas J. Rowe of 619 Market Street went Tom Allen's bond (the address is printed 'Mark').",
+      "excerpt": "Thomas J. Rowe, 619 Mark vent. went his bond",
+      "date": "1899-05-04",
+      "date_precision": "day",
+      "people": ["Thomas J. Rowe"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Fragment; OCR cuts off after 'Mark'. Name printed 'Tem Allen'; identity with the boxer is assumed from the name, as no other detail is given."
+}

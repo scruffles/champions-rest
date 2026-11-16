@@ -1,0 +1,136 @@
+{
+  "id": "281",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was born in Birmingham in 1841, according to this article.",
+      "excerpt": "Born in Birmingham in 1841, he had the ad-",
+      "date": "1841",
+      "date_precision": "year",
+      "people": [],
+      "places": ["Birmingham"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Before fighting Jem Mace, Tom Allen had fought a dozen bouts in England (printed as 'n dozen') and four in America.",
+      "excerpt": "including n dozen fights before his departure from England and four",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England", "America"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was matched with Jem Mace for $2,500 and the world's title.",
+      "excerpt": "been matched with “Tom” Allen for $2,500 and the",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Jem Mace met in the ring on May 10, 1870.",
+      "excerpt": "special train out of New Orleans on May 10, 1870,",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The Allen-Mace fight was held in open ground about three miles above Kennerville, Louisiana.",
+      "excerpt": "stretch of open ground some three miles above Ken-",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Kennerville, Louisiana"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Jem Mace; the account is cut off with Allen unable to rise.",
+      "excerpt": "Allen was now tottering and the speediest way was-",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Kennerville, Louisiana"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Joe Coburn seconded Tom Allen in the fight with Jem Mace.",
+      "excerpt": "“Jerry” Donovan; and: Allen by “Joe” Coburn and",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "A meeting between Tom Allen and Mike McCool near St. Louis was broken up by a mob the year before the Mace fight, after Allen had led all the way and then lost the decision.",
+      "excerpt": "A meeting with “Mike” McCool near St.\nLouis the preceding year had been broken'up by a\nmob and he had lost the decision after leading all the",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Mike McCool"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "After the McCool fight, a rematch was negotiated, but McCool withdrew, leaving Tom Allen in actual possession of the title.",
+      "excerpt": "subsequent negotiations for another trial\nwith McCool had ended with the withdrawal of the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCool"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "place": "near Kennerville, Louisiana",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,500 and the world's title",
+      "rules": "",
+      "excerpt": "been matched with “Tom” Allen for $2,500 and the",
+      "reported_as": "recollection",
+      "notes": "Article is cut off mid-fight; it describes the tenth round, and the loss is inferred from its last line."
+    },
+    {
+      "opponent": "Mike McCool",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "near St. Louis",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "A meeting with “Mike” McCool near St.\nLouis the preceding year had been broken'up by a\nmob and he had lost the decision after leading all the",
+      "reported_as": "recollection",
+      "notes": "Lost on decision after leading; a mob broke up the meeting."
+    }
+  ],
+  "notes": "1910 recollection reprinted from the New York Herald. Birth year 1841 is the article's figure; other sources give 1839. Hint about Coburn throwing up the sponge and the height and weight hints are not in the text and were dropped."
+}

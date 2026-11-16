@@ -1,0 +1,314 @@
+{
+  "bucket": "legal-undated",
+  "facts": [
+    {
+      "fact": "After their 1869 fight, Tom Allen sued to recover his stake money, and in April 1870 he and Mike McCoole compromised their claims to the excursion money, McCoole taking $1,232.50 and Allen $1,000.",
+      "date": "1870-04",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1868-1874#7",
+      "claims": [
+        "357.c9"
+      ]
+    },
+    {
+      "fact": "In October 1873 a Madison County, Illinois, writ ordered the sheriff to take Tom Allen and others to the circuit court at Edwardsville to answer an indictment for prize-fighting in the Allen-McCoole fight, returnable 3 November; in November Gov. Beveridge of Illinois issued requisitions for Allen, McCoole and others engaged in the September fight.",
+      "date": "1873-10",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1868-1874#17",
+      "claims": [
+        "276.c8"
+      ]
+    },
+    {
+      "fact": "On 21 November 1873 Tom Allen and Arthur Chambers were arrested by St. Louis detectives on an Illinois requisition for the prize fight with Mike McCoole and held without bail at the Four Courts; on 28 November Allen put up $3,000 in greenbacks as collateral for the Illinois bail bond that freed Chambers.",
+      "date": "1873-11-21",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1868-1874#20",
+      "claims": [
+        "506.c4"
+      ]
+    },
+    {
+      "fact": "Tom Allen, Jack Looney, Arthur Chambers, Dublin Tricks and Tom Kelley were discharged from their bond to answer a Madison County indictment at Belleville on January 30, 1875, because of a flaw in the indictment.",
+      "date": "1875-01-30",
+      "seed": "",
+      "conflict": "outcome: discharged from bond for a flaw in the indictment (legal-1875-1883#2) vs the case moved on a change of venue from Madison to St. Clair County (512.c3)",
+      "join": "legal-1875-1883#2",
+      "claims": [
+        "512.c3"
+      ]
+    },
+    {
+      "fact": "Tom Allen was indicted in Kentucky in 1876 for prize fighting in the Goss fight.",
+      "date": "1876",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1875-1883#5",
+      "claims": [
+        "155.c3",
+        "155.c4"
+      ]
+    },
+    {
+      "fact": "Tom Allen and Joe Goss were arrested after their September 7, 1876 fight in Kentucky, and Allen was held at Newport.",
+      "date": "1876-09-07",
+      "seed": "",
+      "conflict": "timing: on the eve of the fight, on bench warrants (229.c1) vs arrested after the fight (legal-1875-1883#11)",
+      "join": "legal-1875-1883#11",
+      "claims": [
+        "229.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen fled to Windsor, Ontario, in November 1876 to avoid prosecution, was arrested in Chicago on Kentucky officers' request, and failed to appear for trial on November 20, 1876.",
+      "date": "1876-11",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1875-1883#14",
+      "claims": [
+        "114.c8"
+      ]
+    },
+    {
+      "fact": "Tom Allen was tried in the St. Louis Police Court on October 30, 1883, for keeping a disorderly house at his saloon, and was discharged.",
+      "date": "1883-10-30",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1875-1883#18",
+      "claims": [
+        "107.c4",
+        "107.c6"
+      ]
+    },
+    {
+      "fact": "Tom Allen, Flint's second, was arrested on April 18, 1888 under a Franklin County warrant charging him with aiding and abetting the McManus-Flint prize fight, and gave a $500 bond to appear before Justice Frazee at Union the next morning.",
+      "date": "1888-04-18",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1884-1896#4",
+      "claims": [
+        "128.c1"
+      ]
+    },
+    {
+      "fact": "On 27 April 1897 Tom Allen fired a revolver in the street and was arrested for disturbing the peace and carrying concealed weapons; on 30 April his cases before Judge Peabody were dismissed on payment of costs.",
+      "date": "1897-04-27",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1897-1898#1",
+      "claims": [
+        "173.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen shot Timothy Confoy in his saloon on Market Street in the early hours of Sunday 26 February 1899; Confoy died that night at City Hospital, and John Spencer was wounded in the hand.",
+      "date": "1899-02-26",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1899-1901#1",
+      "claims": [
+        "180.c5",
+        "985.c3",
+        "987.c9"
+      ]
+    },
+    {
+      "fact": "The state dismissed the murder case against Tom Allen for the killing of Timothy Confoy in Judge Fisher's court, the evidence being insufficient.",
+      "date": "1899-11-14",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1899-1901#4",
+      "claims": [
+        "192.c2"
+      ]
+    },
+    {
+      "fact": "In March 1903 Tom Allen made a will at the Baptist hospital leaving the balance of his property to Tillie Hartgrove, with $10 each to his two sisters.",
+      "date": "1903-03",
+      "seed": "",
+      "conflict": "beneficiaries: residue to Tillie Hartgrove with $10 each to his two daughters (1012.c3) vs all property to his two married daughters (1011.c3), and legal-1903#1 says the $10 went to his two sisters; the amount is printed as '$19' each (219.c6); friends said he made no will (203.c18)",
+      "join": "legal-1903#1",
+      "claims": [
+        "1011.c3",
+        "1012.c3",
+        "219.c6",
+        "203.c18"
+      ]
+    },
+    {
+      "fact": "Public Administrator Garrard Strode took charge of Tom Allen's estate in April 1903, which was in a muddled condition.",
+      "date": "1903-04",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1903#4",
+      "claims": [
+        "219.c8",
+        "219.c9"
+      ]
+    },
+    {
+      "fact": "Tillie Hartgrove had a writ of replevin issued at Clayton for a driving horse, and Constable Fred Lenz failed to replevin it on 21 April 1903.",
+      "date": "1903-04-21",
+      "seed": "",
+      "conflict": "ownership of the horse: a gift from Allen to Tillie Hartgrove (211.c4, 212.c3) vs part of the estate (211.c3, 212.c4); Constable Lenz also claimed it under an execution writ (212.c6)",
+      "join": "legal-1903#8",
+      "claims": [
+        "211.c3",
+        "211.c4",
+        "212.c3",
+        "212.c4",
+        "212.c6"
+      ]
+    },
+    {
+      "fact": "Tillie Hartgrove took possession of Champion's Rest under a document said to be Tom Allen's will, leaving his daughter out of the inheritance; the court probated the will and a manager was put in to run Champion's Rest.",
+      "date": "1903-06",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "216.c4",
+        "216.c5"
+      ]
+    },
+    {
+      "fact": "In July 1903 Allen's widow, who lives in England, demanded a dower interest in his estate, valued at $279.80, and engaged St. Louis attorney F. H. Sullivan to bring suit against the will.",
+      "date": "1903-07",
+      "seed": "",
+      "conflict": "",
+      "join": "legal-1903#11",
+      "claims": [
+        "1012.c6",
+        "219.c10"
+      ]
+    },
+    {
+      "fact": "Public Administrator Garrard Strode filed the inventory of Tom Allen's estate in probate court on 28 July 1903, valuing the estate, including his saloon, at $279.80.",
+      "date": "1903-07-28",
+      "seed": "",
+      "conflict": "estate value: $278.35 when the will was probated (263.c11) vs $279.80 (legal-1903#13)",
+      "join": "legal-1903#13",
+      "claims": [
+        "263.c11"
+      ]
+    },
+    {
+      "fact": "Tillie Hartgrove, to whom Tom Allen willed his estate, may not receive any of the property, which Public Administrator Garrard Strode said was worth less than an amount printed as '1999' in personal effects.",
+      "date": "1903-07-29",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "219.c2"
+      ]
+    },
+    {
+      "fact": "After Ben Hogan's friends let the excursion boat drift to the East St. Louis shore, people connected with the Hogan-Allen affair were arrested by Illinois authorities.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "094.c8"
+      ]
+    },
+    {
+      "fact": "After Tom Allen returned to St. Louis, his Kentucky bondsmen came with requisition papers for his arrest as a fugitive, and he was freed by a writ of habeas corpus argued before Judge Claiborne in the Court of Criminal Correction; his bondsmen went home without him.",
+      "date": "",
+      "seed": "",
+      "conflict": "Kentucky requisition: papers came for his arrest (180.c30) vs Gov. Marmaduke refused to issue requisition papers after he reached St. Louis (197.c13)",
+      "claims": [
+        "180.c30",
+        "180.c31",
+        "197.c13"
+      ]
+    },
+    {
+      "fact": "Tom Allen fled from Kentucky back to England and waited out the five-year statute of limitations before returning to St. Louis.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "197.c11"
+      ]
+    },
+    {
+      "fact": "Arthur McNamara threw two paving stones through a window of Tom Allen's Champions Rest on Market street; Allen, who conducts the place, told police court of the trouble, and Judge Sidener fined McNamara $10.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "193.c2",
+        "193.c3",
+        "193.c4"
+      ]
+    },
+    {
+      "fact": "A safety deposit box Tom Allen kept was reportedly broken into and $3 taken, along with a watch and chain given him by an admiring friend.",
+      "date": "",
+      "seed": "",
+      "conflict": "amount: $3 taken (203.c24) vs $500 reportedly taken from the box (other-1901-1978#3, a fact of another kind)",
+      "claims": [
+        "203.c24"
+      ]
+    },
+    {
+      "fact": "Tom Allen and Ben Hogan were arrested as they were about to board a steamer for the Illinois shore of the Mississippi, and were released only on promising not to fight in Illinois.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "236.c4"
+      ]
+    },
+    {
+      "fact": "Tom Allen fled sheriffs and for a long time kept out of the law's reach; once he left the country with John Law on his heels.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "245.c5",
+        "763.c8"
+      ]
+    },
+    {
+      "fact": "Joe Goss was arrested after his fight with Tom Allen and sentenced to pay a $250 fine; unable to pay, he was imprisoned.",
+      "date": "",
+      "seed": "",
+      "conflict": "time in jail: 250 days (617.c2) vs the next year (245.c12)",
+      "claims": [
+        "617.c2",
+        "245.c12"
+      ]
+    },
+    {
+      "fact": "Joe Coburn, who had gone to New Orleans to second Tom Allen, was rumoured to be concerned in a robbery; the paper thought the story probably false.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "402.c7"
+      ]
+    },
+    {
+      "fact": "Joe Coburn served a term in the Pennsylvania State Prison on account of his fight with Tom Allen.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "725.c4"
+      ]
+    },
+    {
+      "fact": "Tom Allen's bondsmen's property was sold to make good his debt to the State; W. J. Farrell's property was sold to satisfy the bond.",
+      "date": "",
+      "seed": "",
+      "conflict": "payment: Allen said he had paid Farrell and Murphy $250 each on the bond (704.c12) vs their property was sold to satisfy it (109.c6, 704.c11)",
+      "claims": [
+        "109.c6",
+        "704.c11",
+        "704.c12"
+      ]
+    }
+  ]
+}

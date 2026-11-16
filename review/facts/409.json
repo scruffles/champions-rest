@@ -1,0 +1,41 @@
+{
+  "id": "409",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Jem Mace sparred for three rounds at Brady's Curriculum in Jersey City, in a friendly exhibition.",
+      "excerpt": "a sparring match between Jem Mace and Tom Allen,",
+      "date": "1870-06-10",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Brady's Curriculum, Jersey City"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Mr. Abrahams displayed the belt that each of Mace and Allen had been presented with by their friends in honour of victories won.",
+      "excerpt": "the belt wi each of them was presented with by",
+      "date": "1870-06-10",
+      "date_precision": "day",
+      "people": ["Abrahams", "Jem Mace"],
+      "places": ["Brady's Curriculum, Jersey City"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen was soon to contest Mike McCoole for the championship of America.",
+      "excerpt": "is coon‘ to Contest with McCoole for the chsmpiznsb",
+      "date": "1870-06",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The Herald is dated the 11th, so the sparring was probably the evening of 10 June. The text shows three rounds ('The third and last round'), not four as the hint says."
+}

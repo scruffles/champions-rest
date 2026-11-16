@@ -1,0 +1,413 @@
+{
+ "bucket": "life-undated-p1",
+ "kind": "life",
+ "undated": true,
+ "claims": [
+  {
+   "cid": "007.c1",
+   "date": "",
+   "published": "1869-01-13",
+   "statement": "Tom Allen is a native of Birmingham, England."
+  },
+  {
+   "cid": "007.c2",
+   "date": "",
+   "published": "1869-01-13",
+   "conf": "medium",
+   "statement": "Tom Allen was aged about 28 years at the time of the Davis fight."
+  },
+  {
+   "cid": "009.c5",
+   "date": "",
+   "published": "1869-02-24",
+   "conf": "medium",
+   "statement": "Tom Allen was about 30 years of age and 5 feet 10 inches tall."
+  },
+  {
+   "cid": "011.c1",
+   "date": "",
+   "published": "1869-03-11",
+   "statement": "Tom Allen is described as an English pugilist."
+  },
+  {
+   "cid": "033.c3",
+   "date": "",
+   "published": "1870-04-30",
+   "retro": true,
+   "statement": "Tom Allen is an Englishman who came to St. Louis as an unknown prize fighter."
+  },
+  {
+   "cid": "057.c6",
+   "date": "",
+   "published": "1875-02-16",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen was knocked down under the jugular in his fight with Gallagher, which the paper calls an accident."
+  },
+  {
+   "cid": "084.c7",
+   "date": "",
+   "published": "1876-09-08",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen was from England, and the birthplace given in the record is garbled in the OCR (printed as 'lidwn_Biaminehan')."
+  },
+  {
+   "cid": "084.c8",
+   "date": "",
+   "published": "1876-09-08",
+   "retro": true,
+   "statement": "Tom Allen came from a fighting family."
+  },
+  {
+   "cid": "084.c11",
+   "date": "",
+   "published": "1876-09-08",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen had a brother named Harry, whom Joe Goss tried to match for 100 pounds a side; police arrested Harry and the fight never came off."
+  },
+  {
+   "cid": "093.c1",
+   "date": "",
+   "published": "1878-08-10",
+   "retro": true,
+   "statement": "Tom Allen was described as an Englishman."
+  },
+  {
+   "cid": "1000.c2",
+   "date": "",
+   "published": "1903-03-28",
+   "statement": "Tom Allen had been ill for several months, and his nurse Tillie Hartgrove had been attending him."
+  },
+  {
+   "cid": "1000.c3",
+   "date": "",
+   "published": "1903-03-28",
+   "statement": "Tom Allen is a native of England."
+  },
+  {
+   "cid": "1000.c5",
+   "date": "",
+   "published": "1903-03-28",
+   "statement": "Tom Allen has been a widower for thirty years."
+  },
+  {
+   "cid": "1000.c9",
+   "date": "",
+   "published": "1903-03-28",
+   "statement": "Mrs. Tillie Hartgrove, Allen's future wife, was born in Manchester and came to St. Louis at the age of nine."
+  },
+  {
+   "cid": "1002.c3",
+   "date": "",
+   "published": "1903-04-03",
+   "statement": "Tom Allen was ill, and since his illness the Champion's Rest had been conducted by John Murphy."
+  },
+  {
+   "cid": "1003.c8",
+   "date": "",
+   "published": "1903-04-05",
+   "conf": "low",
+   "statement": "Lyons notified Allen's daughter, a Mrs. Mary whose surname is garbled in print, of what was happening at 3427 Clark Avenue."
+  },
+  {
+   "cid": "1003.c9",
+   "date": "",
+   "published": "1903-04-05",
+   "conf": "medium",
+   "statement": "Lyons and Allen's daughter were denied permission to see Allen at the Baptist Hospital, where he had been for several days."
+  },
+  {
+   "cid": "1003.c13",
+   "date": "",
+   "published": "1903-04-05",
+   "conf": "medium",
+   "statement": "Mrs. Tillie Hartgrave has announced she will marry Allen as soon as she obtains the divorce she is suing for."
+  },
+  {
+   "cid": "1007.c6",
+   "date": "",
+   "published": "1903-04-07",
+   "conf": "low",
+   "statement": "Polly Taylor, Allen's daughter, is said to be behind Murphy's refusal to give up the saloon."
+  },
+  {
+   "cid": "1007.c8",
+   "date": "",
+   "published": "1903-04-07",
+   "conf": "medium",
+   "statement": "Polly Taylor tried to see her father at the Baptist Hospital but was refused permission because he was too ill."
+  },
+  {
+   "cid": "1009.c1",
+   "date": "",
+   "published": "1903-07-19",
+   "statement": "The text says Tom Allen had died before this article was printed."
+  },
+  {
+   "cid": "1011.c6",
+   "date": "",
+   "published": "1903-07-28",
+   "conf": "low",
+   "statement": "Allen intended to marry his nurse, Tillie Hartgrove, if he recovered from his last illness."
+  },
+  {
+   "cid": "1012.c1",
+   "date": "",
+   "published": "1903-07-29",
+   "statement": "The article refers to Tom Allen as the late proprietor of the Champion's Rest saloon, so he had died before 1903-07-29."
+  },
+  {
+   "cid": "1012.c7",
+   "date": "",
+   "published": "1903-07-29",
+   "statement": "Allen had never been divorced from his wife in England, although they had not lived together for several years."
+  },
+  {
+   "cid": "1012.c8",
+   "date": "",
+   "published": "1903-07-29",
+   "conf": "medium",
+   "statement": "It was reported that Allen intended to marry Tillie Hartgrove, his housekeeper and nurse."
+  },
+  {
+   "cid": "1014.c1",
+   "date": "",
+   "published": "1903-09-06",
+   "conf": "medium",
+   "statement": "According to a barbershop speaker, Tom Allen died without leaving $200."
+  },
+  {
+   "cid": "1017.c1",
+   "date": "",
+   "published": "1905-11-12",
+   "conf": "medium",
+   "statement": "Tom Allen (printed as 'Tom Adlen') is listed among the old pugilists who have died."
+  },
+  {
+   "cid": "141.c4",
+   "date": "",
+   "published": "1892-04-24",
+   "statement": "Tom Allen's two daughters are all that is left of the Allen clan."
+  },
+  {
+   "cid": "141.c5",
+   "date": "",
+   "published": "1892-04-24",
+   "conf": "medium",
+   "statement": "One of Tom Allen's two daughters is married and lives in England; the other is married and lives at home with him."
+  },
+  {
+   "cid": "148.c3",
+   "date": "",
+   "published": "1892-09-18",
+   "retro": true,
+   "statement": "Tom Allen was in his 39th year when he retired."
+  },
+  {
+   "cid": "154.c2",
+   "date": "",
+   "published": "1893-10-21",
+   "statement": "Tom Allen was born in Birmingham."
+  },
+  {
+   "cid": "167.c7",
+   "date": "",
+   "published": "1895-01-13",
+   "retro": true,
+   "statement": "Tom Allen said he was 39 years old when he retired, after nineteen years in the ring."
+  },
+  {
+   "cid": "194.c5",
+   "date": "",
+   "published": "1903-01-31",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen was born in 1539 as printed, probably 1839."
+  },
+  {
+   "cid": "197.c3",
+   "date": "",
+   "published": "1903-03-27",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Allen had been a widower for more than twenty years."
+  },
+  {
+   "cid": "202.c9",
+   "date": "",
+   "published": "1903-04-06",
+   "statement": "Mrs. Tillie Hartgrove, to whom Allen was reported to be engaged, had charge of his affairs during his illness."
+  },
+  {
+   "cid": "203.c17",
+   "date": "",
+   "published": "1903-04-06",
+   "statement": "In his last illness Allen was moved to the Baptist Hospital, where he was comatose and rarely recognized anybody until his death."
+  },
+  {
+   "cid": "203.c19",
+   "date": "",
+   "published": "1903-04-06",
+   "conf": "medium",
+   "statement": "Allen had a wife living in Birmingham, England."
+  },
+  {
+   "cid": "203.c20",
+   "date": "",
+   "published": "1903-04-06",
+   "statement": "Allen's daughter, Mrs. Mary Taylor of 3427 Clark Avenue, denied the report that her father was to marry his nurse, Mrs. Tillie Hartgrove."
+  },
+  {
+   "cid": "203.c21",
+   "date": "",
+   "published": "1903-04-06",
+   "statement": "Mrs. Taylor was refused an interview with her father at the hospital because, it was stated, he was in no condition to receive visitors."
+  },
+  {
+   "cid": "208.c2",
+   "date": "",
+   "published": "1903-04-11",
+   "conf": "medium",
+   "statement": "Tom Allen's grave lot is in Calvary Cemetery, and friends planned to care for it."
+  },
+  {
+   "cid": "209.c3",
+   "date": "",
+   "published": "1903-04-12",
+   "statement": "Tom Allen is buried in Bellefontaine Cemetery."
+  },
+  {
+   "cid": "209.c4",
+   "date": "",
+   "published": "1903-04-12",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen was born in Birmingham, England (year unreadable in OCR)."
+  },
+  {
+   "cid": "209.c5",
+   "date": "",
+   "published": "1903-04-12",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen was married and had children, including a daughter, Mrs. Polly Taylor."
+  },
+  {
+   "cid": "210.c2",
+   "date": "",
+   "published": "1903-04-12",
+   "retro": true,
+   "statement": "Tom Allen was English born."
+  },
+  {
+   "cid": "214.c3",
+   "date": "",
+   "published": "1903-05-22",
+   "conf": "medium",
+   "statement": "It was announced before Tom Allen died that he was to marry Tillie Hartgrove once she obtained her divorce."
+  },
+  {
+   "cid": "215.c4",
+   "date": "",
+   "published": "1903-05-23",
+   "conf": "medium",
+   "statement": "Tom Allen was ill before he died, and it was said he might have recovered."
+  },
+  {
+   "cid": "215.c5",
+   "date": "",
+   "published": "1903-05-23",
+   "statement": "Tom Allen had two daughters."
+  },
+  {
+   "cid": "215.c7",
+   "date": "",
+   "published": "1903-05-23",
+   "conf": "medium",
+   "statement": "It was stated that had Tom Allen recovered, he was to have married Tillie Hartgrove if she obtained a divorce."
+  },
+  {
+   "cid": "216.c3",
+   "date": "",
+   "published": "1903-06-20",
+   "statement": "Tom Allen, a retired champion pugilist and proprietor of Champion's Rest, died leaving much litigation."
+  },
+  {
+   "cid": "219.c3",
+   "date": "",
+   "published": "1903-07-29",
+   "conf": "medium",
+   "statement": "Tom Allen was said to have been going to marry Tillie Hartgrove had he lived."
+  },
+  {
+   "cid": "219.c4",
+   "date": "",
+   "published": "1903-07-29",
+   "statement": "Tillie Hartgrove nursed Tom Allen in his last illness."
+  },
+  {
+   "cid": "219.c5",
+   "date": "",
+   "published": "1903-07-29",
+   "conf": "medium",
+   "statement": "Tom Allen's daughter, Mrs. Polly Taylor of St. Louis, told Public Administrator Garrard Strode that her mother was living and that her father had not been divorced from her mother."
+  },
+  {
+   "cid": "219.c7",
+   "date": "",
+   "published": "1903-07-29",
+   "conf": "medium",
+   "statement": "Tom Allen's will made no mention of his wife."
+  },
+  {
+   "cid": "219.c14",
+   "date": "",
+   "published": "1903-07-29",
+   "statement": "Tom Allen died, and an undertaker conducted his funeral."
+  },
+  {
+   "cid": "219.c15",
+   "date": "",
+   "published": "1903-07-29",
+   "conf": "medium",
+   "statement": "The undertaker insisted that Tillie Hartgrove pay for Tom Allen's funeral in advance, and it is stated that she did."
+  },
+  {
+   "cid": "220.c5",
+   "date": "",
+   "published": "1903-08-02",
+   "conf": "medium",
+   "statement": "The article implies that Tom Allen, the 'king' of the Champion's Rest, is already dead, and Jack Gillespie is the new ruler of the place."
+  },
+  {
+   "cid": "235.c18",
+   "date": "",
+   "published": "1919-01-03",
+   "retro": true,
+   "statement": "Tom Allen died in St. Louis several years before this 1919 article."
+  },
+  {
+   "cid": "242.c1",
+   "date": "",
+   "published": "1928-12-09",
+   "retro": true,
+   "statement": "Tom Allen was British-born."
+  },
+  {
+   "cid": "245.c1",
+   "date": "",
+   "published": "1933-07-29",
+   "retro": true,
+   "statement": "Tom Allen was an Englishman."
+  },
+  {
+   "cid": "250.c1",
+   "date": "",
+   "published": "1936-02-13",
+   "retro": true,
+   "statement": "Tom Allen died at the age of 65."
+  }
+ ]
+}

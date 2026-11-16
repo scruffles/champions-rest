@@ -1,0 +1,250 @@
+{
+ "bucket": "challenge-1869-p2",
+ "kind": "challenge",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "017.c2",
+   "date": "1869-07-08",
+   "published": "1869-07-09",
+   "statement": "Tom Allen said he would meet Charley Gallagher at any place Gallagher named, to draw up articles, if Gallagher covered the $200 deposit."
+  },
+  {
+   "cid": "339.c3",
+   "date": "1869-07-11",
+   "published": "1869-07-13",
+   "statement": "Tom Allen challenged Charley Gallagher to fight him for $500, apart from his McCoole match, in one day, one week or one month."
+  },
+  {
+   "cid": "339.c4",
+   "date": "1869-07-11",
+   "published": "1869-07-13",
+   "statement": "Tom Allen deposited $100 with his backer, Billy Carroll, at 510 Market Street, for Gallagher to cover."
+  },
+  {
+   "cid": "354.c16",
+   "date": "1869-07-13",
+   "published": "1869-08-18",
+   "statement": "On July 13, 1869, Tom Allen and Charley Gallagher made a match for $500 a side and the excursion money, to be fought on August 17 within fifty miles of St. Louis."
+  },
+  {
+   "cid": "347.c1",
+   "date": "1869-08",
+   "published": "1869-08-14",
+   "conf": "medium",
+   "statement": "Ben Hogan arrived in St. Louis and said he was willing to fight Tom Allen."
+  },
+  {
+   "cid": "353.c1",
+   "date": "1869-08",
+   "published": "1869-08-18",
+   "statement": "Patsey Reardon published a challenge in a St. Louis paper to fight Tom Allen."
+  },
+  {
+   "cid": "363.c5",
+   "date": "1869-08",
+   "published": "1869-08-28",
+   "conf": "medium",
+   "statement": "Tom Allen was already under engagement to fight McCoole when Gallagher asked for a meeting."
+  },
+  {
+   "cid": "345.c1",
+   "date": "1869-08-07",
+   "published": "1869-08-07",
+   "statement": "Jim Coyne challenged Ben Hogan to fight four weeks after the Allen and Gallagher fight, for $500 or $1,000 a side."
+  },
+  {
+   "cid": "356.c4",
+   "date": "1869-08-18",
+   "published": "1869-08-19",
+   "conf": "medium",
+   "statement": "Charley Gallagher wanted to add about $1,000 to the stakes and fight Allen again after Allen and McCoole settled their dispute."
+  },
+  {
+   "cid": "358.c1",
+   "date": "1869-08-20",
+   "published": "1869-08-21",
+   "statement": "Joe Wormald wrote to Tom Allen asking him to arrange the preliminaries of a match with Ned O'Baldwin for $5,000 a side."
+  },
+  {
+   "cid": "359.c5",
+   "date": "1869-08-20",
+   "published": "1869-08-21",
+   "statement": "Allen accepted Gallagher's proposal to fight again for the same stakes, adding $1,000 a side."
+  },
+  {
+   "cid": "359.c6",
+   "date": "1869-08-20",
+   "published": "1869-08-21",
+   "conf": "medium",
+   "statement": "Sherman Thurston said Allen had to fight McCoole before making any other engagement."
+  },
+  {
+   "cid": "360.c1",
+   "date": "1869-08-20",
+   "published": "1869-08-21",
+   "conf": "low",
+   "statement": "Tom Allen accepted Gallagher's proposal to leave the stakes on deposit and add $1,900 (printed as $1,900)."
+  },
+  {
+   "cid": "360.c2",
+   "date": "1869-08-20",
+   "published": "1869-08-21",
+   "conf": "medium",
+   "statement": "Allen would name a place within fifty miles of Cincinnati for the fight, to take place in a week or ten days."
+  },
+  {
+   "cid": "360.c3",
+   "date": "1869-08-21",
+   "published": "1869-08-21",
+   "conf": "medium",
+   "statement": "Allen was to meet Gallagher at 3 o'clock on Saturday afternoon to draw up articles."
+  },
+  {
+   "cid": "367.c4",
+   "date": "1869-09-10",
+   "published": "1869-09-26",
+   "conf": "medium",
+   "statement": "Jack Looney offered to back Charley Gallagher against Tom Allen for any amount once Gallagher recovered."
+  },
+  {
+   "cid": "369.c1",
+   "date": "1869-10-09",
+   "published": "1869-10-09",
+   "conf": "medium",
+   "statement": "A deposit of $599 a side (printed as $599) for the Mike McCoole and Tom Allen match was to be made at Allen's saloon on the night of 9 October 1869."
+  },
+  {
+   "cid": "370.c1",
+   "date": "1869-10-09",
+   "published": "1869-10-10",
+   "conf": "medium",
+   "statement": "$500 a side was put up for the Mike McCoole and Tom Allen match on the night of 9 October 1869."
+  },
+  {
+   "cid": "024.c6",
+   "date": "1869-11",
+   "published": "1869-11-07",
+   "conf": "medium",
+   "statement": "Tom Allen said he was ready to fight Mike McCoole for the excursion money or for nothing, to settle which of them was superior."
+  },
+  {
+   "cid": "356.c5",
+   "date": "1869-11",
+   "published": "1869-08-19",
+   "conf": "medium",
+   "statement": "A fight between Tom Allen and Mike McCoole was expected in November 1869, though doubtful."
+  },
+  {
+   "cid": "374.c3",
+   "date": "1869-11",
+   "published": "1869-11-10",
+   "conf": "medium",
+   "statement": "Mike McCoole said he would fight Tom Allen only for the $5000 stakes, not for the excursion money."
+  },
+  {
+   "cid": "374.c4",
+   "date": "1869-11",
+   "published": "1869-11-10",
+   "conf": "medium",
+   "statement": "Tom Allen was willing to fight McCoole for the excursion money or for anything, rather than let the match fall through."
+  },
+  {
+   "cid": "094.c6",
+   "date": "1869-11-10",
+   "published": "1878-12-28",
+   "retro": true,
+   "statement": "Tom Allen and Mike McCoole were to fight for $5,000 and the championship of America on 10 November 1869, but the match fell through over a final stakeholder."
+  },
+  {
+   "cid": "026.c1",
+   "date": "1869-12",
+   "published": "1869-12-10",
+   "conf": "medium",
+   "statement": "A telegram reported that Mace of London was matched to fight Tom Allen for $5,000 a side; Allen's friends and backers in St. Louis denied any such arrangement."
+  },
+  {
+   "cid": "026.c2",
+   "date": "1869-12",
+   "published": "1869-12-10",
+   "conf": "medium",
+   "statement": "It is said that Tom Allen will not go back on his offer to accommodate any man in the world with a fight inside the ropes, but wants time for preliminaries."
+  },
+  {
+   "cid": "377.c6",
+   "date": "1869-12",
+   "published": "1869-12-25",
+   "statement": "The Clipper had reported that Jem Mace accepted Allen's challenge."
+  },
+  {
+   "cid": "025.c1",
+   "date": "1869-12-01",
+   "published": "1869-12-01",
+   "statement": "Tom Allen announced he would fight any man in America for $500 to $10,000, in a square stand-up fight under London prize ring rules."
+  },
+  {
+   "cid": "025.c2",
+   "date": "1869-12-01",
+   "published": "1869-12-01",
+   "statement": "Tom Allen offered to meet Joe Coburn in the ring anywhere in Wyoming Territory, whom he called the leading scientific pugilist in the United States."
+  },
+  {
+   "cid": "377.c2",
+   "date": "1869-12-16",
+   "published": "1869-12-25",
+   "statement": "Through Billy Carroll, Allen offered to fight Jem Mace for $2,500 a side, six months from signing articles."
+  },
+  {
+   "cid": "377.c3",
+   "date": "1869-12-16",
+   "published": "1869-12-25",
+   "conf": "low",
+   "statement": "Allen was ready to sign articles with Mace and put up a $500 forfeit (printed as $5€0), meeting between here and New York, about Pittsburgh."
+  },
+  {
+   "cid": "376.c1",
+   "date": "1869-12-20",
+   "published": "1869-12-21",
+   "conf": "low",
+   "statement": "Tom Allen apparently accepted Joe Coburn's challenge to fight for $10,000 (the report is garbled)."
+  },
+  {
+   "cid": "378.c2",
+   "date": "1869-12-25",
+   "published": "1869-12-29",
+   "statement": "Tom Allen and Jem Mace each deposited $500 with a stakeholder last Saturday."
+  },
+  {
+   "cid": "379.c1",
+   "date": "1869-12-27",
+   "published": "1870-01-01",
+   "statement": "Jem Mace deposited $500 at the Clipper office to cover Tom Allen's challenge and asked Allen to cover it."
+  },
+  {
+   "cid": "379.c2",
+   "date": "1869-12-27",
+   "published": "1870-01-01",
+   "statement": "Mace would not meet Allen in Pittsburgh but offered to meet him in New York and pay half his expenses there."
+  },
+  {
+   "cid": "379.c3",
+   "date": "1869-12-27",
+   "published": "1870-01-01",
+   "conf": "medium",
+   "statement": "Mace's New York friends proposed to present him with a belt, which he would stake against Allen's belt."
+  },
+  {
+   "cid": "286.c1",
+   "date": "1869-12-28",
+   "published": "1870-01-08",
+   "statement": "On Dec. 28, 1869, Tom Allen telegraphed that, not knowing Jem Mace's terms, he was not inclined to go to New York but would forward articles and a deposit."
+  },
+  {
+   "cid": "379.c4",
+   "date": "1869-12-31",
+   "published": "1870-01-01",
+   "conf": "low",
+   "statement": "Billy Carroll, acting for Tom Allen, forwarded forfeit money (printed as $690) to Frank Queen of the New York Clipper, accepting Mace's challenge."
+  }
+ ]
+}

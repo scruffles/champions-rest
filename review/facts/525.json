@@ -1,0 +1,63 @@
+{
+  "id": "525",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "In late June 1875 there was talk of a match between Tom Allen and Ned O'Baldwin, and for three months efforts to arrange a meeting were made.",
+      "excerpt": "alk ofa match to be made between O’Baldwin and Allen",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": ["Ned O'Baldwin"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The paper said that had Ned O'Baldwin lived, a contest with Tom Allen would certainly have taken place the next spring.",
+      "excerpt": "ned O’ Baldwin lived, a contest would certainty have taken place next. spring",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ned O'Baldwin"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "In an exhibition for the Chicago fire sufferers in St. Louis, Tom Allen stopped Ned O'Baldwin in a glove bout, showing clear superiority.",
+      "excerpt": "Tom ‘‘stopped’’ hia in a manner which declared evident superiority",
+      "date": "1871",
+      "date_precision": "year",
+      "people": ["Ned O'Baldwin"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Immediately after that exhibition, Jack Leoney offered $5,000 to back Tom Allen in a match.",
+      "excerpt": "immediately on the close of the exhibition, Jack Leoney offered to plank down $5,000 to back",
+      "date": "1871",
+      "date_precision": "year",
+      "people": ["Jack Leoney"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "A Globe-Democrat reporter called on Tom Allen at his saloon on Washington avenue in St. Louis on September 29, 1875.",
+      "excerpt": "rom yesterday afternoon, at his saloon",
+      "date": "1875-09-29",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["Washington avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "'rom' (printed) is probably Tom, so the saloon claim is medium. The 1871 glove bout was a charity exhibition, so it is an exhibition, not a fight. O'Baldwin's death and career are not about Allen and are left out."
+}

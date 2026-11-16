@@ -1,0 +1,56 @@
+{
+  "id": "317",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested in Ohio and required to sign a bond not to fight in that state.",
+      "excerpt": "Hes Bourn OVER Nor To FIGHT In THat StaTE.",
+      "date": "1869-05",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Ohio"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was under engagement to fight Mike McCoole near St. Louis on the 15th of June.",
+      "excerpt": "who is under engagement to fight McCoole near thiscity on the 15th of Jane,",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was training near Cincinnati, Ohio, for the McCoole fight.",
+      "excerpt": "bas beef in training near Cincinnati. Tt seems that",
+      "date": "1869-05",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": ["Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "near St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "who is under engagement to fight McCoole near thiscity on the 15th of Jane,",
+      "reported_as": "report",
+      "notes": "Planned bout, not yet fought when the article was printed. The text prints 'Jane' for June. The text is heavily garbled; the arrest place, date and magistrate are not legible, so the hint's Storrs' township and Squire Sedam details are left out."
+    }
+  ],
+  "notes": "Headline and body are heavily garbled. Only the Ohio arrest and bond, the bout and the training are legible."
+}

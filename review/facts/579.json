@@ -1,0 +1,105 @@
+{
+  "id": "579",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Referee Eph Holland gave the fight between Tom Allen and Joe Goss to Goss on a foul in the 21st round, near Walton, Boone County, Kentucky.",
+      "excerpt": "I give this fight to Goss on the ground",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Walton, Boone County, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was four years younger than Joe Goss.",
+      "excerpt": "advantages, was four years younger than his op-",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen weighed 174 pounds for his fight with Joe Goss, who weighed 165 pounds.",
+      "excerpt": "ing 174 pounds, while Goss waa fully 165.",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen covered a $1,000 wager from Joe Goss on the result of their fight.",
+      "excerpt": "Allen, nothing loth, produced an equal amount,\nand the bet was made.",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Red Leary offered to bet on a fresh fight for $1,000 a side, and Tom Allen declined because he said he could not have fair play.",
+      "excerpt": "Allen declined on the ground that he could net have fair play.",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Red Leary"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen published a card in the Cincinnati evening papers saying fair play was impossible in this country and announcing his withdrawal from the ring.",
+      "excerpt": "impossible to obtain fair play in this country, and\n\nsannouncing his withdrawal from the ring.",
+      "date": "1876-09-08",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "That will be all ight. Joe.",
+      "topic": "laughing at Goss's complaint in the ninth round"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I’d like to know who does, if he\ncan avoid it.",
+      "topic": "reply about the gaff in the thirteenth round"
+    },
+    {
+      "speaker": "Mrs. O'Gorman",
+      "text": "What a fine man Tom is!\nSee the hair on his breast!",
+      "topic": "praise for Allen at the ring-side in Walton"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09",
+      "date_precision": "month",
+      "place": "farm of P. Lane, about a mile from Walton, Boone County, Kentucky",
+      "result": "loss",
+      "rounds": "21",
+      "duration": "1 hour 50 minutes",
+      "stakes": "$1,000 wager on the result",
+      "rules": "",
+      "excerpt": "I give this fight to Goss on the ground",
+      "reported_as": "report",
+      "notes": "Awarded to Goss on a foul by referee Eph Holland; Allen's side disputed it and Red Leary offered a rematch. Stopped by Kentucky militia in round 7, then resumed at the farm. Day not printed; month inferred from the 8 September card."
+    }
+  ],
+  "notes": "Reprinted from the Cincinnati Enquirer. Fight date is not printed; 1876-09 is inferred."
+}

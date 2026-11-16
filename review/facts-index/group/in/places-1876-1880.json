@@ -1,0 +1,337 @@
+{
+ "bucket": "places-1876-1880",
+ "kind": "places",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "210.c3",
+   "date": "1876",
+   "published": "1903-04-12",
+   "retro": true,
+   "statement": "Allen trained for the Goss fight at a point beyond Carthage."
+  },
+  {
+   "cid": "650.c8",
+   "date": "1876",
+   "published": "1882-02-09",
+   "retro": true,
+   "statement": "After giving bonds following the Goss fight, Tom Allen left for England in 1876."
+  },
+  {
+   "cid": "677.c10",
+   "date": "1876",
+   "published": "1882-12-30",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen went to England about six years before 1882, when he was in the prime of life."
+  },
+  {
+   "cid": "909.c6",
+   "date": "1876",
+   "published": "1895-03-31",
+   "retro": true,
+   "statement": "After the Goss fight Tom Allen got away through Canada and reached a steamer for England."
+  },
+  {
+   "cid": "284.c7",
+   "date": "1876-03-18",
+   "published": "1876-04-15",
+   "conf": "medium",
+   "statement": "The Adelphi manager had not seen Tom Allen since March 18, 1876."
+  },
+  {
+   "cid": "070.c1",
+   "date": "1876-04",
+   "published": "1876-04-17",
+   "statement": "Tom Allen was at the Chicago Adelphi by 17 April, as he had said he would be."
+  },
+  {
+   "cid": "073.c2",
+   "date": "1876-04",
+   "published": "1876-04-25",
+   "conf": "medium",
+   "statement": "Tom Allen was engaged for a week in Chicago while Coburn was in St. Louis, so the two could not be brought together."
+  },
+  {
+   "cid": "074.c2",
+   "date": "1876-04",
+   "published": "1876-04-28",
+   "conf": "medium",
+   "statement": "Fred Watkins thought Tom Allen would continue to live in St. Louis."
+  },
+  {
+   "cid": "544.c2",
+   "date": "1876-04",
+   "published": "1876-04-28",
+   "conf": "medium",
+   "statement": "Chicago papers announced that Tom Allen contemplated taking up his permanent home in Chicago."
+  },
+  {
+   "cid": "071.c3",
+   "date": "1876-04-24",
+   "published": "1876-04-21",
+   "conf": "medium",
+   "statement": "Tom Allen was expected back in St. Louis from Chicago by Monday, 24 April."
+  },
+  {
+   "cid": "074.c1",
+   "date": "1876-04-26",
+   "published": "1876-04-28",
+   "conf": "medium",
+   "statement": "Tom Allen left Chicago on Wednesday evening for St. Louis, and was not expected there before Monday."
+  },
+  {
+   "cid": "544.c1",
+   "date": "1876-04-27",
+   "published": "1876-04-28",
+   "statement": "Tom Allen did not come back to St. Louis from Chicago with Bauer on April 27, 1876, as had been expected."
+  },
+  {
+   "cid": "069.c5",
+   "date": "1876-04-28",
+   "published": "1876-04-13",
+   "conf": "low",
+   "statement": "Tom Allen planned to go to Chicago to fill an engagement and return to St. Louis on the 28th (printed as '2sth')."
+  },
+  {
+   "cid": "077.c1",
+   "date": "1876-05",
+   "published": "1876-05-04",
+   "statement": "In May 1876 Tom Allen was living in St. Louis."
+  },
+  {
+   "cid": "551.c1",
+   "date": "1876-05",
+   "published": "1876-05-04",
+   "statement": "Tom Allen was living in St. Louis in May 1876."
+  },
+  {
+   "cid": "075.c1",
+   "date": "1876-05-01",
+   "published": "1876-05-01",
+   "statement": "Tom Allen arrived in St. Louis from Cincinnati, where he had gone to cover Joe Goss's forfeit money."
+  },
+  {
+   "cid": "075.c7",
+   "date": "1876-05-01",
+   "published": "1876-05-01",
+   "statement": "Tom Allen repeated that he would continue to live in St. Louis and had never intended otherwise."
+  },
+  {
+   "cid": "560.c2",
+   "date": "1876-06",
+   "published": "1876-06-28",
+   "statement": "Tom Allen returned to St. Louis a few days before 28 June 1876 and began systematic training under Jack Madden."
+  },
+  {
+   "cid": "560.c4",
+   "date": "1876-06-27",
+   "published": "1876-06-28",
+   "conf": "medium",
+   "statement": "Otto Burbank announced that Tom Allen would again make his headquarters in St. Louis after the fight with Goss."
+  },
+  {
+   "cid": "561.c5",
+   "date": "1876-07-06",
+   "published": "1876-07-16",
+   "statement": "Tom Allen and Jack Madden left St. Louis for Cincinnati about ten days before this article, at the end of their Comique engagement."
+  },
+  {
+   "cid": "084.c4",
+   "date": "1876-09-06",
+   "published": "1876-09-08",
+   "statement": "Tom Allen and Joe Goss slept in Cincinnati at the Gibson House on the night before the fight."
+  },
+  {
+   "cid": "572.c6",
+   "date": "1876-09-06",
+   "published": "1876-09-06",
+   "statement": "Tom Allen had already left for the fighting ground, with Joe Goss to follow."
+  },
+  {
+   "cid": "085.c3",
+   "date": "1876-09-11",
+   "published": "1876-09-13",
+   "statement": "After his release Tom Allen left Covington for Cincinnati in a carriage with three friends."
+  },
+  {
+   "cid": "581.c1",
+   "date": "1876-09-19",
+   "published": "1876-09-20",
+   "statement": "Tom Allen arrived back in St. Louis on 19 September 1876 after the Goss fight."
+  },
+  {
+   "cid": "581.c2",
+   "date": "1876-09-19",
+   "published": "1876-09-20",
+   "conf": "medium",
+   "statement": "Tom Allen is expected to make his home in St. Louis from now on."
+  },
+  {
+   "cid": "581.c3",
+   "date": "1876-09-19",
+   "published": "1876-09-20",
+   "statement": "Tom Allen was registered at the Olive Street hotel in St. Louis."
+  },
+  {
+   "cid": "087.c3",
+   "date": "1876-09-21",
+   "published": "1876-09-21",
+   "statement": "Tom Allen returned to St. Louis by train from Cincinnati on 1876-09-21."
+  },
+  {
+   "cid": "087.c4",
+   "date": "1876-09-21",
+   "published": "1876-09-21",
+   "statement": "After arriving in St. Louis, Tom Allen went to Tom Kelly's saloon at No. 9 North Ninth street and shook hands with Kelly."
+  },
+  {
+   "cid": "584.c1",
+   "date": "1876-10-23",
+   "published": "1876-10-24",
+   "statement": "Tom Allen and Jem Mace arrived in St. Louis from an extended sparring tour through the Northeast."
+  },
+  {
+   "cid": "587.c8",
+   "date": "1876-11",
+   "published": "1876-11-12",
+   "conf": "medium",
+   "statement": "Some people believed Tom Allen's flight was meant to put as great a distance as possible between him and his Kentucky prosecutors, so he could reach the Pacific coast unseen."
+  },
+  {
+   "cid": "704.c7",
+   "date": "1877",
+   "published": "1884-02-10",
+   "retro": true,
+   "statement": "After posting bond in 1876, Tom Allen left for England and stayed away about five years."
+  },
+  {
+   "cid": "089.c1",
+   "date": "1877-02",
+   "published": "1877-02-23",
+   "statement": "Tom Allen was living in Toronto, Canada, in February 1877."
+  },
+  {
+   "cid": "594.c3",
+   "date": "1877-03",
+   "published": "1877-03-26",
+   "conf": "medium",
+   "statement": "According to the New York Sun, Tom Allen deserted the young men who had put up his bail and fled to Canada."
+  },
+  {
+   "cid": "595.c1",
+   "date": "1877-03",
+   "published": "1877-03-29",
+   "conf": "medium",
+   "statement": "The St. Louis Post-Dispatch reported that Tom Allen had gone to Australia."
+  },
+  {
+   "cid": "596.c1",
+   "date": "1877-03",
+   "published": "1877-03-31",
+   "statement": "In March 1877 Tom Allen was in Canada, out of the way of those with warrants."
+  },
+  {
+   "cid": "148.c34",
+   "date": "1877-05-06",
+   "published": "1892-09-18",
+   "retro": true,
+   "statement": "Tom Allen returned to England on May 6, 1877."
+  },
+  {
+   "cid": "203.c13",
+   "date": "1877-05-06",
+   "published": "1903-04-06",
+   "retro": true,
+   "statement": "Allen returned to England on May 6, 1877."
+  },
+  {
+   "cid": "597.c1",
+   "date": "1877-05-12",
+   "published": "1877-05-18",
+   "statement": "Tom Allen wrote from Halifax to a friend that he would sail for England on May 12, 1877, expecting only a brief stay."
+  },
+  {
+   "cid": "090.c4",
+   "date": "1877-09",
+   "published": "1877-09-29",
+   "conf": "medium",
+   "statement": "Tom Allen had recently turned up in London, according to newspaper reports, by September 1877."
+  },
+  {
+   "cid": "263.c4",
+   "date": "1878",
+   "published": "1978-04-04",
+   "retro": true,
+   "statement": "Tom Allen returned to his native England for a visit in 1878."
+  },
+  {
+   "cid": "262.c8",
+   "date": "1878-05-22",
+   "published": "1978",
+   "retro": true,
+   "statement": "Two years after losing the title, Tom Allen returned to his native England, and on 22 May 1878 ceremonies were held in London in his honour."
+  },
+  {
+   "cid": "093.c6",
+   "date": "1878-08",
+   "published": "1878-08-10",
+   "conf": "low",
+   "statement": "In 1878 Tom Allen was in England, according to a report in the Post-Dispatch."
+  },
+  {
+   "cid": "093.c7",
+   "date": "1878-08",
+   "published": "1878-08-10",
+   "conf": "medium",
+   "statement": "In 1878 well-informed parties said Tom Allen intended to return to St. Louis."
+  },
+  {
+   "cid": "621.c2",
+   "date": "1878-11",
+   "published": "1878-11-24",
+   "statement": "Tom Allen wrote to a St. Louis friend that he was thinking of returning to America."
+  },
+  {
+   "cid": "094.c11",
+   "date": "1878-12",
+   "published": "1878-12-28",
+   "conf": "medium",
+   "statement": "Rumor said Tom Allen intended to return to St. Louis."
+  },
+  {
+   "cid": "628.c2",
+   "date": "1879-05",
+   "published": "1879-05-13",
+   "conf": "medium",
+   "statement": "Tom Allen was expected to recross the Atlantic to contest John Dwyer's claim to the title."
+  },
+  {
+   "cid": "628.c3",
+   "date": "1879-05",
+   "published": "1879-05-13",
+   "conf": "medium",
+   "statement": "A backer of Allen's said that his brother was then in England and that there was hardly any doubt Tom Allen would accompany him back to America."
+  },
+  {
+   "cid": "630.c2",
+   "date": "1879-06",
+   "published": "1879-06-04",
+   "conf": "medium",
+   "statement": "Advices from London said that Tom Allen was in London, England, in June 1879."
+  },
+  {
+   "cid": "632.c3",
+   "date": "1879-11",
+   "published": "1879-11-21",
+   "statement": "Tom Allen, formerly of St. Louis, was living in London, England, in November 1879."
+  },
+  {
+   "cid": "197.c6",
+   "date": "1880",
+   "published": "1903-03-27",
+   "retro": true,
+   "statement": "For about 23 years Allen lived alone in apartments above his saloon."
+  }
+ ]
+}

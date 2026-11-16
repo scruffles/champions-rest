@@ -1,0 +1,30 @@
+{
+  "id": "268",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A sum was posted with Harry Hill and John L. Sullivan was defied to cover it; the fragment does not name the depositor.",
+      "excerpt": "with Mr. Harry Hill and had defied Mr. 'Sullivan to cover that amount",
+      "date": "1882-11",
+      "date_precision": "month",
+      "people": ["John L. Sullivan", "Harry Hill"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "Richard K. Fox's friends advised him to turn Allen adrift or take him out of the race.",
+      "excerpt": "Advieed by Ertends to Turn Atlen Adri or Take him ont of the Race.",
+      "date": "1882-12",
+      "date_precision": "month",
+      "people": ["Richard K. Fox"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Garbled fragment; the subject of the deposit is unclear. The hints for an exhibition at Madison Square Garden (27 Nov 1882) and the 29 Nov dispute over the $1,000 are not in this text and were dropped. The Fox offer date is given as 9 Oct 1882 in 270."
+}

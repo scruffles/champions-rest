@@ -1,0 +1,111 @@
+{
+ "bucket": "legal-1897-1898",
+ "kind": "legal",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "172.c1",
+   "date": "1897-04",
+   "published": "1897-04-27",
+   "conf": "medium",
+   "statement": "Tom Allen fired bullets at the Ohio saloon, a rival across the street that had taken his customers."
+  },
+  {
+   "cid": "172.c2",
+   "date": "1897-04",
+   "published": "1897-04-27",
+   "statement": "Tom Allen was in Police Court on a dual charge of disturbing the peace and carrying concealed weapons."
+  },
+  {
+   "cid": "173.c3",
+   "date": "1897-04-27",
+   "published": "1897-04-30",
+   "conf": "low",
+   "statement": "Tom Allen raised a disturbance and fired several shots at The Ohio, a music and beer hall, early on Tuesday 1897-04-27."
+  },
+  {
+   "cid": "957.c1",
+   "date": "1897-04-27",
+   "published": "1897-04-28",
+   "conf": "medium",
+   "statement": "Tom Allen was arrested at 2 o'clock on the morning of 1897-04-27 for shooting off a revolver in front of his saloon at Seventh and Market streets (printed as 'in f loon')."
+  },
+  {
+   "cid": "957.c2",
+   "date": "1897-04-27",
+   "published": "1897-04-28",
+   "conf": "low",
+   "statement": "Tom Allen was to appear before Judge Peabody on charges of disturbing the peace and a firearms offence; the charge is partly unreadable."
+  },
+  {
+   "cid": "959.c1",
+   "date": "1897-04-27",
+   "published": "1897-04-28",
+   "statement": "Tom Allen was arrested for discharging his revolver in front of his saloon at Seventh and Market streets, St. Louis."
+  },
+  {
+   "cid": "957.c3",
+   "date": "1897-04-28",
+   "published": "1897-04-28",
+   "conf": "medium",
+   "statement": "Tom Allen's case before Judge Peabody was continued until April 30."
+  },
+  {
+   "cid": "172.c3",
+   "date": "1897-04-30",
+   "published": "1897-04-27",
+   "conf": "low",
+   "statement": "Allen's case was continued until April 30 (printed as 'April ov.')."
+  },
+  {
+   "cid": "173.c1",
+   "date": "1897-04-30",
+   "published": "1897-04-30",
+   "statement": "Two cases against Tom Allen were dismissed in Judge Peabody's court on payment of costs."
+  },
+  {
+   "cid": "959.c3",
+   "date": "1897-04-30",
+   "published": "1897-04-28",
+   "conf": "medium",
+   "statement": "Tom Allen was to be tried by Judge Peabody on the following Friday."
+  },
+  {
+   "cid": "966.c1",
+   "date": "1897-07-15",
+   "published": "1897-07-16",
+   "conf": "medium",
+   "statement": "Tom Allen told his housekeeper, Mrs. Mary Duffy, that a man assaulted across the street the night before had died."
+  },
+  {
+   "cid": "966.c2",
+   "date": "1897-07-15",
+   "published": "1897-07-16",
+   "statement": "Tom Allen listened to his housekeeper's account of the assault and informed the authorities."
+  },
+  {
+   "cid": "966.c3",
+   "date": "1897-07-15",
+   "published": "1897-07-16",
+   "statement": "Tom Allen and his housekeeper Mrs. Duffy were summoned before Chief Desmond to tell their stories."
+  },
+  {
+   "cid": "965.c1",
+   "date": "1897-07-16",
+   "published": "1897-07-16",
+   "statement": "Mrs. Duffy, housekeeper for Tom Allen, was the only witness at the coroner's inquest into the death of William C. Brown who said she saw Brown assaulted."
+  },
+  {
+   "cid": "974.c2",
+   "date": "1898-07-01",
+   "published": "1898-07-01",
+   "statement": "At first it was reported that Tom Allen had been shot, but the bullet did not hit him."
+  },
+  {
+   "cid": "975.c2",
+   "date": "1898-07-01",
+   "published": "1898-07-02",
+   "statement": "Several shots were fired during the attack on Tom Allen, but none took effect on him."
+  }
+ ]
+}

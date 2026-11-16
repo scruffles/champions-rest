@@ -1,0 +1,30 @@
+{
+  "id": "149",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A representative of 'Dutch' Niel said Tom Allen would back Niel against Johnnie Daly in a skin-tight glove finish contest at 149 pounds for $500 a side.",
+      "excerpt": "representative says that Tom Allen will back ‘*Dutch’’ against Johnnie fora skin- tight glove finish contest, at 149 pounds, for $5u00 a side",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Dutch Niel", "Johnnie Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Niel said Charley Daly could see Niel at Tom Allen's place to talk business.",
+      "excerpt": "Niel said yesterday that Daly could see him at Allen’s whenever he wants to talk Dusiness.",
+      "date": "1892-11",
+      "date_precision": "month",
+      "people": ["Dutch Niel", "Charley Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The match is only a proposal reported by Niel's representative, not agreed; Allen later denied it (see article 150). Hint's 140 pounds corrected to 149, as printed."
+}

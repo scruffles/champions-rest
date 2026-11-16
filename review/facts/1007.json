@@ -1,0 +1,96 @@
+{
+  "id": "1007",
+  "claims": [
+    {
+      "kind": "death",
+      "statement": "Tom Allen had died, and his body lay at an undertaking establishment.",
+      "excerpt": "While the body of Tom Allen Hes at an undertaking establishment",
+      "date": "1903-04",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Allen's will, filed for probate, left his estate, except $20, to Mrs. Tillie Hartgrave.",
+      "excerpt": "to whom he left all his estate except $20 in a will filed for probate yesterday",
+      "date": "1903-04-06",
+      "date_precision": "day",
+      "people": ["Tillie Hartgrave"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "W. A. Byrne, acting for J. W. L. Gillespie, claims a bill of sale for the goods and fixtures of the Champion's Rest.",
+      "excerpt": "W. A. Byrne, acting for. J. W. L. Gilles- pie, who claims to have @ bill of sale for the goods and fixtures of the Rest",
+      "date": "1903-04-06",
+      "date_precision": "approx",
+      "people": ["W. A. Byrne", "J. W. L. Gillespie"],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "W. A. Byrne said he was prepared to hold the upstairs rooms of the Champion's Rest by force of arms if necessary.",
+      "excerpt": "says he is prepared to hold them by force of arms, if necessary",
+      "date": "1903-04-06",
+      "date_precision": "approx",
+      "people": ["W. A. Byrne"],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "John Murphy, Allen's bartender for several years, refuses to give up possession of the saloon until the matter is straightened out.",
+      "excerpt": "John Murphy, who has worked as bartender for Allen for sev- crai years, refuses to surrender possession until the matter is straightened by ihe",
+      "date": "1903-04-06",
+      "date_precision": "approx",
+      "people": ["John Murphy"],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "Polly Taylor, Allen's daughter, is said to be behind Murphy's refusal to give up the saloon.",
+      "excerpt": "is said to be acting in the interest of Mrs. Polly Taper. 34 Clark avenue, a daugh- ter of Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Polly Taylor", "John Murphy"],
+      "places": ["Clark Avenue"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "legal",
+      "statement": "Polly Taylor was cut off with $10 in her father's will and says she will contest the will in the courts.",
+      "excerpt": "Mrs. Tavtor Was cut off by ber father’s will with $10, and she says she will contest the will in the courts.",
+      "date": "1903-04-06",
+      "date_precision": "approx",
+      "people": ["Polly Taylor"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "Polly Taylor tried to see her father at the Baptist Hospital but was refused permission because he was too ill.",
+      "excerpt": "Mrs. Taylor made an .effort to see her father at the Baptist hospital, but permission was re- fused, on the ground that he was too ill to",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Polly Taylor"],
+      "places": ["Baptist Hospital"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hints that name 'Mrs. Mary Taylor' do not match this text, which names Mrs. Polly Taylor (printed as 'Taper' and 'Tavtor' in places). The rest of the paper's claims about the dispute are one side's accounts and are marked medium or low."
+}

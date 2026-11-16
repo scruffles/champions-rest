@@ -1,0 +1,632 @@
+[
+ {
+  "a": "career-undated-p2#29",
+  "b": "career-undated-p3#5",
+  "score": 0.75,
+  "fa": "[] Tom Allen was described as the veteran ex-champion heavy-weight of America in March 1892.",
+  "fb": "[] Tom Allen was described as an ex-champion heavy-weight in March 1892."
+ },
+ {
+  "a": "challenge-undated-p1#23",
+  "b": "challenge-undated-p2#11",
+  "score": 0.67,
+  "fa": "[1876-05] The fight between Tom Allen and Joe Goss was to take place a fixed time after the articles were signed, in May 1876.",
+  "fb": "[1876-05] Sporting circles expected a fight between Tom Allen and Joe Goss to take place a fixed time after articles were signed."
+ },
+ {
+  "a": "saloon-undated-p1#23",
+  "b": "saloon-undated-p2#4",
+  "score": 0.67,
+  "fa": "[] Tom Allen's saloon, the Champion's Rest, was on Market Street near Seventh Street in St. Louis.",
+  "fb": "[] Tom Allen was a saloon keeper on Market Street in St. Louis, near Seventh Street."
+ },
+ {
+  "a": "life-undated-p1#18",
+  "b": "life-undated-p2#15",
+  "score": 0.64,
+  "fa": "[] Tom Allen's brother Harry was matched to fight Joe Goss for 100 pounds a side, but police arrested Harry and the fight never came off.",
+  "fb": "[] Tom Allen's brother Harry was matched to fight Joe Goss, but the fight never came off."
+ },
+ {
+  "a": "saloon-1888-1891#11",
+  "b": "saloon-undated-p2#4",
+  "score": 0.6,
+  "fa": "[1891-06-24] In June 1891 Tom Allen kept a saloon on Market Street near Seventh Street in St. Louis.",
+  "fb": "[] Tom Allen was a saloon keeper on Market Street in St. Louis, near Seventh Street."
+ },
+ {
+  "a": "career-undated-p2#29",
+  "b": "career-undated-p3#4",
+  "score": 0.6,
+  "fa": "[] Tom Allen was described as the veteran ex-champion heavy-weight of America in March 1892.",
+  "fb": "[] Tom Allen is described as the retired heavy-weight champion of this city in March 1892."
+ },
+ {
+  "a": "other-1873-1875#21",
+  "b": "places-1870-1875#15",
+  "score": 0.58,
+  "fa": "[1874-08] Tom Allen was one of Edwards' seconds in Edwards' fight with Collyer near Pittsburg in August 1874.",
+  "fb": "[1874-08-15] On August 15, 1874, Tom Allen returned to St. Louis from the Edwards-Collyer fight near Pittsburg, Pennsylvania."
+ },
+ {
+  "a": "career-1892-1903#7",
+  "b": "other-1901-1978#9",
+  "score": 0.57,
+  "fa": "[1903-07-28] An estate inventory of Tom Allen's property, dated July 1903, listed a champion's cup.",
+  "fb": "[1903-07-28] The estate inventory of Tom Allen's property listed a champion's cup and shade, a barrel of whisky and other goods, on July 28, 1903."
+ },
+ {
+  "a": "saloon-1868-1873#12",
+  "b": "saloon-undated-p2#4",
+  "score": 0.56,
+  "fa": "[1870] After retiring, Tom Allen opened a saloon on Market Street near Seventh.",
+  "fb": "[] Tom Allen was a saloon keeper on Market Street in St. Louis, near Seventh Street."
+ },
+ {
+  "a": "career-1860-1875#14",
+  "b": "life-1810-1874#14",
+  "score": 0.56,
+  "fa": "[1870-05-10] Tom Allen fought Jem Mace in May 1870.",
+  "fb": "[1870-05-10] Tom Allen fought Jem Mace at New Orleans on May 10, 1870, and was injured in the fight."
+ },
+ {
+  "a": "saloon-1888-1891#11",
+  "b": "saloon-undated-p1#23",
+  "score": 0.55,
+  "fa": "[1891-06-24] In June 1891 Tom Allen kept a saloon on Market Street near Seventh Street in St. Louis.",
+  "fb": "[] Tom Allen's saloon, the Champion's Rest, was on Market Street near Seventh Street in St. Louis."
+ },
+ {
+  "a": "legal-1903#4",
+  "b": "other-1901-1978#4",
+  "score": 0.53,
+  "fa": "[1903-04] Public Administrator Garrard Strode took charge of Tom Allen's estate in April 1903, which was in a muddled condition.",
+  "fb": "[1903-04-08] Public Administrator Garrard Strode took charge of the estate of Thomas Allen, the late saloonkeeper and former prize fighter, on April 8, 1903."
+ },
+ {
+  "a": "other-1867-1869#2",
+  "b": "other-undated-p1#44",
+  "score": 0.5,
+  "fa": "[1867] In 1867 Tom Allen was about 5 feet 10 inches tall and weighed about 164 pounds.",
+  "fb": "[] Tom Allen was 5 feet 9 inches tall and weighed under 175 pounds."
+ },
+ {
+  "a": "saloon-1868-1873#12",
+  "b": "saloon-undated-p1#23",
+  "score": 0.5,
+  "fa": "[1870] After retiring, Tom Allen opened a saloon on Market Street near Seventh.",
+  "fb": "[] Tom Allen's saloon, the Champion's Rest, was on Market Street near Seventh Street in St. Louis."
+ },
+ {
+  "a": "career-undated-p2#29",
+  "b": "career-undated-p3#6",
+  "score": 0.5,
+  "fa": "[] Tom Allen was described as the veteran ex-champion heavy-weight of America in March 1892.",
+  "fb": "[] The paper described Tom Allen as the heavy-weight champion in August 1892."
+ },
+ {
+  "a": "career-1860-1875#13",
+  "b": "other-1870-1872#6",
+  "score": 0.47,
+  "fa": "[1870-04-30] St. Louis friends presented Tom Allen with a championship belt at the Theater Comique on 30 April 1870.",
+  "fb": "[1870-04-30] A championship belt from Allen's St. Louis friends was to be presented to him at his benefit in April 1870, and Mrs. Allen took it with her after the Mace fight."
+ },
+ {
+  "a": "other-undated-p1#28",
+  "b": "other-undated-p2#35",
+  "score": 0.46,
+  "fa": "[] Fred Watkins backed Tom Allen, including when Allen was the acknowledged champion, and was a lifelong friend of his.",
+  "fb": "[] Fred Watkins backed Tom Allen in his big fights, including when Allen was champion pugilist of the world."
+ },
+ {
+  "a": "other-1867-1869#8",
+  "b": "places-1860-1869#5",
+  "score": 0.45,
+  "fa": "[1869-01] In January 1869 Tom Allen trained on the Gravois road, about nine miles from St. Louis, under Tom Kelly.",
+  "fb": "[1869-01] Tom Allen's arrival in St. Louis was announced a few days before 11 January 1869, and he went out on the Gravois road, some nine miles from the city, to train under Tom Kelly."
+ },
+ {
+  "a": "other-1867-1869#20",
+  "b": "saloon-1868-1873#10",
+  "score": 0.45,
+  "fa": "[1869-10-09] Tom Allen and Jim Coyne were to be present at a deposit on October 9, 1869.",
+  "fb": "[1869-10-09] Stakes were put up at Tom Allen's saloon on 9 October 1869 before a large crowd, with Allen and Jim Coyne said to be present."
+ },
+ {
+  "a": "saloon-1868-1873#12",
+  "b": "saloon-undated-p1#22",
+  "score": 0.44,
+  "fa": "[1870] After retiring, Tom Allen opened a saloon on Market Street near Seventh.",
+  "fb": "[] Tom Allen returned to St. Louis and opened a saloon on Market Street."
+ },
+ {
+  "a": "career-1876-1889#9",
+  "b": "career-undated-p2#29",
+  "score": 0.44,
+  "fa": "[1878-03] In March 1878 Tom Allen was described as the Champion of America.",
+  "fb": "[] Tom Allen was described as the veteran ex-champion heavy-weight of America in March 1892."
+ },
+ {
+  "a": "career-1876-1889#21",
+  "b": "career-undated-p2#21",
+  "score": 0.44,
+  "fa": "[1886-06] From 1886 to 1889 the press described Tom Allen as the ex-champion, or the retired champion pugilist, of the world.",
+  "fb": "[] Tom Allen was described as the retired champion of the world in 1883."
+ },
+ {
+  "a": "saloon-undated-p1#22",
+  "b": "saloon-undated-p2#4",
+  "score": 0.44,
+  "fa": "[] Tom Allen returned to St. Louis and opened a saloon on Market Street.",
+  "fb": "[] Tom Allen was a saloon keeper on Market Street in St. Louis, near Seventh Street."
+ },
+ {
+  "a": "career-1876-1889#7",
+  "b": "exhibition-1873-1877#24",
+  "score": 0.43,
+  "fa": "[1876-10-24] In October 1876 the Theatre Comique advertised Tom Allen and Jem Mace as the Two Champions of the World.",
+  "fb": "[1876-10-24] Tom Allen and Jem Mace gave a boxing match at the Theatre Comique in St. Louis on 24 and 25 October 1876."
+ },
+ {
+  "a": "saloon-1895-1901#15",
+  "b": "saloon-undated-p1#11",
+  "score": 0.41,
+  "fa": "[1900] In 1900 Tom Allen was proprietor of the Champion's Rest, a concert hall in a Market Street building in St. Louis's Tenderloin, where he directed a concert nightly for his patrons.",
+  "fb": "[] Tom Allen was proprietor of the Champion's Rest, a saloon and dance hall on Market Street in St. Louis."
+ },
+ {
+  "a": "challenge-1876-1877#5",
+  "b": "places-undated#24",
+  "score": 0.4,
+  "fa": "[1876-03] Tom Allen offered to back Theobald Bauer to wrestle Andre Christol, and Christol replied he would wrestle only in Chicago, not St. Louis.",
+  "fb": "[] Tom Allen brought Theobald Bauer from Boston to St. Louis on word that Andre Christol would wrestle him there."
+ },
+ {
+  "a": "saloon-1888-1891#9",
+  "b": "saloon-undated-p2#4",
+  "score": 0.4,
+  "fa": "[1890-10-13] On 13 October 1890 Tom Allen was described as a saloon-keeper on Market Street.",
+  "fb": "[] Tom Allen was a saloon keeper on Market Street in St. Louis, near Seventh Street."
+ },
+ {
+  "a": "career-1892-1903#4",
+  "b": "career-undated-p3#10",
+  "score": 0.4,
+  "fa": "[1896-06] Tom Allen was advertised as the retired champion pugilist of the world from June 1896 to March 1897.",
+  "fb": "[] Tom Allen was described as the retired champion in 1896 and 1897."
+ },
+ {
+  "a": "career-1892-1903#6",
+  "b": "career-undated-p3#12",
+  "score": 0.4,
+  "fa": "[1903-03] In March and April 1903 Tom Allen was described as a retired champion pugilist living in St. Louis.",
+  "fb": "[] Tom Allen was described as an ex-champion pugilist in April 1897."
+ },
+ {
+  "a": "career-undated-p2#29",
+  "b": "career-undated-p3#9",
+  "score": 0.4,
+  "fa": "[] Tom Allen was described as the veteran ex-champion heavy-weight of America in March 1892.",
+  "fb": "[] Tom Allen was described as the veteran ex-champion of America in November 1896."
+ },
+ {
+  "a": "exhibition-1873-1877#14",
+  "b": "saloon-1874-1887#11",
+  "score": 0.39,
+  "fa": "[1876-02-22] Tom Allen and his trainer Ned Donnelly put on the gloves and sparred at an entertainment, a private benefit for Donnelly given by members of Tom Allen's Gymnasium Club in St. Louis, on 22 February 1876.",
+  "fb": "[1876-02-22] On February 22, 1876, Tom Allen's Gymnasium club held an entertainment in honour of Ned Donnelly."
+ },
+ {
+  "a": "life-1810-1874#20",
+  "b": "other-1873-1875#21",
+  "score": 0.38,
+  "fa": "[1874-08] Tom Allen was struck with a rock before the Edwards-Collyer fight in August 1874 but received no damage from it.",
+  "fb": "[1874-08] Tom Allen was one of Edwards' seconds in Edwards' fight with Collyer near Pittsburg in August 1874."
+ },
+ {
+  "a": "other-1888-1892#3",
+  "b": "saloon-1888-1891#4",
+  "score": 0.38,
+  "fa": "[1888-06-17] Tom Allen was in a street fight with Dan Daly at Seventh and Market streets, St. Louis, on June 17, 1888.",
+  "fb": "[1888-06-18] In June 1888 Tom Allen kept a free-and-easy on Market Street, St. Louis."
+ },
+ {
+  "a": "exhibition-1873-1877#4",
+  "b": "places-1870-1875#11",
+  "score": 0.37,
+  "fa": "[1873-11] Tom Allen was to give an exhibition in Kansas City in November 1873 with Arthur Chambers and Jack Madden.",
+  "fb": "[1873-11] Tom Allen arrived in Kansas City on November 3, 1873 with Arthur Chambers, worked near Omaha, and left Omaha for Kansas City on November 21 after Omaha men threatened to shoot him and Jack Looney."
+ },
+ {
+  "a": "challenge-undated-p1#22",
+  "b": "challenge-1876-1877#12",
+  "score": 0.37,
+  "fa": "[1876-05] A fight between Tom Allen and Joe Goss was pending in May 1876, and Allen expected to make a satisfactory match to be fought in the Southwest.",
+  "fb": "[1876-05-12] Tom Allen and Joe Goss were to meet at Cincinnati on 12 May 1876 to draw up articles for their fight, and Goss said Allen had authorized William Allen of Cincinnati to make the match."
+ },
+ {
+  "a": "challenge-undated-p1#23",
+  "b": "challenge-1876-1877#13",
+  "score": 0.37,
+  "fa": "[1876-05] The fight between Tom Allen and Joe Goss was to take place a fixed time after the articles were signed, in May 1876.",
+  "fb": "[1876-05-12] Tom Allen and Joe Goss signed articles for their fight for the championship of the world at Cincinnati on 12 May 1876, at Eph Holland's Empire Saloon."
+ },
+ {
+  "a": "exhibition-1867-1872#11",
+  "b": "other-1867-1869#17",
+  "score": 0.36,
+  "fa": "[1869-07-01] Tom Allen and Jim Coyne were to give a gloves exhibition at Cincinnati on Thursday night, 1 July 1869.",
+  "fb": "[1869-07-16] Jim Coyne was Tom Allen's mentor in July 1869."
+ },
+ {
+  "a": "career-1860-1875#14",
+  "b": "other-1870-1872#8",
+  "score": 0.36,
+  "fa": "[1870-05-10] Tom Allen fought Jem Mace in May 1870.",
+  "fb": "[1870-05-10] Joe Coburn and Sherman Thurston seconded Tom Allen in his fight with Jem Mace on 10 May 1870."
+ },
+ {
+  "a": "life-1810-1874#14",
+  "b": "other-1870-1872#8",
+  "score": 0.36,
+  "fa": "[1870-05-10] Tom Allen fought Jem Mace at New Orleans on May 10, 1870, and was injured in the fight.",
+  "fb": "[1870-05-10] Joe Coburn and Sherman Thurston seconded Tom Allen in his fight with Jem Mace on 10 May 1870."
+ },
+ {
+  "a": "life-1810-1874#20",
+  "b": "places-1870-1875#15",
+  "score": 0.36,
+  "fa": "[1874-08] Tom Allen was struck with a rock before the Edwards-Collyer fight in August 1874 but received no damage from it.",
+  "fb": "[1874-08-15] On August 15, 1874, Tom Allen returned to St. Louis from the Edwards-Collyer fight near Pittsburg, Pennsylvania."
+ },
+ {
+  "a": "places-1882-1896#17",
+  "b": "other-1888-1892#15",
+  "score": 0.36,
+  "fa": "[1892-09-03] Tom Allen left St. Louis for New Orleans for the Sullivan-Corbett fight with his old backer Fred Watkins and friends, and arrived there on Sunday, September 4, 1892 with a large St. Louis delegation.",
+  "fb": "[1892-09-05] Tom Allen was at the ringside in New Orleans on September 5, 1892, for the McAuliffe-Myer fight, one of the two most noted St. Louisans present, and Fred Watkins was in the St. Louis delegation there."
+ },
+ {
+  "a": "challenge-1882-1897#18",
+  "b": "other-1893-1900#27",
+  "score": 0.36,
+  "fa": "[1897-06] In June 1897 Tom Allen said he would back Denver Ed Smith if Smith could get a fight with a prominent pugilist or one of the big heavyweights.",
+  "fb": "[1897-06-15] On 15 June 1897 Tom Allen of St. Louis offered to back Denver Ed Smith to the extent of $2,000 for a return fight with Joe Choynski or Joe Goddard, if Smith could arrange one."
+ },
+ {
+  "a": "other-1893-1900#26",
+  "b": "saloon-1895-1901#9",
+  "score": 0.34,
+  "fa": "[1897-06-11] In June 1897 Paddy Smith, his brother Denver Ed Smith and Ike Weir, the Belfast Spider, stayed at Tom Allen's place in St. Louis while looking for fights, and Denver Ed Smith shook hands with Allen and had breakfast there on 14 June.",
+  "fb": "[1897-06-14] Denver Ed Smith, Paddy Smith and Ike Weir arrived in St. Louis, were lodged at Tom Allen's place, and held a reception there on Market Street on June 14, 1897, which ran until 2 a.m. Tuesday."
+ },
+ {
+  "a": "other-1870-1872#15",
+  "b": "saloon-1868-1873#16",
+  "score": 0.33,
+  "fa": "[1870-08-06] In August 1870 Tom Allen backed Punch Morris in a $100 fight against Steve O'Donnell, and Morris was quartered at the Wash Home to be trained by Allen's trainer.",
+  "fb": "[1870-08-06] A $100-a-side fight between Punch Morris and Steve O'Donnell was made up at Tom Allen's saloon on Saturday 6 August 1870, and its forfeit money was put up there."
+ },
+ {
+  "a": "places-1870-1875#9",
+  "b": "career-1860-1875#21",
+  "score": 0.33,
+  "fa": "[1873] Tom Allen and Mike McCoole were both residents of St. Louis in 1873, the year Allen beat McCoole.",
+  "fb": "[1873-09-23] Tom Allen beat Mike McCoole on 23 September 1873, regaining the heavyweight title."
+ },
+ {
+  "a": "legal-1884-1896#12",
+  "b": "saloon-1888-1891#9",
+  "score": 0.33,
+  "fa": "[1890-10-12] Edward Reilly said Tom Allen, a saloon-keeper and prize-fighter on Market Street, slugged him without provocation on October 12, 1890, leaving him with severe head injuries.",
+  "fb": "[1890-10-13] On 13 October 1890 Tom Allen was described as a saloon-keeper on Market Street."
+ },
+ {
+  "a": "places-1882-1896#18",
+  "b": "other-1893-1900#1",
+  "score": 0.33,
+  "fa": "[1893-03] Tom Allen arrived in New Orleans in March 1893 to second Ed Smith in his coming contest with Joe Goddard.",
+  "fb": "[1893-03-03] Tom Allen picked Ed Smith to beat Joe Goddard, backed him and won heavily on the bet, and was one of Smith's seconds at the New Orleans fight on 3 March 1893, which Smith fairly won."
+ },
+ {
+  "a": "other-1893-1900#6",
+  "b": "places-1882-1896#19",
+  "score": 0.33,
+  "fa": "[1893-12] Tom Allen was to prepare Mitchell's food and may have been one of his seconds; he assisted in Mitchell's training and was one of his seconds at the Corbett-Mitchell fight in Florida in January 1894.",
+  "fb": "[1893-12-24] Tom Allen planned to go to Jacksonville, Florida, to help prepare Charley Mitchell for his fight with Corbett, and was at Mitchell's training quarters on Anastasia Island near St. Augustine in January 1894."
+ },
+ {
+  "a": "places-1870-1875#3",
+  "b": "life-1810-1874#14",
+  "score": 0.32,
+  "fa": "[1870-05] In May 1870 Tom Allen went to New Orleans to engage Jem Mace, with Joe Coburn expected to travel with him, and returned to St. Louis on May 23 with Mace's agent Abrahams.",
+  "fb": "[1870-05-10] Tom Allen fought Jem Mace at New Orleans on May 10, 1870, and was injured in the fight."
+ },
+ {
+  "a": "other-1870-1872#8",
+  "b": "challenge-1870-1872#4",
+  "score": 0.32,
+  "fa": "[1870-05-10] Joe Coburn and Sherman Thurston seconded Tom Allen in his fight with Jem Mace on 10 May 1870.",
+  "fb": "[1870-05-18] In May 1870 Tom Allen challenged all professional bruisers except Mace and Heenan to fight him, and was particularly anxious that Joe Coburn accept."
+ },
+ {
+  "a": "life-1875-1902#2",
+  "b": "other-1873-1875#25",
+  "score": 0.32,
+  "fa": "[1875-03] In March 1875 Tom Allen weighed about 210 pounds, was in fine health but still quite fleshy, and would have to train down to 172 pounds to fight.",
+  "fb": "[1875-03] Tom Allen said he weighed 210 pounds (printed as '3i0') and had to train down before the Rooke fight."
+ },
+ {
+  "a": "challenge-undated-p1#23",
+  "b": "challenge-1876-1877#12",
+  "score": 0.32,
+  "fa": "[1876-05] The fight between Tom Allen and Joe Goss was to take place a fixed time after the articles were signed, in May 1876.",
+  "fb": "[1876-05-12] Tom Allen and Joe Goss were to meet at Cincinnati on 12 May 1876 to draw up articles for their fight, and Goss said Allen had authorized William Allen of Cincinnati to make the match."
+ },
+ {
+  "a": "life-1810-1874#18",
+  "b": "other-1873-1875#8",
+  "score": 0.31,
+  "fa": "[1873-09-23] Tom Allen fought Mike McCoole on September 23, 1873, and a knuckle on his right hand was slightly cut.",
+  "fb": "[1873-09-23] Tom Allen fought Mike McCoole on September 23, 1873, with Arthur Chambers and Patsy Shepherd among his seconds."
+ },
+ {
+  "a": "challenge-undated-p1#12",
+  "b": "challenge-1873-1874#6",
+  "score": 0.31,
+  "fa": "[1873-11] Ben Hogan challenged Tom Allen to a fight in late 1873, but Allen said Hogan never intended to fight him.",
+  "fb": "[1873-11-28] On 28 and 29 November 1873 Tom Allen challenged Ben Hogan to fight in Canada within weeks, and Hogan declined for now because of illness."
+ },
+ {
+  "a": "exhibition-1873-1877#8",
+  "b": "places-1870-1875#16",
+  "score": 0.31,
+  "fa": "[1875-03] A benefit for Tom Allen was held at Harry Hill's in New York in March 1875, with Allen in the main bout against Jim Coyne.",
+  "fb": "[1875-03] In March 1875 Tom Allen went East, arriving in Newark, meeting Jim Coyne, and going on to New York as Harry Hill's guest, and returned to St. Louis on March 19 after visiting the principal Eastern cities."
+ },
+ {
+  "a": "places-1876-1880#12",
+  "b": "exhibition-1873-1877#24",
+  "score": 0.31,
+  "fa": "[1876-10-23] Tom Allen and Jem Mace arrived in St. Louis on October 23, 1876, from an extended sparring tour through the Northeast.",
+  "fb": "[1876-10-24] Tom Allen and Jem Mace gave a boxing match at the Theatre Comique in St. Louis on 24 and 25 October 1876."
+ },
+ {
+  "a": "places-1870-1875#3",
+  "b": "other-1870-1872#8",
+  "score": 0.3,
+  "fa": "[1870-05] In May 1870 Tom Allen went to New Orleans to engage Jem Mace, with Joe Coburn expected to travel with him, and returned to St. Louis on May 23 with Mace's agent Abrahams.",
+  "fb": "[1870-05-10] Joe Coburn and Sherman Thurston seconded Tom Allen in his fight with Jem Mace on 10 May 1870."
+ },
+ {
+  "a": "places-1870-1875#5",
+  "b": "exhibition-1867-1872#28",
+  "score": 0.3,
+  "fa": "[1871-06-01] In early June 1871 Tom Allen went with Jem Mace's party to Kansas City for the Mace-Coburn fight, arriving with Mace, Dick Hollywood and Jim Cusick on June 1, and went to Westford on June 2, where Joe Coburn did not appear.",
+  "fb": "[1871-06-02] A sparring exhibition between Tom Allen and Jem Mace, with Cusick and Hollywood, was planned for 2 June 1871 at Carroll's Varieties in Kansas City."
+ },
+ {
+  "a": "legal-1868-1874#1",
+  "b": "life-1810-1874#5",
+  "score": 0.29,
+  "fa": "[1868-09] In September 1868 Tom Allen was arrested and put under £1,000 bonds, which ended the planned fight with Joe Goss.",
+  "fb": "[1868-09-04] Tom Allen's brother Harry Allen was matched to fight Joe Goss for £400 and the championship of England on September 4, 1868, and Harry died soon after the planned fight was stopped."
+ },
+ {
+  "a": "places-1860-1869#15",
+  "b": "exhibition-1867-1872#18",
+  "score": 0.29,
+  "fa": "[1869-09] Tom Allen of St. Louis was visiting New York City in September 1869.",
+  "fb": "[1869-09-18] Tom Allen and Jim Coyne gave a sparring exhibition in Rochester, New York, on the night of 18 September 1869."
+ },
+ {
+  "a": "challenge-undated-p2#1",
+  "b": "challenge-1870-1872#3",
+  "score": 0.29,
+  "fa": "[1870-03] In March 1870 Jem Mace was touring with a view to meeting Tom Allen in the ring.",
+  "fb": "[1870-03-23] Jem Mace wrote in a March 1870 card that he would only whip Tom Allen for the reputation and battle-money of their meeting, with no international character."
+ },
+ {
+  "a": "career-1860-1875#14",
+  "b": "exhibition-1867-1872#24",
+  "score": 0.29,
+  "fa": "[1870-05-10] Tom Allen fought Jem Mace in May 1870.",
+  "fb": "[1870-05-28] A sparring match between Jem Mace and Tom Allen was planned for Saturday night, 28 May 1870, with the place still to be chosen."
+ },
+ {
+  "a": "career-1860-1875#21",
+  "b": "life-1810-1874#18",
+  "score": 0.29,
+  "fa": "[1873-09-23] Tom Allen beat Mike McCoole on 23 September 1873, regaining the heavyweight title.",
+  "fb": "[1873-09-23] Tom Allen fought Mike McCoole on September 23, 1873, and a knuckle on his right hand was slightly cut."
+ },
+ {
+  "a": "challenge-1873-1874#4",
+  "b": "challenge-undated-p2#5",
+  "score": 0.29,
+  "fa": "[1873-10] In October 1873 Tom Allen challenged Joe Coburn to a fight for $500 to $5,000 and offered a forfeit.",
+  "fb": "[1873-10] In October 1873 a New York dispatch reported that Joe Coburn said he would fight Tom Allen within four months."
+ },
+ {
+  "a": "career-1876-1889#4",
+  "b": "life-1875-1902#4",
+  "score": 0.29,
+  "fa": "[1876-09] In September 1876 Tom Allen lost the championship of America to Joe Goss in his last battle.",
+  "fb": "[1876-09] In September 1876 Tom Allen was four years younger than his opponent, Joe Goss."
+ },
+ {
+  "a": "career-1876-1889#4",
+  "b": "legal-1875-1883#11",
+  "score": 0.29,
+  "fa": "[1876-09] In September 1876 Tom Allen lost the championship of America to Joe Goss in his last battle.",
+  "fb": "[1876-09-07] Tom Allen and Joe Goss were arrested after their September 7, 1876 fight in Kentucky, and Allen was held at Newport."
+ },
+ {
+  "a": "life-1875-1902#4",
+  "b": "legal-1875-1883#11",
+  "score": 0.29,
+  "fa": "[1876-09] In September 1876 Tom Allen was four years younger than his opponent, Joe Goss.",
+  "fb": "[1876-09-07] Tom Allen and Joe Goss were arrested after their September 7, 1876 fight in Kentucky, and Allen was held at Newport."
+ },
+ {
+  "a": "places-1876-1880#14",
+  "b": "legal-1875-1883#15",
+  "score": 0.29,
+  "fa": "[1877-02] Tom Allen was living in Toronto, Canada, in February 1877.",
+  "fb": "[1877-02-20] Tom Allen stayed in Canada to avoid the Kentucky warrants, and City Marshal Boland of Covington met him in Toronto on February 20, 1877."
+ },
+ {
+  "a": "exhibition-1873-1877#15",
+  "b": "other-1876-1878#3",
+  "score": 0.28,
+  "fa": "[1876-03] Tom Allen played a one-week engagement at the Theatre Comique, Pine Street, St. Louis, in March 1876, setting to with the gloves with Ned Donnelly every evening in the crib scene from Tom and Jerry; it was the last three nights of the run.",
+  "fb": "[1876-03] Tom Allen played a legitimate part in the crib scene from Tom and Jerry at the Theatre Comique, St. Louis, a couple of weeks before April 1876."
+ },
+ {
+  "a": "places-1876-1880#9",
+  "b": "legal-1875-1883#11",
+  "score": 0.28,
+  "fa": "[1876-09-06] Tom Allen and Joe Goss stayed the night before their September 1876 fight at the Gibson House in Cincinnati, and Allen had already left for the fighting ground.",
+  "fb": "[1876-09-07] Tom Allen and Joe Goss were arrested after their September 7, 1876 fight in Kentucky, and Allen was held at Newport."
+ },
+ {
+  "a": "career-1892-1903#7",
+  "b": "saloon-1903#10",
+  "score": 0.28,
+  "fa": "[1903-07-28] An estate inventory of Tom Allen's property, dated July 1903, listed a champion's cup.",
+  "fb": "[1903-07-28] Tom Allen's saloon at Market Street near Seventh had an old piano used at concerts, which the estate inventory listed in July 1903."
+ },
+ {
+  "a": "life-1810-1874#9",
+  "b": "places-1860-1869#9",
+  "score": 0.27,
+  "fa": "[1869-06] In June 1869 Tom Allen's English sweetheart was reported to be joining him, and to be going with him toward St. Louis to marry him.",
+  "fb": "[1869-06] Tom Allen returned to St. Louis instead of going on to Cincinnati, in response to a telegram, in June 1869."
+ },
+ {
+  "a": "life-1810-1874#12",
+  "b": "other-1867-1869#18",
+  "score": 0.27,
+  "fa": "[1869-08-17] Tom Allen fought Charley Gallagher at Chouteau Island on August 17, 1869, and a shot struck the back of his right hand.",
+  "fb": "[1869-08-17] Tom Allen fought Charley Gallagher on August 17, 1869, under American colors; afterwards Gallagher struck at him spitefully as Allen went to shake hands, and the outcome was disputed."
+ },
+ {
+  "a": "challenge-1869-p2#10",
+  "b": "saloon-1868-1873#10",
+  "score": 0.27,
+  "fa": "[1869-10-09] A deposit for the Mike McCoole and Tom Allen match was put up at Allen's saloon on the night of October 9, 1869.",
+  "fb": "[1869-10-09] Stakes were put up at Tom Allen's saloon on 9 October 1869 before a large crowd, with Allen and Jim Coyne said to be present."
+ },
+ {
+  "a": "challenge-undated-p2#1",
+  "b": "other-1870-1872#4",
+  "score": 0.27,
+  "fa": "[1870-03] In March 1870 Jem Mace was touring with a view to meeting Tom Allen in the ring.",
+  "fb": "[1870-03-23] In March 1870, before his fight with Jem Mace, Tom Allen's St. Louis friends said he would beat Mace, and Allen and Mace traded remarks in the newspapers."
+ },
+ {
+  "a": "places-1870-1875#9",
+  "b": "other-1873-1875#13",
+  "score": 0.27,
+  "fa": "[1873] Tom Allen and Mike McCoole were both residents of St. Louis in 1873, the year Allen beat McCoole.",
+  "fb": "[1873-10] Mike McCoole was described as Tom Allen's opponent in October 1873."
+ },
+ {
+  "a": "career-1860-1875#21",
+  "b": "other-1873-1875#8",
+  "score": 0.27,
+  "fa": "[1873-09-23] Tom Allen beat Mike McCoole on 23 September 1873, regaining the heavyweight title.",
+  "fb": "[1873-09-23] Tom Allen fought Mike McCoole on September 23, 1873, with Arthur Chambers and Patsy Shepherd among his seconds."
+ },
+ {
+  "a": "life-1875-1902#16",
+  "b": "other-1888-1892#12",
+  "score": 0.27,
+  "fa": "[1892-04-23] Tom Allen's birthday was celebrated on 23 April 1892.",
+  "fb": "[1892-04-23] Tom Allen held his birthday celebration with friends at his headquarters on Market Street, St. Louis, on April 23, 1892."
+ },
+ {
+  "a": "other-1867-1869#9",
+  "b": "places-1860-1869#6",
+  "score": 0.26,
+  "fa": "[1869-01-12] Tom Allen fought Bill Davis on January 12, 1869, with Bill Ryall and Tom Kelly as his seconds, and collected a contribution of about $150 for Davis after the fight.",
+  "fb": "[1869-01-12] Tom Allen and his trainer Tom Kelly boarded the Henry Adkins at Venice on 12 January 1869 on the way to the Davis fight."
+ },
+ {
+  "a": "exhibition-1882-1903#8",
+  "b": "saloon-1888-1891#2",
+  "score": 0.26,
+  "fa": "[1888-05] Tom Allen's place at 619 Market Street advertised a free concert and boxing by the city's best boxers every evening, in May and June 1888.",
+  "fb": "[1888-05-19] In May 1888 Tom Allen opened a boxing school at 619 Market Street, with a boxing ring in his saloon, joining a popular craze; it was to open that night with the finest singing in the city."
+ },
+ {
+  "a": "places-1860-1869#10",
+  "b": "exhibition-1867-1872#9",
+  "score": 0.25,
+  "fa": "[1869-06-10] Tom Allen left Cincinnati on 10 June 1869 after finishing training, and was due to arrive in St. Louis on Saturday 12 June; by 15 June he was reported as supposed to be at Venice.",
+  "fb": "[1869-06-29] Tom Allen left St. Louis on 29 June 1869 for an extensive sparring tour."
+ },
+ {
+  "a": "exhibition-1867-1872#11",
+  "b": "places-1860-1869#11",
+  "score": 0.25,
+  "fa": "[1869-07-01] Tom Allen and Jim Coyne were to give a gloves exhibition at Cincinnati on Thursday night, 1 July 1869.",
+  "fb": "[1869-07-05] Tom Allen and Jim Coyne were to go from Cincinnati to Louisville in early July 1869 and return to St. Louis; Allen had spent a few days in Cincinnati with his old English sweetheart."
+ },
+ {
+  "a": "exhibition-1867-1872#12",
+  "b": "other-1867-1869#17",
+  "score": 0.25,
+  "fa": "[1869-07-05] Tom Allen gave a sparring exhibition at Benson's Theatre in Louisville on 5 July 1869, where the hall was crowded, and had a set-to with his trainer Jim Coyne.",
+  "fb": "[1869-07-16] Jim Coyne was Tom Allen's mentor in July 1869."
+ },
+ {
+  "a": "places-1860-1869#11",
+  "b": "other-1867-1869#17",
+  "score": 0.25,
+  "fa": "[1869-07-05] Tom Allen and Jim Coyne were to go from Cincinnati to Louisville in early July 1869 and return to St. Louis; Allen had spent a few days in Cincinnati with his old English sweetheart.",
+  "fb": "[1869-07-16] Jim Coyne was Tom Allen's mentor in July 1869."
+ },
+ {
+  "a": "exhibition-1867-1872#13",
+  "b": "places-1860-1869#14",
+  "score": 0.25,
+  "fa": "[1869-08-17] Tickets for a steamboat excursion to the battleground on 17 August 1869 were sold for the benefit of Tom Allen or Charley Gallagher, the steamer leaving the foot of Elm Street that morning.",
+  "fb": "[1869-08-17] Tom Allen and Charley Gallagher were both to go to the fight on 17 August 1869 on the same excursion steamer, joining it at some point beyond the city."
+ },
+ {
+  "a": "challenge-1869-p2#10",
+  "b": "other-1867-1869#20",
+  "score": 0.25,
+  "fa": "[1869-10-09] A deposit for the Mike McCoole and Tom Allen match was put up at Allen's saloon on the night of October 9, 1869.",
+  "fb": "[1869-10-09] Tom Allen and Jim Coyne were to be present at a deposit on October 9, 1869."
+ },
+ {
+  "a": "other-1870-1872#4",
+  "b": "places-1870-1875#2",
+  "score": 0.25,
+  "fa": "[1870-03-23] In March 1870, before his fight with Jem Mace, Tom Allen's St. Louis friends said he would beat Mace, and Allen and Mace traded remarks in the newspapers.",
+  "fb": "[1870-03-23] Tom Allen was a resident of St. Louis in March 1870."
+ },
+ {
+  "a": "places-1870-1875#9",
+  "b": "other-1873-1875#1",
+  "score": 0.25,
+  "fa": "[1873] Tom Allen and Mike McCoole were both residents of St. Louis in 1873, the year Allen beat McCoole.",
+  "fb": "[1873-01-02] Tom Allen and Mike McCoole quarrelled at Jack Looney's New Year's fancy ball at about 4 a.m. on January 2, 1873."
+ },
+ {
+  "a": "exhibition-1873-1877#3",
+  "b": "other-1873-1875#17",
+  "score": 0.25,
+  "fa": "[1873-10-28] Tom Allen had a benefit at Deagle's Theatre in St. Louis on the night of 28 October 1873, with sparring planned, including Ben Hogan, Arthur Chambers and Young Ryan.",
+  "fb": "[1873-10-28] Arthur Chambers was one of Tom Allen's seconds in the Ben Hogan fight at East St. Louis."
+ },
+ {
+  "a": "saloon-undated-p1#4",
+  "b": "other-1888-1892#3",
+  "score": 0.25,
+  "fa": "[1888-06] After Tom Allen tried to invade Dan Daly's saloon, a fight spilled into the street in which Daly whipped Allen.",
+  "fb": "[1888-06-17] Tom Allen was in a street fight with Dan Daly at Seventh and Market streets, St. Louis, on June 17, 1888."
+ }
+]

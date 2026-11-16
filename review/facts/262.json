@@ -1,0 +1,348 @@
+{
+  "id": "262",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost his title to Joe Goss on a foul, disqualified in the 21st round, on an island near Covington, Kentucky, on 7 September 1876.",
+      "excerpt": "Joe Goss on an island near Covington, Ky., on Sept. 7, 1876",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["island near Covington, Ky."],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Bill Davis in 43 rounds on Chouteau Island in 1869.",
+      "excerpt": "finishing off Bill Davis in 43 rounds on Chouteau Island",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Bill Davis"],
+      "places": ["Chouteau Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "In 1869 Tom Allen issued a challenge to Bill McCoole.",
+      "excerpt": "Chouteau Island and issued a challenge to McCoole",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Bill McCoole"],
+      "places": ["Chouteau Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Bill McCoole on Carpenter's Island on 15 June 1869; the bout was stopped and the referee later gave the decision to McCoole.",
+      "excerpt": "met on Carpenter’s Island on June 15, 1869",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Bill McCoole"],
+      "places": ["Carpenter's Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Bill McCoole on Chouteau's Island on 23 September 1871, in a rematch.",
+      "excerpt": "a rematch on Sept. 23, 1871, on Chouteau’s Island. Allen beat McCoole into a bloody pulp in three or four rounds",
+      "date": "1871-09-23",
+      "date_precision": "day",
+      "people": ["Bill McCoole"],
+      "places": ["Chouteau's Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Jem Mace beat Tom Allen by a knockout in the 10th round at Kennersville, Louisiana, about a year after the 1869 McCoole fight.",
+      "excerpt": "took on Allen at Kennersville, La., won on a 10th-round knockout",
+      "date": "1870",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": ["Kennersville, La."],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Allen's claim to the title stood without dispute until he lost on a foul to Joe Goss.",
+      "excerpt": "claim to the title was without dispute then until he lost on the foul to Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Two years after losing the title, Tom Allen returned to his native England, and on 22 May 1878 ceremonies were held in London in his honour.",
+      "excerpt": "Two years later he returned to his native England and on May 22, 1878, appropriate ceremonies to honor him took place",
+      "date": "1878-05-22",
+      "date_precision": "day",
+      "people": [],
+      "places": ["England", "London"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "On 22 May 1878 in London, Tom Allen was presented a silver cup inscribed as champion boxer of England by his friends and admirers.",
+      "excerpt": "Presented To Tom Allen, Champion Boxer of England, by his buddies and admirers",
+      "date": "1878-05-22",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cambridge Hall, Newman St. and Oxford St., London"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Allen's silver cup was retrieved from a Market Street pawn shop in 1938 by the father of Thomas Allen Taylor.",
+      "excerpt": "My father retrieved this cup from a pawn shop",
+      "date": "1938",
+      "date_precision": "year",
+      "people": ["Thomas Allen Taylor"],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "In 1978 Allen's silver cup was in the home of his great-grandson Thomas Allen Taylor.",
+      "excerpt": "That cup today holds a place of honor in the home",
+      "date": "1978",
+      "date_precision": "approx",
+      "people": ["Thomas Allen Taylor"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Allen's daughter Mary, called Polly, returned to the United States with him and later married Edward Taylor of St. Louis.",
+      "excerpt": "called Polly, returned to the United States with him and she subsequently",
+      "date": "1878",
+      "date_precision": "approx",
+      "people": ["Mary Allen", "Edward Taylor"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Polly Allen Taylor and Edward Taylor were the grandparents of Thomas Allen Taylor, Allen's great-grandson.",
+      "excerpt": "They are the grandparents of Thomas Allen Taylor",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Thomas Allen Taylor", "Edward Taylor"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Allen's will left everything to his daughter Polly Allen Taylor and to a friend, Tillie Hartgrove.",
+      "excerpt": "Polly Allen Taylor, and to a friend, Tillie Hartgrove",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Polly Allen Taylor", "Tillie Hartgrove"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "When Allen's will was probated, his estate amounted to $278.35.",
+      "excerpt": "The will amounted to $278.35",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died on 6 April 1903, still operating Sportsmen's Rest.",
+      "excerpt": "which he continued to operate until he died on April 6, 1903",
+      "date": "1903-04-06",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Sportsmen's Rest, Market Street, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Allen's saloon, Sportsmen's Rest, was on Market Street between 6th and 7th, St. Louis, where the old American Theater once stood.",
+      "excerpt": "Allen’s saloon was called Sportsmen’s Rest and was",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Market Street between 6th and 7th, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Arguments at Allen's saloon that could not be settled with words were settled with bare hands in the back room, against the law.",
+      "excerpt": "the principals retired to the back room, accompanied by anybody",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "business",
+      "statement": "Allen had the liquor concession at the island fights.",
+      "excerpt": "The whole thing was not a total loss for Allen. He had the liquor concession.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Allen's face was lined with scars, and he had a terrible scar on his right hand.",
+      "excerpt": "His face was lined with scars. He had another terrible scar on his right hand.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "In later years Allen's hands were shapeless, with the knuckles gone from pounding.",
+      "excerpt": "Pictures of him in later years showed his hands to be shapeless hunks",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "In his fight with Charley Gallagher a shot was fired, the ball struck Allen's hand, a doctor removed it, and the fight went on.",
+      "excerpt": "In a fight with one Charley Gallagher, someone fired a shot",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Allen lost interest in boxing and retired after the Marquis of Queensberry refined the rules.",
+      "excerpt": "Allen lost interest in boxing when the Marquis of Queensberry, appalled by",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Marquis of Queensberry"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "For that first fight with -McCoole; we must have had 1,400 or 1,500 men assembled and they all came to drink and watch the fight.",
+      "topic": "whiskey sales at the island fights"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "They’ve made it a sissy sport",
+      "topic": "on the Queensberry rules"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "so I just kept on fighting and won.",
+      "topic": "after a bullet hit his hand"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "island near Covington, Ky.",
+      "result": "loss",
+      "rounds": "21",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Joe Goss on an island near Covington, Ky., on Sept. 7, 1876",
+      "reported_as": "recollection",
+      "notes": "Disqualified for a foul in the 21st round (printed '2Ist')."
+    },
+    {
+      "opponent": "Bill Davis",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "Chouteau Island",
+      "result": "win",
+      "rounds": "43",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "finishing off Bill Davis in 43 rounds on Chouteau Island",
+      "reported_as": "recollection",
+      "notes": ""
+    },
+    {
+      "opponent": "Bill McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "Carpenter's Island",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "met on Carpenter’s Island on June 15, 1869",
+      "reported_as": "recollection",
+      "notes": "News stories said Allen was winning when the bout was stopped; the referee next night declared McCoole the winner on a foul, and later said he had been intimidated. Other articles name him Mike McCoole."
+    },
+    {
+      "opponent": "Bill McCoole",
+      "date": "1871-09-23",
+      "date_precision": "day",
+      "place": "Chouteau's Island",
+      "result": "win",
+      "rounds": "11",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "a rematch on Sept. 23, 1871, on Chouteau’s Island. Allen beat McCoole into a bloody pulp in three or four rounds",
+      "reported_as": "recollection",
+      "notes": "Text gives both 'three or four rounds' and the eleventh round as the end; 11 used. 253 dates a McCoole rematch to four years after 1869."
+    },
+    {
+      "opponent": "Jem Mace",
+      "date": "1870",
+      "date_precision": "approx",
+      "place": "Kennersville, La.",
+      "result": "loss",
+      "rounds": "10",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "took on Allen at Kennersville, La., won on a 10th-round knockout",
+      "reported_as": "recollection",
+      "notes": "Year worked out from 'a year later' (after the 1869 fight)."
+    }
+  ],
+  "notes": "1978 retrospective. Printed 'Sportsmen's Rest' name consistent. Death 6 April 1903 here; 259 gives Sunday 5 April. Mace-Coburn bouts not about Allen, skipped."
+}

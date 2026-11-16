@@ -1,0 +1,19 @@
+{
+  "id": "547",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen covered a forfeit (printed as 'ae met, forteit putup') put up by Joe Goss at Cincinnati, and arrangements for the fight would soon be completed.",
+      "excerpt": "Tom Allen has covered ae met, forteit putup by Goss, the",
+      "date": "1876-04-29",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Same news item as 546 (Cincinnati dateline, April 29). The text is heavily garbled; the core fact is clear from 546."
+}

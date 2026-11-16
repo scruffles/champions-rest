@@ -1,0 +1,45 @@
+{
+  "id": "494",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "The Allen-Hogan fight, planned for Chouteau Island, did not take place.",
+      "excerpt": "came to the scratch on Chouteau\nIsland",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": ["Chouteau Island"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen had a benefit at night on October 28, 1873.",
+      "excerpt": "were not pres-\nént when Tom Allen’s benfit, at night.",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "place": "Chouteau Island",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "came to the scratch on Chouteau\nIsland",
+      "reported_as": "report",
+      "notes": "Did not take place; Chouteau Island was the planned venue."
+    }
+  ],
+  "notes": "Mostly jokes; the only facts about Allen are the planned Chouteau Island fight and his benefit that night."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "290",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole signed articles to fight for $2,000 a side under the new London prize ring rules on September 23, 1873, within 200 miles of St. Louis.",
+      "excerpt": "ring for the sum of $2,000 a side, the fight to tak:",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen and Mike McCoole were both residents of St. Louis.",
+      "excerpt": "Thomas Allen, both residents of the city of. St.",
+      "date": "1873-05-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "A deposit for the match was to be put up at Tom Allen's house, 417 Washington Avenue, on July 8, 1873.",
+      "excerpt": "July next, at th\nhouse of Tom Allen, 417 Washington avenue.",
+      "date": "1873-07-08",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["417 Washington Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Mike McCoole",
+      "text": "Old boy, you must get well soon, for I inten\nto give you a terrible deal this time.",
+      "topic": "jibe at Allen when the articles were signed"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "within 200 miles of St. Louis (site not chosen; text says south of the city)",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,000 a side",
+      "rules": "London prize ring (new rules)",
+      "excerpt": "ring for the sum of $2,000 a side, the fight to tak:",
+      "reported_as": "report",
+      "notes": "Articles signed 23 May 1873. Deposit schedule is partly garbled in the OCR and not recorded. Outcome not in this article."
+    }
+  ],
+  "notes": "Articles of agreement; no result. Some deposit amounts are garbled and not recorded."
+}

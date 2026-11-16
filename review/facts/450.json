@@ -1,0 +1,36 @@
+{
+  "id": "450",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A rumour said a match between Tom Kelly and Tom Allen was being arranged, but no definite steps had been taken.",
+      "excerpt": "rumor that arrangements would soon be made fer",
+      "date": "1872-11-30",
+      "date_precision": "day",
+      "people": ["Tom Kelly", "Tom Allen"],
+      "places": ["Sixth and Market streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Several friends of Tom Kelly offered to back him with $500 or more to fight Tom Allen, if Allen could be brought down to Kelly's weight.",
+      "excerpt": "Kelly would be backed to any amount provided the arrangements could be made,",
+      "date": "1872-11-29",
+      "date_precision": "day",
+      "people": ["Tom Kelly", "Tom Allen", "Cool O. Herbert"],
+      "places": ["National Theatre"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "an unnamed friend of Tom Kelly",
+      "text": "Tt he id ges Alien cewn to his weight he weuld fignt him in a minute.",
+      "topic": "Allen coming down to Kelly's weight"
+    }
+  ],
+  "fights": [],
+  "notes": "No match was agreed, so no fight entry. The quote is OCR-garbled. The speaker is a friend of Kelly, not named. The benefit was on Friday, November 29, 1872. The hint's $1,000 figure is not legible in the text (only '$1' shows), so it is not used."
+}

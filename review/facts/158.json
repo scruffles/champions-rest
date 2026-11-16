@@ -1,0 +1,25 @@
+{
+  "id": "158",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen is very fond of playing jokes on visitors, and in January 1894 he left a newspaper reporter waiting at Mitchell's training quarters while the trainers took a nap.",
+      "excerpt": "Tom Allen is very fond of playing",
+      "date": "1894-01-18",
+      "date_precision": "day",
+      "people": ["Charley Mitchell"],
+      "places": ["Mitchell's training quarters, Florida"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I will goin and see",
+      "topic": "replying to a reporter's request to see Mitchell"
+    }
+  ],
+  "fights": [],
+  "notes": "The reporter's complaint is about the trainers; Allen's part is the joke. The place is the Florida training quarters as the hint says, and the text gives no more precise place. The quote is from a short reply, so it is included only as a minor example."
+}

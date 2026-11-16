@@ -1,0 +1,379 @@
+{
+ "bucket": "legal-1884-1896",
+ "kind": "legal",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "109.c7",
+   "date": "1884-02",
+   "published": "1884-02-11",
+   "conf": "medium",
+   "statement": "Allen said he had already paid each of his sureties $250 and would pay the whole debt if they gave him time."
+  },
+  {
+   "cid": "109.c8",
+   "date": "1884-02",
+   "published": "1884-02-11",
+   "conf": "medium",
+   "statement": "Farrell sent for a Kentucky requisition and procured Allen's arrest after Allen refused his money demand."
+  },
+  {
+   "cid": "109.c9",
+   "date": "1884-02",
+   "published": "1884-02-11",
+   "conf": "low",
+   "statement": "Allen gave $2,000 bond (printed as $2°000) with Fred Walters and Jos. Schnaider as sureties."
+  },
+  {
+   "cid": "109.c10",
+   "date": "1884-02",
+   "published": "1884-02-11",
+   "conf": "medium",
+   "statement": "Allen declared he would prosecute Farrell for attempted extortion."
+  },
+  {
+   "cid": "110.c5",
+   "date": "1884-02",
+   "published": "1884-02-13",
+   "statement": "Allen was arrested several days before 13 February 1884 at Farrell's instance, to await a Kentucky requisition."
+  },
+  {
+   "cid": "704.c13",
+   "date": "1884-02",
+   "published": "1884-02-10",
+   "statement": "Shortly before his arrest, W. J. Farrell wrote to Tom Allen demanding $200 and then appeared in person."
+  },
+  {
+   "cid": "704.c14",
+   "date": "1884-02",
+   "published": "1884-02-10",
+   "statement": "After a row with Tom Allen over more bond money, W. J. Farrell lodged a complaint that led to Allen's arrest."
+  },
+  {
+   "cid": "109.c1",
+   "date": "1884-02-09",
+   "published": "1884-02-11",
+   "statement": "Tom Allen was arrested on Saturday evening, 9 February 1884, at the instance of W. P. Farrell of Covington, Ky."
+  },
+  {
+   "cid": "109.c2",
+   "date": "1884-02-09",
+   "published": "1884-02-11",
+   "conf": "medium",
+   "statement": "Farrell charged that Allen was wanted to answer an indictment in Kentucky."
+  },
+  {
+   "cid": "704.c1",
+   "date": "1884-02-09",
+   "published": "1884-02-10",
+   "statement": "Tom Allen was arrested at his saloon on Market Street, between Sixth and Seventh streets, on February 9, 1884, as a fugitive from Kentucky justice."
+  },
+  {
+   "cid": "704.c2",
+   "date": "1884-02-09",
+   "published": "1884-02-10",
+   "statement": "Tom Allen gave a $2,000 bond, with Joseph M. Schnaider and Frederick Watkins as securities, to appear before Judge Noonan the next day."
+  },
+  {
+   "cid": "704.c3",
+   "date": "1884-02-09",
+   "published": "1884-02-10",
+   "statement": "Judge Chester H. Krum, Thomas Morris and Frank Turner represented Tom Allen."
+  },
+  {
+   "cid": "110.c6",
+   "date": "1884-02-13",
+   "published": "1884-02-13",
+   "conf": "medium",
+   "statement": "At the 13 February hearing Allen's side argued that Farrell's proceedings were simply an attempt to collect a debt."
+  },
+  {
+   "cid": "110.c7",
+   "date": "1884-02-13",
+   "published": "1884-02-13",
+   "statement": "Judge Noonan released Allen from custody, saying the case would never have been instituted had the money been paid."
+  },
+  {
+   "cid": "110.c8",
+   "date": "1884-02-13",
+   "published": "1884-02-13",
+   "statement": "After hearing both sides, the Prosecuting Attorney said he would not press the matter against Allen."
+  },
+  {
+   "cid": "111.c1",
+   "date": "1884-02-21",
+   "published": "1884-02-21",
+   "statement": "Judge Chester H. Krum asked Gov. Crittenden of Missouri to refuse to surrender Tom Allen on Kentucky's requisition."
+  },
+  {
+   "cid": "111.c4",
+   "date": "1884-02-21",
+   "published": "1884-02-21",
+   "conf": "medium",
+   "statement": "Krum argued the requisition was meant to enforce collection of a debt Allen owed to Farrell, the bearer of the requisition."
+  },
+  {
+   "cid": "111.c5",
+   "date": "1884-02-21",
+   "published": "1884-02-21",
+   "statement": "Gov. Crittenden said he was not prepared to honor the Kentucky requisition for Allen and would consider it well first."
+  },
+  {
+   "cid": "111.c6",
+   "date": "1884-02-21",
+   "published": "1884-02-21",
+   "conf": "low",
+   "statement": "The paper judged that Allen would not be turned over or sent back to Kentucky."
+  },
+  {
+   "cid": "113.c1",
+   "date": "1884-12-22",
+   "published": "1884-12-22",
+   "statement": "Frank Rush was shot in front of Allen's saloon at 621 Market Street at about 1 a.m. on 22 December 1884 by an unknown man who escaped."
+  },
+  {
+   "cid": "754.c1",
+   "date": "1888-04-18",
+   "published": "1888-04-18",
+   "statement": "Tom Allen was the first of the prize-fight suspects arrested under the Franklin County warrants, a few minutes before noon on 1888-04-18."
+  },
+  {
+   "cid": "755.c1",
+   "date": "1888-04-18",
+   "published": "1888-04-18",
+   "statement": "Tom Allen, Flint's second, was named in a warrant charging him with aiding and abetting the McManus-Flint prize fight, a felony."
+  },
+  {
+   "cid": "756.c1",
+   "date": "1888-04-18",
+   "published": "1888-04-19",
+   "statement": "Tom Allen was captured at his saloon by the Franklin County officers and taken to the Four Courts on 1888-04-18."
+  },
+  {
+   "cid": "754.c2",
+   "date": "1888-04-19",
+   "published": "1888-04-18",
+   "statement": "Allen gave a $500 bond to appear before Justice Frazee at Union, Franklin County, at 10 o'clock the next morning."
+  },
+  {
+   "cid": "128.c2",
+   "date": "1888-05",
+   "published": "1888-05-19",
+   "statement": "Tom Allen was indicted by the Franklin County grand jury in connection with the Flint-McManus fight."
+  },
+  {
+   "cid": "128.c3",
+   "date": "1888-05-19",
+   "published": "1888-05-19",
+   "statement": "Tom Allen renewed his bond before Judge Noonan on May 19, 1888, after his indictment."
+  },
+  {
+   "cid": "130.c4",
+   "date": "1888-06-17",
+   "published": "1888-06-18",
+   "statement": "Tom Allen and Charley Daly were taken to the station after the street fight and gave bond."
+  },
+  {
+   "cid": "761.c5",
+   "date": "1888-06-17",
+   "published": "1888-06-18",
+   "statement": "Tom Allen and Charley Daly were taken to the Chestnut Street police station and released on bond."
+  },
+  {
+   "cid": "130.c5",
+   "date": "1888-06-18",
+   "published": "1888-06-18",
+   "statement": "The Police Court case against Tom Allen was continued until Thursday at Allen's request."
+  },
+  {
+   "cid": "131.c1",
+   "date": "1888-06-21",
+   "published": "1888-06-21",
+   "statement": "Tom Allen, Charley Daly and John Ryan were tried in Police Court on counter charges of disturbing the peace over the Sunday-morning street fight."
+  },
+  {
+   "cid": "131.c2",
+   "date": "1888-06-21",
+   "published": "1888-06-21",
+   "statement": "Judge Cady fined Tom Allen $10 for disturbing the peace."
+  },
+  {
+   "cid": "132.c4",
+   "date": "1888-07-20",
+   "published": "1888-07-20",
+   "statement": "Judge Cady fined John Ryan $15 on Tom Allen's charge of malicious trespass."
+  },
+  {
+   "cid": "763.c3",
+   "date": "1888-12-05",
+   "published": "1888-12-08",
+   "conf": "low",
+   "statement": "Allen's second count said Bill Clark received a sum printed as $75) from the Globe Printing Co. for Allen and had not paid it."
+  },
+  {
+   "cid": "763.c1",
+   "date": "1888-12-07",
+   "published": "1888-12-08",
+   "statement": "Tom Allen filed suit against Bill Clark, the final stakeholder in the Daly-McManus match."
+  },
+  {
+   "cid": "763.c2",
+   "date": "1888-12-07",
+   "published": "1888-12-08",
+   "statement": "Allen's petition asked for judgment for $1,000 he had deposited with the stakeholder, with interest and costs."
+  },
+  {
+   "cid": "135.c1",
+   "date": "1889-02-11",
+   "published": "1889-02-11",
+   "statement": "A St. Louis County warrant for prize-fighting, issued by Justice Caffrey, named Tom Allen among those charged for their part in the Kelly-McManus fight at Florissant."
+  },
+  {
+   "cid": "135.c2",
+   "date": "1889-02-11",
+   "published": "1889-02-11",
+   "statement": "Tom Allen was arrested on the afternoon of 11 February 1889 and gave bond."
+  },
+  {
+   "cid": "777.c1",
+   "date": "1889-09",
+   "published": "1889-09-21",
+   "conf": "medium",
+   "statement": "Tom Allen, Tom Kelly and Dan Daly became bondsmen for all the defendants in the Lincoln County prize fight case at Troy."
+  },
+  {
+   "cid": "777.c2",
+   "date": "1889-09",
+   "published": "1889-09-21",
+   "statement": "Each defendant in the Lincoln County prize fight case was held in a $500 bond for his appearance."
+  },
+  {
+   "cid": "777.c3",
+   "date": "1889-09",
+   "published": "1889-09-21",
+   "conf": "low",
+   "statement": "N. C. Dryden of Troy and Mr. Boe of St. Louis were the lawyers for the defendants, as printed in the text."
+  },
+  {
+   "cid": "775.c1",
+   "date": "1889-09-05",
+   "published": "1889-09-06",
+   "statement": "Sheriff Jessie Coomes of Lincoln County, Mo., came to St. Louis seeking the arrest of Tom Allen and others on charges of prize fighting and abetting a fight."
+  },
+  {
+   "cid": "775.c3",
+   "date": "1889-09-05",
+   "published": "1889-09-06",
+   "statement": "The sheriff's arrest papers for Tom Allen and the others appeared to be defective, so he returned to Troy to have them perfected."
+  },
+  {
+   "cid": "776.c2",
+   "date": "1889-09-09",
+   "published": "1889-09-16",
+   "statement": "Tom Allen and the others were arrested in St. Louis about a week earlier by Detectives Burke and Fitzgerald, at the request of Lincoln County authorities."
+  },
+  {
+   "cid": "776.c3",
+   "date": "1889-09-16",
+   "published": "1889-09-16",
+   "conf": "medium",
+   "statement": "The case against Tom Allen and the others was expected to go to trial in Lincoln County on the afternoon of September 16, 1889."
+  },
+  {
+   "cid": "137.c2",
+   "date": "1890-01-20",
+   "published": "1890-01-21",
+   "statement": "James St. John reported his watch and chain stolen and Tom Allen notified police, who took a description of two men."
+  },
+  {
+   "cid": "137.c3",
+   "date": "1890-01-20",
+   "published": "1890-01-21",
+   "statement": "Thomas Barrett and George Ohls were arrested on a corner near Allen's saloon after the watch was stolen."
+  },
+  {
+   "cid": "137.c4",
+   "date": "1890-01-21",
+   "published": "1890-01-21",
+   "statement": "A warrant charging Thomas Barrett with petit larceny was sworn out after St. John identified his watch."
+  },
+  {
+   "cid": "795.c1",
+   "date": "1890-10-12",
+   "published": "1890-10-13",
+   "conf": "medium",
+   "statement": "Edward Reilly said Tom Allen, a saloon-keeper and prize-fighter on Market street, slugged him without provocation, leaving him with severe head injuries."
+  },
+  {
+   "cid": "138.c3",
+   "date": "1891-06-24",
+   "published": "1891-06-24",
+   "statement": "John Craig, an Irishman, was charged in the First District Police Court with disturbing Tom Allen's peace."
+  },
+  {
+   "cid": "138.c4",
+   "date": "1891-06-24",
+   "published": "1891-06-24",
+   "statement": "Judge Morris discharged Craig because a man who had disturbed Allen's peace could not have come out with a face as badly beaten as Craig's."
+  },
+  {
+   "cid": "893.c3",
+   "date": "1893-11-01",
+   "published": "1893-11-01",
+   "statement": "Tom Allen said he would try to get bail bonds for the jailed Sharpe and was willing to put up a cash guarantee."
+  },
+  {
+   "cid": "163.c1",
+   "date": "1894-03-08",
+   "published": "1894-03-08",
+   "statement": "Police arrested a suspect calling himself John Foley at Tom Allen's saloon on Market Street, St. Louis, after a witness pointed him out as one of the robbers of a Broadway saloon."
+  },
+  {
+   "cid": "168.c1",
+   "date": "1895-11-19",
+   "published": "1895-11-21",
+   "statement": "Patrick Sullivan and Charles Dempsey picked a fight with Tom Allen in his saloon on Tuesday night, and were left badly bruised in the Dispensary."
+  },
+  {
+   "cid": "924.c2",
+   "date": "1895-11-20",
+   "published": "1895-11-20",
+   "statement": "At about 1 a.m. Tom Allen fired three shots into the air from the sidewalk outside his saloon to get rid of two quarrelsome men, and no policeman was near."
+  },
+  {
+   "cid": "168.c2",
+   "date": "1895-11-21",
+   "published": "1895-11-21",
+   "conf": "medium",
+   "statement": "Judge Peabody fined Patrick Sullivan $200 and Charles Dempsey $50 (printed as 3530) on Thursday morning for disturbing the peace."
+  },
+  {
+   "cid": "931.c1",
+   "date": "1896-05-15",
+   "published": "1896-05-15",
+   "conf": "low",
+   "statement": "Tom Allen was assaulted at his place, 619 Market street, at 2:30 Friday morning."
+  },
+  {
+   "cid": "931.c2",
+   "date": "1896-05-15",
+   "published": "1896-05-15",
+   "conf": "low",
+   "statement": "Two men jumped onto Tom Allen and one revolver shot was fired."
+  },
+  {
+   "cid": "931.c3",
+   "date": "1896-05-15",
+   "published": "1896-05-15",
+   "conf": "medium",
+   "statement": "Robert Flannigan and Edward Clancy followed an unknown man out of Allen's place and tried to hold him up at a corner of Market street."
+  },
+  {
+   "cid": "931.c4",
+   "date": "1896-05-15",
+   "published": "1896-05-15",
+   "conf": "medium",
+   "statement": "Police arrested Robert Flannigan and Edward Clancy, who were sent to Police Court."
+  }
+ ]
+}

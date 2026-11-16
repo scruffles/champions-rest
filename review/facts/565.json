@@ -1,0 +1,56 @@
+{
+  "id": "565",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was matched to fight Joe Goss, with A. F. Edwards holding the stakes.",
+      "excerpt": "Mr. Edwards, the stakeholder in the Gow and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss", "A. F. Edwards"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Stakeholder A. F. Edwards notified the backers of Tom Allen and Joe Goss that their stake money must be made good by August 7, 1876, at the Empire Saloon in Cincinnati.",
+      "excerpt": "pals that their stake-moncy must be made good by",
+      "date": "1876-08-07",
+      "date_precision": "day",
+      "people": ["A. F. Edwards", "Joe Goss"],
+      "places": ["Empire Saloon, Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Thomas Hackett of St. Louis garnished Tom Allen's stake money, held by A. F. Edwards, over a debt Allen had contracted in St. Louis.",
+      "excerpt": "Alen, in the hands of. A. F. Edwards, for a debt",
+      "date": "1876-08",
+      "date_precision": "month",
+      "people": ["Thomas Hackett", "A. F. Edwards"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Mr. Edwards, the stakeholder in the Gow and",
+      "reported_as": "report",
+      "notes": "Match arranged; no result in this article. Final deposit printed as £1,000 (OCR)."
+    }
+  ],
+  "notes": "Garnishing creditor's name printed as Heckett; given as Thomas Hackett per the hint. Trial date unreadable."
+}

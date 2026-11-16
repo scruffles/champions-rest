@@ -1,0 +1,183 @@
+{
+  "id": "253",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was English born.",
+      "excerpt": "English born, settled in St. Louis in the sixties and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen settled in St. Louis in the 1860s and brought a good fighting reputation with him.",
+      "excerpt": "St. Louis in the sixties and brought with him a pretty good fighting reputation",
+      "date": "1860",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was the only St. Louis fighter living here to claim a world title and gain partial recognition as champion.",
+      "excerpt": "to claim the title and gain at least partial recognition as a world champion",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was the proprietor of a saloon on Market Street east of Seventh.",
+      "excerpt": "proprietor of a saloon on Market street east of Seventh",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Market Street east of Seventh, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole in 1869 and won in the ring, but the referee gave the decision to McCoole.",
+      "excerpt": "Although Allen won the fight, the referee, intimidated by Mc-Coole’s backers",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in seven rounds on an island in the Mississippi, regaining the title.",
+      "excerpt": "Allen cut McCoole to ribbons in seven rounds",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": ["an island in the Mississippi"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Joe Goss beat Tom Allen, who had held the title until then.",
+      "excerpt": "He held it until beaten by Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "After retiring, Tom Allen renamed his saloon Champion's Rest, the name it kept for many years.",
+      "excerpt": "to the one it carried for many years",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place had a large back room with a ring pitched in one corner and a platform for a piano in another.",
+      "excerpt": "included a large back room with a ring pitched in one corner",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen sat by the doorway with a gavel as master of ceremonies and bouncer.",
+      "excerpt": "acted as master of ceremonies or, if need be, bouncer",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "At Allen's place, disputants who got too noisy were thrown into the ring with gloves on and told to fight it out.",
+      "excerpt": "they were thrown into the ring, hands gloved and told to fight it out",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died in 1904 (the article's date; other articles give 1903).",
+      "excerpt": "Tom died in 1904 and the “Champion's Rest” passed out",
+      "date": "1904",
+      "date_precision": "year",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Although Allen won the fight, the referee, intimidated by Mc-Coole’s backers",
+      "reported_as": "recollection",
+      "notes": "Article says Allen won in the ring but the referee gave the decision to McCoole; shown as a loss, disputed."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "year",
+      "place": "an island in the Mississippi",
+      "result": "win",
+      "rounds": "7",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen cut McCoole to ribbons in seven rounds",
+      "reported_as": "recollection",
+      "notes": "Article says 'four years later'; 262 gives 23 Sept 1871 for the rematch."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "He held it until beaten by Joe Goss",
+      "reported_as": "recollection",
+      "notes": "No date or place given."
+    }
+  ],
+  "notes": "1937 retrospective recap. Death year 1904 here; 259 and 262 give 1903. Print quality poor in places."
+}

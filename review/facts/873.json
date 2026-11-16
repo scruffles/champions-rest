@@ -1,0 +1,34 @@
+{
+  "id": "873",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen, champion of America, fought Jem Mace, champion of England, for $2,000 and the championship; the date is not in the visible text.",
+      "excerpt": "was between Jem Mace, champion of d, and Yom Alien, champion of Amer-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace", "Al Smith"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,000 and the championship",
+      "rules": "",
+      "excerpt": "was between Jem Mace, champion of d, and Yom Alien, champion of Amer-",
+      "reported_as": "recollection",
+      "notes": "Garbled OCR: 'Yom Alien' is Tom Allen; stakes read 'championship of ths'. Referee Al Smith is mentioned. Date, place and result are not in the visible text."
+    }
+  ],
+  "notes": "Fragmentary OCR; only the opening of the account survives. The 1870 date is not in this text and is not used."
+}

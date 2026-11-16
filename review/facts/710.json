@@ -1,0 +1,30 @@
+{
+  "id": "710",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen, ex-champion of the world, was to spar Tom Kelly in the wind-up at the Union Base Ball Grounds tournament on July 4 for the Union Club cup.",
+      "excerpt": "Wind-up between Pom Allen, ex-chum-\nplon of the world, and Tom Keily",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Union Base Ball Grounds, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Entries for the tournament could be made at Tom Allen's, among other places, after noon on June 25, 1884.",
+      "excerpt": "ly*s, Tom Allen's, Pe cKington's, Homeiield's, Kirk's",
+      "date": "1884-06-25",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Sparring exhibition only, not a fight. Allen's entry point is not stated to be his saloon."
+}

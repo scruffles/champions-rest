@@ -1,0 +1,67 @@
+{
+  "id": "001",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole was matched to fight Tom Allen for $1,000 on March 17 within 60 miles of St. Louis; articles were signed and a $150 forfeit put up.",
+      "excerpt": "Mike McCoole, “Champion of\nAmerica,” was matched to tight Tom Allen, of Eng-\nland, for one thousand dollars, on the 17th ‘arch.",
+      "date": "1868-03-07",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Looney's", "within 60 miles of St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen sparred Mike McCoole earnestly in the windup of the Saturday night exhibition, and McCoole bled from a reopened cut on his forehead.",
+      "excerpt": "In the wind-up, the set-to between McCoole and Allen was char-\nacterized by a determination and earnestness seldom\nwitnessed in a friendly contest.",
+      "date": "1868-03-07",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen and Bill Ryall had been in St. Louis only a few weeks when this was printed.",
+      "excerpt": "They\nhave been in the city but a few weeks",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bill Ryall"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mike McCoole, after withdrawing from the Allen match, offered to fight Allen for $2,500 ninety days after his fight with Joe Coburn.",
+      "excerpt": "He is willing to fight Allen for $2,500\nninety days after his it with Coburn",
+      "date": "1868-03-08",
+      "date_precision": "day",
+      "people": ["Mike McCoole", "Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1868-03-17",
+      "date_precision": "day",
+      "place": "within 60 miles of St. Louis",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "Mike McCoole, “Champion of\nAmerica,” was matched to tight Tom Allen, of Eng-\nland, for one thousand dollars, on the 17th ‘arch.",
+      "reported_as": "report",
+      "notes": "Planned bout, never fought. Articles signed 1868-03-07 with a $150 forfeit; McCoole withdrew 1868-03-08 at his friends' urging. The text does not say who lost the $150, so 'forfeit' is inferred from the withdrawal."
+    }
+  ],
+  "notes": "The McCoole exhibition and the match were both on Saturday 1868-03-07. The OCR is heavily damaged in places."
+}

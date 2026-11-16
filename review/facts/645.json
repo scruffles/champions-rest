@@ -1,0 +1,85 @@
+{
+  "id": "645",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Private advices from Birmingham, England, said Tom Allen was living there in early 1882.",
+      "excerpt": "Private advices from Birmingham, England, stute that Tom Allen",
+      "date": "1882-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "A mob of roughs at Cork, Ireland, attacked Tom Allen and cut and bruised him so badly that his life was despaired of.",
+      "excerpt": "Allen bad been gitecked by wu mob of roughs at Cork",
+      "date": "1882-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Cork, Ireland"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "It was alleged that welching by Tom Allen was the direct cause of the Cork assault.",
+      "excerpt": "on the part of the ex-pugilist was the direct",
+      "date": "1882-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Cork, Ireland"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen had his home in St. Louis for a number of years.",
+      "excerpt": "who had his home in this city for a number of",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen is described as the ex-champion of America.",
+      "excerpt": "Tom Allen, ex-championof America, who had his home in this city",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Private advices said the property Tom Allen had accumulated in America had vanished.",
+      "excerpt": "the property that he sccumulated on this side of the Atlantic has taken wing and",
+      "date": "1882-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Private advices said Tom Allen had gone to the dogs through dissipation.",
+      "excerpt": "Dissipation, it is suid, made him a wreck of his former self",
+      "date": "1882-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The letter is secondhand (private advices as reported by the paper). The hint's 'Ireland' travel claim is covered by the Cork assault claim. No bout is described."
+}

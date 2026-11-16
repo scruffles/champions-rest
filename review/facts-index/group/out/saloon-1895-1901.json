@@ -1,0 +1,124 @@
+{
+  "bucket": "saloon-1895-1901",
+  "facts": [
+    {
+      "fact": "In January 1895 bartender Andrew Flynn struck Mathew Groves on the jaw in Tom Allen's saloon on Market Street near Seventh, slightly fracturing it.",
+      "date": "1895-01",
+      "seed": "",
+      "conflict": "account of the assault: Groves said he was assaulted without provocation (166.c1) vs Flynn struck him after Groves pulled chairs from under other men (166.c2)",
+      "claims": ["166.c1", "166.c2"]
+    },
+    {
+      "fact": "In 1895 Tom Allen's saloon, Champion's Rest, was at 619 Market Street between Sixth and Seventh streets, St. Louis, and advertised a free concert every evening with the best singers.",
+      "date": "1895-03-16",
+      "seed": "011",
+      "conflict": "",
+      "claims": ["909.c7", "908.c1", "916.c1", "917.c1", "919.c2", "920.c2", "924.c1"]
+    },
+    {
+      "fact": "From May to December 1896 Tom Allen's place was advertised at 619 Market Street, St. Louis, with a free concert every evening, and Allen was billed as the retired champion pugilist of the world.",
+      "date": "1896-05-15",
+      "seed": "",
+      "conflict": "house number: 619 in most readings, but 935.c1 (printed 'G19'), 938.c1 ('619, ge nk street') and 941.c1 ('(19 Market st.') are garbled OCR of the same address; 936.c1 names no number",
+      "claims": ["931.c5", "932.c1", "932.c2", "933.c1", "934.c1", "934.c2", "935.c1", "935.c2", "936.c1", "937.c1", "938.c1", "939.c1", "940.c1", "941.c1", "944.c1", "946.c1", "947.c1"]
+    },
+    {
+      "fact": "On September 25, 1896 Tom Allen sat at a table with a mallet at Champion's Rest and called the frequenters to order to start a McKinley club.",
+      "date": "1896-09-25",
+      "seed": "",
+      "conflict": "",
+      "claims": ["170.c2"]
+    },
+    {
+      "fact": "From January to March 1897 Tom Allen's place was advertised at 619 Market Street, St. Louis, with a free concert every evening and only the best singers engaged.",
+      "date": "1897-01-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["948.c1", "949.c1", "950.c1", "951.c1", "954.c2", "956.c2"]
+    },
+    {
+      "fact": "In January 1897 Tom Allen ran a saloon on Market Street between Sixth and Seventh streets and a concert hall over which he presided every night.",
+      "date": "1897-01",
+      "seed": "019",
+      "conflict": "",
+      "claims": ["171.c2"]
+    },
+    {
+      "fact": "In April 1897 Tom Allen ran his own place of amusement, a dance hall, on lower Market Street.",
+      "date": "1897-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["172.c4"]
+    },
+    {
+      "fact": "On April 27, 1897, after drinking at a party, Tom Allen found his saloon deserted and fired his gun to attract a crowd.",
+      "date": "1897-04-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["959.c2"]
+    },
+    {
+      "fact": "Denver Ed Smith, Paddy Smith and Ike Weir arrived in St. Louis, were lodged at Tom Allen's place, and held a reception there on Market Street on June 14, 1897, which ran until 2 a.m. Tuesday.",
+      "date": "1897-06-14",
+      "seed": "",
+      "conflict": "",
+      "claims": ["962.c1", "963.c2"]
+    },
+    {
+      "fact": "Mrs. Duffy sat at a window over Tom Allen's saloon, almost opposite the Ohio saloon, when an assault occurred on July 14, 1897.",
+      "date": "1897-07-14",
+      "seed": "",
+      "conflict": "",
+      "claims": ["966.c4"]
+    },
+    {
+      "fact": "Tom Allen was badly beaten in front of his saloon on Market Street, near Sixth Street, early in the morning of July 1, 1898.",
+      "date": "1898-07-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["974.c1", "975.c1"]
+    },
+    {
+      "fact": "From July 1898 to June 1899 Tom Allen's place was advertised at 619 Market Street, St. Louis, with a free concert every evening.",
+      "date": "1898-07-16",
+      "seed": "",
+      "conflict": "house number: 619 in the other advertisements vs 610 Market street (977.c1, low)",
+      "claims": ["976.c1", "977.c1", "978.c1", "981.c1", "982.c1", "984.c1", "988.c1", "989.c1", "990.c1", "991.c1"]
+    },
+    {
+      "fact": "In November 1898 Tom Allen was at the Champion's Rest, around the corner from Tom Kelly's.",
+      "date": "1898-11-16",
+      "seed": "",
+      "conflict": "",
+      "claims": ["980.c1"]
+    },
+    {
+      "fact": "On September 5, 1899 Excise officers ordered Tom Allen's Market Street saloon to remove its wineroom; Allen said no woman had been in the place in six months, offered to take the door of his room off its hinges, and was left to construe the order after being told the penalty for disobeying it.",
+      "date": "1899-09-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["188.c1", "188.c2"]
+    },
+    {
+      "fact": "In 1900 Tom Allen was proprietor of the Champion's Rest, a concert hall in a Market Street building in St. Louis's Tenderloin, where he directed a concert nightly for his patrons.",
+      "date": "1900",
+      "seed": "019",
+      "conflict": "status: Allen was retired and proprietor of Champion's Rest (255.c11, retro, published 1941) vs running a concert hall and directing it nightly (279.c2, March 1900)",
+      "claims": ["255.c11", "279.c2"]
+    },
+    {
+      "fact": "In early 1901 Tom Allen owned the Champion's Rest saloon at No. 619 Market Street, St. Louis, a few doors east of Danny Daly's establishment.",
+      "date": "1901-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["996.c1", "191.c1"]
+    },
+    {
+      "fact": "Edward Hodo of Granite City fell down a flight of stairs at Tom Allen's saloon at about 1:40 a.m. on March 3, 1901.",
+      "date": "1901-03-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["191.c2"]
+    }
+  ]
+}

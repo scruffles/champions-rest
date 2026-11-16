@@ -1,0 +1,41 @@
+{
+  "id": "128",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested by the Sheriff of Franklin County in connection with the Flint-McManus fight.",
+      "excerpt": "who were arrested by the Sheriff of Franklin County tn connec",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tom Kelly", "Jake Esher", "Jim Sweeney", "T. J. Tucker"],
+      "places": ["Franklin County"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was indicted by the Franklin County grand jury in connection with the Flint-McManus fight.",
+      "excerpt": "been Indicted by the Grand-jury in that county",
+      "date": "1888-05",
+      "date_precision": "month",
+      "people": ["Tom Kelly", "Jake Esher", "Jim Sweeney", "T. J. Tucker"],
+      "places": ["Franklin County"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen renewed his bond before Judge Noonan on May 19, 1888, after his indictment.",
+      "excerpt": "county and this morning renewed their bonds before Judge Noonan",
+      "date": "1888-05-19",
+      "date_precision": "day",
+      "people": ["Judge Noonan", "Tom Kelly", "Jake Esher", "Jim Sweeney", "T. J. Tucker"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": ""
+}

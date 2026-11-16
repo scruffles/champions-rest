@@ -1,0 +1,67 @@
+{
+  "id": "411",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and McCoole made a match for $2,500 a side (printed as 32.500) to be fought on September 13, 1870.",
+      "excerpt": "The moe was for 32.500aside awl was fixed to come on the 13th of September.",
+      "date": "1870-09-13",
+      "date_precision": "day",
+      "people": ["McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A total of $1,000 had been deposited for the Tom Allen and McCoole match.",
+      "excerpt": "was fixed to come on the 13th of September. The amount already deposited ix $1,000.",
+      "date": "1870-07-02",
+      "date_precision": "approx",
+      "people": ["McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The second deposit of $500 a side for the Tom Allen and McCoole match was not paid to Mr. Murray on July 1, 1870, and Roach, Allen's representative, claimed the stakes already deposited.",
+      "excerpt": "Was not carried out. Koach, Aillen’s representative, was attended by no one to represent McCoole, and the stakes deposited! were claimed by Koach.",
+      "date": "1870-07-01",
+      "date_precision": "day",
+      "people": ["McCoole", "Roach", "Mr. Murray"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen had completed an eastern tour and was expected back in St. Louis on the morning of July 2, 1870.",
+      "excerpt": "Tom Allen, having completed his eastern tour, is expected bere this morning.",
+      "date": "1870-07-02",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "McCoole",
+      "date": "1870-09-13",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,500 a side (printed as 32.500)",
+      "rules": "",
+      "excerpt": "The moe was for 32.500aside awl was fixed to come on the 13th of September.",
+      "reported_as": "report",
+      "notes": "Planned fight, not yet held when printed; the fight was considered off after the second deposit was not paid."
+    }
+  ],
+  "notes": "Fight is planned and its result is unknown. The $2,500 figure is an OCR reading of 32.500."
+}

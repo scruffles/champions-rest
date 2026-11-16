@@ -1,0 +1,52 @@
+{
+  "id": "522",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Arthur Chambers, acting for Allen, sent articles to Harry Hill's for George Rooke to sign for a fight within fifty miles of Detroit at $1,000 a side.",
+      "excerpt": "fight within fifty miles of Detroit for one\nthousand dollars a side",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": ["Arthur Chambers", "George Rooke", "Harry Hill"],
+      "places": ["Syracuse, N.Y.", "Detroit"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen had sent a telegram to Philadelphia a few days earlier, which was forwarded to Arthur Chambers, and the articles were the response.",
+      "excerpt": "to the telegram sent to\nPhiladelphia by Allen, a few days ago",
+      "date": "1875-06",
+      "date_precision": "approx",
+      "people": ["Arthur Chambers"],
+      "places": ["Philadelphia"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Jem Coyne of Newark wrote to Allen planning another match with Rooke and asked Allen to second him.",
+      "excerpt": "antagonist, and wants Tom to second him.",
+      "date": "1875-06-27",
+      "date_precision": "day",
+      "people": ["Jem Coyne", "George Rooke"],
+      "places": ["Newark"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Teddy Neary, brother of Fiddler Neary, was also eager to fight Rooke and would be matched against him if Allen's challenge came to nothing.",
+      "excerpt": "is also anxions to have ago with Rooke",
+      "date": "1875-06-27",
+      "date_precision": "day",
+      "people": ["Teddy Neary", "Fiddler Neary", "George Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Challenge only; Rooke never agreed, so no fight entries. Telegram date printed as 'June 2%' (day unreadable). The letter and the telegram were received 'yesterday' from a June 28 paper, so 1875-06-27. 'Donkey' Neary is printed with garbled quotes; name as printed."
+}

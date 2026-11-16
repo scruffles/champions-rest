@@ -1,0 +1,95 @@
+{
+  "id": "231",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Jem Mace beat Tom Allen in ten rounds on May 10, 1870 at Kennersville, Ind. (as printed), and then declared himself heavyweight champion of the world.",
+      "excerpt": "met in Kennersville, Ind., May 10, 1870, and Mace won in 10 rounds",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Kennersville, Ind. (as printed)"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in seven rounds in St. Louis on September 23, 1873, to settle the heavyweight championship.",
+      "excerpt": "They met in St. Louis, September 23, 1873 and Allen, the Englishman, won in seven rounds",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "After beating McCoole, Tom Allen was recognized by the public as the king of the heavyweights.",
+      "excerpt": "The public then recognized Allen as the king of heavies.",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Joe Goss beat Tom Allen after one hour and fifty-two minutes of fighting, and the championship passed to Goss.",
+      "excerpt": "Allen fought Joe Goss and after one hour and fifty-two minutes of furious fighting Goss won",
+      "date": "1876-05-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "place": "Kennersville, Ind. (as printed)",
+      "result": "loss",
+      "rounds": "10",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "met in Kennersville, Ind., May 10, 1870, and Mace won in 10 rounds",
+      "reported_as": "recollection",
+      "notes": "Place is printed as Kennersville, Ind."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "St. Louis",
+      "result": "win",
+      "rounds": "7",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "They met in St. Louis, September 23, 1873 and Allen, the Englishman, won in seven rounds",
+      "reported_as": "recollection",
+      "notes": "Corbett describes this as the match to decide the real heavyweight champion."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-05-07",
+      "date_precision": "day",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "one hour and fifty-two minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen fought Joe Goss and after one hour and fifty-two minutes of furious fighting Goss won",
+      "reported_as": "recollection",
+      "notes": "Date pieced together from 'On May 7' and ', 1876' with an OCR gap between them; confidence medium."
+    }
+  ],
+  "notes": "Corbett's account in the 1918 series. The Mace fight place is printed as Kennersville, Ind."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "540",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen introduced Prof. Bauer and Herr Heygster to the audience at the Temple, St. Louis, before their second wrestling match.",
+      "excerpt": "Tom Allen,the champion pugilist, introduced the men to the audience",
+      "date": "1876-04-08",
+      "date_precision": "day",
+      "people": ["Prof. Bauer", "Herr Heygster"],
+      "places": ["Temple, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "During the recess Tom Allen announced that a silver belt, which Bauer's friends had obtained for him as champion Greco-Roman wrestler of America, would be presented to Bauer.",
+      "excerpt": "silver belt, which Bauer's friends had gotten",
+      "date": "1876-04-08",
+      "date_precision": "day",
+      "people": ["Prof. Bauer"],
+      "places": ["Temple, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen was only master of ceremonies (announcer) at the Bauer-Heygster match; he did not fight. Date from 'last evening' in a paper of 1876-04-09."
+}

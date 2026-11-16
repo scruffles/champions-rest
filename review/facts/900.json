@@ -1,0 +1,51 @@
+{
+  "id": "900",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The paper calls Tom Allen the ex-champion in October 1894.",
+      "excerpt": "Tom Allen, the ex- hampion, while dis- feussing",
+      "date": "1894-10-26",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charlie Gallagher knocked out Tom Allen in the second round; Allen blamed a snow-filled hole he stepped into.",
+      "excerpt": "That settled the fight. I was kEnocked out.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charlie Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I do say that it was a chance blow which defeated me",
+      "topic": "chance blow in his defeat by Gallagher"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Charlie Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "2",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "That settled the fight. I was kEnocked out.",
+      "reported_as": "recollection",
+      "notes": "Allen's own account: he had the better of the first round, then slipped into a snow-filled hole in the second. The date of the bout is not given in the text (the hint's 1869 is not in the text)."
+    }
+  ],
+  "notes": "Allen's October 1894 recollection of his defeat by Gallagher. The OCR is damaged; excerpts copy it as printed."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "889",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Andrew Carlson recalled seeing Tom Allen fight Mike McCoole down the river, in the days of steamboats.",
+      "excerpt": "saw Tom Allen and Mike McCoole fight down the river in the good old days",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Andrew Carlson", "Mike McCoole"],
+      "places": ["down the river"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher beat Tom Allen in three rounds somewhere near Chester, Illinois, as Andrew Carlson recalled.",
+      "excerpt": "Charley Gallaghefdoup Tom Allen in three terrific rounds somewhere near Chester, Il.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Andrew Carlson", "Charley Gallagher"],
+      "places": ["near Chester, Illinois"],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "down the river",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "saw Tom Allen and Mike McCoole fight down the river in the good old days",
+      "reported_as": "recollection",
+      "notes": "No date, result or place beyond 'down the river'. Article 890 gives a separate 1873 Allen-McCoole bout that Allen won; this may or may not be the same bout."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "near Chester, Illinois",
+      "result": "loss",
+      "rounds": "3",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Charley Gallaghefdoup Tom Allen in three terrific rounds somewhere near Chester, Il.",
+      "reported_as": "recollection",
+      "notes": "The verb is garbled in the OCR ('Gallaghefdoup'); read as 'do up' (beat), as the hint has it. Low confidence."
+    }
+  ],
+  "notes": "Carlson's recollections of the old days. The rest of the quote is his general remark on prize fighting, which does not concern Allen."
+}

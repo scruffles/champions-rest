@@ -1,0 +1,34 @@
+{
+  "id": "649",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was swindled out of a victory over Joe Goss near Cincinnati in 1876 by a fraudulent claim of foul.",
+      "excerpt": "swindled out of oa vietory over Goss (on a fraudulent. claim of foul",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": ["near Cincinnati"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876",
+      "date_precision": "year",
+      "place": "near Cincinnati",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "swindled out of oa vietory over Goss (on a fraudulent. claim of foul",
+      "reported_as": "recollection",
+      "notes": "The paper says Allen was robbed of the victory by a fraudulent foul claim, so the official result may have been a loss. It may or may not be the Goss bout described in the 1882 article printed on 16 January (644), which gives no date."
+    }
+  ],
+  "notes": ""
+}

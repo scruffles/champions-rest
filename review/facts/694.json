@@ -1,0 +1,30 @@
+{
+  "id": "694",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen attended a quoits game between Dr. Truman of St. Louis and G. Knowles at Sam Swancut's in West Belleville, on April 8, 1883.",
+      "excerpt": "Tom Allen, ex-pugilist, was present and Was made alion of by the sporting community.",
+      "date": "1883-04-08",
+      "date_precision": "day",
+      "people": ["Dr. Truman", "G. Knowles", "Sam Swancut"],
+      "places": ["West Belleville"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as an ex-pugilist.",
+      "excerpt": "Tom Allen, ex-pugilist, was present and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen's presence is only a line in a list of notes; the quoits match itself is not about him. The hint's 'West Belleville, Illinois' is shortened to the printed place name."
+}

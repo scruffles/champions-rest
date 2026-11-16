@@ -1,0 +1,41 @@
+{
+  "id": "451",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen and Mike McCoole quarrelled at Jack Looney's New Year's fancy ball, about 4 a.m. on January 2, 1873.",
+      "excerpt": "scene of an altercation between Tom Allen and",
+      "date": "1873-01-02",
+      "date_precision": "day",
+      "people": ["Tom Allen", "Mike McCoole", "Jack Looney"],
+      "places": ["Jack Looney's fancy ball"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered to fight Mike McCoole at any time, for any amount, and put $500 down on the counter as a forfeit; McCoole did not respond.",
+      "excerpt": "accompanied his offer by putting $500 down on the",
+      "date": "1873-01-02",
+      "date_precision": "day",
+      "people": ["Tom Allen", "Mike McCoole"],
+      "places": ["Jack Looney's fancy ball"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "D’y’e mean foighting?",
+      "topic": "challenge to McCoole"
+    },
+    {
+      "speaker": "Mike McCoole",
+      "text": "I can bate you at that, or any other game",
+      "topic": "boast about dancing and other games"
+    }
+  ],
+  "fights": [],
+  "notes": "Challenge was not accepted, so it is a challenge claim, not a fight. The second quote is McCoole's words with a line break in the OCR. Hint 1 is kept and says 'at any time'; the text says 'at any time, in a day or a week, and for any amount'."
+}

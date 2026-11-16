@@ -1,0 +1,19 @@
+{
+  "id": "595",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "The St. Louis Post-Dispatch reported that Tom Allen had gone to Australia.",
+      "excerpt": "Joe Coburn is in Auburn prison, Joe Goss in a Kentucky prison, Jem Mace a fugitive in Canada, Clark and Weeden are in jail in New Jersey, and Tom Allen has gone te Australia.",
+      "date": "1877-03",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Australia"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Other papers that month placed Allen in Canada; this is the Post-Dispatch's report only."
+}

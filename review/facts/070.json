@@ -1,0 +1,58 @@
+{
+  "id": "070",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was at the Chicago Adelphi by 17 April, as he had said he would be.",
+      "excerpt": "Tom Allen turned up all right at the Chi-",
+      "date": "1876-04",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Chicago Adelphi, Chicago"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen telegraphed the Dispatch from Chicago on 17 April that he would fight Joe Coburn with gloves for all the money Coburn could get.",
+      "excerpt": "burn with the gloves for all the money he",
+      "date": "1876-04-17",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Joe Coburn refused Allen's offer, calling it one of Allen's advertising dodges, and said he would fight Allen for fun without gloves in St. Louis.",
+      "excerpt": "position, for I know that he don’t",
+      "date": "1876-04-17",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Jem Mace wrote to Joe Coburn that Joe Goss, then in New York, had come over on a special mission to fight Allen.",
+      "excerpt": "on a special mission to fight Allen.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace", "Joe Coburn", "Joe Goss"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "T learn that Joe Goss is notin this coua- try, as reported. This story was gotten —T by Joe Coburn and his friends.",
+      "topic": "Goss not in the country; story got up by Coburn"
+    }
+  ],
+  "fights": [],
+  "notes": "The telegram is in the paper's text as printed, with OCR breaks. The Goss story is rumour from Mace's letter, which Allen denies."
+}

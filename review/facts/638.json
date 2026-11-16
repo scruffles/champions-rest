@@ -1,0 +1,19 @@
+{
+  "id": "638",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said no would-be champion in England would take £50 or £100 and fight him for it.",
+      "excerpt": "that.will take £50 or £100 and fight him for it.",
+      "date": "1880-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["England"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Short item in a sporting column; a boast reported by the paper, not a direct quote."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "407",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole agreed to fight in the prize ring on 13 September 1870, near St. Louis.",
+      "excerpt": "The Fight to Take Place onthe 13th",
+      "date": "1870-09-13",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["near St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole met at Coyne's saloon, Third Street, on 28 May 1870, each put up $500, and signed articles of agreement.",
+      "excerpt": "Each man put up $500, snd the following",
+      "date": "1870-05-28",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Coyne's saloon, Third Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The match between Tom Allen and Mike McCoole was made for $2,500 a side.",
+      "excerpt": "A MATCH MADE FOR $2,500ASIDE",
+      "date": "1870-05-28",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1870-09-13",
+      "date_precision": "day",
+      "place": "near St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,500 a side",
+      "rules": "prize ring",
+      "excerpt": "The Fight to Take Place onthe 13th",
+      "reported_as": "report",
+      "notes": "Match agreed on 1870-05-28 for 13 September 1870; the article reports the agreement, not a result. Year 1870 is from context."
+    }
+  ],
+  "notes": "The articles of agreement text is not in the OCR. Coyne's saloon is not Allen's own saloon."
+}

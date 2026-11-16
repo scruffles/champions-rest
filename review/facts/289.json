@@ -1,0 +1,41 @@
+{
+  "id": "289",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "According to the New York Sun, Arthur Chambers named Tom Allen as his 'unknown' for a $2,500-a-side match with George Rooke.",
+      "excerpt": "your name is announced\n-by Chambers as being the",
+      "date": "1875-02-17",
+      "date_precision": "day",
+      "people": ["Arthur Chambers", "George Rooke"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "George Rooke, signing himself 'Champion of the United States', issued a challenge to heavyweight fighters, and to Tom Allen in particular.",
+      "excerpt": "fighters in general,and to Tom Adlen in particular,",
+      "date": "1875-02",
+      "date_precision": "approx",
+      "people": ["George Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Allen asserted he would no longer fight in the roped arena.",
+      "excerpt": "would mo: more “shy his;\ncastor” within the roped arena.",
+      "date": "1875-02-20",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Heavily garbled OCR: Allen's own denials and most of the interview are unreadable, so no quotes are kept. The hint about the Champion's Rest saloon and leaving Missouri is not in the readable text and is dropped. The rest of the page is other news and a gear-wheel item."
+}

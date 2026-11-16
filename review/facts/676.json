@@ -1,0 +1,30 @@
+{
+  "id": "676",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Richard K. Fox telegraphed Charles Davies in Chicago that he would not back Tom Allen against Elliott and had dropped Allen altogether, because of Allen's conduct since leaving New York.",
+      "excerpt": "him against such a man as Elliott, and",
+      "date": "1882-12",
+      "date_precision": "approx",
+      "people": ["Richard K. Fox", "Charles Davies", "Elliott"],
+      "places": ["Chicago", "New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen had left New York, according to Richard K. Fox's telegram.",
+      "excerpt": "he left New York, he could not trust his",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Richard K. Fox"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Fox's telegram was 'recently sent' before the paper of 1882-12-21. The text does not name Chicago as Allen's destination; it only says the Chicago public would see the backing."
+}

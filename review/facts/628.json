@@ -1,0 +1,52 @@
+{
+  "id": "628",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen had all along been the recognized champion of America.",
+      "excerpt": "who has all along been the recognized champion of America",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was expected to recross the Atlantic to contest John Dwyer's claim to the title.",
+      "excerpt": "it is now more than probable that Tom Allen, the renowned pugilist, who has all along been the recognized champion of America, will re-cross the Atlantic for the purpose of contesting",
+      "date": "1879-05",
+      "date_precision": "month",
+      "people": ["John Dwyer"],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "A backer of Allen's said that his brother was then in England and that there was hardly any doubt Tom Allen would accompany him back to America.",
+      "excerpt": "States that bis brother is now in En- giand, and that there is hardiy any doubt that Tom will accompany him on bis return to America",
+      "date": "1879-05",
+      "date_precision": "month",
+      "people": ["unknown"],
+      "places": ["England", "America"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen's friends in America were willing to make a match with Dwyer for as much money as the opposition wanted.",
+      "excerpt": "they are willing to make the match foras mach money as the op- position desire",
+      "date": "1879-05-12",
+      "date_precision": "day",
+      "people": ["John Dwyer"],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The paper's own description of Allen's standing and a St. Louis backer's account, both unattributed by name. No direct speech from Allen."
+}

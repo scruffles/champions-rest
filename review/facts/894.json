@@ -1,0 +1,85 @@
+{
+  "id": "894",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen won a big piece of money when Ed Smith defeated Joe Goddard at New Orleans.",
+      "excerpt": "who won a tig piisof money when Smith de-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Ed Smith wrote to Tom Allen, in a letter received on 22 December 1893, that his next fight would be with the winner of the Corbett-Mitchell fight.",
+      "excerpt": "determined to make my nex! fignt with the winner of the Mitcbeli-Corbaet!",
+      "date": "1893-12-22",
+      "date_precision": "day",
+      "people": ["Ed Smith", "Mitchell", "Corbett"],
+      "places": ["Jacksonville"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen wrote to Ed Smith several weeks before December 1893 advising him to try to arrange a match with Jackson.",
+      "excerpt": "advising him to try to arrange B match with Jackson",
+      "date": "1893-11",
+      "date_precision": "approx",
+      "people": ["Ed Smith", "Jackson"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Ed Smith was expected to arrive in St. Louis on 24 December 1893 on his way to Jacksonville.",
+      "excerpt": "is excected to arrive in St. Emam) to-merrow night, ox",
+      "date": "1893-12-24",
+      "date_precision": "day",
+      "people": ["Ed Smith"],
+      "places": ["St. Louis", "Jacksonville"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Ed Smith planned to stay in St. Louis about a week and then go with Tom Allen to Jacksonville.",
+      "excerpt": "Ho will be bere, he writes, Sundar Bight and etay a week orsoand thea go co wish me to Jacksonville.",
+      "date": "1893-12-24",
+      "date_precision": "day",
+      "people": ["Ed Smith"],
+      "places": ["St. Louis", "Jacksonville"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "The paper calls Tom Allen an ex-champion (the OCR reads Ex-eChamyioa).",
+      "excerpt": "Ex-eChamyioa Tom Alles, who isagroatadmirer of Smith, and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I waat to see Smith maet Jackson as poon as be can, continued Allen. ‘i san him mect the colored man in Battory LD, Chicago, and ne could have knocked bim ou! in i0 rounds.",
+      "topic": "wants Smith to fight Jackson"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I pave been recelving ictters ‘rom diitcneil pod he says he is in ine suspe alrsady.",
+      "topic": "Mitchell's condition"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen's remark about seeing a bout at Battery D, Chicago is ambiguous in the OCR (who was knocked out is unclear), so it is only in the quote. Smith-Goddard is not Allen's fight; the purse and date of that bet are not given."
+}

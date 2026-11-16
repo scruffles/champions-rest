@@ -1,0 +1,378 @@
+{
+ "bucket": "saloon-1895-1901",
+ "kind": "saloon",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "166.c1",
+   "date": "1895-01",
+   "published": "1895-01-11",
+   "conf": "medium",
+   "statement": "Mathew Groves said he was assaulted without provocation in Tom Allen's saloon on Market Street near Seventh."
+  },
+  {
+   "cid": "166.c2",
+   "date": "1895-01",
+   "published": "1895-01-11",
+   "conf": "medium",
+   "statement": "Andrew Flynn, the bartender at Tom Allen's saloon, struck Mathew Groves on the jaw, slightly fracturing it, after Groves pulled chairs from under other men."
+  },
+  {
+   "cid": "909.c7",
+   "date": "1895-03",
+   "published": "1895-03-31",
+   "statement": "Tom Allen's saloon, Champion's Rest, is on Market street near Seventh in St. Louis."
+  },
+  {
+   "cid": "908.c1",
+   "date": "1895-03-16",
+   "published": "1895-03-16",
+   "statement": "Tom Allen advertised a free concert every evening at 619 Market street."
+  },
+  {
+   "cid": "916.c1",
+   "date": "1895-09-28",
+   "published": "1895-09-28",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market street, St. Louis."
+  },
+  {
+   "cid": "917.c1",
+   "date": "1895-10-19",
+   "published": "1895-10-19",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market street, with first-class singers only."
+  },
+  {
+   "cid": "919.c2",
+   "date": "1895-11-02",
+   "published": "1895-11-02",
+   "statement": "Tom Allen's place at 619 Market Street advertised a free concert every evening, with only the best singers engaged."
+  },
+  {
+   "cid": "920.c2",
+   "date": "1895-11-09",
+   "published": "1895-11-09",
+   "conf": "low",
+   "statement": "Tom Allen advertised a free concert every evening at his Market street place, with only the best singers engaged (street number printed as 'GIY')."
+  },
+  {
+   "cid": "924.c1",
+   "date": "1895-11-20",
+   "published": "1895-11-20",
+   "statement": "Tom Allen, the ex-pugilist, kept a saloon on Market Street between Sixth and Seventh streets."
+  },
+  {
+   "cid": "931.c5",
+   "date": "1896-05-15",
+   "published": "1896-05-15",
+   "conf": "medium",
+   "statement": "Tom Allen's place was at 619 Market street, St. Louis."
+  },
+  {
+   "cid": "932.c1",
+   "date": "1896-06-06",
+   "published": "1896-06-06",
+   "conf": "low",
+   "statement": "Tom Allen (printed as 'Tom ei') advertised his place at 619 Market street, St. Louis."
+  },
+  {
+   "cid": "932.c2",
+   "date": "1896-06-06",
+   "published": "1896-06-06",
+   "conf": "low",
+   "statement": "Tom Allen (printed as 'Tom ei') advertised a free concert every evening at his place."
+  },
+  {
+   "cid": "933.c1",
+   "date": "1896-06-13",
+   "published": "1896-06-13",
+   "conf": "low",
+   "statement": "An advertisement for 619 Market street, St. Louis (name cut off in the OCR, presumably Tom Allen's place) offered a free concert every evening."
+  },
+  {
+   "cid": "934.c1",
+   "date": "1896-06-17",
+   "published": "1896-06-17",
+   "statement": "Tom Allen's place was at 619 Market street, St. Louis."
+  },
+  {
+   "cid": "934.c2",
+   "date": "1896-06-17",
+   "published": "1896-06-17",
+   "statement": "Tom Allen advertised a free concert every evening at his place."
+  },
+  {
+   "cid": "935.c1",
+   "date": "1896-06-18",
+   "published": "1896-06-18",
+   "conf": "low",
+   "statement": "Tom Allen's place was at 619 Market street, St. Louis (printed as 'G19 Market street')."
+  },
+  {
+   "cid": "935.c2",
+   "date": "1896-06-18",
+   "published": "1896-06-18",
+   "conf": "medium",
+   "statement": "Tom Allen advertised a free concert every evening at his place."
+  },
+  {
+   "cid": "936.c1",
+   "date": "1896-06-20",
+   "published": "1896-06-20",
+   "conf": "low",
+   "statement": "An advertisement for a saloon on Market Street describes its owner as the 'champion pugilist' of the world and offers a free concert every evening with the best singers only."
+  },
+  {
+   "cid": "937.c1",
+   "date": "1896-06-27",
+   "published": "1896-06-27",
+   "statement": "Tom Allen's ad lists him as retired champion pugilist of the world at 619 Market street, with a free concert every evening and the best singers only."
+  },
+  {
+   "cid": "938.c1",
+   "date": "1896-07-04",
+   "published": "1896-07-04",
+   "conf": "low",
+   "statement": "Tom Allen's ad lists him as retired champion pugilist of the world at a Market street address printed as '619, ge nk street', with a free concert every evening and the best singers only."
+  },
+  {
+   "cid": "939.c1",
+   "date": "1896-07-11",
+   "published": "1896-07-11",
+   "statement": "Tom Allen's ad lists him as retired champion pugilist of the world at 619 Market street, with a free concert every evening and the best singers only."
+  },
+  {
+   "cid": "940.c1",
+   "date": "1896-09-19",
+   "published": "1896-09-19",
+   "statement": "Tom Allen's ad lists him as retired champion pugilist of the world at 619 Market street, with a free concert every evening and the best singers only."
+  },
+  {
+   "cid": "170.c2",
+   "date": "1896-09-25",
+   "published": "1896-09-26",
+   "statement": "On Friday night Tom Allen sat at a table with a mallet and called the frequenters of Champion's Rest to order to start a McKinley club."
+  },
+  {
+   "cid": "941.c1",
+   "date": "1896-10-06",
+   "published": "1896-10-06",
+   "conf": "low",
+   "statement": "Tom Allen's ad lists him as retired champion pugilist of the world at a Market street address printed as '(19 Market st.', with a free concert every evening."
+  },
+  {
+   "cid": "944.c1",
+   "date": "1896-11-21",
+   "published": "1896-11-21",
+   "statement": "Tom Allen's ad lists him as retired champion pugilist of the world at 619 Market street, with a free concert every evening and the best of talent only."
+  },
+  {
+   "cid": "946.c1",
+   "date": "1896-11-28",
+   "published": "1896-11-28",
+   "statement": "An advertisement gave Tom Allen's place as 619 Market Street, St. Louis, with a free concert every evening."
+  },
+  {
+   "cid": "947.c1",
+   "date": "1896-12-12",
+   "published": "1896-12-12",
+   "statement": "An advertisement gave Tom Allen's place as 619 Market Street, St. Louis, with a free concert every evening."
+  },
+  {
+   "cid": "171.c2",
+   "date": "1897-01",
+   "published": "1897-01-22",
+   "statement": "Tom Allen runs a saloon on Market Street between Sixth and Seventh streets, and also a concert hall over which he presides every night."
+  },
+  {
+   "cid": "948.c1",
+   "date": "1897-01-09",
+   "published": "1897-01-09",
+   "statement": "An advertisement gave Tom Allen's place as 619 Market Street, St. Louis, with a free concert every evening."
+  },
+  {
+   "cid": "949.c1",
+   "date": "1897-01-23",
+   "published": "1897-01-23",
+   "statement": "An advertisement gave Tom Allen's place as 619 Market Street, St. Louis, with a free concert every evening."
+  },
+  {
+   "cid": "950.c1",
+   "date": "1897-01-30",
+   "published": "1897-01-30",
+   "statement": "An advertisement gave Tom Allen's place as 619 Market Street, St. Louis, with a free concert every evening."
+  },
+  {
+   "cid": "951.c1",
+   "date": "1897-02-06",
+   "published": "1897-02-06",
+   "statement": "An advertisement gave Tom Allen's place as 619 Market Street, St. Louis, with a free concert every evening."
+  },
+  {
+   "cid": "954.c2",
+   "date": "1897-03",
+   "published": "1897-03-13",
+   "statement": "Tom Allen advertised a free concert every evening at 619 Market Street, with only the best singers engaged."
+  },
+  {
+   "cid": "956.c2",
+   "date": "1897-03",
+   "published": "1897-03-20",
+   "statement": "Tom Allen advertised a free concert every evening at 619 Market Street, with only the best singers engaged."
+  },
+  {
+   "cid": "172.c4",
+   "date": "1897-04",
+   "published": "1897-04-27",
+   "statement": "Tom Allen ran his own place of amusement, a dance hall, on lower Market Street."
+  },
+  {
+   "cid": "959.c2",
+   "date": "1897-04-27",
+   "published": "1897-04-28",
+   "statement": "After drinking at a party, Tom Allen found his saloon deserted and fired his gun to attract a crowd."
+  },
+  {
+   "cid": "962.c1",
+   "date": "1897-06",
+   "published": "1897-06-15",
+   "statement": "Denver Ed Smith, Paddy Smith and Ike Weir arrived in St. Louis and were lodged at Tom Allen's place."
+  },
+  {
+   "cid": "963.c2",
+   "date": "1897-06-14",
+   "published": "1897-06-15",
+   "statement": "Denver Ed Smith, Paddy Smith and Ike Weir held a reception at Tom Allen's place on Market Street on the Monday night, which ran until 2 a.m. Tuesday."
+  },
+  {
+   "cid": "966.c4",
+   "date": "1897-07-14",
+   "published": "1897-07-16",
+   "statement": "Mrs. Duffy sat at a window over Tom Allen's saloon, almost opposite the Ohio saloon, when the assault occurred."
+  },
+  {
+   "cid": "974.c1",
+   "date": "1898-07-01",
+   "published": "1898-07-01",
+   "statement": "Tom Allen was badly beaten in front of his saloon on Market Street, near Sixth Street, early in the morning of July 1, 1898."
+  },
+  {
+   "cid": "975.c1",
+   "date": "1898-07-01",
+   "published": "1898-07-02",
+   "statement": "Tom Allen was badly beaten in front of his saloon on Market Street early on Friday, July 1, 1898."
+  },
+  {
+   "cid": "976.c1",
+   "date": "1898-07-16",
+   "published": "1898-07-16",
+   "statement": "Tom Allen advertised free concerts every evening at 619 Market Street, St. Louis."
+  },
+  {
+   "cid": "977.c1",
+   "date": "1898-08-20",
+   "published": "1898-08-20",
+   "conf": "low",
+   "statement": "Tom Allen's advertisement gave his address as 610 Market street (printed as 610) and offered concerts every evening."
+  },
+  {
+   "cid": "978.c1",
+   "date": "1898-09-24",
+   "published": "1898-09-24",
+   "statement": "Tom Allen advertised a free concert every night at 619 Market street, St. Louis."
+  },
+  {
+   "cid": "980.c1",
+   "date": "1898-11-16",
+   "published": "1898-11-16",
+   "conf": "medium",
+   "statement": "Tom Allen was at the Champion's Rest, around the corner from Tom Kelly's."
+  },
+  {
+   "cid": "981.c1",
+   "date": "1898-12-17",
+   "published": "1898-12-17",
+   "conf": "medium",
+   "statement": "An advertisement for Allen, retired champion pugilist of the world, offered a free concert every evening at 619 Market street."
+  },
+  {
+   "cid": "982.c1",
+   "date": "1899-01-21",
+   "published": "1899-01-21",
+   "statement": "Tom Allen advertised a free concert every evening at 619 Market street, St. Louis."
+  },
+  {
+   "cid": "984.c1",
+   "date": "1899-02-25",
+   "published": "1899-02-25",
+   "statement": "Tom Allen advertised a free concert every evening at 619 Market street, St. Louis."
+  },
+  {
+   "cid": "988.c1",
+   "date": "1899-03",
+   "published": "1899-03-18",
+   "statement": "Tom Allen's place at 619 Market Street advertised a free concert every evening, with the best singers only."
+  },
+  {
+   "cid": "989.c1",
+   "date": "1899-03-25",
+   "published": "1899-03-25",
+   "statement": "Tom Allen, retired champion pugilist of the world, advertised a free concert every evening at 619 Market Street."
+  },
+  {
+   "cid": "990.c1",
+   "date": "1899-05-10",
+   "published": "1899-05-10",
+   "statement": "Tom Allen advertised a concert every evening at 619 Market Street."
+  },
+  {
+   "cid": "991.c1",
+   "date": "1899-06-20",
+   "published": "1899-06-20",
+   "conf": "low",
+   "statement": "Tom Allen (printed as 'Tom glen'), retired champion pugilist of the world, advertised a free concert at 619 Market Street."
+  },
+  {
+   "cid": "188.c1",
+   "date": "1899-09-05",
+   "published": "1899-09-05",
+   "statement": "Excise officers visited Tom Allen's Market Street saloon on the order to remove its wineroom, and Allen said no woman had been in the place in six months."
+  },
+  {
+   "cid": "188.c2",
+   "date": "1899-09-05",
+   "published": "1899-09-05",
+   "statement": "Allen offered to take the door of his room off its hinges, and was left to construe the Excise order as he pleased after being told the penalty for failing to obey it."
+  },
+  {
+   "cid": "255.c11",
+   "date": "1900",
+   "published": "1941-03-30",
+   "retro": true,
+   "statement": "Near the turn of the century Allen was retired and was proprietor of the Champion's Rest saloon."
+  },
+  {
+   "cid": "279.c2",
+   "date": "1900-03",
+   "published": "1900-03-18",
+   "statement": "Tom Allen runs a concert hall in a building on Market Street in St. Louis's Tenderloin, where he directs a concert nightly for his patrons."
+  },
+  {
+   "cid": "996.c1",
+   "date": "1901-01",
+   "published": "1901-01-19",
+   "statement": "Tom Allen owned the Champion's Rest, a few doors east of Danny Daly's establishment on Market Street."
+  },
+  {
+   "cid": "191.c1",
+   "date": "1901-03-03",
+   "published": "1901-03-04",
+   "statement": "Tom Allen's saloon was at No. 619 Market street, St. Louis."
+  },
+  {
+   "cid": "191.c2",
+   "date": "1901-03-03",
+   "published": "1901-03-04",
+   "statement": "Edward Hodo of Granite City fell down a flight of stairs at Tom Allen's saloon at about 1:40 a.m. on March 3, 1901."
+  }
+ ]
+}

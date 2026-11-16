@@ -1,0 +1,41 @@
+{
+  "id": "663",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Sullivan wanted his fight with Tom Allen held near Leadville, Colorado, fearing a Louisiana law would send them to the penitentiary.",
+      "excerpt": "take place near Leadville, Colorado, fearing\nthat the legislature of Louisiana would pass a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["John L. Sullivan"],
+      "places": ["Leadville, Colorado", "Louisiana"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen said he returned to America with the aim of meeting Sullivan, whom he believed he could knock out.",
+      "excerpt": "to this country with the view of meeting Suk\nlivan, whom he believes he can knock out of",
+      "date": "1882",
+      "date_precision": "approx",
+      "people": ["John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Fox would match Jim Mace against Sullivan only if Sullivan defeated Tom Allen.",
+      "excerpt": "against John L. Sullivan if the latter de-\nfeats Tom Alien.",
+      "date": "1882-11",
+      "date_precision": "month",
+      "people": ["Jim Mace", "John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Sullivan-Allen match discussed but not agreed. Allen's remarks are the paper's paraphrase, not direct speech. The Mace cable is mostly about Mace."
+}

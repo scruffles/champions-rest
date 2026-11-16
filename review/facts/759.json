@@ -1,0 +1,30 @@
+{
+  "id": "759",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen's place at 619 Market street advertised a free concert, and boxing by the city's most scientific boxers, every evening.",
+      "excerpt": "Free concert; also, boxing by the most scientific boxers of the city every evening.",
+      "date": "1888-05-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as the retired champion pugilist of the world.",
+      "excerpt": "TOM ALLEN, Retired Champion Pugilist of the World, 619 Market street.",
+      "date": "1888-05-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market street"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Most of the column is about inn signs and is not about Allen."
+}

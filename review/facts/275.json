@@ -1,0 +1,13 @@
+{
+  "id": "275",
+  "claims": [
+    {"kind": "exhibition", "statement": "Tom Allen made an unsatisfactory appearance as a boxer in the art gallery of Madison Square Garden on Monday evening, November 27, 1882.", "excerpt": "Mr. Tom Allen as a boxer In the art", "date": "1882-11-27", "date_precision": "day", "people": [], "places": ["Madison Square Garden, New York"], "retrospective": false, "confidence": "high"},
+    {"kind": "challenge", "statement": "Richard Fox proposed to wager $5,000 that Tom Allen could defeat John L. Sullivan in the prize ring.", "excerpt": "to. wager $5,000 that Mr. Alien oould defeat", "date": "1882-11", "date_precision": "month", "people": ["Richard Fox", "John L. Sullivan"], "places": [], "retrospective": false, "confidence": "medium"},
+    {"kind": "challenge", "statement": "Richard Fox posted $1,000 with Harry Hill to cover his challenge to John L. Sullivan.", "excerpt": "with Mr. Harry Hill, and had defied Mr. Sullivan to", "date": "1882-11", "date_precision": "month", "people": ["Richard Fox", "Harry Hill", "John L. Sullivan"], "places": ["Harry Hill's theatre"], "retrospective": false, "confidence": "high"},
+    {"kind": "challenge", "statement": "Mr. Harding, Allen's representative, did not go to Harry Hill's theatre to settle the $1,000 match.", "excerpt": "Mr. Harding did not go tothe theatre. A", "date": "1882-11", "date_precision": "month", "people": ["Harding"], "places": ["Harry Hill's theatre"], "retrospective": false, "confidence": "medium"},
+    {"kind": "challenge", "statement": "Farrell, a friend of Sullivan, claimed the $1,000 that Fox had posted.", "excerpt": "the $1.000 posted by Mr. Fox", "date": "1882-11", "date_precision": "month", "people": ["Farrell", "Richard Fox"], "places": ["Harry Hill's theatre"], "retrospective": false, "confidence": "medium"}
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The text is badly garbled in places. Harding's link to Allen comes from the headline and the hints, not a clear sentence. The hint about Coney Island is not in the text."
+}

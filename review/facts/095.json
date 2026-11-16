@@ -1,0 +1,52 @@
+{
+  "id": "095",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen issued a challenge in London to fight any man in the world at catch weights.",
+      "excerpt": "Allen issues a challenge to fight any man in the world at catch weizhts",
+      "date": "1879",
+      "date_precision": "year",
+      "people": [],
+      "places": ["London"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen's challenge was for $1,000 a side under London Prize Ring rules, to be fought in Canada or within fifty miles of Pittsburg, within 100 miles of Buffalo.",
+      "excerpt": "for $1,000 a side; the fight to take place within 100 miles of Buffalo, and to be fought in Canada or within fifty miles of Pittsburg.",
+      "date": "1879",
+      "date_precision": "year",
+      "people": [],
+      "places": ["Buffalo", "Pittsburg", "Canada"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen has fought seven times for the heavyweight championship of America.",
+      "excerpt": "who has fought seven times for the heavy-weizht championship of America",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen wants to fight Johnny Dwyer, who holds the heavyweight championship of America.",
+      "excerpt": "Tom Allen wants to fight Dwyer; and Paddy Ryan",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Johnny Dwyer"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "No individual bouts are described; the fight count is the career claim. The Dwyer and Paddy Ryan items concern other men except Allen's wish to fight Dwyer. Hint 'other' for the seven-times count is recorded as career. The challenge is reported via London advices."
+}

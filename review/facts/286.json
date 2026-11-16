@@ -1,0 +1,80 @@
+{
+  "id": "286",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "On Dec. 28, 1869, Tom Allen telegraphed that, not knowing Jem Mace's terms, he was not inclined to go to New York but would forward articles and a deposit.",
+      "excerpt": "as he was not aware what terms were, he was no!",
+      "date": "1869-12-28",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen's promised articles for a match with Mace reached the New York Clipper on Monday, January 3, 1870 (printed as 'January 34').",
+      "excerpt": "January 34, we received the promised articles, and with",
+      "date": "1870-01-03",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen's articles proposed a fight with Mace for $2,500 a side and the championship of America.",
+      "excerpt": "That the fight be for the sum of $2500 a sids and the",
+      "date": "1870-01-03",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen's articles proposed that the fight take place within fifty miles of Cincinnati on July 5, 1870.",
+      "excerpt": "miles of Cincinnati, on the 5th of July",
+      "date": "1870-07-05",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mace agreed to fight Allen for $2,500 a side.",
+      "excerpt": "fight for $2,500 a side, on condition you will abandon",
+      "date": "1870-01",
+      "date_precision": "month",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mace proposed three places for the fight: in Virginia, in Canada within 100 miles of Montreal, or in Louisiana within 50 miles of New Orleans.",
+      "excerpt": "Louisiana, not more than fifty miles distant from New",
+      "date": "1870-01",
+      "date_precision": "month",
+      "people": ["Jem Mace"],
+      "places": ["Virginia", "Canada", "Montreal", "Louisiana", "New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "over, I never make achallenge to fight any man for more\nmoney than I can raise.",
+      "topic": "no challenges except to Mace; fights only for money he can raise"
+    }
+  ],
+  "fights": [],
+  "notes": "Articles and Mace's reply were never agreed, so they are challenges, not fights. Mace's refusal to meet near Allen's home is in garbled OCR; not separately claimed. Allen's Dec. 31 letter is OCR-damaged apart from the quote; no further claims."
+}

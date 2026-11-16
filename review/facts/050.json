@@ -1,0 +1,224 @@
+{
+  "id": "050",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen wrote to Billy Harding of the New York News challenging Joe Coburn to fight for $2,500 a side or more, in Canada within fifty miles of Detroit, with no excursion and twenty men per party.",
+      "excerpt": "fight him for $2,500 a side, or as much more",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Coburn", "Billy Harding"],
+      "places": ["Canada, within fifty miles of Detroit, Michigan", "Pittsburgh"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen wrote to a friend in New York offering to fight Jem Mace a stand-up fight under the new London prize ring rules, two to four months from signing, for $2,000 to $5,000 a side, in Kansas, New Orleans or Canada.",
+      "excerpt": "for from $2,000 to $5,000 a side, the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["Kansas", "New Orleans", "Canada"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Jem Mace replied from London, through a New York sporting man, that if Allen meant business he would return to America and make the match.",
+      "excerpt": "Mace immediately replied that if Allen meant business he",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["London"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "About a week before the article, Jem Mace privately wrote that he would accept and fight Allen if Allen posted a deposit at the Clipper office or Wilkes' Spirit to show he meant business.",
+      "excerpt": "accept and fight Allen, if the latter will post",
+      "date": "1874-03",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "If Mace would not agree, Allen offered to fight Joe Coburn at the same places, wagering $2,500 to Coburn's $1,500, or to fight Ben Hogan for $1,000 to $5,000 with as much training time as Hogan wanted.",
+      "excerpt": "fight Joe Coburn at either of the above places,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Coburn", "Ben Hogan"],
+      "places": ["Pittsburgh", "Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen offered to fight any man in the world for a stake printed as $1,009 to 35,000 (probably $1,000 to $5,000).",
+      "excerpt": "wherein he oilers to fight any man in",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The paper said Joe Coburn was ill and had promised his wife he would not fight again, so a match between him and Allen was abandoned.",
+      "excerpt": "promised his wife that he would not partici-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Ben Hogan, the Pittsburg fraud, and was robbed of the fight; the Clipper said Allen struck Hogan below the belt, which Allen denied.",
+      "excerpt": "In my last fight with Ben Hogan they",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Jem Mace beat Tom Allen in ten rounds near New Orleans, without Allen receiving a black eye, according to a New York paper.",
+      "excerpt": "in ten rounds. und never reeeived a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole in 1869, after which the Clipper recognized Allen as champion of America.",
+      "excerpt": "MeCoole in 1869. the ( 7Ipper recognized me",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole on Chouteau Island, Illinois, in the fall before the article, a contest the New York paper describes as proving Allen had improved.",
+      "excerpt": "as the last contest on Chouteau Island, Lili-",
+      "date": "1873",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island, Illinois"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen claimed to be champion of America in 1874.",
+      "excerpt": "else. I claim to be champion of America",
+      "date": "1874-03-11",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said a gang from Council Bluffs and Cheyenne tried to force him to lose a fight at Omaha, threatening him with revolvers and bowie knives.",
+      "excerpt": "and bowie knives at my head. The C/ipper",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["unknown"],
+      "places": ["Council Bluffs", "Cheyenne", "Omaha"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I claim to be champion of America",
+      "topic": "claim to the title"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "They calied me Tom Allen, but ia my late fights they have tried to cast a slur on me by",
+      "topic": "the Clipper and the name The Englishman"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "T am surprised that Jem Mace thinks I do nol mean bilsiness. f'e knows that [never backed out of fighting men.",
+      "topic": "willingness to fight Mace"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "In my last fight with Ben Hogan they",
+      "reported_as": "report",
+      "notes": "Allen says he was robbed of the fight by a foul claim; the outcome is not stated. The year is not printed here (an earlier pass said 1873)."
+    },
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "near New Orleans",
+      "result": "loss",
+      "rounds": "10",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "in ten rounds. und never reeeived a",
+      "reported_as": "record",
+      "notes": "Per a New York paper quoted here. The year is not printed."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869",
+      "date_precision": "year",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "MeCoole in 1869. the ( 7Ipper recognized me",
+      "reported_as": "recollection",
+      "notes": "Allen's own recollection. The result is not stated."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "approx",
+      "place": "Chouteau Island, Illinois",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "as the last contest on Chouteau Island, Lili-",
+      "reported_as": "record",
+      "notes": "The New York paper says Allen begged McCoole's seconds not to let him come up again, which implies a defeat, but does not say so. The Republican (16 Feb 1875, article 057) says Allen beat McCoole. Conflict to check."
+    }
+  ],
+  "notes": "Hint about the 417 Washington avenue signature is not in this text; dropped. Dates for the letters are not printed; the year of the Hogan and Mace fights is not printed."
+}

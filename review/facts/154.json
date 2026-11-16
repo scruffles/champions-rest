@@ -1,0 +1,63 @@
+{
+  "id": "154",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen says Charlie Mitchell must beat Jim Corbett.",
+      "excerpt": "Tom Allen says emphatically that Charlie Mitchell must win against Champion Jim Corbett",
+      "date": "1893-10-21",
+      "date_precision": "day",
+      "people": ["Charlie Mitchell", "Jim Corbett"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was born in Birmingham.",
+      "excerpt": "that, first, Tom Allen was bornin Birmingham, and, secondly, so was",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Birmingham"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen backed Ed Smith, a Birmingham man, against Joe Goddard.",
+      "excerpt": "figuring along the lines of this ratiocinative process that actuated Tom to back Ed Smith",
+      "date": "1893-03",
+      "date_precision": "month",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen won heavily on his bet on Ed Smith against Joe Goddard.",
+      "excerpt": "The fact that Smith was originally from Birmingham and Goddard was not was all-sufficient and Tom Piled his winning shekels high",
+      "date": "1893-03",
+      "date_precision": "month",
+      "people": ["Ed Smith", "Joe Goddard"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen believes a man born in Birmingham can always beat a man not born in Birmingham.",
+      "excerpt": "as sure as the sun rises and sets a man born in Birmingham can always lick a man not born in Birmingham",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Birmingham"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mitchell prediction and birthplace are as the paper reports them; the tone is teasing but the facts are stated plainly."
+}

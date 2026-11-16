@@ -1,0 +1,63 @@
+{
+  "id": "214",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Judge Taylor denied Tillie Hartgrove a divorce from her husband, Martin Hartgrove, after learning she had been Tom Allen's housekeeper.",
+      "excerpt": "he curtly denied thse",
+      "date": "1903-05",
+      "date_precision": "month",
+      "people": ["Judge Taylor", "Tillie Hartgrove", "Martin Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tillie Hartgrove had been the housekeeper of the late Tom Allen.",
+      "excerpt": "the plaintiff had been the housekeeper of",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "It was announced before Tom Allen died that he was to marry Tillie Hartgrove once she obtained her divorce.",
+      "excerpt": "he was to wed the womanawhe-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen left his property to Tillie Hartgrove for her services.",
+      "excerpt": "to her for her services.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen's estate has dwindled almost to nothing and is still in litigation.",
+      "excerpt": "most to nothing, is still in litigation.",
+      "date": "1903-05",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mostly about Tillie Hartgrove's divorce suit; included only where it concerns Allen's household, estate and planned marriage. OCR garbled in places."
+}

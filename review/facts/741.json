@@ -1,0 +1,30 @@
+{
+  "id": "741",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The Globe-Democrat called Tom Allen the ex-champion in August 1887.",
+      "excerpt": "TOM ALLEN, the ex-champion, says that Smith will not only best Kilrain",
+      "date": "1887-08-04",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said that Smith would beat Kilrain and would whip Sullivan if they ever met.",
+      "excerpt": "TOM ALLEN, the ex-champion, says that Smith will not only best Kilrain, but that he will whip Sullivan if they ever meet.",
+      "date": "1887-08",
+      "date_precision": "month",
+      "people": ["Kilrain", "Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen's prediction is the paper's paraphrase ('says that'), so it is not recorded as a quote."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "323",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole in a prize fight on June 15, 1869, on Foster's Island below St. Louis.",
+      "excerpt": "Yesterday the long expected prise fight took place.",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Foster's Island, 26 miles from St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The referee declared a foul in the fight with McCoole, and the money went to McCoole (per the headline).",
+      "excerpt": "The Referee Declares Foul",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Foster's Island, 26 miles from St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Yes, he w bigger; I weigh only 170; but then you\"will see.",
+      "topic": "weight before the fight"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I came here to his own place to fight him, andi ask.no favors.",
+      "topic": "fighting McCoole in his own city"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "Foster's Island, 26 miles below St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Yesterday the long expected prise fight took place.",
+      "reported_as": "report",
+      "notes": "Headline says Allen whipped McCoole but the referee declared a foul and McCoole won the money; the body text ends before the bout."
+    }
+  ],
+  "notes": "Fight account is cut off after the crowd and set-up; the result comes from the headline only."
+}

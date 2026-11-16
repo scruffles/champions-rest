@@ -1,0 +1,19 @@
+{
+  "id": "922",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen (printed as 'Tom Alle') was among the old-time pugilists missing from the Hot Springs gathering.",
+      "excerpt": "Mike Donovan of New York, Tom Alle and Tom Kelly of St. Louis",
+      "date": "1895-11",
+      "date_precision": "month",
+      "people": ["Mike Donovan", "Tom Kelly"],
+      "places": ["Hot Springs"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Name printed as 'Tom Alle'. The gathering is in Hot Springs after the Corbett-Mitchell fight; the month is approximate."
+}

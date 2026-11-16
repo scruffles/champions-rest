@@ -1,0 +1,145 @@
+{
+  "bucket": "life-1810-1874",
+  "facts": [
+    {
+      "fact": "Tom Allen was born in Birmingham, England.",
+      "date": "1840",
+      "seed": "001",
+      "conflict": "birth year: 1839 (195.c3, 197.c1, 203.c1, 206.c2, 259.c1); 1840 (148.c1, 354.c1, 234.c1, 266.c1, 291.c8, 659.c1); 1841 (281.c1, 303.c1); 1843 (465.c1); 1830 (1004.c1); 1810 (180.c11). Day April 23 is given by most claims that give a day",
+      "claims": ["180.c11", "1004.c1", "195.c3", "197.c1", "203.c1", "206.c2", "259.c1", "234.c1", "291.c8", "659.c1", "266.c1", "148.c1", "354.c1", "281.c1", "303.c1", "465.c1"]
+    },
+    {
+      "fact": "Tom Allen fought Joe Goss in March 1867, and his right shoulder was dislocated in the 25th round, but he fought on; he was then 27 years old and 5 feet 10 inches tall.",
+      "date": "1867-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["292.c2", "292.c3"]
+    },
+    {
+      "fact": "After the 1867 fight a mob attacked Tom Allen, and he was shot in the hand and hit in the eye with a club.",
+      "date": "1867-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["196.c5"]
+    },
+    {
+      "fact": "Coburn knocked Tom Allen off the stage at the Bowery Theater in 1868, slightly injuring him.",
+      "date": "1868",
+      "seed": "",
+      "conflict": "",
+      "claims": ["284.c2"]
+    },
+    {
+      "fact": "Tom Allen's brother Harry Allen was matched to fight Joe Goss for £400 and the championship of England on September 4, 1868, and Harry died soon after the planned fight was stopped.",
+      "date": "1868-09-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["283.c5", "283.c7"]
+    },
+    {
+      "fact": "The paper gave Tom Allen's age as 28 at the time of a fight on January 12, 1869.",
+      "date": "1869-01-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["303.c2"]
+    },
+    {
+      "fact": "Tom Allen was knocked senseless on February 23, 1869, and lay unconscious until Looney doctored him; he was then 28 years old, 5 feet 9 inches tall and weighed 168 pounds.",
+      "date": "1869-02-23",
+      "seed": "",
+      "conflict": "",
+      "claims": ["009.c8", "307.c2", "307.c4"]
+    },
+    {
+      "fact": "After a June 1869 fight Tom Allen, reported as 28 years old, had only a slight abrasion of the lower lip.",
+      "date": "1869-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["324.c1", "324.c3"]
+    },
+    {
+      "fact": "In June 1869 Tom Allen's English sweetheart was reported to be joining him, and to be going with him toward St. Louis to marry him.",
+      "date": "1869-06",
+      "seed": "",
+      "conflict": "place: she would meet him at Vincennes (333.c2) vs she went with him toward St. Louis, her family having settled in New York State (331.c6)",
+      "claims": ["331.c6", "333.c2", "333.c3"]
+    },
+    {
+      "fact": "In 1869 Tom Allen said he had declared his intention to become a United States citizen two years earlier, and in August 1869 he claimed to be an American citizen and said he would fight under American colors.",
+      "date": "1869-06-15",
+      "seed": "",
+      "conflict": "",
+      "claims": ["093.c2", "355.c1"]
+    },
+    {
+      "fact": "Tom Allen was said to be sick at the time of the July 1869 meeting for drawing up the articles of his fight with Mike McCoole.",
+      "date": "1869-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["339.c1"]
+    },
+    {
+      "fact": "Tom Allen fought Charley Gallagher at Chouteau Island on August 17, 1869, and a shot struck the back of his right hand.",
+      "date": "1869-08-17",
+      "seed": "",
+      "conflict": "",
+      "claims": ["020.c6", "245.c9", "356.c3", "367.c2", "367.c3", "909.c11"]
+    },
+    {
+      "fact": "Tom Allen was very sick for about a week before December 16, 1869, and was confined to his house.",
+      "date": "1869-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["377.c1"]
+    },
+    {
+      "fact": "Tom Allen fought Jem Mace at New Orleans on May 10, 1870, and was injured in the fight.",
+      "date": "1870-05-10",
+      "seed": "",
+      "conflict": "arm: injured (195.c9) vs broken (909.c12); a surgeon found the shoulder was not dislocated, only cramped muscles (401.c2); neck feared broken (096.c8); few marks shown after the fight (406.c2); age 27 (228.c6)",
+      "claims": ["029.c2", "096.c8", "195.c9", "196.c7", "228.c6", "401.c2", "406.c2", "909.c12"]
+    },
+    {
+      "fact": "Tom Allen has a sister who teaches school in Corydon, Indiana.",
+      "date": "1870-06",
+      "seed": "013",
+      "conflict": "",
+      "claims": ["036.c1"]
+    },
+    {
+      "fact": "The paper gave Tom Allen's age as about 37 in June 1870.",
+      "date": "1870-06-17",
+      "seed": "",
+      "conflict": "conflicts with the age of 27 given for May 1870 (228.c6) and 28 given for 1869",
+      "claims": ["410.c5"]
+    },
+    {
+      "fact": "On June 10, 1873, Tom Allen weighed about 200 pounds and was in good health.",
+      "date": "1873-06-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["452.c4"]
+    },
+    {
+      "fact": "Tom Allen fought Mike McCoole on September 23, 1873, and a knuckle on his right hand was slightly cut.",
+      "date": "1873-09-23",
+      "seed": "",
+      "conflict": "age: 33 (255.c2, published 1941) vs about thirty (465.c2)",
+      "claims": ["255.c2", "465.c2", "473.c4"]
+    },
+    {
+      "fact": "Tom Allen and Ben Hogan fought on October 28, 1873, and both were in excellent condition on the day of the fight; Allen weighed 172 pounds stripped on October 24.",
+      "date": "1873-10-28",
+      "seed": "",
+      "conflict": "",
+      "claims": ["488.c2", "490.c2"]
+    },
+    {
+      "fact": "Tom Allen was struck with a rock before the Edwards-Collyer fight in August 1874 but received no damage from it.",
+      "date": "1874-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["508.c3"]
+    }
+  ]
+}

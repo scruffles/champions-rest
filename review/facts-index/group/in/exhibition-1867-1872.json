@@ -1,0 +1,348 @@
+{
+ "bucket": "exhibition-1867-1872",
+ "kind": "exhibition",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "465.c16",
+   "date": "1867",
+   "published": "1873-09-23",
+   "retro": true,
+   "statement": "Tom Allen and Bill Ryall gave sparring exhibitions throughout the country after arriving in America."
+  },
+  {
+   "cid": "284.c1",
+   "date": "1868",
+   "published": "1876-04-15",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Joe Coburn sparred with Tom Allen at the Bowery Theater, New York, when Allen first came to America."
+  },
+  {
+   "cid": "804.c1",
+   "date": "1868",
+   "published": "1890-12-14",
+   "retro": true,
+   "statement": "In 1868, before Joe Coburn's match with Jem Mace, the Mace party pitted Joe Goss, Tom Allen and Bill Rayne against Coburn to test him, and Coburn bested them all."
+  },
+  {
+   "cid": "960.c1",
+   "date": "1868",
+   "published": "1897-04-29",
+   "retro": true,
+   "statement": "Tom Allen was one of the well-known fighters who boxed at Mozart Hall, Broadway and Biddle street, St. Louis, in the period from about 1868 to 1874."
+  },
+  {
+   "cid": "000.c1",
+   "date": "1868-02-29",
+   "published": "1868-02-27",
+   "conf": "medium",
+   "statement": "Tom Allen and Bill Ryall were to give a sparring set-to at Prof. Henry's hall in St. Louis on Saturday night, for the benefit of the poor."
+  },
+  {
+   "cid": "001.c2",
+   "date": "1868-03-07",
+   "published": "1868-03-09",
+   "statement": "Tom Allen sparred Mike McCoole earnestly in the windup of the Saturday night exhibition, and McCoole bled from a reopened cut on his forehead."
+  },
+  {
+   "cid": "319.c3",
+   "date": "1869-05",
+   "published": "1869-05-26",
+   "conf": "low",
+   "statement": "Tom Allen proposed to give an exhibition a few days before his departure to meet McCoole."
+  },
+  {
+   "cid": "320.c1",
+   "date": "1869-06-05",
+   "published": "1869-06-07",
+   "conf": "medium",
+   "statement": "Tom Allen gave a sparring exhibition in Cincinnati on the night of 1869-06-05."
+  },
+  {
+   "cid": "465.c31",
+   "date": "1869-06-05",
+   "published": "1873-09-23",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen had a well-attended benefit at the National Theatre in Cincinnati on the evening of the 5th, in June 1869."
+  },
+  {
+   "cid": "331.c1",
+   "date": "1869-06-29",
+   "published": "1869-06-30",
+   "statement": "Tom Allen left St. Louis on June 29, 1869 for an extensive sparring tour."
+  },
+  {
+   "cid": "331.c2",
+   "date": "1869-06-30",
+   "published": "1869-06-30",
+   "statement": "Tom Allen was to give a sparring exhibition with Jim Coyne at Vincennes, Indiana, on the night of June 30, 1869."
+  },
+  {
+   "cid": "331.c3",
+   "date": "1869-07-01",
+   "published": "1869-06-30",
+   "statement": "Tom Allen and Jim Coyne were to give a gloves exhibition at Cincinnati on Thursday night, July 1, 1869."
+  },
+  {
+   "cid": "336.c4",
+   "date": "1869-07-05",
+   "published": "1869-07-08",
+   "statement": "Tom Allen gave a sparring exhibition at Benson's Theatre in Louisville on July 5, 1869, where the hall was crowded."
+  },
+  {
+   "cid": "336.c5",
+   "date": "1869-07-05",
+   "published": "1869-07-08",
+   "statement": "Tom Allen had a set-to with his trainer and travelling companion Jim Coyne at the Louisville exhibition."
+  },
+  {
+   "cid": "019.c3",
+   "date": "1869-08-17",
+   "published": "1869-08-15",
+   "conf": "low",
+   "statement": "Tickets for a steamboat excursion to the battleground were sold for the benefit of Tom Allen or Charley Gallagher, the steamer leaving the foot of Elm street on the morning of the fight, Tuesday, August 17, 1869."
+  },
+  {
+   "cid": "351.c3",
+   "date": "1869-08-17",
+   "published": "1869-08-16",
+   "statement": "A steamboat excursion for 17 August 1869 was advertised with proceeds for the benefit of Tom Allen or Charley Gallagher."
+  },
+  {
+   "cid": "363.c6",
+   "date": "1869-08-27",
+   "published": "1869-08-28",
+   "conf": "medium",
+   "statement": "A benefit for Tom Allen was said to be planned at Frank's hall on Friday night."
+  },
+  {
+   "cid": "364.c1",
+   "date": "1869-08-28",
+   "published": "1869-08-31",
+   "statement": "Tom Allen gave a sparring exhibition at the Opera House in Leavenworth, Kansas, to a large crowd."
+  },
+  {
+   "cid": "366.c1",
+   "date": "1869-08-31",
+   "published": "1869-09-03",
+   "conf": "medium",
+   "statement": "Tom Allen sparred with Harry Slater at Brady's Hall in St. Joseph, Missouri."
+  },
+  {
+   "cid": "368.c3",
+   "date": "1869-09",
+   "published": "1869-10-01",
+   "statement": "Friends held a sparring reception for Tom Allen at the Hotel du Nord in the Bowery, New York."
+  },
+  {
+   "cid": "368.c4",
+   "date": "1869-09",
+   "published": "1869-10-01",
+   "statement": "Tom Allen sparred with Dwyer of Brooklyn at the reception."
+  },
+  {
+   "cid": "022.c1",
+   "date": "1869-09-18",
+   "published": "1869-09-19",
+   "statement": "Tom Allen and Jim Coyne gave a sparring exhibition in Rochester, New York, on the night of September 18, 1869."
+  },
+  {
+   "cid": "371.c3",
+   "date": "1869-10-16",
+   "published": "1869-10-14",
+   "conf": "medium",
+   "statement": "Tom Allen was to give an exhibition in Cincinnati on Saturday 16 October 1869, probably at Mozart Hall."
+  },
+  {
+   "cid": "372.c3",
+   "date": "1869-10-30",
+   "published": "1869-11-02",
+   "conf": "medium",
+   "statement": "Tom Allen was to have had a benefit at Mozart Hall, Cincinnati, on 30 October 1869."
+  },
+  {
+   "cid": "909.c39",
+   "date": "1870",
+   "published": "1895-03-31",
+   "retro": true,
+   "statement": "In 1870, while working and sparring in New York on exhibition with Jem Mace, Tom Allen learned that McCool had forfeited."
+  },
+  {
+   "cid": "971.c2",
+   "date": "1870",
+   "published": "1898-01-06",
+   "retro": true,
+   "conf": "medium",
+   "statement": "After Mace's victory, Jem Mace and Tom Allen toured the country together, and the tour made a big pot of money for both."
+  },
+  {
+   "cid": "391.c1",
+   "date": "1870-04-25",
+   "published": "1870-04-21",
+   "conf": "medium",
+   "statement": "Tom Allen and Joe Coburn were to spar a 'passage at arms' at Mozart Hall on Monday night, 25 April 1870."
+  },
+  {
+   "cid": "392.c1",
+   "date": "1870-04-25",
+   "published": "1870-04-24",
+   "conf": "medium",
+   "statement": "Tom Allen was to spar the wind-up against Joe Coburn at a sparring exhibition at Mozart Hall on 25 April 1870."
+  },
+  {
+   "cid": "395.c1",
+   "date": "1870-04-25",
+   "published": "1870-04-26",
+   "statement": "Tom Allen sparred Joe Coburn at a sparring exhibition for Coburn's benefit at Mozart Hall."
+  },
+  {
+   "cid": "396.c1",
+   "date": "1870-04-25",
+   "published": "1870-04-26",
+   "statement": "Tom Allen sparred Joe Coburn at Mozart Hall; Coburn was the more active and landed about twice as many blows."
+  },
+  {
+   "cid": "394.c1",
+   "date": "1870-04-26",
+   "published": "1870-04-25",
+   "conf": "medium",
+   "statement": "Tom Allen was to spar Joe Coburn in ring costume as the wind-up of a sparring exhibition at Mozart Hall."
+  },
+  {
+   "cid": "032.c1",
+   "date": "1870-04-30",
+   "published": "1870-04-29",
+   "statement": "A testimonial benefit for Tom Allen was to be held at the Theatre Comique, corner of Fifth and Biddle, on Saturday 30 April 1870, where he would be presented with his colors and the champion belt of America."
+  },
+  {
+   "cid": "033.c1",
+   "date": "1870-04-30",
+   "published": "1870-04-30",
+   "statement": "Tom Allen was to be presented with a belt costing $1,000 by his St. Louis friends at the Theatre Comique on the evening of 30 April 1870."
+  },
+  {
+   "cid": "282.c1",
+   "date": "1870-04-30",
+   "published": "1870-05-01",
+   "statement": "A benefit for Tom Allen was set for Saturday night, April 30, 1870, at the Theater Comique (old Mozart Hall)."
+  },
+  {
+   "cid": "282.c2",
+   "date": "1870-04-30",
+   "published": "1870-05-01",
+   "conf": "medium",
+   "statement": "A $1000 championship belt was to be presented to Tom Allen at the benefit, and Joe Coburn, Mike McCoole and others were to put on the gloves."
+  },
+  {
+   "cid": "288.c1",
+   "date": "1870-04-30",
+   "published": "1870-04-29",
+   "statement": "Tom Allen was to take a benefit at the Theater Comique on Saturday night, April 30, 1870."
+  },
+  {
+   "cid": "288.c2",
+   "date": "1870-04-30",
+   "published": "1870-04-29",
+   "statement": "Joe Coburn, Mike McCoole, Kelly and others were to spar at Allen's benefit."
+  },
+  {
+   "cid": "288.c3",
+   "date": "1870-04-30",
+   "published": "1870-04-29",
+   "statement": "The closing bout of Allen's benefit was to be between Joe Coburn and Allen."
+  },
+  {
+   "cid": "395.c2",
+   "date": "1870-04-30",
+   "published": "1870-04-26",
+   "conf": "medium",
+   "statement": "A benefit for Tom Allen was announced for Saturday night, when his championship belt would be presented."
+  },
+  {
+   "cid": "034.c1",
+   "date": "1870-05-04",
+   "published": "1870-05-05",
+   "statement": "A belt was to be presented to Tom Allen at the Theatre Comique on May 4, 1870."
+  },
+  {
+   "cid": "034.c2",
+   "date": "1870-05-04",
+   "published": "1870-05-05",
+   "statement": "The presentation to Tom Allen at the Theatre Comique was postponed a second time on May 4, 1870."
+  },
+  {
+   "cid": "034.c3",
+   "date": "1870-05-04",
+   "published": "1870-05-05",
+   "statement": "Coburn was to spar with Tom Allen at the presentation but was out of town."
+  },
+  {
+   "cid": "282.c3",
+   "date": "1870-05-04",
+   "published": "1870-05-01",
+   "statement": "Allen's benefit was postponed until Wednesday night, May 4, 1870, after the Biddle Street sewer caved in before the show."
+  },
+  {
+   "cid": "406.c3",
+   "date": "1870-05-28",
+   "published": "1870-05-24",
+   "conf": "medium",
+   "statement": "A fistic entertainment between Jem Mace and Tom Allen was planned for Saturday night, 28 May 1870, with the place still to be chosen."
+  },
+  {
+   "cid": "409.c1",
+   "date": "1870-06-10",
+   "published": "1870-06-19",
+   "conf": "medium",
+   "statement": "Tom Allen and Jem Mace sparred for three rounds at Brady's Curriculum in Jersey City, in a friendly exhibition."
+  },
+  {
+   "cid": "409.c2",
+   "date": "1870-06-10",
+   "published": "1870-06-19",
+   "conf": "medium",
+   "statement": "Mr. Abrahams displayed the belt that each of Mace and Allen had been presented with by their friends in honour of victories won."
+  },
+  {
+   "cid": "410.c1",
+   "date": "1870-06-17",
+   "published": "1870-06-21",
+   "statement": "Jem Mace and Tom Allen had a sparring match at Tammany Hall, New York, on 17 June 1870."
+  },
+  {
+   "cid": "410.c2",
+   "date": "1870-06-17",
+   "published": "1870-06-21",
+   "statement": "Jem Mace and Tom Allen fought four rounds with gloves at Tammany Hall."
+  },
+  {
+   "cid": "410.c4",
+   "date": "1870-06-17",
+   "published": "1870-06-21",
+   "statement": "Allen's champion's belt was exhibited at Tammany, with a belt presented to Jem Mace by his New York friends."
+  },
+  {
+   "cid": "525.c3",
+   "date": "1871",
+   "published": "1875-09-30",
+   "retro": true,
+   "statement": "In an exhibition for the Chicago fire sufferers in St. Louis, Tom Allen stopped Ned O'Baldwin in a glove bout, showing clear superiority."
+  },
+  {
+   "cid": "436.c3",
+   "date": "1871-06-02",
+   "published": "1871-06-03",
+   "conf": "medium",
+   "statement": "A sparring exhibition between Tom Allen and Jem Mace, with Cusick and Hollywood, was planned for the evening of June 2, 1871 at Carroll's Varieties in Kansas City."
+  },
+  {
+   "cid": "972.c1",
+   "date": "1872",
+   "published": "1898-01-17",
+   "retro": true,
+   "statement": "Billy Madden and George Siler toured the United States in 1872 with Tom Allen, Joe Goss and Joe Coburn, as Madden recalled."
+  }
+ ]
+}

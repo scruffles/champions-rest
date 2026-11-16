@@ -1,0 +1,36 @@
+{
+  "id": "017",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen deposited $200 with Mr. Carroll for a match with any man, and challenged Charley Gallagher to cover that deposit.",
+      "excerpt": "1 have deposited two hundred dollars with Mr. Carrol! for a match with any man",
+      "date": "1869-07-08",
+      "date_precision": "day",
+      "people": ["Carroll", "Charley Gallagher"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he would meet Charley Gallagher at any place Gallagher named, to draw up articles, if Gallagher covered the $200 deposit.",
+      "excerpt": "let him cover that amount, and I will meet him at any he may",
+      "date": "1869-07-08",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "and it he (Gallagher) vants a match let him cover that amount, and I will meet him at any he may hame to craw up articles.",
+      "topic": "challenge to Gallagher"
+    }
+  ],
+  "fights": [],
+  "notes": "Letter printed in the paper, dated St. Louis, July 8, 1869."
+}

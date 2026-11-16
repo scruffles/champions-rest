@@ -1,0 +1,256 @@
+{
+ "bucket": "exhibition-1882-1903",
+ "kind": "exhibition",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "275.c1",
+   "date": "1882-11-27",
+   "published": "1882-11-29",
+   "statement": "Tom Allen made an unsatisfactory appearance as a boxer in the art gallery of Madison Square Garden on Monday evening, November 27, 1882."
+  },
+  {
+   "cid": "665.c1",
+   "date": "1882-11-27",
+   "published": "1882-11-29",
+   "statement": "A boxing exhibition complimentary to Tom Allen was given at Madison Square Garden, New York, on Monday evening, November 27."
+  },
+  {
+   "cid": "665.c2",
+   "date": "1882-11-27",
+   "published": "1882-11-29",
+   "statement": "Tom Allen and George Rooke appeared on stage to round up the exhibition."
+  },
+  {
+   "cid": "665.c3",
+   "date": "1882-11-27",
+   "published": "1882-11-29",
+   "statement": "At the end of the last round of the exhibition with George Rooke, Tom Allen fell heavily to the floor."
+  },
+  {
+   "cid": "666.c2",
+   "date": "1882-11-27",
+   "published": "1882-11-30",
+   "conf": "medium",
+   "statement": "Tom Allen gave an exhibition on Monday, 1882-11-27, which satisfied his backer R. K. Fox that the veteran had seen his best days."
+  },
+  {
+   "cid": "667.c1",
+   "date": "1882-11-27",
+   "published": "1882-12-01",
+   "statement": "Tom Allen was announced to make his first public appearance in America since returning from England at an exhibition in the Art Gallery of Madison Square Garden, New York."
+  },
+  {
+   "cid": "667.c3",
+   "date": "1882-11-27",
+   "published": "1882-12-01",
+   "conf": "low",
+   "statement": "Tom Allen and George Rooke were set to wind up the exhibition with a bout that was a tame affair, and the audience hissed after the first round."
+  },
+  {
+   "cid": "677.c8",
+   "date": "1882-12",
+   "published": "1882-12-30",
+   "conf": "medium",
+   "statement": "Tom Allen had a set-to with George Rooke that was agreed to have no rough work."
+  },
+  {
+   "cid": "677.c9",
+   "date": "1882-12",
+   "published": "1882-12-30",
+   "conf": "medium",
+   "statement": "Tom Allen said he fell in his set-to with George Rooke only because his foot broke through the staging."
+  },
+  {
+   "cid": "686.c1",
+   "date": "1883-02-21",
+   "published": "1883-02-18",
+   "conf": "medium",
+   "statement": "Tom Allen was to spar Morris O'Connell in full ring costume at O'Connell's farewell benefit at Tom Kelly's, his first appearance with the gloves since returning to St. Louis."
+  },
+  {
+   "cid": "687.c1",
+   "date": "1883-02-21",
+   "published": "1883-02-22",
+   "statement": "Tom Allen and Morris O'Connell faced each other in the ring at Kelly's during O'Connell's farewell benefit."
+  },
+  {
+   "cid": "687.c2",
+   "date": "1883-02-21",
+   "published": "1883-02-22",
+   "statement": "Tom Allen and Morris O'Connell sparred three rounds, which ended the evening's programme."
+  },
+  {
+   "cid": "689.c1",
+   "date": "1883-02-21",
+   "published": "1883-02-22",
+   "statement": "Tom Allen sparred Morris O'Connell as the windup of O'Connell's farewell benefit at Kelly's."
+  },
+  {
+   "cid": "689.c2",
+   "date": "1883-02-21",
+   "published": "1883-02-22",
+   "statement": "Tom Allen and Morris O'Connell boxed three rounds of light tapping and then retired."
+  },
+  {
+   "cid": "690.c1",
+   "date": "1883-03-02",
+   "published": "1883-02-25",
+   "conf": "medium",
+   "statement": "Tom Allen was announced to appear at a grand athletic tournament at the old Turner hall in Belleville."
+  },
+  {
+   "cid": "692.c1",
+   "date": "1883-03-29",
+   "published": "1883-03-30",
+   "conf": "medium",
+   "statement": "Tom Allen was advertised to take part in a sparring exhibition at Flannigan's Hall, East St. Louis, on March 29, 1883, which was called off."
+  },
+  {
+   "cid": "692.c3",
+   "date": "1883-03-29",
+   "published": "1883-03-30",
+   "conf": "medium",
+   "statement": "Tom Allen told Chief Kerrigan that he did not wish to break the law and so decided not to give the exhibition in East St. Louis."
+  },
+  {
+   "cid": "693.c1",
+   "date": "1883-03-29",
+   "published": "1883-03-30",
+   "statement": "Tom Allen was advertised, as the retired champion of the world, to appear at a boxing entertainment at Flannigan's Hall, East St. Louis, on March 29, 1883, which was not held."
+  },
+  {
+   "cid": "180.c32",
+   "date": "1884-07-04",
+   "published": "1899-02-27",
+   "retro": true,
+   "statement": "Tom Allen's last boxing appearance was four friendly rounds with Tom Kelly at Union Baseball Park on July 4, 1884."
+  },
+  {
+   "cid": "708.c1",
+   "date": "1884-07-04",
+   "published": "1884-06-25",
+   "statement": "Tom Allen and Tom Kelly arranged with Bill Richards an athletic and sparring tournament at the Union grounds on July 4, 1884."
+  },
+  {
+   "cid": "708.c2",
+   "date": "1884-07-04",
+   "published": "1884-06-25",
+   "conf": "medium",
+   "statement": "Tom Allen and Tom Kelly were to spar the wind-up of the tournament, with the winner to receive a silver cup."
+  },
+  {
+   "cid": "709.c1",
+   "date": "1884-07-04",
+   "published": "1884-06-25",
+   "statement": "Tom Allen was billed to spar the wind-up with Tom Kelly at the Union Base Ball Grounds tournament on July 4 for the Union Club Cup."
+  },
+  {
+   "cid": "710.c1",
+   "date": "1884-07-04",
+   "published": "1884-06-25",
+   "statement": "Tom Allen, ex-champion of the world, was to spar Tom Kelly in the wind-up at the Union Base Ball Grounds tournament on July 4 for the Union Club cup."
+  },
+  {
+   "cid": "711.c1",
+   "date": "1884-07-04",
+   "published": "1884-06-26",
+   "conf": "medium",
+   "statement": "Tom Allen, the ex-champion, was to spar Tom Kelly at the Union grounds in the Fourth of July tournament."
+  },
+  {
+   "cid": "711.c2",
+   "date": "1884-07-04",
+   "published": "1884-06-26",
+   "statement": "Tom Allen said a score of local boxers would spar for the middle and heavy weight prizes at the Fourth of July tournament."
+  },
+  {
+   "cid": "712.c1",
+   "date": "1884-07-04",
+   "published": "1884-06-28",
+   "conf": "medium",
+   "statement": "Tom Allen, ex-champion of the world, and Tom Kelly were to do the wind-up sparring at the Union Club tournament on July 4 at the Union Base-Ball Grounds."
+  },
+  {
+   "cid": "715.c1",
+   "date": "1884-07-04",
+   "published": "1884-06-28",
+   "conf": "medium",
+   "statement": "Tom Allen and Tom Kelly, ex-champion pugilists of the world, were billed to do the wind-up sparring at the Fourth of July athletic tournament at the Union Base Ball Grounds."
+  },
+  {
+   "cid": "716.c1",
+   "date": "1884-07-04",
+   "published": "1884-06-29",
+   "conf": "medium",
+   "statement": "Tom Allen and Tom Kelly, the ex-champion pugilists of the world, were to do the wind-up at the Fourth of July athletic tournament at the Union Base Ball Grounds."
+  },
+  {
+   "cid": "717.c1",
+   "date": "1884-07-04",
+   "published": "1884-06-30",
+   "conf": "medium",
+   "statement": "Tom Allen and Tom Kelly, the ex-champion pugilists of the world, were to do the wind-up at the Fourth of July athletic tournament at the Union Base Ball Grounds."
+  },
+  {
+   "cid": "718.c1",
+   "date": "1884-07-04",
+   "published": "1884-07-03",
+   "conf": "medium",
+   "statement": "Tom Allen, ex-champion of the world, and Tom Kelly were to spar for the Union Club cup as the final bout of the Fourth of July tournament at the Union Base Ball Grounds."
+  },
+  {
+   "cid": "719.c1",
+   "date": "1884-07-04",
+   "published": "1884-07-03",
+   "conf": "medium",
+   "statement": "Tom Allen and Tom Kelly, the ex-champion pugilists of the world, were to do the wind-up at the Fourth of July athletic tournament at the Union Base Ball Grounds."
+  },
+  {
+   "cid": "720.c1",
+   "date": "1884-07-04",
+   "published": "1884-07-03",
+   "conf": "medium",
+   "statement": "Tom Allen and Tom Kelly, the ex-champion pugilists of the world, were to do the wind-up at the Fourth of July athletic tournament at the Union Base Ball Grounds."
+  },
+  {
+   "cid": "722.c1",
+   "date": "1884-07-04",
+   "published": "1884-07-04",
+   "conf": "medium",
+   "statement": "Tom Allen and Tom Kelly were advertised to spar at the Fourth of July athletic tournament at Cass and Jefferson Avenues, St. Louis."
+  },
+  {
+   "cid": "723.c2",
+   "date": "1884-07-04",
+   "published": "1884-07-05",
+   "statement": "Tom Allen and Tom Kelly received an ovation when they put on the mittens to spar at the Union Club athletic sports."
+  },
+  {
+   "cid": "125.c1",
+   "date": "1888-02-23",
+   "published": "1888-02-19",
+   "conf": "medium",
+   "statement": "Tom Allen was to spar four rounds with Hugh McManus as the wind-up of a benefit for Pittsburg pugilist Jack King at the Kelly Athletic Club on February 23, 1888."
+  },
+  {
+   "cid": "759.c1",
+   "date": "1888-05-27",
+   "published": "1888-05-27",
+   "statement": "Tom Allen's place at 619 Market street advertised a free concert, and boxing by the city's most scientific boxers, every evening."
+  },
+  {
+   "cid": "760.c1",
+   "date": "1888-06-02",
+   "published": "1888-06-02",
+   "statement": "Tom Allen's place at 619 Market street advertised a free concert and the best boxing in the city every evening."
+  },
+  {
+   "cid": "208.c3",
+   "date": "1903-04",
+   "published": "1903-04-11",
+   "conf": "medium",
+   "statement": "Friends led by R. W. L. Gillespie planned a benefit of boxing bouts and feats of strength, probably at the West End Club, to pay for a monument and the care of Allen's grave."
+  }
+ ]
+}

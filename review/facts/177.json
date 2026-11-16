@@ -1,0 +1,19 @@
+{
+  "id": "177",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen went with the St. Louis crowd to the Sullivan-Kilrain fight at Richburg, Mississippi, in July 1889.",
+      "excerpt": "Tom Allen and Tom Kelly were there, and",
+      "date": "1889-07",
+      "date_precision": "month",
+      "people": ["Tom Kelly"],
+      "places": ["Richburg, Mississippi"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Article is mainly about John L. Sullivan's Boston mayoral run. Allen appears only as a spectator at the 1889 fight. The date is 'July' and 'eight years ago' in a 1897 paper, so the year is 1889."
+}

@@ -1,0 +1,162 @@
+{
+  "id": "102",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to St. Louis on December 29, 1882, six years after he had left the city.",
+      "excerpt": "ago since he leit St. Louis, and he returns looking",
+      "date": "1882-12-29",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen said he was as well as ever, though he had a sore throat from a slight cold.",
+      "excerpt": "riiig a sore throat, the result of a slight cold.",
+      "date": "1882-12-29",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he preferred bare-fist fighting to either hard or soft gloves.",
+      "excerpt": "he prefers woik with the bare fists to either-hard",
+      "date": "1882-12-29",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen said his reported knockout by George Rooke was only a friendly set-to with soft gloves.",
+      "excerpt": "It wasa triendly set-to with soft gloves,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["George Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen said he fell when his foot went through a plank of the stage at the end of the set-to with George Rooke.",
+      "excerpt": "went through a plank of the stage and I fell heav-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["George Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen said he sparred with Cleary of Philadelphia just after the Rooke meeting and found him not as clever as George Rooke.",
+      "excerpt": "Don’t you believe it. I set to with him just",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Cleary", "George Rooke"],
+      "places": ["Philadelphia"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen planned to challenge any man in the world to fight him for any sum and the championship once his backer had set him up in business.",
+      "excerpt": "As soon as the old fellow is located he wil chal-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen planned that any fight he made would be held in the Indian Nation on the M., K. & T. road, a day's ride from St. Louis, to avoid police interference.",
+      "excerpt": "Nation, on tie line of the M., K.& T. road, a dzxy’s",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Indian Nation", "St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he would meet Sullivan, but Sullivan would not meet him.",
+      "excerpt": "I'd meet Sullivan, but he won’t meet me.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "In Chicago Tom Allen refused to take part in a fixed fight with Jim Elliott, proposed by 'the Parson' and others.",
+      "excerpt": "He says that upthere ‘the Parson’ anda few",
+      "date": "1882-12",
+      "date_precision": "month",
+      "people": ["Jim Elliott"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "The Parson and others spread the report that Tom Allen was on a big spree and had become a total wreck.",
+      "excerpt": "‘the Parson’ and a iot of others spread the re-",
+      "date": "1882-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Joe Elliott of the New York Herald started the story that he was played out.",
+      "excerpt": "New York Herald, staried that story,” said Tom.",
+      "date": "1882-12",
+      "date_precision": "month",
+      "people": ["Joe Elliott"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "business",
+      "statement": "A gentleman who had backed Tom Allen in nearly all his old fights intended to set him up in business in St. Louis.",
+      "excerpt": "man intended setiing Tom up in business bere,",
+      "date": "1882-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I'd meet Sullivan, but he won’t meet me.",
+      "topic": "on fighting Sullivan"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "*ile’s had it in for me tor something or other.",
+      "topic": "blames Joe Elliott for the story"
+    }
+  ],
+  "fights": [],
+  "notes": "Hint dates corrected: Allen returned on 1882-12-29, not 1882. Joe Elliott is named as the Herald writer; Jim Elliott is the Chicago opponent."
+}

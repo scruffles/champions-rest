@@ -1,0 +1,45 @@
+{
+  "id": "484",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Ben Hogan are entered for a ring contest to be shown on October 28, 1873.",
+      "excerpt": "BEN. HOGAN and-Tom Allen were at the Fair yesterday. They are entered for the rimg that will be shown on the 28th.",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was already in trim for the Hogan fight, while Ben Hogan was still getting in trim.",
+      "excerpt": "Ben. is getling in trim,and Tom isallready.",
+      "date": "1873-10-07",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "They are entered for the rimg that will be shown on the 28th.",
+      "reported_as": "report",
+      "notes": "Date is the 28th of the month printed; the month is inferred from the paper's date."
+    }
+  ],
+  "notes": "'Yesterday' is taken as 1873-10-07. Tom Isallready is a garbled line; the statement reads it as 'Tom is already'."
+}

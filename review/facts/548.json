@@ -1,0 +1,56 @@
+{
+  "id": "548",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss wrote to Cincinnati of his willingness to fight Tom Allen, and a $500 forfeit was put up for Goss at the Empire saloon in the hands of Eph Holland.",
+      "excerpt": "Goss has written to this city his willingness to fight Allen, and a forfeit of $500 has been putup for him atthe Empire saloon, in the hands of Eph. Holland.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Empire saloon, Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen expressed his hope that the fight with Joe Goss would be brought about, and his confidence that he could whip Goss.",
+      "excerpt": "Allen has expressed his hope that the tight might be brought about, and his implicit faith in his ability to whip Goss.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss to a draw in England about ten years before 1876, the contest stopped by darkness, after Allen had worsted Goss badly.",
+      "excerpt": "ten years ago, Allen fought Goss to a draw (darkness intervening) and worsted him badly.",
+      "date": "1866",
+      "date_precision": "approx",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1866",
+      "date_precision": "approx",
+      "place": "England",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "ten years ago, Allen fought Goss to a draw (darkness intervening) and worsted him badly.",
+      "reported_as": "recollection",
+      "notes": "Stopped by darkness. Article says Allen worsted Goss badly; the hint's wording is kept only as the text gives it."
+    }
+  ],
+  "notes": "Article is a Cincinnati Commercial item reprinted in the St. Louis Republic."
+}

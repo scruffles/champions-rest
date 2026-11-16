@@ -1,0 +1,56 @@
+{
+  "id": "351",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "The last stakes for the Allen and Gallagher fight were deposited at Allen's saloon on Saturday night, 14 August 1869.",
+      "excerpt": "Cherley Gallagher was made at the salooa of the",
+      "date": "1869-08-14",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": ["Allen's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The Allen and Gallagher fight was set for 17 August 1869, the day of a steamboat excursion to see it.",
+      "excerpt": "Steamboat Excursion, August 17, 1869. Proceeds",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "A steamboat excursion for 17 August 1869 was advertised with proceeds for the benefit of Tom Allen or Charley Gallagher.",
+      "excerpt": "for the benefit of Tom Allen or C'sariey Gallagher.",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Steamboat Excursion, August 17, 1869. Proceeds",
+      "reported_as": "report",
+      "notes": "Date inferred from the excursion tickets. The destination is printed as 'Lattle-ground' (OCR); the stakes are not stated."
+    }
+  ],
+  "notes": "Short notice. The Louisville boat times are left out as minor."
+}

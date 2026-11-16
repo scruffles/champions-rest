@@ -1,0 +1,19 @@
+{
+  "id": "123",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "George LaBlanche arrived in St. Louis and visited Tom Allen and Tom Kelly.",
+      "excerpt": "the city last night and paid avisit to Tom Allen",
+      "date": "1886-10-10",
+      "date_precision": "day",
+      "people": ["George LaBlanche", "Tom Kelly"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is named only as a visitor. The Daly v. LaBlanche articles are not Allen's. Text truncated after the articles."
+}

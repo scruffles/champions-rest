@@ -1,0 +1,19 @@
+{
+  "id": "804",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "In 1868, before Joe Coburn's match with Jem Mace, the Mace party pitted Joe Goss, Tom Allen and Bill Rayne against Coburn to test him, and Coburn bested them all.",
+      "excerpt": "party pitted Joe Goss, Tom Allen end Bill",
+      "date": "1868",
+      "date_precision": "year",
+      "people": ["Jem Mace", "Joe Coburn", "Joe Goss", "Bill Rayne"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hugh McManus column recalling the Coburn-Mace match; OCR prints 'end' for 'and'. The 1868 date is from the same column."
+}

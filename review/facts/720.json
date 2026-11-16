@@ -1,0 +1,19 @@
+{
+  "id": "720",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Tom Kelly, the ex-champion pugilists of the world, were to do the wind-up at the Fourth of July athletic tournament at the Union Base Ball Grounds.",
+      "excerpt": "The ex-Champion Pugilists of the World, will do the wind-up.",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Union Base Ball Grounds, Cass and Jefferson Avenues, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement; the excerpt is the left-column line from the ad. Hint kept; wording matches the ad."
+}

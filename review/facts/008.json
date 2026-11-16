@@ -1,0 +1,45 @@
+{
+  "id": "008",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was to meet Charlie Gallagher on February 23, 1869, at a place within sixty miles of St. Louis; the exact spot was not announced.",
+      "excerpt": "will have their meeting to-day at some point within sixty miles of this city",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Charlie Gallagher"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Patsy Reardon, who had recently come from Ireland, was to second Tom Allen against Charlie Gallagher.",
+      "excerpt": "the Emerald Isle, is on hand,and witl second Tom Aller.",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Patsy Reardon", "Charlie Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charlie Gallagher",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "place": "within sixty miles of St. Louis (exact spot not announced)",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "will have their meeting to-day at some point within sixty miles of this city",
+      "reported_as": "report",
+      "notes": "Preview only; the result is in the 24 February report (article 009)."
+    }
+  ],
+  "notes": "Preview of the Allen-Gallagher fight; no result given."
+}

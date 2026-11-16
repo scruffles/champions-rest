@@ -1,0 +1,30 @@
+{
+  "id": "669",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "After a consultation with R. K. Fox in New York, Tom Allen agreed to accept James Elliott's challenge to fight him for $1,000 and the championship of America, within six weeks of signing articles and within 1,000 miles of New Orleans.",
+      "excerpt": "Allen consented to accept El-",
+      "date": "1882-12-06",
+      "date_precision": "day",
+      "people": ["R. K. Fox", "James Elliott"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "W. E. Harding was to go to Chicago with Tom Allen on Saturday to arrange the match with Elliott.",
+      "excerpt": "E. Harding will go to Chicago on Saturday with",
+      "date": "1882-12-09",
+      "date_precision": "day",
+      "people": ["W. E. Harding", "James Elliott"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Charles E. Davis of Chicago was to notify Elliott; Mike McDonald was named as final stakeholder. Neither is about Allen directly, so not recorded as claims."
+}

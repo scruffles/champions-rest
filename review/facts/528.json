@@ -1,0 +1,56 @@
+{
+  "id": "528",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen arrived in Chicago from St. Louis on November 17, 1875.",
+      "excerpt": "On yesterday, Allen arrived in this\ncity from St. Louis",
+      "date": "1875-11-17",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Chicago", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen planned to stay in Chicago for a couple of days after the match was made.",
+      "excerpt": "Allen will remain in the city for a couple\nof days",
+      "date": "1875-11-17",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "In Chicago, Barney Aaron for Allen and Harry Hill for Mace put a deposit with Mike McDonald and drew up articles for a $5,000-a-side fight on May 20, 1876.",
+      "excerpt": "i the hands of Mike Mc-\nnald",
+      "date": "1875-11-17",
+      "date_precision": "day",
+      "people": ["Barney Aaron", "Harry Hill", "Jem Mace", "Mike McDonald"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1876-05-20",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$5,000 a side",
+      "rules": "",
+      "excerpt": "to occuron\nthe 20th of May, 1876",
+      "reported_as": "report",
+      "notes": "Planned bout; not yet fought. The deposit amount is garbled in the OCR ('a8 side') and is left out. The Republic report (527) gives $5,000."
+    }
+  ],
+  "notes": "Reprinted from the Chicago Times of Nov. 18. The Republic dateline (527) gives Nov. 15 for the match; this account says Nov. 17."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "861",
+  "claims": [
+    {
+      "kind": "health",
+      "statement": "Tom Allen was thrown out of his buggy on Saturday, 1892-09-10, when his horse became uncontrollable during his usual afternoon drive.",
+      "excerpt": "Tom was out taking his usual afternoon drive,when his horse became uncontrollable.",
+      "date": "1892-09-10",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was confined to his bed from Tuesday, 1892-09-13, with a very painful illness caused by the shaking up from the fall; the illness was not thought to be serious.",
+      "excerpt": "While his illness is extremely painful, it is not thought to be serious.",
+      "date": "1892-09-13",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as the veteran ex-champion heavy-weight of America.",
+      "excerpt": "Tom Allen,the veteran ex-champion heavy-weight of America, has been confined to his bed since Tuesday",
+      "date": "1892-09",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Dates worked out from the paper's date (1892-09-15): last Saturday is 1892-09-10, Tuesday is 1892-09-13."
+}

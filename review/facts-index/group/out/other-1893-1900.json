@@ -1,0 +1,222 @@
+{
+  "bucket": "other-1893-1900",
+  "facts": [
+    {
+      "fact": "Tom Allen picked Ed Smith to beat Joe Goddard, backed him and won heavily on the bet, and was one of Smith's seconds at the New Orleans fight on 3 March 1893, which Smith fairly won.",
+      "date": "1893-03-03",
+      "seed": "033",
+      "conflict": "position: 153.c1 and 888.c1 put Allen in Smith's corner as a second, while 888.c2 says he sat in a private box; date: 979.c1 prints the fight as March 32, 1893 (garbled)",
+      "claims": ["152.c4", "153.c2", "153.c3", "154.c3", "154.c4", "979.c1", "153.c1", "153.c4", "888.c1", "888.c2"]
+    },
+    {
+      "fact": "In October 1893 Tom Allen said Charlie Mitchell must beat Jim Corbett.",
+      "date": "1893-10-21",
+      "seed": "",
+      "conflict": "",
+      "claims": ["154.c1"]
+    },
+    {
+      "fact": "Tom Allen was stakeholder for the Sharpe-Crosby fight and held the $1,000 posted by the backers, and he suggested the Armourdale Club postpone the fight from 21 November to the first week of December so Sharpe could get in condition.",
+      "date": "1893-11-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["893.c1", "893.c4"]
+    },
+    {
+      "fact": "In December 1893 Tom Allen was confident Corbett would meet his conqueror in Charley Mitchell, and said Corbett's battles with Jackson and Sullivan showed him to be a very ordinary fighter.",
+      "date": "1893-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["155.c5", "155.c6"]
+    },
+    {
+      "fact": "Tom Allen made an ox-tail jelly to harden Charley Mitchell's stomach before his fight with Corbett, sent it to Mitchell's training quarters, and offered Paddy Smith $100 for the receipt for it.",
+      "date": "1893-12",
+      "seed": "034",
+      "conflict": "",
+      "claims": ["155.c7", "155.c8", "155.c9", "160.c3", "161.c4"]
+    },
+    {
+      "fact": "Tom Allen was to prepare Mitchell's food and may have been one of his seconds; he assisted in Mitchell's training and was one of his seconds at the Corbett-Mitchell fight in Florida in January 1894.",
+      "date": "1893-12",
+      "seed": "033",
+      "conflict": "",
+      "claims": ["156.c3", "896.c1", "899.c1", "161.c1"]
+    },
+    {
+      "fact": "Tom Allen played a joke on a newspaper reporter in January 1894, leaving him waiting at Mitchell's training quarters while the trainers took a nap.",
+      "date": "1894-01-18",
+      "seed": "",
+      "conflict": "",
+      "claims": ["158.c1"]
+    },
+    {
+      "fact": "Tom Allen found a porpoise struggling in the shallow water on the beach at the training camp, tried to keep it away, and then reported to the training party how he had captured it.",
+      "date": "1894-01-22",
+      "seed": "",
+      "conflict": "",
+      "claims": ["159.c1"]
+    },
+    {
+      "fact": "In January 1894 Tom Allen spent much of his time on the beach or at the top of the old Anastasia lighthouse, a stone's throw from Mitchell's cottage.",
+      "date": "1894-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["157.c2"]
+    },
+    {
+      "fact": "In January 1894 Tom Allen wrote to Fred Watkins that Mitchell could not lose and was in the pink of condition, and that odds of 2 to 1 might be obtainable at the ringside; a letter reported by Alderman Cronin said Mitchell was fit to fight for a kingdom.",
+      "date": "1894-01-21",
+      "seed": "",
+      "conflict": "",
+      "claims": ["896.c2", "896.c3", "897.c2"]
+    },
+    {
+      "fact": "Tom Allen and Bat Masterson would like to bet $5,000 against the even-money wagers that Corbett wins in twenty rounds, and Allen said he fancied Mitchell but would not bet a cent on him after seeing the two men before the fight.",
+      "date": "1894-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["157.c3", "161.c5"]
+    },
+    {
+      "fact": "Tom Allen lost a diamond ring on the train home from Jacksonville and later found it by the glitter of a piece of wire from a beer bottle.",
+      "date": "1894-01-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["160.c2"]
+    },
+    {
+      "fact": "Tom Allen said there was no fight between Corbett and Mitchell.",
+      "date": "1894-01-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["160.c4"]
+    },
+    {
+      "fact": "Tom Allen said he thoroughly believed Corbett could whip any pugilist, including Peter Jackson and Ed Smith.",
+      "date": "1894-01-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["161.c3"]
+    },
+    {
+      "fact": "In December 1894 Tom Allen and Tom Kelly doubted that Bob Fitzsimmons could fight successfully with his arms or wrists.",
+      "date": "1894-12-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["902.c1"]
+    },
+    {
+      "fact": "In a letter to the Post-Dispatch on 23 December 1894 Tom Allen said Andy Bowen's seconds should have thrown up the sponge three rounds before Bowen was knocked out by George Lavigne, and that prize fighting should be held in the open air and boxing would survive the closing of the New Orleans clubs.",
+      "date": "1894-12-23",
+      "seed": "",
+      "conflict": "",
+      "claims": ["164.c1", "164.c2"]
+    },
+    {
+      "fact": "On 11 January 1895 Tom Allen said no fight could be pulled off around St. Louis at that time, and advised Neist to try for a wrestling match with Mooney.",
+      "date": "1895-01-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["165.c2"]
+    },
+    {
+      "fact": "In May 1895 Tom Allen and his old backer Fred Watkins were regular patrons of the races at the St. Louis Fair Grounds.",
+      "date": "1895-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["915.c1"]
+    },
+    {
+      "fact": "In November 1895 Tom Allen was among the old-time pugilists missing from the Hot Springs gathering.",
+      "date": "1895-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["922.c1"]
+    },
+    {
+      "fact": "In February 1896 Tom Allen said he did not know the first principle of bull fighting, but believed any so-called sport that calls for dead horses and bulls is no sport at all.",
+      "date": "1896-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["926.c3"]
+    },
+    {
+      "fact": "In September 1896 Tom Allen hung a picture of William McKinley on the wall of Champion's Rest among the best pugs and wrestlers, and backed him for president against Cleveland.",
+      "date": "1896-09-25",
+      "seed": "",
+      "conflict": "",
+      "claims": ["170.c1"]
+    },
+    {
+      "fact": "In November 1896 Tom Allen was in close conference with Peter Maher during the Maher and Choynski fight and had a reserved seat at the ringside.",
+      "date": "1896-11-16",
+      "seed": "",
+      "conflict": "",
+      "claims": ["942.c3"]
+    },
+    {
+      "fact": "Tom Allen said Frank Slavin's defeat by Bob Armstrong could not have ended any other way, given Slavin's condition.",
+      "date": "1896-11-26",
+      "seed": "",
+      "conflict": "",
+      "claims": ["945.c4"]
+    },
+    {
+      "fact": "On 21 January 1897 Tom Allen and Tom Kelly, at the Post-Dispatch's request, watched Jim Corbett at a Havlin's Theater matinee and declared him fit to fight.",
+      "date": "1897-01-21",
+      "seed": "",
+      "conflict": "",
+      "claims": ["171.c1"]
+    },
+    {
+      "fact": "In February 1897 the paper described Tom Allen as an enthusiastic Corbett man, and Allen said Corbett was the fastest big man he had ever seen in the ring and would beat Fitzsimmons quickly.",
+      "date": "1897-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["952.c5", "952.c6", "952.c7"]
+    },
+    {
+      "fact": "In June 1897 Paddy Smith, his brother Denver Ed Smith and Ike Weir, the Belfast Spider, stayed at Tom Allen's place in St. Louis while looking for fights, and Denver Ed Smith shook hands with Allen and had breakfast there on 14 June.",
+      "date": "1897-06-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["174.c1", "174.c2", "175.c1", "175.c2", "175.c3"]
+    },
+    {
+      "fact": "On 15 June 1897 Tom Allen of St. Louis offered to back Denver Ed Smith to the extent of $2,000 for a return fight with Joe Choynski or Joe Goddard, if Smith could arrange one.",
+      "date": "1897-06-15",
+      "seed": "",
+      "conflict": "",
+      "claims": ["963.c1"]
+    },
+    {
+      "fact": "After seeing the Derby run at the Fair Grounds in St. Louis on Saturday 26 June 1897, Tom Allen began going to the races there.",
+      "date": "1897-06-26",
+      "seed": "",
+      "conflict": "",
+      "claims": ["964.c1"]
+    },
+    {
+      "fact": "On 29 December 1897 Tom Allen commented on Fitzsimmons and said Corbett should take Fitzsimmons at his word.",
+      "date": "1897-12-29",
+      "seed": "",
+      "conflict": "",
+      "claims": ["969.c1", "969.c2"]
+    },
+    {
+      "fact": "On 26 February 1899 Allen had been drinking heavily and was still under the influence of liquor when he was moved to the Four Courts.",
+      "date": "1899-02-26",
+      "seed": "",
+      "conflict": "",
+      "claims": ["985.c8"]
+    },
+    {
+      "fact": "In March 1900 Tom Allen was rough and surly with most people but kind and gentle with his daughter.",
+      "date": "1900-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["279.c9"]
+    }
+  ]
+}

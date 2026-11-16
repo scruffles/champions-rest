@@ -1,0 +1,25 @@
+{
+  "id": "764",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen's interference with the Daly-McManus prize fight drew a protest from Deacon Hovser's paper, which said the fight should go on.",
+      "excerpt": "the interference of Mr. Tom ALLnn with a prize-fight",
+      "date": "1888-12",
+      "date_precision": "month",
+      "people": ["Dan Daly", "Hugh McManus"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Deacon Hovser's paper",
+      "text": "it would bea pity to stop the Daly-McManus fight when both the principals are ready to proceed. Letthe mill go on, by all means.",
+      "topic": "against stopping the Daly-McManus fight"
+    }
+  ],
+  "fights": [],
+  "notes": "The protest is quoted from Deacon Hovser's paper, which is not named as the Globe-Democrat in the text; the hint's paper name is unconfirmed. No bout of Allen's is described. The paper calls Allen a reformed prize-fighter, but the line is OCR-broken (him-cel?, refoemed) and too short to quote as a claim."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "483",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "An advertisement says Tom Allen's Free Concert Hall at 417 Washington Avenue is the best place of amusement in the city, open every evening with the champion presiding.",
+      "excerpt": "om Allen’s Free Concert Hall, 417 Washington avenue. Best place of amusement in the City. Open every evening. Champion will preside.",
+      "date": "1873-10-08",
+      "date_precision": "day",
+      "people": [],
+      "places": ["417 Washington Avenue"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Repeat of the advertisement in the 1873-10-07 Globe-Democrat (id 481)."
+}

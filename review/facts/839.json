@@ -1,0 +1,47 @@
+{
+  "id": "839",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen is described as an ex-champion heavy-weight.",
+      "excerpt": "Tom Allen, an ex-champion heavy- weight, was loitering around the Southern Hotel",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was waiting in the Southern Hotel rotunda on March 5, 1892, to take Frank P. Slavin out for a spin.",
+      "excerpt": "rotunda, yesterday, waiting to take Frank P, Slavin outforaspin.",
+      "date": "1892-03-05",
+      "date_precision": "day",
+      "people": ["Frank P. Slavin"],
+      "places": ["Southern Hotel"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he saw the Fitzsimmons-Maher fight.",
+      "excerpt": "said Tom **[ saw the Fitzsimmons-Maher fight.",
+      "date": "1892-03",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Fitz isaclever man, but he can’t it ’ard, you know. Maher just @eakened when the fight might ’ave been ’is.",
+      "topic": "Fitzsimmons and Maher fight"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen did not fight. Short interview with dialect spelling and OCR damage; 'hit' is printed as 'it'. The quote is kept as printed."
+}

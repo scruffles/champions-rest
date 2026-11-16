@@ -1,0 +1,41 @@
+{
+  "id": "556",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen was due to sign articles for a fight with Joe Goss at Cincinnati on May 12, 1876.",
+      "excerpt": "from signing pepers at Cincinnati, to-morrow",
+      "date": "1876-05-12",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Sporting circles expected Tom Allen to insist on a fight with Joe Goss within twelve weeks of signing articles.",
+      "excerpt": "that Tom Allen will insist upon a fight with Goss within twelve weeks from signing",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Some men claiming to be posted said Joe Goss would not agree to a meeting with Tom Allen for four months after signing articles and might stave the match off.",
+      "excerpt": "and that Goss will not agree toa meting short of four months from signing articles",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss", "Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Rumour and expectation from sporting circles, not a made match. Unrelated police item on the same page is ignored."
+}

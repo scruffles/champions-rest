@@ -1,0 +1,19 @@
+{
+  "id": "098",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered to fight Jno. L. Sullivan for a stake printed as $1,000 to $5,000.",
+      "excerpt": "to fight Jno. L. Sullivan, the Irish",
+      "date": "1882-11",
+      "date_precision": "month",
+      "people": ["John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Garbled OCR; only the offer, the opponent and the stake are readable. The offer was never agreed in this text, so it is a challenge, not a fight."
+}

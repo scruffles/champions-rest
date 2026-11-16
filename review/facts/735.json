@@ -1,0 +1,34 @@
+{
+  "id": "735",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole's last fight was with Tom Allen in New Orleans in 1873 (printed as 1573).",
+      "excerpt": "His last ight was with Tom Alien In this city in 1573",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": ["New Orleans, Louisiana"],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "year",
+      "place": "New Orleans, Louisiana",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "His last ight was with Tom Alien In this city in 1573",
+      "reported_as": "recollection",
+      "notes": "Year is printed as 1573 (OCR); 1873 is the likely reading and matches the hint, but the text itself is garbled. Result not stated."
+    }
+  ],
+  "notes": "Obituary dispatch; 'this city' is New Orleans, the dateline."
+}

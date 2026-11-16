@@ -1,0 +1,89 @@
+{
+  "id": "099",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "The Allen-Sullivan match fell through: neither W. E. Harding for Tom Allen nor Bob Farrell for Sullivan appeared at Harry Hill's on December 5, 1882.",
+      "excerpt": "neither VW. FE. Harding, for Tot\nAlien, nor Sob Farrell, for Sullivan, had ap-",
+      "date": "1882-12-05",
+      "date_precision": "day",
+      "people": ["W. E. Harding", "Bob Farrell", "Harry Hill", "John L. Sullivan"],
+      "places": ["Harry Hill's, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Harry Hill offered to return to Richard K. Fox the $1,000 forfeit Fox had posted for Tom Allen.",
+      "excerpt": "which he had posted as a forfeit for Tom\nAllen",
+      "date": "1882-12-05",
+      "date_precision": "day",
+      "people": ["Harry Hill", "Richard K. Fox"],
+      "places": ["Harry Hill's, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen said he had been sick and had not left the house since his exhibition.",
+      "excerpt": "have not been out of the house since the ex-\nhibition. IL have been sick.",
+      "date": "1882-12-05",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen planned to go to Chicago to see the Sullivan-Elliott glove contest.",
+      "excerpt": "IT am going to\nChicago to see a glove contest between Sullii-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["John L. Sullivan", "Elliott"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he would fight the winner of the Sullivan-Elliott glove contest if he recovered.",
+      "excerpt": "if Il mend a bit I wih\nhave a go with the winner",
+      "date": "1882-12-05",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "Elliott"],
+      "places": ["Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "]\nhave not been out of the house since the ex-\nhibition. IL have been sick.",
+      "topic": "illness after his exhibition"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "There isanother\ngood fight leit In me yet.",
+      "topic": "wanting to keep fighting"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "John L. Sullivan",
+      "date": "1882-12-05",
+      "date_precision": "day",
+      "place": "Harry Hill's, New York",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 forfeit posted by Richard K. Fox for Allen",
+      "rules": "",
+      "excerpt": "neither VW. FE. Harding, for Tot\nAlien, nor Sob Farrell, for Sullivan, had ap-",
+      "reported_as": "report",
+      "notes": "Forfeit by Allen's side: his representative Harding did not appear, and Sullivan's representative Farrell was also absent."
+    }
+  ],
+  "notes": "The hint's challenge is treated as a forfeited match (a fight entry). Allen's own quotes are the only direct speech."
+}

@@ -1,0 +1,102 @@
+{
+  "id": "763",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen filed suit against Bill Clark, the final stakeholder in the Daly-McManus match.",
+      "excerpt": "Allen yesterday entered suit against Bill Clark, the final stakeholder",
+      "date": "1888-12-07",
+      "date_precision": "day",
+      "people": ["Bill Clark"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen's petition asked for judgment for $1,000 he had deposited with the stakeholder, with interest and costs.",
+      "excerpt": "prays judgment for said sum of $1,000, interest and costs",
+      "date": "1888-12-07",
+      "date_precision": "day",
+      "people": ["Bill Clark"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen's second count said Bill Clark received a sum printed as $75) from the Globe Printing Co. for Allen and had not paid it.",
+      "excerpt": "the defendant received from the Globe Printing Co. the sum of $75)",
+      "date": "1888-12-05",
+      "date_precision": "day",
+      "people": ["Bill Clark"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen and Dan Daly made a wager on October 16, 1888, depending on a gloved match between Dan Daly and Hugh McManus set for December 1888.",
+      "excerpt": "he and one Dan Daly enteredintoa wager depending upon the result of a boxin match with gloves between Dan Daly and Hugh McManus",
+      "date": "1888-10-16",
+      "date_precision": "day",
+      "people": ["Dan Daly", "Hugh McManus"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen backed Hugh McManus in the match against Dan Daly and claimed a $750 forfeit for him.",
+      "excerpt": "my claim for $750 forfeit for Hugh McManus",
+      "date": "1888-12-05",
+      "date_precision": "day",
+      "people": ["Hugh McManus", "Dan Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen claimed a forfeit at noon on December 5, 1888, saying Daly's final $250 deposit was not up.",
+      "excerpt": "I heard the next morning that Daly’s #250 was not up so I went to the oflice and at 12 o'clock claimed a forfeit.",
+      "date": "1888-12-05",
+      "date_precision": "day",
+      "people": ["Dan Daly"],
+      "places": ["Globe-Democrat office"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "A temporary stakeholder said Daly's money was up on time and was turned over to Bill Clark, disputing Allen's forfeit claim.",
+      "excerpt": "says Daly’s money was up on time and thatthe money was turned over to Clark",
+      "date": "1888-12",
+      "date_precision": "month",
+      "people": ["Bill Clark", "Dan Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "The article says Tom Allen had long been on the run from the law and kept out of its clutches.",
+      "excerpt": "the law has had Tom on the run, and he was compelled to step around pretty lively to keep out of its clutches",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Iam willing to leave the matter to the Clipper, the Spirit of the Times or the Police Gazetie, and will abide by their decision on my claim for $750 forfeit for Hugh McManus",
+      "topic": "offers to let sporting papers decide his forfeit claim"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen was not a fighter in the Daly-McManus match; his part was a wager, a forfeit claim and a lawsuit. The Clark amount is printed as $75) and is uncertain."
+}

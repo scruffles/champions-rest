@@ -1,0 +1,19 @@
+{
+  "id": "419",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Dr. Morse said that a $1,000 premium at an agricultural fair might get Tom Allen or Mike McCoole for a prize fight.",
+      "excerpt": "of a thocrand ¢.ilars they might get Tom Allen",
+      "date": "1870-08",
+      "date_precision": "month",
+      "people": ["Dr. Morse", "Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hypothetical remark in a club debate on fairs, not an offer. Only mention of Allen; the rest concerns fairs."
+}

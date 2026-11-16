@@ -1,0 +1,131 @@
+{
+  "bucket": "legal-1875-1883",
+  "facts": [
+    {
+      "fact": "A man believed to be part of a watch swindle was seen entering Tom Allen's saloon in January 1875, and three men recently from Baltimore were arrested in a boarding house nearby.",
+      "date": "1875-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["513.c1", "513.c2"]
+    },
+    {
+      "fact": "Tom Allen, Jack Looney, Arthur Chambers, Dublin Tricks and Tom Kelley were discharged from their bond to answer a Madison County indictment at Belleville on January 30, 1875, because of a flaw in the indictment.",
+      "date": "1875-01-30",
+      "seed": "",
+      "conflict": "",
+      "claims": ["512.c1", "512.c4"]
+    },
+    {
+      "fact": "Tom Allen telegraphed Harry Hill in May 1875 about Rooke's $1,500 share of the stakes, and Rooke's backer threatened Hill with a suit for it.",
+      "date": "1875-05-16",
+      "seed": "",
+      "conflict": "",
+      "claims": ["521.c7", "521.c8", "521.c10"]
+    },
+    {
+      "fact": "Jack Madden was arrested in Tom Allen's saloon on suspicion of a robbery on December 26, 1875, and was released after a search at the Third Precinct Station.",
+      "date": "1875-12-26",
+      "seed": "",
+      "conflict": "",
+      "claims": ["531.c1", "531.c2"]
+    },
+    {
+      "fact": "Tom Allen was indicted in Kentucky in 1876 for prize fighting in the Goss fight.",
+      "date": "1876",
+      "seed": "",
+      "conflict": "",
+      "claims": ["111.c2", "114.c7"]
+    },
+    {
+      "fact": "Ned Donnelly had a constable attach Tom Allen's saloon outfit and trunks on April 11-12, 1876, over a $125 claim against Allen.",
+      "date": "1876-04-11",
+      "seed": "",
+      "conflict": "claim: $125 for five lessons (068.c2) vs $125 (069.c4); the amount is garbled in 067.c3",
+      "claims": ["067.c3", "067.c4", "068.c2", "069.c4"]
+    },
+    {
+      "fact": "Ned Donnelly sued Tom Allen before Justice Walther on May 1, 1876, for $125, and the hearing was postponed to the next afternoon.",
+      "date": "1876-05-01",
+      "seed": "",
+      "conflict": "what the $125 was for: sparring exhibitions at the Comique (075.c2) vs five lessons (068.c2, April 1876)",
+      "claims": ["075.c2", "075.c3"]
+    },
+    {
+      "fact": "Tom Allen and Joe Goss were bound over before Squire Anthony to keep the peace in Ohio for one year in May 1876.",
+      "date": "1876-05-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["557.c4", "562.c3"]
+    },
+    {
+      "fact": "Thomas Hackett of St. Louis garnished Tom Allen's stake money, held by A. F. Edwards, over a debt Allen had run up in St. Louis, in August 1876.",
+      "date": "1876-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["565.c3", "566.c3"]
+    },
+    {
+      "fact": "At the request of the Society for the Prevention of Cruelty to Animals, Prosecuting Attorney Baker made Joe Goss and Tom Allen give bonds to keep the peace in Ohio for one year in August 1876.",
+      "date": "1876-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["571.c1"]
+    },
+    {
+      "fact": "Tom Allen and Joe Goss were arrested after their September 7, 1876 fight in Kentucky, and Allen was held at Newport.",
+      "date": "1876-09-07",
+      "seed": "",
+      "conflict": "place of arrest: at the fight (110.c2, medium) vs at Newport, Kentucky, when the trains were stopped (084.c3, 086.c4, 573.c6); Goss was tried and fined $300 (704.c4)",
+      "claims": ["084.c3", "086.c4", "110.c2", "180.c25", "197.c10", "573.c6", "650.c6", "704.c4"]
+    },
+    {
+      "fact": "Tom Allen was released on bail of $3,000 in Covington, Kentucky, on September 11, 1876, after the Goss fight, with Farrell sureties.",
+      "date": "1876-09-11",
+      "seed": "",
+      "conflict": "sureties: D. D. and Wilson J. Farrell (085.c2) vs W. P. Farrell and P. C. Murphy (109.c4) vs Patrick Murphy and W. J. Farrell with a Farrell brother (704.c5); after bail, Allen fled to England (210.c4), while other claims put him in Canada",
+      "claims": ["085.c1", "085.c2", "109.c4", "210.c4", "213.c4", "266.c21", "650.c7", "704.c5"]
+    },
+    {
+      "fact": "In September 1876 Tom Allen said he had attached the stakes from the Goss fight the night of the fight, and he planned to sue in Ohio rather than Kentucky.",
+      "date": "1876-09-20",
+      "seed": "",
+      "conflict": "581.c7 is dated 1876-09-25 but was published 1876-09-20",
+      "claims": ["581.c6", "581.c7", "581.c8"]
+    },
+    {
+      "fact": "Tom Allen fled to Windsor, Ontario, in November 1876 to avoid prosecution, was arrested in Chicago on Kentucky officers' request, and failed to appear for trial on November 20, 1876.",
+      "date": "1876-11",
+      "seed": "",
+      "conflict": "destination after the bail: Windsor, Ontario (587.c1) vs England (180.c26)",
+      "claims": ["180.c26", "587.c1", "587.c3", "587.c4", "587.c5", "587.c6", "590.c1"]
+    },
+    {
+      "fact": "Tom Allen stayed in Canada to avoid the Kentucky warrants, and City Marshal Boland of Covington met him in Toronto on February 20, 1877.",
+      "date": "1877-02-20",
+      "seed": "",
+      "conflict": "",
+      "claims": ["089.c2", "089.c3", "596.c2", "599.c8"]
+    },
+    {
+      "fact": "The Farrell brothers, sureties on Tom Allen's $3,000 bail bond, had their property near Covington, Kentucky, levied on in March 1877.",
+      "date": "1877-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["594.c1"]
+    },
+    {
+      "fact": "Mayor McLean of East St. Louis revived an old indictment against Tom Allen for inducing a ring encounter in East St. Louis in March 1883.",
+      "date": "1883-03-30",
+      "seed": "",
+      "conflict": "",
+      "claims": ["692.c2"]
+    },
+    {
+      "fact": "Tom Allen was tried in the St. Louis Police Court on October 30, 1883, for keeping a disorderly house at his saloon, and was discharged.",
+      "date": "1883-10-30",
+      "seed": "032",
+      "conflict": "",
+      "claims": ["107.c2", "107.c3"]
+    }
+  ]
+}

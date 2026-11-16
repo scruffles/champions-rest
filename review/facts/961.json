@@ -1,0 +1,59 @@
+{
+  "id": "961",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost his first fight with Charley Gallagher, being easily defeated.",
+      "excerpt": "Tom Allen was easily defeated in his first fight with Charley Gallagher, whom he, in turn, conquered in their second",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Charley Gallagher in their second fight.",
+      "excerpt": "Tom Allen was easily defeated in his first fight with Charley Gallagher, whom he, in turn, conquered in their second",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Tom Allen was easily defeated in his first fight with Charley Gallagher, whom he, in turn, conquered in their second",
+      "reported_as": "recollection",
+      "notes": "Stated from memory by the columnist; no date, place or details."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Tom Allen was easily defeated in his first fight with Charley Gallagher, whom he, in turn, conquered in their second",
+      "reported_as": "recollection",
+      "notes": "Stated from memory by the columnist; no date, place or details."
+    }
+  ],
+  "notes": "Hint checked and expanded into both bouts, which are the two fights of the pair. Fight claims for the two bouts share one excerpt."
+}

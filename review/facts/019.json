@@ -1,0 +1,56 @@
+{
+  "id": "019",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Charley Gallagher had their fight set for August 17, 1869, with the final stakes deposited the night before.",
+      "excerpt": "The last deposit of stakes between Tom Allen and\nCharley Gallagher was made at the saloon of the\nformer last night.",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The final stakes for the fight between Tom Allen and Charley Gallagher were deposited at Allen's saloon on the night of August 14, 1869.",
+      "excerpt": "The last deposit of stakes between Tom Allen and\nCharley Gallagher was made at the saloon of the\nformer last night.",
+      "date": "1869-08-14",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tickets for a steamboat excursion to the battleground were sold for the benefit of Tom Allen or Charley Gallagher, the steamer leaving the foot of Elm street on the morning of the fight, Tuesday, August 17, 1869.",
+      "excerpt": "for the benefit of Tom Allen or Charley Gallagher.",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": ["foot of Elm street"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The last deposit of stakes between Tom Allen and\nCharley Gallagher was made at the saloon of the\nformer last night.",
+      "reported_as": "report",
+      "notes": "Fight not yet held in this article. Excursion ticket printed as 'August 17, 1863'; 1869 is clear from the paper's date."
+    }
+  ],
+  "notes": "Hint dated the saloon deposit 1869-08-14, which matches 'last night' in a paper of August 15."
+}

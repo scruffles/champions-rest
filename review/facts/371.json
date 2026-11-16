@@ -1,0 +1,117 @@
+{
+  "id": "371",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen reached Cincinnati on 11 October 1869 and planned to stay there until after his fight with McCoole.",
+      "excerpt": "tertlay, to rawain bere unit! afler the tight.",
+      "date": "1869-10-11",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was to train at the Buckeye House in Cincinnati under Jim Coyne and Earl.",
+      "excerpt": "ship ot Coyne and Farl, dov a at the ald Buckeye",
+      "date": "1869-10",
+      "date_precision": "month",
+      "people": ["Jim Coyne", "Earl"],
+      "places": ["Buckeye House, Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was to give an exhibition in Cincinnati on Saturday 16 October 1869, probably at Mozart Hall.",
+      "excerpt": "exhibition next Saturda: evening, probably at",
+      "date": "1869-10-16",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Mozart Hall, Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen is to fight Mike McCoole again on 10 November 1869, within fifty miles of Cincinnati.",
+      "excerpt": "time, on the ioth November",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["within fifty miles of Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had recently beaten Mike McCoole (the text is garbled here).",
+      "excerpt": "the man who retenily ig se MeCoole and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had recently beaten Charley Gallagher (the text is garbled here).",
+      "excerpt": "Gallagher, and pe ors to whip the former a sscond",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "place": "within fifty miles of Cincinnati",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "time, on the ioth November",
+      "reported_as": "report",
+      "notes": "Scheduled rematch; not yet fought at this date."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the man who retenily ig se MeCoole and",
+      "reported_as": "report",
+      "notes": "Garbled text. The earlier win is implied by 'to whip the former a second time'. Date not given."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Gallagher, and pe ors to whip the former a sscond",
+      "reported_as": "report",
+      "notes": "Garbled text; the verb is unreadable. Date not given. Supported by article 372 ('fairly won the battles... with Mike and Gallagber')."
+    }
+  ],
+  "notes": "The Reardon match on 10 Nov is Jim Coyne's (see 372), not Allen's, so it is not listed. 'Both fights' refers to Allen v McCoole and Coyne v Reardon."
+}

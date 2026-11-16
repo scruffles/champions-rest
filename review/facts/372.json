@@ -1,0 +1,73 @@
+{
+  "id": "372",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Jim Coyne held a levee at Tom Allen's saloon in St. Louis on 1 November 1869 and was welcomed by many friends.",
+      "excerpt": "levee at Tom Allen’s saloon, and was welcomed",
+      "date": "1869-11-01",
+      "date_precision": "day",
+      "people": ["Jim Coyne"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen is to fight Mike McCoole on 10 November 1869, within fifty miles of Cincinnati.",
+      "excerpt": "fake place on the 10th between McCoole and Allen",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["within fifty miles of Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was to have had a benefit at Mozart Hall, Cincinnati, on 30 October 1869.",
+      "excerpt": "was to have hada bencfit at Mozart Hall",
+      "date": "1869-10-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Mozart Hall, Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "birth",
+      "statement": "The Cincinnati Commercial calls Tom Allen a 'plucky little Englishman'.",
+      "excerpt": "plucky little Englishman, Tom Alien",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Cincinnati Commercial",
+      "text": "They also eve that Allen fairly won the battles be had with Mike and Gallagber.",
+      "topic": "Allen's past wins over McCoole and Gallagher"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-11-10",
+      "date_precision": "day",
+      "place": "within fifty miles of Cincinnati",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "fake place on the 10th between McCoole and Allen",
+      "reported_as": "report",
+      "notes": "Scheduled; not yet fought at this date."
+    }
+  ],
+  "notes": "The Reardon forfeit dispute concerns Jim Coyne, not Allen, so it is left out."
+}

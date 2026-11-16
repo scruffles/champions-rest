@@ -1,0 +1,243 @@
+{
+  "bucket": "other-1882-1887",
+  "facts": [
+    {
+      "fact": "It was alleged that Tom Allen's welching was the direct cause of an assault on him in Cork in January 1882.",
+      "date": "1882-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["645.c3"]
+    },
+    {
+      "fact": "In January 1882 private advices said Tom Allen's American property had vanished and that he had gone to the dogs through dissipation.",
+      "date": "1882-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["645.c6", "645.c7"]
+    },
+    {
+      "fact": "Billy Madden said Tom Allen was a first-class man and hard hitter, but that John L. Sullivan could have beaten him in his prime.",
+      "date": "1882-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["652.c1"]
+    },
+    {
+      "fact": "Tom Allen called Tug Wilson a faker for skipping out on his backer, Richard K. Fox.",
+      "date": "1882-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["269.c3"]
+    },
+    {
+      "fact": "Tom Allen said he had never met John L. Sullivan but judged him, from his record, the best man in the world.",
+      "date": "1882-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["269.c4"]
+    },
+    {
+      "fact": "The Boston Star described Tom Allen as a perfect gentleman and a credit to his profession.",
+      "date": "1882-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["269.c6"]
+    },
+    {
+      "fact": "Tom Allen said he had not come to America to fight anyone.",
+      "date": "1882-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["269.c7"]
+    },
+    {
+      "fact": "Tom Allen's silver cup was displayed on Mr. Shepherd's sideboard at the Abbey in Boston in November 1882.",
+      "date": "1882-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["272.c2"]
+    },
+    {
+      "fact": "At an exhibition on November 27, 1882, John L. Sullivan came onto the stage to deny he was afraid of Tom Allen, and the two shook hands.",
+      "date": "1882-11-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["665.c4"]
+    },
+    {
+      "fact": "After Tom Allen's November 1882 exhibition, R. K. Fox decided not to back him any further, and the $1,000 posted on Allen's behalf was recovered from Harry Hill's.",
+      "date": "1882-11-27",
+      "seed": "",
+      "conflict": "date of recovery: 27 November (666.c3, 666.c5) vs Tuesday 28 November (666.c4); Fox's friends advised him to turn Allen adrift (268.c2, low, 1 December)",
+      "claims": ["666.c3", "666.c4", "666.c5", "268.c2"]
+    },
+    {
+      "fact": "In December 1882 the Parson and others spread the report that Tom Allen was on a big spree and had become a total wreck, and Allen said Joe Elliott of the New York Herald had started the story that he was played out.",
+      "date": "1882-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["102.c11", "102.c12"]
+    },
+    {
+      "fact": "Tom Allen acted as umpire for Theobald Bauer in his Greco-Roman wrestling match with Muldoon at Masonic Hall, St. Louis, on January 27, 1883.",
+      "date": "1883-01-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["684.c1"]
+    },
+    {
+      "fact": "Tom Allen was to referee a 135-yard handicap sprint at Sportsman's Park on Sunday, January 28, 1883.",
+      "date": "1883-01-28",
+      "seed": "",
+      "conflict": "",
+      "claims": ["681.c1"]
+    },
+    {
+      "fact": "It was rumored that Tom Allen had received a dispatch from Billy Madden asking him to select training quarters for Charley Mitchell, who was matched to fight Slade.",
+      "date": "1883-04-17",
+      "seed": "",
+      "conflict": "",
+      "claims": ["695.c1"]
+    },
+    {
+      "fact": "Tom Allen said he had never heard of Booth in connection with racing, but believed he was a fancy rider.",
+      "date": "1883-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["696.c2"]
+    },
+    {
+      "fact": "Tom Allen judged Charley Mitchell the coming man after Mitchell's sparring exhibition with Billy Madden at the People's Theatre, St. Louis.",
+      "date": "1883-06-24",
+      "seed": "",
+      "conflict": "",
+      "claims": ["698.c1"]
+    },
+    {
+      "fact": "A couple of thugs jumped Tom Allen and tried to rob him because they thought he was no good.",
+      "date": "1883-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["106.c1"]
+    },
+    {
+      "fact": "A rumor that Tom Allen had become stiff and short of wind was bringing him more business.",
+      "date": "1883-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["106.c2"]
+    },
+    {
+      "fact": "Tom Allen, shown a report of a fight at Caldwell, Idaho, said he knew neither pugilist and discredited the account of Martland being badly beaten.",
+      "date": "1883-10-31",
+      "seed": "",
+      "conflict": "",
+      "claims": ["700.c1"]
+    },
+    {
+      "fact": "Tom Allen confronted John L. Sullivan behind the footlights of the People's Theatre in St. Louis on May 8, 1884 over Sullivan's remarks about Zachritz, and a row seemed imminent until friends hustled them apart.",
+      "date": "1884-05-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["112.c1", "112.c2"]
+    },
+    {
+      "fact": "Tom Allen and Tom Kelly handled the Union Club tournament in St. Louis in June and July 1884: entries could be made at Allen's after noon on June 25, and the two umpired the boxing at the Union Club athletic sports on July 4.",
+      "date": "1884-06-25",
+      "seed": "",
+      "conflict": "",
+      "claims": ["712.c2", "708.c3", "709.c2", "710.c2", "723.c1"]
+    },
+    {
+      "fact": "Tom Allen predicted that John L. Sullivan would knock out Dominick McCaffery in one round if the police let the fight go on.",
+      "date": "1885-04-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["115.c1"]
+    },
+    {
+      "fact": "In a race-track gag, Tom Allen, the ex-champion pugilist, was 'knocked out in the first round' at the Fair Grounds track, meaning he had lost his bets.",
+      "date": "1885-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["728.c1"]
+    },
+    {
+      "fact": "Tom Allen acted as second for Ed Kelly in the four-round contest against Jack Burke at the Casino Theater, St. Louis, on January 8, 1886.",
+      "date": "1886-01-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["118.c1"]
+    },
+    {
+      "fact": "Tom Allen bet on the horse Cuban Queen at the St. Louis races on June 15, 1886, because her father was named Strathmore.",
+      "date": "1886-06-15",
+      "seed": "",
+      "conflict": "",
+      "claims": ["734.c2"]
+    },
+    {
+      "fact": "Tom Allen backed Antonio Pierre in a private catch-as-catch-can wrestling match against Greek George on August 2, 1886, and Greek George beat Pierre in two falls.",
+      "date": "1886-08-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["120.c1", "120.c2"]
+    },
+    {
+      "fact": "George LaBlanche arrived in St. Louis in October 1886 and visited Tom Allen and Tom Kelly.",
+      "date": "1886-10-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["123.c1"]
+    },
+    {
+      "fact": "In January 1887 Tom Allen said he was in correspondence with Jem Smith, who had told him he would not fight Sullivan east of Omaha, and Allen said a Smith-Sullivan fight could only be for the championship under London prize-ring rules.",
+      "date": "1887-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["737.c1", "737.c2"]
+    },
+    {
+      "fact": "Tom Allen was named with Tom Kelly as a teacher who could teach St. Louis youngsters boxing.",
+      "date": "1887-02-28",
+      "seed": "",
+      "conflict": "",
+      "claims": ["739.c2"]
+    },
+    {
+      "fact": "Tom Allen was one of Ed Kelly's seconds when Kelly fought Dan Daly at Hurricane, Missouri, on April 26, 1887, and Daly defeated Kelly.",
+      "date": "1887-04-26",
+      "seed": "",
+      "conflict": "role: one of Kelly's seconds (740.c1) vs second or trainer (775.c2) vs went to Lincoln County with Daly and Kelly (776.c4); Lincoln County (775.c2, 776.c4) vs Hurricane, Missouri (740.c1)",
+      "claims": ["740.c1", "775.c2", "776.c4"]
+    },
+    {
+      "fact": "Tom Allen said that Smith would beat Kilrain and would whip Sullivan if they ever met.",
+      "date": "1887-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["741.c2"]
+    },
+    {
+      "fact": "Newspapers had written that Sherman Thurston was Tom Allen's trainer, but the Globe-Democrat said Thurston never was and that Allen was afraid of him.",
+      "date": "1887-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["742.c1"]
+    },
+    {
+      "fact": "Tom Allen declared that Mace's success was chiefly due to his left hand, which never failed to land where he wanted it to do execution.",
+      "date": "1887-11-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["743.c1"]
+    },
+    {
+      "fact": "Tom Allen, among other local authorities, was of the opinion that Kilrain could whip Sullivan under prize-ring rules.",
+      "date": "1887-12-22",
+      "seed": "",
+      "conflict": "",
+      "claims": ["746.c1"]
+    }
+  ]
+}

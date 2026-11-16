@@ -1,0 +1,19 @@
+{
+  "id": "936",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "An advertisement for a saloon on Market Street describes its owner as the 'champion pugilist' of the world and offers a free concert every evening with the best singers only.",
+      "excerpt": "champion pugilist\nworld street. Free concert every\nevening, Best of singers only engaged here,",
+      "date": "1896-06-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Tom Allen is not named in the OCR; the name and address are garbled. Attribution to Allen rests on the ad wording and the article title. The hint's street number 619 is not legible in this text."
+}

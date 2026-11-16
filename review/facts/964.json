@@ -1,0 +1,56 @@
+{
+  "id": "964",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen began going to the races at the Fair Grounds in St. Louis after seeing the Derby run there on Saturday, June 26, 1897.",
+      "excerpt": "For the first time this season he went to the track last Saturday to see the Derby run, and he fell in love with the game.",
+      "date": "1897-06-26",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Fair Grounds, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in a fight (date and place not given).",
+      "excerpt": "the conqueror of Mike McCool has confined his operations to things that can talk.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The paper describes Tom Allen as a retired champion.",
+      "excerpt": "The retired champion believes in being conspicuous and he dresses flashier than",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the conqueror of Mike McCool has confined his operations to things that can talk.",
+      "reported_as": "recollection",
+      "notes": "Mentioned only in passing; no date, place or details. Printed as 'McCool'."
+    }
+  ],
+  "notes": "Hint covers the racing claim. Allen's Derby day is the Saturday before 1897-07-02. The 'Derby' is as printed."
+}

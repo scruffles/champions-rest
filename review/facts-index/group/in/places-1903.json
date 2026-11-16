@@ -1,0 +1,31 @@
+{
+ "bucket": "places-1903",
+ "kind": "places",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "194.c2",
+   "date": "1903-01",
+   "published": "1903-01-31",
+   "statement": "Tom Allen lives at his home on Market street between Sixth and Seventh."
+  },
+  {
+   "cid": "195.c2",
+   "date": "1903-01",
+   "published": "1903-01-31",
+   "statement": "Tom Allen is lying sick at his home on Market street between Sixth and Seventh."
+  },
+  {
+   "cid": "196.c11",
+   "date": "1903-01",
+   "published": "1903-02-01",
+   "statement": "Tom Allen's home, where he is ill, is on Market street."
+  },
+  {
+   "cid": "198.c2",
+   "date": "1903-03",
+   "published": "1903-03-30",
+   "statement": "Allen lived over his saloon at 619 Market Street."
+  }
+ ]
+}

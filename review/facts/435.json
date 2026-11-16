@@ -1,0 +1,19 @@
+{
+  "id": "435",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Jem Mace made Tom Allen's saloon in St. Louis his favorite resort while training for the Coburn match.",
+      "excerpt": "Tom Allen’s saloon being 18 favorite resort.",
+      "date": "1871-05",
+      "date_precision": "month",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "'18' in the excerpt is OCR for 'is'. Mace arrived in St. Louis on May 26, 1871, the day before the paper's date."
+}

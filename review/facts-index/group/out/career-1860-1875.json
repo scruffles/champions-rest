@@ -1,0 +1,201 @@
+{
+  "bucket": "career-1860-1875",
+  "facts": [
+    {
+      "fact": "Tom Allen began fighting at about twenty years old, around 1860 to 1861.",
+      "date": "1860",
+      "seed": "005",
+      "conflict": "start year: 1861 (180.c12) vs 1868 (194.c6, low confidence, age garbled)",
+      "claims": ["148.c2", "180.c12", "194.c6"]
+    },
+    {
+      "fact": "Tom Allen fought 23 battles between 1860 and 1879.",
+      "date": "1860",
+      "seed": "",
+      "conflict": "",
+      "claims": ["909.c3"]
+    },
+    {
+      "fact": "Tom Allen had fought thirteen hard battles in England, beginning in 1861.",
+      "date": "1861",
+      "seed": "",
+      "conflict": "",
+      "claims": ["352.c4"]
+    },
+    {
+      "fact": "Tom Allen and Mike McCoole made pugilistic affairs very lively in the West after the Civil War.",
+      "date": "1865",
+      "seed": "",
+      "conflict": "",
+      "claims": ["904.c1"]
+    },
+    {
+      "fact": "After vainly challenging Mace, Tom Allen claimed the British heavyweight title, but Mace kept the belt.",
+      "date": "1867",
+      "seed": "",
+      "conflict": "",
+      "claims": ["230.c1"]
+    },
+    {
+      "fact": "After beating Davis in January 1869, Tom Allen claimed the championship of America.",
+      "date": "1869-01-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["235.c2"]
+    },
+    {
+      "fact": "Tom Allen claimed to be the English champion of the prize ring in early 1869.",
+      "date": "1869-02",
+      "seed": "",
+      "conflict": "date: 1869-02-23 (009.c6) vs 1869-03 (311.c5, medium)",
+      "claims": ["009.c6", "311.c5"]
+    },
+    {
+      "fact": "The Republic gave Tom Allen's fighting weight as 164 pounds in June 1869.",
+      "date": "1869-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["324.c2"]
+    },
+    {
+      "fact": "Tom Allen was called champion of America, of the United States or of the prize ring through 1869 and early 1870.",
+      "date": "1869-07",
+      "seed": "",
+      "conflict": "020.c2 (Aug 1869, medium) says Allen was one of three champions in St. Louis, along with Charley Gallagher and Mike McCoole",
+      "claims": ["331.c7", "336.c1", "773.c1", "368.c2", "375.c1", "020.c2", "241.c1", "287.c3", "389.c3", "032.c2"]
+    },
+    {
+      "fact": "Tom Allen trained in Cincinnati in autumn 1869, at the Buckeye House under Jim Coyne and Earl.",
+      "date": "1869-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["371.c2", "374.c5"]
+    },
+    {
+      "fact": "By about 1870 Tom Allen was at the front of pugilists in America.",
+      "date": "1870",
+      "seed": "",
+      "conflict": "",
+      "claims": ["096.c6"]
+    },
+    {
+      "fact": "Tom Allen held the championship from 1870 until 1876 and was eager to regain it.",
+      "date": "1870",
+      "seed": "",
+      "conflict": "",
+      "claims": ["662.c4"]
+    },
+    {
+      "fact": "St. Louis friends presented Tom Allen with a championship belt at the Theater Comique on 30 April 1870.",
+      "date": "1870-04-30",
+      "seed": "021",
+      "conflict": "date: 30 April 1870 (397.c1, 397.c2) vs 4 May 1870 (291.c6); seed 021 says 29 April; 377.c5 (Dec 1869, medium) says the belt was being got up then",
+      "claims": ["397.c1", "397.c2", "291.c6", "377.c5"]
+    },
+    {
+      "fact": "Tom Allen fought Jem Mace in May 1870.",
+      "date": "1870-05-10",
+      "seed": "",
+      "conflict": "outcome: defeat (399.c2) vs Mace giving Allen the title after the fight (405.c3, medium)",
+      "claims": ["399.c2", "405.c3"]
+    },
+    {
+      "fact": "Tom Allen issued a challenge in May 1870 signed 'Champion of America, by permission of James Mace, champion of the world'.",
+      "date": "1870-05-17",
+      "seed": "",
+      "conflict": "date: 17 May 1870 (035.c2) vs 18 May 1870 (404.c3)",
+      "claims": ["035.c2", "404.c3"]
+    },
+    {
+      "fact": "Tom Allen was introduced as champion of America at Tammany in June 1870.",
+      "date": "1870-06-17",
+      "seed": "",
+      "conflict": "",
+      "claims": ["410.c3"]
+    },
+    {
+      "fact": "Tom Allen announced his retirement from the prize ring in November 1870.",
+      "date": "1870-11",
+      "seed": "",
+      "conflict": "date: Nov 1870 (427.c2) vs about Jan 1871 (445.c5, retired 'twelve months earlier' as of Jan 1872)",
+      "claims": ["427.c2", "445.c5"]
+    },
+    {
+      "fact": "Tom Allen had appeared before the public seventeen times as a prize fighter.",
+      "date": "1870-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["427.c3"]
+    },
+    {
+      "fact": "Tom Allen's card read 'Tom Allen, Champion, St. Louis'.",
+      "date": "1871-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["043.c2"]
+    },
+    {
+      "fact": "Tom Allen was described as an Englishman of about 170 pounds, lately champion around 1873.",
+      "date": "1873",
+      "seed": "",
+      "conflict": "",
+      "claims": ["242.c2"]
+    },
+    {
+      "fact": "Tom Allen beat Mike McCoole on 23 September 1873, regaining the heavyweight title.",
+      "date": "1873-09-23",
+      "seed": "",
+      "conflict": "",
+      "claims": ["231.c3", "242.c5", "255.c9"]
+    },
+    {
+      "fact": "At a benefit on 25 September 1873, manager Fred Wilson introduced Tom Allen as the champion of the world.",
+      "date": "1873-09-25",
+      "seed": "",
+      "conflict": "",
+      "claims": ["476.c2"]
+    },
+    {
+      "fact": "Tom Allen was described as the celebrated young champion in November 1873.",
+      "date": "1873-11-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["276.c2"]
+    },
+    {
+      "fact": "In early 1874 Tom Allen claimed to be champion of America.",
+      "date": "1874-02",
+      "seed": "",
+      "conflict": "date: 1874-02-19 (047.c2) vs 1874-03-11 (050.c12); title wording: champion of the 24-foot roped prize ring of the United States (047.c2) vs champion of America (050.c12)",
+      "claims": ["047.c2", "050.c12"]
+    },
+    {
+      "fact": "Tom Allen announced his retirement from the ring in November 1874 and did not intend to enter it that year.",
+      "date": "1874-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["511.c2", "511.c3"]
+    },
+    {
+      "fact": "Tom Allen said in February 1875 that he would no longer fight in the roped arena.",
+      "date": "1875-02-20",
+      "seed": "",
+      "conflict": "",
+      "claims": ["289.c3"]
+    },
+    {
+      "fact": "In March 1875 Tom Allen was called champion of America, by the New York Sun and in an inscription on a goblet presented to him.",
+      "date": "1875-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["291.c7", "516.c5"]
+    },
+    {
+      "fact": "Tom Allen announced in June 1875 that he was withdrawing from the ring for good and would make no more matches.",
+      "date": "1875-06",
+      "seed": "",
+      "conflict": "date: 1875-06-19 (521.c13) vs 1875-06-22 (058.c1); 523.c3 and 523.c7 (July 1875, medium) report the same stance",
+      "claims": ["058.c1", "521.c13", "523.c3", "523.c7"]
+    }
+  ]
+}

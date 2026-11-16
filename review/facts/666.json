@@ -1,0 +1,63 @@
+{
+  "id": "666",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "After Allen's exhibition, the chance of a fight between Tom Allen and John L. Sullivan was considered scarcely probable.",
+      "excerpt": "fight between Tom Allen and John Sullivas",
+      "date": "1882-11-27",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "R. K. Fox"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen gave an exhibition on Monday, 1882-11-27, which satisfied his backer R. K. Fox that the veteran had seen his best days.",
+      "excerpt": "Ailen’s exhibition Monday = satisfyir",
+      "date": "1882-11-27",
+      "date_precision": "day",
+      "people": ["R. K. Fox"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "R. K. Fox decided not to back Tom Allen any further after witnessing his exhibition.",
+      "excerpt": "that Mr. Fox did not intend to back Alle",
+      "date": "1882-11-27",
+      "date_precision": "day",
+      "people": ["R. K. Fox"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Fox sent Mr. Harding to Harry Hill's on Tuesday afternoon to recover the $1,000 posted on Tom Allen's behalf.",
+      "excerpt": "to recover the $1,000 posted in beha",
+      "date": "1882-11-28",
+      "date_precision": "day",
+      "people": ["R. K. Fox", "W. E. Harding", "Harry Hill"],
+      "places": ["Harry Hill's, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Harry Hill refused to let Bob Farrell, Sullivan's man, cover the $1,000 posted for Tom Allen.",
+      "excerpt": "cover Allen’s $1,000, but this Mr, Hill wou!",
+      "date": "1882-11-27",
+      "date_precision": "day",
+      "people": ["Bob Farrell", "Harry Hill", "John L. Sullivan"],
+      "places": ["Harry Hill's, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Claims 1-2 are from the same paragraph; dates of the exhibition and Fox's visit are worked from 'Monday' and 'Tuesday afternoon'."
+}

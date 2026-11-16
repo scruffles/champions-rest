@@ -1,0 +1,63 @@
+{
+  "id": "508",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to St. Louis on 15 August 1874 from the Edwards-Collyer fight near Pittsburg, Pennsylvania.",
+      "excerpt": "he was to arrive in town yesterday morning",
+      "date": "1874-08-15",
+      "date_precision": "day",
+      "people": ["Edwards", "Collyer"],
+      "places": ["St. Louis", "Pittsburg, Pennsylvania"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was one of Edwards' seconds in Edwards' fight with Collyer near Pittsburg in August 1874.",
+      "excerpt": "as he was one of Edwards' seconds, and on the ground",
+      "date": "1874-08",
+      "date_precision": "month",
+      "people": ["Edwards", "Collyer"],
+      "places": ["Pittsburg, Pennsylvania"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was struck with a rock before the Edwards-Collyer fight but received no damage from it.",
+      "excerpt": "The champion himself was struck with a rock before the fight, but received no damage from it.",
+      "date": "1874-08",
+      "date_precision": "month",
+      "people": ["Edwards", "Collyer"],
+      "places": ["Pittsburg, Pennsylvania"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "On 15 August 1874 a large crowd gathered all day at Tom Allen's saloon, the Champion's Rest, in St. Louis.",
+      "excerpt": "the \"Champion's Rest\" was the scene of an eager multitude all day",
+      "date": "1874-08-15",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "On the night of 15 August 1874 Tom Allen kept order among a large crowd at his Free-and-Easy, as was his usual custom when at home.",
+      "excerpt": "found him seated in the midst of a large crowd, keeping order, as is his usual custom when at home",
+      "date": "1874-08-15",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen's own account of the fight is paraphrased by the paper, not quoted. Only Allen's own role and condition are recorded; the fight itself is not his."
+}

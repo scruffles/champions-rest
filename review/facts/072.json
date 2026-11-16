@@ -1,0 +1,19 @@
+{
+  "id": "072",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Coburn left for New York promising to return with Jem Mace and Joe Goss to make Tom Allen fight or blow.",
+      "excerpt": "Mece and Joe Goss,to make Tom Allen",
+      "date": "1876-04-24",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Jem Mace", "Joe Goss"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The paper's view that Coburn was afraid of Allen is an opinion, not a fact about Allen, so it is left out. The article is short and OCR is poor."
+}

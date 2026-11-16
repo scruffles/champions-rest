@@ -1,0 +1,52 @@
+{
+  "id": "140",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was for several years champion heavyweight of America.",
+      "excerpt": "Tom Allen, for several years champion heavyweight of America, new runs a saloon here on Market",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "In December 1891 Tom Allen ran a saloon on Market Street in St. Louis.",
+      "excerpt": "Tom Allen, for several years champion heavyweight of America, new runs a saloon here on Market",
+      "date": "1891-12-08",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon on Market Street is in the same block as a saloon owned by Tom Kelly, a former middleweight champion.",
+      "excerpt": "In the same biock with him is another",
+      "date": "1891-12-08",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan (printed as 'tien Hogan') was matched against Tom Allen in a scheme arranged to rob Allen and his backers, carried out by a crowd of toughs.",
+      "excerpt": "being matched against Tom Allen ina scheme arranged to robthelatter and his backers",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The Hogan name is printed as 'tien Hogan' in the OCR and read as Ben Hogan. The Hogan match is a challenge, not a fight: no bout is described. The article's section on other boxers is not about Allen."
+}

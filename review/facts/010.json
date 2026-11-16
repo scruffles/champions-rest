@@ -1,0 +1,67 @@
+{
+  "id": "010",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Charley Gallagher in a brief contest on Tuesday, 23 February 1869, being knocked out of time by a blow.",
+      "excerpt": "Tom Allen, recovered from the prostrating blow that knocked him out of time, was there.",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he would re-meet Charley Gallagher in the ring within a week to a month for $1,000 to $5,000, but was no bar-room fighter.",
+      "excerpt": "but he wouXd re-meet him in the ring ina week to a month, for » $1,000 to $5,000",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": ["McCoole's saloon, opposite the Court-House"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Jack Looney offered $1,500 to $1,200 that Tom Allen could whip Charley Gallagher in another tussle.",
+      "excerpt": "could be heard to offer $1,500 to $1,200 that Allen re can whip Gallagher in another tussle.",
+      "date": "1869-02-24",
+      "date_precision": "day",
+      "people": ["Jack Looney", "Charley Gallagher"],
+      "places": ["Hennessy's, Fourth street, near Morgan"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A rematch between Tom Allen and Charley Gallagher was expected once calm was restored.",
+      "excerpt": "after calmness is restored, we shall have another mill between Ailen and Gal-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-02-23",
+      "date_precision": "day",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Tom Allen, recovered from the prostrating blow that knocked him out of time, was there.",
+      "reported_as": "report",
+      "notes": "Venue and length not given. Date worked out from 'Tuesday night' in a paper dated 25 Feb 1869."
+    }
+  ],
+  "notes": "Looney's offer dated from 'last night' in a paper dated 25 Feb 1869."
+}

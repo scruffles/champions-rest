@@ -1,0 +1,41 @@
+{
+  "id": "454",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A third deposit of $500 a side was made for the Allen-McCoole fight.",
+      "excerpt": "The third deposit ef $500 aside in the McCosole-",
+      "date": "1873-07-08",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The Allen-McCoole fight was set for September 23, 1873, with two more deposits to come.",
+      "excerpt": "which takes place on Sep-\ntember 23d.",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was on Washington avenue, between Fourth and Fifth streets, and the third deposit was made there.",
+      "excerpt": "at Tom Allen’s salcon, on’ Washington avenne, between ¥Fourth and Fifth.",
+      "date": "1873-07-08",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "'Last evening' in a paper dated 1873-07-09 is 1873-07-08. The fight had not yet taken place."
+}

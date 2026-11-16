@@ -1,0 +1,56 @@
+{
+  "id": "146",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen left St. Louis for New Orleans on Saturday night, 3 September 1892, and arrived there on Sunday evening.",
+      "excerpt": "Tom Allen, America's ex-heavyweight champion, and Charlie Daly's party got off Saturday night and arrived last evening",
+      "date": "1892-09-03",
+      "date_precision": "day",
+      "people": ["Charlie Daly"],
+      "places": ["St. Louis", "New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was at ringside in New Orleans for the McAuliffe-Myer fight at the Olympic Athletic Club, as one of the two most noted St. Louisans present.",
+      "excerpt": "Tom Allen, who defeated Mike McCool for the American heavyweight championship, and Tom Kelly, Jack Dempsey's predecessor as the middleweight champion, are the two most noted St. Louisans, who were present at to-night's encounter.",
+      "date": "1892-09-05",
+      "date_precision": "day",
+      "people": ["Tom Kelly", "Myer", "McAuliffe"],
+      "places": ["Olympic Athletic Club, New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen defeated Mike McCool for the American heavyweight championship.",
+      "excerpt": "Tom Allen, who defeated Mike McCool for the American heavyweight championship",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCool"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCool",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "American heavyweight championship",
+      "rules": "",
+      "excerpt": "Tom Allen, who defeated Mike McCool for the American heavyweight championship",
+      "reported_as": "recollection",
+      "notes": "Date and place not given in the article."
+    }
+  ],
+  "notes": "The 'ringside' date of 5 September is inferred from the paper's date and the article's 'to-night' wording. Myer and McAuliffe are named only by surname in this article."
+}

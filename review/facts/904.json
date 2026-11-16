@@ -1,0 +1,70 @@
+{
+  "id": "904",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen and Mike McCool made pugilistic affairs very lively in the West after the Civil War.",
+      "excerpt": "he and Ton? Allen made things pugilistic very lively in the West.",
+      "date": "1865",
+      "date_precision": "approx",
+      "people": ["Mike McCool"],
+      "places": ["the West"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Jem Mace in America; Mace left the country after his fights with Coburn and Allen.",
+      "excerpt": "and Mace, after fights with Coburn and Allen, left the land.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace", "Joe Coburn"],
+      "places": ["America"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Joe Goss fought for the championship of America.",
+      "excerpt": "two bald-headed old men, Joe Goss and Tom Allen, fought for the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "America",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "and Mace, after fights with Coburn and Allen, left the land.",
+      "reported_as": "recollection",
+      "notes": "No result or date is given; the text says only that Mace had fights with Coburn and Allen before he left."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "the championship of America",
+      "rules": "",
+      "excerpt": "two bald-headed old men, Joe Goss and Tom Allen, fought for the",
+      "reported_as": "recollection",
+      "notes": "Winner not named in this text."
+    }
+  ],
+  "notes": "A 1895 reminiscence of 1860s and 1870s fights; no dates are given. The hints' Mace and Goss entries are supported by the text."
+}

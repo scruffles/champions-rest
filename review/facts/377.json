@@ -1,0 +1,74 @@
+{
+  "id": "377",
+  "claims": [
+    {
+      "kind": "health",
+      "statement": "Tom Allen was very sick for about a week before 16 December 1869 and was confined to his house.",
+      "excerpt": "Tom Allen has been very sick for the",
+      "date": "1869-12",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Through Billy Carroll, Allen offered to fight Jem Mace for $2,500 a side, six months from signing articles.",
+      "excerpt": "Tom Alien will fight bim for $2,500 a sie, six",
+      "date": "1869-12-16",
+      "date_precision": "day",
+      "people": ["Billy Carroll", "Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen was ready to sign articles with Mace and put up a $500 forfeit (printed as $5€0), meeting between here and New York, about Pittsburgh.",
+      "excerpt": "of $5€0, ona meet him if way between here and",
+      "date": "1869-12-16",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["Pittsburgh"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The fight was to take place fifty miles from Cincinnati or fifty miles from Detroit, which would take it into Canada.",
+      "excerpt": "hHght to take wlace fifty miles from C: natt, or",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["Cincinnati", "Detroit", "Canada"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Citizens of St. Louis were getting up a champion belt to present to Allen, which he offered to stake against Jem Mace's champion belt of England.",
+      "excerpt": "citizens of St. Lovis are getting up a champion belt",
+      "date": "1869-12",
+      "date_precision": "month",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis", "England"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The Clipper had reported that Jem Mace accepted Allen's challenge.",
+      "excerpt": "isene that Jem Mace has accepret Tou Allen’s",
+      "date": "1869-12",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Letter from Billy Carroll on Allen's behalf, dated 16 Dec 1869 and reprinted from the New York Clipper. The signature line 'Champion of America' is too garbled to quote. Mace's forfeit and place are garbled and should be read with low confidence."
+}

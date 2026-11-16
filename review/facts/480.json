@@ -1,0 +1,136 @@
+{
+  "id": "480",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Ben Hogan have a prize fight approaching; no date is given.",
+      "excerpt": "The approaching prize-fight between Tom Allea 2nd Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat McCoole in an earlier fight.",
+      "excerpt": "his victory over McCoole, and wili not go",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen presided over his Saturday night 'free and racy' on 1873-10-04; the paper does not name the place.",
+      "excerpt": "while he latter presided at/his saturday night ‘‘free and racy.”",
+      "date": "1873-10-04",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen took up his quarters at the Mount Olive House while preparing for the McCoole fight.",
+      "excerpt": "he prepared quietly, for weeks before he took up his quarters at (he Mount Olive House",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["McCoole"],
+      "places": ["Mount Olive House"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen will not begin training for the Hogan fight until about two weeks before it.",
+      "excerpt": "and wili not go nto training until about two weeks before the night",
+      "date": "1873-10-06",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "The odds favored Tom Allen over Ben Hogan, in some cases two to one.",
+      "excerpt": "odds are greatly in favor of Alien, in some cases ashigh as two to one",
+      "date": "1873-10-06",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "A bet of two hundred against one was placed in the hands of Joel Herbert a few evenings before the article (the paper's figures are garbled).",
+      "excerpt": "in the hands of Jool Herbert a few evenings since",
+      "date": "1873-10",
+      "date_precision": "approx",
+      "people": ["Joel Herbert"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was to appear at a booth during St. Louis Fair week (the showman is printed as 'Jcbuny Farreil').",
+      "excerpt": "that Allen is going to be at the booth Bt Jcbuny Farreil bin Su 3 Fair week",
+      "date": "1873-10",
+      "date_precision": "approx",
+      "people": ["Johnny Farrell"],
+      "places": ["St. Louis Fair"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I wouldn’t tell youifI wos.",
+      "topic": "refuses to say whether he is training"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "Because it is my business.",
+      "topic": "why he will not discuss the fight"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The approaching prize-fight between Tom Allea 2nd Ben Hogan",
+      "reported_as": "report",
+      "notes": "Upcoming; no date given in this article."
+    },
+    {
+      "opponent": "McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "his victory over McCoole, and wili not go",
+      "reported_as": "report",
+      "notes": "Mention only."
+    }
+  ],
+  "notes": "Hogan's trainer and the Looney's saloon visit are not about Allen. The Johnny Farrell booth line is badly garbled (low confidence)."
+}

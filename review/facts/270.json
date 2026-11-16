@@ -1,0 +1,41 @@
+{
+  "id": "270",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "A silver cup inscribed to Tom Allen as champion boxer of England, dated May 1878 (printed as May 2% Isv8), was displayed at Patsy Sheppard's.",
+      "excerpt": "Presented 1oTom Alten, champion boxer of England. by his backers snd admirera, as a token of",
+      "date": "1878-05",
+      "date_precision": "month",
+      "people": ["Patsy Sheppard"],
+      "places": ["Cambridge Hall, Newman Street, London"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Richard K. Fox posted $1,000 with Harry Hill on 9 October 1882, offering to match Tom Allen against any man in America.",
+      "excerpt": "posted $1,000 with Harry Hill to-day, with an offer to match Tom Alien, the ex-champion",
+      "date": "1882-10-09",
+      "date_precision": "day",
+      "people": ["Richard K. Fox", "Harry Hill", "Tom Allen"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The proposed match was for $1,000 to $2,500 a side and the championship of the world, within 100 miles of New Orleans, to take place within three months of signing articles.",
+      "excerpt": "It is stipulated that the ight wm take place within 100 miles of New Ori",
+      "date": "1882-10-09",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["within 100 miles of New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint dated the Fox offer to 30 Oct 1882, but the dispatch is dated New York, October 9. Corrected to 9 Oct. The 'Sullivan' reference is garbled; the match terms are read from the printed figures. The cup inscription date is printed as May 2% Isv8 and only the month is taken from it."
+}

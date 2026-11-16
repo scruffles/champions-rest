@@ -1,0 +1,326 @@
+{
+ "bucket": "places-1870-1875",
+ "kind": "places",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "028.c4",
+   "date": "1870-01-25",
+   "published": "1870-01-26",
+   "statement": "Tom Allen was one of the party on the steamer Lady Pike for the excursion from St. Louis to Carroll Island, Illinois, on 25 January 1870."
+  },
+  {
+   "cid": "287.c2",
+   "date": "1870-03-23",
+   "published": "1870-03-23",
+   "statement": "Tom Allen was a resident of St. Louis in March 1870."
+  },
+  {
+   "cid": "288.c5",
+   "date": "1870-05",
+   "published": "1870-04-29",
+   "conf": "medium",
+   "statement": "Tom Allen was preparing to leave St. Louis for New Orleans to engage Jem Mace."
+  },
+  {
+   "cid": "391.c2",
+   "date": "1870-05",
+   "published": "1870-04-21",
+   "conf": "medium",
+   "statement": "Tom Allen was to travel to New Orleans in May 1870, with Joe Coburn accompanying him."
+  },
+  {
+   "cid": "402.c1",
+   "date": "1870-05-12",
+   "published": "1870-05-15",
+   "statement": "Mrs. Allen left St. Louis on Thursday to join her husband in New Orleans."
+  },
+  {
+   "cid": "402.c3",
+   "date": "1870-05-15",
+   "published": "1870-05-15",
+   "statement": "Tom Allen and Jem Mace were still at New Orleans."
+  },
+  {
+   "cid": "406.c1",
+   "date": "1870-05-23",
+   "published": "1870-05-24",
+   "statement": "Tom Allen arrived in St. Louis with Mace's agent Abrahams."
+  },
+  {
+   "cid": "411.c4",
+   "date": "1870-07-02",
+   "published": "1870-07-02",
+   "statement": "Tom Allen had completed an eastern tour and was expected back in St. Louis on the morning of July 2, 1870."
+  },
+  {
+   "cid": "042.c3",
+   "date": "1871-06",
+   "published": "1871-06-06",
+   "conf": "medium",
+   "statement": "Tom Allen (printed as 'Thomas Allens') followed Mace's party to Wyandotte with Billy Carroll, W. D. Lonergan, Charles Brownfield and Jack Goulding."
+  },
+  {
+   "cid": "043.c1",
+   "date": "1871-06",
+   "published": "1871-06-14",
+   "statement": "The correspondent met Tom Allen at Sedalia, Missouri, a few days before June 9, 1871, and Allen handed him one of his cards."
+  },
+  {
+   "cid": "042.c1",
+   "date": "1871-06-01",
+   "published": "1871-06-06",
+   "conf": "medium",
+   "statement": "Tom Allen of St. Louis arrived in Kansas City with Jem Mace and Jim Cusick for the Mace-Coburn fight."
+  },
+  {
+   "cid": "042.c2",
+   "date": "1871-06-01",
+   "published": "1871-06-06",
+   "conf": "medium",
+   "statement": "Allen and the party took rooms at the St. Nicholas Hotel in Kansas City."
+  },
+  {
+   "cid": "436.c1",
+   "date": "1871-06-01",
+   "published": "1871-06-03",
+   "statement": "Tom Allen arrived in Kansas City on June 1, 1871 with Jem Mace, Dick Hollywood and Jim Cusick for the Mace-Coburn fight."
+  },
+  {
+   "cid": "436.c2",
+   "date": "1871-06-02",
+   "published": "1871-06-03",
+   "conf": "medium",
+   "statement": "Tom Allen went with Jem Mace's party to Westford on June 2, 1871, where the ring was staked out on the Gillis farm and Joe Coburn did not appear."
+  },
+  {
+   "cid": "437.c1",
+   "date": "1871-06-03",
+   "published": "1871-06-03",
+   "conf": "medium",
+   "statement": "Tom Allen and Jem Mace were due to arrive from Kansas City that morning."
+  },
+  {
+   "cid": "443.c1",
+   "date": "1871-12-03",
+   "published": "1871-12-05",
+   "conf": "medium",
+   "statement": "Tom Allen said he had returned to St. Louis from the Mace-Coburn fight the day before."
+  },
+  {
+   "cid": "445.c4",
+   "date": "1872-01-07",
+   "published": "1872-01-08",
+   "statement": "Tom Allen gave his address as 417 Washington Avenue, St. Louis, in January 1872."
+  },
+  {
+   "cid": "448.c1",
+   "date": "1872-09-01",
+   "published": "1872-09-02",
+   "statement": "Tom Allen left St. Louis for Detroit with Jack Looney and two or three others to see the Mace and O'Baldwin fight."
+  },
+  {
+   "cid": "255.c3",
+   "date": "1873",
+   "published": "1941-03-30",
+   "retro": true,
+   "statement": "Tom Allen was a resident of St. Louis when he beat Mike McCoole in 1873."
+  },
+  {
+   "cid": "465.c33",
+   "date": "1873",
+   "published": "1873-09-23",
+   "conf": "medium",
+   "statement": "Tom Allen had a house at 417 Washington avenue, St. Louis, where a deposit was to be put up."
+  },
+  {
+   "cid": "290.c2",
+   "date": "1873-05-23",
+   "published": "1873-05-25",
+   "statement": "Tom Allen and Mike McCoole were both residents of St. Louis."
+  },
+  {
+   "cid": "290.c3",
+   "date": "1873-07-08",
+   "published": "1873-05-25",
+   "conf": "medium",
+   "statement": "A deposit for the match was to be put up at Tom Allen's house, 417 Washington Avenue, on July 8, 1873."
+  },
+  {
+   "cid": "487.c2",
+   "date": "1873-10-23",
+   "published": "1873-10-24",
+   "conf": "low",
+   "statement": "Tom Allen signed a letter dated October 23, 1873 from the Mount Olive House, St. Louis County (printed as 'Moun? OLIvE Howse')."
+  },
+  {
+   "cid": "487.c1",
+   "date": "1873-10-24",
+   "published": "1873-10-24",
+   "statement": "Tom Allen was staying and training at the Eight-Mile House, taking things easily before the Hogan fight."
+  },
+  {
+   "cid": "488.c1",
+   "date": "1873-10-24",
+   "published": "1873-10-25",
+   "statement": "Tom Allen was staying at the Eight-Mile House, where he trained with his trainer and Arthur Chambers."
+  },
+  {
+   "cid": "489.c1",
+   "date": "1873-10-26",
+   "published": "1873-10-27",
+   "statement": "Tom Allen left the Eight-Mile House for the fighting ground on October 26, 1873, with Arthur Chambers and Jack Madden."
+  },
+  {
+   "cid": "490.c1",
+   "date": "1873-10-26",
+   "published": "1873-10-28",
+   "statement": "Tom Allen was already in the vicinity of the fighting ground, having left on Sunday morning, October 26, 1873."
+  },
+  {
+   "cid": "493.c4",
+   "date": "1873-10-28",
+   "published": "1873-10-29",
+   "conf": "medium",
+   "statement": "Tom Allen came back to St. Louis the night of the failed Hogan fight and met a reporter in the direction of Looney's resort."
+  },
+  {
+   "cid": "503.c6",
+   "date": "1873-11",
+   "published": "1873-12-10",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Dr. C. E. Tennent came out to see Tom Allen while Allen was working near Omaha, before the Hogan fight."
+  },
+  {
+   "cid": "276.c1",
+   "date": "1873-11-03",
+   "published": "1873-11-04",
+   "statement": "Tom Allen arrived in Kansas City with Arthur Chambers, and his trainer Jack Madden joined them."
+  },
+  {
+   "cid": "498.c5",
+   "date": "1873-11-21",
+   "published": "1873-11-22",
+   "statement": "After Omaha men threatened to shoot them, Tom Allen and Jack Looney left Omaha for Kansas City, reaching it safely on Friday, November 21."
+  },
+  {
+   "cid": "654.c1",
+   "date": "1874",
+   "published": "1882-05-12",
+   "retro": true,
+   "statement": "Tom Allen went from St. Louis to Springfield, Illinois, in 1874 to attend the dedication of the National Lincoln Monument and the Army of the Tennessee reunion."
+  },
+  {
+   "cid": "506.c2",
+   "date": "1874-02",
+   "published": "1874-02-24",
+   "conf": "medium",
+   "statement": "Tom Allen was said to propose a speculating tour of his native country, which was the cause of the anticipated match with Mace."
+  },
+  {
+   "cid": "047.c3",
+   "date": "1874-02-19",
+   "published": "1874-02-20",
+   "statement": "Tom Allen said he came to St. Louis to live and means to stay there."
+  },
+  {
+   "cid": "508.c1",
+   "date": "1874-08-15",
+   "published": "1874-08-16",
+   "statement": "Tom Allen returned to St. Louis on 15 August 1874 from the Edwards-Collyer fight near Pittsburg, Pennsylvania."
+  },
+  {
+   "cid": "521.c14",
+   "date": "1875",
+   "published": "1875-06-20",
+   "conf": "medium",
+   "statement": "Tom Allen earlier travelled to New York hunting Ben Hogan, who had offered to fight him, and returned saying Hogan evaded the meeting."
+  },
+  {
+   "cid": "291.c2",
+   "date": "1875-03",
+   "published": "1875-03-16",
+   "statement": "Tom Allen arrived in Newark, met Jim Coyne there, and went on to New York."
+  },
+  {
+   "cid": "291.c3",
+   "date": "1875-03",
+   "published": "1875-03-16",
+   "statement": "In New York Tom Allen was to be the guest of Harry Hill."
+  },
+  {
+   "cid": "514.c2",
+   "date": "1875-03",
+   "published": "1875-03-17",
+   "conf": "medium",
+   "statement": "Tom Allen went East to arrange the preliminaries for a fight with George Rooke, despite his retirement and his recent denial of the match."
+  },
+  {
+   "cid": "516.c1",
+   "date": "1875-03-19",
+   "published": "1875-03-20",
+   "statement": "Tom Allen returned to St. Louis from a visit to the principal cities of the East."
+  },
+  {
+   "cid": "516.c9",
+   "date": "1875-04",
+   "published": "1875-03-20",
+   "conf": "medium",
+   "statement": "Tom Allen planned to leave St. Louis in two or three weeks and go into training."
+  },
+  {
+   "cid": "633.c2",
+   "date": "1875-05",
+   "published": "1879-12-18",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen was training at McKee's Rocks for the match with George Rooke in May 1875."
+  },
+  {
+   "cid": "264.c5",
+   "date": "1875-05-16",
+   "published": "1875-05-10",
+   "conf": "medium",
+   "statement": "Tom Allen planned to go to Pittsburg on Sunday night, training at McKee's Rocks and using French's, 54 Tenth Street, as headquarters."
+  },
+  {
+   "cid": "257.c5",
+   "date": "1875-06",
+   "published": "1875-06-29",
+   "statement": "Tom Allen was living in St. Louis in June 1875."
+  },
+  {
+   "cid": "521.c11",
+   "date": "1875-06",
+   "published": "1875-06-20",
+   "conf": "medium",
+   "statement": "Tom Allen trained for the Rooke fight at a farmhouse on the Ohio River near Pittsburg, with Arthur Chambers."
+  },
+  {
+   "cid": "521.c12",
+   "date": "1875-06-19",
+   "published": "1875-06-20",
+   "statement": "Tom Allen left Pittsburg on Friday, June 18, 1875, and arrived back in St. Louis the next morning."
+  },
+  {
+   "cid": "059.c7",
+   "date": "1875-11",
+   "published": "1875-11-20",
+   "conf": "medium",
+   "statement": "Tom Allen was living a quiet life on Washington avenue in the autumn of 1875."
+  },
+  {
+   "cid": "528.c1",
+   "date": "1875-11-17",
+   "published": "1875-11-20",
+   "statement": "Tom Allen arrived in Chicago from St. Louis on November 17, 1875."
+  },
+  {
+   "cid": "528.c2",
+   "date": "1875-11-17",
+   "published": "1875-11-20",
+   "statement": "Tom Allen planned to stay in Chicago for a couple of days after the match was made."
+  }
+ ]
+}

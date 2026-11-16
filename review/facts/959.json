@@ -1,0 +1,41 @@
+{
+  "id": "959",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested for discharging his revolver in front of his saloon at Seventh and Market streets, St. Louis.",
+      "excerpt": "Tom Allen, the veteran pugilist, was a rested yesterday morning for dischargir his revolver in front of his saloon nez",
+      "date": "1897-04-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "After drinking at a party, Tom Allen found his saloon deserted and fired his gun to attract a crowd.",
+      "excerpt": "On returning his saloon he found the place deserted an fired the gun to attract a crowd.",
+      "date": "1897-04-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was to be tried by Judge Peabody on the following Friday.",
+      "excerpt": "He will be tried by Judge Peabody ne: Friday.",
+      "date": "1897-04-30",
+      "date_precision": "day",
+      "people": ["Judge Peabody"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint split into three claims. 'ne:' read as 'next'; trial date is the Friday after 1897-04-28 (planned, so medium)."
+}

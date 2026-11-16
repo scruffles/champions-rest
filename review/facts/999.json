@@ -1,0 +1,19 @@
+{
+  "id": "999",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The paper says Tom Allen, with Dannie Daly and Tom Kelly, belonged to a past period of boxing and was not in the prize ring guide.",
+      "excerpt": "and weren’t in the prize ng guide .anyhow.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Dannie Daly", "Tom Kelly"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is named only in passing, as one of a past generation of St. Louis champions. The paper's view is opinion; the OCR is garbled around the name, and the excerpt is copied as printed."
+}

@@ -1,0 +1,252 @@
+{
+  "id": "245",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was an Englishman.",
+      "excerpt": "a gnarled old Englishman who operated a saloon about where the American Hotel now stands.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen operated a saloon about where the American Hotel now stands in St. Louis.",
+      "excerpt": "a gnarled old Englishman who operated a saloon about where the American Hotel now stands.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Where the American Hotel now stands, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen ran a saloon in St. Louis called the Champion's Rest.",
+      "excerpt": "he was next heard of in the “Champion's Rest.”",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen let homeless men sleep by the fire in his saloon on cold winter nights and gave them breakfast after they cleaned up.",
+      "excerpt": "Next mornin’ they clean up short just for me and I give ‘em breakfast.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen fled sheriffs and once left the country with John Law on his heels.",
+      "excerpt": "once left the country with John Law on his heels",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCool on Foster's Island in June 1869; the fight ended in a draw after McCool's gang broke into the ring.",
+      "excerpt": "there was a draw. . McCool’s gang came into the ring and messed things up and the fight was off.",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": ["McCool"],
+      "places": ["Foster's Island"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Charley Gallagher challenged the winner of the McCool fight; Allen said he would accept, and the match was set for Chouteau's Island two months later.",
+      "excerpt": "Charley Gallagher, who was a strong boy, lifted his voice and said that he had come to challenge the",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": ["Charley Gallagher", "McCool"],
+      "places": ["Foster's Island"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Charley Gallagher on Chouteau's Island about two months after the McCool fight.",
+      "excerpt": "I got that in my fight with Charley Gallagher,",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "people": ["Charley Gallagher"],
+      "places": ["Chouteau's Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "During the Gallagher fight, a shot struck the back of Tom Allen's right hand.",
+      "excerpt": "The fight had gone four or five rounds when someone fired a shot. The bullet struck the back of my",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "people": ["Charley Gallagher"],
+      "places": ["Chouteau's Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss for a $100 stake; the referee called it a draw after thirty-four rounds.",
+      "excerpt": "Joe Goss be-\njing his opponent, Tom Allen, for a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Joe Goss won a $1,000-a-side match against Tom Allen in Kentucky; Goss's stake was found to be a corncob wrapped in a fifty-dollar bill.",
+      "excerpt": "a corncob, done up in the fifty. Before personal trouble ensued as",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "After the Goss match, a sheriff took Goss into custody and he spent the next year in jail.",
+      "excerpt": "a sheriff had taken Goss in tow and he spent the next year in jail",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen escaped and reached England after the Goss match.",
+      "excerpt": "Tom Allen, being fleet of foot, got away and managed to reach",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen held the heavyweight title for seven years.",
+      "excerpt": "and he held the title for seven years, with a chip on his shoulder",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen retired from the ring when boxing gloves came into vogue.",
+      "excerpt": "Retired When Boxing Gloves Came Into Vogue, Calling the Sport ‘Sissy’.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen fought 23 battles with bare fists.",
+      "excerpt": "Tom Allen, Prize Fight Hero Here, Fought 23 Battles With Bare Fists",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Prize fightin’ ‘as got to be a lydylike sport",
+      "topic": "gloves make prize fighting ladylike"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I'm too old to fight and, anyhow, it’s a sissy game",
+      "topic": "retirement from the ring"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "McCool",
+      "date": "1869-06",
+      "date_precision": "month",
+      "place": "Foster's Island",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "there was a draw. . McCool’s gang came into the ring and messed things up and the fight was off.",
+      "reported_as": "recollection",
+      "notes": "Allen's account: McCool's gang broke the fight up. Hints' 1876 date is not in this text."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "place": "Chouteau's Island",
+      "result": "win",
+      "rounds": "11",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "I got that in my fight with Charley Gallagher,",
+      "reported_as": "recollection",
+      "notes": "Allen says he won in the eleventh round ('In the eleventh round Charley was on the ground'). Date from 'two months later'."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "draw",
+      "rounds": "34",
+      "duration": "",
+      "stakes": "$100",
+      "rules": "",
+      "excerpt": "eree called it a draw and nobody got a cent.",
+      "reported_as": "recollection",
+      "notes": "OCR is garbled; the text reads 'thirty - four rounds'. Date and place not given."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Kentucky",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "a corncob, done up in the fifty. Before personal trouble ensued as",
+      "reported_as": "recollection",
+      "notes": "Goss won; the roll he staked was a corncob. Undated in this text (the 1876 date in the hints is not here)."
+    }
+  ],
+  "notes": "Hint's 1876 date is not in the text, so the Goss $1,000 match is undated. The $25,000 lost in England is garbled ('$25.000, which he! lost in the home land') and not extracted."
+}

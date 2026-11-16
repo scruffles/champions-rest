@@ -1,0 +1,52 @@
+{
+  "id": "206",
+  "claims": [
+    {
+      "kind": "death",
+      "statement": "Tom Allen died in St. Louis on April 5, 1903, from general debility.",
+      "excerpt": "conducted a small saloon here, died yesterday from general debility.",
+      "date": "1903-04-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was born in Birmingham, England, on April 23, 1839.",
+      "excerpt": "He was born in Birmingham, Eng., April 23, 1839.",
+      "date": "1839-04-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen had conducted a small saloon in St. Louis for the past 25 years.",
+      "excerpt": "who for the past 25 years has conducted a small saloon here",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was said to be the only pugilist who lost the world's championship, regained it and retired with it.",
+      "excerpt": "the only pugiliet who lost the world’s championship, regained it and retired with it.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Dateline April 6; died 'yesterday', taken as April 5. Hint ('25 years') agrees with this article; 209 says 21 years."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "705",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Capt. Wm. Richards secured the trophy (printed as pail) from the first championship game at the Union base ball grounds, planning to have it gilded and presented to Tom Allen to hang in his Market Street saloon.",
+      "excerpt": "Richards secured the\npail, which he intends having gilded, and\nthen, under instructions from Mr. Lucas,\nhe will present it to Tom Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bill Richards", "Mr. Lucas"],
+      "places": ["Union base ball grounds, St. Louis", "Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The object is printed as pail (probably ball); the presentation is planned, not confirmed."
+}

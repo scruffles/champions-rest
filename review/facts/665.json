@@ -1,0 +1,52 @@
+{
+  "id": "665",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "A boxing exhibition complimentary to Tom Allen was given at Madison Square Garden, New York, on Monday evening, November 27.",
+      "excerpt": "complimentary to Tom Allen, Was given at Madison Square Garden, New York",
+      "date": "1882-11-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Madison Square Garden, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and George Rooke appeared on stage to round up the exhibition.",
+      "excerpt": "Allen and Geo. Rook appearea\non the stage to round tip.",
+      "date": "1882-11-27",
+      "date_precision": "day",
+      "people": ["George Rooke"],
+      "places": ["Madison Square Garden, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "At the end of the last round of the exhibition with George Rooke, Tom Allen fell heavily to the floor.",
+      "excerpt": "Lhe last round, fell heavily to the floor.",
+      "date": "1882-11-27",
+      "date_precision": "day",
+      "people": ["George Rooke"],
+      "places": ["Madison Square Garden, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "John L. Sullivan, in the audience, took the stage to deny he was afraid of Tom Allen, and the two shook hands.",
+      "excerpt": "Sul-\nlivan and Allen shook hands",
+      "date": "1882-11-27",
+      "date_precision": "day",
+      "people": ["John L. Sullivan"],
+      "places": ["Madison Square Garden, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Exhibition, not a bout. The 'no match' remark is the paper's opinion, so it is left out of the claims."
+}

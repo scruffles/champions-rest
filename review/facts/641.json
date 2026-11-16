@@ -1,0 +1,19 @@
+{
+  "id": "641",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen, Mike McCoole and Charley Gallagher made their headquarters in St. Louis at a time the paper does not date.",
+      "excerpt": "Inthe days when Tom Allen, McCoole and Charley Gallagher made their headquarters in St. Louis",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole", "Charley Gallagher"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is mentioned only in passing, in an obituary of Billy Bronson, who was often at Gallagher's."
+}

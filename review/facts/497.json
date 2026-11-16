@@ -1,0 +1,45 @@
+{
+  "id": "497",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Gov. Beveridge of Illinois had issued requisitions for Tom Allen, Mike McCoole and others engaged in the September prize-fight.",
+      "excerpt": "have been issucd by Gov. Beveridge of illinois\nfor Town Allen, Miko McCoole",
+      "date": "1873-11",
+      "date_precision": "approx",
+      "people": ["Mike McCoole", "Gov. Beveridge"],
+      "places": ["Illinois"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was among those engaged in the September 1873 prize-fight with Mike McCoole.",
+      "excerpt": "others en-\ngagedin the September prizo-iicuc.",
+      "date": "1873-09",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09",
+      "date_precision": "month",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "others en-\ngagedin the September prizo-iicuc.",
+      "reported_as": "report",
+      "notes": "Result not given. 'Town Allen' and 'Miko McCoole' are OCR for Tom Allen and Mike McCoole."
+    }
+  ],
+  "notes": ""
+}

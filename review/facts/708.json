@@ -1,0 +1,41 @@
+{
+  "id": "708",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Tom Kelly arranged with Bill Richards an athletic and sparring tournament at the Union grounds on July 4, 1884.",
+      "excerpt": "Messrs. Tom Allen and Tom\nKelly by which an athletic and sparring tour",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Bill Richards", "Tom Kelly"],
+      "places": ["Union grounds, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Tom Kelly were to spar the wind-up of the tournament, with the winner to receive a silver cup.",
+      "excerpt": "In the wind-up between Allon\nand Kelly the winner is to recetve a beautiful\nsilvercup",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Union grounds, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Entries for the Fourth of July events could be made at Allen's, among other places, after noon on June 25, 1884.",
+      "excerpt": "Entries to the different events can be made\nafter noon to-day at Kelley's, Allen's,",
+      "date": "1884-06-25",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Sparring exhibitions only, not fights. Allen's entry point is not stated to be his saloon."
+}

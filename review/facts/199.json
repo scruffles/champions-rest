@@ -1,0 +1,41 @@
+{
+  "id": "199",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "J. W. L. Gillespie tried to take possession of Allen's saloon at 619 Market Street with a bill of sale made by Allen, who was sick and unable to run the business.",
+      "excerpt": "made by the former pugilist, who is sick",
+      "date": "1903-04-02",
+      "date_precision": "day",
+      "people": ["J. W. L. Gillespie"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The bartender, Murphy, admitted he had the day's receipts but refused to hand them over to anyone except Allen.",
+      "excerpt": "Murphy admitted that he hag the day’s recel",
+      "date": "1903-04-02",
+      "date_precision": "day",
+      "people": ["Murphy"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Gillespie asked the officer to arrest Murphy, but the officer advised that a warrant be issued instead.",
+      "excerpt": "but the officer advised the issuance of & warrant",
+      "date": "1903-04-02",
+      "date_precision": "day",
+      "people": ["J. W. L. Gillespie", "Murphy"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Bartender's name is garbled in the OCR (printed 'Tom oe gy £'); John Murphy in article 200. The article gives the sick Allen as the seller but does not name a figure for the sale. Article is about the saloon, not a fight or statement by Allen."
+}

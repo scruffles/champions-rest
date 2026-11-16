@@ -1,0 +1,52 @@
+{
+  "id": "100",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as an ex-prize fighter.",
+      "excerpt": "ioM ALLEN, the ex-prize fighter, will ar-",
+      "date": "1882-12",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was due to arrive in St. Louis the following week.",
+      "excerpt": "rive in this city next week, and , ermanentiy",
+      "date": "1882-12",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen planned to live permanently in St. Louis.",
+      "excerpt": "rive in this city next week, and , ermanentiy",
+      "date": "1882-12",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was reported to be opening a downtown saloon in St. Louis in company with John C. Gropper.",
+      "excerpt": "a downh-town saloon ip company with John",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["John C. Gropper"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Partner's surname is garbled in the OCR (text reads John, then a garbled name); 'John C. Gropper' comes from the hint and is not legible in the text."
+}

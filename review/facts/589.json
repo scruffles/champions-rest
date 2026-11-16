@@ -1,0 +1,59 @@
+{
+  "id": "589",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was Joe Goss's opponent in the late fight.",
+      "excerpt": "the opponent of Joe Goss in the late fight",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was matched at Windsor with Joe Goss's backers for $1,000 a side, but Goss's friends paid forfeit the next day and the negotiations were cut off.",
+      "excerpt": "with Goss’ backers, for $1,000 a side, but the latter’s friends paid forfeit",
+      "date": "1876-11-15",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Windsor, Ontario"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the opponent of Joe Goss in the late fight",
+      "reported_as": "report",
+      "notes": "Described only as 'the late fight'; date and result not given in this article."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-11-15",
+      "date_precision": "day",
+      "place": "Windsor, Ontario",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "with Goss’ backers, for $1,000 a side, but the latter’s friends paid forfeit",
+      "reported_as": "report",
+      "notes": "Match made with Goss's backers on Wednesday; Goss's friends (the forfeiting side) paid forfeit on Thursday 1876-11-16. The hint called this a challenge, but it was agreed and then forfeited, so it is a fight."
+    }
+  ],
+  "notes": "Turf items and religious revival notes are not about Allen."
+}

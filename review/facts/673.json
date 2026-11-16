@@ -1,0 +1,30 @@
+{
+  "id": "673",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen did not appear at Charles E. Davies' place in Chicago on December 14, 1882, to sign articles for a prize fight with Jimmy Elliott.",
+      "excerpt": "Tom Allen did net appear at Charles E.",
+      "date": "1882-12-14",
+      "date_precision": "day",
+      "people": ["Charles E. Davies", "James Elliott"],
+      "places": ["Charles E. Davies' place, Chicago"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said he would make no match until after the Sullivan and Elliott fight, and would then fight the winner with bare knuckles or gloves.",
+      "excerpt": "any match until after the forthcoming fight",
+      "date": "1882-12",
+      "date_precision": "month",
+      "people": ["John L. Sullivan", "James Elliott"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The Dec. 14 non-appearance is a separate event from the Dec. 11 one in 670-672 (signing articles, not the forfeit). Davies' place may be the same as 'Parson Davies' place'."
+}

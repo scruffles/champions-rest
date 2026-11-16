@@ -1,0 +1,19 @@
+{
+  "id": "475",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Maj. Jones offered Tom Allen as a witness to prove that Mike McCoole was too sick to appear in James Scott's $900 debt suit in Judge Knight's court, St. Louis; the case was continued.",
+      "excerpt": "fered to prove the fact by Tom Allen and two",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": ["James Scott", "Michael McCoole", "Maj. Jones"],
+      "places": ["Judge Knight's court, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Case called 'yesterday' in the 26 Sept paper, so 25 Sept. Rest of the page is unrelated local news."
+}

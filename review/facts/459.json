@@ -1,0 +1,30 @@
+{
+  "id": "459",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "The final deposit for the Allen-McCoole fight was due at McCoole's saloon on the night of September 2, 1873.",
+      "excerpt": "Last night was the time eet for the final deposit",
+      "date": "1873-09-02",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["McCoole's saloon, corner of Fifth and Wash streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen did not appear at the final deposit.",
+      "excerpt": "it was announced that neither of them would be present.",
+      "date": "1873-09-02",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["McCoole's saloon, corner of Fifth and Wash streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "'Last night' in a paper dated 1873-09-03 is 1873-09-02. The hint's description of the stakeholder is left out because it is not about Allen."
+}

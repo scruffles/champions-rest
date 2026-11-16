@@ -1,0 +1,41 @@
+{
+  "id": "060",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Special officer Maloney seized a young man sitting in a chair in Tom Allen's saloon.",
+      "excerpt": "Maloney walked up to a young map. who was sitting in the chair,",
+      "date": "1875-12",
+      "date_precision": "approx",
+      "people": ["Maloney"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "When the young man protested, Tom Allen told Maloney to show his authority and the party would go with him.",
+      "excerpt": "the disturbance told Maloney to show his authority",
+      "date": "1875-12",
+      "date_precision": "approx",
+      "people": ["Maloney"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Maloney drew a revolver in Tom Allen's saloon when asked to show his authority.",
+      "excerpt": "immediately jerked outa rovolver and said",
+      "date": "1875-12",
+      "date_precision": "approx",
+      "people": ["Maloney"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only the saloon incident involves Allen; the rest of the article concerns police and other arrests. 'A evenings ago' is printed as such; the date is taken as a few evenings before the paper's date."
+}

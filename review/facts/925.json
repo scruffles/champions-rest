@@ -1,0 +1,30 @@
+{
+  "id": "925",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was English-born: the writer says England gave America two champions, Tom Allen and Joe Goss.",
+      "excerpt": "England, from where we imported the ring, gave us two ch implons, Tom Allen and Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was named as one of two English champions of America, with Joe Goss.",
+      "excerpt": "England, from where we imported the ring, gave us two ch implons, Tom Allen and Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Passing mention in a column about New York boxing; 'ch implons' is OCR for 'champions'."
+}

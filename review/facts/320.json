@@ -1,0 +1,19 @@
+{
+  "id": "320",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen gave a sparring exhibition in Cincinnati on the night of 1869-06-05.",
+      "excerpt": "Allen, gave a sparring exhibition here last night.",
+      "date": "1869-06-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only the Allen item is used; the rest of the page is unrelated dispatches. The dateline is garbled ('Crscrsyati'); Cincinnati is read from the Enquirer items of the same weeks."
+}

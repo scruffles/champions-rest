@@ -1,0 +1,11 @@
+{
+  "id": "295",
+  "claims": [
+    {"kind": "other", "statement": "Tom Allen, of Cleveland, was one of the seconds for Elliott when Elliott fought Gallagher on Pieche Island, Detroit River, on November 12, 1868.", "excerpt": "Dan Brown, of New York; and Tom Allen, of Cleveland.", "date": "1868-11-12", "date_precision": "day", "people": ["Elliott", "Gallagher", "Dan Brown", "Dan Lecoch"], "places": ["Pieche Island, Detroit River"], "retrospective": false, "confidence": "high"},
+    {"kind": "other", "statement": "Elliott fought Gallagher for one hour and seventeen minutes over twenty-one rounds on Pieche Island.", "excerpt": "The fight commenced at 2 08, and lasted one hour apd seveateen minutes", "date": "1868-11-12", "date_precision": "day", "people": ["Elliott", "Gallagher"], "places": ["Pieche Island, Detroit River"], "retrospective": false, "confidence": "medium"},
+    {"kind": "other", "statement": "Elliott claimed the fight after a rough-and-tumble finish, and the referee decided in his favor.", "excerpt": "Elliot claimed the fight, and the refcree decided in his favor.", "date": "1868-11-12", "date_precision": "day", "people": ["Elliott", "Gallagher"], "places": ["Pieche Island, Detroit River"], "retrospective": false, "confidence": "medium"}
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen was a second, not a fighter, in this bout. The hint called it travel, but seconding is kind other. The O'Baldwin and Wormald matter is not about Allen."
+}

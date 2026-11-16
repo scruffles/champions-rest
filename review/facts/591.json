@@ -1,0 +1,19 @@
+{
+  "id": "591",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Arthur Chambers named Tom Allen among the men of importance who had left England for the United States.",
+      "excerpt": "Tom Allen, Bill Ryall, Peter Morrissey, Abe Hicken",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bill Ryall", "Peter Morrissey", "Abe Hicken"],
+      "places": ["England", "United States"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only mention of Allen is in Chambers's list of boxers who came to the United States. Chambers's list is his opinion, not Allen's words."
+}

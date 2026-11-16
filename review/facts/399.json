@@ -1,0 +1,142 @@
+{
+  "id": "399",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Jem Mace defeated Tom Allen in a fight near New Orleans on 10 May 1870.",
+      "excerpt": "the fight near New Orleans between Jem Moce and Tom Aller",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["near New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was called the St. Louis champion, and his defeat was received with regret in St. Louis.",
+      "excerpt": "The announcement of the defeat of the St Louis champion was received",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Jack Looney had publicly predicted, about a week before the fight, that Allen would be defeated because he was not in proper condition.",
+      "excerpt": "publicly proclaimed, a week ago, that Allen would be ‘defeated, because he was not in proper condition",
+      "date": "1870-05-03",
+      "date_precision": "approx",
+      "people": ["Jack Looney"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Jack Looney said the Mace fight was a sham, a put-up job.",
+      "excerpt": "According to Mr. Looney, the fight was asham, the de",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Jack Looney", "Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had encounters with Davis before this fight.",
+      "excerpt": "had seen Tom in his encounters with Davis, Gallagher, and McCoole, felt confident",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Davis"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had encounters with Gallagher before this fight.",
+      "excerpt": "had seen Tom in his encounters with Davis, Gallagher, and McCoole, felt confident",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had encounters with McCoole before this fight.",
+      "excerpt": "had seen Tom in his encounters with Davis, Gallagher, and McCoole, felt confident",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "place": "near New Orleans",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the fight near New Orleans between Jem Moce and Tom Aller",
+      "reported_as": "report",
+      "notes": "Looney called the fight a sham; the paper reports the defeat but does not confirm that."
+    },
+    {
+      "opponent": "Davis",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "had seen Tom in his encounters with Davis, Gallagher, and McCoole, felt confident",
+      "reported_as": "report",
+      "notes": "Called 'encounters' in passing; not stated whether contests or sparring, or their dates and results."
+    },
+    {
+      "opponent": "Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "had seen Tom in his encounters with Davis, Gallagher, and McCoole, felt confident",
+      "reported_as": "report",
+      "notes": "Called 'encounters' in passing; not stated whether contests or sparring, or their dates and results."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "had seen Tom in his encounters with Davis, Gallagher, and McCoole, felt confident",
+      "reported_as": "report",
+      "notes": "Called 'his old antagonist' in passing; not stated whether contests or sparring, or their dates and results."
+    }
+  ],
+  "notes": "The Looney 'sham' remark is garbled. The paper's own account says the fight was a defeat for Allen."
+}

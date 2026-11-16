@@ -1,0 +1,52 @@
+{
+  "id": "495",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Ben Hogan asked for the Allen-Hogan fight to be postponed for two weeks, and Tom Allen agreed to the postponement.",
+      "excerpt": "He wanted the fight postponed for two weeks,",
+      "date": "1873-10-29",
+      "date_precision": "day",
+      "people": ["Ben Hogan", "Jimmy Eagan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Ben Hogan were to fight again on November 19 in Canada, within fifty miles of Detroit, with the stakes raised to $2,500 a side.",
+      "excerpt": "drawn up to have the men fight m Canada,",
+      "date": "1873-11-19",
+      "date_precision": "day",
+      "people": ["Ben Hogan", "Jimmy Eagan", "Arthur Gore"],
+      "places": ["Canada, within fifty miles of Detroit"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said that if he won his fight with Ben Hogan, he would make a match with Ed O'Baldwin for $2,500 or $5,000 a side.",
+      "excerpt": "if he wins! his ape fight he will make a match with",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ed O'Baldwin", "Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Illinois Gov. Beveridge sent Col. E. L. Higgins, adjutant general, to East St. Louis with a hundred stands of arms to prevent the Allen-Hogan fight.",
+      "excerpt": "imstructed Col. Ei £. Higeims, Adjutant General of the State",
+      "date": "1873-10-29",
+      "date_precision": "day",
+      "people": ["Gov. Beveridge", "E. L. Higgins"],
+      "places": ["East St. Louis, Illinois"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The Nov. 19 Canada match was planned, not fought, so it is a challenge and has no fights entry. The officer's name is printed as 'Ei £. Higeims' (OCR); read as E. L. Higgins, as in another article."
+}

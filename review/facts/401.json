@@ -1,0 +1,51 @@
+{
+  "id": "401",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen lost to Jem Mace in ten rounds; Joe Coburn, Allen's second, threw up the sponge.",
+      "excerpt": "Coburn comes forward and throws up the sponge",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["Jem Mace", "Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "A surgeon found that Tom Allen's shoulder was not dislocated, but that the muscles were cramped and contracted.",
+      "excerpt": "shoulder is not dislocated, but that the muscles are",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "dard work, Jem,",
+      "topic": "tenth-round exchange with Mace (first word garbled in OCR)"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870-05",
+      "date_precision": "month",
+      "place": "",
+      "result": "loss",
+      "rounds": "10",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Coburn comes forward and throws up the sponge",
+      "reported_as": "report",
+      "notes": "Fight day not in the text; the paper is dated 1870-05-13."
+    }
+  ],
+  "notes": "Fight day not given. Shoulder claim is the surgeon's finding; Coburn's dislocation claim is not repeated."
+}

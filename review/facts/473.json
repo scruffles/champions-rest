@@ -1,0 +1,79 @@
+{
+  "id": "473",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Benjamin Hogan signed articles of agreement for a fight, dated September 25, 1873; Arthur Chambers witnessed for Allen.",
+      "excerpt": "Articles of agreeMent entered into this 35th day",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": ["Benjamin Hogan", "Arthur Chambers", "John Looney"],
+      "places": ["Looney & Herbert's saloon, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Benjamin Hogan agreed to a fair stand-up fight under the new rules for $1,000 a side, on Tuesday, October 28, 1873, with the ground to be picked by one man from each side.",
+      "excerpt": "to fight said Tom Allen a fair stand-up t,",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Benjamin Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen declined Hogan's request to postpone the fight by two weeks, and Hogan did not object.",
+      "excerpt": "weeks, but as Allen declined praepeege J either",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": ["Benjamin Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen's second knuckle on his right hand was slightly cut in the Tuesday fight (printed as 'band').",
+      "excerpt": "the second knuckle of his right band is slightly cut.",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he planned to enjoy himself for two weeks and then return to training.",
+      "excerpt": "Allen states that he proposes to enjoy himself",
+      "date": "1873-09-25",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Ben, ali l wapt 1s _a good square fight, and may the 'man win.",
+      "topic": "wish for a fair fight with Hogan"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "McCoole writes the best hand of any fighter I ever see",
+      "topic": "on pugilists' handwriting"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I tried to get up stairs to see Mike, but they wouldn't let me.",
+      "topic": "tried to visit McCoole after the fight"
+    }
+  ],
+  "fights": [],
+  "notes": "The 'Tuesday' fight is 23 Sept (McCoole). Quote 1 is garbled OCR. The McCoole winnings paid to Allen on Wednesday night (24 Sept) are left out as too garbled to quote."
+}

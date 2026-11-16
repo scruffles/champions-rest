@@ -1,0 +1,374 @@
+{
+ "bucket": "legal-1899-1901",
+ "kind": "legal",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "186.c4",
+   "date": "1899",
+   "published": "1899-05-04",
+   "statement": "After a preliminary hearing in the Court of Criminal Correction, Allen was discharged on a plea of self-defense."
+  },
+  {
+   "cid": "186.c3",
+   "date": "1899-02",
+   "published": "1899-05-04",
+   "statement": "Allen shot Tim Confoy to death in his saloon during a quarrel."
+  },
+  {
+   "cid": "189.c1",
+   "date": "1899-02-20",
+   "published": "1899-11-14",
+   "statement": "Tom Allen was charged with killing Timothy Confoy (printed Con-foy) in a saloon at the corner of Seventh and Market streets on February 20, 1899."
+  },
+  {
+   "cid": "192.c1",
+   "date": "1899-02-20",
+   "published": "1901-03-04",
+   "retro": true,
+   "statement": "Tom Allen was charged with killing Timothy Confoy (printed Con-foy) in a saloon at the corner of Seventh and Market streets on February 20, 1899."
+  },
+  {
+   "cid": "180.c1",
+   "date": "1899-02-23",
+   "published": "1899-02-27",
+   "conf": "medium",
+   "statement": "Tom Allen shot Timothy Confoy in the Champions' Rest, his retired pugilists' drinking resort on Market Street, early on Thursday 1899-02-23."
+  },
+  {
+   "cid": "180.c4",
+   "date": "1899-02-23",
+   "published": "1899-02-27",
+   "conf": "medium",
+   "statement": "Allen says he fired after seeing Confoy make a movement as if to draw a pistol."
+  },
+  {
+   "cid": "180.c6",
+   "date": "1899-02-23",
+   "published": "1899-02-27",
+   "conf": "medium",
+   "statement": "A revolver was found on the floor near where Confoy fell; it had not yet been identified as Confoy's."
+  },
+  {
+   "cid": "987.c8",
+   "date": "1899-02-25",
+   "published": "1899-03-01",
+   "statement": "L. G. Perry, a member of the Legislature, identified the pistol found under Confoy's body as his and said Confoy had borrowed it from him on Saturday afternoon."
+  },
+  {
+   "cid": "179.c1",
+   "date": "1899-02-26",
+   "published": "1899-02-26",
+   "statement": "Tom Allen shot Tim Confoy four times at Allen's saloon on Market Street, near Sixth."
+  },
+  {
+   "cid": "179.c2",
+   "date": "1899-02-26",
+   "published": "1899-02-26",
+   "conf": "medium",
+   "statement": "It is said there was no unusual disturbance before Tom Allen drew his revolver and began firing into the crowd."
+  },
+  {
+   "cid": "179.c3",
+   "date": "1899-02-26",
+   "published": "1899-02-26",
+   "statement": "John Spencer was wounded in the hand during the shooting and was not seriously hurt."
+  },
+  {
+   "cid": "179.c4",
+   "date": "1899-02-26",
+   "published": "1899-02-26",
+   "statement": "Police took Tom Allen into custody after the shooting."
+  },
+  {
+   "cid": "180.c2",
+   "date": "1899-02-26",
+   "published": "1899-02-27",
+   "statement": "Timothy Confoy died late on Sunday night on the operating table at City Hospital after being shot by Tom Allen."
+  },
+  {
+   "cid": "180.c3",
+   "date": "1899-02-26",
+   "published": "1899-02-27",
+   "conf": "medium",
+   "statement": "Confoy said before he died that he had caused no difficulty in Allen's place and knew of no reason Allen should have fired on him."
+  },
+  {
+   "cid": "180.c7",
+   "date": "1899-02-26",
+   "published": "1899-02-27",
+   "statement": "Tom Allen was held as a prisoner in the Four Courts holdover."
+  },
+  {
+   "cid": "180.c8",
+   "date": "1899-02-26",
+   "published": "1899-02-27",
+   "statement": "Tom Allen refused to see his friends, who called at the holdover on Sunday afternoon."
+  },
+  {
+   "cid": "180.c9",
+   "date": "1899-02-26",
+   "published": "1899-02-27",
+   "statement": "Told on Sunday night that Confoy was dead, Tom Allen expressed mild regret that the shots proved fatal."
+  },
+  {
+   "cid": "181.c2",
+   "date": "1899-02-26",
+   "published": "1899-02-27",
+   "statement": "Tom Allen shot Tom Coupry in the course of a fracas in Allen's saloon in St. Louis."
+  },
+  {
+   "cid": "181.c3",
+   "date": "1899-02-26",
+   "published": "1899-02-27",
+   "statement": "Tom Coupry died at the city hospital shortly before midnight on the night of the shooting."
+  },
+  {
+   "cid": "181.c4",
+   "date": "1899-02-26",
+   "published": "1899-02-27",
+   "conf": "medium",
+   "statement": "Allen said he thought Coupry was going to shoot him, and for that reason used his revolver."
+  },
+  {
+   "cid": "182.c2",
+   "date": "1899-02-26",
+   "published": "1899-02-27",
+   "statement": "Allen shot Tom Coupry in the course of a fracas in his saloon in St. Louis."
+  },
+  {
+   "cid": "182.c3",
+   "date": "1899-02-26",
+   "published": "1899-02-27",
+   "statement": "Tom Coupry died at the city hospital shortly before midnight on the night of the shooting."
+  },
+  {
+   "cid": "182.c4",
+   "date": "1899-02-26",
+   "published": "1899-02-27",
+   "conf": "medium",
+   "statement": "Allen said he thought Coupry was going to shoot him, and for that reason used his revolver."
+  },
+  {
+   "cid": "183.c1",
+   "date": "1899-02-26",
+   "published": "1899-02-28",
+   "statement": "Tom Allen killed Timothy Confoy in the early hours of Sunday morning, February 26, 1899."
+  },
+  {
+   "cid": "183.c5",
+   "date": "1899-02-26",
+   "published": "1899-02-28",
+   "conf": "medium",
+   "statement": "Confoy dropped at the fourth of Allen's shots, falling on his own revolver, according to witness John Spencer."
+  },
+  {
+   "cid": "185.c3",
+   "date": "1899-02-26",
+   "published": "1899-03-03",
+   "statement": "Tom Allen shot Tom Coupry, who was later named in the report as the man Allen shot."
+  },
+  {
+   "cid": "985.c1",
+   "date": "1899-02-26",
+   "published": "1899-02-26",
+   "statement": "Tom Allen shot and fatally wounded Tim Confoy in his saloon at 619 Market street just after 2 o'clock on the morning of 26 February 1899."
+  },
+  {
+   "cid": "985.c2",
+   "date": "1899-02-26",
+   "published": "1899-02-26",
+   "statement": "Allen fired five shots at Confoy, and Confoy fell after the fifth."
+  },
+  {
+   "cid": "985.c4",
+   "date": "1899-02-26",
+   "published": "1899-02-26",
+   "conf": "medium",
+   "statement": "Allen said he had not produced his revolver until he saw Confoy try to draw his weapon."
+  },
+  {
+   "cid": "985.c5",
+   "date": "1899-02-26",
+   "published": "1899-02-26",
+   "statement": "Allen surrendered his revolvers to Officer Clifford."
+  },
+  {
+   "cid": "985.c6",
+   "date": "1899-02-26",
+   "published": "1899-02-26",
+   "statement": "Allen was taken to the Chestnut Street station and placed in the holdover."
+  },
+  {
+   "cid": "985.c7",
+   "date": "1899-02-26",
+   "published": "1899-02-26",
+   "statement": "Allen was later moved to the Four Courts holdover by direct order of Chief Pickel."
+  },
+  {
+   "cid": "987.c1",
+   "date": "1899-02-26",
+   "published": "1899-03-01",
+   "statement": "Timothy Confoy was killed in Tom Allen's saloon on Sunday morning, 26 February 1899."
+  },
+  {
+   "cid": "987.c7",
+   "date": "1899-02-26",
+   "published": "1899-03-01",
+   "statement": "Several witnesses testified that Confoy had a revolver and that it was found under him after the shooting."
+  },
+  {
+   "cid": "181.c1",
+   "date": "1899-02-27",
+   "published": "1899-02-27",
+   "statement": "Tom Allen was under arrest at the Four Courts, St. Louis, charged with murder."
+  },
+  {
+   "cid": "182.c1",
+   "date": "1899-02-27",
+   "published": "1899-02-27",
+   "statement": "Tom Allen was under arrest at the Four Courts, St. Louis, charged with murder."
+  },
+  {
+   "cid": "185.c2",
+   "date": "1899-02-27",
+   "published": "1899-03-03",
+   "statement": "Tom Allen was under arrest at the Four Courts, St. Louis, charged with murder."
+  },
+  {
+   "cid": "180.c10",
+   "date": "1899-02-28",
+   "published": "1899-02-27",
+   "statement": "A coroner's inquest into Confoy's death was set for 10 o'clock on Tuesday morning."
+  },
+  {
+   "cid": "183.c2",
+   "date": "1899-02-28",
+   "published": "1899-02-28",
+   "statement": "A coroner's jury returned a verdict of justifiable homicide in the killing of Timothy Confoy by Tom Allen."
+  },
+  {
+   "cid": "183.c3",
+   "date": "1899-02-28",
+   "published": "1899-02-28",
+   "statement": "Judge Harvey and Attorney Thomas P. Rowe represented Allen at the coroner's inquest."
+  },
+  {
+   "cid": "183.c4",
+   "date": "1899-02-28",
+   "published": "1899-02-28",
+   "statement": "A large delegation of Allen's friends met him at City Hall when he was brought over from the Four Courts, and he was congratulated when taken back to jail after the verdict."
+  },
+  {
+   "cid": "184.c1",
+   "date": "1899-02-28",
+   "published": "1899-03-01",
+   "statement": "The Prosecuting Attorney issued a warrant charging Tom Allen with murder in the second degree in the killing of Timothy Confoy."
+  },
+  {
+   "cid": "184.c2",
+   "date": "1899-02-28",
+   "published": "1899-03-01",
+   "statement": "Allen was arrested at once and gave bond of $300."
+  },
+  {
+   "cid": "184.c3",
+   "date": "1899-02-28",
+   "published": "1899-03-01",
+   "statement": "Allen had earlier been acquitted by the coroner's jury."
+  },
+  {
+   "cid": "187.c1",
+   "date": "1899-02-28",
+   "published": "1899-05-04",
+   "statement": "The Prosecuting Attorney issued a warrant charging Tom Allen with murder in the second degree in the killing of Timothy Confoy."
+  },
+  {
+   "cid": "187.c2",
+   "date": "1899-02-28",
+   "published": "1899-05-04",
+   "statement": "Allen was arrested at once and gave bond of $300."
+  },
+  {
+   "cid": "187.c3",
+   "date": "1899-02-28",
+   "published": "1899-05-04",
+   "statement": "Allen had earlier been acquitted by the coroner's jury."
+  },
+  {
+   "cid": "987.c2",
+   "date": "1899-02-28",
+   "published": "1899-03-01",
+   "statement": "Tom Allen was charged with murder in the second degree for the killing of Timothy Confoy."
+  },
+  {
+   "cid": "987.c3",
+   "date": "1899-02-28",
+   "published": "1899-03-01",
+   "statement": "A warrant charging second-degree murder was issued so that Allen could be released on bond, at the request of his attorney, ex-Judge Thomas B. Harvey."
+  },
+  {
+   "cid": "987.c4",
+   "date": "1899-02-28",
+   "published": "1899-03-01",
+   "statement": "Allen was released on a $5,000 bond signed by attorney Thomas J. Rowe, who also assisted in the defense."
+  },
+  {
+   "cid": "987.c5",
+   "date": "1899-02-28",
+   "published": "1899-03-01",
+   "conf": "medium",
+   "statement": "An inquest jury returned a verdict of justifiable homicide in Confoy's death (printed as 'gustifiable homicide')."
+  },
+  {
+   "cid": "987.c6",
+   "date": "1899-02-28",
+   "published": "1899-03-01",
+   "statement": "The police intended to hold Allen after the inquest until a transcript of the evidence could be submitted."
+  },
+  {
+   "cid": "987.c10",
+   "date": "1899-02-28",
+   "published": "1899-03-01",
+   "statement": "On his attorney's advice, Allen made no statement to the jury at the inquest."
+  },
+  {
+   "cid": "186.c1",
+   "date": "1899-05-03",
+   "published": "1899-05-04",
+   "statement": "A grand jury indicted Tom Allen for murder in the killing of Tim Confoy."
+  },
+  {
+   "cid": "260.c1",
+   "date": "1899-05-04",
+   "published": "1899-05-04",
+   "conf": "medium",
+   "statement": "Tom Allen, charged with the murder of Timothy Confoy, was admitted to bond in Judge Klein's court."
+  },
+  {
+   "cid": "260.c2",
+   "date": "1899-05-04",
+   "published": "1899-05-04",
+   "statement": "Tom Allen was released from custody on $5,000 bail."
+  },
+  {
+   "cid": "260.c3",
+   "date": "1899-05-04",
+   "published": "1899-05-04",
+   "conf": "low",
+   "statement": "Thomas J. Rowe of 619 Market Street went Tom Allen's bond (the address is printed 'Mark')."
+  },
+  {
+   "cid": "189.c2",
+   "date": "1899-11-14",
+   "published": "1899-11-14",
+   "statement": "The state dismissed the case against Tom Allen for the killing of Timothy Confoy in Judge Fisher's court, the evidence being insufficient."
+  },
+  {
+   "cid": "191.c3",
+   "date": "1901-03-03",
+   "published": "1901-03-04",
+   "statement": "Police arrested Jesse Carraher, a musician employed in the saloon, pending investigation of the fall."
+  }
+ ]
+}

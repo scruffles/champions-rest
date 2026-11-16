@@ -1,0 +1,33 @@
+[
+ {
+  "kind": "career",
+  "fact": "Tom Allen was said to have won the first fight in England fought under Queensberry rules.",
+  "date": "",
+  "seed": "037",
+  "conflict": "",
+  "claims": [
+   "194.c9",
+   "194.c13"
+  ]
+ },
+ {
+  "kind": "career",
+  "fact": "Tom Allen served in the army in the Crimean War, and his success in turn-ups in front of Sevastopol convinced him he could be a champion.",
+  "date": "",
+  "seed": "004",
+  "conflict": "",
+  "claims": [
+   "084.c35"
+  ]
+ },
+ {
+  "kind": "saloon",
+  "fact": "The pianist at Tom Allen's saloon, in his employ for fifteen years, was known for singing 'Annie Laurie'.",
+  "date": "",
+  "seed": "026",
+  "conflict": "seed 026 says it was Allen's favourite song; the article says it was the pianist's speciality",
+  "claims": [
+   "209.c15"
+  ]
+ }
+]

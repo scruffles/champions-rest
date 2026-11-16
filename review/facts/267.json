@@ -1,0 +1,19 @@
+{
+  "id": "267",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The Illustrated Sporting News in January 1865 identified Tom Allen as the Birmingham pugilist.",
+      "excerpt": "TOM ALLEN, the Birmingham Pugilist.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only a caption fragment (\"TOM ALLEN, the Birmingham Pugilist.\") survives in the text. No other facts."
+}

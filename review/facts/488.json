@@ -1,0 +1,185 @@
+{
+  "id": "488",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was staying at the Eight-Mile House, where he trained with his trainer and Arthur Chambers.",
+      "excerpt": "panied by his trainer and Arthur Chambers, for",
+      "date": "1873-10-24",
+      "date_precision": "day",
+      "people": ["Arthur Chambers"],
+      "places": ["Eight-Mile House"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen weighed 172 pounds stripped and looked in better condition than before his fight with McCoole.",
+      "excerpt": "stripped, 172 pounds, his face looks fresh and",
+      "date": "1873-10-24",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in a recent fight.",
+      "excerpt": "to the recent demolition of McCoole. He weighs,",
+      "date": "1873",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen wrote to the New York Herald offering to fight Joe Coburn anywhere for $500 to $5,000 and to put up a forfeit.",
+      "excerpt": "to fight Coburn anywhere for any moncy be-",
+      "date": "1873",
+      "date_precision": "approx",
+      "people": ["Joe Coburn"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen said Joe Coburn had said he would fight him but had put up no money.",
+      "excerpt": "but I didn’t hear anything about any money,",
+      "date": "1873",
+      "date_precision": "approx",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered to fight any Irish-American anywhere for any money enough to cover training expenses, and offered a standing bet of his money and property.",
+      "excerpt": "money, so it’s enough to cover expenses of",
+      "date": "1873-10-24",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen retired from the ring after his fight with Mace, having made some money.",
+      "excerpt": "Atter my fight with Mace I wanted to leave the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen said he was an Englishman.",
+      "excerpt": "the ring. But 1 am an Englishman and the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen said he had lived in St. Louis for a number of years.",
+      "excerpt": "in St. Louis a number of years, and ’erept as I’ve",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he served as a soldier under Sir Henry Havelock through the Sepoy mutiny.",
+      "excerpt": "served under Sir Henry Havelock all throuch",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Sir Henry Havelock"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen planned a sparring exhibition at a benefit at Deagle's Theatre on the evening of the fight.",
+      "excerpt": "On the evening of the sight, whenI will give a",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Deagle's Theatre, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Ben Hogan were expected to fight the following Tuesday night, October 28, 1873.",
+      "excerpt": "some next Tuesday night as be is now.",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I went tnere to whip him, and never had any idea of getting whipped.",
+      "topic": "on the McCoole fight"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "But 1 am an Englishman and the lvish-Americans, a3 a nationality, hate me.",
+      "topic": "Irish-Americans and his nationality"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "But he is a rufian, Joe is. He 1s swell, flash, bad. He isacrimmal. He is a brute; the meanest kind of a brute.",
+      "topic": "on Joe Coburn"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "approx",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "to the recent demolition of McCoole. He weighs,",
+      "reported_as": "report",
+      "notes": "No date given; described as recent."
+    },
+    {
+      "opponent": "Ben Hogan",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "some next Tuesday night as be is now.",
+      "reported_as": "report",
+      "notes": "Date inferred from 'next Tuesday night'; the article does not name the fight directly."
+    }
+  ],
+  "notes": "Allen's own words throughout. The Hogan fight date is inferred from the headline and 'next Tuesday night'."
+}

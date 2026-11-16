@@ -1,0 +1,30 @@
+{
+  "id": "872",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised a free concert every evening at 619 Market Street.",
+      "excerpt": "Tem ALLEN, retired champion pugilist of the worid, 619 Market street. Free concert every evening, Best of singers only engaged here.",
+      "date": "1892-11-12",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as the retired champion pugilist of the world.",
+      "excerpt": "Tem ALLEN, retired champion pugilist of the worid, 619 Market street.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement. Text says 'Tem ALLEN' (OCR for Tom) and 'worid' (OCR for world)."
+}

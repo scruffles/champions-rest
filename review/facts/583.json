@@ -1,0 +1,34 @@
+{
+  "id": "583",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Bill Davis was an old opponent of Tom Allen; the article gives no date or result for that bout.",
+      "excerpt": "boxed Bill Davis, an oid opponent of Tom Allen.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bill Davis"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Bill Davis",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "boxed Bill Davis, an oid opponent of Tom Allen.",
+      "reported_as": "record",
+      "notes": "Allen appears only as Davis's earlier opponent; no details given. Miller's own bout with Davis (January 1875, printed ISTS) is not Allen's."
+    }
+  ],
+  "notes": "Article is about William Miller and Theobald Bauer. Allen appears only in the record of Miller's bout with Bill Davis."
+}

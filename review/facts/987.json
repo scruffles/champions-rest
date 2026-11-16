@@ -1,0 +1,118 @@
+{
+  "id": "987",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Timothy Confoy was killed in Tom Allen's saloon on Sunday morning, 26 February 1899.",
+      "excerpt": "to for the Kiting of Timothy Confoy Mast",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Timothy Confoy"],
+      "places": ["Allen's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was charged with murder in the second degree for the killing of Timothy Confoy.",
+      "excerpt": "jf murder in the second) degree to ans yer",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": ["Timothy Confoy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "A warrant charging second-degree murder was issued so that Allen could be released on bond, at the request of his attorney, ex-Judge Thomas B. Harvey.",
+      "excerpt": "Warrant w issued in order to secure Al-",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": ["Thomas B. Harvey"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen was released on a $5,000 bond signed by attorney Thomas J. Rowe, who also assisted in the defense.",
+      "excerpt": "released on a bond of $5000, signed |by",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": ["Thomas J. Rowe"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "An inquest jury returned a verdict of justifiable homicide in Confoy's death (printed as 'gustifiable homicide').",
+      "excerpt": "the Ned bagel jury returned a verdict |of |",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": ["Timothy Confoy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "The police intended to hold Allen after the inquest until a transcript of the evidence could be submitted.",
+      "excerpt": "could be submitted, a matter of several",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Several witnesses testified that Confoy had a revolver and that it was found under him after the shooting.",
+      "excerpt": "volver and that it was found under him",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Timothy Confoy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "L. G. Perry, a member of the Legislature, identified the pistol found under Confoy's body as his and said Confoy had borrowed it from him on Saturday afternoon.",
+      "excerpt": "his, and said Confoy had borrowed |it",
+      "date": "1899-02-25",
+      "date_precision": "day",
+      "people": ["L. G. Perry", "Timothy Confoy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Witnesses testified that Confoy had visited several saloons in the neighbourhood and had threatened to 'clean out' Allen's place.",
+      "excerpt": "reats about ‘!cleaning out” Allen's place.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Timothy Confoy"],
+      "places": ["Allen's saloon"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "On his attorney's advice, Allen made no statement to the jury at the inquest.",
+      "excerpt": "On the advice of his attorney, Allen made",
+      "date": "1899-02-28",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Excerpts keep OCR errors as printed ('Kiting' is killing, 'Mast' is last). Killing dated from 'last Sunday morning' in a paper of 1899-03-01. Confoy's Saturday visit date (1899-02-25) is worked out from 'Saturday afternoon'. Hints checked: all three supported."
+}

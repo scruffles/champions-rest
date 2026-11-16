@@ -1,0 +1,67 @@
+{
+  "id": "325",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole had fought the late prize fight of June 15, 1869.",
+      "excerpt": "just before the commencement of the late fight",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen did not accept McCoole's challenge; he said he would fight for $5,000 a side but not inside 399 miles of St. Louis (printed as 399).",
+      "excerpt": "Will fight Mac for $5,000 aside, but will not meet him inside of 399 miles of St. Louis",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen is said to have put up a $1,000 forfeit at the St. Louis Billiard Hall.",
+      "excerpt": "Allen is said to have put up, at the St. Louis Billiard a Hall, $1,000 as a forfeit",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis Billiard Hall, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mike McCoole published a challenge to Allen to fight again within three months, 50 to 100 miles from St. Louis, with money deposited at 298 North Third Street (printed as 298; OCR is poor).",
+      "excerpt": "over 50 and within 100 amiles of St. Louis, and within three months’ time",
+      "date": "1869-06-16",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["North Third Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "just before the commencement of the late fight",
+      "reported_as": "report",
+      "notes": "Reference only; this article gives no detail of the bout."
+    }
+  ],
+  "notes": "Mostly McCoole's challenge; Allen's reply is reported second-hand."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "1015",
+  "claims": [
+    {"kind": "career", "statement": "Tom Allen fought at 165 pounds, according to John L. Sullivan's recollection.", "excerpt": "about the same size. Tom Allen fought at 165 pounds.", "date": "", "date_precision": "unknown", "people": ["John L. Sullivan"], "places": [], "retrospective": true, "confidence": "high"},
+    {"kind": "other", "statement": "Tom Allen maintained that a thoroughly conditioned 165-pounder had a perfect license to beat a 200-pounder at the London prize ring game.", "excerpt": "Allen always maintained that a thoroughly conditioned 165-pounder had a perfect license to beat a 200-pounder at the London prize ring game", "date": "", "date_precision": "unknown", "people": ["John L. Sullivan"], "places": [], "retrospective": true, "confidence": "medium"}
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Article is mainly about jockeys (Dugan, Anderson, Davis). Allen appears only in Sullivan's comments, so both claims are secondhand. Sullivan's disagreement with Allen is too garbled to quote. The hint's 'Allen always maintained' is a paraphrase, not Allen's direct speech, so it is not a quote."
+}

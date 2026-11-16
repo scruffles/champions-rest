@@ -1,0 +1,111 @@
+{
+  "id": "259",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Allen was an Englishman born at Birmingham, England, on April 23, 1839 (the article prints 1889).",
+      "excerpt": "born at Birmingham, England, April 23, 1889",
+      "date": "1839-04-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as the retired champion pugilist of the world.",
+      "excerpt": "retired champion pugilist of the world, died at",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen figured in 14 prize ring matches in England and ten in America.",
+      "excerpt": "figured in 14 prize ring matches in England and ten in",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England", "America"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Jim Stewart in England on March 10, 1879, in a match for 50 pounds a side.",
+      "excerpt": "being with Jim Stewart on March 10, 1879",
+      "date": "1879-03-10",
+      "date_precision": "day",
+      "people": ["Jim Stewart"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen opened a saloon near the present home of the Boatmen's Bank, at Fourth Street and Washington Avenue, in 1868.",
+      "excerpt": "Fourth street and Washington avenue, in 1868",
+      "date": "1868",
+      "date_precision": "year",
+      "people": [],
+      "places": ["Fourth Street and Washington Avenue, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen had been a tenant of the same real estate firm ever since 1868, in different parts of the city.",
+      "excerpt": "ever since had been a tenant of the same real estate firm, in different parts of the city",
+      "date": "1868",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen had been very low for several days before he died.",
+      "excerpt": "Allen had been very low for several days",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died at the Baptist Hospital, Garrison and Franklin avenues, St. Louis, at 7:35 a.m. on Sunday, April 5, 1903.",
+      "excerpt": "the Baptist Hospital, Garrison and Franklin avenues, at 7:35 o'clock",
+      "date": "1903-04-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Baptist Hospital, Garrison and Franklin avenues, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jim Stewart",
+      "date": "1879-03-10",
+      "date_precision": "day",
+      "place": "England",
+      "result": "win",
+      "rounds": "16",
+      "duration": "55 minutes",
+      "stakes": "50 pounds a side",
+      "rules": "",
+      "excerpt": "It lasted 55 minutes, was 16 rounds in duration and was won by Allen",
+      "reported_as": "record",
+      "notes": "From Allen's own official record, as printed in 1903. Other bouts are only counted (14 in England, 10 in America)."
+    }
+  ],
+  "notes": "Birth year printed 1889; 1839 is inferred from the text's own age context and other notes, so low confidence. Death day worked out from 'Sunday' (article dated Friday 10 April 1903); 262 gives 6 April."
+}

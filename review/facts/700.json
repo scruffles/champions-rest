@@ -1,0 +1,19 @@
+{
+  "id": "700",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen, shown a report of a fight at Caldwell, Idaho, said he knew neither pugilist and discredited the account of Martland being badly beaten.",
+      "excerpt": "He says b¢ knows neither one of the pugilists, and, a",
+      "date": "1883-10-31",
+      "date_precision": "day",
+      "people": ["Martland"],
+      "places": ["Caldwell, Idaho"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen's view is the paper's paraphrase, so no quote is recorded. He takes no part in the Caldwell fight itself. The statement is taken from the paper's wording and the OCR is partly garbled."
+}

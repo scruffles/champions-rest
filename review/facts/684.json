@@ -1,0 +1,30 @@
+{
+  "id": "684",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen acted as umpire for Theobald Bauer in his Greco-Roman wrestling match with Muldoon at Masonic hall, St. Louis.",
+      "excerpt": "eferee, Allen. umpire for Bauer and Spink\nimpire for Muldoon.",
+      "date": "1883-01-27",
+      "date_precision": "day",
+      "people": ["Theobald Bauer", "Muldoon", "Tom Kelly", "Al Spink"],
+      "places": ["Masonic hall, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The Republic described Tom Allen as the late world's champion when he came to the stage at the Muldoon-Bauer match.",
+      "excerpt": "and as\nbe late world's champion cot the prize\ning lumbered down the aisle",
+      "date": "1883-01-27",
+      "date_precision": "day",
+      "people": ["Muldoon", "Theobald Bauer"],
+      "places": ["Masonic hall, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Umpire at a wrestling match between others, not a bout by Allen. Hint's spelling Theobaud corrected to Theobald in the name fields."
+}

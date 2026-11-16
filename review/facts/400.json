@@ -1,0 +1,78 @@
+{
+  "id": "400",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Rufus Hunt of New Orleans was chosen as referee for Tom Allen's fight with Mace.",
+      "excerpt": "Rufus Hunt, of New Or-\nleans, a sporting man of excellent reputation in his",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Rufus Hunt"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Billy Carroll accepted John C. Heenan's proposal of Rufus Hunt as referee.",
+      "excerpt": "was chosen as referee; Heenan vroposing, and Billy Carroll accepting him instanter",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["John C. Heenan", "Billy Carroll", "Rufus Hunt"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Billy Carroll spoke to the crowd on Tom Allen's behalf, saying Allen had never had a fair show.",
+      "excerpt": "on behalf of Tom Allen, who, he said, had never had a fair show",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Billy Carroll"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Joe Coburn and Sherman Thurston seconded Tom Allen in his fight with Mace.",
+      "excerpt": "Joe Coburn and Sher-\nman Thurston, of 8t. Louis, handled Allen",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Sherman Thurston"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was said not to have trained down: his fighting weight was 175 pounds but he had not got below 190.",
+      "excerpt": "instead of getting down to\nbis perfect fighting weight, 175, he bad not reached\nvelow 190",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mace",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "place": "near New Orleans",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Rufus Hunt, of New Or-\nleans, a sporting man of excellent reputation in his",
+      "reported_as": "report",
+      "notes": "Preliminaries only, written before the fight; the result is in article 399."
+    }
+  ],
+  "notes": "The weight paragraph is garbled and does not clearly say whether it describes Allen or Mace; the hints assume Allen."
+}

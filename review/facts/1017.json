@@ -1,0 +1,10 @@
+{
+  "id": "1017",
+  "claims": [
+    {"kind": "death", "statement": "Tom Allen (printed as 'Tom Adlen') is listed among the old pugilists who have died.", "excerpt": "heavy-\nxseignts: Joe Goss and Tom Adlen", "date": "", "date_precision": "unknown", "people": [], "places": [], "retrospective": false, "confidence": "medium"},
+    {"kind": "other", "statement": "Prof. Bill Clark, a St. Louis resident, was an intimate of Tom Allen.", "excerpt": "Sullivan. Hyer, Guss, Allen, MecCoole, YBaldvgn, the Irish Giant", "date": "", "date_precision": "unknown", "people": ["Bill Clark"], "places": ["St. Louis"], "retrospective": true, "confidence": "medium"}
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only in two lists: the death listing under 'Victims of the Grim Reaper' (name printed as 'Tom Adlen') and Clark's list of intimates ('Allen', presumed to be Tom Allen). No hints were given."
+}

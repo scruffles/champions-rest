@@ -1,0 +1,19 @@
+{
+  "id": "758",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen placed a boxing ring in his saloon, joining a popular craze.",
+      "excerpt": "TOM ALLEN has joined the popular craze and placed a ring 1n his saloon.",
+      "date": "1888-05",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only item about Allen in the column; the rest concerns other men. Date is the paper's week, not a stated day."
+}

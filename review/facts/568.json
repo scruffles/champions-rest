@@ -1,0 +1,65 @@
+{
+  "id": "568",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Joe Goss was matched to fight Tom Allen on September 7, 1876, for a $5,000 purse, within a hundred miles of Cincinnati, probably in Kentucky.",
+      "excerpt": "fight Tom Allen on the 7th of September for a",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss about nine years before 1876, and the fight was declared a draw.",
+      "excerpt": "I saw him fight Allen nine years ago; I think I may say",
+      "date": "1867",
+      "date_precision": "approx",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Sam French",
+      "text": "He couldn't. Allen was so badly beaten when it occurred that he would not have been able to come to time two rounds more.",
+      "topic": "why Allen did not beat Goss in the earlier fight"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "within a hundred miles of Cincinnati, probably in Kentucky",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$5,000 purse",
+      "rules": "",
+      "excerpt": "fight Tom Allen on the 7th of September for a",
+      "reported_as": "report",
+      "notes": "Match for September 7, 1876; no result in this article."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1867",
+      "date_precision": "approx",
+      "place": "",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "I saw him fight Allen nine years ago; I think I may say",
+      "reported_as": "recollection",
+      "notes": "Declared a draw after Goss dislocated his shoulder on a ring stake and fought one-armed for twenty-three minutes (per Sam French). Date worked out from nine years before 1876."
+    }
+  ],
+  "notes": "Sam French is interviewed by the Pittsburg Leader; Allen's record is given second-hand."
+}

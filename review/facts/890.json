@@ -1,0 +1,120 @@
+{
+  "id": "890",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen is listed as the next champion after Mike McCoole.",
+      "excerpt": "Tom Allen, the next champion, beat Mike McCoole in seven rounds",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in seven rounds, lasting twenty minutes, near this city in 1873, for a $2000 stake.",
+      "excerpt": "Tom Allen, the next champion, beat Mike McCoole in seven rounds—-twenty minutes—",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": ["near this city"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Charley Gallagher in 1873 for a $2000 stake.",
+      "excerpt": "when the stakes were $2000. Allen won the same amount by de-",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Jem Mace beat Tom Allen in ten rounds at New Orleans in 1871 for a $5000 stake.",
+      "excerpt": "Mace whipped Tom Allen for $5000 in 1871,",
+      "date": "1871",
+      "date_precision": "year",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Joe Goss beat Tom Allen on a foul in Kentucky in 1876, after twenty-one rounds, taking the championship and a $5000 stake.",
+      "excerpt": "Joe Goss wrested the championship and $5000 from -Allen in 1876, by winning on a foulin Ken-",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873",
+      "date_precision": "year",
+      "place": "near this city",
+      "result": "win",
+      "rounds": "7",
+      "duration": "20 minutes",
+      "stakes": "$2000",
+      "rules": "",
+      "excerpt": "Tom Allen, the next champion, beat Mike McCoole in seven rounds—-twenty minutes—",
+      "reported_as": "record",
+      "notes": "'This city' is the paper's city; the text does not name it."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1873",
+      "date_precision": "year",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2000",
+      "rules": "",
+      "excerpt": "when the stakes were $2000. Allen won the same amount by de-",
+      "reported_as": "record",
+      "notes": "Name printed as 'Gallagner' (OCR)."
+    },
+    {
+      "opponent": "Jem Mace",
+      "date": "1871",
+      "date_precision": "year",
+      "place": "New Orleans",
+      "result": "loss",
+      "rounds": "10",
+      "duration": "",
+      "stakes": "$5000",
+      "rules": "",
+      "excerpt": "Mace whipped Tom Allen for $5000 in 1871,",
+      "reported_as": "record",
+      "notes": "Place printed as 'New Crleans' (OCR). Name given as 'Mace' in the text; Jem Mace is named elsewhere in the article."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "1876",
+      "date_precision": "year",
+      "place": "Kentucky",
+      "result": "loss",
+      "rounds": "21",
+      "duration": "",
+      "stakes": "$5000",
+      "rules": "",
+      "excerpt": "Joe Goss wrested the championship and $5000 from -Allen in 1876, by winning on a foulin Ken-",
+      "reported_as": "record",
+      "notes": "Goss won on a foul after twenty-one rounds, so the result is a loss for Allen by foul. Text says 'Ken-' 'tucky' (line break)."
+    }
+  ],
+  "notes": "A historical summary of prize-fight stakes. Only Allen's bouts are recorded. Allen's saloon and other mentions are not in this article. The Allen entries say 'near this city' with no city named."
+}

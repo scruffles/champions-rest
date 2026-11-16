@@ -1,0 +1,19 @@
+{
+  "id": "810",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Ryan, the late sporting printer, sparred with Tom Allen, as Macon recalls.",
+      "excerpt": "with Joe Coburn, Tom Allienand Jem Mace,\nand make a rattling good showing with them,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tom Ryan", "Joe Coburn", "Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Recollection by Macon of sparring sessions, not dated. The text prints 'Tom Allien'."
+}

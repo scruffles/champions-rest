@@ -1,0 +1,58 @@
+{
+  "id": "545",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss challenged Tom Allen, 'Champion of America', to fight under London prize ring rules for $500 to $5,000 a side and the championship of the world.",
+      "excerpt": "according to the rules of the London prize ring, for any amount of money ftom $500 to) $5,000 a side and the Chasaplonstia of the world.",
+      "date": "1876-04",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss sent $500 to Eph Holland of Cincinnati as a deposit for the match, to show he meant business.",
+      "excerpt": "To show that I inean business, I have this day forwanted to Mr. Eph Holland.",
+      "date": "1876-04",
+      "date_precision": "month",
+      "people": ["Joe Goss", "Eph Holland"],
+      "places": ["Cincinnati, Ohio"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen had repeatedly said he would never deposit money with an Eastern stakeholder, claiming foul play by certain New York parties, and wanted a Western stakeholder and a Western place for the match.",
+      "excerpt": "Tom has also repeatedly stated that he would never deposit any money in the hands of an Eastern stakeholder",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen had personal altercations with a New York paper (printed as 'Nope') and with Wilkes' Spirit of the Times, which refused to print Goss's challenge to him.",
+      "excerpt": "Allen has had some personal altercations both with the New York Nope and MFilkes' Spirit of the Times",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Joe Goss",
+      "text": "To show that I inean business, I have this day forwanted to Mr. Eph Holland.",
+      "topic": "deposit to show he means business"
+    }
+  ],
+  "fights": [],
+  "notes": "The challenge letter's date prints as 'April M4, 1876' (OCR); only the month is given. The hint's 'Clipper' is not in the text; the paper is printed as 'Nope'. The 'Cincinnati Enquirer of yesterday' is 1876-04-28. Goss's own fight record is not about Allen except the 1867 draw."
+}

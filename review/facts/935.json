@@ -1,0 +1,41 @@
+{
+  "id": "935",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place was at 619 Market street, St. Louis (printed as 'G19 Market street').",
+      "excerpt": "Tom Allen, retired champion pvusilist of the world, G19 Market street.",
+      "date": "1896-06-18",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["619 Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised a free concert every evening at his place.",
+      "excerpt": "Free concert. every evening. Dest of singers only ¢ngeged_here.",
+      "date": "1896-06-18",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["619 Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as a retired champion pugilist of the world.",
+      "excerpt": "Tom Allen, retired champion pvusilist of the world, G19 Market street.",
+      "date": "1896-06-18",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. The rest of the page (races, pills) is not about Allen. The address is garbled as 'G19'."
+}

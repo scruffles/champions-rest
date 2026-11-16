@@ -1,0 +1,30 @@
+{
+  "id": "791",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was billed as retired champion pugilist of the world (the text is garbled; printed as 'pugillst ot').",
+      "excerpt": "ToM ALLEN, retired, champion pugillst ot\nthe world, 619 Murket street.",
+      "date": "1890-09-06",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's place at 619 Market Street (printed as 'Murket street') offered a free concert every evening, with the best singers engaged.",
+      "excerpt": "619 Murket street. -Froe conceri\nevery evening. The best of singers only en.",
+      "date": "1890-09-06",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Garbled advertisement in Sporting Notes; only the address and concert are readable."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "837",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen accompanied Charley Mitchell into the ring at the Olympic Club, New Orleans, with Frank Slavin and Pat Allen, before Mitchell's sparring bout.",
+      "excerpt": "Mitche!! was accompanied by Frank Slavin,\nTom Allen and Pat Allen.",
+      "date": "1892-03-02",
+      "date_precision": "day",
+      "people": ["Charley Mitchell", "Frank Slavin", "Pat Allen", "Arthur Upham"],
+      "places": ["Olympic Club, New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint said 'exhibition'; by the rules this is seconding another man's bout, so kind is other. The crowd reaction to Allen is not recorded."
+}

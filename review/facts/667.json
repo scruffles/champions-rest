@@ -1,0 +1,41 @@
+{
+  "id": "667",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was announced to make his first public appearance in America since returning from England at an exhibition in the Art Gallery of Madison Square Garden, New York.",
+      "excerpt": "first public appearance in this country since",
+      "date": "1882-11-27",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "Pop Whittaker"],
+      "places": ["Art Gallery of Madison Square Garden, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "John L. Sullivan said at the exhibition that he had not come to make a match with Tom Allen and would not be permitted to spar with him.",
+      "excerpt": "not come to make a match with bim, aad I will",
+      "date": "1882-11-27",
+      "date_precision": "day",
+      "people": ["John L. Sullivan"],
+      "places": ["Art Gallery of Madison Square Garden, New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and George Rooke were set to wind up the exhibition with a bout that was a tame affair, and the audience hissed after the first round.",
+      "excerpt": "Mr. Allen and Mr. Rooke, It was a tar ae",
+      "date": "1882-11-27",
+      "date_precision": "day",
+      "people": ["George Rooke"],
+      "places": ["Art Gallery of Madison Square Garden, New York"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "OCR is badly garbled in the Allen and Rooke passage; the claim rests on the printed headline 'Hisses the Englishman' and the wind-up line. Allen's faint-voice remarks are paraphrased by the paper, so not quoted."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "273",
+  "claims": [
+    {"kind": "birth", "statement": "Tom Allen was an English boxer of science and renown.", "excerpt": "Tom Allen,an English boxer of science and senown", "date": "", "date_precision": "unknown", "people": [], "places": ["England"], "retrospective": true, "confidence": "high"},
+    {"kind": "fight", "statement": "Tom Allen fought Joe Goss in Kentucky, and referee Eph Holland, said to be fixed, declared Goss the winner on a foul.", "excerpt": "he declared Goss the winner on a foul", "date": "1870", "date_precision": "approx", "people": ["Joe Goss", "Eph Holland"], "places": ["Kentucky"], "retrospective": true, "confidence": "medium"},
+    {"kind": "legal", "statement": "A sheriff and his deputies broke up the Allen-Goss fight, and the fighters fled to an adjoining county.", "excerpt": "a sheriff and his squad of deputies swooped down", "date": "1870", "date_precision": "approx", "people": [], "places": ["Kentucky", "adjoining county"], "retrospective": true, "confidence": "high"},
+    {"kind": "other", "statement": "Referee Eph Holland of Boston was said to have been fixed to give Goss the decision.", "excerpt": "was fixed to give Goss the cecision, and he declared Goss", "date": "1870", "date_precision": "approx", "people": ["Eph Holland", "Joe Goss"], "places": ["Boston"], "retrospective": true, "confidence": "medium"},
+    {"kind": "other", "statement": "Fred Watkins, Allen's backer, was said to have lost $1,000 to referee Eph Holland at the Goss fight.", "excerpt": "to the tune of $1,000 by Holland", "date": "1870", "date_precision": "approx", "people": ["Fred Watkins", "Eph Holland"], "places": ["Kentucky"], "retrospective": true, "confidence": "medium"},
+    {"kind": "fight", "statement": "Tom Allen fought Mike McCool, and the referee afterward called a foul against Allen.", "excerpt": "Allen also met big Mike McCool, a burly Irishman", "date": "1870", "date_precision": "approx", "people": ["Mike McCool"], "places": [], "retrospective": true, "confidence": "low"}
+  ],
+  "quotes": [],
+  "fights": [
+    {"opponent": "Joe Goss", "date": "1870", "date_precision": "approx", "place": "Kentucky", "result": "loss", "rounds": "", "duration": "", "stakes": "", "rules": "", "excerpt": "he declared Goss the winner on a foul", "reported_as": "recollection", "notes": "Paper says Allen had beaten Goss almost blind before the foul result; referee Eph Holland said to be fixed. Result is as the paper reports the referee's decision."},
+    {"opponent": "Mike McCool", "date": "1870", "date_precision": "approx", "place": "", "result": "loss", "rounds": "", "duration": "", "stakes": "", "rules": "", "excerpt": "Allen also met big Mike McCool, a burly Irishman", "reported_as": "recollection", "notes": "Text garbled. Paper says a foul was called against Allen and that McCool later acknowledged he was fairly beaten; the result is uncertain."}
+  ],
+  "notes": "Retrospective account from 1896; the 'robbed' framing is the paper's. Dates are approximate, from 'ten years later' than the early 1860s."
+}

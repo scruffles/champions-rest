@@ -1,0 +1,41 @@
+{
+  "id": "775",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Sheriff Jessie Coomes of Lincoln County, Mo., came to St. Louis seeking the arrest of Tom Allen and others on charges of prize fighting and abetting a fight.",
+      "excerpt": "men, viz.: Tom Kelly, Ed Kelly, Tom Allen,",
+      "date": "1889-09-05",
+      "date_precision": "day",
+      "people": ["Jessie Coomes", "Tom Kelly", "Ed Kelly", "Dan Daly", "Artie Flint", "Charley Woods"],
+      "places": ["Lincoln County, Missouri", "St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was a second or trainer at a prize fight in Lincoln County, Mo., about 1887, in which Dan Daly defeated Ed Kelly.",
+      "excerpt": "The principals in the fight were Ed Keily\nand Dan Daly, while the others were\nseconds and trainers.",
+      "date": "1887",
+      "date_precision": "approx",
+      "people": ["Dan Daly", "Ed Kelly"],
+      "places": ["Lincoln County, Missouri"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "The sheriff's arrest papers for Tom Allen and the others appeared to be defective, so he returned to Troy to have them perfected.",
+      "excerpt": "appeared to be defective, and, after\nconsultation with Chief Huebler, he decided",
+      "date": "1889-09-05",
+      "date_precision": "day",
+      "people": ["Jessie Coomes", "Chief Huebler"],
+      "places": ["Troy, Lincoln County, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The article is a request for arrests, not an arrest. Allen was a second or trainer, not a fighter, so no fight entry. The 1887 date is from 'two years ago' and is approximate. Dan Daly and Ed Kelly are the fighters; Ed Keily is printed in the OCR for Ed Kelly."
+}

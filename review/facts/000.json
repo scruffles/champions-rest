@@ -1,0 +1,19 @@
+{
+  "id": "000",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Bill Ryall were to give a sparring set-to at Prof. Henry's hall in St. Louis on Saturday night, for the benefit of the poor.",
+      "excerpt": "named Bill Ryall and Tom Allen, will have s “‘set-\nto” at Prof. Henry's hall on Saturday night, for the",
+      "date": "1868-02-29",
+      "date_precision": "day",
+      "people": ["Bill Ryall", "Mike McCoole"],
+      "places": ["Prof. Henry's hall, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Planned event. Date worked out from 'Saturday night' in a paper dated 1868-02-27 (Saturday is 1868-02-29). Text is garbled around the 'set-to'."
+}

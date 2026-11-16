@@ -1,0 +1,34 @@
+{
+  "id": "021",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "The Allen-Gallagher fight had recently taken place, and the St. Louis press had published accounts of it.",
+      "excerpt": "for having pub-\nlished accounts of the recent ALLEN-GALLA--\nGHER fight.",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "people": ["Charley Gallagher"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "for having pub-\nlished accounts of the recent ALLEN-GALLA--\nGHER fight.",
+      "reported_as": "report",
+      "notes": "The fight is only called recent here; its result and date are not given in this article."
+    }
+  ],
+  "notes": "The piece is mainly a press dispute; the Allen mention is the fight itself."
+}

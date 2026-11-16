@@ -1,0 +1,186 @@
+{
+  "id": "196",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was 21 years old when he started fighting, and 39 years old when he knocked out Charlie Davis for the British championship.",
+      "excerpt": "Allen was 21 years old when he started fighting; 39 years old when he knocked out",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charlie Davis"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The article says Tom Allen started his career as a fighter in 1880 (printed; this conflicts with starting at 21 in 1839 + 21 = 1860, so the year is uncertain).",
+      "excerpt": "Starting his career as a fighter in 1880 and partici in some of",
+      "date": "1880",
+      "date_precision": "year",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen fought on until 1878, when he won the championship of England, closing his career with the first championship bout in that country under Queensberry rules.",
+      "excerpt": "ractor until 1878, when he won the cham-\nPicnship of England, closing his career by",
+      "date": "1878",
+      "date_precision": "year",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen's fight with Joe Goss took place in late September 1867 on a stormy day.",
+      "excerpt": "The fight in question occurred in 1867 and was contested late in September on a stormy day.",
+      "date": "1867-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "After the 1867 fight, a mob attacked Tom Allen; he was shot in the hand and hit in the eye with a club.",
+      "excerpt": "in the subsequent attack by the mob he Was shot in the hand and was hit in the éye with a club.",
+      "date": "1867-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Jem Mace in Louisiana in 1870 for the championship of the world and a $2,600 side bet; his seconds threw up the sponge after ten rounds.",
+      "excerpt": "was in 1870, when He met Jem Mace in Louisiana for the championship of the world and a side bet of $2,600.",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Jem Mace"],
+      "places": ["Louisiana"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was badly punched in the body during the 1870 fight with Jem Mace.",
+      "excerpt": "Allen was badly punched in the body in the course of this fight, and",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Jem Mace"],
+      "places": ["Louisiana"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen knocked out Charlie Davis in five rounds in England in 1878 under Queensberry rules.",
+      "excerpt": "In 1878, Allen fought Charlie Davis in England under Queensberry_rules, putting him away in five rounds.",
+      "date": "1878",
+      "date_precision": "year",
+      "people": ["Charlie Davis"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCool in seven rounds on Bloody Island.",
+      "excerpt": "In one fight, he met Mike McCool on Bloody Island, winning easily in seven rounds.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCool"],
+      "places": ["Bloody Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen is now ill at his home on Market street.",
+      "excerpt": "now il] at his home on Market street, is a",
+      "date": "1903-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen's home, where he is ill, is on Market street.",
+      "excerpt": "Is Now Sick at His Abode on. Market Street.",
+      "date": "1903-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1867-09",
+      "date_precision": "month",
+      "place": "",
+      "result": "unknown",
+      "rounds": "37",
+      "duration": "one hour and fifty minutes",
+      "stakes": "$2,500 side bet",
+      "rules": "",
+      "excerpt": "after a battle of thitty-seven rounds, lasting one hour and fifty minutes,",
+      "reported_as": "recollection",
+      "notes": "Goss was clearly beaten when friends of Goss stormed the ring with revolvers; no result is given. Red Leary and Blinky Morgan burst into the ring with drawn revolvers."
+    },
+    {
+      "opponent": "Jem Mace",
+      "date": "1870",
+      "date_precision": "year",
+      "place": "Louisiana",
+      "result": "loss",
+      "rounds": "10",
+      "duration": "fifty minutes",
+      "stakes": "championship of the world and a side bet of $2,600",
+      "rules": "",
+      "excerpt": "was in 1870, when He met Jem Mace in Louisiana for the championship of the world and a side bet of $2,600.",
+      "reported_as": "recollection",
+      "notes": "His seconds threw up the sponge at the end of ten rounds. The $2,600 figure is as printed."
+    },
+    {
+      "opponent": "Charlie Davis",
+      "date": "1878",
+      "date_precision": "year",
+      "place": "England",
+      "result": "win",
+      "rounds": "5",
+      "duration": "",
+      "stakes": "British championship",
+      "rules": "Queensberry rules",
+      "excerpt": "In 1878, Allen fought Charlie Davis in England under Queensberry_rules, putting him away in five rounds.",
+      "reported_as": "recollection",
+      "notes": "The first championship fight in England under Queensberry rules."
+    },
+    {
+      "opponent": "Mike McCool",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Bloody Island",
+      "result": "win",
+      "rounds": "7",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "In one fight, he met Mike McCool on Bloody Island, winning easily in seven rounds.",
+      "reported_as": "recollection",
+      "notes": "Won easily."
+    }
+  ],
+  "notes": "Feature article that is mostly about other fighters (Tom Kelly, Corbett, Fitzsimmons, Maher, Choynski); only Allen claims are kept. The start year is printed as 1880 here, and the hint's 1860 is not in the text. The 1867 excerpt for the bout date does not name Goss; the name comes from the preceding paragraph ('the celebrated bout between Ailen and Joe Goss')."
+}

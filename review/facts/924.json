@@ -1,0 +1,30 @@
+{
+  "id": "924",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen, the ex-pugilist, kept a saloon on Market Street between Sixth and Seventh streets.",
+      "excerpt": "who keeps a saloon on Market street, between Sixth and Seventh streets",
+      "date": "1895-11-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, between Sixth and Seventh streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "At about 1 a.m. Tom Allen fired three shots into the air from the sidewalk outside his saloon to get rid of two quarrelsome men, and no policeman was near.",
+      "excerpt": "he went on the sidewalk and fired three shots into the air",
+      "date": "1895-11-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, between Sixth and Seventh streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Date is the morning of the paper's date ('this morning'). The two men are not named."
+}

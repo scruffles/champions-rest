@@ -1,0 +1,41 @@
+{
+  "id": "932",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen (printed as 'Tom ei') advertised his place at 619 Market street, St. Louis.",
+      "excerpt": "Tom ei, retired charmpion pugilist of the world. 619 Market street.",
+      "date": "1896-06-06",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["619 Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen (printed as 'Tom ei') advertised a free concert every evening at his place.",
+      "excerpt": "Free concert every evening. Only first-class singers engaged here.",
+      "date": "1896-06-06",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["619 Market street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen (printed as 'Tom ei') was advertised as a retired champion pugilist of the world.",
+      "excerpt": "Tom ei, retired charmpion pugilist of the world.",
+      "date": "1896-06-06",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. The name is printed as 'Tom ei'; read as Tom Allen from the address and wording."
+}

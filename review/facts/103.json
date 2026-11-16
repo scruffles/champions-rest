@@ -1,0 +1,85 @@
+{
+  "id": "103",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "A backer imported Tom Allen to America.",
+      "excerpt": "and he imported Tom Allen, who oncet",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "An old pugilist said Tom Allen had once been pretty good but was lately good for nothing.",
+      "excerpt": "Was pretty good, but who, lately, is good",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen was announced to meet Sullivan for $2,500 a side in the twenty-four-foot ring, but the match did not come off.",
+      "excerpt": "Sullivan in the twenty-four-foot squared circie for",
+      "date": "1882",
+      "date_precision": "approx",
+      "people": ["Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen's backer dropped the match when he saw how puffy and old Allen had become.",
+      "excerpt": "a puffy old man he had grown to be he didn’t want",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "At his benefit at the Garden in New York, Tom Allen wound up with George Rooke, who knocked him down twice wearing gloves as big as pillows.",
+      "excerpt": "with George Rooke, who KknuotKed him down twice",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["George Rooke"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen went west after the match fell through.",
+      "excerpt": "Well, Tom went west. Then the same feller what",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mitchell issued a challenge to meet Slade, Sullivan, Jem Mace, Joe Goss or Tom Allen for $5,000 to $10,000 a side; the men named did not reply.",
+      "excerpt": "Tom Allen for $5,000 to $10,000 a side.",
+      "date": "1883-03",
+      "date_precision": "approx",
+      "people": ["Mitchell", "Slade", "Sullivan", "Jem Mace", "Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Gossip from an unnamed old pugilist; Allen is mentioned only in passing. The hint's 1882 date for the benefit is not in the text, so it is left blank."
+}

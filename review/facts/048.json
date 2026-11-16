@@ -1,0 +1,30 @@
+{
+  "id": "048",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Jem Mace wrote from England that he would accept Tom Allen's challenge to fight for $1,000 to $5,000.",
+      "excerpt": "will accept the challenge of Tom Allen to tight for from",
+      "date": "1874-02",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": ["England"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Mace said Allen had to put up a forfeit to prove he meant business.",
+      "excerpt": "if Allen will pui up a for- feit to prove that he means business",
+      "date": "1874-02",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The dispatch is datelined Feb. 25 but the paper is dated Feb. 23, so the date is approximate. The paper's text reads 'tight' and 'pui' for 'fight' and 'put'; kept as printed in the excerpts."
+}

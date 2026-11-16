@@ -1,0 +1,58 @@
+{
+  "id": "025",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen announced he would fight any man in America for $500 to $10,000, in a square stand-up fight under London prize ring rules.",
+      "excerpt": "Tom Alten announces his readiness to fight any\nman in America for trom $500 to $10,000",
+      "date": "1869-12-01",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered to meet Joe Coburn in the ring anywhere in Wyoming Territory, whom he called the leading scientific pugilist in the United States.",
+      "excerpt": "He wil! moet Joe\nCoburn in the ring, (anywhere in Wyoming Territory)",
+      "date": "1869-12-01",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": ["Wyoming Territory"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Mike McCoole was very good as a private citizen but stood No. 3 as a fighter, and had a bad crowd of backers.",
+      "excerpt": "Asa private citizen he is véry good, but as\n# fightest be stands No. 3",
+      "date": "1869-12-01",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Billy Carroll was authorized to make all arrangements for Tom Allen's fights.",
+      "excerpt": "Billy Carroll is authorized to make all ne-\n\ncessary arrangements for a fight.",
+      "date": "1869-12-01",
+      "date_precision": "day",
+      "people": ["Billy Carroll"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "a square stand up fight according to the\nrules of the London prize ring.",
+      "topic": "terms of his challenge"
+    }
+  ],
+  "fights": [],
+  "notes": "The deposit requirement is printed as 'not less than $140' (hint said $100); the paper named is garbled, so it is not recorded as a claim."
+}

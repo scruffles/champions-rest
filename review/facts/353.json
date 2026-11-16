@@ -1,0 +1,19 @@
+{
+  "id": "353",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Patsey Reardon published a challenge in a St. Louis paper to fight Tom Allen.",
+      "excerpt": "through a St. Louis paper, published a challenge to fight Tom Al-",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "people": ["Patsey Reardon"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Reardon's sparring exhibition in Jacksonville is his own, not Allen's, so left out. Date is from 'a few since' in an Aug 1869 paper. Text is garbled around the challenge; the hint's wording is supported."
+}

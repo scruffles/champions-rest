@@ -1,0 +1,418 @@
+{
+ "bucket": "career-undated-p2",
+ "kind": "career",
+ "undated": true,
+ "claims": [
+  {
+   "cid": "248.c3",
+   "date": "",
+   "published": "1935-08-20",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Titles were nebulous in those days, and Tom Allen had only a thin claim to the heavyweight title."
+  },
+  {
+   "cid": "250.c3",
+   "date": "",
+   "published": "1936-02-13",
+   "retro": true,
+   "statement": "Tom Allen was a former champion of the world."
+  },
+  {
+   "cid": "252.c6",
+   "date": "",
+   "published": "1936-12-13",
+   "retro": true,
+   "conf": "medium",
+   "statement": "It has been contended that Tom Allen was not universally recognized as champion."
+  },
+  {
+   "cid": "252.c7",
+   "date": "",
+   "published": "1936-12-13",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen seemed to have the best claim to the title of any man at that time."
+  },
+  {
+   "cid": "253.c3",
+   "date": "",
+   "published": "1937-10-29",
+   "retro": true,
+   "statement": "Tom Allen was the only St. Louis fighter living here to claim a world title and gain partial recognition as champion."
+  },
+  {
+   "cid": "259.c2",
+   "date": "",
+   "published": "1903-04-10",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen was described as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "259.c3",
+   "date": "",
+   "published": "1903-04-10",
+   "retro": true,
+   "statement": "Tom Allen figured in 14 prize ring matches in England and ten in America."
+  },
+  {
+   "cid": "262.c7",
+   "date": "",
+   "published": "1978",
+   "retro": true,
+   "statement": "Allen's claim to the title stood without dispute until he lost on a foul to Joe Goss."
+  },
+  {
+   "cid": "262.c23",
+   "date": "",
+   "published": "1978",
+   "retro": true,
+   "statement": "Allen lost interest in boxing and retired after the Marquis of Queensberry refined the rules."
+  },
+  {
+   "cid": "263.c6",
+   "date": "",
+   "published": "1978-04-04",
+   "retro": true,
+   "statement": "Tom Allen lost interest in boxing and retired when the Marquis of Queensberry refined the rules of the game."
+  },
+  {
+   "cid": "264.c11",
+   "date": "",
+   "published": "1875-05-10",
+   "retro": true,
+   "statement": "Tom Allen ran away from home at seventeen, enlisted in the 8th Hussars and served through the Indian mutiny under General Havelock."
+  },
+  {
+   "cid": "264.c12",
+   "date": "",
+   "published": "1875-05-10",
+   "retro": true,
+   "statement": "Tom Allen said he had fought twenty-one times and won eighteen battles."
+  },
+  {
+   "cid": "264.c21",
+   "date": "",
+   "published": "1875-05-10",
+   "retro": true,
+   "statement": "Tom Allen said he had fought Mike McCoole so often that he knew every break McCoole made."
+  },
+  {
+   "cid": "267.c1",
+   "date": "",
+   "published": "1865-01-21",
+   "statement": "The Illustrated Sporting News in January 1865 identified Tom Allen as the Birmingham pugilist."
+  },
+  {
+   "cid": "274.c4",
+   "date": "",
+   "published": "1896-12-11",
+   "retro": true,
+   "statement": "Tom Allen was an English boxer of science and renown."
+  },
+  {
+   "cid": "281.c2",
+   "date": "",
+   "published": "1910-05-08",
+   "retro": true,
+   "conf": "low",
+   "statement": "Before fighting Jem Mace, Tom Allen had fought a dozen bouts in England (printed as 'n dozen') and four in America."
+  },
+  {
+   "cid": "292.c4",
+   "date": "",
+   "published": "1867-04-08",
+   "retro": true,
+   "conf": "low",
+   "statement": "Before 1867 Tom Allen fought in England, including bouts against Morris Connor, Jack Gould and Bingey Rose."
+  },
+  {
+   "cid": "303.c4",
+   "date": "",
+   "published": "1869-01-13",
+   "retro": true,
+   "statement": "In England Tom Allen had established a reputation as a hard hitter and a man of excellent science."
+  },
+  {
+   "cid": "348.c5",
+   "date": "",
+   "published": "1869-08-15",
+   "retro": true,
+   "statement": "Tom Allen has been in seven or eight fights in England and this country."
+  },
+  {
+   "cid": "348.c6",
+   "date": "",
+   "published": "1869-08-15",
+   "conf": "low",
+   "statement": "Tom Allen is described as a gymnast by trade and a good workman at it (printed as 'gymnast')."
+  },
+  {
+   "cid": "349.c6",
+   "date": "",
+   "published": "1869-08-16",
+   "retro": true,
+   "statement": "Tom Allen has been in seven or eight fights in England and this country."
+  },
+  {
+   "cid": "349.c7",
+   "date": "",
+   "published": "1869-08-16",
+   "conf": "medium",
+   "statement": "Tom Allen was a gunsmith by trade and a good workman at it."
+  },
+  {
+   "cid": "397.c3",
+   "date": "",
+   "published": "1870-04-30",
+   "statement": "Eugene Jaccard & Co. of St. Louis made Tom Allen's champion belt and McLean Porter engraved it."
+  },
+  {
+   "cid": "397.c4",
+   "date": "",
+   "published": "1870-04-30",
+   "conf": "medium",
+   "statement": "Tom Allen's champion belt cost $1,000."
+  },
+  {
+   "cid": "426.c2",
+   "date": "",
+   "published": "1870-11-08",
+   "conf": "medium",
+   "statement": "Tom Allen, the champion, has permanently retired from the ring and will attend to his saloon business."
+  },
+  {
+   "cid": "427.c1",
+   "date": "",
+   "published": "1870-11-08",
+   "statement": "Tom Allen had answered every challenge according to the London ring rules."
+  },
+  {
+   "cid": "445.c6",
+   "date": "",
+   "published": "1872-01-08",
+   "retro": true,
+   "statement": "Tom Allen said he had appeared seventeen times in the ring."
+  },
+  {
+   "cid": "488.c7",
+   "date": "",
+   "published": "1873-10-25",
+   "retro": true,
+   "statement": "Tom Allen retired from the ring after his fight with Mace, having made some money."
+  },
+  {
+   "cid": "488.c10",
+   "date": "",
+   "published": "1873-10-25",
+   "retro": true,
+   "statement": "Tom Allen said he served as a soldier under Sir Henry Havelock through the Sepoy mutiny."
+  },
+  {
+   "cid": "499.c6",
+   "date": "",
+   "published": "1873-11-29",
+   "conf": "low",
+   "statement": "The Globe-Democrat called Tom Allen the light weight champion."
+  },
+  {
+   "cid": "514.c1",
+   "date": "",
+   "published": "1875-03-17",
+   "statement": "Tom Allen had denied a report that he was about to make a match with George Rooke, despite his earlier announced retirement from the ring."
+  },
+  {
+   "cid": "514.c7",
+   "date": "",
+   "published": "1875-03-17",
+   "retro": true,
+   "statement": "Tom Allen has fought only three long, drawn-out fights in his life, all of them in England several years earlier."
+  },
+  {
+   "cid": "516.c6",
+   "date": "",
+   "published": "1875-03-20",
+   "statement": "Tom Allen is described as the belted pugilist of America."
+  },
+  {
+   "cid": "517.c1",
+   "date": "",
+   "published": "1875-03-23",
+   "retro": true,
+   "statement": "Tom Allen said he had fought nineteen battles in the ring and had fought for more money than any man living."
+  },
+  {
+   "cid": "517.c2",
+   "date": "",
+   "published": "1875-03-23",
+   "retro": true,
+   "statement": "Tom Allen said he stood unrivaled as champion of the middle weights of England."
+  },
+  {
+   "cid": "541.c3",
+   "date": "",
+   "published": "1876-04-11",
+   "retro": true,
+   "statement": "Tom Allen had taken part in no less than nine encounters since his 1867 fight with Joe Goss."
+  },
+  {
+   "cid": "561.c6",
+   "date": "",
+   "published": "1876-07-16",
+   "statement": "Tom Allen wrote in a letter that he had begun work in earnest and was never in better trim in his life."
+  },
+  {
+   "cid": "562.c8",
+   "date": "",
+   "published": "1876-07-17",
+   "statement": "Tom Allen was recognized as the champion of America."
+  },
+  {
+   "cid": "577.c28",
+   "date": "",
+   "published": "1876-09-08",
+   "retro": true,
+   "statement": "Tom Allen learned gun-making and then entered the army during the Crimean War."
+  },
+  {
+   "cid": "628.c1",
+   "date": "",
+   "published": "1879-05-13",
+   "statement": "Tom Allen had all along been the recognized champion of America."
+  },
+  {
+   "cid": "645.c5",
+   "date": "",
+   "published": "1882-01-28",
+   "retro": true,
+   "statement": "Tom Allen is described as the ex-champion of America."
+  },
+  {
+   "cid": "658.c4",
+   "date": "",
+   "published": "1882-10-31",
+   "retro": true,
+   "statement": "The paper described Tom Allen as the ex-champion of America."
+  },
+  {
+   "cid": "682.c2",
+   "date": "",
+   "published": "1883-01-26",
+   "conf": "low",
+   "statement": "W. E. Harding said that when the Police Gazette brought Tom Allen out from Boston he was a wreck (printed as \"tot wreck\")."
+  },
+  {
+   "cid": "686.c2",
+   "date": "",
+   "published": "1883-02-18",
+   "statement": "The paper described Tom Allen as ex-champion of the world."
+  },
+  {
+   "cid": "690.c2",
+   "date": "",
+   "published": "1883-02-25",
+   "statement": "The paper described Tom Allen as ex-champion of the world."
+  },
+  {
+   "cid": "693.c2",
+   "date": "",
+   "published": "1883-03-30",
+   "statement": "Tom Allen was described as the retired champion of the world."
+  },
+  {
+   "cid": "694.c2",
+   "date": "",
+   "published": "1883-04-09",
+   "statement": "Tom Allen was described as an ex-pugilist."
+  },
+  {
+   "cid": "695.c2",
+   "date": "",
+   "published": "1883-04-18",
+   "statement": "Tom Allen was called the ex-champion."
+  },
+  {
+   "cid": "697.c2",
+   "date": "",
+   "published": "1883-06-12",
+   "statement": "Tom Allen was described as the retired champion of the world."
+  },
+  {
+   "cid": "704.c10",
+   "date": "",
+   "published": "1884-02-10",
+   "statement": "The Globe-Democrat called Tom Allen the ex-champion of America."
+  },
+  {
+   "cid": "707.c3",
+   "date": "",
+   "published": "1884-06-11",
+   "conf": "medium",
+   "statement": "Tom Allen advertised himself as the retired Champion of the World and the hero of twenty-four prize battles."
+  },
+  {
+   "cid": "725.c5",
+   "date": "",
+   "published": "1884-12-06",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen made a lot of money in his prime and lost it as fast."
+  },
+  {
+   "cid": "747.c1",
+   "date": "",
+   "published": "1888-01-07",
+   "retro": true,
+   "statement": "The article lists Tom Allen among the nineteen champions of the American prize ring."
+  },
+  {
+   "cid": "751.c1",
+   "date": "",
+   "published": "1888-03-15",
+   "retro": true,
+   "statement": "The Post-Dispatch states that Tom Allen was never champion of the prize ring in England."
+  },
+  {
+   "cid": "751.c2",
+   "date": "",
+   "published": "1888-03-15",
+   "retro": true,
+   "statement": "Tom Allen won a silver cup for the championship at boxing in England and still held it in 1888."
+  },
+  {
+   "cid": "756.c2",
+   "date": "",
+   "published": "1888-04-19",
+   "conf": "medium",
+   "statement": "The Globe-Democrat called Tom Allen the ex-champion."
+  },
+  {
+   "cid": "769.c1",
+   "date": "",
+   "published": "1889-06-23",
+   "retro": true,
+   "statement": "Tom Allen was named among old-time pugilists who repeatedly showed great endurance in long fights."
+  },
+  {
+   "cid": "800.c1",
+   "date": "",
+   "published": "1890-11-27",
+   "retro": true,
+   "conf": "low",
+   "statement": "Ben Hogan once measured muscle and science with men such as Tom Allen for the championship of America."
+  },
+  {
+   "cid": "813.c1",
+   "date": "",
+   "published": "1891-01-25",
+   "statement": "The Globe-Democrat called Tom Allen ex-champion in a January 1891 sporting column about a proposed Sioux boxer."
+  },
+  {
+   "cid": "838.c1",
+   "date": "",
+   "published": "1892-03-05",
+   "statement": "Tom Allen is described as the veteran ex-champion heavy-weight of America."
+  }
+ ]
+}

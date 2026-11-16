@@ -1,0 +1,25 @@
+{
+  "id": "126",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen is described as the ex-champion.",
+      "excerpt": "said Tom Allen, the ex-champion, when he heard the news,",
+      "date": "1888-03-11",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "If Sullivan could have got one good crack at Mitchell while fresh the fight would have stopped in the second round.",
+      "topic": "Mitchell's dodging of Sullivan in their fight"
+    }
+  ],
+  "fights": [],
+  "notes": "Allen gives his opinion of the Mitchell-Sullivan fight; no fact about Allen's own fights."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "367",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher fought Tom Allen in a late fight in August 1869.",
+      "excerpt": "the day he fought Tom Allen. Iwas out to see him fre-",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Looney said Charley Gallagher looked miserable and weak on the day he fought Allen, and his physicians could not explain it.",
+      "excerpt": "I never ssw a man enter the in a3 pocr and miserable condition aswas Charles her the day he fought Tom Allen.",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "After the fight in Kansas City, a tapeworm sixty feet long was passed by Charley Gallagher, according to Looney.",
+      "excerpt": "tape worm, sixty feetin length, and then only broke; the remainder is stillin him.",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "people": ["Charley Gallagher"],
+      "places": ["Kansas City"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Jack Looney offered to back Charley Gallagher against Tom Allen for any amount once Gallagher recovered.",
+      "excerpt": "I am prepared to back him against Tom Al-len or any other manin America, barring O’Baldwin,",
+      "date": "1869-09-10",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08",
+      "date_precision": "approx",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the day he fought Tom Allen. Iwas out to see him fre-",
+      "reported_as": "recollection",
+      "notes": "Result not stated in this letter. Written 1869-09-10 by Jack Looney, a backer of Gallagher, about his condition."
+    }
+  ],
+  "notes": "Letter from Jack Looney, a backer of Gallagher, printed in the Clipper and quoted here. The health claims are one side's account. The hint that Looney was Gallagher's umpire is not in the text and was dropped."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "605",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A prize fight was arranged between Tom Allen and Charley Davis at catch weights under the new London prize-ring rules, for £200 and the championship.",
+      "excerpt": "A prgze-fiznt vas been arranged between\nfom Aijen, sue Champion of America, and",
+      "date": "1878-03",
+      "date_precision": "approx",
+      "people": ["Charley Davis"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was described as the Champion of America.",
+      "excerpt": "fom Aijen, sue Champion of America, and\nJuarley Davis, who has been looked upon as",
+      "date": "1878-03",
+      "date_precision": "approx",
+      "people": ["Charley Davis"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen's backers won heavily on his victory over the giant Gilbert Tompkins.",
+      "excerpt": "Who won heavily on bis conguering\nLue giant, Gilbert Tompkins",
+      "date": "1877-10",
+      "date_precision": "approx",
+      "people": ["Gilbert Tompkins"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Gilbert Tompkins",
+      "date": "1877-10",
+      "date_precision": "approx",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Who won heavily on bis conguering\nLue giant, Gilbert Tompkins",
+      "reported_as": "report",
+      "notes": "Mentioned in passing in a betting report; details come from 600 and 601."
+    }
+  ],
+  "notes": "The Gilbert Tompkins fight is recalled only in passing. The fight with Davis is a plan, not a result. Allen's name is badly garbled in the OCR (fom Aijen)."
+}

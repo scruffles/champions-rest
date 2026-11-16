@@ -1,0 +1,19 @@
+{
+  "id": "972",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Billy Madden and George Siler toured the United States in 1872 with Tom Allen, Joe Goss and Joe Coburn, as Madden recalled.",
+      "excerpt": "We were with Tom Allen, Jor Goss, Joe Coburn and of hs of that",
+      "date": "1872",
+      "date_precision": "year",
+      "people": ["Billy Madden", "George Siler", "Joe Goss", "Joe Coburn"],
+      "places": ["United States"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only as one of the group in Madden's recollection. No bout is described."
+}

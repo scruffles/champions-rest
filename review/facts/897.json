@@ -1,0 +1,30 @@
+{
+  "id": "897",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was among the few St. Louis sporting men who had left for the Corbett-Mitchell fight at Jacksonville.",
+      "excerpt": "The only lovers of fistic events who have left up to date are Marshall MeDonald,, Fred Watkins, Tom Ailen",
+      "date": "1894-01",
+      "date_precision": "month",
+      "people": ["Corbett", "Mitchell"],
+      "places": ["Jacksonville"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen wrote in a letter that Mitchell was fit to fight for a kingdom, as reported by Alderman Cronin.",
+      "excerpt": "now that I know that Charlie is fit'to fight for a kingdom, and that is what Tom Allen said in his last letter",
+      "date": "1894-01",
+      "date_precision": "approx",
+      "people": ["Mitchell", "Cronin"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Cronin's ride and betting are not about Allen. The Matagorda heat-race story is unrelated. The Allen letter is only Cronin's report of it."
+}

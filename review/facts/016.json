@@ -1,0 +1,103 @@
+{
+  "id": "016",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's Concert Saloon on Fifth Street, between O'Fallon and Biddle, was almost uncomfortably full on the night of 14 June 1869, a 'Free and Easy' night.",
+      "excerpt": "Concert Saloon on Fifth street, between O'Fallon h, and Biddie, was comfortably",
+      "date": "1869-06-14",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Fifth Street between O'Fallon and Biddle"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "A photograph of Tom Allen hung over the array of decanters in his concert saloon.",
+      "excerpt": "Over the array of decanters and lemons, high up «among the fiy traps of the ceiling, hung 2 good photograph of Allen",
+      "date": "1869-06-14",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Fifth Street between O'Fallon and Biddle"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "The paper says Tom Allen was supposed to be in Venice at the time of writing, joking that he was waiting for a steam gondola.",
+      "excerpt": "In plain words, Allen is supposed to be at the present writing in Venice, waiting for a steam gondola",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Venice"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Carroll, who kept a dramatic saloon near the Varieties, was understood to have been the go-between through whom Tom Allen and Mike McCoole arranged their match.",
+      "excerpt": "to have been the go-between in the present magch—or, in other words, the intermediate party",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Carroll", "Mike McCoole"],
+      "places": ["near the Varieties"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was due to fight Mike McCoole on 15 June 1869; a bettor offered $1,000 to $700 that McCoole would whip Allen in seven and a half minutes.",
+      "excerpt": "to seven hundred that McCoole would whip Allen in exactly seven minutes and a half.",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher struck Tom Allen under the left ear in their earlier fight.",
+      "excerpt": "He Quiz Tom Allen under the left ear, a tap which",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "to seven hundred that McCoole would whip Allen in exactly seven minutes and a half.",
+      "reported_as": "report",
+      "notes": "Written the night before; the result is not in this article. Date taken from 'the eve of battle' in a paper dated 15 Jun 1869."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "He Quiz Tom Allen under the left ear, a tap which",
+      "reported_as": "report",
+      "notes": "Earlier fight mentioned in passing; its date is not given here."
+    }
+  ],
+  "notes": "The paper's joke about Venice is treated as a low-confidence claim."
+}

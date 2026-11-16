@@ -1,0 +1,170 @@
+{
+  "bucket": "challenge-1869-p2",
+  "facts": [
+    {
+      "fact": "Tom Allen said he would meet Charley Gallagher at any place Gallagher named to draw up articles, if Gallagher covered a $200 deposit.",
+      "date": "1869-07-08",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "017.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen challenged Charley Gallagher to fight for $500, apart from his McCoole match, and deposited $100 with his backer Billy Carroll for Gallagher to cover.",
+      "date": "1869-07-11",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "339.c3",
+        "339.c4"
+      ]
+    },
+    {
+      "fact": "Tom Allen and Charley Gallagher made a match for $500 a side and the excursion money, to be fought on August 17 within fifty miles of St. Louis.",
+      "date": "1869-07-13",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "354.c16"
+      ]
+    },
+    {
+      "fact": "Ben Hogan arrived in St. Louis and said he was willing to fight Tom Allen.",
+      "date": "1869-08",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "347.c1"
+      ]
+    },
+    {
+      "fact": "Patsey Reardon published a challenge in a St. Louis paper to fight Tom Allen.",
+      "date": "1869-08",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "353.c1"
+      ]
+    },
+    {
+      "fact": "Jim Coyne challenged Ben Hogan to fight four weeks after the Allen and Gallagher fight, for $500 or $1,000 a side.",
+      "date": "1869-08-07",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "345.c1"
+      ]
+    },
+    {
+      "fact": "After Allen and Gallagher's fight, Gallagher proposed a return fight for the same stakes plus about $1,000 a side, and Tom Allen accepted it around August 20, 1869; Allen was to name a place within fifty miles of Cincinnati and meet Gallagher on Saturday afternoon to draw up articles.",
+      "date": "1869-08-20",
+      "seed": "",
+      "conflict": "stakes added: $1,000 a side (356.c4, 359.c5) vs $1,900 (360.c1, low, printed as $1,900); Sherman Thurston (359.c6, medium) said Allen had to fight McCoole before any other engagement, while 359.c5 says Allen accepted; 363.c5 (medium) says Allen was already under engagement to McCoole when Gallagher asked for a meeting; 356.c4 is dated Aug 18 and 360.c3 says the meeting was on Saturday Aug 21",
+      "claims": [
+        "356.c4",
+        "359.c5",
+        "359.c6",
+        "360.c1",
+        "360.c2",
+        "360.c3",
+        "363.c5"
+      ]
+    },
+    {
+      "fact": "Joe Wormald wrote to Tom Allen asking him to arrange the preliminaries of a match with Ned O'Baldwin for $5,000 a side.",
+      "date": "1869-08-20",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "358.c1"
+      ]
+    },
+    {
+      "fact": "Jack Looney offered to back Charley Gallagher against Tom Allen for any amount once Gallagher recovered.",
+      "date": "1869-09-10",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "367.c4"
+      ]
+    },
+    {
+      "fact": "A deposit for the Mike McCoole and Tom Allen match was put up at Allen's saloon on the night of October 9, 1869.",
+      "date": "1869-10-09",
+      "seed": "",
+      "conflict": "stake per side: $599 (369.c1, medium, printed as $599, and said to be a deposit that was to be made) vs $500 (370.c1, medium, said to have been put up)",
+      "claims": [
+        "369.c1",
+        "370.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen and Mike McCoole negotiated a match for the championship of America, set for November 10, 1869, and it did not take place.",
+      "date": "1869-11-10",
+      "seed": "",
+      "conflict": "stakes: $5,000 (094.c6, 374.c3) vs excursion money (024.c6, 374.c4); cause: match fell through over a final stakeholder (094.c6, retrospective) vs McCoole refusing anything but $5,000 stakes (374.c3); 356.c5 (medium) puts an expected November fight in a claim published Aug 19, 1869, before the October deposit, and calls it doubtful",
+      "claims": [
+        "024.c6",
+        "356.c5",
+        "374.c3",
+        "374.c4",
+        "094.c6"
+      ]
+    },
+    {
+      "fact": "Tom Allen announced he would fight any man in America for $500 to $10,000 in a square stand-up fight under London prize ring rules.",
+      "date": "1869-12-01",
+      "seed": "",
+      "conflict": "scope: any man in America (025.c1) vs any man in the world (026.c2, medium); 026.c2 also says Allen wanted time for preliminaries",
+      "claims": [
+        "025.c1",
+        "026.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen offered to meet Joe Coburn in the ring anywhere in Wyoming Territory, whom he called the leading scientific pugilist in the United States.",
+      "date": "1869-12-01",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "025.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen, through Billy Carroll, offered to fight Jem Mace for $2,500 a side, six months from signing articles, and in late December forwarded forfeit money accepting Mace's challenge.",
+      "date": "1869-12-16",
+      "seed": "",
+      "conflict": "stake: a telegram reported Allen matched with Mace for $5,000 a side, which Allen's backers denied (026.c1, medium, dated Dec 10) vs $2,500 (377.c2); forfeit: $500 (377.c3, low, printed as $5€0) vs $690 (379.c4, low, printed as $690); place: Pittsburgh (377.c3, low) vs New York (379.c2, 286.c1), with Allen not inclined to go to New York until he knew Mace's terms (286.c1, Dec 28)",
+      "claims": [
+        "026.c1",
+        "377.c2",
+        "377.c3",
+        "286.c1",
+        "379.c4"
+      ]
+    },
+    {
+      "fact": "Tom Allen apparently accepted Joe Coburn's challenge to fight for $10,000, although the report is garbled.",
+      "date": "1869-12-20",
+      "seed": "",
+      "conflict": "376.c1 is low confidence and only reports apparent acceptance; 025.c2 records only Allen's offer to meet Coburn",
+      "claims": [
+        "376.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen and Jem Mace each deposited $500 with a stakeholder, and Mace offered to meet Allen in New York and pay half his expenses there, after the Clipper reported that Mace accepted Allen's challenge.",
+      "date": "1869-12-27",
+      "seed": "",
+      "conflict": "belt stake proposed by Mace's New York friends (379.c3) is medium confidence and not confirmed by the other claims",
+      "claims": [
+        "377.c6",
+        "378.c2",
+        "379.c1",
+        "379.c2",
+        "379.c3"
+      ]
+    }
+  ]
+}

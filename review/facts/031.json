@@ -1,0 +1,56 @@
+{
+  "id": "031",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Mike McCoole compromised their claims to the excursion money from their 1869 fight; McCoole took $1,232.50 and Allen $1,000.",
+      "excerpt": "their claims to the money for the excursion to their fight iast summer, McCoole takes $1,232 50 and Allen $1,000",
+      "date": "1870-04",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Mike McCoole went to law over the stakes of their 1869 fight, and the stakes were still undecided.",
+      "excerpt": "as the two millers have gone to law about them",
+      "date": "1870-04",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole in the summer of 1869; the stakes of that fight were still undecided in April 1870.",
+      "excerpt": "for the excursion to their fight iast summer",
+      "date": "1869",
+      "date_precision": "approx",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869",
+      "date_precision": "approx",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "undecided (excursion money)",
+      "rules": "",
+      "excerpt": "for the excursion to their fight iast summer",
+      "reported_as": "recollection",
+      "notes": "Result not given in this article. The stakes were still undecided and the two went to law."
+    }
+  ],
+  "notes": ""
+}

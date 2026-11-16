@@ -1,0 +1,67 @@
+{
+  "id": "404",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen challenged all professional bruisers except Mace and Heenan to fight for $3,000 or less.",
+      "excerpt": "bruisers, except Mace and Heevan, to fight for $3000 or",
+      "date": "1870-05-18",
+      "date_precision": "approx",
+      "people": ["Jem Mace", "J. C. Heenan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen was particularly anxious that Joe Coburn accept his challenge.",
+      "excerpt": "He is particu’arly anxioas that Coburn will ac-",
+      "date": "1870-05-18",
+      "date_precision": "approx",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen signed himself 'Champion of America, by permission of Mr. James Mace, Champion of the World'.",
+      "excerpt": "by permission of Mr. James Mace. Champion of",
+      "date": "1870-05-18",
+      "date_precision": "approx",
+      "people": ["James Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen admitted the defeat he received from his antagonist near New Orleans.",
+      "excerpt": "Allen admits the defeat he received ut the hands",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["unknown"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "unknown",
+      "date": "1870-05",
+      "date_precision": "month",
+      "place": "near New Orleans",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen admits the defeat he received ut the hands",
+      "reported_as": "report",
+      "notes": "Opponent not named in this sentence; the context (the New Orleans fight, Mace named as the exception in the challenge) points to Jem Mace."
+    }
+  ],
+  "notes": "Challenge and sign-off are garbled in OCR ('Tom Artem', 'Heevan' read as Tom Allen and Heenan)."
+}

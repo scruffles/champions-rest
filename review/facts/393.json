@@ -1,0 +1,34 @@
+{
+  "id": "393",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was training at the Wash Home for his coming fight with Mace.",
+      "excerpt": "Tom Allen is now training ‘at the Home for his coming fight with Mace",
+      "date": "1870-04-25",
+      "date_precision": "day",
+      "people": ["Mace"],
+      "places": ["Wash Home, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Tom Allen is now training ‘at the Home for his coming fight with Mace",
+      "reported_as": "report",
+      "notes": "Only the coming bout is mentioned; the date is not given here (10 May 1870 per articles 397 and 398)."
+    }
+  ],
+  "notes": "Mostly about the Wash Home brawls on Sunday 24 April, which do not involve Allen. Only the training mention is about him."
+}

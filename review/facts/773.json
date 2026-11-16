@@ -1,0 +1,30 @@
+{
+  "id": "773",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "A Cleveland Plain Dealer list of American boxing champions credits Tom Allen with the title from July 15, 1869 to May 10, 1870.",
+      "excerpt": "1ao™ Allen, from July 3551669, fo May 10,",
+      "date": "1869-07-15",
+      "date_precision": "day",
+      "people": ["Mike McCool", "Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "A Cleveland Plain Dealer list of American boxing champions credits Tom Allen with the title again from Mace's retirement until September 7, 1876.",
+      "excerpt": "Tom Allen, from Mace’ retirement to Sep-\ntember 7, 1876.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The hint that Allen lost the title to Joe Goss on September 7, 1876 is not supported: the next holder's name is unreadable in the OCR, so Goss is not written. The first start date is printed as 'July 3551669' and is read as July 15, 1869 from the McCool entry, so it is medium. The Mace line gives no date for Mace's own title."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "244",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen owned and operated a public house (saloon) in St. Louis while he lived there.",
+      "excerpt": "two world championship battles were fought by St. Louis residents who owned and operated public houses. Mike McCoole and Tom Allen, each of whom held the heavyweight title while residing in this city, were in this class.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen held the heavyweight title while residing in St. Louis.",
+      "excerpt": "Mike McCoole and Tom Allen, each of whom held the heavyweight title while residing in this city, were in this class.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hint reworded: the text says he held the title while residing in St. Louis; it does not say he held it while running the saloon. No dates given."
+}

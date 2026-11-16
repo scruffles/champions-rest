@@ -1,0 +1,85 @@
+{
+  "id": "523",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon on Washington avenue was called the Champion's Rest.",
+      "excerpt": "dropped into the ‘‘Champion’s Rest,” on Waslt-\nington avenue",
+      "date": "1875-07-18",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "New York rivals spread a report that Tom Allen had challenged Jem Mace and that Mace had accepted; the paper says this was a scheme and not true.",
+      "excerpt": "to the effect that he had challenged Mace,",
+      "date": "1875-07",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "The paper says Allen wanted to strengthen the opinion that he would never again enter the ring.",
+      "excerpt": "by the assertion that he will never again enter the squared circle",
+      "date": "1875-07-18",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Ed O'Baldwin, the Irish giant, wanted Tom Allen to travel with him giving sparring exhibitions across the country, and Allen declined.",
+      "excerpt": "is desirous that Allen should travel with him and\ngive sparring exhibitions throughout the country",
+      "date": "1875-07",
+      "date_precision": "approx",
+      "people": ["Ed O’ Baldwin"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "business",
+      "statement": "Tom Allen was well off financially and had a good business he was anxious to attend to.",
+      "excerpt": "is well fixed financially, has a good busi-\nness, which he is anxious to attend to",
+      "date": "1875-07-18",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen has a family to care for.",
+      "excerpt": "which he is anxious to attend to, and a fam-\nily to care for",
+      "date": "1875-07-18",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The paper says the ring will hold neither attraction nor terror for Tom Allen in the future.",
+      "excerpt": "the ring will neither have attractions\nnor terrors for him in the future",
+      "date": "1875-07-18",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Interview report by the paper; Allen's denial is paraphrased, not quoted. Hint named 'Ned O'Baldwin'; the text says 'Ed. O’ Baldwin'. O'Baldwin's prison term is the paper's detail about him, not extracted."
+}

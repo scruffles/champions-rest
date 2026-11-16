@@ -1,0 +1,30 @@
+{
+  "id": "858",
+  "claims": [
+    {
+      "kind": "business",
+      "statement": "Tom Allen advertised free concerts every evening at 619 Market street, St. Louis, with only the best singers engaged.",
+      "excerpt": "retired champion pugilist o: the world, 619 Market street. Free concer every evening.",
+      "date": "1892-09",
+      "date_precision": "month",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was billed in this advertisement as the retired champion pugilist of the world.",
+      "excerpt": "retired champion pugilist o: the world, 619 Market street.",
+      "date": "1892-09",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The text does not call 619 Market street a saloon, so the hint's word 'saloon' is not used. The other item on the page (Freiboth swindle) does not involve Allen."
+}

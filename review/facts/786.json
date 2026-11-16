@@ -1,0 +1,19 @@
+{
+  "id": "786",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Lem McGregor knocked Tom Allen down in Tom Allen's saloon on the morning of 1890-07-25 after a quarrel, and punished him to a considerable extent.",
+      "excerpt": "vetting into a difficulty with the ex-champion,\nsucceeded in knocking the old veteran down",
+      "date": "1890-07-25",
+      "date_precision": "day",
+      "people": ["Lem McGregor"],
+      "places": ["Tom Allen's saloon"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Saloon scuffle, not a prize bout, so not in fights. The later Zachritz fight involves no Allen. Hints said 'Lem McGregor'; the 'fight' kind was not used because the event was at his saloon. OCR 'vetting' for 'getting'."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "728",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "In a race-track gag, Tom Allen, the ex-champion pugilist, was 'knocked out in the first round' at the Fair Grounds track, meaning he lost his bets.",
+      "excerpt": "Tom Alien, the ex-champion pugilist, was\n\nKnocked out in the first round.",
+      "date": "1885-09",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Fair Grounds track, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Figurative joke in a racing column, not a bout. The column is dated 1885-09-12; the race day is not stated precisely, so the date is given only as month."
+}

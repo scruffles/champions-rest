@@ -1,0 +1,56 @@
+{
+  "id": "012",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole agreed the preliminaries for a prize ring fight, to be held in about eight or nine weeks.",
+      "excerpt": "concluded the preitminaries fora meet mg in the prize ring, to test their pugilistre powers.",
+      "date": "1869-04-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["John Looney's saloon, Green street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The Allen and McCoole fight was to be for $1,000 a side (printed as 61,000) and the excursion money, with $200 put up as earnest money.",
+      "excerpt": "the fight to be for 61,000 a side and the excursion money.",
+      "date": "1869-04-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen agreed to the long delay so that Mike McCoole could train, as McCoole was far from fighting condition.",
+      "excerpt": "ning to eccommodate his friend (7?) MeCoole by",
+      "date": "1869-04-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 a side (printed as 61,000) and the excursion money",
+      "rules": "prize ring",
+      "excerpt": "the fight to be for 61,000 a side and the excursion money.",
+      "reported_as": "report",
+      "notes": "Match agreed, not yet fought. The fight date is not given in this article."
+    }
+  ],
+  "notes": "Stakes are printed as 61,000 and read as $1,000; confidence low on that claim."
+}

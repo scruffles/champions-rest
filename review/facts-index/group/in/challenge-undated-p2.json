@@ -1,0 +1,219 @@
+{
+ "bucket": "challenge-undated-p2",
+ "kind": "challenge",
+ "undated": true,
+ "claims": [
+  {
+   "cid": "387.c1",
+   "date": "",
+   "published": "1870-03-22",
+   "conf": "low",
+   "statement": "Jem Mace was touring with a view to meeting Tom Allen in the ring, and the text is garbled at this point."
+  },
+  {
+   "cid": "406.c5",
+   "date": "",
+   "published": "1870-05-24",
+   "conf": "medium",
+   "statement": "Talk of another match between Tom Allen and Mike McCoole said their names were mentioned as probable contestants."
+  },
+  {
+   "cid": "449.c2",
+   "date": "",
+   "published": "1872-11-18",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Johnny Franklin brought Tom Allen and Coburn together at New Orleans for a match."
+  },
+  {
+   "cid": "462.c1",
+   "date": "",
+   "published": "1873-09-15",
+   "conf": "medium",
+   "statement": "Thomas Bascom of Marysville, Tennessee, offered to bet Tom Allen $10,000 that he could beat him inside eight rounds."
+  },
+  {
+   "cid": "462.c2",
+   "date": "",
+   "published": "1873-09-15",
+   "conf": "medium",
+   "statement": "Thomas Bascom offered to bet Tom Allen, or any other man, $5,000 or more that Charley Gallagher, after two hours' training with Bascom, could whip his opponent inside twenty rounds."
+  },
+  {
+   "cid": "465.c21",
+   "date": "",
+   "published": "1873-09-23",
+   "retro": true,
+   "statement": "Tom Allen challenged Mike McCoole to fight him within the ring after the Gallagher defeat."
+  },
+  {
+   "cid": "487.c6",
+   "date": "",
+   "published": "1873-10-24",
+   "conf": "medium",
+   "statement": "A New York dispatch reported that Joe Coburn said he would fight Tom Allen within four months."
+  },
+  {
+   "cid": "495.c3",
+   "date": "",
+   "published": "1873-10-30",
+   "conf": "medium",
+   "statement": "Tom Allen said that if he won his fight with Ben Hogan, he would make a match with Ed O'Baldwin for $2,500 or $5,000 a side."
+  },
+  {
+   "cid": "525.c2",
+   "date": "",
+   "published": "1875-09-30",
+   "conf": "medium",
+   "statement": "The paper said that had Ned O'Baldwin lived, a contest with Tom Allen would certainly have taken place the next spring."
+  },
+  {
+   "cid": "530.c2",
+   "date": "",
+   "published": "1875-12-26",
+   "statement": "Jem Mace published a card announcing that he was coming to America to fight Allen for the championship of the world."
+  },
+  {
+   "cid": "545.c3",
+   "date": "",
+   "published": "1876-04-29",
+   "statement": "Tom Allen had repeatedly said he would never deposit money with an Eastern stakeholder, claiming foul play by certain New York parties, and wanted a Western stakeholder and a Western place for the match."
+  },
+  {
+   "cid": "548.c1",
+   "date": "",
+   "published": "1876-05-01",
+   "statement": "Joe Goss wrote to Cincinnati of his willingness to fight Tom Allen, and a $500 forfeit was put up for Goss at the Empire saloon in the hands of Eph Holland."
+  },
+  {
+   "cid": "548.c2",
+   "date": "",
+   "published": "1876-05-01",
+   "conf": "medium",
+   "statement": "Tom Allen expressed his hope that the fight with Joe Goss would be brought about, and his confidence that he could whip Goss."
+  },
+  {
+   "cid": "551.c4",
+   "date": "",
+   "published": "1876-05-04",
+   "conf": "medium",
+   "statement": "Goss had reportedly deposited $500 with Eph Holland to make a match with Allen, a claim the paper doubted."
+  },
+  {
+   "cid": "556.c2",
+   "date": "",
+   "published": "1876-05-11",
+   "conf": "medium",
+   "statement": "Sporting circles expected Tom Allen to insist on a fight with Joe Goss within twelve weeks of signing articles."
+  },
+  {
+   "cid": "556.c3",
+   "date": "",
+   "published": "1876-05-11",
+   "conf": "medium",
+   "statement": "Some men claiming to be posted said Joe Goss would not agree to a meeting with Tom Allen for four months after signing articles and might stave the match off."
+  },
+  {
+   "cid": "558.c1",
+   "date": "",
+   "published": "1876-05-31",
+   "statement": "Tom Allen and Joe Goss were to meet in the same ring where Steve Taylor and George Rooke agreed to fight for $1,000 a side."
+  },
+  {
+   "cid": "559.c1",
+   "date": "",
+   "published": "1876-06-10",
+   "conf": "medium",
+   "statement": "Tom Allen covered the $500 that Joe Goss deposited with Eph Holland of Cincinnati to make a match for the championship of America and a purse of $1,000 to $5,900 (printed as $5,900)."
+  },
+  {
+   "cid": "561.c2",
+   "date": "",
+   "published": "1876-07-16",
+   "conf": "medium",
+   "statement": "Jem Mace thought of matching Joe Goss against Tom Allen while Mace was in England."
+  },
+  {
+   "cid": "564.c1",
+   "date": "",
+   "published": "1876-07-28",
+   "conf": "medium",
+   "statement": "Jem Mace gave way to Joe Goss, who wanted to fight Tom Allen."
+  },
+  {
+   "cid": "564.c2",
+   "date": "",
+   "published": "1876-07-28",
+   "conf": "low",
+   "statement": "A claim put to Mace says Tom Allen had been in training to fight George Rooke a short time before he made the Goss match."
+  },
+  {
+   "cid": "619.c1",
+   "date": "",
+   "published": "1878-11-04",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Ben Hogan says he met Tom Allen, who was spoiling for a fight."
+  },
+  {
+   "cid": "619.c2",
+   "date": "",
+   "published": "1878-11-04",
+   "retro": true,
+   "conf": "low",
+   "statement": "Ben Hogan says he put up the money for a match with Tom Allen (printed as 'nsiieed the money right down')."
+  },
+  {
+   "cid": "630.c3",
+   "date": "",
+   "published": "1879-06-04",
+   "conf": "medium",
+   "statement": "Allen's conditions for the fight were that it take place within three months of signing the articles, within fifty miles of St. Louis or Pittsburg, under London prize-ring rules but with a sixteen-foot ring."
+  },
+  {
+   "cid": "658.c3",
+   "date": "",
+   "published": "1882-10-31",
+   "statement": "The proposed match was for $1,000 to $2,500 a side, within 100 miles of New Orleans, within three months after signing articles."
+  },
+  {
+   "cid": "660.c1",
+   "date": "",
+   "published": "1882-11-01",
+   "statement": "St. Louis sporting men were waiting to hear whether John L. Sullivan would accept Richard K. Fox's challenge on behalf of Tom Allen."
+  },
+  {
+   "cid": "661.c2",
+   "date": "",
+   "published": "1882-11-06",
+   "retro": true,
+   "statement": "While in England, Tom Allen kept a standing challenge to fight any man in Great Britain."
+  },
+  {
+   "cid": "661.c5",
+   "date": "",
+   "published": "1882-11-06",
+   "statement": "Allen's challenge set the fight to take place within three months and within 100 miles of New Orleans."
+  },
+  {
+   "cid": "661.c7",
+   "date": "",
+   "published": "1882-11-06",
+   "statement": "Harry Hill was to be the final stakeholder for the match."
+  },
+  {
+   "cid": "663.c1",
+   "date": "",
+   "published": "1882-11-19",
+   "conf": "medium",
+   "statement": "Sullivan wanted his fight with Tom Allen held near Leadville, Colorado, fearing a Louisiana law would send them to the penitentiary."
+  },
+  {
+   "cid": "726.c2",
+   "date": "",
+   "published": "1885-03-24",
+   "retro": true,
+   "statement": "Eph Holland of Cincinnati imported Joe Goss to America to fight Tom Allen."
+  }
+ ]
+}

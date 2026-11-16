@@ -1,0 +1,19 @@
+{
+  "id": "492",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Deagle's Theatre advertised a benefit for Tom Allen, billed as champion of America, on Tuesday, October 28, 1873.",
+      "excerpt": "beneiit to YOM ALLEN, € mpion vf America.",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Deagle's Theatre, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Name and title are garbled in the OCR (printed as 'YOM ALLEN' and '€ mpion vf America'); read as Tom Allen, champion of America."
+}

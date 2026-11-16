@@ -1,0 +1,19 @@
+{
+  "id": "218",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Lord Barrington, accused of the McCann murder, was dressed in Tom Allen's old silk hat, a frock coat and a cane when he walked up and down near Bonfils in broad daylight.",
+      "excerpt": "wearing Tom Allen's old\n\nsilk hat and a frock coat and swinging a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Lord Barrington", "McCann"],
+      "places": ["Bonfils, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Article is about Lord Barrington, suspect in the McCann murder. Allen appears only as the former owner of the silk hat Barrington wore. The hint's 'after Allen's death' is not in the text and was dropped. The rest of the page is unrelated."
+}

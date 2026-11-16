@@ -1,0 +1,52 @@
+{
+  "id": "147",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Sullivan lost to Corbett because he was unfit to enter the ring and was overweight.",
+      "excerpt": "Sullivan was unfit to enter the ring; he was away over-weight and unable to cope with a man of Corbett's agility.",
+      "date": "1892-09-07",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "Corbett"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen does not recognize Corbett as John L. Sullivan's superior.",
+      "excerpt": "I don't recognize Corbett as Sullivan's superior.",
+      "date": "1892-09",
+      "date_precision": "month",
+      "people": ["Corbett", "John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Corbett won his fight with Sullivan squarely and deserves credit for it.",
+      "excerpt": "He won his battle squarely and deserves credit for it",
+      "date": "1892-09-07",
+      "date_precision": "day",
+      "people": ["Corbett", "John L. Sullivan"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "It was all a question of condition",
+      "topic": "Sullivan lost on condition"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "I don't recognize Corbett as Sullivan's superior.",
+      "topic": "Corbett not Sullivan's superior"
+    }
+  ],
+  "fights": [],
+  "notes": "The Sullivan-Corbett fight date (last Wednesday before the article) is 7 September 1892. Kelly's views in the same article are not Allen's and are left out."
+}

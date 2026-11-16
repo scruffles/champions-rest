@@ -1,0 +1,131 @@
+{
+  "bucket": "challenge-1882-1897",
+  "facts": [
+    {
+      "fact": "In October 1882 Richard K. Fox posted $1,000 with Harry Hill and offered to back Tom Allen against John L. Sullivan or any other pugilist for the championship of the world, at $1,000 to $2,500 a side.",
+      "date": "1882-10",
+      "seed": "",
+      "conflict": "deposit date: October 9 (270.c2) vs October 30 (655.c1, 657.c1, 658.c1) vs November (275.c3)",
+      "claims": ["656.c1", "659.c9", "662.c3", "270.c2", "270.c3", "655.c1", "655.c2", "657.c1", "657.c2", "658.c1", "658.c2", "275.c2", "275.c3"]
+    },
+    {
+      "fact": "Mr. Harding, Tom Allen's representative, did not go to Harry Hill's theatre to settle the $1,000 match, and Farrell, a friend of John L. Sullivan, claimed the $1,000 that Fox had posted.",
+      "date": "1882-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["275.c4", "275.c5", "268.c1"]
+    },
+    {
+      "fact": "On November 2, 1882, Tom Allen challenged John L. Sullivan, or any man in the world, to fight for the championship of the world under London prize ring rules, with a $1,000 deposit posted by his backer; Sullivan was notified and meetings were set to sign articles.",
+      "date": "1882-11-02",
+      "seed": "",
+      "conflict": "stake: $1,600 or $5,000 a side (661.c4) vs $2,500 a side (661.c9, 103.c3) vs $5,000 or any sum Fox could raise (662.c2) vs $1,000 to $5,000 (098.c1, low); meeting: November 10 (097.c3, 661.c10) vs November 16 at the Police Gazette office (661.c8) vs November 20 (662.c1)",
+      "claims": ["103.c3", "097.c1", "098.c1", "661.c9", "662.c2", "661.c4", "661.c6", "097.c3", "661.c10", "661.c8", "662.c1"]
+    },
+    {
+      "fact": "Richard K. Fox said he would match Jim Mace against John L. Sullivan only if Sullivan defeated Tom Allen.",
+      "date": "1882-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["663.c3"]
+    },
+    {
+      "fact": "At his exhibition on November 27, 1882, John L. Sullivan said he had not come to make a match with Tom Allen and would not be permitted to spar with him, and a fight between them was then considered scarcely probable.",
+      "date": "1882-11-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["666.c1", "667.c2"]
+    },
+    {
+      "fact": "In December 1882 Tom Allen was to accept Jim Elliott's challenge for $1,000 and the American championship, but on December 14 he did not appear at Charles E. Davies' place in Chicago to sign articles, and Richard K. Fox dropped him.",
+      "date": "1882-12",
+      "seed": "",
+      "conflict": "Allen agreed to accept Elliott's challenge (669.c1, December 6) vs Allen said he would make no match until after the Sullivan-Elliott fight (673.c2)",
+      "claims": ["102.c10", "673.c2", "676.c1", "099.c5", "669.c1", "673.c1", "101.c2"]
+    },
+    {
+      "fact": "George Morrow offered to bet $500 that Tom Allen could not knock out J. Miles in four three-minute rounds.",
+      "date": "1883-01-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["680.c1"]
+    },
+    {
+      "fact": "In March 1883 Mitchell challenged Slade, Sullivan, Jem Mace, Joe Goss or Tom Allen to meet him for $5,000 to $10,000 a side; the men named did not reply.",
+      "date": "1883-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["103.c7"]
+    },
+    {
+      "fact": "On September 30, 1886, Tom Allen challenged an unnamed man to meet Duncan C. Ross in a broadsword contest for $500 a side and deposited a $200 forfeit with the Post-Dispatch; Ross ignored the challenge, and Allen withdrew the forfeit in October because Ross had not covered it.",
+      "date": "1886-09-30",
+      "seed": "",
+      "conflict": "forfeit purpose: a sword match with Ross (121.c2) vs a sword match between Ross and August Schmitt (122.c1)",
+      "claims": ["121.c1", "121.c2", "122.c2", "122.c1"]
+    },
+    {
+      "fact": "In February 1888 Tom Allen deposited $160 for Flint, which the McManus party covered, and took part in arranging a fight to a finish between Flint and McManus at 160 pounds under Queensberry rules, witnessing the signing of the articles.",
+      "date": "1888-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["749.c1", "749.c2", "749.c3"]
+    },
+    {
+      "fact": "On January 17, 1891, Jack King said he had $50 in Tom Allen's hands for a fight between Allen and Mike Boden and asked Allen to cover it and arrange a match.",
+      "date": "1891-01-17",
+      "seed": "",
+      "conflict": "",
+      "claims": ["809.c1"]
+    },
+    {
+      "fact": "On January 17, 1891, Jack King said Tom Allen had been talking about fighting anybody in St. Louis.",
+      "date": "1891-01-17",
+      "seed": "",
+      "conflict": "",
+      "claims": ["809.c2"]
+    },
+    {
+      "fact": "In November 1892 Tom Allen said he had told Dutch Niel he would give $50 toward a purse for Niel's contest with Johnnie Daly, and denied that he would furnish a $500 side bet.",
+      "date": "1892-11-11",
+      "seed": "",
+      "conflict": "Dutch Niel said he understood Allen would furnish a stake (150.c3, medium) vs Allen's denial that he would furnish a $500 side bet (150.c2)",
+      "claims": ["150.c1", "150.c2", "150.c3"]
+    },
+    {
+      "fact": "In late 1893 Tom Allen wrote to Ed Smith advising him to try to arrange a match with Jackson.",
+      "date": "1893-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["894.c3"]
+    },
+    {
+      "fact": "Ed Smith wrote to Tom Allen, in a letter received December 22, 1893, that his next fight would be with the winner of the Corbett-Mitchell fight.",
+      "date": "1893-12-22",
+      "seed": "",
+      "conflict": "",
+      "claims": ["894.c2"]
+    },
+    {
+      "fact": "On January 11, 1895, Tom Allen announced he would back Al J. Neist against Mike Mooney in a lightweight wrestling match, any style, for $250 a side, winner take all.",
+      "date": "1895-01-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["165.c1"]
+    },
+    {
+      "fact": "In February 1895 Jem Mace said he wanted to come to America and fight Tom Allen again, after hearing that Allen had said he could whip him.",
+      "date": "1895-02",
+      "seed": "",
+      "conflict": "",
+      "claims": ["906.c1"]
+    },
+    {
+      "fact": "In June 1897 Tom Allen said he would back Denver Ed Smith if Smith could get a fight with a prominent pugilist or one of the big heavyweights.",
+      "date": "1897-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["174.c3", "175.c5"]
+    }
+  ]
+}

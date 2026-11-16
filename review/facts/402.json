@@ -1,0 +1,96 @@
+{
+  "id": "402",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Mrs. Allen left St. Louis on Thursday to join her husband in New Orleans.",
+      "excerpt": "Thursday Mrs, Allen left this city to join her husband.",
+      "date": "1870-05-12",
+      "date_precision": "day",
+      "people": ["Mrs. Allen"],
+      "places": ["St. Louis", "New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Mrs. Allen took with her the belt that Allen's St. Louis friends had presented to him.",
+      "excerpt": "She carried with her the belt presented him by his St,",
+      "date": "1870-05-12",
+      "date_precision": "day",
+      "people": ["Mrs. Allen"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen and Jem Mace were still at New Orleans.",
+      "excerpt": "Mace and Allen ae sti lat New Orleanr, and as soon",
+      "date": "1870-05-15",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was not yet fully recovered from an injury to his arm.",
+      "excerpt": "sufficiently recovered from the injury",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Mace and Allen planned an extended sparring tour through the country.",
+      "excerpt": "sparring tour threugh the country, and will also give",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Mace and Allen planned an exhibition in New Orleans before leaving.",
+      "excerpt": "an exhibition in New Orleans before they leave",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Joe Coburn, who had gone to New Orleans to second Allen, was rumoured to be concerned in a robbery; the paper thought the story probably false.",
+      "excerpt": "concerned in a robbery just previous to his de-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Coburn"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "J. L. Hughes, a Californian, left a $500 forfeit to be found at Tom Allen's saloon for a challenge to fight at light weight.",
+      "excerpt": "at Tom Allen's saloon, but up to this time no notice of",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["J. L. Hughes"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only Allen-related items kept; the McCoole challenge to Mace and the fight-opinion remarks are not about Allen. The Coburn robbery story is the paper's own rumour, dismissed as probably false."
+}

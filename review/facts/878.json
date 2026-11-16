@@ -1,0 +1,30 @@
+{
+  "id": "878",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon at 619 Market Street was called the Champions' Retreat, where Mark Tuohy was engaged as a song-and-dance performer and sparrer.",
+      "excerpt": "He is engaged at Tom  Alilen’s ‘*‘Champions’ Retreat,’’ at 619 Market street.",
+      "date": "1892-11",
+      "date_precision": "month",
+      "people": ["Mark Tuohy"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "William Reed, who accepted Mark Tuohy's challenge at the Champions' Retreat, broke a window and cut Tuohy's head with a piece of the glass.",
+      "excerpt": "He broke a window and taking a large piece of the glass cut Tuohy pretty badly about the head.",
+      "date": "1892-11-25",
+      "date_precision": "day",
+      "people": ["William Reed", "Mark Tuohy"],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is named only as the owner of the Champions' Retreat; the incident happened at his saloon but he is not in it."
+}

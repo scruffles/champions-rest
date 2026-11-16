@@ -1,0 +1,134 @@
+{
+  "id": "581",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen arrived back in St. Louis on 19 September 1876 after the Goss fight.",
+      "excerpt": "arrived in our city yesterday morning, and, from all",
+      "date": "1876-09-19",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen is expected to make his home in St. Louis from now on.",
+      "excerpt": "arrived in our city yesterday morning, and, from all\naccounts, will make his home here henceforward.",
+      "date": "1876-09-19",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was registered at the Olive Street hotel in St. Louis.",
+      "excerpt": "the Olive Street, where he isa registered, by the",
+      "date": "1876-09-19",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Olive Street hotel, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "The paper says Tom Allen's accent showed his nationality, without naming it.",
+      "excerpt": "show last night. His accent told his nationality,",
+      "date": "1876-09-19",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "The paper says Tom Allen looked the very picture of physical health after the fight.",
+      "excerpt": "He looked the very picture of physical health.",
+      "date": "1876-09-19",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen said he attached the stakes from the Goss fight the night of the fight.",
+      "excerpt": "Well, I attached the stakes the night of the",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen said he would sue in Ohio, not Kentucky, about 25 September 1876.",
+      "excerpt": "In Ohio, of course (with a sly twinkle). I\nwouldn't stand much show in Kentucky.",
+      "date": "1876-09-25",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Ohio", "Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen's attorneys for the suit were Root and Gov. Carlisle of Covington.",
+      "excerpt": "A man named Root and Gov. Carlisle, of Cov-\nington.",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Root", "Gov. Carlisle"],
+      "places": ["Covington, Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen's farewell benefit on Thursday 21 September 1876 was to feature a boxing bout between Allen and Tom Kelly.",
+      "excerpt": "is, of course, the boxing between Allen and",
+      "date": "1876-09-21",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen said he would become a private citizen after his benefit.",
+      "excerpt": "his benefit is over, he will be a private citizen for",
+      "date": "1876-09-21",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I’m going to settle down—going to look out\nsome place—Il've been looking round all day to-\nday—and stick to business.",
+      "topic": "plans after leaving the ring"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "Oh, no. It isn’t possible now.",
+      "topic": "no fair deal in the ring"
+    },
+    {
+      "speaker": "Tom Allen",
+      "text": "In Ohio, of course (with a sly twinkle). I\nwouldn't stand much show in Kentucky.",
+      "topic": "where he will sue"
+    }
+  ],
+  "fights": [],
+  "notes": "The paper calls Allen the man who licked Goss; the referee awarded the fight to Goss (see 579). Stakes held by Edwards, per Allen; not checked."
+}

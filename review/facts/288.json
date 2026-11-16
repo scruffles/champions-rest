@@ -1,0 +1,89 @@
+{
+  "id": "288",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was to take a benefit at the Theater Comique on Saturday night, April 30, 1870.",
+      "excerpt": "night the champion pugilist, Tom Allen, will take s",
+      "date": "1870-04-30",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["Theater Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Joe Coburn, Mike McCoole, Kelly and others were to spar at Allen's benefit.",
+      "excerpt": "Joe Coburn, Mike McCoole, Kelly and\nother noted bruicera will put on the gloves.",
+      "date": "1870-04-30",
+      "date_precision": "day",
+      "people": ["Joe Coburn", "Mike McCoole", "Kelly"],
+      "places": ["Theater Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "The closing bout of Allen's benefit was to be between Joe Coburn and Allen.",
+      "excerpt": "The ‘‘wind\nup” will be between Joe and Tom.",
+      "date": "1870-04-30",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": ["Theater Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "A belt made by Jaccard was to be presented to Tom Allen at his benefit.",
+      "excerpt": "belt, manufactured by Jaccard, will be presented to the",
+      "date": "1870-04-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Theater Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was preparing to leave St. Louis for New Orleans to engage Jem Mace.",
+      "excerpt": "preparatory to leaving\nfor New Orleans to engage Jem Mace.",
+      "date": "1870-05",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was to engage Jem Mace in New Orleans.",
+      "excerpt": "preparatory to leaving\nfor New Orleans to engage Jem Mace.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "New Orleans",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "preparatory to leaving\nfor New Orleans to engage Jem Mace.",
+      "reported_as": "report",
+      "notes": "No date given in this article; article 287 gives the match as 10 May 1870."
+    }
+  ],
+  "notes": "Benefit notice only. Pre-match plans; no result. The hint's St. Louis location for the benefit is not stated; the text names only the Theater Comique."
+}

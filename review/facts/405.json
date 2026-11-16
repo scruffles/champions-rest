@@ -1,0 +1,62 @@
+{
+  "id": "405",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen challenged any man except Mace and Heenan to fight him for $500 to $5,000, naming Joe Coburn, Mike McCoole, Charley Gallagher and Joe Goss.",
+      "excerpt": "more especially Joe Coburn, Mike McCoole, |",
+      "date": "1870-05-12",
+      "date_precision": "day",
+      "people": ["Jem Mace", "J. C. Heenan", "Joe Coburn", "Mike McCoole", "Charley Gallagher", "Joe Goss"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen wrote that Mace beat him in their recent fight for $5,000 and the championship, and that he had no excuse.",
+      "excerpt": "meand won, I was beat and. lost, and ha’",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Mace gave Allen the title of champion after their fight, and Allen said he would defend it against all but Mace and Heenan.",
+      "excerpt": "gave me the title of champion, which he w:",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["Jem Mace", "J. C. Heenan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "I am neither a cur nor a coward, I hereby",
+      "topic": "why he issues the challenge"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870-05",
+      "date_precision": "month",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$5,000 and the championship",
+      "rules": "",
+      "excerpt": "meand won, I was beat and. lost, and ha’",
+      "reported_as": "report",
+      "notes": "Stakes printed as '#5,000' (OCR). Letter is garbled; the loss rests on fragments of the text."
+    }
+  ],
+  "notes": "Letter dated 'New Orleans, La., May 12, 18' with the year cut off; 1870 is from context. Much of the letter is garbled and the readings are low confidence."
+}

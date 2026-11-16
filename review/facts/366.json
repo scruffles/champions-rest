@@ -1,0 +1,19 @@
+{
+  "id": "366",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen sparred with Harry Slater at Brady's Hall in St. Joseph, Missouri.",
+      "excerpt": "Tom Alien and Harry Slater a friendly set-to",
+      "date": "1869-08-31",
+      "date_precision": "day",
+      "people": ["Harry Slater"],
+      "places": ["Brady's Hall, St. Joseph, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Date inferred: the St. Joseph Herald notice is dated the 1st and describes an evening show. The crowd figure is garbled in the OCR and the hint's count of about 300 is not used."
+}

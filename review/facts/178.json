@@ -1,0 +1,70 @@
+{
+  "id": "178",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Referee George Siler said Mike McCoole beat Tom Allen for the championship of the world in 1870.",
+      "excerpt": "who beat Tom Allen for the championship of the worid in 1870",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Mike McCoole", "George Siler"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Referee George Siler said Tom Allen beat Mike McCoole badly, at a time not given.",
+      "excerpt": "who was itn turn beaten badly by Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole", "George Siler"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Mike McCoole died a pauper in New Orleans and was rescued from a pauper's grave by Tom Allen.",
+      "excerpt": "was rescued from a pauper’s grave by is old foeman, Allen.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["New Orleans"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1870",
+      "date_precision": "year",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "championship of the world",
+      "rules": "",
+      "excerpt": "who beat Tom Allen for the championship of the worid in 1870",
+      "reported_as": "recollection",
+      "notes": "Siler's recollection, 1897. Conflicts with the other records: Allen's 1870 fight was with Jem Mace, and his later bouts with McCoole were won by Allen."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "who was itn turn beaten badly by Allen",
+      "reported_as": "recollection",
+      "notes": "Siler gives no date or details. It may be one of the 1869 or 1873 bouts."
+    }
+  ],
+  "notes": "Siler's account is a recollection of events 20 to 30 years earlier. The 1870 result conflicts with the other records, so confidence is medium. McCoole's name is printed 'MeCoole' in the text and read as McCoole."
+}

@@ -1,0 +1,192 @@
+{
+  "id": "643",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen came to America from the old country, along with another man whose name is garbled in the text.",
+      "excerpt": "and Bye} from the old country, howevér, soon",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen made his American debut on Chouteau Island, beating Bill Davis in forty-three rounds (the date is printed as 'January 32, 1889').",
+      "excerpt": "The former made hia Americna debut on Chouteun Island Junuary",
+      "date": "1869-01",
+      "date_precision": "month",
+      "people": ["Bill Davis"],
+      "places": ["Chouteau Island, St. Louis"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher beat Tom Allen in two rounds on Carroll Island on February 28, 1869.",
+      "excerpt": "Tom Alien’ met on Curroll Island, when Char-",
+      "date": "1869-02-28",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll Island"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole on Foster's Island on June 15, 1869 for $1,000 a side; after nine rounds in thirteen minutes the ropes were cut and the ring broken in.",
+      "excerpt": "Allen fought Mike McQoole'on Foster's taland for $1,000 n side",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Foster's Island"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "After the McCoole fight, Tom Allen sued to recover his stake money.",
+      "excerpt": "but Allen sued for the recovery of his",
+      "date": "1869",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Charley Gallagher in eleven rounds on Foster's Island for $500 a side on August 17, 1869.",
+      "excerpt": "when after figbting éleven rounds",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": ["Foster's Island"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen bet $1,000 to $600 that he could whip the winner of the Owen Meekin and James C. Gallagher match.",
+      "excerpt": "bet $1,000 to $600 that he could whip Meekin's conqueror",
+      "date": "1870-11",
+      "date_precision": "month",
+      "people": ["Owen Meekin", "James C. Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat James C. Gallagher in sixteen rounds lasting 23 minutes 30 seconds in November 1870.",
+      "excerpt": "twenty-three'minutes and thirty seconds",
+      "date": "1870-11",
+      "date_precision": "month",
+      "people": ["James C. Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole again on Chouteau Island on September 23, 1873; the result is not given.",
+      "excerpt": "They tought on Choutewu Island, September 23,",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Chouteau Island"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Bill Davis",
+      "date": "1869-01",
+      "date_precision": "month",
+      "place": "Chouteau Island",
+      "result": "win",
+      "rounds": "43",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The former made hia Americna debut on Chouteun Island Junuary",
+      "reported_as": "recollection",
+      "notes": "Date printed as 'January 32, 1889'; the year is inferred from the surrounding 1869 fights."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-02-28",
+      "date_precision": "day",
+      "place": "Carroll Island",
+      "result": "loss",
+      "rounds": "2",
+      "duration": "three minutes",
+      "stakes": "unreadable (printed as '7 a side')",
+      "rules": "",
+      "excerpt": "Tom Alien’ met on Curroll Island, when Char-",
+      "reported_as": "recollection",
+      "notes": "Date printed as 'Tobreary 28'; the duration is partly garbled."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "Foster's Island",
+      "result": "loss",
+      "rounds": "9",
+      "duration": "13 minutes",
+      "stakes": "$1,000 a side",
+      "rules": "",
+      "excerpt": "Allen fought Mike McQoole'on Foster's taland for $1,000 n side",
+      "reported_as": "recollection",
+      "notes": "The referee gave the verdict against Allen (he then sued for his stake money); the article is garbled at that point."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "Foster's Island",
+      "result": "win",
+      "rounds": "11",
+      "duration": "25 minutes",
+      "stakes": "$500 a side",
+      "rules": "",
+      "excerpt": "when after figbting éleven rounds",
+      "reported_as": "recollection",
+      "notes": "Disagrees with the 1882 article printed on 5 February (647), which says the fight was declared a draw. The year is printed as 1860."
+    },
+    {
+      "opponent": "James C. Gallagher",
+      "date": "1870-11",
+      "date_precision": "month",
+      "place": "",
+      "result": "win",
+      "rounds": "16",
+      "duration": "23 minutes 30 seconds",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "twenty-three'minutes and thirty seconds",
+      "reported_as": "recollection",
+      "notes": "The November day is garbled and the year is inferred. Allen bet $1,000 to $600 that he could beat the winner of the Meekin match."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-23",
+      "date_precision": "day",
+      "place": "Chouteau Island",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "They tought on Choutewu Island, September 23,",
+      "reported_as": "recollection",
+      "notes": "The result is not given in the text; the year is garbled and inferred."
+    }
+  ],
+  "notes": "Hint dates corrected: the Gallagher bout is printed as 28 February (the hint said 23 February); the Gallagher bout of 17 August is printed as 1860 and the hint's 26 minutes reads as 25 in the OCR."
+}

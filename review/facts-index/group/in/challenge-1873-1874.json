@@ -1,0 +1,321 @@
+{
+ "bucket": "challenge-1873-1874",
+ "kind": "challenge",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "180.c22",
+   "date": "1873",
+   "published": "1899-02-27",
+   "retro": true,
+   "statement": "Joe Coburn declined to fight Tom Allen, and Mike McCoole was given a second match instead."
+  },
+  {
+   "cid": "488.c4",
+   "date": "1873",
+   "published": "1873-10-25",
+   "statement": "Tom Allen wrote to the New York Herald offering to fight Joe Coburn anywhere for $500 to $5,000 and to put up a forfeit."
+  },
+  {
+   "cid": "488.c5",
+   "date": "1873",
+   "published": "1873-10-25",
+   "conf": "medium",
+   "statement": "Tom Allen said Joe Coburn had said he would fight him but had put up no money."
+  },
+  {
+   "cid": "509.c2",
+   "date": "1873",
+   "published": "1874-11-10",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen said the challenge, issued nearly a year earlier, was never accepted and is void."
+  },
+  {
+   "cid": "451.c2",
+   "date": "1873-01-02",
+   "published": "1873-01-04",
+   "statement": "Tom Allen offered to fight Mike McCoole at any time, for any amount, and put $500 down on the counter as a forfeit; McCoole did not respond."
+  },
+  {
+   "cid": "465.c35",
+   "date": "1873-05-23",
+   "published": "1873-09-23",
+   "statement": "Tom Allen and Mike McCoole signed articles on 23 May 1873 to fight under the new London prize ring rules for a stake of $2.40 a side (as printed), with the fight on 23 September 1873 within 200 miles of St. Louis."
+  },
+  {
+   "cid": "454.c1",
+   "date": "1873-07-08",
+   "published": "1873-07-09",
+   "statement": "A third deposit of $500 a side was made for the Allen-McCoole fight."
+  },
+  {
+   "cid": "457.c1",
+   "date": "1873-08-05",
+   "published": "1873-08-06",
+   "statement": "A fourth $500-a-side deposit was made for the McCoole and Allen fight at McCoole's saloon."
+  },
+  {
+   "cid": "465.c37",
+   "date": "1873-09",
+   "published": "1873-09-23",
+   "conf": "medium",
+   "statement": "A party of New Yorkers offered to match Joe Coburn against Tom Allen, with the mill halfway between St. Louis and New York."
+  },
+  {
+   "cid": "465.c38",
+   "date": "1873-09",
+   "published": "1873-09-23",
+   "conf": "low",
+   "statement": "Tom Allen said he was ready to fight Coburn for $1,000 to $5,000 a side, in Canada or near New Orleans."
+  },
+  {
+   "cid": "459.c1",
+   "date": "1873-09-02",
+   "published": "1873-09-03",
+   "statement": "The final deposit for the Allen-McCoole fight was due at McCoole's saloon on the night of September 2, 1873."
+  },
+  {
+   "cid": "461.c1",
+   "date": "1873-09-14",
+   "published": "1873-09-15",
+   "statement": "Ben Hogan deposited a $500 forfeit with Jack Looney to fight Tom Allen for $2,000 a side, win or lose, thirty days after the McCoole and Allen fight."
+  },
+  {
+   "cid": "454.c2",
+   "date": "1873-09-23",
+   "published": "1873-07-09",
+   "statement": "The Allen-McCoole fight was set for September 23, 1873, with two more deposits to come."
+  },
+  {
+   "cid": "472.c1",
+   "date": "1873-09-25",
+   "published": "1873-09-25",
+   "statement": "Tom Allen and Ben Hogan were to sign articles for a fight at 3 o'clock at Looney & Herbert's Sixth Street saloon in St. Louis, arranged by Mike Ganley."
+  },
+  {
+   "cid": "472.c2",
+   "date": "1873-09-25",
+   "published": "1873-09-25",
+   "conf": "medium",
+   "statement": "Mike Ganley was ready to back Joe Coburn against Tom Allen."
+  },
+  {
+   "cid": "473.c1",
+   "date": "1873-09-25",
+   "published": "1873-09-26",
+   "statement": "Tom Allen and Benjamin Hogan signed articles of agreement for a fight, dated September 25, 1873; Arthur Chambers witnessed for Allen."
+  },
+  {
+   "cid": "473.c3",
+   "date": "1873-09-25",
+   "published": "1873-09-26",
+   "conf": "medium",
+   "statement": "Allen declined Hogan's request to postpone the fight by two weeks, and Hogan did not object."
+  },
+  {
+   "cid": "487.c5",
+   "date": "1873-10-18",
+   "published": "1873-10-24",
+   "conf": "medium",
+   "statement": "A New York dispatch said Joe Coburn would decline all challenges, having resolved after his match with Mace not to enter the ring again."
+  },
+  {
+   "cid": "487.c3",
+   "date": "1873-10-23",
+   "published": "1873-10-24",
+   "conf": "medium",
+   "statement": "Tom Allen said he had challenged Joe Coburn again and again and never received a reply."
+  },
+  {
+   "cid": "487.c4",
+   "date": "1873-10-23",
+   "published": "1873-10-24",
+   "conf": "medium",
+   "statement": "Tom Allen offered $500 that he could whip any man in the world, as well as Joe Coburn."
+  },
+  {
+   "cid": "488.c6",
+   "date": "1873-10-24",
+   "published": "1873-10-25",
+   "statement": "Tom Allen offered to fight any Irish-American anywhere for any money enough to cover training expenses, and offered a standing bet of his money and property."
+  },
+  {
+   "cid": "489.c3",
+   "date": "1873-10-26",
+   "published": "1873-10-27",
+   "conf": "medium",
+   "statement": "Ben Hogan said that if Tom Allen beat him he would at once make a new match and wanted Allen to fight him near Pittsburg."
+  },
+  {
+   "cid": "473.c2",
+   "date": "1873-10-28",
+   "published": "1873-09-26",
+   "statement": "Tom Allen and Benjamin Hogan agreed to a fair stand-up fight under the new rules for $1,000 a side, on Tuesday, October 28, 1873, with the ground to be picked by one man from each side."
+  },
+  {
+   "cid": "276.c6",
+   "date": "1873-11-02",
+   "published": "1873-11-04",
+   "conf": "medium",
+   "statement": "Hogan offered, through Jack Looney, to forfeit his $1,000 share if the fight were called a draw, and Allen refused."
+  },
+  {
+   "cid": "276.c4",
+   "date": "1873-11-18",
+   "published": "1873-11-04",
+   "conf": "medium",
+   "statement": "Tom Allen's fight with Hogan was set for November 18, 1873."
+  },
+  {
+   "cid": "276.c5",
+   "date": "1873-11-18",
+   "published": "1873-11-04",
+   "conf": "medium",
+   "statement": "The Allen-Hogan fight was to be at or near Omaha, with excursion tickets sold from St. Louis."
+  },
+  {
+   "cid": "495.c2",
+   "date": "1873-11-19",
+   "published": "1873-10-30",
+   "conf": "medium",
+   "statement": "Tom Allen and Ben Hogan were to fight again on November 19 in Canada, within fifty miles of Detroit, with the stakes raised to $2,500 a side."
+  },
+  {
+   "cid": "499.c1",
+   "date": "1873-11-28",
+   "published": "1873-11-29",
+   "statement": "Tom Allen offered to match Jack Madden to fight Ben Hogan within ten weeks for $1,000 a side, in Canada near Detroit."
+  },
+  {
+   "cid": "499.c2",
+   "date": "1873-11-28",
+   "published": "1873-11-29",
+   "conf": "low",
+   "statement": "Tom Allen challenged Ben Hogan to fight him anywhere in Canada on two days' to ten weeks' notice, with a stake printed as '@5 000 to $1,000'."
+  },
+  {
+   "cid": "499.c3",
+   "date": "1873-11-28",
+   "published": "1873-11-29",
+   "statement": "Tom Allen offered to bet $1,000 that he would not get a black eye, and any amount Hogan wished that Allen would whip him inside thirty minutes."
+  },
+  {
+   "cid": "500.c1",
+   "date": "1873-11-29",
+   "published": "1873-11-30",
+   "statement": "Ben Hogan declined Tom Allen's challenge for now, saying illness had kept him from training, and offered to fight Allen or anyone for $1,000 to $2,500 once his health improved."
+  },
+  {
+   "cid": "500.c2",
+   "date": "1873-11-29",
+   "published": "1873-11-30",
+   "conf": "medium",
+   "statement": "Tom Allen issued a new challenge offering to fight Ben Hogan at any time within six weeks."
+  },
+  {
+   "cid": "046.c1",
+   "date": "1874-01",
+   "published": "1874-01-13",
+   "statement": "Tom Allen offered to back himself for $10,000 to fight any man in the country, meant particularly for Joe Coburn of New York."
+  },
+  {
+   "cid": "046.c2",
+   "date": "1874-01",
+   "published": "1874-01-13",
+   "statement": "Tom Allen sent his challenge to the New York World."
+  },
+  {
+   "cid": "049.c1",
+   "date": "1874-01",
+   "published": "1874-02-28",
+   "statement": "Tom Allen issued a challenge offering to fight Jim Mace, Joe Coburn or any man in the world for $1,000 to $5,000."
+  },
+  {
+   "cid": "049.c2",
+   "date": "1874-01",
+   "published": "1874-02-28",
+   "statement": "Allen said he would fight Mace under London prize ring rules for $1,000 to $5,000 a side, in Kansas, New Orleans or Canada."
+  },
+  {
+   "cid": "049.c3",
+   "date": "1874-01",
+   "published": "1874-02-28",
+   "statement": "Allen offered to meet Mace's backers at Pittsburg or Cincinnati to sign articles, with a $500 deposit."
+  },
+  {
+   "cid": "049.c4",
+   "date": "1874-01",
+   "published": "1874-02-28",
+   "statement": "If Mace refused, Allen offered to fight Joe Coburn, wagering $2,500 to Coburn's $1,500, or to fight Ben Hogan for $1,000 to $5,000."
+  },
+  {
+   "cid": "049.c5",
+   "date": "1874-01",
+   "published": "1874-02-28",
+   "conf": "medium",
+   "statement": "Mace sent word back that if Allen would fight, he would return to America and fight him on Allen's terms."
+  },
+  {
+   "cid": "048.c1",
+   "date": "1874-02",
+   "published": "1874-02-23",
+   "conf": "medium",
+   "statement": "Jem Mace wrote from England that he would accept Tom Allen's challenge to fight for $1,000 to $5,000."
+  },
+  {
+   "cid": "048.c2",
+   "date": "1874-02",
+   "published": "1874-02-23",
+   "conf": "medium",
+   "statement": "Mace said Allen had to put up a forfeit to prove he meant business."
+  },
+  {
+   "cid": "485.c1",
+   "date": "1874-02",
+   "published": "1873-10-17",
+   "conf": "medium",
+   "statement": "Joe Coburn says he will fight Tom Allen within four months, in West Virginia or Canada, for $2,500 to $5,000."
+  },
+  {
+   "cid": "505.c1",
+   "date": "1874-02",
+   "published": "1874-02-24",
+   "conf": "medium",
+   "statement": "It was said that Jem Mace had accepted Tom Allen's challenge to fight."
+  },
+  {
+   "cid": "506.c1",
+   "date": "1874-02",
+   "published": "1874-02-24",
+   "conf": "medium",
+   "statement": "Talk of a match between Tom Allen and Jem Mace was circulating in sporting circles."
+  },
+  {
+   "cid": "050.c4",
+   "date": "1874-03",
+   "published": "1874-03-11",
+   "conf": "medium",
+   "statement": "About a week before the article, Jem Mace privately wrote that he would accept and fight Allen if Allen posted a deposit at the Clipper office or Wilkes' Spirit to show he meant business."
+  },
+  {
+   "cid": "509.c1",
+   "date": "1874-11",
+   "published": "1874-11-10",
+   "statement": "Tom Allen denied a New York report that he had sent a challenge to Bell's Life offering to fight Jem Mace, Coburn or any other man."
+  },
+  {
+   "cid": "511.c4",
+   "date": "1874-11",
+   "published": "1874-11-21",
+   "statement": "Allen offered Coburn, Jim Mace or any other man the chance to meet him in the ring, but they said nothing."
+  },
+  {
+   "cid": "511.c1",
+   "date": "1874-11-20",
+   "published": "1874-11-21",
+   "conf": "medium",
+   "statement": "A New York telegram said Jim Mace had accepted a challenge from Tom Allen and would enter the ring next May for the championship."
+  }
+ ]
+}

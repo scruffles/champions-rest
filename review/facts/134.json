@@ -1,0 +1,63 @@
+{
+  "id": "134",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A well-known man in the business said Tom Allen put up the first $250 forfeit for the Daly-McManus match.",
+      "excerpt": "Said to have stated that Allen put up the first",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Dan Daly", "Hugh McManus"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen made the later forfeit deposits himself when the other parties did not come forward, until he had put up the whole $1,000.",
+      "excerpt": "Alien put that up also, and so on until",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Dan Daly said McManus bluffed and challenged him in the theatres and got Tom Allen mixed up in the match.",
+      "excerpt": "was called down, and he got Tom Allen mixed",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Dan Daly", "Hugh McManus"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Dan Daly said Tom Allen and Hugh McManus were both sorry after they got into the match and then tried to get out of it.",
+      "excerpt": "Both of them were sorry after they got in and then went to work to get out",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Dan Daly", "Hugh McManus"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "It is said Tom Allen stuck on technicalities to avoid the choice of fighting or forfeiting his $1,000.",
+      "excerpt": "induced the fat and festive Thomas to stick on",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The Daly-McManus fight was called off; Allen was a backer of McManus, not a fighter here. The claims rest on what was said to have been stated."
+}

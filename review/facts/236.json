@@ -1,0 +1,78 @@
+{
+  "id": "236",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Ben Hogan appeared in a sparring exhibition with Tom Allen and was given the popular verdict.",
+      "excerpt": "peared in a sparring exhibition with Tom Allen",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Hogan's backers offered to back him for any amount against Allen, but Allen ignored the challenge.",
+      "excerpt": "against Allen, but the latter ignored the challenge.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan challenged Tom Allen for a $2,000 side bet and the heavyweight championship of America, and Allen accepted.",
+      "excerpt": "Hogan hurled a challenge at Tom Allen for a side bet of $2,000",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Ben Hogan were arrested as they were about to board a steamer for the Illinois shore of the Mississippi, and were released only on promising not to fight in Illinois.",
+      "excerpt": "they were arrested. Oniy upon their promise not to fight in Illinois",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": ["Illinois shore of the Mississippi River", "Illinois"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Ben Hogan fought at Council Bluffs, Iowa; Hogan claimed a foul, and the referee declared a draw.",
+      "excerpt": "Allen had all the best of it for three rounds, when Hogan claimed that his adversary had struck a foul biow.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Ben Hogan"],
+      "places": ["Council Bluffs, Iowa"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Council Bluffs, Iowa",
+      "result": "draw",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,000 side bet and the heavyweight championship of America",
+      "rules": "",
+      "excerpt": "Allen had all the best of it for three rounds, when Hogan claimed that his adversary had struck a foul biow.",
+      "reported_as": "recollection",
+      "notes": "Stopped after about three rounds when Hogan claimed a foul and Allen's backers broke into the ring. The referee declared a draw and returned the money."
+    }
+  ],
+  "notes": "Mostly about Ben Hogan; only Allen-related items are recorded. The place of the exhibition is not legible in the text, and no dates are given."
+}

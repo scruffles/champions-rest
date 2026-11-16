@@ -1,0 +1,19 @@
+{
+  "id": "558",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Joe Goss were to meet in the same ring where Steve Taylor and George Rooke agreed to fight for $1,000 a side.",
+      "excerpt": "in the same ring in which Joe Goss and Tom Allen will meet.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss", "Steve Taylor", "George Rooke"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only as the opponent of Goss in a planned match; the article is mainly about Taylor and Rooke."
+}

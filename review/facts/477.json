@@ -1,0 +1,19 @@
+{
+  "id": "477",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "On the last night of his benefit at the Theater Comique, September 26, 1873, Tom Allen was to have a set-to with Jack Madden, with Patsey Sheppard and Arthur Chambers also boxing.",
+      "excerpt": "lien and Madden will have-a set-to,ad will Patsey",
+      "date": "1873-09-26",
+      "date_precision": "day",
+      "people": ["Jack Madden", "Patsey Sheppard", "Arthur Chambers"],
+      "places": ["Theater Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Printed as 'lien' for Allen. The rest of the page is theatre listings."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "022",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Jim Coyne gave a sparring exhibition in Rochester, New York, on the night of September 18, 1869.",
+      "excerpt": "Last night Tom Allen\nand Jim Coyne gave a sparring Exhibition in\nRochester, New York.",
+      "date": "1869-09-18",
+      "date_precision": "day",
+      "people": ["Jim Coyne"],
+      "places": ["Rochester, New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen's party was expected to be joined by Jem Mace and to reach St. Louis on Saturday, September 25, 1869.",
+      "excerpt": "it is expecte¢ the party will\nbe in St. Levis on Saturday next.",
+      "date": "1869-09-25",
+      "date_precision": "day",
+      "people": ["Jem Mace", "Jim Coyne"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mace is printed as 'dem Mace' in the OCR; read as Jem Mace, matching the hint."
+}

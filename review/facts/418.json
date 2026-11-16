@@ -1,0 +1,30 @@
+{
+  "id": "418",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Collins, the Cast Iron Man, wrote that he would be ready at a St. Louis saloon to put up $50 to $100 to meet Annabury.",
+      "excerpt": "saloon, St. Louis, where I will be ready to put up",
+      "date": "1870-08-17",
+      "date_precision": "day",
+      "people": ["Collins", "Annabury"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Collins invited Mr. Annabury's friends to make arrangements at Tom Allen's saloon on Saturday evening, August 20, 1870.",
+      "excerpt": "Saturday evening, August 20, 1870, at Tom. Alien’s.",
+      "date": "1870-08-20",
+      "date_precision": "day",
+      "people": ["Collins", "Annabury"],
+      "places": ["Tom Allen's saloon, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The Collins challenge to Annabury is between two other men; Allen is only the venue. The saloon name before 'saloon, St. Louis' is garbled, so only the Aug 20 venue is tied to Allen."
+}

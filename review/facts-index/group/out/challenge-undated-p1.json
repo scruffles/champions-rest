@@ -1,0 +1,298 @@
+{
+  "bucket": "challenge-undated-p1",
+  "facts": [
+    {
+      "fact": "In late February 1869 Tom Allen challenged Charley Gallagher to a rematch.",
+      "date": "1869-02-23",
+      "seed": "",
+      "conflict": "",
+      "claims": ["352.c25", "010.c4"],
+      "join": "challenge-1869-p1#4"
+    },
+    {
+      "fact": "On 8 March 1869 Tom Allen and Mike McCoole agreed to withdraw the stakes on their match and postpone the fight.",
+      "date": "1869-03-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["312.c2"],
+      "join": "challenge-1869-p1#7"
+    },
+    {
+      "fact": "In March 1869 Tom Allen challenged Mike McCoole to fight for $2,500 a side within three months, and Billy Carroll proposed London prize ring terms for the match.",
+      "date": "1869-03-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["011.c2"],
+      "join": "challenge-1869-p1#8"
+    },
+    {
+      "fact": "Joe Coburn offered to back Mike McCoole against Tom Allen for $5,000 to $10,000 under the latest London prize ring rules, to be fought anywhere in the United States within sixty days of signing.",
+      "date": "1869-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["335.c1"]
+    },
+    {
+      "fact": "Ben Hogan arrived in St. Louis and said he was willing to fight Tom Allen.",
+      "date": "1869-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["345.c4"],
+      "join": "challenge-1869-p2#4"
+    },
+    {
+      "fact": "A meeting between Joe Goss and Tom Allen to settle old scores was expected to take place.",
+      "date": "1869-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["350.c4"]
+    },
+    {
+      "fact": "Joe Wormald wrote to Tom Allen asking him to arrange the preliminaries of a match with Ned O'Baldwin for $5,000 a side.",
+      "date": "1869-08-20",
+      "seed": "",
+      "conflict": "",
+      "claims": ["350.c3"],
+      "join": "challenge-1869-p2#8"
+    },
+    {
+      "fact": "Tom Allen, through Billy Carroll, offered to fight Jem Mace for $2,500 a side, six months from signing articles, and in late December forwarded forfeit money accepting Mace's challenge.",
+      "date": "1869-12-16",
+      "seed": "",
+      "conflict": "",
+      "claims": ["381.c2"],
+      "join": "challenge-1869-p2#14"
+    },
+    {
+      "fact": "Tom Allen apparently accepted Joe Coburn's challenge to fight for $10,000, although the report is garbled.",
+      "date": "1869-12-20",
+      "seed": "",
+      "conflict": "",
+      "claims": ["376.c2"],
+      "join": "challenge-1869-p2#15"
+    },
+    {
+      "fact": "A proposed fight was to take place fifty miles from Cincinnati or fifty miles from Detroit, which would take it into Canada.",
+      "date": "1869-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["377.c4"]
+    },
+    {
+      "fact": "Tom Allen and Jem Mace agreed in January 1870 to a fight for the championship, and articles were drawn up.",
+      "date": "1870-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["380.c1"],
+      "join": "challenge-1870-1872#1"
+    },
+    {
+      "fact": "Ben Hogan challenged Tom Allen to a fight in late 1873, but Allen said Hogan never intended to fight him.",
+      "date": "1873-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["276.c3"]
+    },
+    {
+      "fact": "In March 1874 Tom Allen wrote challenges to Joe Coburn, Jem Mace and Ben Hogan, offering to fight each for stakes of $1,000 to $5,000 a side under London prize ring rules. Mace replied from London that he would come to America if Allen meant business, and the Coburn match was abandoned because Coburn was ill.",
+      "date": "1874-03",
+      "seed": "",
+      "conflict": "stakes: printed as $1,009 to 35,000 in 050.c6 (low) vs $1,000 to $5,000 in the other letter claims",
+      "claims": ["050.c1", "050.c2", "050.c3", "050.c5", "050.c6", "050.c7"]
+    },
+    {
+      "fact": "George Rooke challenged Tom Allen in early 1875 to fight for the American championship at $2,500 a side; Arthur Chambers accepted for Allen, the two met at Harry Hill's in New York on February 16, 1875 to discuss stakes, and Harry Hill held a $500 deposit in March.",
+      "date": "1875-02",
+      "seed": "",
+      "conflict": "timing: the challenge in the New York papers is dated 1875-05-10 (264.c2) vs early 1875 in the existing fact",
+      "claims": ["264.c2", "264.c3"],
+      "join": "challenge-1875#2"
+    },
+    {
+      "fact": "Tom Allen wrote an acceptance of Jem Mace's challenge and sent it to Bell's Life in London for publication, but the paper did not publish it.",
+      "date": "1876-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["065.c1", "065.c2"]
+    },
+    {
+      "fact": "Joe Goss arrived from England in New York in April 1876 to make a match with Tom Allen for the championship, and planned to go to St. Louis to challenge him formally.",
+      "date": "1876-04-10",
+      "seed": "",
+      "conflict": "",
+      "claims": ["070.c4"],
+      "join": "challenge-1876-1877#7"
+    },
+    {
+      "fact": "Tom Allen said he would promptly accept any challenge from Joe Goss or anybody else to fight for money, for as big stakes as desired, and dismissed a Philadelphia report that Goss had come to challenge him.",
+      "date": "1876-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["068.c6"]
+    },
+    {
+      "fact": "Tom Allen said he had given Joe Coburn every chance to fight him, but Coburn would not fight.",
+      "date": "1876-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["069.c8"]
+    },
+    {
+      "fact": "Tom Allen had a standing challenge out, offering to fight any man in the world.",
+      "date": "1876-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["283.c1"]
+    },
+    {
+      "fact": "In April 1876 Tom Allen sought a championship match with Joe Goss for a $2,000 side bet and challenged him to fight in the Indian Territory; the match had not yet been made.",
+      "date": "1876-04",
+      "seed": "",
+      "conflict": "challenger: Allen challenged Goss (283.c4, medium) vs Goss challenged Allen on 2 May 1876 (challenge-1876-1877#11)",
+      "claims": ["235.c15", "283.c3", "283.c4"]
+    },
+    {
+      "fact": "Joe Goss said Tom Allen had written him several letters inviting him to come to America.",
+      "date": "1876-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["285.c2"]
+    },
+    {
+      "fact": "A fight between Tom Allen and Joe Goss was pending in May 1876, and Allen expected to make a satisfactory match to be fought in the Southwest.",
+      "date": "1876-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["076.c4", "082.c1"]
+    },
+    {
+      "fact": "The fight between Tom Allen and Joe Goss was to take place a fixed time after the articles were signed, in May 1876.",
+      "date": "1876-05",
+      "seed": "",
+      "conflict": "time to fight: within twelve weeks of 2 May 1876 (076.c3) vs four months after signing (077.c4, 082.c5)",
+      "claims": ["076.c3", "077.c4", "082.c5"]
+    },
+    {
+      "fact": "Tom Allen had wordy contests with Joe Coburn, George Rooke, Ned O'Baldwin and others, which made them his enemies.",
+      "date": "1876-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["084.c12"]
+    },
+    {
+      "fact": "On November 20, 1879, Tom Allen, then in London, issued a challenge to fight John Dwyer or any man at catch weights for $1,000 a side, in Canada within 100 miles of Buffalo or within 50 miles of Pittsburg.",
+      "date": "1879-11-20",
+      "seed": "",
+      "conflict": "",
+      "claims": ["095.c4"],
+      "join": "challenge-1878-1880#6"
+    },
+    {
+      "fact": "At his exhibition on November 27, 1882, John L. Sullivan said he had not come to make a match with Tom Allen and would not be permitted to spar with him, and a fight between them was then considered scarcely probable.",
+      "date": "1882-11-27",
+      "seed": "",
+      "conflict": "",
+      "claims": ["102.c9"],
+      "join": "challenge-1882-1897#5"
+    },
+    {
+      "fact": "In December 1882 Tom Allen planned to challenge any man in the world once his backer had set him up in business, and to hold any fight in the Indian Nation on the M., K. & T. road, a day's ride from St. Louis, to avoid police interference.",
+      "date": "1882-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["102.c7", "102.c8"]
+    },
+    {
+      "fact": "Tom Allen left England to come to America to meet John L. Sullivan.",
+      "date": "1882",
+      "seed": "016",
+      "conflict": "",
+      "claims": ["271.c8"]
+    },
+    {
+      "fact": "Tom Allen's backer dropped the match when he saw how puffy and old Allen had become.",
+      "date": "1883-03",
+      "seed": "",
+      "conflict": "",
+      "claims": ["103.c4"]
+    },
+    {
+      "fact": "Tom Allen put up the first $250 forfeit for a Dan Daly and Hugh McManus match, and later made the other forfeit deposits himself until he had put up the whole $1,000. Dan Daly said McManus had bluffed into the match, and Allen stuck on technicalities to avoid either fighting or forfeiting his $1,000.",
+      "date": "1888",
+      "seed": "",
+      "conflict": "",
+      "claims": ["134.c1", "134.c2", "134.c3", "134.c4", "134.c5"]
+    },
+    {
+      "fact": "In November 1892 Tom Allen said he had told Dutch Niel he would give $50 toward a purse for Niel's contest with Johnnie Daly, and denied that he would furnish a $500 side bet.",
+      "date": "1892-11-11",
+      "seed": "",
+      "conflict": "side bet: Niel's representative said Allen would back Niel for $500 a side (149.c1, medium) vs Allen's denial of a $500 side bet",
+      "claims": ["149.c1"],
+      "join": "challenge-1882-1897#13"
+    },
+    {
+      "fact": "Billy Carroll, who kept a dramatic saloon near the Varieties, was the go-between through whom Tom Allen and Mike McCoole arranged their match.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["016.c4"]
+    },
+    {
+      "fact": "Tom Allen had repeatedly challenged Joe Coburn and would sooner fight Coburn than any man living.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["057.c3"]
+    },
+    {
+      "fact": "Ben Hogan was matched against Tom Allen in a scheme arranged to rob Allen and his backers, carried out by a crowd of toughs.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["140.c4"]
+    },
+    {
+      "fact": "Tom Allen challenged John L. Sullivan to a fight in New York, and the challenge came to nothing.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["180.c28"]
+    },
+    {
+      "fact": "Ben Hogan challenged Tom Allen for a $2,000 side bet and the heavyweight championship of America.",
+      "date": "",
+      "seed": "",
+      "conflict": "response: Allen accepted (236.c3) vs Allen ignored the offer from Hogan's backers (236.c2)",
+      "claims": ["236.c2", "236.c3"]
+    },
+    {
+      "fact": "After Allen's poor showing in the exhibition, Richard K. Fox dropped the idea of Allen fighting John L. Sullivan.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["247.c6"]
+    },
+    {
+      "fact": "After the McCoole fight, a rematch was negotiated, but McCoole withdrew, leaving Tom Allen in actual possession of the title.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["281.c9"]
+    },
+    {
+      "fact": "Mike McCoole challenged Tom Allen to a fight, but McCoole's friends and backers prevented the match.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["352.c8"]
+    },
+    {
+      "fact": "At the Davis fight Tom Allen wanted to fight Charley Gallagher in the same ring straight after, but his friends prevented it, and Gallagher said at ringside that he could lick any Englishman in Allen's corner.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": ["352.c11", "352.c12"]
+    }
+  ]
+}

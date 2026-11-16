@@ -1,0 +1,89 @@
+{
+  "id": "020",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen, Charley Gallagher and Mike McCoole were permanent residents of St. Louis.",
+      "excerpt": "Allen, Gallagher and McCoole are permanent resi-\ndepts and permanent attractions",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher", "Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was one of three champions in St. Louis, along with Charley Gallagher and Mike McCoole, each ready to wear the belt.",
+      "excerpt": "Allen, Gallagher and McCoole are permanent resi-\ndepts and permanent attractions",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher", "Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon, a 'Concert Saloon' on Fifth Street between Biddle and O'Fallon streets, had a bar in front and a back room with tables and a piano.",
+      "excerpt": "This establishment is on Fitth, between Biddle and\nO’Falion streets",
+      "date": "1869-08-16",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Fifth Street between Biddle and O'Fallon streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Charley Gallagher were expected to fight on August 17, 1869, and were keeping out of sight until the fight was ready to start.",
+      "excerpt": "Messrs. Allen and Gallagher propose to keep them-\nselves out of sight until the ball is ready to open,",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen and Charley Gallagher were expected to join the excursion steamer at some point beyond the city.",
+      "excerpt": "and will probably jom the steamer at some point be-\nyond the city.",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was understood to be in fine condition on the day of the fight.",
+      "excerpt": "Both are understood to be in tine con-\nditior",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Messrs. Allen and Gallagher propose to keep them-\nselves out of sight until the ball is ready to open,",
+      "reported_as": "report",
+      "notes": "Fight expected on the day of this article ('the one expected to-day'); not yet held in this article."
+    }
+  ],
+  "notes": "The paper's 'Concert Saloon' description is the source for the saloon claim. The hint that patrons were mostly English describes the saloon's crowd, not Allen, so it is not recorded."
+}

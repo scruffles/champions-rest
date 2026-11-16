@@ -1,0 +1,96 @@
+{
+  "id": "075",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen arrived in St. Louis from Cincinnati, where he had gone to cover Joe Goss's forfeit money.",
+      "excerpt": "rived inthe c'ty this morning from Ciacin-\nnati",
+      "date": "1876-05-01",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["St. Louis", "Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Ned Donelly sued Tom Allen before Justice Walther for $125, which he claimed was due for sparring exhibitions at the Comique.",
+      "excerpt": "suit for $125, which. Ned claims, is due him from Tcm for certain sparring exhibitions",
+      "date": "1876-05-01",
+      "date_precision": "day",
+      "people": ["Ned Donelly", "Justice Walther"],
+      "places": ["the Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The hearing of Ned Donelly's suit against Tom Allen was postponed until two o'clock the next afternoon.",
+      "excerpt": "scme reason the suit was pestponed until lwo o’clock to-morrew afternoon",
+      "date": "1876-05-02",
+      "date_precision": "day",
+      "people": ["Ned Donelly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen gave sparring exhibitions at the Comique some weeks before May 1876.",
+      "excerpt": "certain sparring exhibitions given at the Comique some weeks ago",
+      "date": "1876-04",
+      "date_precision": "approx",
+      "people": ["Ned Donelly"],
+      "places": ["the Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A battle between Joe Goss and Tom Allen was stated to be set for an early day.",
+      "excerpt": "It is now definitely stated that a battle will take place at an early day between Joe Goss and Tom Allen.",
+      "date": "1876-05",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Both parties put up forfeit money at Cincinnati, printed as 'Five hun-ched collars' (probably $500 each), to be raised to $1,000 once the time and place were set.",
+      "excerpt": "Five hun-\nched collars have already been put up",
+      "date": "1876-05",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen repeated that he would continue to live in St. Louis and had never intended otherwise.",
+      "excerpt": "He repcats his determination of continuing his reridence in St. Louis, and says he never",
+      "date": "1876-05-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was expected to make an engagement, in St. Louis or elsewhere, for another sparring exhibition on the stage.",
+      "excerpt": "ancther sparring exhibition on the stage.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The forfeit amount is OCR-garbled; the excerpt is kept as printed."
+}

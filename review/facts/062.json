@@ -1,0 +1,78 @@
+{
+  "id": "062",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen of St. Louis was described as holding the title of champion of America.",
+      "excerpt": "who holds the title of champion of America",
+      "date": "1876-01",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen was said to be waiting for Jem Mace to come to America and would look for another match if Mace did not come soon.",
+      "excerpt": "over, Allen will be looking for a match",
+      "date": "1876-01",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Johnny Dwyer beat Tom Allen several years earlier in a contest at Central Hall, Bowery, New York.",
+      "excerpt": "Johnny Dwyer beat Tom Allen several years ago in a",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Johnny Dwyer"],
+      "places": ["Central Hall, Bowery, New York"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Steve Taylor said he was ready to fight Tom Allen at catch weight under London prize ring rules for $1,000 a side (printed as '31,000'), within 500 miles of New York the next April.",
+      "excerpt": "bunt Tom Allen, to fight at catch weight",
+      "date": "1876-01-27",
+      "date_precision": "day",
+      "people": ["Steve Taylor"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen was said to want a rematch with Johnny Dwyer to reverse his earlier defeat.",
+      "excerpt": "would just suit Allen to arrange a mateh",
+      "date": "1876-01",
+      "date_precision": "approx",
+      "people": ["Johnny Dwyer"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Johnny Dwyer",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Central Hall, Bowery, New York",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Johnny Dwyer beat Tom Allen several years ago in a",
+      "reported_as": "recollection",
+      "notes": "Mentioned in passing as a defeat several years earlier."
+    }
+  ],
+  "notes": "Chicago Times reprint about other men's matches. Allen's only own words are not printed here; the rematch and the Mace status are the paper's view of his plans."
+}

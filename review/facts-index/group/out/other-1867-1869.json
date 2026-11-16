@@ -1,0 +1,173 @@
+{
+  "bucket": "other-1867-1869",
+  "facts": [
+    {
+      "fact": "In 1867 Tom Allen seconded Tom Kelly of Baltimore against Billy Parkinson at Acquia Creek, agreed to help Kelly's backers, and cut the ropes so Kelly's crowd could rush the ring; the referee awarded the fight to Parkinson on a foul.",
+      "date": "1867",
+      "seed": "033",
+      "conflict": "",
+      "claims": ["180.c14", "180.c15", "180.c16", "234.c15", "234.c16", "234.c17", "234.c18", "234.c19"]
+    },
+    {
+      "fact": "In 1867 Tom Allen was about 5 feet 10 inches tall and weighed about 164 pounds.",
+      "date": "1867",
+      "seed": "",
+      "conflict": "",
+      "claims": ["229.c3"]
+    },
+    {
+      "fact": "Tom Allen was one of Jimmy Elliott's seconds when Elliott fought Charley Gallagher on Peche Island in the Detroit River on November 12, 1868; after 21 rounds the referee decided for Elliott.",
+      "date": "1868-11-12",
+      "seed": "033",
+      "conflict": "location spelling: Pieche Island (295.c1, 295.c2) vs Peach Island (623.c1); 623.c1 gives the stake as $600 and prints the year as 1968",
+      "claims": ["295.c1", "295.c2", "295.c3", "623.c1"]
+    },
+    {
+      "fact": "Charles Convy Gallagher, a Cleveland fighter, was described as a warm friend of Tom Allen in December 1868.",
+      "date": "1868-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["002.c7"]
+    },
+    {
+      "fact": "Bill Ryall signed the articles of agreement for Tom Allen's fight with Bill Davis, with Harry Slade and Bill Ryall as Allen's friends at the making of the match.",
+      "date": "1868-12-04",
+      "seed": "",
+      "conflict": "",
+      "claims": ["002.c2", "298.c2"]
+    },
+    {
+      "fact": "Tom Allen trained for his fight with Bill Davis in December 1868; Davis's fighting weight was 185 pounds, and Allen would not carry so much weight.",
+      "date": "1868-12-07",
+      "seed": "",
+      "conflict": "",
+      "claims": ["299.c1", "299.c2", "002.c6"]
+    },
+    {
+      "fact": "On Christmas night 1868 men said to be Allen's backers confronted Bill Davis at Doyle's near the Fair Grounds, and one of them cut Davis's wrist with a knife.",
+      "date": "1868-12-25",
+      "seed": "",
+      "conflict": "character of the encounter: seven or eight men attacked Davis (004.c2) vs rowdies quarrelled with Davis (300.c2)",
+      "claims": ["004.c2", "300.c2"]
+    },
+    {
+      "fact": "In January 1869 Tom Allen trained on the Gravois road, about nine miles from St. Louis, under Tom Kelly.",
+      "date": "1869-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["006.c3"]
+    },
+    {
+      "fact": "Tom Allen fought Bill Davis on January 12, 1869, with Bill Ryall and Tom Kelly as his seconds, and collected a contribution of about $150 for Davis after the fight.",
+      "date": "1869-01-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["007.c6", "303.c16", "007.c9", "303.c18"]
+    },
+    {
+      "fact": "On the boat back from the Davis fight on January 12, 1869, Tom Allen and Charles Gallagher nearly fought in the cabin until the crowd kept them apart.",
+      "date": "1869-01-12",
+      "seed": "",
+      "conflict": "",
+      "claims": ["303.c22"]
+    },
+    {
+      "fact": "Tom Allen fought Charlie Gallagher on February 23, 1869, seconded by Patsy Reardon and Jack Looney, with Dan Ryan as umpire; Allen was reported to have said he was England's champion.",
+      "date": "1869-02-23",
+      "seed": "",
+      "conflict": "",
+      "claims": ["008.c2", "009.c3", "009.c4", "009.c7", "307.c3"]
+    },
+    {
+      "fact": "In May 1869 Tom Allen went into training under Sherman Thurston, and his weight was printed in garbled form (probably 165 pounds).",
+      "date": "1869-05",
+      "seed": "",
+      "conflict": "",
+      "claims": ["316.c3", "318.c2", "319.c2", "319.c5"]
+    },
+    {
+      "fact": "Tom Keho acted for Mike McCoole and Billy Carroll acted for Tom Allen at a final deposit on June 8, 1869.",
+      "date": "1869-06-08",
+      "seed": "",
+      "conflict": "",
+      "claims": ["321.c2"]
+    },
+    {
+      "fact": "A full-length portrait of Tom Allen, the renowned pugilist, was made by a photographer in June 1869.",
+      "date": "1869-06",
+      "seed": "",
+      "conflict": "",
+      "claims": ["330.c1"]
+    },
+    {
+      "fact": "Tom Allen was invited to the Laclede Jockey Club races with his trainers and would probably attend the last day.",
+      "date": "1869-06-18",
+      "seed": "",
+      "conflict": "",
+      "claims": ["327.c1"]
+    },
+    {
+      "fact": "The preliminaries of the Allen and McCoole match were arranged on July 9, 1869 at Hennessy's saloon, with Tom Kelley appearing for Mike McCoole.",
+      "date": "1869-07-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["337.c2", "337.c3"]
+    },
+    {
+      "fact": "Jim Coyne was Tom Allen's mentor in July 1869.",
+      "date": "1869-07-16",
+      "seed": "",
+      "conflict": "",
+      "claims": ["341.c2"]
+    },
+    {
+      "fact": "Tom Allen fought Charley Gallagher on August 17, 1869, under American colors; afterwards Gallagher struck at him spitefully as Allen went to shake hands, and the outcome was disputed.",
+      "date": "1869-08-17",
+      "seed": "",
+      "conflict": "outcome: Dad Ryan, Allen's second, claimed the referee gave Allen the fight (359.c3) vs Allen saying the referee made no final decision because Gallagher's second threw up the sponge (356.c2)",
+      "claims": ["355.c2", "357.c2", "361.c6", "909.c14", "356.c1", "356.c2", "359.c3"]
+    },
+    {
+      "fact": "Tom Allen made a speech of thanks to his hearers at a reception in September 1869.",
+      "date": "1869-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["368.c5"]
+    },
+    {
+      "fact": "Tom Allen and Jim Coyne were to be present at a deposit on October 9, 1869.",
+      "date": "1869-10-09",
+      "seed": "",
+      "conflict": "",
+      "claims": ["369.c3"]
+    },
+    {
+      "fact": "Tom Allen had numerous friends in Cincinnati, judging by the tone of the Cincinnati press.",
+      "date": "1869-10-26",
+      "seed": "",
+      "conflict": "",
+      "claims": ["023.c2"]
+    },
+    {
+      "fact": "Tom Allen had a row with Sherman Thurston at the Buckeye House in Cincinnati on October 31, 1869; the Enquirer says it was settled with a drink and a handshake.",
+      "date": "1869-10-31",
+      "seed": "",
+      "conflict": "",
+      "claims": ["373.c2"]
+    },
+    {
+      "fact": "In November 1869 Tom Allen's backers rejected Mike McCoole's choice of stakeholder, Murray, and Bill Carroll and Mr. Thorweger of St. Louis went to Cincinnati to settle the dispute.",
+      "date": "1869-11",
+      "seed": "",
+      "conflict": "",
+      "claims": ["024.c2", "024.c4", "024.c5"]
+    },
+    {
+      "fact": "On December 1, 1869 Tom Allen said Mike McCoole was very good as a private citizen but stood No. 3 as a fighter, and Billy Carroll was authorized to make all arrangements for Allen's fights.",
+      "date": "1869-12-01",
+      "seed": "",
+      "conflict": "",
+      "claims": ["025.c3", "025.c4"]
+    }
+  ]
+}

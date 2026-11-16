@@ -1,0 +1,19 @@
+{
+  "id": "066",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen had a star engagement at the Theatre Comique, Pine Street, St. Louis, with Ned Donnelly in the crib scene of Tom and Jerry, and it was closing.",
+      "excerpt": "Tom. Allen’s = star engagement closes",
+      "date": "1876-03",
+      "date_precision": "month",
+      "people": ["Ned Donnelly"],
+      "places": ["Theatre Comique, Pine Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Garbled ad (OCR). The 'with gloves nightly' detail from the hint is not in the text and is dropped."
+}

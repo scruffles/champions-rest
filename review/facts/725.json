@@ -1,0 +1,103 @@
+{
+  "id": "725",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole about eighteen months after McCoole's wedding (text garbled: printed as 'pet 3 ee Le Tom Alien').",
+      "excerpt": "Mike was pet 3 ee\nLe Tom Alien, andpMcCoole began to go down",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Coburn fought; Allen was not exactly knocked out by Coburn but was 'dis-' (garbled) and had to run away to England.",
+      "excerpt": "wasn’t ex-\nactiy knocked out by. Coburn, but he was dis-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Coburn"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen had to run away to Birmingham, England, to escape going to the penitentiary (printed as 'B ingham').",
+      "excerpt": "to run away to\nB ingham, England, tn order to escape go-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Coburn served a term in the Pennsylvania State Prison on account of his fight with Tom Allen.",
+      "excerpt": "He had to serve\naterm in the Pennsylvania State Prison on\naccount of his fight with Allen,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Coburn"],
+      "places": ["Pennsylvania State Prison"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen made a lot of money in his prime and lost it as fast.",
+      "excerpt": "Allen made stacks of\nmoney in his Pom, days, but lost them as",
+      "date": "",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "business",
+      "statement": "In 1884 Tom Allen was running a concern (printed 'og') on Market Street, St. Louis, barely making a living.",
+      "excerpt": "and he Is now running a rather og\nconcern on Market street, st. Louis,",
+      "date": "1884-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Mike was pet 3 ee\nLe Tom Alien, andpMcCoole began to go down",
+      "reported_as": "recollection",
+      "notes": "Garbled; 'pet' probably 'beaten', so Allen won. Date only given as about eighteen months after McCoole's wedding. Tom was never satisfied until he met Mike."
+    },
+    {
+      "opponent": "Coburn",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "wasn’t ex-\nactiy knocked out by. Coburn, but he was dis-",
+      "reported_as": "recollection",
+      "notes": "Outcome garbled ('dis-' ...). Allen then fled to Birmingham, England, and Coburn went to prison."
+    }
+  ],
+  "notes": "Article about McCoole's and Allen's decline, in part reprinted from the Minneapolis Tribune. Several Allen-related words are garbled (pet, dis-, B ingham, og)."
+}

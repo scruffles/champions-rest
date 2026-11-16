@@ -1,0 +1,56 @@
+{
+  "id": "337",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "A match was made on the night of July 9, 1869, between Tom Allen and Mike McCoole for $2,500 a side, to be fought in four months within fifty miles of Cincinnati.",
+      "excerpt": "Coole and Tom Allen for $2,500 a side, the battle to",
+      "date": "1869-07-09",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["within fifty miles of Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "The preliminaries of the Allen and McCoole match were arranged at Hennesy's saloon in the presence of Allen, Charley Gallagher and Looney.",
+      "excerpt": "in presence of Allen, Gallagher, Looney and others.",
+      "date": "1869-07-09",
+      "date_precision": "day",
+      "people": ["Charley Gallagher", "Looney"],
+      "places": ["Hennesy's saloon, corner of Fourth and Morgan"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Kelley appeared for Mike McCoole when the preliminaries of the Allen match were arranged.",
+      "excerpt": "Tom Kelley appeared for McCoole.",
+      "date": "1869-07-09",
+      "date_precision": "day",
+      "people": ["Tom Kelley", "Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-11",
+      "date_precision": "approx",
+      "place": "within fifty miles of Cincinnati",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,500 a side",
+      "rules": "",
+      "excerpt": "Coole and Tom Allen for $2,500 a side, the battle to",
+      "reported_as": "report",
+      "notes": "Match agreed but not yet fought; the battle was to take place in four months, which is worked out as about November 1869."
+    }
+  ],
+  "notes": "Article is the match announcement; the preliminaries took place at Hennesy's saloon. The date is from the 'last night' in a paper dated 10 July."
+}

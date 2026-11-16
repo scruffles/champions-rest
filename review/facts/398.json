@@ -1,0 +1,45 @@
+{
+  "id": "398",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Jem Mace were to fight near New Orleans on 10 May 1870.",
+      "excerpt": "the great mill between Tom Allen and Jem Mace will take place near New Orleane",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["near New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Opinion in St. Louis favoured Mace to win, while Allen was the favourite at New Orleans.",
+      "excerpt": "The general opinion here is that Mace will win, but st New Orleans Allen is the favorite",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["St. Louis", "New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870-05-10",
+      "date_precision": "day",
+      "place": "near New Orleans",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the great mill between Tom Allen and Jem Mace will take place near New Orleane",
+      "reported_as": "report",
+      "notes": "Written before the fight; the result is in article 399."
+    }
+  ],
+  "notes": ""
+}

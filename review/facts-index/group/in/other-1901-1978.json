@@ -1,0 +1,127 @@
+{
+ "bucket": "other-1901-1978",
+ "kind": "other",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "190.c1",
+   "date": "1901-02",
+   "published": "1901-02-01",
+   "conf": "medium",
+   "statement": "Tom Allen sold property on the south side of Geyer Avenue, between Ninth and Tenth, to Henry Steinmeyer for $2,500."
+  },
+  {
+   "cid": "1004.c10",
+   "date": "1903-03",
+   "published": "1903-04-06",
+   "conf": "medium",
+   "statement": "A will Tom Allen made a few weeks before his death was witnessed by Dr. Heine Marks and Dr. C. A. Newcomb."
+  },
+  {
+   "cid": "1003.c3",
+   "date": "1903-04",
+   "published": "1903-04-05",
+   "conf": "medium",
+   "statement": "Friends of Allen say quasi strangers are trying to get his property, taking advantage of his mental condition."
+  },
+  {
+   "cid": "1003.c11",
+   "date": "1903-04",
+   "published": "1903-04-05",
+   "conf": "low",
+   "statement": "Parties were said to be trying to get possession of Allen's horse and buggy at Wand's livery stable in order to sell it."
+  },
+  {
+   "cid": "1003.c12",
+   "date": "1903-04",
+   "published": "1903-04-05",
+   "conf": "low",
+   "statement": "It was reported that Allen's safety deposit box had been opened and $500 taken."
+  },
+  {
+   "cid": "1007.c2",
+   "date": "1903-04-06",
+   "published": "1903-04-07",
+   "statement": "Allen's will, filed for probate, left his estate, except $20, to Mrs. Tillie Hartgrave."
+  },
+  {
+   "cid": "207.c1",
+   "date": "1903-04-08",
+   "published": "1903-04-09",
+   "statement": "Public Administrator Garrard Strode took charge of the estate of Thomas Allen, the late saloonkeeper and former prize fighter."
+  },
+  {
+   "cid": "207.c6",
+   "date": "1903-04-08",
+   "published": "1903-04-09",
+   "conf": "low",
+   "statement": "Mrs. Tillie Hartgrove (printed 'Hart', cut off) stood on the other side of the coffin at the funeral."
+  },
+  {
+   "cid": "208.c5",
+   "date": "1903-04-11",
+   "published": "1903-04-11",
+   "conf": "medium",
+   "statement": "R. W. L. Gillespie said Allen left no estate, as was generally supposed."
+  },
+  {
+   "cid": "216.c10",
+   "date": "1903-06",
+   "published": "1903-06-20",
+   "conf": "medium",
+   "statement": "Market Street believed the spirit of Tom Allen was ringing the bell behind the bar at Champion's Rest."
+  },
+  {
+   "cid": "1009.c4",
+   "date": "1903-07",
+   "published": "1903-07-19",
+   "statement": "Hartgrove and J. W. Gillespie went to Clayton and failed to get the hat from Barrington, who denied having it."
+  },
+  {
+   "cid": "217.c1",
+   "date": "1903-07",
+   "published": "1903-07-15",
+   "conf": "medium",
+   "statement": "Tillie Hartgrove, housekeeper for the late Tom Allen, says the silk hat worn by 'Lord' Barrington is the property of the Allen estate."
+  },
+  {
+   "cid": "1009.c6",
+   "date": "1903-07-17",
+   "published": "1903-07-19",
+   "statement": "Barrington returned the disputed hat by messenger boy with a note reading 'From Barington'."
+  },
+  {
+   "cid": "1009.c8",
+   "date": "1903-07-19",
+   "published": "1903-07-19",
+   "statement": "The hat was put on display for Allen's friends, along with the silver cup he won in 1878."
+  },
+  {
+   "cid": "1011.c5",
+   "date": "1903-07-28",
+   "published": "1903-07-28",
+   "conf": "medium",
+   "statement": "The inventory listed a champion's cup and shade, a barrel of whisky and other goods among Allen's property."
+  },
+  {
+   "cid": "262.c10",
+   "date": "1938",
+   "published": "1978",
+   "retro": true,
+   "statement": "Allen's silver cup was retrieved from a Market Street pawn shop in 1938 by the father of Thomas Allen Taylor."
+  },
+  {
+   "cid": "263.c12",
+   "date": "1938",
+   "published": "1978-04-04",
+   "retro": true,
+   "statement": "Tom Allen's silver cup went to Miss Hartgrove, and was retrieved from a Market Street pawn shop in 1938 by Tom Taylor's father."
+  },
+  {
+   "cid": "262.c11",
+   "date": "1978",
+   "published": "1978",
+   "statement": "In 1978 Allen's silver cup was in the home of his great-grandson Thomas Allen Taylor."
+  }
+ ]
+}

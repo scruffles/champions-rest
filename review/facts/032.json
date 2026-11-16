@@ -1,0 +1,30 @@
+{
+  "id": "032",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "A testimonial benefit for Tom Allen was to be held at the Theatre Comique, corner of Fifth and Biddle, on Saturday 30 April 1870, where he would be presented with his colors and the champion belt of America.",
+      "excerpt": "GRAND TESTIMONIAL to be given for the benefit of Tom Allen, champion of America",
+      "date": "1870-04-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Theatre Comique, corner of Fifth and Biddle"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "In April 1870 the paper calls Tom Allen 'champion of America'.",
+      "excerpt": "of Tom Allen, champion of America,at Theatre Comique",
+      "date": "1870-04-29",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Short notice of the benefit; the belt is described in article 033."
+}

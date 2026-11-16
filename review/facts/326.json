@@ -1,0 +1,128 @@
+{
+  "id": "326",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole fought the late prize fight on June 15, 1869.",
+      "excerpt": "the late preuse Gight betweos Tom Allen ani Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Referee Val McKinney swore that Sherman Thurston and Billy Carroll offered to let him name his price to decide the fight for them.",
+      "excerpt": "Om the way bome, Shermsa Thurston and Billy",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Val McKinney", "Sherman Thurston", "Billy Carroll"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Billy Carroll offered $100 to any responsible man who would say he had offered to bribe McKinney; Carroll, Thurston, B. Riley and James Stewart swore counter-affidavits.",
+      "excerpt": "Carroll ofiers to give any responsible man one hundred dollars",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": ["Billy Carroll", "Sherman Thurston", "Val McKinney"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "The money taken on the boat stayed with the men who took charge of it under a legal process; the stakes were understood not to have been given up.",
+      "excerpt": "that a legal process compels brm to bold on to 1t for the presest",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen refused to fight McCoole again near St. Louis, because he did not believe he could get fair play there.",
+      "excerpt": "St, Louis, for the reason that the jewel of fair play",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen offered to fight McCoole about three hundred miles east, in Kentucky, for $5,000 or more, with six friends each.",
+      "excerpt": "be wil fight Mike three handrei miles eas* 01 here, say in Kentucky",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": ["Kentucky"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen offered to fight Charlie Gallagher at any place a respectable distance from St. Louis, wagering $2,500 to $1,500 on himself (printed as 61,500).",
+      "excerpt": "Allen will Gght Charlie Gallagher atany place, so that it be a respectable distamce from 8t. Lous",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": ["Charlie Gallagher"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen wanted the Clipper or Wilkes' Spirit as stakeholder for any match.",
+      "excerpt": "Allen wants either the Clipzefor Wilke’: Spirit to be stake bolders",
+      "date": "1869-06",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "McCoole offered, if Allen preferred, to fight him privately in a room before a few friends (text garbled).",
+      "excerpt": "I will go with bum t some room",
+      "date": "1869-06-17",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Mike McCoole",
+      "text": "Aliep Bas beem blowing about town that be could whip me",
+      "topic": "Allen's boasts"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the late preuse Gight betweos Tom Allen ani Mike McCoole",
+      "reported_as": "report",
+      "notes": "Result disputed: the referee's sworn account and counter-affidavits are in the legal claims. Not stated in this article."
+    }
+  ],
+  "notes": "Affidavit and counter-affidavit text is OCR-damaged; McCoole's challenge terms are garbled. Thurston and Carroll are not described here as Allen's men. The bribe claims are sworn statements, not verified."
+}

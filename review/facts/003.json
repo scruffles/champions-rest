@@ -1,0 +1,34 @@
+{
+  "id": "003",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Bill Davis, who was getting into condition for his fight with Tom Allen, was visited by sports at the Fair Grounds on Sunday.",
+      "excerpt": "to sec Bill Davis, who is\ngetting into condition for the fight with Tom Allen",
+      "date": "1868-12-20",
+      "date_precision": "day",
+      "people": ["Bill Davis"],
+      "places": ["Fair Grounds"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Bill Davis",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "to sec Bill Davis, who is\ngetting into condition for the fight with Tom Allen",
+      "reported_as": "report",
+      "notes": "Only mentions the upcoming fight in passing. The date and place are not given in this item."
+    }
+  ],
+  "notes": "Allen is only named as Davis's opponent."
+}

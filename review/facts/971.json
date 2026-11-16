@@ -1,0 +1,45 @@
+{
+  "id": "971",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Jem Mace defeated Tom Allen in Mississippi in 1870.",
+      "excerpt": "aod Tom Allen after Mace'’s victory over Alles",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Jem Mace"],
+      "places": ["Mississippi"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "After Mace's victory, Jem Mace and Tom Allen toured the country together, and the tour made a big pot of money for both.",
+      "excerpt": "by the teur of the country made by Jem Mace",
+      "date": "1870",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870",
+      "date_precision": "year",
+      "place": "Mississippi",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "aod Tom Allen after Mace'’s victory over Alles",
+      "reported_as": "recollection",
+      "notes": "Year printed as 'IStd' (OCR), read as 1870, low confidence."
+    }
+  ],
+  "notes": "Allen appears only in the Mace tour paragraph of a column quoting Joe Campbell. The 1870 year is read from garbled OCR."
+}

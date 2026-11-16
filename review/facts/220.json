@@ -1,0 +1,63 @@
+{
+  "id": "220",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "The Champion's Rest, once owned by Tom Allen, is now run by Jack Gillespie, a Klondike fortune-seeker.",
+      "excerpt": "Allen, but now goyerned by Jack",
+      "date": "1903-08",
+      "date_precision": "month",
+      "people": ["Jack Gillespie"],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen used to regale his patrons at the Champion's Rest with stories of his famous encounters.",
+      "excerpt": "Allen used to regale his patrons with",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "At the Champion's Rest a hobo may sleep in a chair in the parquet even if he has no money.",
+      "excerpt": "the parquet is at his disposal, even if-he",
+      "date": "1903-08",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Pictures on the walls of the Champion's Rest give evidence of Tom Allen's victorious days.",
+      "excerpt": "the victorious days of old Tom, and while",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "The article implies that Tom Allen, the 'king' of the Champion's Rest, is already dead, and Jack Gillespie is the new ruler of the place.",
+      "excerpt": "The king is dead and the new morarch",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jack Gillespie"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mostly about the hobo audience and the moving-picture show, not Allen. Death is only implied; the 1907 article (221) says Allen died about two years earlier (about 1905), which conflicts with this article's implication that he was dead by August 1903. The dream passage with Tom Allen at the piano is imagery, not extracted. The cup and English-title lines are garbled in the OCR and not extracted. The McCoy-Maher film fight is not Allen's."
+}

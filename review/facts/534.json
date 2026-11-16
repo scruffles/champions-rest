@@ -1,0 +1,63 @@
+{
+  "id": "534",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen offered to back Theobald Bauer to wrestle Andre Christol.",
+      "excerpt": "with Mr. Tom Allen, in which he desires to back Bauer to wrestle against me",
+      "date": "1876-03",
+      "date_precision": "month",
+      "people": ["Theobald Bauer", "Andre Christol"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Andre Christol wrote from Chicago that he would wrestle Theobald Bauer only in Chicago, where he would stay for six weeks, and not in St. Louis.",
+      "excerpt": "I will be in Chicago for six weeks, and itis beter for me to wrentie bere than to go to St. Louis.",
+      "date": "1876-03",
+      "date_precision": "month",
+      "people": ["Andre Christol", "Theobald Bauer"],
+      "places": ["Chicago", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen brought Theobald Bauer from Boston to St. Louis on the word of a Chicago friend that Andre Christol would wrestle him there.",
+      "excerpt": "Allen brought Baner out here from Boston, on the assertion of a Well-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Theobald Bauer", "Andre Christol"],
+      "places": ["Boston", "St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen gave a sparring exhibition in Louisville on March 11, 1876, assisted by his trainers Ned Donnelly and Jack Madden and local boxers.",
+      "excerpt": "Allen left for Louis-—\nville yesterday, and last night gave a sparring ex-",
+      "date": "1876-03-11",
+      "date_precision": "day",
+      "people": ["Ned Donnelly", "Jack Madden"],
+      "places": ["Louisville"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Chicago backers telegraphed Tom Allen's office that they would back Andre Christol to wrestle in St. Louis, and Allen was to give a definite answer.",
+      "excerpt": "received at <Allen’s, stating that Chicago men have been found who will back Christol to wrestle",
+      "date": "1876-03",
+      "date_precision": "month",
+      "people": ["Andre Christol"],
+      "places": ["St. Louis", "Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Christol's letter is dated 'March 10, 1875' in print; the year is most likely a misprint, so the month is used. The telegram claim is 'it is said' by the paper and rated medium."
+}

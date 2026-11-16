@@ -1,0 +1,89 @@
+{
+  "id": "490",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was already in the vicinity of the fighting ground, having left on Sunday morning, October 26, 1873.",
+      "excerpt": "Allen is already) in the vicinity) of the one",
+      "date": "1873-10-26",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen and Ben Hogan were both in excellent condition on the day of the fight.",
+      "excerpt": "lent condition, and if the fight is to be decided on",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Ben Hogan agreed to fight on October 28, 1873, for a $2,000 purse ($1,000 a side) under the new rules.",
+      "excerpt": "to fight the said Tom Allen a fair stan up ought,",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Arthur Chambers and Patsy Curtin were to second Tom Allen in the fight.",
+      "excerpt": "seconded by Arthur Chambers and Patsy Curtin, -",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Arthur Chambers", "Patsy Curtin"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "A benefit for Tom Allen was to be held at Deagle's Theater the night of the fight, with Ben Hogan, Arthur Chambers and Young Ryan expected to spar.",
+      "excerpt": "Allen = for a benefitat Deagle’s Theater to-",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "people": ["Ben Hogan", "Arthur Chambers", "Young Ryan"],
+      "places": ["Deagle's Theater"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Betting at Tom Allen's Washington Avenue saloon the night before the fight made him the strong favorite.",
+      "excerpt": "Washmgton avenue drum Tom was, of course,ia’",
+      "date": "1873-10-27",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Washington Avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "1873-10-28",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,000 purse ($1,000 a side)",
+      "rules": "new rules",
+      "excerpt": "to fight the said Tom Allen a fair stan up ought,",
+      "reported_as": "report",
+      "notes": "Articles of agreement reprinted; signing date garbled in OCR ('S3th', September 1873). Place to be picked by two men."
+    }
+  ],
+  "notes": "Articles of agreement are reprinted in the article; Allen's own words are not quoted."
+}

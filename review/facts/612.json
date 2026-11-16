@@ -1,0 +1,19 @@
+{
+  "id": "612",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen had left the United States by the time Johnny Dwyer began seeking the championship, and Dwyer had not fought him while Allen was in this country.",
+      "excerpt": "who dared not oxen his jaw while Tom Allen was in this country",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Johnny Dwyer"],
+      "places": ["United States"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen appears only as the absent champion; the item is about Johnny Dwyer and Pat Ryan. No Allen fight or quote."
+}

@@ -1,0 +1,78 @@
+{
+  "id": "033",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was to be presented with a belt costing $1,000 by his St. Louis friends at the Theatre Comique on the evening of 30 April 1870.",
+      "excerpt": "Tom Allen this evening will be Presented with a Magnificent belt, by his St. Louts almirers, at the Theatre Comique",
+      "date": "1870-04-30",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "The belt given to Tom Allen was made under the supervision of Wm. Walsh, who had also supervised the belt presented to Mike McCoole.",
+      "excerpt": "It was made under che auperrision uf Wm. Waish, who supecmended the belt which was preseated te",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Wm. Walsh", "Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "Tom Allen is an Englishman who came to St. Louis as an unknown prize fighter.",
+      "excerpt": "Hecame here an anknown Kughshman. He Set up a8 a prize fizh.ec",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The paper says Tom Allen has fought his way to fortune and fame as a prize fighter.",
+      "excerpt": "has literally foraght his way to fortuns and to fams",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen is to fight Mace in an approaching mill, and excursion trains to New Orleans were arranged to carry spectators.",
+      "excerpt": "The approaching mili beiwsea Allien and Mace engages the ariention of fistis circles",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mace"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The approaching mili beiwsea Allien and Mace engages the ariention of fistis circles",
+      "reported_as": "report",
+      "notes": "Planned bout; no date given here (article 027 gives 10 May 1870). Place is only implied by the excursion trains to New Orleans, which is garbled in the OCR."
+    }
+  ],
+  "notes": "Much of the article is garbled OCR. The belt description is the paper's; the claim that Allen won the belt by hard fighting is unreadable and left out."
+}

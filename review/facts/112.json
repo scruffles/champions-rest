@@ -1,0 +1,36 @@
+{
+  "id": "112",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen confronted John L. Sullivan behind the footlights of the People's Theater in St. Louis over Sullivan's remarks about Zachritz.",
+      "excerpt": "went behind the footiights of the theater and with some heattold Sullivan",
+      "date": "1884-05-08",
+      "date_precision": "day",
+      "people": ["John L. Sullivan", "Zachritz"],
+      "places": ["People's Theater, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "A row between Allen and Sullivan seemed imminent until friends hustled them apart.",
+      "excerpt": "a row seemed imminent when the two men were surrounded by friends and hustied apart",
+      "date": "1884-05-08",
+      "date_precision": "day",
+      "people": ["John L. Sullivan"],
+      "places": ["People's Theater, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "of course youcan come here and make your biulls. We can’t stop that, but lcando up any maa in your gang except Sullivan, aod I'm just as goud 4manas Suilivan with my clothes on.",
+      "topic": "challenge to Sullivan's gang"
+    }
+  ],
+  "fights": [],
+  "notes": "Zachritz's challenge to Sullivan is not Allen's and is left out."
+}

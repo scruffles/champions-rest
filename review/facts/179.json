@@ -1,0 +1,74 @@
+{
+  "id": "179",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen shot Tim Confoy four times at Allen's saloon on Market Street, near Sixth.",
+      "excerpt": "Four shots struck Confoy. Builets pene-\narated each arm, shattering the bone.",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Tim Confoy"],
+      "places": ["Market Street, near Sixth, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "It is said there was no unusual disturbance before Tom Allen drew his revolver and began firing into the crowd.",
+      "excerpt": "when Allen drew his revolver and began firing into the crowd.",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Tim Confoy"],
+      "places": ["Market Street, near Sixth, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "John Spencer was wounded in the hand during the shooting and was not seriously hurt.",
+      "excerpt": "Spencer wes wounded in the hand, and Was not seriously hurt.",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["John Spencer"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Police took Tom Allen into custody after the shooting.",
+      "excerpt": "Sergeant Johnson and several patrolmen eniered the place and took Allen into cus-tody.",
+      "date": "1899-02-26",
+      "date_precision": "day",
+      "people": ["Sergeant Johnson"],
+      "places": ["Chestnut Street Station"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen ran a saloon on Market Street near Sixth, where the shooting happened.",
+      "excerpt": "at Tom Allen's saloon on Market st., Sixth at 2 o'clock this Morning",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Market Street, near Sixth, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen held the world's championship before he retired from the ring and came to St. Louis.",
+      "excerpt": "ld the world’s championship After ring he located",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The Champions' Rest is named in the subtitle. The career summary is badly garbled, so the career claim is low confidence. Confoy's death and Allen's account are in article 180. Hint 'legal' items are covered."
+}

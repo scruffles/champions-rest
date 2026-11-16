@@ -1,0 +1,56 @@
+{
+  "id": "035",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "From New York, Tom Allen issued a challenge to all professional bruisers except Mace and Heenan.",
+      "excerpt": "qhalienge to all professional bruisers except Mace and Heenan, to fight for",
+      "date": "1870-05-17",
+      "date_precision": "day",
+      "people": ["Mace", "Heenan"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen signed his challenge as champion of America, by permission of James Mace, champion of the world.",
+      "excerpt": "self “chempion of America, by permission of Mr.",
+      "date": "1870-05-17",
+      "date_precision": "day",
+      "people": ["James Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen admitted the defeat he received at the hands of an antagonist near New Orleans; the antagonist is not named.",
+      "excerpt": "admits the aefeat he received at the hancs of antagonist pear New Orleans",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["near New Orleans"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "unknown",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "near New Orleans",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "admits the aefeat he received at the hancs of antagonist pear New Orleans",
+      "reported_as": "report",
+      "notes": "Opponent not named in the text; the hint's identification with Mace is not stated here."
+    }
+  ],
+  "notes": "Stake amount is unreadable in the OCR, so the hint's $5,000 is dropped. The Coburn line is garbled and left out."
+}

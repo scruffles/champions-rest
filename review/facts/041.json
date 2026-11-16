@@ -1,0 +1,19 @@
+{
+  "id": "041",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen planned a grand opening of his new concert hall at 417 Washington avenue on Saturday, March 4, 1871, with concerts every Saturday, Sunday and Monday evening.",
+      "excerpt": "Tom Allen’s new concert hall 417 Washington avenue, on Saturday March 4th.",
+      "date": "1871-03-04",
+      "date_precision": "day",
+      "people": [],
+      "places": ["417 Washington avenue"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": ""
+}

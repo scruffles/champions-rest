@@ -1,0 +1,30 @@
+{
+  "id": "655",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Richard K. Fox deposited money with Harry Hill (amount printed as '$1,') as part of a challenge on Tom Allen's behalf.",
+      "excerpt": "Richard K, Fox } fepositead with Harry Hill $1, and",
+      "date": "1882-10-30",
+      "date_precision": "day",
+      "people": ["Richard K. Fox", "Harry Hill"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Richard K. Fox issued a challenge on Tom Allen's behalf to fight any pugilist, John L. Sullivan preferred, for the championship, at $1,000 to $2,500 a side, within three months of signing articles, near New Orleans.",
+      "excerpt": "to fight any pugilist, Jobn SJ Sulliy gveferred, for the championship Sie wo",
+      "date": "1882-10-30",
+      "date_precision": "day",
+      "people": ["Richard K. Fox", "John L. Sullivan"],
+      "places": ["New Orleans area (distance garbled)"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Deposit amount ('$1,') and the distance from New Orleans are garbled in the OCR; the amount is not stated clearly."
+}

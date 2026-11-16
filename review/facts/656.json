@@ -1,0 +1,19 @@
+{
+  "id": "656",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Richard K. Fox wants to back Tom Allen against John L. Sullivan or any other pugilist for the championship of the world.",
+      "excerpt": "Ricnarp K. Fox wants fo back Tom Allen against John L. Sullivan or any other",
+      "date": "1882-10",
+      "date_precision": "month",
+      "people": ["Richard K. Fox", "John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Brief news note with no dateline; the date is the paper's date of 31 October 1882."
+}

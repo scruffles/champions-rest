@@ -1,0 +1,19 @@
+{
+  "id": "648",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "The New York Herald reported that Tom Allen was living in a place printed as 'Posten', having made enough money to spend the rest of his days there in ease.",
+      "excerpt": "fom Allen is living in\" Posten. having made mise enough to Rese the rest of his days",
+      "date": "1882-01",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Posten (printed; place unclear)"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The hint said England, but the text does not name the country; the place is printed as 'Posten' and is unclear."
+}

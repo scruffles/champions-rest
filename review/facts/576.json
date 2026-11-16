@@ -1,0 +1,56 @@
+{
+  "id": "576",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "The paper said the prize fight disappointed the sporting fancy, who had wanted Tom Allen whipped.",
+      "excerpt": "The prize fight disa: inted the fancy. It disappointed teens' = ruosters' wh) wanted Allen whipped.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "The paper said those who had said Tom Allen would not fight had changed their opinion.",
+      "excerpt": "Those who said Tom Allen would not fight have changed their opinion.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The paper said Joe Goss was a mere McCoole in Allen's hands.",
+      "excerpt": "Go3s was a mere McCoole in his hands.",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Those who said Tom Allen would not fight have changed their opinion.",
+      "reported_as": "report",
+      "notes": "Short local note; the result is not stated. The text is garbled in places."
+    }
+  ],
+  "notes": "Short news notes column. The 'Allen was sold out' item is too short to quote and its meaning is unclear, so it is not extracted."
+}

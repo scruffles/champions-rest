@@ -1,0 +1,19 @@
+{
+  "id": "718",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen, ex-champion of the world, and Tom Kelly were to spar for the Union Club cup as the final bout of the Fourth of July tournament at the Union Base Ball Grounds.",
+      "excerpt": "Allen and Kelly will step into the arena.",
+      "date": "1884-07-04",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Union Base Ball Grounds, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Entry list names no Allen opponent beyond Kelly. Allen's ring costume and colours are minor detail and were skipped."
+}

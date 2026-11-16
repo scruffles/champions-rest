@@ -1,0 +1,19 @@
+{
+  "id": "738",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "A Pittsburg Dispatch table of pugilists' lifespans lists Tom Allen, but his birth year and other figures are unreadable in the OCR.",
+      "excerpt": "MTOM AMeM o...ccccceveeseccvcsscese LB oaes ,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The hint's birth year 1840 and 'still living' are not supported: the row is unreadable and the footnote '*Still lying.' has no clear marker on Allen's line. Both dropped."
+}

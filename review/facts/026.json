@@ -1,0 +1,30 @@
+{
+  "id": "026",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A telegram reported that Mace of London was matched to fight Tom Allen for $5,000 a side; Allen's friends and backers in St. Louis denied any such arrangement.",
+      "excerpt": "Mace of London is matched to fight Tom Allen for $5,000 a side, as announced by telegram",
+      "date": "1869-12",
+      "date_precision": "month",
+      "people": ["Mace"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "It is said that Tom Allen will not go back on his offer to accommodate any man in the world with a fight inside the ropes, but wants time for preliminaries.",
+      "excerpt": "Allen does not go back on his generous proposition to accommodate any man in the world",
+      "date": "1869-12",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Report of a telegram, denied by Allen's backers. Much of the article is garbled OCR; the date of the telegram is not given."
+}

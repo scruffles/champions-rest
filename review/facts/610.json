@@ -1,0 +1,45 @@
+{
+  "id": "610",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Charley Davis, champion of the United Kingdom, for the championship of the world and £200 a side at St. George Hall, under the remodeled London prize ring rules with hard gloves.",
+      "excerpt": "between Tom Allen, of America, and Charley Davis,rhe cham- pion of the United Kingdom, taok place at St. George Hail",
+      "date": "1878-04-04",
+      "date_precision": "day",
+      "people": ["Charley Davis"],
+      "places": ["St. George Hall"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "birth",
+      "statement": "The paper describes Tom Allen as being of America, and calls him the United States champion.",
+      "excerpt": "Allen, of America, and Charley Davis",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["America"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Davis",
+      "date": "1878-04-04",
+      "date_precision": "day",
+      "place": "St. George Hall",
+      "result": "win",
+      "rounds": "5",
+      "duration": "eighteen and a half minutes",
+      "stakes": "£200 a side",
+      "rules": "remodeled London prize ring rules, with hard gloves",
+      "excerpt": "between Tom Allen, of America, and Charley Davis,rhe cham- pion of the United Kingdom, taok place at St. George Hail",
+      "reported_as": "report",
+      "notes": "Davis was knocked down senseless in the fifth round; his friends rushed the ring and cries of foul were raised, but the referee declared Allen the winner."
+    }
+  ],
+  "notes": "Dispatch from a Cincinnati Enquirer special; OCR is heavily damaged in places."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "040",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Gallagher proposed fighting Tom Allen in Louisiana, Kansas, Arkansas or Kentucky, and Allen said he would fight in any of these places.",
+      "excerpt": "Allen promptly said he would tignt him in any of these places.",
+      "date": "1870-11-02",
+      "date_precision": "day",
+      "people": ["J. C. Gallagher"],
+      "places": ["Louisiana", "Kansas", "Arkansas", "Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "J. C. Gallagher visited Tom Allen at his saloon on Washington avenue on November 2, 1870.",
+      "excerpt": "Gallagher, who was chafing under the disappointment of the previous day, visited Allen at bis saloon on Waeh-",
+      "date": "1870-11-02",
+      "date_precision": "day",
+      "people": ["J. C. Gallagher"],
+      "places": ["Washington avenue"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and J. C. Gallagher agreed to fight next Tuesday, November 8, 1870, within fifty miles of Kansas City.",
+      "excerpt": "An agreement was made between Tom Allen and J. C. Gallagher yesterday, to fight next Tuesday within fiity miles of Kansas City.",
+      "date": "1870-11-08",
+      "date_precision": "day",
+      "people": ["J. C. Gallagher"],
+      "places": ["Kansas City"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "J. C. Gallagher",
+      "date": "1870-11-08",
+      "date_precision": "day",
+      "place": "Kansas, within fifty miles of Kansas City",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "An agreement was made between Tom Allen and J. C. Gallagher yesterday, to fight next Tuesday within fiity miles of Kansas City.",
+      "reported_as": "report",
+      "notes": "Articles signed with the earlier conditions unchanged except time and place; the text does not say whether it was fought."
+    }
+  ],
+  "notes": ""
+}

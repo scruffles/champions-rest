@@ -1,0 +1,89 @@
+{
+  "id": "368",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen of St. Louis was visiting New York City in September 1869.",
+      "excerpt": "is on a visit to this city",
+      "date": "1869-09",
+      "date_precision": "month",
+      "people": [],
+      "places": ["New York City"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The St. Louis Republic, quoting the New York World, called Tom Allen 'our fistic champion'.",
+      "excerpt": "in honor of Tom Allen, our fistie champion:",
+      "date": "1869-09",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Friends held a sparring reception for Tom Allen at the Hotel du Nord in the Bowery, New York.",
+      "excerpt": "the Hotel du Nord, in the Bowery, nearly opposite",
+      "date": "1869-09",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Hotel du Nord, Bowery, New York City"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen sparred with Dwyer of Brooklyn at the reception.",
+      "excerpt": "entered the ring with Dwyer, of",
+      "date": "1869-09",
+      "date_precision": "month",
+      "people": ["Dwyer"],
+      "places": ["Hotel du Nord, Bowery, New York City"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen made a speech of thanks to his hearers at the reception.",
+      "excerpt": "made a neat speech of thanks",
+      "date": "1869-09",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Hotel du Nord, Bowery, New York City"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen has a future fight with Mike McCoole, and said he would do his duty in it.",
+      "excerpt": "future ight with McCoole he would do his duty.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "future ight with McCoole he would do his duty.",
+      "reported_as": "report",
+      "notes": "Future match, not yet fought at this date. Date not given."
+    }
+  ],
+  "notes": "Hint 'Central Hall' is not legible in the OCR (text reads 'Hotel du Nord'), so the venue is taken from the text. Dates are month-level ('lately given', The World of 28 Sept)."
+}

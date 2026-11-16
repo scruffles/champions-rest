@@ -1,0 +1,56 @@
+{
+  "id": "391",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen and Joe Coburn were to spar a 'passage at arms' at Mozart Hall on Monday night, 25 April 1870.",
+      "excerpt": "the ''passage st arms'' between Joe Coburn nd Tom Allen",
+      "date": "1870-04-25",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": ["Mozart Hall, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was to travel to New Orleans in May 1870, with Joe Coburn accompanying him.",
+      "excerpt": "Joe willaccompany Tom to New Or-\neans next month",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["Joe Coburn"],
+      "places": ["New Orleans, Louisiana"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was to meet Mace in May 1870 (printed 'in the night with Mace'), with Joe Coburn expected to act as his second.",
+      "excerpt": "and probably act as his second in the night with Mace.",
+      "date": "1870-05",
+      "date_precision": "month",
+      "people": ["Joe Coburn", "Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mace",
+      "date": "1870-05",
+      "date_precision": "month",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "and probably act as his second in the night with Mace.",
+      "reported_as": "report",
+      "notes": "Planned, not fought at the time of writing. 'night' is likely OCR for 'fight'. Fight location is not named; New Orleans is where Allen was to travel."
+    }
+  ],
+  "notes": "'Monday night' taken as Monday 25 April 1870, the Monday after the paper's date (Thursday 21 April). The Mozart Hall location is the St. Louis hall named in the paper's sporting news."
+}

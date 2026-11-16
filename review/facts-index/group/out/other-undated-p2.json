@@ -1,0 +1,386 @@
+{
+  "bucket": "other-undated-p2",
+  "facts": [
+    {
+      "fact": "Tom Allen was one of Jimmy Elliott's seconds when Elliott fought Charley Gallagher on Peche Island in the Detroit River on November 12, 1868; after 21 rounds the referee decided for Elliott.",
+      "date": "1868-11-12",
+      "seed": "",
+      "conflict": "outcome: referee decided for Elliott after 21 rounds (other-1867-1869#3) vs the crowd broke up the fight (357.c4)",
+      "join": "other-1867-1869#3",
+      "claims": [
+        "348.c7",
+        "349.c8",
+        "352.c27",
+        "357.c4"
+      ]
+    },
+    {
+      "fact": "Tom Allen fought Bill Davis on January 12, 1869, with Bill Ryall and Tom Kelly as his seconds, and collected a contribution of about $150 for Davis after the fight.",
+      "date": "1869-01-12",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1867-1869#9",
+      "claims": [
+        "352.c10"
+      ]
+    },
+    {
+      "fact": "In March 1870, before his fight with Jem Mace, Tom Allen's St. Louis friends said he would beat Mace, and Allen and Mace traded remarks in the newspapers.",
+      "date": "1870-03-23",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1870-1872#4",
+      "claims": [
+        "390.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen denied fouling Ben Hogan after Dr. C. E. Tennent certified that Hogan was struck below the belt.",
+      "date": "1873-12-09",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1873-1875#18",
+      "claims": [
+        "503.c3"
+      ]
+    },
+    {
+      "fact": "Friends of Tom Allen met to raise money to buy back the belt won from Mike McCoole and present it to him at his benefit on March 30, 1876; Theobald Bauer and Andre Christol volunteered to wrestle there for a massive silver goblet from Allen, with Wilhelm Beyer to referee.",
+      "date": "1876-03-28",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1876-1878#4",
+      "claims": [
+        "536.c2"
+      ]
+    },
+    {
+      "fact": "In December 1882 the Parson and others spread the report that Tom Allen was on a big spree and had become a total wreck, and Allen said Joe Elliott of the New York Herald had started the story that he was played out.",
+      "date": "1882-12",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1882-1887#11",
+      "claims": [
+        "677.c6"
+      ]
+    },
+    {
+      "fact": "Tom Allen was to referee a 135-yard handicap sprint at Sportsman's Park on Sunday, January 28, 1883.",
+      "date": "1883-01-28",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1882-1887#13",
+      "claims": [
+        "685.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen and Tom Kelly backed John L. Sullivan before the September 1892 New Orleans fights, and after Sullivan lost to Corbett on September 7, 1892, Allen said Sullivan was unfit and overweight and that Corbett won squarely.",
+      "date": "1892-09-07",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1888-1892#14",
+      "claims": [
+        "864.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen received a letter from Charley Mitchell, dated London, November 7, 1892, about Mitchell's coming fight with Corbett.",
+      "date": "1892-11-07",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1888-1892#18",
+      "claims": [
+        "876.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen picked Ed Smith to beat Joe Goddard, backed him and won heavily on the bet, and was one of Smith's seconds at the New Orleans fight on 3 March 1893, which Smith fairly won.",
+      "date": "1893-03-03",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1893-1900#1",
+      "claims": [
+        "894.c1",
+        "994.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen was stakeholder for the Sharpe-Crosby fight and held the $1,000 posted by the backers, and he suggested the Armourdale Club postpone the fight from 21 November to the first week of December so Sharpe could get in condition.",
+      "date": "1893-11-01",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1893-1900#3",
+      "claims": [
+        "893.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen said Frank Slavin's defeat by Bob Armstrong could not have ended any other way, given Slavin's condition.",
+      "date": "1896-11-26",
+      "seed": "",
+      "conflict": "",
+      "join": "other-1893-1900#23",
+      "claims": [
+        "945.c3"
+      ]
+    },
+    {
+      "fact": "Tom Allen's friends made up a handkerchief of colors for him to wear at the coming fight.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "346.c2"
+      ]
+    },
+    {
+      "fact": "Charley Gallagher held a long-standing grudge against Tom Allen over Allen's conduct at the Elliott fight.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "352.c28",
+        "357.c5"
+      ]
+    },
+    {
+      "fact": "It was said that Charley Gallagher gave Tom Allen a severe pounding in a rough-and-tumble at Cleveland, some time before 1869.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "352.c29"
+      ]
+    },
+    {
+      "fact": "Tom Allen's backers professed the utmost confidence in him.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "364.c2"
+      ]
+    },
+    {
+      "fact": "Mr. Thorwegen of St. Louis advanced $1,100 of Tom Allen's stakes for the match.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "374.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen stood 5 feet 10 and a fraction of an inch barefooted (the fraction is printed as '103g').",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "380.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen has always maintained that he was cheated of the battle money from the 1869 fight with Mike McCoole and wants another meeting with him.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "465.c34"
+      ]
+    },
+    {
+      "fact": "Ned Donnelly had trained Tom Allen for his fight with George Rooke, which Rooke backed out of.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "533.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen had personal altercations with a New York paper (printed as 'Nope') and with Wilkes' Spirit of the Times, which refused to print Joe Goss's challenge to him.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "545.c4"
+      ]
+    },
+    {
+      "fact": "Tom Allen said the fighting ground for the Goss fight had already been selected.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "561.c7"
+      ]
+    },
+    {
+      "fact": "Tom Allen was interviewed by a Globe-Democrat reporter at the Olive Street Hotel in St. Louis and said the match with Joe Goss was on the dead level.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "561.c8"
+      ]
+    },
+    {
+      "fact": "Daniel O'Leary said Tom Allen, the prize fighter, treated him shamefully in London during his last hundred miles of a walk, sitting at the edge of the track and insulting him.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "615.c1"
+      ]
+    },
+    {
+      "fact": "Billy Carroll was the banker of various sporting enterprises, notably the prize fights in which Tom Allen appeared.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "651.c1"
+      ]
+    },
+    {
+      "fact": "Chicago papers reported Tom Allen in drunken street brawls, which he denied.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "677.c7"
+      ]
+    },
+    {
+      "fact": "W. E. Harding, sporting editor of the Police Gazette, said Tom Allen was spoiling for a fight with John L. Sullivan.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "682.c1"
+      ]
+    },
+    {
+      "fact": "A well-known doctor who was financing Fred Zachritz was a former backer of Tom Allen.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "703.c1"
+      ]
+    },
+    {
+      "fact": "Tom Kelly and Tom Allen, the two prize fighters of St. Louis, planned a steamboat excursion to be given in a short time.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "706.c1"
+      ]
+    },
+    {
+      "fact": "Billy Carroll backed Tom Allen at one time against Jem Mace; the stakes are printed as '5H.' a side.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "730.c1"
+      ]
+    },
+    {
+      "fact": "A Pittsburg Dispatch table of pugilists' lifespans lists Tom Allen, but his birth year and other figures are unreadable in the OCR.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "738.c1"
+      ]
+    },
+    {
+      "fact": "Rusty Evans compared his age with Tom Allen's, but the passage is garbled and only fragments can be read.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "750.c1"
+      ]
+    },
+    {
+      "fact": "Fred Walker of St. Louis bet on Tom Allen in his fights with Mace and others.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "808.c2"
+      ]
+    },
+    {
+      "fact": "Rev. William Jones said that at 16 he was a prize fighter, backed as a boy wonder in the ring by Tom Allen of St. Louis.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "816.c1"
+      ]
+    },
+    {
+      "fact": "Fred Watkins backed Tom Allen in his big fights, including when Allen was champion pugilist of the world.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "838.c4",
+        "921.c1",
+        "928.c1",
+        "929.c1"
+      ]
+    },
+    {
+      "fact": "Tom Allen is credited with discovering, before the Jackson-Slavin fight, that Peter Jackson's lungs were gone.",
+      "date": "",
+      "seed": "",
+      "conflict": "credit for diagnosing Peter Jackson: Allen credited with finding his lungs were gone (852.c2) vs the Chicago Mail said Allen's diagnosis was not remarkably successful (852.c3)",
+      "claims": [
+        "852.c2",
+        "852.c3"
+      ]
+    },
+    {
+      "fact": "Papers printed an alleged letter from Mike Donovan to Tom Allen calling Peter Jackson a physical wreck; Parson Davies says Donovan never wrote it.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "874.c1"
+      ]
+    },
+    {
+      "fact": "Ed Smith was a great friend of Tom Allen.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "979.c2"
+      ]
+    },
+    {
+      "fact": "Tom Allen said that Swift was an old friend of his, whom he heard from often until recently.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "979.c3"
+      ]
+    },
+    {
+      "fact": "A writer says a gang including 'Red' Leary and Johnny Dwyer meant to kill Tom Allen if he beat Joe Goss, because they claimed he had given some of their pals away to the police in England.",
+      "date": "",
+      "seed": "",
+      "conflict": "",
+      "claims": [
+        "993.c4"
+      ]
+    }
+  ]
+}

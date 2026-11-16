@@ -1,0 +1,47 @@
+{
+  "id": "129",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon closed its doors at 12:40 a.m. on May 20, 1888, under the midnight closing of the Sunday law.",
+      "excerpt": "It was just 12:40 o’clock when Alien’s closed its",
+      "date": "1888-05-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "A policeman came into Tom Allen's saloon after midnight, spoke to the bartender, and the company in the back room broke up.",
+      "excerpt": "policeman entered, walked soiemniy up to the bartender and said a few words.",
+      "date": "1888-05-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "A bouncer at Tom Allen's saloon knocked down a big man who had objected to leaving, and Allen led the bleeding man out.",
+      "excerpt": "The man,a big chap, had objected to going out",
+      "date": "1888-05-20",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "It don’t pay to monkey with the talent",
+      "topic": "on troublemakers in his saloon"
+    }
+  ],
+  "fights": [],
+  "notes": ""
+}

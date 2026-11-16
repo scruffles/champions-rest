@@ -1,0 +1,144 @@
+{
+  "id": "283",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen had a standing challenge out, offering to fight any man in the world.",
+      "excerpt": "Allen has a stand-\ning challenge out, and Goss has come to this",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss came from England to America to fight Tom Allen.",
+      "excerpt": "the way to Hamerica to lick Tom Allen, of",
+      "date": "1876-04-12",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A match between Joe Goss and Tom Allen for $2,000 a side had not yet been made.",
+      "excerpt": "not yet been made, but doubtless will be, for\nthe sum of $2,000 a side.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The headline calls Tom Allen 'the Champion' and says he challenged Joe Goss to fight in the Indian Territory.",
+      "excerpt": "The Champion Challenges Him to Fight in\nthe Indian Territory.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Indian Territory"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen's brother Harry Allen was matched to fight Joe Goss for £400 and the championship of England, for September 4, 1868 (printed as 'Setanther 4, 1868').",
+      "excerpt": "Tom’s brother, for £400 and the championship of England,",
+      "date": "1868-09-04",
+      "date_precision": "day",
+      "people": ["Harry Allen", "Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "legal",
+      "statement": "Harry Allen was arrested and put under £1,000 bonds, which ended the planned fight with Joe Goss.",
+      "excerpt": "Allen\nwas arrested and put under £1,000 bonds,",
+      "date": "1868-09",
+      "date_precision": "approx",
+      "people": ["Harry Allen", "Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "death",
+      "statement": "Harry Allen died soon after the planned fight with Joe Goss was stopped.",
+      "excerpt": "Soén after-\nward ‘Alien died, and Goss was left",
+      "date": "1868",
+      "date_precision": "approx",
+      "people": ["Harry Allen"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was in America in 1868, when Goss was left without a challenger.",
+      "excerpt": "Tom Allen, ~dim Mace and\nO' Baldwin being then in this couptry.",
+      "date": "1868",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": ["America"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen's last battle with Joe Goss took place on March 3, 1867.",
+      "excerpt": "Goss’ last battle with Tom Allen took place",
+      "date": "1867-03-03",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The March 3, 1867 fight between Allen and Goss was declared a draw because both men were exhausted and unable to continue.",
+      "excerpt": "The referee, seeing that both men were ex-\nhausted and unable to continue, declared the\nfightadraw.",
+      "date": "1867-03-03",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss offered Tom Allen a rematch, which Allen refused, even though Goss offered to increase the stakes.",
+      "excerpt": "Goss then offered to tight Allen\nagain, but he refused.",
+      "date": "1867",
+      "date_precision": "approx",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1867-03-03",
+      "date_precision": "day",
+      "place": "",
+      "result": "draw",
+      "rounds": "34",
+      "duration": "1 hour 52 minutes",
+      "stakes": "£200 a side",
+      "rules": "",
+      "excerpt": "The referee, seeing that both men were ex-\nhausted and unable to continue, declared the\nfightadraw.",
+      "reported_as": "recollection",
+      "notes": "Place not clearly printed (garbled 'three eng ...'); the hint's three-rings detail is not clear in the text."
+    }
+  ],
+  "notes": "Article is a 1876 summary of Goss's career, so most of it about Goss is skipped. 'Allen' in the arrest and death sentences is most likely Harry Allen, Tom's brother; read that way, not as Tom. The hint about a 1876 letter from Allen is not in this text and was dropped."
+}

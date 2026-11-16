@@ -1,0 +1,63 @@
+{
+  "id": "406",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen arrived in St. Louis with Mace's agent Abrahams.",
+      "excerpt": "Tom Allen accompanied by Mace’s agent, Abra-",
+      "date": "1870-05-23",
+      "date_precision": "day",
+      "people": ["Abrahams"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen showed few marks of his late contest in the ring.",
+      "excerpt": "Allen shows iew marks of his",
+      "date": "1870-05-23",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "exhibition",
+      "statement": "A fistic entertainment between Jem Mace and Tom Allen was planned for Saturday night, 28 May 1870, with the place still to be chosen.",
+      "excerpt": "fistic en‘ertaimment between Mace and Allen,",
+      "date": "1870-05-28",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "A belt proposed for Allen some time ago was to be presented to him at the entertainment.",
+      "excerpt": "time ago will be presented by his",
+      "date": "1870-05-28",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Talk of another match between Tom Allen and Mike McCoole said their names were mentioned as probable contestants.",
+      "excerpt": "names of McCoole and Al'em are mentioned as prob-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "'Yesterday' in a paper dated 1870-05-24 is 1870-05-23. 'Al'em' is read as Allen. The belt sentence is cut off in the OCR."
+}

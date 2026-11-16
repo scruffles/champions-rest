@@ -1,0 +1,35 @@
+{
+ "bucket": "challenge-1866-1868",
+ "kind": "challenge",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "296.c1",
+   "date": "1866",
+   "published": "1868-12-02",
+   "retro": true,
+   "conf": "medium",
+   "statement": "A match between Tom Allen and Bill Ryall fell through about two years before 1868 over the choice of a battle ground."
+  },
+  {
+   "cid": "283.c11",
+   "date": "1867",
+   "published": "1876-04-15",
+   "retro": true,
+   "statement": "Joe Goss offered Tom Allen a rematch, which Allen refused, even though Goss offered to increase the stakes."
+  },
+  {
+   "cid": "293.c2",
+   "date": "1868-03",
+   "published": "1868-03-12",
+   "conf": "medium",
+   "statement": "Tom Allen intended to challenge the champion, or to accept McCoole's proposal to fight, and would go for the conqueror."
+  },
+  {
+   "cid": "001.c4",
+   "date": "1868-03-08",
+   "published": "1868-03-09",
+   "statement": "Mike McCoole, after withdrawing from the Allen match, offered to fight Allen for $2,500 ninety days after his fight with Joe Coburn."
+  }
+ ]
+}

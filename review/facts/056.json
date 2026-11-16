@@ -1,0 +1,41 @@
+{
+  "id": "056",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "A sparring exhibition between Tom Allen and Jimmy Walsh of London, advertised for Rickard's benefit, was stopped by the authorities under a statute prohibiting public sparring exhibitions.",
+      "excerpt": "between the champion, Tom Ailen, and Jim-",
+      "date": "1875-01-21",
+      "date_precision": "day",
+      "people": ["Jimmy Walsh", "Mr. Mitchell", "Rickard"],
+      "places": ["Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen appeared on the stage at the Comique benefit wearing his champion's belt and was greeted with loud applause.",
+      "excerpt": "Tom Allen appeared on the stage, though, wesring his champion's belt",
+      "date": "1875-01-21",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "At the audience's demand, Tom Allen sang three or four songs at the Comique benefit, although he was not on the bill as a singer.",
+      "excerpt": "Allen complied with the request atonce. and sung",
+      "date": "1875-01-21",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Comique"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The venue is printed as 'Com-byue' and the city is not named; read as the Comique. The paper date is 1875-01-22; the event was 'last night'."
+}

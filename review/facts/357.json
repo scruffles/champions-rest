@@ -1,0 +1,165 @@
+{
+  "id": "357",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was declared the winner after eleven rounds against Charley Gallagher on August 17, 1869, when Gallagher's second Tom Kelley threw up the sponge.",
+      "excerpt": "Tom Kelley, one of Gallagher's seconds, threw up the sponge in token of defeat",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher", "Tom Kelley"],
+      "places": ["Foster's Island"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "After the fight, Allen walked to Gallagher's corner to shake hands, and Gallagher struck at him spitefully without hitting him.",
+      "excerpt": "Alien walked quickly over to Gallagher’s corner to shake hands with his adversary, when the latter sfruck at him spitefully, but without hitting him.",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The referee declared the Allen-Gallagher fight a draw because he had not seen who threw up the sponge.",
+      "excerpt": "then the referee strangely declares the fight a draw, for the reason that he did not see who threw up the sponge",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "people": ["Charley Gallagher", "Leary Wessel"],
+      "places": ["Foster's Island"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was one of Jim Elliott's seconds in Elliott's fight with Gallagher at Peach Island, near Detroit, which the crowd broke up.",
+      "excerpt": "Tom Allen being one of Elliott’s seconds at this battle",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jim Elliott", "Charley Gallagher"],
+      "places": ["Peach Island, near Detroit"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Charley Gallagher was said to hold a long-standing grudge against Allen over Allen's conduct at the Elliott fight.",
+      "excerpt": "Gallagher long cherished an old grudge against him on account of Tom's conduct on this occasion",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher", "Jim Elliott"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher was said to have given Tom Allen a severe pounding in a rough and tumble at Cleveland.",
+      "excerpt": "giving Tom a severe pounding in a rough and tumble at Cléveland",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": ["Cleveland"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Charley Gallagher had an unsatisfactory contest at Carroll's Island in the spring of 1869.",
+      "excerpt": "the unsatisfactory contest between the two at Carroll\"s Is—land, last spring",
+      "date": "1869",
+      "date_precision": "approx",
+      "people": ["Charley Gallagher"],
+      "places": ["Carroll's Island"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "The Allen and Mike McCoole contest resulted in no honest decision, after one side claimed a foul.",
+      "excerpt": "which resulted in no honest decision at all, but a miserable farce, by reason of one of the parties claiming a fictitious foul",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "The dispute over the Allen and Mike McCoole contest ended in a wrangle in the courts.",
+      "excerpt": "winding up in a wretched wrangle in the courts",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869-08-17",
+      "date_precision": "day",
+      "place": "Foster's Island",
+      "result": "win",
+      "rounds": "11",
+      "duration": "26 minutes",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Tom Kelley, one of Gallagher's seconds, threw up the sponge in token of defeat",
+      "reported_as": "report",
+      "notes": "Editorial's account: Allen won. The referee declared a draw, which the editorial criticises."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "1869",
+      "date_precision": "approx",
+      "place": "Carroll's Island",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "the unsatisfactory contest between the two at Carroll\"s Is—land, last spring",
+      "reported_as": "report",
+      "notes": "'Last spring' (1869). Described as unsatisfactory; no result given. May be the same as the February 1869 fight that other articles report as a two-round loss for Allen."
+    },
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Cleveland",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "giving Tom a severe pounding in a rough and tumble at Cléveland",
+      "reported_as": "recollection",
+      "notes": "Rough and tumble with no rounds or stakes given; date not given."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "no contest",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "which resulted in no honest decision at all, but a miserable farce, by reason of one of the parties claiming a fictitious foul",
+      "reported_as": "report",
+      "notes": "Date not given in this article (June 1869 per other articles). Editorial says no honest decision was reached."
+    }
+  ],
+  "quotes": [],
+  "notes": "Editorial, not news: its account of Allen's win is the paper's view. Several entries are hearsay or recollection."
+}

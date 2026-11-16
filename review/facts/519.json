@@ -1,0 +1,100 @@
+{
+  "id": "519",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan of Petrolia, then giving sparring exhibitions in New York, challenged Tom Allen to fight him for $2,500 a side.",
+      "excerpt": "challenged Pom Allen to fight him for $2,500a side",
+      "date": "1875-04",
+      "date_precision": "approx",
+      "people": ["Ben Hogan"],
+      "places": ["New York", "Petrolia"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen accepted Ben Hogan's challenge in a letter from St. Louis to Sam French, saying he would fight Hogan in the same ring on the same day as George Rooke.",
+      "excerpt": "he accepted Hogan's\nchallenge and would fight him inthe same ring",
+      "date": "1875-04-02",
+      "date_precision": "day",
+      "people": ["Ben Hogan", "Sam French", "George Rooke"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen told a Democrat reporter at the Champion's Rest that he had received no challenge from Ben Hogan, which the paper called a falsehood.",
+      "excerpt": "He denied having received a challenge, and\nalso dienied having taken any steps to stop",
+      "date": "1875-04-02",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen told the reporter that any match between himself and Ben Hogan was impossible.",
+      "excerpt": "he repudiated all-\nideas of the possibility of any match betweea",
+      "date": "1875-04-02",
+      "date_precision": "day",
+      "people": ["Ben Hogan"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen agreed to fight Ben Hogan in the same ring on the same day as his match with George Rooke, printed as the [7eh of June 1875.",
+      "excerpt": "would fight him inthe same ring\nand gn the same day he is to Sent George Rooke",
+      "date": "1875-06",
+      "date_precision": "month",
+      "people": ["Ben Hogan", "George Rooke"],
+      "places": ["Pittsburg"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen sent a $250 deposit to Sam French by Adams Express, received on April 6, 1875, to bind the match.",
+      "excerpt": "sent in the $250 de\nposit, which was received westerday by French",
+      "date": "1875-04-06",
+      "date_precision": "day",
+      "people": ["Sam French"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "A club of about sixty sporting men friendly to Allen put up another $250, making $500 for a match with Hogan for an amount printed as $5. OD to $20,000.",
+      "excerpt": "put up another $250, ° peaking 500",
+      "date": "1875-04-06",
+      "date_precision": "approx",
+      "people": ["Ben Hogan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "1875-06",
+      "date_precision": "month",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$500 deposited for Allen (printed as $5. OD to $20,000 for the match)",
+      "rules": "",
+      "excerpt": "would fight him inthe same ring\nand gn the same day he is to Sent George Rooke",
+      "reported_as": "report",
+      "notes": "Match agreed with deposits, planned for the day of the Rooke fight (printed as '[7eh of June'). Outcome not in this article."
+    }
+  ],
+  "notes": "Article says 'this city' for Sam French and the club, without clearly naming the city (Pittsburg is not in this text). Paper calls Allen's denial a falsehood. Hint naming the 'Gladiator Club' is not in the text. Allen's earlier denial over Rooke's challenge is garbled and not extracted."
+}

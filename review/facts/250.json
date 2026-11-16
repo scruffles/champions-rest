@@ -1,0 +1,41 @@
+{
+  "id": "250",
+  "claims": [
+    {
+      "kind": "death",
+      "statement": "Tom Allen died at the age of 65.",
+      "excerpt": "Old Tom died at the age of 65, and he didn’t",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "After quitting the ring, Tom Allen opened the Champion's Rest, a public house on Market Street in St. Louis.",
+      "excerpt": "when he quit the ring, opened the “Champion’s Rest,” a public house on Market street here",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was a former champion of the world.",
+      "excerpt": "Tom Allen, former champion of the world who, when he quit the ring",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The year of Allen's death is not stated in this text. The hint's 1903 is not confirmed here; the 1934 photo caption gives April 5, 1904."
+}

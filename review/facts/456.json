@@ -1,0 +1,85 @@
+{
+  "id": "456",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was on trial in the Court of Criminal Correction.",
+      "excerpt": "on trial in the Court of Criminal Correction",
+      "date": "1873-08-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Court of Criminal Correction, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was charged with assault to kill after Joseph P. Moore complained of being beaten and kicked in Allen's saloon.",
+      "excerpt": "onacharge of assault to kill, Tom looked",
+      "date": "1873-08-01",
+      "date_precision": "day",
+      "people": ["Joseph P. Moore"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The judge discharged Tom Allen on the evidence.",
+      "excerpt": "and discharged the pugilist on the evidence.",
+      "date": "1873-08-01",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Court of Criminal Correction, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Joseph P. Moore said Allen came down and struck and kicked him, laying him up for twelve days in the City Hospital.",
+      "excerpt": "m came down and struck me and ‘kicked me, laid me up; for twelve days, in the City Hospital.",
+      "date": "1873-07",
+      "date_precision": "month",
+      "people": ["Joseph P. Moore"],
+      "places": ["Allen's saloon, Washington avenue, St. Louis", "City Hospital, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Witnesses said Allen knocked Joseph P. Moore down and kicked him in the head in the saloon skirmish.",
+      "excerpt": "Atlen knocked a down and kieked him in the head",
+      "date": "1873-07",
+      "date_precision": "month",
+      "people": ["Joseph P. Moore"],
+      "places": ["Allen's saloon, Washington avenue, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Police Captain Burgess and about a dozen policemen were present to testify to Allen's good character, but the judge said it was unnecessary.",
+      "excerpt": "Capt. Burgess and a dozen other policemen were resent, to teshfy. to Allen’s good character",
+      "date": "1873-08-01",
+      "date_precision": "day",
+      "people": ["Capt. Burgess"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was preparing for the McCoole fight and would then be ready for Charley Gallagher or any other man.",
+      "excerpt": "will then be ready tor Charley Gallagher, or any other man.",
+      "date": "1873-08",
+      "date_precision": "month",
+      "people": ["Mike McCoole", "Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Moore's day is printed as 'jéth' and is unclear, so the date is given as the month only. The hint's 1873-07-04 is not confirmed. 'Yesterday' in a paper dated 1873-08-02 is 1873-08-01."
+}

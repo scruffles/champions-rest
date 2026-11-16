@@ -1,0 +1,59 @@
+{
+  "id": "620",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Mike McCoole beat Tom Allen in the first of their two fights for the championship of America, winning by a wrangle.",
+      "excerpt": "winning the firs: battle by a wrangle",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen beat Mike McCoole in the second of their two fights for the championship of America, battering him badly.",
+      "excerpt": "steamboating since Alien conquered him",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "championship of America",
+      "rules": "",
+      "excerpt": "winning the firs: battle by a wrangle",
+      "reported_as": "recollection",
+      "notes": "First of two bouts. The text says McCoole won it 'by a wrangle', so the result may be disputed."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "championship of America",
+      "rules": "",
+      "excerpt": "steamboating since Alien conquered him",
+      "reported_as": "recollection",
+      "notes": "Second of two bouts."
+    }
+  ],
+  "notes": "OCR prints McCoole as 'MeCvole'; the name is spelled McCoole here. No dates or places are given for the bouts."
+}

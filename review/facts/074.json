@@ -1,0 +1,41 @@
+{
+  "id": "074",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen left Chicago on Wednesday evening for St. Louis, and was not expected there before Monday.",
+      "excerpt": "Tom Allen left Chicago on Wednesday evenipg, so it is understood, for St. Louis,",
+      "date": "1876-04-26",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Chicago", "St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Fred Watkins thought Tom Allen would continue to live in St. Louis.",
+      "excerpt": "Fred Watkins is best acquainted with Tom’ s present intentions and he thinks the champion will continue his residence in this city.",
+      "date": "1876-04",
+      "date_precision": "month",
+      "people": ["Fred Watkins"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen and Joe Goss were expected to meet soon for a battle, with arrangements to be perfected.",
+      "excerpt": "a meeting between the two will take place verv soon and arrangements perfected for a battle",
+      "date": "1876-04",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hints checked against the text; no direct speech from Allen."
+}

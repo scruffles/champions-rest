@@ -1,0 +1,19 @@
+{
+  "id": "145",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was to go to New Orleans for the Sullivan-Corbett fight, accompanied by his old backer Fred Watkins, Nobby Clark, Chris Lauff and Billy Dacre.",
+      "excerpt": "Tom Allen will be accompanied by his old backer, Fred Watkins,",
+      "date": "1892-09",
+      "date_precision": "month",
+      "people": ["Fred Watkins", "Nobby Clark", "Chris Lauff", "Billy Dacre"],
+      "places": ["New Orleans"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The article gives the delegation's Sunday departure, not a day for Allen's party specifically. Most of the page is about other St. Louis men."
+}

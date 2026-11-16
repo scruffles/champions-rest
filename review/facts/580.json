@@ -1,0 +1,56 @@
+{
+  "id": "580",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan challenged Tom Allen by letter to fight in Canada for fun to show who was the better man, offering to pay Allen's expenses to Detroit or else to fight for stakes (printed as '$1, a side').",
+      "excerpt": "it, in Canada, forfun, simply t\nne better man. Iwill pay, on &\nrour expenses to Detroit.",
+      "date": "1876-09-11",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Canada", "Detroit"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Ben Hogan says he challenged Tom Allen in the summer of 1875 (printed as 'mer of 1875').",
+      "excerpt": "mer of 1875 I challenged you to\nurg, when you claimed to have",
+      "date": "1875",
+      "date_precision": "approx",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Ben Hogan says Tom Allen was matched to fight him for $1,000 in a barn in New York in the winter of 1875, excused himself, and did not come back.",
+      "excerpt": "winter of 1875, in a barn on\nstreet, New York, to fight\nof $1,000. You excused your",
+      "date": "1875",
+      "date_precision": "approx",
+      "people": ["Ben Hogan"],
+      "places": ["New York"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Ben Hogan",
+      "date": "1875",
+      "date_precision": "approx",
+      "place": "a barn on an unreadable street, New York",
+      "result": "forfeit",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000",
+      "rules": "",
+      "excerpt": "winter of 1875, in a barn on\nstreet, New York, to fight\nof $1,000. You excused your",
+      "reported_as": "recollection",
+      "notes": "Forfeit by Allen, per Hogan's letter; Allen's side is not given here. Only Hogan's account; the letter is badly garbled."
+    }
+  ],
+  "notes": "Hogan's letter (printed in the Philadelphia Times, reprinted here) is badly garbled. Date, stakes and place are read from damaged OCR. Hogan says the challenge followed a Chicago Times article about Allen's fights."
+}

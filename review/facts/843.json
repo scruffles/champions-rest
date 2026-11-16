@@ -1,0 +1,30 @@
+{
+  "id": "843",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen advertised free concerts every evening at his place on Market Street, St. Louis (the street number is garbled in this OCR as 'Bests'), with only the best singers engaged.",
+      "excerpt": "Bests Market street. Sree concert every evening. Best of singerg only engaged",
+      "date": "1892-04-16",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as a retired champion pugilist; the rest of the title is garbled in this OCR.",
+      "excerpt": "retired champion pugilist of the Bests Market street",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Advertisement only. The name is printed as 'SLLEN'; identified as Allen by the ad's wording. The street number and 'Free' are unreadable here, so the 619 address from other notices is not used."
+}

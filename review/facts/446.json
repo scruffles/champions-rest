@@ -1,0 +1,47 @@
+{
+  "id": "446",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "The coroner's jury found that Nelson Adams died from a pistol wound caused by the accidental discharge of a pistol in Tom Allen's hands at Allen's saloon, 417 Washington avenue, on May 20, 1872.",
+      "excerpt": "of the accidental discbarge of a pistol in the hands",
+      "date": "1872-05-20",
+      "date_precision": "day",
+      "people": ["Nelson Adams", "Tom Allen"],
+      "places": ["417 Washington avenue"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "After the shooting Tom Allen ran for a physician and called the police.",
+      "excerpt": "ran for a physician and also called in the police.",
+      "date": "1872-05-20",
+      "date_precision": "day",
+      "people": ["Tom Allen"],
+      "places": ["417 Washington avenue"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was at 417 Washington avenue, near Fifth street.",
+      "excerpt": "not Thomas Allen, at his saloon, 417 Washington",
+      "date": "1872-05",
+      "date_precision": "month",
+      "people": [],
+      "places": ["417 Washington avenue"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "have I shot him!",
+      "topic": "reaction after the shooting, as reported by the bar-keeper"
+    }
+  ],
+  "fights": [],
+  "notes": "Victim is Nelson Adams in the lead and Adam Nelson in the verdict and testimony; kept the lead's form. The quote is from the bar-keeper's testimony, which gives Allen's words. Hint 1 (name, Birmingham) is partly supported; the Birmingham detail is not used as a claim."
+}

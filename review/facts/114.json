@@ -1,0 +1,122 @@
+{
+  "id": "114",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Goss challenged Tom Allen for the championship for a stake of $2,500 a side (printed as $2.500).",
+      "excerpt": "Joe issued a challenge to Tom to contend for the honors of the position and a stake of $2.500 a side",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Allen promptly accepted Goss's challenge and a match was speedily made.",
+      "excerpt": "he promptly accepted and a match was speedily made",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Before the Goss fight Allen had gained fame and money in America and was generally regarded as the rightful champion.",
+      "excerpt": "who had gained fame and made money during his sojourn in the States, and was generally regarded as the rightful possessor of the championship title",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["United States"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss on 7 September 1876 on Kentucky soil, the ring first pitched in Kenton County.",
+      "excerpt": "They fought September 7, 1876, on Kentucky soil, the ring being first pitched in Kenton County",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": ["Kenton County, Kentucky", "Boone County, Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The Allen-Goss fight lasted twenty-one rounds and forty-eight minutes.",
+      "excerpt": "fought twenty-one rounds in all. in forty-eignt minutes",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Goss was given the decision on account of a foul, so Allen lost the fight.",
+      "excerpt": "a decision was given in Goss’ favor. on account of a foul",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "people": ["Joe Goss"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The Kenton County grand jury indicted the principals of the Goss fight, including Allen.",
+      "excerpt": "Indictments were fonnd by the Grand Jury of Kenton County",
+      "date": "1876",
+      "date_precision": "year",
+      "people": ["Joe Goss"],
+      "places": ["Kenton County, Kentucky"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Allen jumped his $3,000 bail (printed as $3,090) and crossed into Canada.",
+      "excerpt": "Allen jumping his bail, $3,090, and cros“ing into Canada",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Canada"],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "travel",
+      "statement": "From Canada Allen went by steamer to England.",
+      "excerpt": "and cros“ing into Canada, whence he proceeded by steamerto England",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Canada", "England"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09-07",
+      "date_precision": "day",
+      "place": "Kentucky soil; ring first pitched in Kenton County, then moved to Boone County",
+      "result": "loss",
+      "rounds": "21",
+      "duration": "48 minutes",
+      "stakes": "$2,500 a side",
+      "rules": "",
+      "excerpt": "They fought September 7, 1876, on Kentucky soil, the ring being first pitched in Kenton County",
+      "reported_as": "recollection",
+      "notes": "Decided for Goss on a foul. The article says Allen was in much the better condition, Goss having trained too fine and gone stale."
+    }
+  ],
+  "notes": "Article is mainly about Joe Goss; only the Allen facts are kept. OCR 1576 for 1876."
+}

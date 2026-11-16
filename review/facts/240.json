@@ -1,0 +1,78 @@
+{
+  "id": "240",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen regained a heavyweight title he had previously lost.",
+      "excerpt": "weight fighter to regain a title he previously had lost",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen ran a saloon in St. Louis called the Champion's Rest for many years, and maintained it up to his death.",
+      "excerpt": "years operated a saloon in this city ecailed the ‘“Champion’s Rest.”",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died in St. Louis in 1904.",
+      "excerpt": "which Allen maintained up to his death here, in 1904.",
+      "date": "1904",
+      "date_precision": "year",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole in bloody battles near St. Louis; no particular bout is named.",
+      "excerpt": "bloody battles with Mike MecCoole near this city were indirectly responsible for",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["near St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen's fights with Mike McCoole near St. Louis were indirectly responsible for the Missouri boxing statute of 1873, which made prize fighting a felony.",
+      "excerpt": "bloody battles with Mike MecCoole near this city were indirectly responsible for",
+      "date": "1873",
+      "date_precision": "year",
+      "people": ["Mike McCoole"],
+      "places": ["Missouri"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "near St. Louis",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "bloody battles with Mike MecCoole near this city were indirectly responsible for",
+      "reported_as": "recollection",
+      "notes": "Only a general mention of several 'bloody battles' with McCoole; no specific bout, date or result is given."
+    }
+  ],
+  "notes": "A 1927 column about the world heavyweight title. Only the Allen-related items are recorded. The McCoole name is printed 'MecCoole' (OCR)."
+}

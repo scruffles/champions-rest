@@ -1,0 +1,402 @@
+{
+ "bucket": "challenge-1869-p1",
+ "kind": "challenge",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "235.c10",
+   "date": "1869",
+   "published": "1919-01-03",
+   "retro": true,
+   "statement": "Tom Allen issued a boasting challenge that he could whip any man in the world, and Jem Mace accepted it."
+  },
+  {
+   "cid": "262.c3",
+   "date": "1869",
+   "published": "1978",
+   "retro": true,
+   "statement": "In 1869 Tom Allen issued a challenge to Bill McCoole."
+  },
+  {
+   "cid": "007.c8",
+   "date": "1869-01-12",
+   "published": "1869-01-13",
+   "statement": "After the Davis fight, a match was made between Charlie Gallagher and Tom Allen (or Tom Kelly) for $500 or $2,000 a side, to come off in five weeks."
+  },
+  {
+   "cid": "235.c3",
+   "date": "1869-01-12",
+   "published": "1919-01-03",
+   "retro": true,
+   "statement": "Tom Allen said he would fight any man in the country who disputed his claim, for any purse that the challenger named."
+  },
+  {
+   "cid": "303.c19",
+   "date": "1869-01-12",
+   "published": "1869-01-13",
+   "statement": "After the fight Tom Allen challenged Charles Gallagher to fight him in five weeks for $1,000."
+  },
+  {
+   "cid": "303.c20",
+   "date": "1869-01-12",
+   "published": "1869-01-13",
+   "statement": "A $50 forfeit was put up for a fight within five weeks for $500 a side between Charles Gallagher and Tom Allen or Tom Kelley."
+  },
+  {
+   "cid": "303.c21",
+   "date": "1869-01-12",
+   "published": "1869-01-13",
+   "conf": "medium",
+   "statement": "Gallagher's backer said Gallagher would fight either Tom Allen or Tom Kelley."
+  },
+  {
+   "cid": "305.c1",
+   "date": "1869-01-13",
+   "published": "1869-01-14",
+   "statement": "Tom Allen and Charles C. Gallagher had the preliminaries of a prize fight arranged and articles drawn up."
+  },
+  {
+   "cid": "305.c2",
+   "date": "1869-01-13",
+   "published": "1869-01-14",
+   "statement": "A $200 a side forfeit deposit was made for the Allen-Gallagher fight."
+  },
+  {
+   "cid": "386.c2",
+   "date": "1869-02",
+   "published": "1870-02-24",
+   "conf": "medium",
+   "statement": "According to Tom Kehoe's testimony, Allen and his agent came the next day with $1,000 to back the Gallagher fight."
+  },
+  {
+   "cid": "306.c1",
+   "date": "1869-02-16",
+   "published": "1869-02-17",
+   "statement": "Tom Allen and Charlie Gallagher had the articles of agreement read and a final $300 a side deposit made with stakeholder William Murray."
+  },
+  {
+   "cid": "009.c9",
+   "date": "1869-02-23",
+   "published": "1869-02-24",
+   "conf": "medium",
+   "statement": "After Allen revived, there was some talk of his rechallenging Charlie Gallagher for $5,000 a side, but nothing definite was arranged."
+  },
+  {
+   "cid": "010.c2",
+   "date": "1869-02-23",
+   "published": "1869-02-25",
+   "statement": "Tom Allen said he would re-meet Charley Gallagher in the ring within a week to a month for $1,000 to $5,000, but was no bar-room fighter."
+  },
+  {
+   "cid": "306.c2",
+   "date": "1869-02-23",
+   "published": "1869-02-17",
+   "statement": "The Allen-Gallagher fight was set for 23 February 1869."
+  },
+  {
+   "cid": "307.c6",
+   "date": "1869-02-23",
+   "published": "1869-02-24",
+   "statement": "Tom Allen challenged Charles A. Fong, presumably Gallagher, to a London Prize Ring fight for $1,000 a side one week later, leaving $250 as a first deposit at Campbell's saloon."
+  },
+  {
+   "cid": "307.c7",
+   "date": "1869-02-23",
+   "published": "1869-02-24",
+   "conf": "medium",
+   "statement": "Tom Allen and Jack Looney called at the paper's office and said Gallagher refused a rematch that Looney had tried to arrange at Hennessey's saloon."
+  },
+  {
+   "cid": "307.c8",
+   "date": "1869-02-23",
+   "published": "1869-02-24",
+   "conf": "medium",
+   "statement": "After the fight Tom Allen said he would fight Gallagher again immediately, or in a week, for any amount."
+  },
+  {
+   "cid": "010.c3",
+   "date": "1869-02-24",
+   "published": "1869-02-25",
+   "conf": "medium",
+   "statement": "Jack Looney offered $1,500 to $1,200 that Tom Allen could whip Charley Gallagher in another tussle."
+  },
+  {
+   "cid": "309.c1",
+   "date": "1869-02-25",
+   "published": "1869-02-26",
+   "statement": "At McCoole's, Charley Gallagher agreed to an immediate rematch with Tom Allen in the ring."
+  },
+  {
+   "cid": "309.c2",
+   "date": "1869-02-25",
+   "published": "1869-02-26",
+   "statement": "A forfeit was put up by one of Tom Allen's admirers for a $1,000 match."
+  },
+  {
+   "cid": "309.c3",
+   "date": "1869-02-25",
+   "published": "1869-02-26",
+   "statement": "At a benefit exhibition at Looney's Hall, Tom Allen announced he was ready to meet Gallagher at any time."
+  },
+  {
+   "cid": "309.c4",
+   "date": "1869-02-25",
+   "published": "1869-02-26",
+   "statement": "Charley Gallagher had said he would accept Tom Allen's published challenge."
+  },
+  {
+   "cid": "386.c1",
+   "date": "1869-02-25",
+   "published": "1870-02-24",
+   "conf": "medium",
+   "statement": "A fight between Charley Gallagher and Tom Allen was in contemplation in February 1869 and did not come off."
+  },
+  {
+   "cid": "311.c1",
+   "date": "1869-03",
+   "published": "1869-03-08",
+   "conf": "medium",
+   "statement": "Tom Allen kept demanding another fight, saying he was able and willing to fight any man in America."
+  },
+  {
+   "cid": "311.c4",
+   "date": "1869-03",
+   "published": "1869-03-08",
+   "conf": "medium",
+   "statement": "Mike McCoole then agreed to fight Tom Allen for any amount from $1,000 to $10,000."
+  },
+  {
+   "cid": "313.c3",
+   "date": "1869-03",
+   "published": "1869-03-12",
+   "statement": "Tom Allen challenged Mike McCoole to fight on McCoole's own ground for $2,500 a side within three months, with the money ready at William Carroll's, 510 Market Street."
+  },
+  {
+   "cid": "313.c4",
+   "date": "1869-03",
+   "published": "1869-03-12",
+   "conf": "medium",
+   "statement": "Tom Allen said this was the second time Mike McCoole had been matched to fight him and had backed out."
+  },
+  {
+   "cid": "311.c2",
+   "date": "1869-03-06",
+   "published": "1869-03-08",
+   "statement": "On Saturday evening at a Chestnut Street saloon, Tom Allen said Mike McCoole could not whip him in an hour and a half."
+  },
+  {
+   "cid": "311.c3",
+   "date": "1869-03-06",
+   "published": "1869-03-08",
+   "statement": "A $1,000 wager was made, and a $50 forfeit put up by McCoole's friend was covered by Tom Allen."
+  },
+  {
+   "cid": "313.c1",
+   "date": "1869-03-06",
+   "published": "1869-03-12",
+   "conf": "medium",
+   "statement": "Tom Allen said he had been matched to fight Mike McCoole on 6 March 1869."
+  },
+  {
+   "cid": "312.c1",
+   "date": "1869-03-08",
+   "published": "1869-03-09",
+   "statement": "Mike McCoole and Tom Allen agreed at Alex. McKee's to withdraw the stakes on their match and postpone the battle."
+  },
+  {
+   "cid": "313.c2",
+   "date": "1869-03-08",
+   "published": "1869-03-12",
+   "conf": "low",
+   "statement": "At the Broad Gauge saloon, McCoole refused to fight for the $500 balance of the deposit and insisted on $3,000 against $2,500, according to Allen."
+  },
+  {
+   "cid": "011.c3",
+   "date": "1869-03-10",
+   "published": "1869-03-11",
+   "conf": "medium",
+   "statement": "Mike McCoole readily expressed willingness to accept Tom Allen's challenge."
+  },
+  {
+   "cid": "278.c1",
+   "date": "1869-03-19",
+   "published": "1869-03-20",
+   "conf": "medium",
+   "statement": "Billy Carroll proposed a match for $2,500 a side, to be fought under London prize ring rules."
+  },
+  {
+   "cid": "278.c2",
+   "date": "1869-03-19",
+   "published": "1869-03-20",
+   "conf": "low",
+   "statement": "Mike McCoole readily agreed to the articles and was ready to put up money."
+  },
+  {
+   "cid": "278.c3",
+   "date": "1869-03-19",
+   "published": "1869-03-20",
+   "conf": "low",
+   "statement": "Allen was represented at the meeting by Billy Carroll and a second man whose surname is unreadable."
+  },
+  {
+   "cid": "314.c1",
+   "date": "1869-03-24",
+   "published": "1869-03-25",
+   "statement": "Patsy Reardon challenged Tom Allen in a city paper to a bout in the twenty-four foot arena."
+  },
+  {
+   "cid": "314.c2",
+   "date": "1869-03-24",
+   "published": "1869-03-25",
+   "statement": "Tom Allen answered Patsy Reardon's challenge with a counter-challenge to Reardon, or any other man, with provisos."
+  },
+  {
+   "cid": "012.c3",
+   "date": "1869-04-15",
+   "published": "1869-04-16",
+   "statement": "Tom Allen agreed to the long delay so that Mike McCoole could train, as McCoole was far from fighting condition."
+  },
+  {
+   "cid": "465.c22",
+   "date": "1869-04-16",
+   "published": "1873-09-23",
+   "retro": true,
+   "statement": "Tom Allen and Mike McCoole drew up articles on 16 April 1869 at the Broad Gauge saloon for a fight within fifty miles of St. Louis, for $1,000 a side plus the excursion money."
+  },
+  {
+   "cid": "093.c8",
+   "date": "1869-05",
+   "published": "1878-08-10",
+   "retro": true,
+   "statement": "In May 1869 Tom Allen and Mike McCoole signed articles for a London prize ring fight for $1,000 a side, to be fought on 15 June 1869."
+  },
+  {
+   "cid": "245.c7",
+   "date": "1869-06",
+   "published": "1933-07-29",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Charley Gallagher challenged the winner of the McCool fight; Allen said he would accept, and the match was set for Chouteau's Island two months later."
+  },
+  {
+   "cid": "324.c8",
+   "date": "1869-06",
+   "published": "1869-06-17",
+   "conf": "medium",
+   "statement": "Tom Allen said any future match with McCoole must be at least 200 miles from St. Louis."
+  },
+  {
+   "cid": "325.c2",
+   "date": "1869-06",
+   "published": "1869-06-18",
+   "conf": "medium",
+   "statement": "Allen did not accept McCoole's challenge; he said he would fight for $5,000 a side but not inside 399 miles of St. Louis (printed as 399)."
+  },
+  {
+   "cid": "325.c3",
+   "date": "1869-06",
+   "published": "1869-06-18",
+   "conf": "medium",
+   "statement": "Allen is said to have put up a $1,000 forfeit at the St. Louis Billiard Hall."
+  },
+  {
+   "cid": "326.c5",
+   "date": "1869-06",
+   "published": "1869-06-18",
+   "conf": "medium",
+   "statement": "Allen refused to fight McCoole again near St. Louis, because he did not believe he could get fair play there."
+  },
+  {
+   "cid": "326.c6",
+   "date": "1869-06",
+   "published": "1869-06-18",
+   "conf": "medium",
+   "statement": "Allen offered to fight McCoole about three hundred miles east, in Kentucky, for $5,000 or more, with six friends each."
+  },
+  {
+   "cid": "326.c7",
+   "date": "1869-06",
+   "published": "1869-06-18",
+   "conf": "medium",
+   "statement": "Allen offered to fight Charlie Gallagher at any place a respectable distance from St. Louis, wagering $2,500 to $1,500 on himself (printed as 61,500)."
+  },
+  {
+   "cid": "326.c8",
+   "date": "1869-06",
+   "published": "1869-06-18",
+   "conf": "medium",
+   "statement": "Allen wanted the Clipper or Wilkes' Spirit as stakeholder for any match."
+  },
+  {
+   "cid": "333.c1",
+   "date": "1869-06",
+   "published": "1869-07-01",
+   "statement": "Tom Allen had an appointment to meet Mike McCoole to make arrangements for another fight, but did not come."
+  },
+  {
+   "cid": "909.c13",
+   "date": "1869-06",
+   "published": "1895-03-31",
+   "retro": true,
+   "statement": "After the McCool draw, Tom Allen said he would meet Charley Gallagher in 10 minutes; the meeting was fixed for August 17, 1869."
+  },
+  {
+   "cid": "325.c4",
+   "date": "1869-06-16",
+   "published": "1869-06-18",
+   "conf": "low",
+   "statement": "Mike McCoole published a challenge to Allen to fight again within three months, 50 to 100 miles from St. Louis, with money deposited at 298 North Third Street (printed as 298; OCR is poor)."
+  },
+  {
+   "cid": "326.c9",
+   "date": "1869-06-17",
+   "published": "1869-06-18",
+   "conf": "low",
+   "statement": "McCoole offered, if Allen preferred, to fight him privately in a room before a few friends (text garbled)."
+  },
+  {
+   "cid": "329.c1",
+   "date": "1869-06-24",
+   "published": "1869-06-24",
+   "conf": "medium",
+   "statement": "Certain parties were working to bring about a renewal of the fight between Tom Allen and Mike McCoole, which the paper hoped would be postponed."
+  },
+  {
+   "cid": "235.c5",
+   "date": "1869-07",
+   "published": "1919-01-03",
+   "retro": true,
+   "statement": "Charlie Gallagher challenged Tom Allen again a few days after the McCoole fight."
+  },
+  {
+   "cid": "336.c6",
+   "date": "1869-07",
+   "published": "1869-07-08",
+   "statement": "Tom Allen said he was willing to fight any man in America for a purse of $1,000 to $5,000."
+  },
+  {
+   "cid": "336.c7",
+   "date": "1869-07",
+   "published": "1869-07-08",
+   "statement": "Tom Allen offered to put up $2,500 against Charley Gallagher's $1,500 for a rematch."
+  },
+  {
+   "cid": "336.c8",
+   "date": "1869-07",
+   "published": "1869-07-08",
+   "statement": "Tom Allen wants his fight with Charley Gallagher to take place within fifty miles of Cincinnati."
+  },
+  {
+   "cid": "342.c3",
+   "date": "1869-07-02",
+   "published": "1869-07-18",
+   "statement": "Ben Hogan of Titusville, Pennsylvania, challenged Tom Allen to a prize fight under London prize ring rules for $1,000 and the boat money, to take place in Canada West three months after articles are signed."
+  },
+  {
+   "cid": "017.c1",
+   "date": "1869-07-08",
+   "published": "1869-07-09",
+   "statement": "Tom Allen deposited $200 with Mr. Carroll for a match with any man, and challenged Charley Gallagher to cover that deposit."
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "219",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was a saloonkeeper and former champion pugilist.",
+      "excerpt": "Tom Allen, Inte saloun-\nkeener and former champion pugilist, willed",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tillie Hartgrove, to whom Tom Allen willed his estate, may not receive any of the property, which Public Administrator Garrard Strode said was worth less than an amount printed as '1999' in personal effects.",
+      "excerpt": "which comprises less than 1999 worth",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove", "Garrard Strode"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen was said to have been going to marry Tillie Hartgrove had he lived.",
+      "excerpt": "He wus to marry her had he lived",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Tillie Hartgrove nursed Tom Allen in his last illness.",
+      "excerpt": "Hartgrove nursed Allen tn his last fiiness.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen's daughter, Mrs. Polly Taylor of St. Louis, told Public Administrator Garrard Strode that her mother was living and that her father had not been divorced from her mother.",
+      "excerpt": "that ner mother was HUving, and\niat her father had not been divorced from",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Polly Taylor", "Garrard Strode"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen's will left an amount printed as '$19' each to Mrs. Polly Taylor and to his daughter, Mrs. J. H. Newey of Birmingham, England.",
+      "excerpt": "Alien left $19 each to Mrs. Taylor and\nhis daughter, Mra. J. H. Newey",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Polly Taylor", "Mrs. J. H. Newey"],
+      "places": ["Birmingham, England"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "family",
+      "statement": "Tom Allen's will made no mention of his wife.",
+      "excerpt": "Birming-\nham, Enazland, but SP no mention of his\nwife.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["Birmingham, England"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Attorney Simon Bass, named executor of Tom Allen's will, declined to act, so Public Administrator Garrard Strode was appointed to take charge of the estate.",
+      "excerpt": "Simon Bass ex-\necutor, but he declined to act",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Simon Bass", "Garrard Strode"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Public Administrator Garrard Strode declined to pay any claims against Tom Allen's estate until he could ascertain whether the estate amounted to more than a widow's immediate allowance.",
+      "excerpt": "Strode declined to pay any claims against\nthe estate until he could ascertain if ft",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Garrard Strode"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "An attorney was engaged to present the claim of Tom Allen's widow against the estate.",
+      "excerpt": "been «ngaged to present the claim of Ailen’s\nWidow,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Public Administrator Garrard Strode filed an inventory of Tom Allen's estate in probate court.",
+      "excerpt": "Strode filed an Inventory of Allen's estate\nim probate yesterday.",
+      "date": "1903-07-28",
+      "date_precision": "day",
+      "people": ["Garrard Strode"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was on Market near Seventh street in St. Louis, and the estate inventory listed the old piano used at concerts there.",
+      "excerpt": "which was used at concerts in Allen's\n-sio0n on Market near Seventh street",
+      "date": "1903-07-28",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street near Seventh Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "career",
+      "statement": "The estate inventory listed a champion's cup among Tom Allen's property.",
+      "excerpt": "a champion's cup, a horse and set of harness",
+      "date": "1903-07-28",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "Tom Allen died, and an undertaker conducted his funeral.",
+      "excerpt": "the undertaker who\neonducted Allen's funeral.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "death",
+      "statement": "The undertaker insisted that Tillie Hartgrove pay for Tom Allen's funeral in advance, and it is stated that she did.",
+      "excerpt": "insisted on Mrs. Hartgrove paying in ad-\nvance for the funeral",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrove"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Estate story. Hartgrove appears as 'Herter' in one garbled line. Amounts are printed as '1999' and '$19' and are read as printed. The text does not give dates for the death, the will or the funeral; hints dated 1903-04 and 1903 were not confirmed. Inventory date from 'yesterday' in a paper of 1903-07-29. Text is torn in places."
+}

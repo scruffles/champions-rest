@@ -1,0 +1,70 @@
+{
+  "id": "139",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole on June 15, 1869.",
+      "excerpt": "Thefirstfight betweep Tom Allen and Mike McCoole took place June 15, 1869.",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCoole a second time on September 3, 1873.",
+      "excerpt": "and their second battle occurred on Sept. 3, 1873.",
+      "date": "1873-09-03",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "At the time of his 1873 fight with McCoole, Tom Allen kept a saloon on Washington Avenue between Fourth and Fifth streets, St. Louis.",
+      "excerpt": "Tom Allen Eeptasaioonon Washington ay-\nenue between Fourth and Fifth streets.",
+      "date": "1873-09",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Washington Avenue between Fourth and Fifth streets, St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Thefirstfight betweep Tom Allen and Mike McCoole took place June 15, 1869.",
+      "reported_as": "record",
+      "notes": "Only the date is given; the result is not stated."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "1873-09-03",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "and their second battle occurred on Sept. 3, 1873.",
+      "reported_as": "record",
+      "notes": "The article calls this his last battle; the result is not stated."
+    }
+  ],
+  "notes": "A short record of two fights, given as a reply to a reader's question. Both fight claims are recollections of dates."
+}

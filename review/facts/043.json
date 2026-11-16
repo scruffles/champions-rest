@@ -1,0 +1,41 @@
+{
+  "id": "043",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "The correspondent met Tom Allen at Sedalia, Missouri, a few days before June 9, 1871, and Allen handed him one of his cards.",
+      "excerpt": "while at Sedalia, I met Tom Allen, and he was very particular",
+      "date": "1871-06",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Sedalia, Missouri"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen's card reads 'Tom Allen, Champion, St. Louis' (printed as 'Tom. Allen, Chmpien, St. Lonis').",
+      "excerpt": "found it read -” Tom. Allen, Chmpien, St. Lonis.",
+      "date": "1871-06",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "A rumour in Pleasant Hill had Tom Allen, supposedly with Jem Mace, in town, and the sheriff and deputies hunted for him.",
+      "excerpt": "Tom Allen, the prize fighter, is in town, and you bet our sheriff will get",
+      "date": "1871-06",
+      "date_precision": "approx",
+      "people": ["Jem Mace"],
+      "places": ["Pleasant Hill, Missouri"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Mistaken-identity story: the correspondent was taken for Allen and was not Allen. The rumour is a claim by the townspeople, not a verified fact. Allen's whereabouts are in Sedalia and St. Louis only."
+}

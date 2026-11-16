@@ -1,0 +1,151 @@
+{
+  "id": "1003",
+  "claims": [
+    {
+      "kind": "health",
+      "statement": "Tom Allen is seriously ill.",
+      "excerpt": "CHARGE MADE BY FRIENDS OF FORMER CHAMPION WHO Is NOW SERIOUSLY ILL.",
+      "date": "1903-04",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Friends of Tom Allen planned to apply to the probate court on Monday, April 6, 1903, for a conservator for him.",
+      "excerpt": "Application will probably! be made to the probate court Monday morning for a conservator for Tom Allen",
+      "date": "1903-04-06",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Friends of Allen say quasi strangers are trying to get his property, taking advantage of his mental condition.",
+      "excerpt": "quasi strangers are endeavoring to get hold pf his property, and claim that advantage is being taken of Allen’s mental condition.",
+      "date": "1903-04",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen was proprietor of the Champion's Rest, a saloon and dance hall at 619 Market Street.",
+      "excerpt": "for years past proprietor o Champion's Rest, a4 salodn! and dance hal at 619 Market street",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "On April 2, 1903, J. W. L. Gillespie was driven from the saloon at the muzzle of a revolver when he tried to take possession.",
+      "excerpt": "saloon at the muzzle of a: nevolver when he",
+      "date": "1903-04-02",
+      "date_precision": "day",
+      "people": ["J. W. L. Gillespie", "John Murphy"],
+      "places": ["Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "John Murphy acted on the advice of Robert Lyons, Allen's bartender for sixteen years, on the night of April 2, 1903.",
+      "excerpt": "the advice of Robert Lyons, bartender for Allen for sixteen years)but",
+      "date": "1903-04-02",
+      "date_precision": "day",
+      "people": ["Robert Lyons", "John Murphy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Lyons said Mrs. Tillie Hartgrave, Allen's housekeeper, gave Gillespie a bill of sale for the saloon for $52.60.",
+      "excerpt": "bill of salp for the saloon had been given by Mrs. Tillie Hartgrave",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrave", "J. W. L. Gillespie", "Robert Lyons"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "family",
+      "statement": "Lyons notified Allen's daughter, a Mrs. Mary whose surname is garbled in print, of what was happening at 3427 Clark Avenue.",
+      "excerpt": "notified Mrs. Mary heh rg of 3427 Clark avenue, Allen's daughter",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Robert Lyons", "unknown"],
+      "places": ["3427 Clark Avenue"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "health",
+      "statement": "Lyons and Allen's daughter were denied permission to see Allen at the Baptist Hospital, where he had been for several days.",
+      "excerpt": "where Allen had been for several cays. They were denied permission to see",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Robert Lyons", "unknown"],
+      "places": ["Baptist Hospital"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "On April 3, 1903, Gillespie came from Allen's room with an attorney and a notary, carrying a second bill of sale bearing Allen's mark.",
+      "excerpt": "came downstairs with another bill of sale, |to which Allen's mark’ had been affixed.",
+      "date": "1903-04-03",
+      "date_precision": "day",
+      "people": ["J. W. L. Gillespie"],
+      "places": ["Baptist Hospital"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Parties were said to be trying to get possession of Allen's horse and buggy at Wand's livery stable in order to sell it.",
+      "excerpt": "parties are fee aid to be trying to get possession of Alien’s horse and buses",
+      "date": "1903-04",
+      "date_precision": "month",
+      "people": [],
+      "places": ["Wand's livery stable"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "other",
+      "statement": "It was reported that Allen's safety deposit box had been opened and $500 taken.",
+      "excerpt": "also ored that his safety’ de-\nnosit io bean ‘opened and $500 taken",
+      "date": "1903-04",
+      "date_precision": "month",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "family",
+      "statement": "Mrs. Tillie Hartgrave has announced she will marry Allen as soon as she obtains the divorce she is suing for.",
+      "excerpt": "that she will marry Tom Allen as goon as she obtains a divorce",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Tillie Hartgrave"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Hints on Mrs. Hartgrave's maiden name (Sachs) and her husband's job are in garbled print and are not recorded. The text does not name Mary Taylor; the daughter's surname is garbled here. The Kansas City detail is about Mrs. Hartgrave, not Allen, and is left out."
+}

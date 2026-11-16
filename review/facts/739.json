@@ -1,0 +1,30 @@
+{
+  "id": "739",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "The Republic described Tom Allen, the ex-champion heavy-weight of the world, as being in St. Louis in February 1887.",
+      "excerpt": "With the ex-champion heavy-weight of the world in our midst",
+      "date": "1887-02-28",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was named with Tom Kelly as a teacher who could teach St. Louis youngsters boxing.",
+      "excerpt": "with Tom Allen and Tom Kelly to teach the youngsters the ropes",
+      "date": "1887-02-28",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The heavy-weight is read as Allen from the sentence context. Opening lines are garbled and name no fighter that can be confirmed as Allen."
+}

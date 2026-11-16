@@ -1,0 +1,45 @@
+{
+  "id": "455",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Charley Gallagher beat Tom Allen in two rounds, according to McCoole's trainer Dublin Tricks.",
+      "excerpt": "Charley Gallagher when he fought * ere and be whipped Alen in twe rounds",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher", "Dublin Tricks"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "other",
+      "statement": "Allen's emissaries claimed that when Allen called on McCoole last Sunday, McCoole kept out of his way; McCoole's trainer denied it.",
+      "excerpt": "day, McCoole Bept out of his way, when the fact",
+      "date": "1873-07-06",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "two",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Charley Gallagher when he fought * ere and be whipped Alen in twe rounds",
+      "reported_as": "recollection",
+      "notes": "Date and place not given. Printed as 'twe' in the OCR, and the text before it is garbled. Trainer's account, one side only."
+    }
+  ],
+  "notes": "'Last Sunday' in a paper dated 1873-07-13 is 1873-07-06. The Gallagher fight is about Allen but its date is not in the text."
+}

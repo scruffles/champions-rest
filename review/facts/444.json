@@ -1,0 +1,19 @@
+{
+  "id": "444",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Mike McCoole was reported to want a match with Tom Allen.",
+      "excerpt": "It is reported that Mike McCoole is desirous of making a match with Tom Allen",
+      "date": "1871-12",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Report only; no match was agreed in the text. The arrival of Ned O'Baldwin and Tom Kelly is not about Allen and is left out."
+}

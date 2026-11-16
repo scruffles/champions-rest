@@ -1,0 +1,69 @@
+{
+  "id": "131",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen, Charley Daly and John Ryan were tried in Police Court on counter charges of disturbing the peace over the Sunday-morning street fight.",
+      "excerpt": "Tom Alien, Charley Daly and Jobn Ryan being up on counter charges of disturbing the peace",
+      "date": "1888-06-21",
+      "date_precision": "day",
+      "people": ["Charley Daly", "John Ryan", "Judge Cady"],
+      "places": ["St. Louis Police Court"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Judge Cady fined Tom Allen $10 for disturbing the peace.",
+      "excerpt": "the testimony was very mixed and he would fine the defendants $10 each.",
+      "date": "1888-06-21",
+      "date_precision": "day",
+      "people": ["Judge Cady", "Charley Daly", "John Ryan"],
+      "places": ["St. Louis Police Court"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen said Bob Farrell tripped him while Dan Daly and a crowd kicked him while he was down.",
+      "excerpt": "the ex-cbampion said Bob Farreil tripped him while Dan Daly and a whole crowd kicked him while he was down.",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "people": ["Bob Farrell", "Dan Daly"],
+      "places": ["Seventh and Market streets, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen had a cut and discolored ear and a bruise on the side of his face after the street fight.",
+      "excerpt": "a cut and discolored ear and a bruise on the side of the face.",
+      "date": "1888-06-17",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The Police Court report calls Tom Allen the ex-champion of the world.",
+      "excerpt": "Charley came out to pacify the ex-champion ofthe world.",
+      "date": "1888-06-21",
+      "date_precision": "day",
+      "people": ["Charley Daly"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "They \"ad Ry putty lively foot-ball match wid me for awhile",
+      "topic": "his account of being tripped and kicked"
+    }
+  ],
+  "fights": [],
+  "notes": ""
+}

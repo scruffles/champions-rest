@@ -1,0 +1,36 @@
+{
+  "id": "453",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen said he was more afraid of his wife than of Mike McCoole, especially when he came home late at night.",
+      "excerpt": "more efraid of my wife than I am of McCoole, especially when I come home late 0’",
+      "date": "1873-06",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "A Democrat reporter asked Tom Allen whether he was afraid of the pugilist Mike McCoole.",
+      "excerpt": "question to the pugilist in regard to Mike McCoole.",
+      "date": "1873-06",
+      "date_precision": "month",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Tom Allen",
+      "text": "Ov’m more efraid of my wife than I am of McCoole, especially when I come home late 0’ nights. I’m sureto get a jacketing then, and I can’t stroike back.",
+      "topic": "fear of his wife"
+    }
+  ],
+  "fights": [],
+  "notes": "Interview printed in the St. Louis Globe-Democrat; the exact interview date is not given."
+}

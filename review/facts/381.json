@@ -1,0 +1,30 @@
+{
+  "id": "381",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen reportedly telegraphed Jem Mace in New York accepting his challenge.",
+      "excerpt": "dem Mace, at New York yesterday, accepting his,",
+      "date": "1870-01-08",
+      "date_precision": "day",
+      "people": ["Jem Mace"],
+      "places": ["New York"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "The proposed fight with Mace was for $2,500 a side, in Louisiana or Canada, within six months.",
+      "excerpt": "Mace’s challenge to fight for $2,500 a side, elther’ in",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["Louisiana", "Canada"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Only the first paragraph is legible. 'Yesterday' is 8 Jan 1870 from the paper's date. The reference to articles en route to St. Louis for signing is too garbled to record, and the rest of the text is unreadable."
+}

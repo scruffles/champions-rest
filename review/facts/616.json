@@ -1,0 +1,34 @@
+{
+  "id": "616",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Joe Goss fought Tom Allen in Kentucky and won through a foul, which the paper says Goss invented himself.",
+      "excerpt": "who fought Tom Allen in Kentucky, and who won the fight through a foul invented by himself",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "Kentucky",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "who fought Tom Allen in Kentucky, and who won the fight through a foul invented by himself",
+      "reported_as": "report",
+      "notes": "Date not given. The paper says Goss won on a foul that he 'invented' himself. Item is mainly about the Donovan-McClellan fight in New York."
+    }
+  ],
+  "notes": "Allen is named only in passing, as Goss's earlier opponent."
+}

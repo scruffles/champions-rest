@@ -1,0 +1,178 @@
+{
+  "id": "057",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was matched to fight George Rooke of New York for $2,500 a side and the championship early in the spring, under London prize ring rules within five hundred miles of New York.",
+      "excerpt": "Tom Allen is matehed to fight George Rooke",
+      "date": "1875",
+      "date_precision": "approx",
+      "people": ["George Rooke", "Arthur Chambers", "Harry Gill"],
+      "places": ["within five hundred miles of New York"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Arthur Chambers, champion of the lightweights, put up $250 as a binder for Allen in the hands of Harry Gill for the Rooke match.",
+      "excerpt": "put up $250 fora binder for Allen in",
+      "date": "1875-02",
+      "date_precision": "approx",
+      "people": ["Arthur Chambers", "Harry Gill"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen had repeatedly challenged Joe Coburn, and would sooner fight Coburn than any man living, according to the Republican.",
+      "excerpt": "the latter would sooner fight Coburn thas any man",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "The paper said Tom Allen had beaten a lot of good novices, including the Gallaghers.",
+      "excerpt": "but beata lot of good novices",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "The paper said Tom Allen beat Mike McCoole, a chopping block.",
+      "excerpt": "that sieuchiest of all chopping bloeks, Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Tom Allen was knocked down under the jugular in his fight with Gallagher, which the paper calls an accident.",
+      "excerpt": "as befell Alien in that knook down under the jugular",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Gallagher"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Jem Mace handled Tom Allen with ease in New Orleans.",
+      "excerpt": "Jem Mace handled him with ease in New Orleans",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had several rough fights with Joe Goss, the best of the second-class men in England.",
+      "excerpt": "His fights with Joe Goss, the best of the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Joe Goss"],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "The paper said Tom Allen had wisely given up prize fighting to attend to his business as a saloon keeper.",
+      "excerpt": "saloon keeper, as an infinitely more respectable",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "George Rooke",
+      "date": "1875",
+      "date_precision": "approx",
+      "place": "within five hundred miles of New York",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$2,500 a side and the championship",
+      "rules": "London prize ring",
+      "excerpt": "Tom Allen is matehed to fight George Rooke",
+      "reported_as": "report",
+      "notes": "A match agreed in principle; articles were to be signed the night before the article. Whether they were signed is not stated."
+    },
+    {
+      "opponent": "Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "but beata lot of good novices",
+      "reported_as": "report",
+      "notes": "Printed as 'the Gallaghers' (plural), so there may be more than one bout. The Republican's view, not a dated record."
+    },
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "but beata lot of good novices",
+      "reported_as": "report",
+      "notes": "The Republican says Allen beat McCoole. The New York paper quoted in 050 says Allen begged McCoole's seconds not to let him come up again (Chouteau Island). Conflict to check."
+    },
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "New Orleans",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Jem Mace handled him with ease in New Orleans",
+      "reported_as": "report",
+      "notes": "The year is not printed."
+    },
+    {
+      "opponent": "Joe Goss",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "England",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "His fights with Joe Goss, the best of the",
+      "reported_as": "recollection",
+      "notes": "Plural in the text; the number of bouts is not given. Results are not stated."
+    }
+  ],
+  "notes": "The Republican's piece is an opinion on the Rooke match. Allen's return to the ring is implied (the old desire to appear in the ring)."
+}

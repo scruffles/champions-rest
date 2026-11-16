@@ -1,0 +1,30 @@
+{
+  "id": "831",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "An advertisement under the name printed as 'gat ALLEN' (Tom Allen) gave his place at 619 Market street, St. Louis, with free concerts every evening; the name and title are garbled.",
+      "excerpt": "gat ALLEN, leech ene be pugilist of the\nworld, 619 Market strest. Free concert eyery",
+      "date": "1892-01-23",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as a pugilist of the world; the title words are garbled (printed as 'leech ene be pugilist of the').",
+      "excerpt": "gat ALLEN, leech ene be pugilist of the",
+      "date": "1892-01-23",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "OCR is badly garbled; the 'retired champion' wording cannot be read, so it is not claimed. Rest of page (graduation lists) does not involve Allen."
+}

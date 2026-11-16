@@ -1,0 +1,19 @@
+{
+  "id": "874",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Papers printed an alleged letter from Mike Donovan to Tom Allen calling Peter Jackson a physical wreck; Parson Davies says Donovan never wrote it.",
+      "excerpt": "Mike Donoyan te Tom Allen, of St. Louis, in which he declared that Peter was a physical wreck.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike Donovan", "Peter Jackson", "Parson Davies"],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is only the named recipient of the alleged letter; the letter's date is not given. Dispatch is from Chicago."
+}

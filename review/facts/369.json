@@ -1,0 +1,67 @@
+{
+  "id": "369",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "A deposit of $599 a side (printed as $599) for the Mike McCoole and Tom Allen match was to be made at Allen's saloon on the night of 9 October 1869.",
+      "excerpt": "will be made at Tom Allen’s saloon,",
+      "date": "1869-10-09",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": ["Tom Allen's saloon, 1205 Fifth Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was at 1205 Fifth Street, St. Louis, in October 1869.",
+      "excerpt": "1205 Fifth street, to-night (Saturday). Tom Allen",
+      "date": "1869-10",
+      "date_precision": "month",
+      "people": [],
+      "places": ["1205 Fifth Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen and Jim Coyne were to be present at the deposit.",
+      "excerpt": "and Jim: Coyne will be present.",
+      "date": "1869-10-09",
+      "date_precision": "day",
+      "people": ["Jim Coyne"],
+      "places": ["Tom Allen's saloon, 1205 Fifth Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen is matched to fight Mike McCoole, with the stakes being deposited at this time.",
+      "excerpt": "The next deposit of $599 a side of the McCoole and",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$599 a side (printed as $599)",
+      "rules": "",
+      "excerpt": "The next deposit of $599 a side of the McCoole and",
+      "reported_as": "report",
+      "notes": "Match date and result not given in this article."
+    }
+  ],
+  "notes": "Hint said $500; the text prints $599. The Globe-Democrat of 10 Oct gives $500 a side (article 370)."
+}

@@ -1,0 +1,424 @@
+{
+ "bucket": "career-undated-p1",
+ "kind": "career",
+ "undated": true,
+ "claims": [
+  {
+   "cid": "007.c10",
+   "date": "",
+   "published": "1869-01-13",
+   "statement": "Tom Allen was an old acquaintance of the prize ring who had had many sharp encounters in his brief career."
+  },
+  {
+   "cid": "033.c4",
+   "date": "",
+   "published": "1870-04-30",
+   "retro": true,
+   "conf": "medium",
+   "statement": "The paper says Tom Allen has fought his way to fortune and fame as a prize fighter."
+  },
+  {
+   "cid": "046.c3",
+   "date": "",
+   "published": "1874-01-13",
+   "retro": true,
+   "conf": "medium",
+   "statement": "A St. Louis editorial says Tom Allen has beaten some very good men and some scrubs."
+  },
+  {
+   "cid": "068.c1",
+   "date": "",
+   "published": "1876-04-12",
+   "conf": "medium",
+   "statement": "The paper described Tom Allen as the champion pugilist."
+  },
+  {
+   "cid": "082.c6",
+   "date": "",
+   "published": "1876-05-10",
+   "conf": "medium",
+   "statement": "St. Louis sporting men had the utmost confidence in Tom Allen, the home champion."
+  },
+  {
+   "cid": "087.c2",
+   "date": "",
+   "published": "1876-09-21",
+   "statement": "Tom Allen was described as the champion of the prize ring."
+  },
+  {
+   "cid": "090.c2",
+   "date": "",
+   "published": "1877-09-29",
+   "retro": true,
+   "statement": "Tom Allen gained the title of Champion of America by his prowess in the squared circle while living in St. Louis."
+  },
+  {
+   "cid": "093.c4",
+   "date": "",
+   "published": "1878-08-10",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen was looked upon as the rightful claimant to the title of champion between about 1859 and 1873 (the article prints the first year as 1559)."
+  },
+  {
+   "cid": "095.c3",
+   "date": "",
+   "published": "1879-11-22",
+   "statement": "Tom Allen has fought seven times for the heavyweight championship of America."
+  },
+  {
+   "cid": "1000.c4",
+   "date": "",
+   "published": "1903-03-28",
+   "retro": true,
+   "statement": "Tom Allen was known locally for a score of years as a retired champion pugilist of England and America."
+  },
+  {
+   "cid": "1004.c2",
+   "date": "",
+   "published": "1903-04-06",
+   "retro": true,
+   "statement": "Tom Allen fought fourteen prize ring matches in England and ten in America, according to his own official record."
+  },
+  {
+   "cid": "1015.c1",
+   "date": "",
+   "published": "1904-09-18",
+   "retro": true,
+   "statement": "Tom Allen fought at 165 pounds, according to John L. Sullivan's recollection."
+  },
+  {
+   "cid": "103.c2",
+   "date": "",
+   "published": "1883-03-27",
+   "retro": true,
+   "conf": "medium",
+   "statement": "An old pugilist said Tom Allen had once been pretty good but was lately good for nothing."
+  },
+  {
+   "cid": "114.c3",
+   "date": "",
+   "published": "1885-03-28",
+   "retro": true,
+   "statement": "Before the Goss fight Allen had gained fame and money in America and was generally regarded as the rightful champion."
+  },
+  {
+   "cid": "117.c3",
+   "date": "",
+   "published": "1885-09-05",
+   "statement": "Tom Allen, an Englishman, came to America years ago, fought his way to pre-eminent fame, and then settled in St. Louis."
+  },
+  {
+   "cid": "133.c2",
+   "date": "",
+   "published": "1888-10-25",
+   "statement": "The article describes Tom Allen as a middleweight of credit and renown."
+  },
+  {
+   "cid": "140.c1",
+   "date": "",
+   "published": "1891-12-08",
+   "retro": true,
+   "statement": "Tom Allen was for several years champion heavyweight of America."
+  },
+  {
+   "cid": "148.c4",
+   "date": "",
+   "published": "1892-09-18",
+   "retro": true,
+   "statement": "Tom Allen was heavyweight champion of the world at the time of his retirement."
+  },
+  {
+   "cid": "148.c5",
+   "date": "",
+   "published": "1892-09-18",
+   "retro": true,
+   "statement": "Tom Allen retired with the championship honors of England and America."
+  },
+  {
+   "cid": "152.c2",
+   "date": "",
+   "published": "1893-03-02",
+   "statement": "Tom Allen is described as America's ex-heavyweight champion."
+  },
+  {
+   "cid": "156.c2",
+   "date": "",
+   "published": "1894-01-02",
+   "statement": "Tom Allen is a cook of rare accomplishments and a good deal of a doctor, with much experience in prize ring affairs and training pugilists."
+  },
+  {
+   "cid": "167.c5",
+   "date": "",
+   "published": "1895-01-13",
+   "retro": true,
+   "statement": "Tom Allen said he was the only pugilist who ever left America open to fight any man living."
+  },
+  {
+   "cid": "167.c6",
+   "date": "",
+   "published": "1895-01-13",
+   "retro": true,
+   "statement": "Tom Allen said that on arriving in England he beat all the best men there and retired from the ring."
+  },
+  {
+   "cid": "167.c8",
+   "date": "",
+   "published": "1895-01-13",
+   "statement": "In this letter Tom Allen said he had thirty-four years' experience in the prize ring."
+  },
+  {
+   "cid": "171.c4",
+   "date": "",
+   "published": "1897-01-22",
+   "retro": true,
+   "statement": "Tom Allen said he fought at 145 pounds."
+  },
+  {
+   "cid": "175.c6",
+   "date": "",
+   "published": "1897-06-14",
+   "retro": true,
+   "statement": "Tom Allen was the ex-heavyweight world's champion."
+  },
+  {
+   "cid": "179.c6",
+   "date": "",
+   "published": "1899-02-26",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen held the world's championship before he retired from the ring and came to St. Louis."
+  },
+  {
+   "cid": "181.c5",
+   "date": "",
+   "published": "1899-02-27",
+   "statement": "Tom Allen is an old-time prize fighter who was at one time heavy-weight champion of the world."
+  },
+  {
+   "cid": "182.c5",
+   "date": "",
+   "published": "1899-02-27",
+   "statement": "Tom Allen was an old-time prize fighter who was at one time heavy-weight champion of the world."
+  },
+  {
+   "cid": "185.c1",
+   "date": "",
+   "published": "1899-03-03",
+   "statement": "Tom Allen was an old-time prize fighter who at one time held the heavy-weight championship of the world."
+  },
+  {
+   "cid": "186.c2",
+   "date": "",
+   "published": "1899-05-04",
+   "statement": "Tom Allen was a former champion pugilist."
+  },
+  {
+   "cid": "189.c3",
+   "date": "",
+   "published": "1899-11-14",
+   "statement": "The newspaper describes Tom Allen as an ex-pugilist."
+  },
+  {
+   "cid": "192.c3",
+   "date": "",
+   "published": "1901-03-04",
+   "retro": true,
+   "statement": "The newspaper describes Tom Allen as an ex-pugilist."
+  },
+  {
+   "cid": "193.c5",
+   "date": "",
+   "published": "1901-04-20",
+   "statement": "The article describes Tom Allen as a retired pugilist who conducts Champions Rest."
+  },
+  {
+   "cid": "194.c4",
+   "date": "",
+   "published": "1903-01-31",
+   "retro": true,
+   "statement": "Tom Allen was for years considered the strongest candidate for the heavyweight championship of the world."
+  },
+  {
+   "cid": "194.c10",
+   "date": "",
+   "published": "1903-01-31",
+   "retro": true,
+   "statement": "A silver cup emblematic of the championship of England, given as a reward, hangs over Tom Allen's bar."
+  },
+  {
+   "cid": "195.c4",
+   "date": "",
+   "published": "1903-01-31",
+   "retro": true,
+   "conf": "low",
+   "statement": "Tom Allen started his ring career at age 21 in 186x (last digit garbled in the scan) and fought for about eighteen years."
+  },
+  {
+   "cid": "195.c5",
+   "date": "",
+   "published": "1903-01-31",
+   "retro": true,
+   "statement": "Tom Allen was for years considered the strongest candidate for the heavyweight championship."
+  },
+  {
+   "cid": "195.c6",
+   "date": "",
+   "published": "1903-01-31",
+   "retro": true,
+   "statement": "A silver cup emblematic of the championship of England, given as a reward, hangs over Tom Allen's bar."
+  },
+  {
+   "cid": "196.c1",
+   "date": "",
+   "published": "1903-02-01",
+   "retro": true,
+   "statement": "Tom Allen was 21 years old when he started fighting, and 39 years old when he knocked out Charlie Davis for the British championship."
+  },
+  {
+   "cid": "197.c15",
+   "date": "",
+   "published": "1903-03-27",
+   "retro": true,
+   "statement": "Allen has not fought professionally since his last fight; his saloon made him a living in the interval."
+  },
+  {
+   "cid": "202.c12",
+   "date": "",
+   "published": "1903-04-06",
+   "retro": true,
+   "statement": "Tom Allen won the championship of the world in the days when fighters did not use gloves; he lost the championship and then regained it."
+  },
+  {
+   "cid": "203.c9",
+   "date": "",
+   "published": "1903-04-06",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Allen was the only man in ring history, during the bare-knuckle era, to lose the championship and regain it."
+  },
+  {
+   "cid": "203.c10",
+   "date": "",
+   "published": "1903-04-06",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Allen insisted on the title of champion; any fan who called him the ex-champion had to settle with him."
+  },
+  {
+   "cid": "203.c11",
+   "date": "",
+   "published": "1903-04-06",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Allen was robbed of money or decisions in several battles, and twice opponents' friends broke into the ring and forced him to give in under threat of revolvers."
+  },
+  {
+   "cid": "206.c4",
+   "date": "",
+   "published": "1903-04-09",
+   "retro": true,
+   "statement": "Tom Allen was said to be the only pugilist who lost the world's championship, regained it and retired with it."
+  },
+  {
+   "cid": "209.c13",
+   "date": "",
+   "published": "1903-04-12",
+   "retro": true,
+   "conf": "low",
+   "statement": "A cup for Allen's English championship victory was displayed in front of the mirror behind the bar."
+  },
+  {
+   "cid": "209.c14",
+   "date": "",
+   "published": "1903-04-12",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen was said to have been one of the most savage and vicious men ever to fight under London prize ring rules."
+  },
+  {
+   "cid": "215.c3",
+   "date": "",
+   "published": "1903-05-23",
+   "statement": "Tom Allen was a former prize fighter."
+  },
+  {
+   "cid": "219.c1",
+   "date": "",
+   "published": "1903-07-29",
+   "statement": "Tom Allen was a saloonkeeper and former champion pugilist."
+  },
+  {
+   "cid": "220.c4",
+   "date": "",
+   "published": "1903-08-02",
+   "retro": true,
+   "statement": "Pictures on the walls of the Champion's Rest give evidence of Tom Allen's victorious days."
+  },
+  {
+   "cid": "221.c3",
+   "date": "",
+   "published": "1907-01-19",
+   "retro": true,
+   "statement": "The article says Tom Allen was about the only noted fighter who made good in the ring again after being beaten and retiring."
+  },
+  {
+   "cid": "234.c20",
+   "date": "",
+   "published": "1919-01-02",
+   "retro": true,
+   "conf": "medium",
+   "statement": "After the Acquia Creek affair, Tom Allen made spectacular efforts to gain an undisputed claim to the championship of America."
+  },
+  {
+   "cid": "235.c17",
+   "date": "",
+   "published": "1919-01-03",
+   "retro": true,
+   "statement": "The fight with Joe Goss ended Tom Allen's boxing career."
+  },
+  {
+   "cid": "240.c1",
+   "date": "",
+   "published": "1927-07-09",
+   "retro": true,
+   "statement": "Tom Allen regained a heavyweight title he had previously lost."
+  },
+  {
+   "cid": "242.c9",
+   "date": "",
+   "published": "1928-12-09",
+   "retro": true,
+   "statement": "After losing his title, Tom Allen retired to his public house."
+  },
+  {
+   "cid": "244.c2",
+   "date": "",
+   "published": "1933-01-30",
+   "retro": true,
+   "statement": "Tom Allen held the heavyweight title while residing in St. Louis."
+  },
+  {
+   "cid": "245.c14",
+   "date": "",
+   "published": "1933-07-29",
+   "retro": true,
+   "statement": "Tom Allen held the heavyweight title for seven years."
+  },
+  {
+   "cid": "245.c15",
+   "date": "",
+   "published": "1933-07-29",
+   "retro": true,
+   "statement": "Tom Allen retired from the ring when boxing gloves came into vogue."
+  },
+  {
+   "cid": "245.c16",
+   "date": "",
+   "published": "1933-07-29",
+   "retro": true,
+   "conf": "medium",
+   "statement": "Tom Allen fought 23 battles with bare fists."
+  }
+ ]
+}

@@ -1,0 +1,379 @@
+{
+ "bucket": "career-1892-1903",
+ "kind": "career",
+ "undated": false,
+ "claims": [
+  {
+   "cid": "831.c2",
+   "date": "1892-01-23",
+   "published": "1892-01-23",
+   "conf": "low",
+   "statement": "Tom Allen was advertised as a pugilist of the world; the title words are garbled (printed as 'leech ene be pugilist of the')."
+  },
+  {
+   "cid": "832.c2",
+   "date": "1892-01-24",
+   "published": "1892-01-24",
+   "statement": "Tom Allen was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "833.c2",
+   "date": "1892-01-30",
+   "published": "1892-01-30",
+   "conf": "low",
+   "statement": "The advertisement describes Tom Allen as 'retired'; the rest of the title is garbled."
+  },
+  {
+   "cid": "835.c3",
+   "date": "1892-02-28",
+   "published": "1892-02-28",
+   "conf": "medium",
+   "statement": "Tom Allen was described as the ex-champion of America."
+  },
+  {
+   "cid": "836.c2",
+   "date": "1892-03-02",
+   "published": "1892-03-03",
+   "statement": "Tom Allen was described as a retired pugilist."
+  },
+  {
+   "cid": "846.c2",
+   "date": "1892-05",
+   "published": "1892-05-07",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "847.c2",
+   "date": "1892-05",
+   "published": "1892-05-14",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "848.c2",
+   "date": "1892-05",
+   "published": "1892-05-21",
+   "conf": "low",
+   "statement": "An advertisement styled Tom Allen as retired champion of the world (the OCR reads 'retire cham: of')."
+  },
+  {
+   "cid": "849.c2",
+   "date": "1892-05",
+   "published": "1892-05-28",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "850.c2",
+   "date": "1892-06",
+   "published": "1892-06-11",
+   "conf": "medium",
+   "statement": "Tom Allen styled himself retired champion of the world (the OCR reads 'champion asnies of the world')."
+  },
+  {
+   "cid": "851.c2",
+   "date": "1892-06",
+   "published": "1892-06-18",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "853.c2",
+   "date": "1892-06",
+   "published": "1892-06-25",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "854.c1",
+   "date": "1892-07",
+   "published": "1892-07-16",
+   "statement": "Tom Allen styled himself the retired champion pugilist of the world."
+  },
+  {
+   "cid": "858.c2",
+   "date": "1892-09",
+   "published": "1892-09-03",
+   "statement": "Tom Allen was billed in this advertisement as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "861.c3",
+   "date": "1892-09",
+   "published": "1892-09-15",
+   "statement": "Tom Allen was described as the veteran ex-champion heavy-weight of America."
+  },
+  {
+   "cid": "862.c1",
+   "date": "1892-09-17",
+   "published": "1892-09-17",
+   "statement": "Tom Allen advertised himself as retired champion pugilist of the world."
+  },
+  {
+   "cid": "865.c1",
+   "date": "1892-09-24",
+   "published": "1892-09-24",
+   "statement": "Tom Allen advertised himself as retired champion pugilist of the world."
+  },
+  {
+   "cid": "866.c1",
+   "date": "1892-10-04",
+   "published": "1892-10-04",
+   "statement": "Tom Allen advertised himself as retired champion pugilist of the world."
+  },
+  {
+   "cid": "867.c1",
+   "date": "1892-10-05",
+   "published": "1892-10-05",
+   "statement": "Tom Allen advertised himself as retired champion pugilist of the world."
+  },
+  {
+   "cid": "868.c1",
+   "date": "1892-10-15",
+   "published": "1892-10-15",
+   "statement": "Tom Allen advertised himself as retired champion pugilist of the world."
+  },
+  {
+   "cid": "869.c1",
+   "date": "1892-10-22",
+   "published": "1892-10-22",
+   "conf": "low",
+   "statement": "Tom Allen was advertised as a retired pugilist of the world (the word 'champion' is garbled in the scan)."
+  },
+  {
+   "cid": "886.c2",
+   "date": "1893-01-28",
+   "published": "1893-01-28",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "887.c2",
+   "date": "1893-02-04",
+   "published": "1893-02-04",
+   "conf": "low",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world (printed as 'goats' in the OCR)."
+  },
+  {
+   "cid": "888.c3",
+   "date": "1893-03-03",
+   "published": "1893-03-04",
+   "statement": "The paper described Tom Allen as the ex-champion heavy-weight, who took more than ordinary interest in the match."
+  },
+  {
+   "cid": "891.c2",
+   "date": "1893-06-24",
+   "published": "1893-06-24",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "892.c2",
+   "date": "1893-07",
+   "published": "1893-07-08",
+   "statement": "Tom Allen was styled retired champion pugilist of the world."
+  },
+  {
+   "cid": "162.c1",
+   "date": "1894-02-01",
+   "published": "1894-02-01",
+   "statement": "Tom Allen was a retired world's champion in February 1894 and had nothing to show for his long ring career but a saloon."
+  },
+  {
+   "cid": "900.c1",
+   "date": "1894-10-26",
+   "published": "1894-10-26",
+   "statement": "The paper calls Tom Allen the ex-champion in October 1894."
+  },
+  {
+   "cid": "164.c3",
+   "date": "1894-12-23",
+   "published": "1894-12-23",
+   "statement": "Tom Allen signed his letter of December 1894 as 'Retired Champion of the World'."
+  },
+  {
+   "cid": "909.c2",
+   "date": "1895-03",
+   "published": "1895-03-31",
+   "statement": "Tom Allen was described as the retired champion heavyweight pugilist of the world."
+  },
+  {
+   "cid": "908.c2",
+   "date": "1895-03-16",
+   "published": "1895-03-16",
+   "statement": "Tom Allen was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "916.c2",
+   "date": "1895-09-28",
+   "published": "1895-09-28",
+   "statement": "Tom Allen was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "917.c2",
+   "date": "1895-10-19",
+   "published": "1895-10-19",
+   "statement": "Tom Allen was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "919.c1",
+   "date": "1895-11-02",
+   "published": "1895-11-02",
+   "statement": "Tom Allen was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "920.c1",
+   "date": "1895-11-09",
+   "published": "1895-11-09",
+   "statement": "Tom Allen was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "932.c3",
+   "date": "1896-06-06",
+   "published": "1896-06-06",
+   "conf": "low",
+   "statement": "Tom Allen (printed as 'Tom ei') was advertised as a retired champion pugilist of the world."
+  },
+  {
+   "cid": "933.c2",
+   "date": "1896-06-13",
+   "published": "1896-06-13",
+   "conf": "low",
+   "statement": "A notice (name cut off in the OCR, presumably Tom Allen) called its subject a retired champion pugilist of the world."
+  },
+  {
+   "cid": "934.c3",
+   "date": "1896-06-17",
+   "published": "1896-06-17",
+   "statement": "Tom Allen was advertised as a retired champion pugilist of the world."
+  },
+  {
+   "cid": "935.c3",
+   "date": "1896-06-18",
+   "published": "1896-06-18",
+   "conf": "medium",
+   "statement": "Tom Allen was advertised as a retired champion pugilist of the world."
+  },
+  {
+   "cid": "946.c2",
+   "date": "1896-11-28",
+   "published": "1896-11-28",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "947.c2",
+   "date": "1896-12-12",
+   "published": "1896-12-12",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "948.c2",
+   "date": "1897-01-09",
+   "published": "1897-01-09",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "949.c2",
+   "date": "1897-01-23",
+   "published": "1897-01-23",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "950.c2",
+   "date": "1897-01-30",
+   "published": "1897-01-30",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "951.c2",
+   "date": "1897-02-06",
+   "published": "1897-02-06",
+   "statement": "Tom Allen styled himself retired champion pugilist of the world."
+  },
+  {
+   "cid": "954.c1",
+   "date": "1897-03",
+   "published": "1897-03-13",
+   "statement": "Tom Allen was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "956.c1",
+   "date": "1897-03",
+   "published": "1897-03-20",
+   "statement": "Tom Allen was advertised as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "976.c2",
+   "date": "1898-07-16",
+   "published": "1898-07-16",
+   "statement": "Tom Allen was billed in this advertisement as retired champion pugilist of the world."
+  },
+  {
+   "cid": "977.c2",
+   "date": "1898-08-20",
+   "published": "1898-08-20",
+   "conf": "medium",
+   "statement": "Tom Allen was billed in this advertisement as retired champion of the world."
+  },
+  {
+   "cid": "978.c2",
+   "date": "1898-09-24",
+   "published": "1898-09-24",
+   "statement": "Tom Allen was billed in this advertisement as retired champion pugilist of the world."
+  },
+  {
+   "cid": "981.c2",
+   "date": "1898-12-17",
+   "published": "1898-12-17",
+   "conf": "medium",
+   "statement": "Allen was billed in this advertisement as retired champion pugilist of the world."
+  },
+  {
+   "cid": "982.c2",
+   "date": "1899-01-21",
+   "published": "1899-01-21",
+   "statement": "Tom Allen was billed in this advertisement as retired champion pugilist of the world."
+  },
+  {
+   "cid": "984.c2",
+   "date": "1899-02-25",
+   "published": "1899-02-25",
+   "statement": "Tom Allen was billed in this advertisement as retired champion pugilist of the world."
+  },
+  {
+   "cid": "988.c2",
+   "date": "1899-03",
+   "published": "1899-03-18",
+   "statement": "Tom Allen was styled retired champion pugilist of the world."
+  },
+  {
+   "cid": "989.c2",
+   "date": "1899-03-25",
+   "published": "1899-03-25",
+   "statement": "Tom Allen is described in the paper as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "990.c2",
+   "date": "1899-05-10",
+   "published": "1899-05-10",
+   "statement": "Tom Allen is described in the paper as the retired champion pugilist of the world."
+  },
+  {
+   "cid": "279.c1",
+   "date": "1900-03",
+   "published": "1900-03-18",
+   "statement": "The article calls Tom Allen a retired champion."
+  },
+  {
+   "cid": "197.c16",
+   "date": "1903-03",
+   "published": "1903-03-27",
+   "statement": "In March 1903 Tom Allen was described as a retired champion pugilist."
+  },
+  {
+   "cid": "201.c1",
+   "date": "1903-04",
+   "published": "1903-04-03",
+   "statement": "Tom Allen was a retired champion pugilist living in St. Louis in April 1903."
+  },
+  {
+   "cid": "219.c13",
+   "date": "1903-07-28",
+   "published": "1903-07-29",
+   "statement": "The estate inventory listed a champion's cup among Tom Allen's property."
+  }
+ ]
+}

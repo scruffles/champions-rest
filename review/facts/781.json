@@ -1,0 +1,41 @@
+{
+  "id": "781",
+  "claims": [
+    {
+      "kind": "career",
+      "statement": "Tom Allen was advertised as the retired champion pugilist of the world.",
+      "excerpt": "ToM ALLEN; retired champion pugilist of\nthe worid} 619 Market Street.",
+      "date": "1890-04-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon at 619 Market Street advertised a free concert every evening.",
+      "excerpt": "the worid} 619 Market Street. Free concert\nevery evehing.",
+      "date": "1890-04-05",
+      "date_precision": "day",
+      "people": [],
+      "places": ["619 Market Street"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Edward Smith was to be Tom Allen's guest for a few days.",
+      "excerpt": "Edward Smith wii be his\nguestior ; tew days.",
+      "date": "1890-04-05",
+      "date_precision": "approx",
+      "people": ["Edward Smith"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "OCR garbled in the Edward Smith line. Lexington shoot and bear items unrelated."
+}

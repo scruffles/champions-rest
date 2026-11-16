@@ -1,0 +1,45 @@
+{
+  "id": "625",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Jack Stewart of Scotland in London on April 22, 1879, for the championship of the world and £100.",
+      "excerpt": "ook place to-day, between Tom Allen,",
+      "date": "1879-04-22",
+      "date_precision": "day",
+      "people": ["Jack Stewart"],
+      "places": ["London"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "The referees declared the fight between Tom Allen and Jack Stewart a draw after twenty-four rounds, and the bets were off.",
+      "excerpt": "uc referees deciared the fght adraw a",
+      "date": "1879-04-22",
+      "date_precision": "day",
+      "people": ["Jack Stewart"],
+      "places": ["London"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jack Stewart",
+      "date": "1879-04-22",
+      "date_precision": "day",
+      "place": "London",
+      "result": "draw",
+      "rounds": "24",
+      "duration": "",
+      "stakes": "£100 and the championship of the world",
+      "rules": "",
+      "excerpt": "ook place to-day, between Tom Allen,",
+      "reported_as": "report",
+      "notes": "The text reads '£100' (the hint's £400 is not in the text). Article 624 says £200 a side. The text says 'the seventh round' had a slight advantage for Allen; that round-by-round detail is not recorded."
+    }
+  ],
+  "notes": "Dispatch dated London, April 22. The hint's £400 is not in the text. The OCR beginning of the fight is cut off ('ook place' and 'Stewa'), but the names are clear."
+}

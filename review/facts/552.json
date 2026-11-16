@@ -1,0 +1,30 @@
+{
+  "id": "552",
+  "claims": [
+    {
+      "kind": "other",
+      "statement": "Tom Allen acted for Prof. Bauer at Tony Faust's, depositing the remainder of the stakes for Bauer's match with Julius Schroeder.",
+      "excerpt": "He wag represented, however, by Tom Allen, who was authorized to act for him and deposit the remainder of the money.",
+      "date": "1876-05-04",
+      "date_precision": "day",
+      "people": ["Prof. Bauer", "Julius Schroeder"],
+      "places": ["Tony Faust's"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Allen was empowered to sign articles of agreement for Prof. Bauer's match with Julius Schroeder.",
+      "excerpt": "The pugilist was also duly empowered to sign articles of agrecment and make any necessary",
+      "date": "1876-05-04",
+      "date_precision": "day",
+      "people": ["Prof. Bauer", "Julius Schroeder"],
+      "places": ["Tony Faust's"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen acted as Bauer's representative in a wrestling match, not a boxing bout. Hint's match date (May 6, Temple) is not about Allen and is left out."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "699",
+  "claims": [
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen tried to light the street illuminations in front of his saloon on the evening of October 4, 1883, but the lights kept going out and he gave up in disgust.",
+      "excerpt": "and as theydid notseem disposed to burn, the retired pugilist seized xtorch about",
+      "date": "1883-10-04",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The Globe-Democrat calls Tom Allen the ex-champion pugilist.",
+      "excerpt": "It was. Tom, Allén, the ex-champion pugilist. He had some Hity ihehts in frent of his",
+      "date": "1883-10-04",
+      "date_precision": "day",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "OCR heavily garbled; the number of lights Allen tried to light is unreadable and is left out. Rest of article (rain, postponed pageant) does not mention Allen."
+}

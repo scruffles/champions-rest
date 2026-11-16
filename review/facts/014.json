@@ -1,0 +1,56 @@
+{
+  "id": "014",
+  "claims": [
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was expected in Cincinnati on the night of 8 May 1869.",
+      "excerpt": "Tom Allen, the bruiser, is expected here to-night",
+      "date": "1869-05-08",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was to go into training immediately at the Buckeye House, near Cincinnati.",
+      "excerpt": "mnediately at the Buckeye House, near the city, for",
+      "date": "1869-05-08",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Buckeye House, near Cincinnati"],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen had an approaching mill with Mike McCoole, for which he was to train.",
+      "excerpt": "at the Buckeye House, near the city, for his approaching mill with McCoole.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCoole"],
+      "places": ["Buckeye House, near Cincinnati"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "at the Buckeye House, near the city, for his approaching mill with McCoole.",
+      "reported_as": "report",
+      "notes": "Bout not dated in this dispatch; the same match as the one set for 15 May 1869."
+    }
+  ],
+  "notes": ""
+}

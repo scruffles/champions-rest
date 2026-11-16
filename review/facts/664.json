@@ -1,0 +1,40 @@
+{
+  "id": "664",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Jem Mace said he beat Tom Allen easily in a fight in New Orleans in 1870.",
+      "excerpt": "fight Tom Allen in New Orleans in 1870.",
+      "date": "1870",
+      "date_precision": "year",
+      "people": ["Jem Mace"],
+      "places": ["New Orleans"],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Jem Mace",
+      "text": "I would train and Win Just as easily as I did when ou saw me\nfight Tom Allen in New Orleans in 1870.",
+      "topic": "boast of beating Allen in 1870"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "1870",
+      "date_precision": "year",
+      "place": "New Orleans",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "fight Tom Allen in New Orleans in 1870.",
+      "reported_as": "recollection",
+      "notes": "Mace's own claim in a letter that he won easily; the result is not confirmed by this article."
+    }
+  ],
+  "notes": "Mace's letter, reprinted in the Post-Dispatch. Allen's role is only as the opponent Mace recalls."
+}

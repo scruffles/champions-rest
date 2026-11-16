@@ -1,0 +1,45 @@
+{
+  "id": "762",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Mike McCool in a prize fight on an island some distance below the city, as the witness recalled.",
+      "excerpt": "I itearned that Tom Alien and Mike McCool were the pares",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCool"],
+      "places": ["island some distance below St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "The witness recalled that Mike McCool was outclassed in every respect by Tom Allen.",
+      "excerpt": "McCool was outelassed in every respect, but took his hammering",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mike McCool"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCool",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "island some distance below St. Louis",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "I itearned that Tom Alien and Mike McCool were the pares",
+      "reported_as": "recollection",
+      "notes": "Result is not stated outright; the witness's account and the headline imply Allen won. Printed as Alien in the excerpt."
+    }
+  ],
+  "notes": "The witness's first and last prize fight, recalled with no date given. The rest of the page is unrelated."
+}

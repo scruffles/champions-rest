@@ -1,0 +1,56 @@
+{
+  "id": "321",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "The last $500-a-side deposit was made for the $1,000-each match between Tom Allen and Mike McCoole.",
+      "excerpt": "The last deposit of $500 a-side, in the match for $1,000 each, between Mike McC le and Tom. Allen,",
+      "date": "1869-06-08",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Tom Keho acted for McCoole and Wm. Carroll acted for Tom Allen at the final deposit.",
+      "excerpt": "Tom. Keho acting for McCoole, and Wm. Carroll for Allkn.",
+      "date": "1869-06-08",
+      "date_precision": "day",
+      "people": ["Tom Keho", "Wm. Carroll"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen and Mike McCoole were to fight on Tuesday, June 15, 1869 (printed as 'June 1b').",
+      "excerpt": "The fight is to take placeon next Tuesday, June 1b.",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "people": ["Mike McCoole"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Mike McCoole",
+      "date": "1869-06-15",
+      "date_precision": "day",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "$1,000 each",
+      "rules": "",
+      "excerpt": "The fight is to take placeon next Tuesday, June 1b.",
+      "reported_as": "report",
+      "notes": "Date given as 'next Tuesday, June 1b' (15). The deposit was made at McCoole's saloon, not Allen's."
+    }
+  ],
+  "notes": "Deposit and match terms from a single short item; the rest of the page is weather and unrelated."
+}

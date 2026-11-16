@@ -1,0 +1,142 @@
+{
+  "id": "659",
+  "claims": [
+    {
+      "kind": "birth",
+      "statement": "Tom Kelly thought Tom Allen was born in 1840 and so was about 42 years old.",
+      "excerpt": "He was born,\nI think, in 1840, and thatfwill make him just 42",
+      "date": "1840",
+      "date_precision": "year",
+      "people": ["Tom Kelly"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen and Bill Ryall came to St. Louis with a letter from Frank Queen introducing them to Jack Looney and Billy Carroll.",
+      "excerpt": "When Alien and Bill Ryall came to St. Louis,",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Bill Ryall", "Frank Queen", "Jack Looney", "Billy Carroll"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Billy Carroll said Tom Allen had left St. Louis a few years earlier.",
+      "excerpt": "Allen was a good man when he left here a tew™",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Billy Carroll"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen sailed for England after leaving St. Louis, according to remarks by local sporting men.",
+      "excerpt": "as he was when he sailed for\nEngisnd",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "health",
+      "statement": "Billy Carroll was sure Tom Allen's dissipation in the old country had not hurt him.",
+      "excerpt": "yearsaee: and I’m surg his dissipation in the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Billy Carroll"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Billy Carroll said Tom Allen cut up his opponent Hogan badly in their fight.",
+      "excerpt": "badly, tnless he was ja chopping-block like\nHogan.",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Hogan"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "fight",
+      "statement": "Billy Carroll said Tom Allen easily beat every man he met in America except Mace, who beat him.",
+      "excerpt": "he was licked by Mace) before -he entered the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "low"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Kelly said Tom Allen fought McCoole in several fights in the St. Louis area.",
+      "excerpt": "Allen and McCoole in several of their fights in this vicini-",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["McCoole", "Tom Kelly"],
+      "places": ["St. Louis"],
+      "retrospective": true,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "Tom Allen issued a challenge to fight John L. Sullivan, the American champion.",
+      "excerpt": "Tom Allen’s challenge to fight John L. Sulli-",
+      "date": "1882-10",
+      "date_precision": "month",
+      "people": ["John L. Sullivan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "Billy Carroll",
+      "text": "Allen aiways could lick a man that he\nwasn’t afraid of.",
+      "topic": "Allen's fighting nerve"
+    }
+  ],
+  "fights": [
+    {
+      "opponent": "Hogan",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "win",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "badly, tnless he was ja chopping-block like\nHogan.",
+      "reported_as": "recollection",
+      "notes": "Winner not stated outright; implied by Carroll's remark that Allen cut Hogan up."
+    },
+    {
+      "opponent": "Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "he was licked by Mace) before -he entered the",
+      "reported_as": "recollection",
+      "notes": "Date not given; may be the New Orleans 1870 bout described in the 1882-11-22 Post-Dispatch."
+    }
+  ],
+  "notes": "Several sporting men discuss Allen's challenge to Sullivan; most of the text is their opinion. Kelly's own quotes are not used because the OCR is unreadable."
+}

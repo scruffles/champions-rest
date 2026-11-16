@@ -1,0 +1,45 @@
+{
+  "id": "341",
+  "claims": [
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was matched to fight Charley Gallagher, a match creating great interest in sporting circles.",
+      "excerpt": "The match between\nCharley Gallagher and fom Allen is creating a great",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Charley Gallagher"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "other",
+      "statement": "Jim Coyne was Tom Allen's mentor.",
+      "excerpt": "confident-ofsucee:s, Jim Coyne is Allen’s\nmentor.",
+      "date": "1869-07-16",
+      "date_precision": "day",
+      "people": ["Jim Coyne"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Charley Gallagher",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "The match between\nCharley Gallagher and fom Allen is creating a great",
+      "reported_as": "report",
+      "notes": "Same match as in 340 (planned for August 17, 1869). This article gives no date."
+    }
+  ],
+  "notes": "Hint 1 kept as a fight entry (matched bout) plus Jim Coyne as mentor. The Gallagher match is described as a match, not a challenge."
+}

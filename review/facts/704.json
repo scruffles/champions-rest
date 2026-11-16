@@ -1,0 +1,177 @@
+{
+  "id": "704",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Tom Allen was arrested at his saloon on Market Street, between Sixth and Seventh streets, on February 9, 1884, as a fugitive from Kentucky justice.",
+      "excerpt": "the arrest of Toi\nAllen, the ex-champion of America, at his\nsaloon, on Market street, between Sixth and\nSeventh streets, upon the charge of being a fu-\ngitive from Kentucky justice.",
+      "date": "1884-02-09",
+      "date_precision": "day",
+      "people": ["Thomas Donegan", "Chief Harrigan"],
+      "places": ["Market Street, St. Louis", "Kentucky"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen gave a $2,000 bond, with Joseph M. Schnaider and Frederick Watkins as securities, to appear before Judge Noonan the next day.",
+      "excerpt": "bond of $2,000, with Joseph M. Schnaider,\nbrewer, and Frederick Watkins, bide and\nleather merchant, as securities for his ap-\npearance before Judge Noonan w-morrow.",
+      "date": "1884-02-09",
+      "date_precision": "day",
+      "people": ["Joseph M. Schnaider", "Frederick Watkins", "Judge Noonan"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Judge Chester H. Krum, Thomas Morris and Frank Turner represented Tom Allen.",
+      "excerpt": "Judge Chester H. Krum, Thomas Morris\nand Frank Turner represented Allen",
+      "date": "1884-02-09",
+      "date_precision": "day",
+      "people": ["Chester H. Krum", "Thomas Morris", "Frank Turner"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen and Joe Goss were both arrested after their fight near Covington, Kentucky, in September 1876; Goss was tried and fined $300.",
+      "excerpt": "Both were arrested at\nthe time, Goss standing trial] «nd being fined\n$300, which he paid.",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": ["Covington, Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "After the 1876 fight, Tom Allen gave a $3,000 bond with Patrick Murphy of Cincinnati and W. J. Farrell and Farrell's brother of Covington as sureties.",
+      "excerpt": "Allen gave bond of $3,000,\nwith Patrick Murpby,. of Cincinnsti, and W.\nJ. Farrell and bis brother, of Covington, as\nsureties",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Patrick Murphy", "W. J. Farrell"],
+      "places": ["Cincinnati, Ohio", "Covington, Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen fought Joe Goss in September 1876 near Covington, Kentucky.",
+      "excerpt": "Allen and Joe Goss in September, 1876,\nnear Covington, Ky.",
+      "date": "1876-09",
+      "date_precision": "month",
+      "people": ["Joe Goss"],
+      "places": ["Covington, Kentucky"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "After posting bond in 1876, Tom Allen left for England and stayed away about five years.",
+      "excerpt": "aher which he leit for Enzland, re-\nmaining away for five years.",
+      "date": "1877",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen returned to St. Louis from England about a year and a half before February 1884.",
+      "excerpt": "He returned to\nSt. ‘Louts abouta year und a hulf wgo",
+      "date": "1882",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["St. Louis", "England"],
+      "retrospective": true,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "About a year before February 1884, Tom Allen opened a saloon on Market Street, St. Louis, where he was then located.",
+      "excerpt": "wbont a. year since opened a suloen on\nMarket street, where he is now located.",
+      "date": "1883",
+      "date_precision": "approx",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "career",
+      "statement": "The Globe-Democrat called Tom Allen the ex-champion of America.",
+      "excerpt": "Toi\nAllen, the ex-champion of America, at his\nsaloon",
+      "date": "",
+      "date_precision": "unknown",
+      "people": [],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "The law demanded payment of the bond Tom Allen had given, and W. J. Farrell's property was sold to satisfy it.",
+      "excerpt": "law demanded the payment of the\nbond, «nd qacemons being tound against",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["W. J. Farrell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Tom Allen said he had paid Farrell and Murphy $250 each on the bond (printed as $250 auch).",
+      "excerpt": "Allen suid to a GLOBE-DEMOCRAT reporter\nthat spe had paid Farrell and Marphy $250\nauch",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["W. J. Farrell", "Patrick Murphy"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "legal",
+      "statement": "Shortly before his arrest, W. J. Farrell wrote to Tom Allen demanding $200 and then appeared in person.",
+      "excerpt": "demand for $200, but before he had time to\nanswer it Furrell putin un appearance him-",
+      "date": "1884-02",
+      "date_precision": "approx",
+      "people": ["W. J. Farrell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "legal",
+      "statement": "After a row with Tom Allen over more bond money, W. J. Farrell lodged a complaint that led to Allen's arrest.",
+      "excerpt": "which resuited in Farrell\nloding a complaintand Allen's arrest.",
+      "date": "1884-02",
+      "date_precision": "approx",
+      "people": ["W. J. Farrell"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Joe Goss",
+      "date": "1876-09",
+      "date_precision": "month",
+      "place": "near Covington, Kentucky",
+      "result": "unknown",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "Allen and Joe Goss in September, 1876,\nnear Covington, Ky.",
+      "reported_as": "recollection",
+      "notes": "Result not stated in the text."
+    }
+  ],
+  "notes": "Payment and demand details are as reported by the paper; Allen's $250 claim is his own statement."
+}

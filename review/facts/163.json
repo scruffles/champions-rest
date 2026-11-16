@@ -1,0 +1,30 @@
+{
+  "id": "163",
+  "claims": [
+    {
+      "kind": "legal",
+      "statement": "Police arrested a suspect calling himself John Foley at Tom Allen's saloon on Market Street, St. Louis, after a witness pointed him out as one of the robbers of a Broadway saloon.",
+      "excerpt": "ing about Tom Allen’s saloon on Market street.",
+      "date": "1894-03-08",
+      "date_precision": "day",
+      "people": ["John Foley", "Michael McGill", "John Carroll"],
+      "places": ["Tom Allen's saloon, Market Street, St. Louis", "Broadway and Mound street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "saloon",
+      "statement": "Tom Allen's saloon was on Market Street in St. Louis in March 1894.",
+      "excerpt": "ing about Tom Allen’s saloon on Market street.",
+      "date": "1894-03-08",
+      "date_precision": "day",
+      "people": [],
+      "places": ["Market Street, St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Allen is not named as involved in the robbery or the arrest. The hint's wording about the arrest is kept as legal, not saloon, since arrest comes first in the kind order."
+}

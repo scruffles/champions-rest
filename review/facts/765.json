@@ -1,0 +1,45 @@
+{
+  "id": "765",
+  "claims": [
+    {
+      "kind": "residence",
+      "statement": "Tom Allen was living in St. Louis 'after a fashion' in late 1888.",
+      "excerpt": "is living after a fashion in St. Louis.",
+      "date": "1888-12",
+      "date_precision": "month",
+      "people": [],
+      "places": ["St. Louis"],
+      "retrospective": false,
+      "confidence": "high"
+    },
+    {
+      "kind": "fight",
+      "statement": "Tom Allen was defeated by Jem Mace in a fight whose date and place are not given.",
+      "excerpt": "at the hands of Jem Mace not far from the",
+      "date": "",
+      "date_precision": "unknown",
+      "people": ["Jem Mace"],
+      "places": [],
+      "retrospective": true,
+      "confidence": "high"
+    }
+  ],
+  "quotes": [],
+  "fights": [
+    {
+      "opponent": "Jem Mace",
+      "date": "",
+      "date_precision": "unknown",
+      "place": "",
+      "result": "loss",
+      "rounds": "",
+      "duration": "",
+      "stakes": "",
+      "rules": "",
+      "excerpt": "at the hands of Jem Mace not far from the",
+      "reported_as": "recollection",
+      "notes": "Passing mention only; place is given just as near where Sullivan beat Ryan."
+    }
+  ],
+  "notes": "Review of how former champions spent their money; Allen appears in two lines."
+}

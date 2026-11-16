@@ -1,0 +1,41 @@
+{
+  "id": "071",
+  "claims": [
+    {
+      "kind": "challenge",
+      "statement": "Joe Coburn said he would have nothing to do with Tom Allen, either bare-fisted or with gloves.",
+      "excerpt": "burn will have nothing to do with Allen.",
+      "date": "1876-04-21",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "medium"
+    },
+    {
+      "kind": "challenge",
+      "statement": "It was rumoured in fistic circles that Tom Allen had sent Joe Coburn a telegram that morning.",
+      "excerpt": "gram from Tom Allen this morning",
+      "date": "1876-04-21",
+      "date_precision": "day",
+      "people": ["Joe Coburn"],
+      "places": [],
+      "retrospective": false,
+      "confidence": "low"
+    },
+    {
+      "kind": "travel",
+      "statement": "Tom Allen was expected back in St. Louis from Chicago by Monday, 24 April.",
+      "excerpt": "Allen will be in this citv by Monday,",
+      "date": "1876-04-24",
+      "date_precision": "day",
+      "people": [],
+      "places": ["St. Louis", "Chicago"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "Most of the article is Joe Coburn's engagements and refusal, which is left out. The Chicago trip is stated as expected, not confirmed."
+}

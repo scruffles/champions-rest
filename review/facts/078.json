@@ -1,0 +1,19 @@
+{
+  "id": "078",
+  "claims": [
+    {
+      "kind": "exhibition",
+      "statement": "Tom Allen was to box Tom Kelly in the crib scene from 'Tom and Jerry' at Kelly's benefit at the Theatre Comique on May 5, 1876.",
+      "excerpt": "will box with Kelly inthe crib sccne from**Tom and Jerry.",
+      "date": "1876-05-05",
+      "date_precision": "day",
+      "people": ["Tom Kelly"],
+      "places": ["Theatre Comique, St. Louis"],
+      "retrospective": false,
+      "confidence": "medium"
+    }
+  ],
+  "quotes": [],
+  "fights": [],
+  "notes": "The benefit is for Tom Kelly; the date is 'tomorrow' from the paper's 1876-05-04 date."
+}
