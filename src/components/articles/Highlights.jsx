@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { BY_ID, ERAS, ERA_COUNTS, ARTICLES, FIRST_YEAR, LAST_YEAR, formatDate, onThisDay, dayOfYear, MONTHS_LONG } from "../../lib/articles";
+import { BY_ID, ERAS, ERA_COUNTS, ARTICLES, FIRST_YEAR, LAST_YEAR, formatDate, todaysPick, dayOfYear, MONTHS_LONG } from "../../lib/articles";
 import { FEATURED, DAILY, SHELVES } from "../../../data/collections";
 import { Thumb, EraSpark } from "../shared";
 
@@ -12,13 +12,13 @@ const archiveLink = (go) => {
 
 function pickHero(offset) {
   const today = new Date();
-  const todays = onThisDay(today).filter((a) => a.importance === "key" && a.crop);
-  if (todays.length && offset === 0) {
+  const pick = todaysPick(today);
+  if (pick && offset === 0) {
     return {
       kind: "today",
-      article: todays[0],
-      also: onThisDay(today).filter((a) => a.id !== todays[0].id).slice(0, 3),
-      kicker: `On this day · ${MONTHS_LONG[today.getMonth()]} ${today.getDate()}, ${todays[0].year}`,
+      article: pick.lead,
+      also: pick.also.slice(0, 3),
+      kicker: `On this day · ${MONTHS_LONG[today.getMonth()]} ${today.getDate()}, ${pick.lead.year}`,
     };
   }
   const pool = DAILY.map((id) => BY_ID.get(id)).filter(Boolean);

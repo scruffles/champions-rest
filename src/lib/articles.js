@@ -125,6 +125,14 @@ export function onThisDay(date = new Date()) {
   });
 }
 
+// The one rule both "On this day" boxes use: lead with the most important article printed on this date
+// that has a clipping, and list the rest. Null when nothing in the archive ran on this date.
+export function todaysPick(date = new Date()) {
+  const all = onThisDay(date);
+  const lead = all.find((a) => a.crop);
+  return lead ? { lead, also: all.filter((a) => a !== lead) } : null;
+}
+
 export function dayOfYear(date = new Date()) {
   const start = new Date(date.getFullYear(), 0, 0);
   return Math.floor((date - start) / 86400000);

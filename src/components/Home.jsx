@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { ARTICLES, BY_ID, FIRST_YEAR, LAST_YEAR, MONTHS_LONG, onThisDay } from "../lib/articles";
+import { ARTICLES, BY_ID, FIRST_YEAR, LAST_YEAR, MONTHS_LONG, todaysPick } from "../lib/articles";
 
 const SECTIONS = [
   { to: "/biography", img: "/images/pictures/image-180a.jpg", pos: "center 20%", kicker: "Biography", title: "His Life, From Birmingham to Market Street", body: "Gunsmith, soldier, prize fighter and saloon keeper, told from the newspapers of the day with every claim sourced.", cta: "Read the biography" },
@@ -11,8 +11,9 @@ const SECTIONS = [
 
 export default function Home() {
   const today = new Date();
-  const todays = onThisDay(today).slice(0, 3);
-  const lead = todays[0];
+  const pick = todaysPick(today);
+  const lead = pick && pick.lead;
+  const todays = pick ? [pick.lead, ...pick.also].slice(0, 3) : [];
 
   return (
     <div className="home">
