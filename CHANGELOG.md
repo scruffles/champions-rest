@@ -3,6 +3,7 @@
 ## 2026-11-16
 
 ### Changed
+- Article viewer: pinch (trackpad or touch) and Ctrl/⌘ + scroll-wheel zoom on clippings and full pages, keeping the point under the pointer in place; plain scrolling still scrolls
 - "On this day": Home and the Articles hero now share one rule (`todaysPick`): lead with the most important article from the date, falling back to Article of the day only when nothing ran that date. They disagreed on 56 days a year
 - `data/facts.js`, `data/fights.js` and new `data/quotes.js` replaced with the generated facts index (1,030 facts, 64 fight entries, 225 quotes); disputed facts are separate versions that point at each other
 - Record page: shows the result most sources give, flags "Result disputed" and lists the other results with their sources under "Also reported"; Biography footnotes list the other versions of a disputed fact or fight
@@ -158,7 +159,6 @@
 - Maybe later: a facts page and a quotes page built from the index
 
 ### Article Viewer
-- Pinch and scroll-wheel zoom on clippings and full pages (the +/− buttons already work)
 - Cite sources in existing biography and fact pages using the new articles as references
 
 ### Record Page

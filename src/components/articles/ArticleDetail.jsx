@@ -54,6 +54,101 @@ function Transcript({ article }) {
   return <div className="transcript dropcap-first" dangerouslySetInnerHTML={{ __html: marked.parse(dedent(article.text)) }} />;
 }
 
+const MIN_ZOOM = 50;
+const MAX_ZOOM = 400;
+
+// Pinch (trackpad or touch) and Ctrl/⌘ + scroll-wheel zoom on the image frame, keeping the point under the
+// pointer in place. Plain scrolling still scrolls. Returns zoomTo(z, clientX?, clientY?) for the +/- buttons.
+function useZoomGestures(frameRef, zoom, setZoom, enabled) {
+  const zoomRef = React.useRef(zoom);
+  zoomRef.current = zoom;
+  const anchor = React.useRef(null);
+
+  const zoomTo = React.useCallback(
+    (z, cx, cy) => {
+      const old = zoomRef.current;
+      const next = Math.round(Math.min(MAX_ZOOM, Math.max(MIN_ZOOM, z)));
+      if (next === old) return;
+      const f = frameRef.current;
+      if (f) {
+        const r = f.getBoundingClientRect();
+        const x = cx == null ? f.clientWidth / 2 : cx - r.left;
+        const y = cy == null ? f.clientHeight / 2 : cy - r.top;
+        anchor.current = { x, y, sx: f.scrollLeft, sy: f.scrollTop, k: next / old };
+      }
+      zoomRef.current = next;
+      setZoom(next);
+    },
+    [frameRef, setZoom],
+  );
+
+  // After the image has been resized, scroll so the anchored point is back under the pointer.
+  React.useLayoutEffect(() => {
+    const a = anchor.current;
+    const f = frameRef.current;
+    anchor.current = null;
+    if (!a || !f) return;
+    f.scrollLeft = (a.sx + a.x) * a.k - a.x;
+    f.scrollTop = (a.sy + a.y) * a.k - a.y;
+  }, [zoom, frameRef]);
+
+  React.useEffect(() => {
+    const f = frameRef.current;
+    if (!f || !enabled) return undefined;
+    // Trackpad pinch arrives as a wheel event with ctrlKey set (Chrome, Firefox, Edge).
+    const onWheel = (e) => {
+      if (!e.ctrlKey && !e.metaKey) return;
+      e.preventDefault();
+      const dy = Math.max(-25, Math.min(25, e.deltaY * (e.deltaMode === 1 ? 16 : 1)));
+      zoomTo(zoomRef.current * Math.exp(-dy * 0.01), e.clientX, e.clientY);
+    };
+    // Safari reports trackpad pinch as gesture events.
+    let gestureBase = null;
+    const onGestureStart = (e) => {
+      e.preventDefault();
+      gestureBase = zoomRef.current;
+    };
+    const onGestureChange = (e) => {
+      e.preventDefault();
+      if (gestureBase != null) zoomTo(gestureBase * e.scale, e.clientX, e.clientY);
+    };
+    // Two-finger pinch on touch screens.
+    let pinch = null;
+    const spread = (t) => Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].clientY);
+    const onTouchStart = (e) => {
+      if (e.touches.length === 2) pinch = { d: spread(e.touches), z: zoomRef.current };
+    };
+    const onTouchMove = (e) => {
+      if (!pinch || e.touches.length !== 2) return;
+      e.preventDefault();
+      const [a, b] = e.touches;
+      zoomTo((pinch.z * spread(e.touches)) / pinch.d, (a.clientX + b.clientX) / 2, (a.clientY + b.clientY) / 2);
+    };
+    const onTouchEnd = (e) => {
+      if (e.touches.length < 2) pinch = null;
+    };
+    const opts = { passive: false };
+    f.addEventListener("wheel", onWheel, opts);
+    f.addEventListener("gesturestart", onGestureStart, opts);
+    f.addEventListener("gesturechange", onGestureChange, opts);
+    f.addEventListener("touchstart", onTouchStart, opts);
+    f.addEventListener("touchmove", onTouchMove, opts);
+    f.addEventListener("touchend", onTouchEnd);
+    f.addEventListener("touchcancel", onTouchEnd);
+    return () => {
+      f.removeEventListener("wheel", onWheel, opts);
+      f.removeEventListener("gesturestart", onGestureStart, opts);
+      f.removeEventListener("gesturechange", onGestureChange, opts);
+      f.removeEventListener("touchstart", onTouchStart, opts);
+      f.removeEventListener("touchmove", onTouchMove, opts);
+      f.removeEventListener("touchend", onTouchEnd);
+      f.removeEventListener("touchcancel", onTouchEnd);
+    };
+  }, [frameRef, enabled, zoomTo]);
+
+  return zoomTo;
+}
+
 export default function ArticleDetail() {
   const { id, selection } = useParams();
   const navigate = useNavigate();
@@ -61,6 +156,8 @@ export default function ArticleDetail() {
   const article = BY_ID.get(id);
   const tab = LEGACY_TAB[selection] || (TABS.some(([t]) => t === selection) ? selection : "clipping");
   const [zoom, setZoom] = React.useState(100);
+  const frameRef = React.useRef(null);
+  const zoomTo = useZoomGestures(frameRef, zoom, setZoom, tab !== "text");
   React.useEffect(() => {
     setZoom(100);
   }, [id, tab]);
@@ -111,17 +208,17 @@ export default function ArticleDetail() {
             </div>
             {tab !== "text" && (
               <div className="zoom">
-                <button type="button" className="btn btn-square" aria-label="Zoom out" onClick={() => setZoom(Math.max(50, zoom - 50))}>
+                <button type="button" className="btn btn-square" aria-label="Zoom out" onClick={() => zoomTo(zoom - 50)}>
                   −
                 </button>
-                <em>{zoom}%</em>
-                <button type="button" className="btn btn-square" aria-label="Zoom in" onClick={() => setZoom(Math.min(400, zoom + 50))}>
+                <em title="Pinch, or hold Ctrl (⌘ on a Mac) and scroll, to zoom">{zoom}%</em>
+                <button type="button" className="btn btn-square" aria-label="Zoom in" onClick={() => zoomTo(zoom + 50)}>
                   +
                 </button>
               </div>
             )}
           </div>
-          <div className="viewer-frame">
+          <div className={`viewer-frame ${tab !== "text" ? "zoomable" : ""}`} ref={frameRef}>
             {tab === "clipping" &&
               (article.crop ? <img className="ink" src={article.crop} alt={`Newspaper clipping: ${article.title}`} style={{ width: `${zoom}%` }} /> : <div className="empty">No clipping available.</div>)}
             {tab === "page" &&
