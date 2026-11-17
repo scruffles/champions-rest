@@ -152,57 +152,37 @@
 
 ## Backlog
 
-### Biography & Facts
-- 219 other facts still carry a free-text `conflict` note; split any that matter into versions with `review/facts-index/fact-disputes.json`
-- Clean up the Record page's single-source entries ("Questionable": garbled or unknown opponents from one article each) and check the auto-made bouts against the old hand-made list
+### Biography
+- Rewrite the Biography from the facts index, section by section: cite the new articles as sources and add what the old text misses (the Indian Mutiny account of his army service, married or widowed, arrests, benefits, the saloon years), showing disputed facts as disputed
 - Burial (Calvary or Bellefontaine) isn't stated in any article text; find the source before citing either
-- Maybe later: a facts page and a quotes page built from the index
 
-### Article Viewer
-- Cite sources in existing biography and fact pages using the new articles as references
+### Facts Index
+- 219 facts still carry a free-text `conflict` note; split any that matter into versions with `review/facts-index/fact-disputes.json`
+- Maybe later: a facts page and a quotes page built from the index (`data/facts.js`, `data/quotes.js`)
 
 ### Record Page
-- Re-calculate Tom Allen's match history (wins/losses/opponents) by cross-referencing all 1,017 articles - current record page may be incomplete or inaccurate
-- Update Record page format with more textual summaries and quotes
-- Check two likely date typos in `data/fights.js`: George Rooke "1978-07-15" and Cleary "1978 ish" (probably 1878); they currently show under "Uncertain dates"
+- Clean up the single-source entries ("Questionable": garbled or unknown opponents from one article each) and check the auto-made bouts against the old hand-made list
+- Add more textual summaries and quotes to each entry (quotes are now in `data/quotes.js`)
 
-### Biography
-- Build a new, more complete biography grounded in primary sources
+### New Pages
+- **Timeline:** Tom Allen's life in order (fights, saloon openings, legal troubles, death), as its own page or a section
+- **People:** a page per notable figure (Jem Mace, Joe Goss, John L. Sullivan, Mike McCoole, etc.) with a mini-bio, their relationship to Allen through linked articles, and external links
+- **Champion's Rest saloon:** a page for the Market Street saloon (legal incidents, patrons, entertainment, closure)
+- **Map:** fight locations, saloons and other places from the articles, each linked to its articles; consider a historic St. Louis map overlay
+- **Media:** photographs and drawings of Tom Allen with captions and links to their articles, or merge the missing ones into the existing media page
 
-### Timeline
-- Visual chronological timeline of Tom Allen's life (fights, bar openings, legal troubles, death) as a standalone page or section
+### Articles & Scans
+- Add newly found articles (review them, then extract and index their facts as described in `.claude/CLAUDE.md`)
+- Download better scans for the pages in `review/MISSING-PAGES.md` where it would help, most of all 974 ("Tom Allen Badly Beaten"), 931 and 769
+- Go through every full-page scan for photographs and drawings of Tom Allen (portraits, sketches), noting the page, article id and caption, for the Media page
 
-### People Network
-- Page per notable figure in Tom Allen's life (Jem Mace, Joe Goss, John L. Sullivan, Mike McCoole, etc.)
-- Each person page shows their relationship to Allen through linked articles, mini-bio, and links to external resources
-
-### Champion's Rest Saloon
-- Dedicated page for his Market Street saloon if the articles provide enough content (legal incidents, patrons, entertainment, closure)
-
-### Interactive Map
-- Map of fight locations, bar locations, and other significant places pulled from the articles
-- Visual links from map locations to the relevant articles
-- Consider historic St. Louis map overlay for the city locations
-
-### Bugs & Testing
-- Test the redesign in Safari and on iPhone (only desktop Chrome has been checked; replaces the old full-screen and iPhone bugs on the retired Articles page)
+### Site & Infrastructure
+- Test the redesign in Safari and on iPhone (only desktop Chrome has been checked), including the new pinch zoom in the article viewer
 - Pages opened directly by URL (e.g. `/articles/579`) return HTTP 404 while still rendering, because S3 serves the app as its error page. Search engines may treat them as missing; fix with a CloudFront rule that rewrites them to 200
-
-### Performance & Maintenance
 - First load is 2.4 MB (about 900 KB compressed), mostly the article database bundled up front. Split it or load it on demand
 - Resolve the 55 Dependabot security alerts on old dependencies
-
-### Housekeeping
-- Finish going over articles for references (stopped at article 221)
-- Go through articles for quotes
-- Continue adding articles under /articles/to-sort
-- Look into viewership metrics
-- Download better scans for the pages in `review/MISSING-PAGES.md` where it would help, most of all 974 ("Tom Allen Badly Beaten"), 931 and 769
 - Delete the S3 objects of removed articles (the deploy user needs `s3:DeleteObject`)
-
-### Media
-- Scan every full-page scan for photographs and drawings of Tom Allen (the portraits, the sketches and any photographs in the articles), noting the page, article id and caption
-- Build a "media" page of those images with captions and links to the articles, or merge any photos that are missing into the existing media page
+- Look into viewership metrics
 
 ## Status
 
