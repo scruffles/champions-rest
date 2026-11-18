@@ -225,3 +225,17 @@ export function useZoomGestures(frameRef, zoom, setZoom, enabled, { min = 50, ma
 
   return zoomTo;
 }
+
+// True while <html> has the class `name`; kept in sync with a MutationObserver.
+export function useHtmlClass(name) {
+  const [on, setOn] = React.useState(() => document.documentElement.classList.contains(name));
+  React.useEffect(() => {
+    const el = document.documentElement;
+    const sync = () => setOn(el.classList.contains(name));
+    const observer = new MutationObserver(sync);
+    observer.observe(el, { attributes: true, attributeFilter: ["class"] });
+    sync();
+    return () => observer.disconnect();
+  }, [name]);
+  return on;
+}

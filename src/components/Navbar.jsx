@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
 import Search from "./Search";
-import { InkFilter } from "./shared";
+import { InkFilter, useHtmlClass } from "./shared";
 import { ARTICLES, todayLabel } from "../lib/articles";
 
 const NAV = [
@@ -43,7 +43,10 @@ function useScrolledPast(ref) {
 
 export default function Navbar() {
   const navRowRef = React.useRef(null);
-  const compact = useScrolledPast(navRowRef);
+  const scrolledPast = useScrolledPast(navRowRef);
+  // The map's full-screen mode hides the page behind a fixed layer, so it keeps the compact bar showing.
+  const fullMap = useHtmlClass("lm-full");
+  const compact = scrolledPast || fullMap;
 
   return (
     <>
