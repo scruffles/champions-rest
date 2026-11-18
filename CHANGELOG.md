@@ -7,6 +7,8 @@
 - `data/places.js`: 40 located places (saloons, venues, fight sites, travels), generated from `review/places/places.json` by `scripts/lifemap/places.cjs`
 - Map build (`npm run build-map`, `scripts/lifemap/`): today's streets fetched from OpenStreetMap, turned into 1875 by hand edits (`mapdata/stl-1875-edits.json`) checked against the 1875 Wm. C. Wilson & Bro. map; the scan is only a tracing reference and isn't published
 - `npm test`: unit tests for the map scripts and helpers (Node's built-in test runner)
+- Map: America view (`/map/america`): every town the papers put him in, drawn from Natural Earth outlines, with arcs from St. Louis (solid to fights, dashed to other trips), a St. Louis marker that lists the nearby places, and an Across the Atlantic box for Birmingham and London; timeline periods open whichever view holds their place
+- Map: full-screen mode that fits the navbar, map, place card and timeline in a laptop window without scrolling; remembered per browser, Esc to exit, off on small screens
 
 ### Changed
 - The article viewer's zoom gestures moved to `shared.jsx` so the map can use them too
@@ -179,7 +181,7 @@
 - **Timeline:** Tom Allen's life in order (fights, saloon openings, legal troubles, death), as its own page or a section
 - **People:** a page per notable figure (Jem Mace, Joe Goss, John L. Sullivan, Mike McCoole, etc.) with a mini-bio, their relationship to Allen through linked articles, and external links
 - **Champion's Rest saloon:** a page for the Market Street saloon (legal incidents, patrons, entertainment, closure)
-- **Map:** downtown St. Louis is done (`/map`). Still to do: the citywide zoom level (Sportsman's Park, the cemeteries, the river islands, traced from the Studley 1870 map); the America view (`/map/america`, arcs to every city he fought or travelled to); period railroads on the America view; tidy overlapping street and pin labels; shorter timeline labels for the narrow periods (Cleveland is cut off); keep the view centred when the window resizes; keyboard panning on the map frame; Home/End keys and a spoken value for the swipe handle; link fights on place cards to their Record entry
+- **Map:** downtown St. Louis (`/map`), the America view (`/map/america`) and full-screen mode are done. Still to do: the citywide zoom level (Sportsman's Park, the cemeteries, the river islands, traced from the Studley 1870 map); period railroads on the America view; tidy overlapping street and pin labels; shorter timeline labels for the narrow periods (Cleveland is cut off); keep the view centred when the window resizes; keyboard panning on the map frame; Home/End keys and a spoken value for the swipe handle; link fights on place cards to their Record entry
 - **Media:** photographs and drawings of Tom Allen with captions and links to their articles, or merge the missing ones into the existing media page
 
 ### Articles & Scans
