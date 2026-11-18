@@ -1,0 +1,383 @@
+// Life map (/map). Variables come from index.less.
+@today-ink: #3b4a55;
+@today-blue: #1f5f8b;
+
+.lifemap {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.lm-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 380px;
+  gap: 28px;
+  align-items: start;
+  @media (max-width: 900px) {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+.lm-map {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 0;
+}
+
+.lm-toolbar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+  border: 1px solid @ink;
+  background: @panel;
+  padding: 6px 8px 6px 10px;
+}
+
+.lm-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  font-family: @display;
+  font-weight: 700;
+  font-size: 15px;
+  .lm-knob {
+    position: relative;
+    width: 52px;
+    height: 30px;
+    border-radius: 15px;
+    border: 2px solid @ink;
+    background: @paper;
+    flex-shrink: 0;
+    &::after {
+      content: "";
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: @ink;
+      transition: left 0.15s;
+    }
+  }
+  &[aria-checked="true"] .lm-knob {
+    background: @red;
+    &::after {
+      left: 25px;
+      background: @paper;
+    }
+  }
+  &:focus-visible {
+    outline: 2px solid @red;
+    outline-offset: 3px;
+  }
+}
+
+.lm-hint {
+  font-size: 13px;
+  font-style: italic;
+  color: @muted;
+}
+
+.lm-stage {
+  position: relative;
+  border: 1px solid @ink;
+  height: min(72vh, 760px);
+  overflow: hidden;
+  @media (max-width: 900px) {
+    height: 62vh;
+  }
+}
+
+.lm-frame {
+  position: absolute;
+  inset: 0;
+  overflow: auto;
+  scrollbar-width: none;
+  cursor: grab;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+  &.is-dragging {
+    cursor: grabbing;
+  }
+}
+
+.lm-content {
+  position: relative;
+}
+.lm-svg {
+  display: block;
+}
+
+// 1875: ink on cream. Roads are drawn as a dark casing under a paper-coloured fill, so blocks stand out.
+.lm-then {
+  .lm-land {
+    fill: #e6dcc6;
+  }
+  .lm-water {
+    fill: #cfc6ae;
+    stroke: @ink-warm;
+    stroke-width: 1.5;
+  }
+  .lm-levee {
+    fill: #efe7d4;
+    stroke: @ink-warm;
+    stroke-width: 1;
+  }
+  .lm-casing {
+    fill: none;
+    stroke: @ink-warm;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  .lm-road {
+    fill: none;
+    stroke: @paper;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  .lm-minor-casing,
+  .lm-pedestrian-casing {
+    stroke-width: 12;
+  }
+  .lm-minor,
+  .lm-pedestrian {
+    stroke-width: 8.5;
+  }
+  .lm-major-casing,
+  .lm-bridge-casing {
+    stroke-width: 16;
+  }
+  .lm-major,
+  .lm-bridge {
+    stroke-width: 12;
+  }
+  .lm-label {
+    font-family: @body;
+    letter-spacing: 0.12em;
+    fill: @ink;
+    text-anchor: middle;
+    dominant-baseline: central;
+  }
+  .lm-label-major {
+    font-weight: 700;
+  }
+}
+
+// Today: a cool, plain modern style.
+.lm-today {
+  .lm-land {
+    fill: #eef0f0;
+  }
+  .lm-water {
+    fill: #a9cbe0;
+  }
+  .lm-park {
+    fill: #cfe3c4;
+  }
+  .lm-rail {
+    fill: none;
+    stroke: #8d969c;
+    stroke-width: 3;
+    stroke-dasharray: 8 6;
+  }
+  .lm-casing {
+    fill: none;
+    stroke: #c5cbd0;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  .lm-road {
+    fill: none;
+    stroke: #fff;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  .lm-pedestrian-casing {
+    stroke-width: 0;
+  }
+  .lm-pedestrian {
+    stroke: #d8dcdf;
+    stroke-width: 5;
+  }
+  .lm-minor-casing {
+    stroke-width: 11;
+  }
+  .lm-minor {
+    stroke-width: 8;
+  }
+  .lm-major-casing,
+  .lm-bridge-casing {
+    stroke-width: 15;
+  }
+  .lm-major,
+  .lm-bridge {
+    stroke-width: 11;
+  }
+  .lm-motorway-casing {
+    stroke: #c99a6a;
+    stroke-width: 19;
+  }
+  .lm-motorway {
+    stroke: #f2cf9f;
+    stroke-width: 15;
+  }
+  .lm-label {
+    font-family: Inter, system-ui, sans-serif;
+    fill: @today-ink;
+    text-anchor: middle;
+    dominant-baseline: central;
+  }
+}
+
+.lm-pin {
+  position: absolute;
+  width: 0;
+  height: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  &::before {
+    content: "";
+    position: absolute;
+    left: -22px;
+    top: -22px;
+    width: 44px;
+    height: 44px;
+  } // 44px touch target
+  .lm-pin-dot {
+    position: absolute;
+    left: -8px;
+    top: -8px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: @red;
+    border: 2px solid @ink;
+  }
+  &.lm-pin-area .lm-pin-dot {
+    background: rgba(241, 236, 225, 0.85);
+    border: 2px dashed @ink-warm;
+  }
+  .lm-pin-label {
+    position: absolute;
+    left: 14px;
+    top: -17px;
+    display: none;
+    white-space: nowrap;
+    padding: 3px 7px;
+    background: @paper;
+    border: 1px solid @rule-light;
+    font-size: 13px;
+    line-height: 1.25;
+    text-align: left;
+    small {
+      display: block;
+      font-size: 12px;
+      color: @muted;
+    }
+  }
+  &:hover .lm-pin-label,
+  &:focus-visible .lm-pin-label,
+  &.show-label .lm-pin-label,
+  &.is-selected .lm-pin-label {
+    display: block;
+  }
+  &.is-selected {
+    z-index: 2;
+    .lm-pin-dot {
+      left: -12px;
+      top: -12px;
+      width: 24px;
+      height: 24px;
+      border-width: 3px;
+      box-shadow: 0 0 0 4px rgba(158, 27, 22, 0.3);
+    }
+    .lm-pin-label {
+      left: 18px;
+      background: @ink;
+      color: @paper;
+      border-color: @ink;
+      small {
+        color: #e6dccb;
+      }
+    }
+  }
+  &.is-faded:not(.is-selected) {
+    opacity: 0.35;
+  }
+  &:focus-visible {
+    outline: none;
+    .lm-pin-dot {
+      outline: 2px solid @red;
+      outline-offset: 3px;
+    }
+  }
+}
+
+.lm-swipe-line {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  margin-left: -1.5px;
+  background: @ink;
+  pointer-events: none;
+}
+
+.lm-swipe-handle {
+  position: absolute;
+  top: 50%;
+  width: 44px;
+  height: 44px;
+  margin: -22px 0 0 -22px;
+  border-radius: 50%;
+  background: @ink;
+  color: @paper;
+  border: 2px solid @paper;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: ew-resize;
+  touch-action: none;
+  &:focus-visible {
+    outline: 2px solid @red;
+    outline-offset: 2px;
+  }
+}
+
+.lm-tag {
+  position: absolute;
+  bottom: 12px;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 2px 8px;
+  pointer-events: none;
+  &.lm-tag-then {
+    margin-right: 8px;
+    background: @ink;
+    color: @paper;
+  }
+  &.lm-tag-today {
+    margin-left: 8px;
+    background: @today-blue;
+    color: #fff;
+    font-family: Inter, system-ui, sans-serif;
+  }
+}
+
+.lm-credit {
+  margin: 0;
+  font-size: 12px;
+  font-style: italic;
+  color: @muted;
+}
