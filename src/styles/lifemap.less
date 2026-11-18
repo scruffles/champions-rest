@@ -5,7 +5,7 @@
 .lifemap {
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 16px;
 }
 
 .lm-body {
@@ -863,5 +863,26 @@ html.lm-full {
         left: 20px;
       }
     }
+  }
+}
+
+// The map page's heading: one left-aligned line (title, then the description), so the map sits higher.
+.lifemap .page-head {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: flex-start;
+  gap: 4px 16px;
+  margin-bottom: 0;
+  text-align: left;
+  .kicker {
+    display: none;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  .deck {
+    font-size: 15px;
+    color: @muted;
   }
 }
