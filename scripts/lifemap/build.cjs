@@ -1,0 +1,64 @@
+// Builds the drawn map layers: mapdata/*.geojson -> src/components/lifemap/geo/*.json
+//   npm run build-map
+const fs = require("fs");
+const path = require("path");
+const { simplify, toPath, polylineLength, labelAt, placeLabels } = require("./geo.cjs");
+const { applyEdits } = require("./edits.cjs");
+
+const ROOT = path.join(__dirname, "../..");
+const KINDS = ["water", "park", "levee", "rail", "pedestrian", "minor", "major", "motorway", "bridge"];
+const AREAS = new Set(["water", "park", "levee"]);
+const LABELLED = { major: 0, motorway: 1, minor: 2 };
+const TOL = 0.8; // map units (~1.3 m downtown)
+const MIN_LABEL_LEN = 120;
+
+function labelText(name, era) {
+  if (era !== "1875") return name;
+  return name
+    .replace(/\bStreet\b/i, "St.")
+    .replace(/\bAvenue\b/i, "Av.")
+    .replace(/\bBoulevard\b/i, "Blvd.")
+    .toUpperCase();
+}
+
+function buildLayer(fc, frame, project, { era }) {
+  const parts = Object.fromEntries(KINDS.map((k) => [k, []]));
+  const cands = [];
+  for (const f of fc.features) {
+    const { kind, name } = f.properties;
+    if (!(kind in parts)) continue;
+    const rings = f.geometry.type === "Polygon" ? f.geometry.coordinates : [f.geometry.coordinates];
+    for (const ring of rings) {
+      const pts = simplify(ring.map(([lon, lat]) => project(frame, lon, lat)), TOL);
+      if (pts.length < 2) continue;
+      parts[kind].push(toPath(pts, AREAS.has(kind)));
+      const len = polylineLength(pts);
+      if (name && kind in LABELLED && len >= MIN_LABEL_LEN) {
+        cands.push({ text: labelText(name, era), ...labelAt(pts), len, rank: LABELLED[kind], cls: kind === "minor" ? "minor" : "major" });
+      }
+    }
+  }
+  const r1 = (n) => Math.round(n * 10) / 10;
+  const labels = placeLabels(cands, { minSpacing: 600 }).map(({ text, x, y, angle, cls }) => ({ text, x: r1(x), y: r1(y), angle, cls }));
+  return { frame: frame.id, width: frame.width, height: frame.height, paths: Object.fromEntries(KINDS.map((k) => [k, parts[k].join("")])), labels };
+}
+
+async function main() {
+  const { FRAMES, project } = await import(path.join(ROOT, "src/components/lifemap/projection.mjs"));
+  const modern = JSON.parse(fs.readFileSync(path.join(ROOT, "mapdata/stl-modern.geojson"), "utf8"));
+  const edits = JSON.parse(fs.readFileSync(path.join(ROOT, "mapdata/stl-1875-edits.json"), "utf8"));
+  const out = path.join(ROOT, "src/components/lifemap/geo");
+  fs.mkdirSync(out, { recursive: true });
+  const layers = {
+    "stl-downtown-today": buildLayer(modern, FRAMES.downtown, project, { era: "today" }),
+    "stl-downtown-1875": buildLayer(applyEdits(modern, edits), FRAMES.downtown, project, { era: "1875" }),
+  };
+  for (const [name, layer] of Object.entries(layers)) {
+    const file = path.join(out, `${name}.json`);
+    fs.writeFileSync(file, JSON.stringify(layer));
+    console.log(`${path.relative(ROOT, file)}: ${(fs.statSync(file).size / 1024).toFixed(0)} KB, ${layer.labels.length} labels`);
+  }
+}
+
+if (require.main === module) main();
+module.exports = { buildLayer, labelText };
