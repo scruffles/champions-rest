@@ -1,13 +1,13 @@
 import React from "react";
 import { FRAMES, project } from "./projection.mjs";
 import { placeYears } from "./timeline.mjs";
-import { arcPath, isFightPlace, visibleLabels } from "./views.mjs";
+import { arcPath, fitView, isFightPlace, visibleLabels } from "./views.mjs";
 import layer from "./geo/america.json";
 
 const FRAME = FRAMES.america;
 const W = FRAME.width;
 const H = FRAME.height;
-const LABEL_GAP = 120; // map units between city labels (the rest show on hover or focus)
+const LABEL_GAP_PX = 105; // screen px between city labels (the rest show on hover, focus or tap)
 // Map labels stop at the first bracket, comma or semicolon; the card and aria-label carry the full name.
 const shortName = (name) => name.split(/\s*[(,;]/)[0];
 
@@ -22,15 +22,29 @@ export default function AmericaMap({ places, home, selectedId, onSelect, isActiv
       return { ...p, x, y };
     });
   }, [places, home]);
-  const labelled = React.useMemo(() => visibleLabels(pins, LABEL_GAP, markerId), [pins, markerId]);
   const atlantic = places.filter((p) => p.level === "atlantic");
+
+  // Fill the map box: the view grows past the core frame in whichever direction the box has room.
+  const boxRef = React.useRef(null);
+  const [box, setBox] = React.useState({ w: 0, h: 0 });
+  React.useLayoutEffect(() => {
+    const el = boxRef.current;
+    const measure = () => setBox({ w: el.clientWidth, h: el.clientHeight });
+    measure();
+    const ro = new ResizeObserver(measure);
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, []);
+  const vb = fitView(W, H, box.w, box.h);
+  const labelGap = box.w ? (LABEL_GAP_PX * vb.w) / box.w : LABEL_GAP_PX;
+  const labelled = React.useMemo(() => visibleLabels(pins, labelGap, markerId), [pins, labelGap, markerId]);
 
   return (
     <div className="lm-map">
       <div className="lm-stage lm-us-stage">
-        <div className="lm-us-box" style={{ "--ar": W / H }}>
-          <svg className="lm-us-svg" viewBox={`0 0 ${W} ${H}`} aria-hidden="true">
-            <rect className="lm-us-sea" width={W} height={H} />
+        <div className="lm-us-box" ref={boxRef}>
+          <svg className="lm-us-svg" viewBox={`${vb.x} ${vb.y} ${vb.w} ${vb.h}`} aria-hidden="true">
+            <rect className="lm-us-sea" x={vb.x} y={vb.y} width={vb.w} height={vb.h} />
             <path className="lm-us-land" d={layer.paths.land} />
             <path className="lm-us-lake" d={layer.paths.lake} />
             <path className="lm-us-river" d={layer.paths.river} />
@@ -61,7 +75,7 @@ export default function AmericaMap({ places, home, selectedId, onSelect, isActiv
                 key={p.id}
                 type="button"
                 className={cls}
-                style={{ left: `${(p.x / W) * 100}%`, top: `${(p.y / H) * 100}%` }}
+                style={{ left: `${((p.x - vb.x) / vb.w) * 100}%`, top: `${((p.y - vb.y) / vb.h) * 100}%` }}
                 aria-label={`${p.name}${years ? `, ${years}` : ""}`}
                 aria-pressed={p.id === markerId}
                 onClick={() => onSelect(p.id)}

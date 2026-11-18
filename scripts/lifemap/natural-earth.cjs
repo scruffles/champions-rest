@@ -13,7 +13,8 @@ const FILES = {
   state: "ne_50m_admin_1_states_provinces_lines",
   border: "ne_50m_admin_0_boundary_lines_land",
 };
-const BBOX = { w: -100, e: -64, s: 26.5, n: 48 };
+// Well beyond the America frame: the page widens or heightens the view to fill its box.
+const BBOX = { w: -114, e: -50, s: 18, n: 54 };
 
 const inside = ([x, y], b) => x >= b.w && x <= b.e && y >= b.s && y <= b.n;
 

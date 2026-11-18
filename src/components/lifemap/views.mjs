@@ -59,3 +59,12 @@ export function visibleLabels(pins, minDist, always) {
   for (const p of order) if (!shown.some((s) => Math.hypot(s.x - p.x, s.y - p.y) < minDist)) shown.push(p);
   return new Set(shown.map((p) => p.id));
 }
+
+// The part of the map to show in a box of boxW×boxH: the whole core frame (w×h), widened or heightened,
+// centred, to fill the box exactly, so there are no empty bands (the outlines extend past the frame).
+export function fitView(w, h, boxW, boxH) {
+  if (!boxW || !boxH) return { x: 0, y: 0, w, h };
+  const ar = boxW / boxH;
+  if (ar >= w / h) return { x: (w - h * ar) / 2, y: 0, w: h * ar, h };
+  return { x: 0, y: (h - w / ar) / 2, w, h: w / ar };
+}

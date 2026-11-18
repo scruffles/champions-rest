@@ -4,8 +4,8 @@ const { clampRing, clipLine, collect, BBOX } = require("./natural-earth.cjs");
 
 const b = { w: -100, e: -64, s: 26.5, n: 48 };
 
-test("BBOX is the America frame plus a margin", () => {
-  assert.deepEqual(BBOX, b);
+test("BBOX reaches well beyond the America frame", () => {
+  assert.ok(BBOX.w <= -110 && BBOX.e >= -52 && BBOX.s <= 20 && BBOX.n >= 52);
 });
 
 test("clampRing pulls far points onto the box edge and drops repeats", () => {

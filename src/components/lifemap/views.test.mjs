@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { HOME, distanceKm, viewOfPlace, nearHome, homePlace, isFightPlace, arcPath, visibleLabels } from "./views.mjs";
+import { HOME, distanceKm, viewOfPlace, nearHome, homePlace, isFightPlace, arcPath, visibleLabels, fitView } from "./views.mjs";
 
 const P = (id, level, lat, lon, extra = {}) => ({ id, level, lat, lon, kind: "travel", fights: [], ...extra });
 const places = [
@@ -53,4 +53,10 @@ test("visibleLabels keeps labels apart and always shows the chosen one", () => {
   const pins = [{ id: "a", x: 0, y: 0 }, { id: "b", x: 10, y: 0 }, { id: "c", x: 100, y: 0 }];
   assert.deepEqual([...visibleLabels(pins, 30)].sort(), ["a", "c"]);
   assert.deepEqual([...visibleLabels(pins, 30, "b")].sort(), ["b", "c"]);
+});
+
+test("fitView widens or heightens the core frame to fill the box, centred", () => {
+  assert.deepEqual(fitView(1600, 1000, 2000, 1000), { x: -200, y: 0, w: 2000, h: 1000 });
+  assert.deepEqual(fitView(1600, 1000, 800, 800), { x: 0, y: -300, w: 1600, h: 1600 });
+  assert.deepEqual(fitView(1600, 1000, 0, 0), { x: 0, y: 0, w: 1600, h: 1000 });
 });

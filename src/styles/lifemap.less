@@ -604,18 +604,14 @@ html.lm-full {
 }
 
 // America: fitted to the stage at the map's own proportions (container units keep pins and SVG in step).
+// America: the map fills the stage; AmericaMap widens or heightens the view to the stage's shape.
 .lm-us-stage {
-  container-type: size;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   background: #d9d1bd;
 }
 
 .lm-us-box {
-  position: relative;
-  width: ~"min(100cqw, 100cqh * var(--ar))";
-  aspect-ratio: var(--ar);
+  position: absolute;
+  inset: 0;
 }
 
 .lm-us-svg {
@@ -769,12 +765,12 @@ html.lm-full {
 // Phone: the map takes its natural height and the Atlantic box sits under it.
 @media (max-width: 700px) {
   .lm-us-stage {
-    container-type: inline-size;
-    display: block;
     height: auto;
   }
   .lm-us-box {
-    width: 100%;
+    position: relative;
+    inset: auto;
+    aspect-ratio: 1600 / 1109; // the core frame, so phones see the whole eastern US
   }
   .lm-atlantic {
     position: static;
