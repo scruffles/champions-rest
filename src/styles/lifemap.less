@@ -325,6 +325,7 @@
 }
 
 .lm-swipe-line {
+  z-index: 3;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -335,6 +336,7 @@
 }
 
 .lm-swipe-handle {
+  z-index: 3; // above the pins (the selected pin starts centred under the handle)
   position: absolute;
   top: 50%;
   width: 44px;
@@ -356,6 +358,7 @@
 }
 
 .lm-tag {
+  z-index: 3;
   position: absolute;
   bottom: 12px;
   font-size: 12px;
