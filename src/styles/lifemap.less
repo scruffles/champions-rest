@@ -830,3 +830,42 @@ html.lm-full {
     }
   }
 }
+
+// A more compact view bar with a mouse or trackpad; touch screens keep 44px targets.
+@media (pointer: fine) {
+  .lm-viewbar {
+    .lm-tabs a {
+      min-height: 34px;
+      padding: 0 14px;
+      font-size: 12px;
+    }
+    .lm-zoom button {
+      width: 34px;
+      height: 34px;
+      font-size: 18px;
+    }
+    .btn {
+      height: 36px;
+      padding: 0 16px;
+      font-size: 12px;
+    }
+    .lm-switch {
+      min-height: 34px;
+      font-size: 14px;
+      .lm-knob {
+        width: 42px;
+        height: 24px;
+        border-radius: 12px;
+        &::after {
+          top: 2px;
+          left: 2px;
+          width: 16px;
+          height: 16px;
+        }
+      }
+      &[aria-checked="true"] .lm-knob::after {
+        left: 20px;
+      }
+    }
+  }
+}
