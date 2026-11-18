@@ -1,0 +1,19 @@
+{
+  "about": "Differences between today's downtown (mapdata/stl-modern.geojson) and the 1875 Wm. C. Wilson & Bro. map. Every rename and addition is checked against the scan with scripts/lifemap/check-overlay.cjs. Coordinates [lon, lat].",
+  "rename": {
+    "North Broadway": "Fifth St.",
+    "South Broadway": "Fifth St.",
+    "North Tucker Boulevard": "Twelfth St.",
+    "South Tucker Boulevard": "Twelfth St."
+  },
+  "removeKinds": ["motorway", "park", "pedestrian", "rail"],
+  "removeNames": ["Memorial Drive", "Lumiere Place Boulevard", "Convention Plaza", "Cole Street", "Clark Avenue",
+    "Ozark Expressway", "Jack Buck Memorial Highway", "Third Street Expressway", "Andy Gammon Memorial Highway",
+    "Congressman William L. Clay Sr. Bridge", "Doctor Martin Luther King Bridge", "Stan Musial Veterans Memorial Bridge",
+    "MacArthur Bridge", "MacArthur Bridge Subdivision", "MacArthur Subdivision", "Merchants Subdivision",
+    "Lesperance Industrial Lead", "MetroLink", "Eads Subdivision", "Tucker Boulevard Cycle Track"],
+  "removeIds": [],
+  "keepBridges": ["Eads Bridge"],
+  "add": [],
+  "water": null
+}
