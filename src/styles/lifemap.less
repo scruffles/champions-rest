@@ -548,7 +548,7 @@ html.lm-full {
 .lifemap.is-full {
   position: fixed;
   z-index: 30;
-  top: 59px;
+  top: var(--lm-bar-h, 59px);
   left: 0;
   right: 0;
   bottom: 0;
@@ -785,4 +785,19 @@ html.lm-full {
 .lm-card-group .btn-link {
   font-size: 14px;
   text-align: left;
+}
+
+// The St. Louis map's compare switch and zoom buttons, portalled into the view bar beside the tabs.
+.lm-tools {
+  flex: 1 1 auto;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+}
+
+.lm-viewbar .btn[aria-pressed="true"] {
+  background: @ink;
+  color: @paper;
 }

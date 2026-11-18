@@ -1,4 +1,5 @@
 import React from "react";
+import { createPortal } from "react-dom";
 import { useZoomGestures } from "../shared";
 import { FRAMES, project } from "./projection.mjs";
 import { placeYears } from "./timeline.mjs";
@@ -26,7 +27,8 @@ function Pin({ pin, k, selected, faded, onSelect }) {
   );
 }
 
-export default function StLouisMap({ places, selectedId, centreRequest = 0, onSelect, isActive }) {
+// toolsEl: the page's view-bar slot; the compare switch and zoom buttons render there, beside the tabs.
+export default function StLouisMap({ places, selectedId, centreRequest = 0, onSelect, isActive, toolsEl }) {
   const frameRef = React.useRef(null);
   const stageRef = React.useRef(null);
   const [zoom, setZoom] = React.useState(START_ZOOM);
@@ -116,23 +118,32 @@ export default function StLouisMap({ places, selectedId, centreRequest = 0, onSe
 
   return (
     <div className="lm-map">
-      <div className="lm-toolbar">
-        <button type="button" role="switch" aria-checked={compare} className="lm-switch" onClick={() => {
-            setView((v) => ({ ...v, sl: frameRef.current.scrollLeft }));
-            setCompare((c) => !c);
-          }}>
-          <span className="lm-knob" aria-hidden="true" />
-          <span className="lm-switch-label">Compare with today</span>
-        </button>
-        {compare && <span className="lm-hint">Drag the handle: 1875 on the left, today on the right</span>}
-        <span className="grow" />
-        <button type="button" className="btn btn-square" aria-label="Zoom out" onClick={() => zoomTo(zoom / 1.4)} disabled={zoom <= MIN_ZOOM}>
-          −
-        </button>
-        <button type="button" className="btn btn-square" aria-label="Zoom in" onClick={() => zoomTo(zoom * 1.4)} disabled={zoom >= MAX_ZOOM}>
-          +
-        </button>
-      </div>
+      {toolsEl &&
+        createPortal(
+          <>
+            <button
+              type="button"
+              role="switch"
+              aria-checked={compare}
+              className="lm-switch"
+              onClick={() => {
+                setView((v) => ({ ...v, sl: frameRef.current.scrollLeft }));
+                setCompare((c) => !c);
+              }}
+            >
+              <span className="lm-knob" aria-hidden="true" />
+              <span className="lm-switch-label">Compare with today</span>
+            </button>
+            <span className="grow" />
+            <button type="button" className="btn btn-square" aria-label="Zoom out" onClick={() => zoomTo(zoom / 1.4)} disabled={zoom <= MIN_ZOOM}>
+              −
+            </button>
+            <button type="button" className="btn btn-square" aria-label="Zoom in" onClick={() => zoomTo(zoom * 1.4)} disabled={zoom >= MAX_ZOOM}>
+              +
+            </button>
+          </>,
+          toolsEl,
+        )}
       <div className="lm-stage" ref={stageRef}>
         <div
           className="lm-frame"
@@ -198,6 +209,7 @@ export default function StLouisMap({ places, selectedId, centreRequest = 0, onSe
         )}
       </div>
       <p className="lm-credit">
+        {compare && "Drag the handle: 1875 on the left, today on the right. "}
         1875 streets traced from Wm. C. Wilson &amp; Bro.&rsquo;s map of St. Louis (State Historical Society of Missouri).
         {compare && " Today: data © OpenStreetMap contributors."}
       </p>

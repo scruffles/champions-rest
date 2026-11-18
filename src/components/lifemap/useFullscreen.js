@@ -42,6 +42,14 @@ export function useFullscreen() {
     const html = document.documentElement;
     html.classList.add("lm-full");
     window.scrollTo(0, 0);
+    // The compact navbar can wrap onto two lines on narrower screens: keep the map just below it.
+    const bar = document.querySelector(".compact-bar");
+    const measure = () => html.style.setProperty("--lm-bar-h", `${bar.offsetHeight}px`);
+    const ro = bar ? new ResizeObserver(measure) : null;
+    if (bar) {
+      measure();
+      ro.observe(bar);
+    }
     const onKey = (e) => {
       if (e.key !== "Escape" || e.target.closest?.("input, textarea, select, [contenteditable]")) return;
       set(false);
@@ -49,6 +57,8 @@ export function useFullscreen() {
     window.addEventListener("keydown", onKey);
     return () => {
       html.classList.remove("lm-full");
+      html.style.removeProperty("--lm-bar-h");
+      ro?.disconnect();
       window.removeEventListener("keydown", onKey);
     };
   }, [active, set]);

@@ -79,7 +79,7 @@ export default function AmericaMap({ places, home, selectedId, onSelect, isActiv
           <div className="lm-atlantic">
             <div className="lm-atlantic-head">Across the Atlantic</div>
             {atlantic.map((p) => (
-              <button key={p.id} type="button" aria-label={p.name} aria-pressed={p.id === selectedId} onClick={() => onSelect(p.id)}>
+              <button key={p.id} type="button" aria-label={`${p.name}, ${placeYears(p)}`} aria-pressed={p.id === selectedId} onClick={() => onSelect(p.id)}>
                 {shortName(p.name)}
                 <small>{placeYears(p)}</small>
               </button>

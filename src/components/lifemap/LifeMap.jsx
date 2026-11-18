@@ -36,12 +36,15 @@ export default function LifeMap() {
   const [centreRequest, setCentreRequest] = React.useState(0);
   const era = LIFE_ERAS.find((e) => e.id === eraId) || null;
   const full = useFullscreen();
+  const [toolsEl, setToolsEl] = React.useState(null);
 
   const go = React.useCallback(
     (id, toView) => navigate(`${PATH[toView]}?place=${encodeURIComponent(id)}`, { replace: toView === view }),
     [navigate, view],
   );
   const select = React.useCallback((id) => go(id, view), [go, view]);
+  // From the card a place may belong to the other map (the St. Louis marker's nearby places).
+  const selectAnywhere = React.useCallback((id) => go(id, viewOfPlace(BY_ID.get(id))), [go]);
   const onEra = (id) => {
     setEraId(id);
     const e = LIFE_ERAS.find((x) => x.id === id);
@@ -64,26 +67,26 @@ export default function LifeMap() {
       <div className="lm-viewbar">
         <nav className="lm-tabs" aria-label="Map view">
           {TABS.map(([v, label]) => (
-            <Link key={v} to={onViewOf(v, place) ? `${PATH[v]}?place=${selectedId}` : PATH[v]} aria-current={view === v ? "page" : undefined}>
+            <Link key={v} to={onViewOf(v, place) ? `${PATH[v]}?place=${encodeURIComponent(selectedId)}` : PATH[v]} aria-current={view === v ? "page" : undefined}>
               {label}
             </Link>
           ))}
         </nav>
-        <span className="grow" />
+        <div className="lm-tools" ref={setToolsEl} />
         {full.fits && (
           <button type="button" className="btn" aria-pressed={full.active} onClick={() => full.set(!full.active)}>
-            {full.active ? "Exit full screen" : "Full screen"}
+            Full screen
           </button>
         )}
       </div>
       <div className="lm-body">
         {view === "stl" ? (
-          <StLouisMap places={places} selectedId={selectedId} centreRequest={centreRequest} onSelect={select} isActive={isActive} />
+          <StLouisMap places={places} selectedId={selectedId} centreRequest={centreRequest} onSelect={select} isActive={isActive} toolsEl={toolsEl} />
         ) : (
           <AmericaMap places={places} home={HOME_PLACE} selectedId={selectedId} onSelect={select} isActive={isActive} />
         )}
         <aside>
-          <PlaceCard place={place} onMap={onViewOf(view, place)} lookup={BY_ID} onSelect={select} />
+          <PlaceCard place={place} onMap={onViewOf(view, place)} lookup={BY_ID} onSelect={selectAnywhere} />
         </aside>
       </div>
       <LifeTimeline eraId={eraId} onEra={onEra} fights={fights} />
