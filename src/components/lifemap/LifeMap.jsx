@@ -6,6 +6,7 @@ import StLouisMap from "./StLouisMap";
 import PlaceCard from "./PlaceCard";
 import LifeTimeline from "./LifeTimeline";
 import { LIFE_ERAS, activeInEra } from "./timeline.mjs";
+import { useFullscreen } from "./useFullscreen";
 
 const BY_ID = new Map(places.map((p) => [p.id, p]));
 const DEFAULT_PLACE = "stl-417-washington";
@@ -29,13 +30,22 @@ export default function LifeMap() {
   };
   const isActive = React.useCallback((p) => activeInEra(p, era), [era]);
   const place = BY_ID.get(selectedId);
+  const full = useFullscreen();
 
   return (
-    <div className="lifemap">
+    <div className={`lifemap${full.active ? " is-full" : ""}`}>
       <div className="page-head">
         <div className="kicker">The map</div>
         <h1>Tom Allen&rsquo;s St. Louis</h1>
         <div className="deck">Where he kept saloon, sang and fought, drawn over the city as it was in 1875.</div>
+      </div>
+      <div className="lm-viewbar">
+        <span className="grow" />
+        {full.fits && (
+          <button type="button" className="btn" aria-pressed={full.active} onClick={() => full.set(!full.active)}>
+            {full.active ? "Exit full screen" : "Full screen"}
+          </button>
+        )}
       </div>
       <div className="lm-body">
         <StLouisMap places={places} selectedId={selectedId} centreRequest={centreRequest} onSelect={select} isActive={isActive} />
