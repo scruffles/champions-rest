@@ -133,3 +133,95 @@ export function MiniTimeline({ year }) {
 }
 
 export { ERA_COUNTS };
+
+// Pinch (trackpad or touch) and Ctrl/⌘ + scroll-wheel zoom on the image frame, keeping the point under the
+// pointer in place. Plain scrolling still scrolls. Returns zoomTo(z, clientX?, clientY?) for the +/- buttons.
+export function useZoomGestures(frameRef, zoom, setZoom, enabled, { min = 50, max = 400 } = {}) {
+  const zoomRef = React.useRef(zoom);
+  zoomRef.current = zoom;
+  const anchor = React.useRef(null);
+
+  const zoomTo = React.useCallback(
+    (z, cx, cy) => {
+      const old = zoomRef.current;
+      const next = Math.round(Math.min(max, Math.max(min, z)));
+      if (next === old) return;
+      const f = frameRef.current;
+      if (f) {
+        const r = f.getBoundingClientRect();
+        const x = cx == null ? f.clientWidth / 2 : cx - r.left;
+        const y = cy == null ? f.clientHeight / 2 : cy - r.top;
+        anchor.current = { x, y, sx: f.scrollLeft, sy: f.scrollTop, k: next / old };
+      }
+      zoomRef.current = next;
+      setZoom(next);
+    },
+    [frameRef, setZoom, min, max],
+  );
+
+  // After the image has been resized, scroll so the anchored point is back under the pointer.
+  React.useLayoutEffect(() => {
+    const a = anchor.current;
+    const f = frameRef.current;
+    anchor.current = null;
+    if (!a || !f) return;
+    f.scrollLeft = (a.sx + a.x) * a.k - a.x;
+    f.scrollTop = (a.sy + a.y) * a.k - a.y;
+  }, [zoom, frameRef]);
+
+  React.useEffect(() => {
+    const f = frameRef.current;
+    if (!f || !enabled) return undefined;
+    // Trackpad pinch arrives as a wheel event with ctrlKey set (Chrome, Firefox, Edge).
+    const onWheel = (e) => {
+      if (!e.ctrlKey && !e.metaKey) return;
+      e.preventDefault();
+      const dy = Math.max(-25, Math.min(25, e.deltaY * (e.deltaMode === 1 ? 16 : 1)));
+      zoomTo(zoomRef.current * Math.exp(-dy * 0.01), e.clientX, e.clientY);
+    };
+    // Safari reports trackpad pinch as gesture events.
+    let gestureBase = null;
+    const onGestureStart = (e) => {
+      e.preventDefault();
+      gestureBase = zoomRef.current;
+    };
+    const onGestureChange = (e) => {
+      e.preventDefault();
+      if (gestureBase != null) zoomTo(gestureBase * e.scale, e.clientX, e.clientY);
+    };
+    // Two-finger pinch on touch screens.
+    let pinch = null;
+    const spread = (t) => Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].clientY);
+    const onTouchStart = (e) => {
+      if (e.touches.length === 2) pinch = { d: spread(e.touches), z: zoomRef.current };
+    };
+    const onTouchMove = (e) => {
+      if (!pinch || e.touches.length !== 2) return;
+      e.preventDefault();
+      const [a, b] = e.touches;
+      zoomTo((pinch.z * spread(e.touches)) / pinch.d, (a.clientX + b.clientX) / 2, (a.clientY + b.clientY) / 2);
+    };
+    const onTouchEnd = (e) => {
+      if (e.touches.length < 2) pinch = null;
+    };
+    const opts = { passive: false };
+    f.addEventListener("wheel", onWheel, opts);
+    f.addEventListener("gesturestart", onGestureStart, opts);
+    f.addEventListener("gesturechange", onGestureChange, opts);
+    f.addEventListener("touchstart", onTouchStart, opts);
+    f.addEventListener("touchmove", onTouchMove, opts);
+    f.addEventListener("touchend", onTouchEnd);
+    f.addEventListener("touchcancel", onTouchEnd);
+    return () => {
+      f.removeEventListener("wheel", onWheel, opts);
+      f.removeEventListener("gesturestart", onGestureStart, opts);
+      f.removeEventListener("gesturechange", onGestureChange, opts);
+      f.removeEventListener("touchstart", onTouchStart, opts);
+      f.removeEventListener("touchmove", onTouchMove, opts);
+      f.removeEventListener("touchend", onTouchEnd);
+      f.removeEventListener("touchcancel", onTouchEnd);
+    };
+  }, [frameRef, enabled, zoomTo]);
+
+  return zoomTo;
+}
