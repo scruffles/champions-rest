@@ -1,6 +1,6 @@
 const { test } = require("node:test");
 const assert = require("node:assert/strict");
-const { normalize, riverPolygon, kindOf } = require("./osm.cjs");
+const { normalize, riverPolygon, bankLine, kindOf } = require("./osm.cjs");
 
 const g = (...pairs) => pairs.map(([lon, lat]) => ({ lon, lat }));
 
@@ -46,4 +46,13 @@ test("riverPolygon joins the west bank (north to south) and east bank (south to 
   assert.deepEqual(ring[ring.length - 1], ring[0]);
   const east = ring.filter(([lon]) => lon > -90.176);
   assert.deepEqual(east.map((p) => p[1]), [38.62, 38.64]);
+});
+
+test("bankLine orients and orders ways and drops points that turn back in latitude", () => {
+  const ways = [
+    [[-90.17, 38.64], [-90.171, 38.63]], // north part, drawn north to south
+    [[-90.172, 38.62], [-90.1725, 38.6201], [-90.1721, 38.6199], [-90.171, 38.63]], // south part with a notch
+  ];
+  assert.deepEqual(bankLine(ways, false), [[-90.172, 38.62], [-90.1725, 38.6201], [-90.171, 38.63], [-90.17, 38.64]]);
+  assert.deepEqual(bankLine(ways, true), [[-90.17, 38.64], [-90.171, 38.63], [-90.1721, 38.6199]]);
 });

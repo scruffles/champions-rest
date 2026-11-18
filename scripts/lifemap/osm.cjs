@@ -56,6 +56,18 @@ function ringFrom(westPts, eastPts) {
   return [...west, ...east, west[0]];
 }
 
+// Bank ways ([[lon, lat]] each) -> one line running north to south (or south to north): each way is oriented,
+// the ways are ordered, and points that turn back in latitude are dropped. Sorting loose points by latitude
+// instead zigzags wherever the bank runs east-west for a moment (small notches showed as ticks).
+function bankLine(ways, northToSouth) {
+  const sign = northToSouth ? -1 : 1;
+  const oriented = ways.filter((w) => w.length).map((w) => (sign * (w.at(-1)[1] - w[0][1]) < 0 ? [...w].reverse() : w));
+  oriented.sort((a, b) => sign * (a[0][1] - b[0][1]));
+  const out = [];
+  for (const p of oriented.flat()) if (!out.length || sign * (p[1] - out.at(-1)[1]) > 0) out.push(p);
+  return out;
+}
+
 const BBOX = { s: 38.6155, w: -90.2055, n: 38.6435, e: -90.172 };
 
 function quarters(b) {
@@ -106,7 +118,7 @@ async function main() {
   // (Points outside the bbox come back as null.)
   const banks = river.elements.filter((e) => e.type === "way" && e.geometry).map((e) => e.geometry.filter(Boolean).map((p) => [p.lon, p.lat]));
   const meanLon = (w) => w.reduce((a, p) => a + p[0], 0) / w.length;
-  const ring = ringFrom(banks.filter((w) => meanLon(w) < -90.1805).flat(), banks.filter((w) => meanLon(w) >= -90.1805).flat());
+  const ring = ringFrom(bankLine(banks.filter((w) => meanLon(w) < -90.1805), true), bankLine(banks.filter((w) => meanLon(w) >= -90.1805), false));
   fc.features.unshift({ type: "Feature", properties: { kind: "water", name: "Mississippi River" }, geometry: { type: "Polygon", coordinates: [ring] } });
   fs.mkdirSync(path.join(ROOT, "mapdata"), { recursive: true });
   fs.writeFileSync(path.join(ROOT, "mapdata/stl-modern.geojson"), JSON.stringify(fc));
@@ -115,4 +127,4 @@ async function main() {
 }
 
 if (require.main === module) main();
-module.exports = { normalize, riverPolygon, ringFrom, kindOf, quarters };
+module.exports = { normalize, riverPolygon, ringFrom, bankLine, kindOf, quarters };

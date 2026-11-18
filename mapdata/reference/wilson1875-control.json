@@ -1,0 +1,26 @@
+{
+  "about": "Control points for lining up the 1875 Wm. C. Wilson & Bro. map (SHSMO Maps:193) with today's coordinates. x/y are pixels in the unrotated scan crop named in 'image' (IIIF region noted below). lon/lat are today's street intersections from mapdata/stl-modern.geojson (Eads piers: placed on today's bridge line, centre span centred on the river). Used only for tracing checks.",
+  "image": "review/work/maps/dl/wilson1875-downtown.jpg",
+  "iiif_region": "4400,3168,2288,1936",
+  "iiif_full_size": "8800x6728",
+  "points": [
+    {"note":"Fourth & Washington","lon":-90.187006,"lat":38.629729,"x":1095,"y":1182},
+    {"note":"Fourth & Market","lon":-90.188811,"lat":38.625164,"x":855,"y":1112},
+    {"note":"Seventh & Washington","lon":-90.190464,"lat":38.630443,"x":1135,"y":1022},
+    {"note":"Twelfth & Market","lon":-90.19832,"lat":38.627458,"x":980,"y":702},
+    {"note":"Eads west pier","lon":-90.1798,"lat":38.62901,"x":1112,"y":1490},
+    {"note":"Eads east pier","lon":-90.178,"lat":38.62882,"x":1110,"y":1570},
+    {"note":"Broadway & Mullanphy","lon":-90.186057,"lat":38.641169,"x":1743,"y":1205},
+    {"note":"Eighteenth & Cass","lon":-90.200654,"lat":38.642511,"x":1780,"y":588},
+    {"note":"Fourteenth & Gratiot","lon":-90.203724,"lat":38.621404,"x":655,"y":478},
+    {"note":"Fifteenth & Cass","lon":-90.197387,"lat":38.641827,"x":1732,"y":753},
+    {"note":"Eighteenth & Morgan (Delmar)","lon":-90.204251,"lat":38.634981,"x":1362,"y":500},
+    {"note":"Seventh & Market","lon":-90.192251,"lat":38.625952,"x":886,"y":951},
+    {"note":"Fourth & Clark (Myrtle)","lon":-90.189791,"lat":38.62274,"x":730,"y":1074},
+    {"note":"Fourteenth & Cass","lon":-90.196215,"lat":38.641582,"x":1721,"y":795},
+    {"note":"Fifth (Broadway) & Poplar","lon":-90.19176,"lat":38.621079,"x":628,"y":978},
+    {"note":"Fourth & Poplar","lon":-90.190626,"lat":38.620748,"x":624,"y":1028},
+    {"note":"Seventh & Chouteau","lon":-90.195689,"lat":38.617547,"x":448,"y":808},
+    {"note":"Fifth (Broadway) & Chouteau","lon":-90.193407,"lat":38.617081,"x":428,"y":905}
+  ]
+}

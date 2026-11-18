@@ -1,19 +1,412 @@
 {
   "about": "Differences between today's downtown (mapdata/stl-modern.geojson) and the 1875 Wm. C. Wilson & Bro. map. Every rename and addition is checked against the scan with scripts/lifemap/check-overlay.cjs. Coordinates [lon, lat].",
   "rename": {
-    "North Broadway": "Fifth St.",
+    "North Broadway": "Broadway",
     "South Broadway": "Fifth St.",
     "North Tucker Boulevard": "Twelfth St.",
-    "South Tucker Boulevard": "Twelfth St."
+    "South Tucker Boulevard": "Twelfth St.",
+    "North 1st Street": "Main St.",
+    "South 1st Street": "Main St.",
+    "North 2nd Street": "Second St.",
+    "South 2nd Street": "Second St.",
+    "South 3rd Street": "Third St.",
+    "North 4th Street": "Fourth St.",
+    "South 4th Street": "Fourth St.",
+    "North 6th Street": "Sixth St.",
+    "South 6th Street": "Sixth St.",
+    "North 7th Street": "Seventh St.",
+    "South 7th Street": "Seventh St.",
+    "North 8th Street": "Eighth St.",
+    "South 8th Street": "Eighth St.",
+    "North 9th Street": "Ninth St.",
+    "South 9th Street": "Ninth St.",
+    "North 10th Street": "Tenth St.",
+    "South 10th Street": "Tenth St.",
+    "North 11th Street": "Eleventh St.",
+    "South 11th Street": "Eleventh St.",
+    "North 13th Street": "Thirteenth St.",
+    "South 13th Street": "Thirteenth St.",
+    "North 14th Street": "Fourteenth St.",
+    "South 14th Street": "Fourteenth St.",
+    "North 15th Street": "Fifteenth St.",
+    "South 15th Street": "Fifteenth St.",
+    "North 16th Street": "Sixteenth St.",
+    "South 16th Street": "Sixteenth St.",
+    "North 17th Street": "Seventeenth St.",
+    "South 17th Street": "Seventeenth St.",
+    "North 18th Street": "Eighteenth St.",
+    "South 18th Street": "Eighteenth St.",
+    "North 19th Street": "Nineteenth St.",
+    "South 19th Street": "Nineteenth St.",
+    "North 20th Street": "Twentieth St.",
+    "South 20th Street": "Twentieth St.",
+    "Doctor Martin Luther King Drive": "Franklin Av.",
+    "Delmar Boulevard": "Morgan St.",
+    "Convention Plaza": "Morgan St.",
+    "Laclede's Landing Boulevard": "Morgan St.",
+    "Morgan Street": "Cherry St.",
+    "Lucas Avenue": "Green St.",
+    "Cole Street": "Wash St.",
+    "Clark Avenue": "Myrtle St.",
+    "Dickson Street": "Bates St.",
+    "North Leonor K. Sullivan Boulevard": "Levee",
+    "South Leonor K. Sullivan Boulevard": "Levee",
+    "Saint Charles Street": "St. Charles St.",
+    "Lumiere Place Boulevard": "Third St.",
+    "St Charles Street": "St. Charles St."
   },
-  "removeKinds": ["motorway", "park", "pedestrian", "rail"],
-  "removeNames": ["Memorial Drive", "Lumiere Place Boulevard", "Convention Plaza", "Cole Street", "Clark Avenue",
-    "Ozark Expressway", "Jack Buck Memorial Highway", "Third Street Expressway", "Andy Gammon Memorial Highway",
-    "Congressman William L. Clay Sr. Bridge", "Doctor Martin Luther King Bridge", "Stan Musial Veterans Memorial Bridge",
-    "MacArthur Bridge", "MacArthur Bridge Subdivision", "MacArthur Subdivision", "Merchants Subdivision",
-    "Lesperance Industrial Lead", "MetroLink", "Eads Subdivision", "Tucker Boulevard Cycle Track"],
-  "removeIds": [],
-  "keepBridges": ["Eads Bridge"],
-  "add": [],
-  "water": null
+  "removeKinds": [
+    "motorway",
+    "park",
+    "pedestrian",
+    "rail"
+  ],
+  "removeNames": [
+    "Memorial Drive",
+    "Ozark Expressway",
+    "Jack Buck Memorial Highway",
+    "Third Street Expressway",
+    "Andy Gammon Memorial Highway",
+    "Congressman William L. Clay Sr. Bridge",
+    "Doctor Martin Luther King Bridge",
+    "Stan Musial Veterans Memorial Bridge",
+    "MacArthur Bridge",
+    "MacArthur Bridge Subdivision",
+    "MacArthur Subdivision",
+    "Merchants Subdivision",
+    "Lesperance Industrial Lead",
+    "MetroLink",
+    "Eads Subdivision",
+    "Tucker Boulevard Cycle Track",
+    "North Memorial Drive",
+    "Adell Place",
+    "Arthur Place",
+    "Biddle Place",
+    "Cochran Place",
+    "French Market Court",
+    "Hickory Place",
+    "Lasalle Lane",
+    "Lasalle Park Court",
+    "Lebanon Drive",
+    "Long Way",
+    "Manhattan Place",
+    "Murphy Park Drive",
+    "New Haven Court",
+    "Preservation Place",
+    "Selby Place",
+    "Jonas Hubbard Street",
+    "Phipps Street",
+    "Vinson Street",
+    "Hadley Street",
+    "East 14th Street",
+    "Linden Street",
+    "Gay Street",
+    "North Florissant Avenue",
+    "North B Street",
+    "North Front Street",
+    "Front Street",
+    "Riverpark Drive",
+    "West Missouri Avenue",
+    "West Trendley Avenue",
+    "Winter Street"
+  ],
+  "removeIds": [
+    917651989,
+    917651991,
+    1338982827,
+    1338982828,
+    1338982829,
+    1338982830,
+    6414056,
+    153868605,
+    1338448671,
+    1419675922,
+    1338448670,
+    624311894,
+    180069829,
+    1338448680,
+    1338448681,
+    28540642,
+    28540741,
+    93339962,
+    269609558,
+    1249851602,
+    619591548,
+    619591549,
+    166621087,
+    271778745,
+    393037992,
+    393037993,
+    1318012314
+  ],
+  "keepBridges": [
+    "Eads Bridge"
+  ],
+  "add": [
+    {
+      "name": "Main St.",
+      "kind": "minor",
+      "coords": [
+        [-90.183465, 38.629285],
+        [-90.187016, 38.61953]
+      ]
+    },
+    {
+      "name": "Second St.",
+      "kind": "minor",
+      "coords": [
+        [-90.184692, 38.629416],
+        [-90.188124, 38.620039]
+      ]
+    },
+    {
+      "name": "Third St.",
+      "kind": "minor",
+      "coords": [
+        [-90.1861, 38.629656],
+        [-90.190288, 38.618558]
+      ]
+    },
+    {
+      "name": "St. Charles St.",
+      "kind": "minor",
+      "coords": [
+        [-90.187219, 38.629174],
+        [-90.182542, 38.628168]
+      ]
+    },
+    {
+      "name": "Locust St.",
+      "kind": "minor",
+      "coords": [
+        [-90.188761, 38.628503],
+        [-90.182869, 38.627017]
+      ]
+    },
+    {
+      "name": "Olive St.",
+      "kind": "minor",
+      "coords": [
+        [-90.187885, 38.627456],
+        [-90.183165, 38.626272]
+      ]
+    },
+    {
+      "name": "Pine St.",
+      "kind": "minor",
+      "coords": [
+        [-90.18661, 38.626299],
+        [-90.183473, 38.625521]
+      ]
+    },
+    {
+      "name": "Chestnut St.",
+      "kind": "minor",
+      "coords": [
+        [-90.187312, 38.625645],
+        [-90.183775, 38.624782]
+      ]
+    },
+    {
+      "name": "Market St.",
+      "kind": "major",
+      "coords": [
+        [-90.187637, 38.624836],
+        [-90.184096, 38.624002]
+      ]
+    },
+    {
+      "name": "Walnut St.",
+      "kind": "minor",
+      "coords": [
+        [-90.187621, 38.623864],
+        [-90.184481, 38.623068]
+      ]
+    },
+    {
+      "name": "Myrtle St.",
+      "kind": "minor",
+      "coords": [
+        [-90.189791, 38.62274],
+        [-90.185229, 38.621277]
+      ]
+    },
+    {
+      "name": "Spruce St.",
+      "kind": "minor",
+      "coords": [
+        [-90.188887, 38.622013],
+        [-90.185076, 38.62162]
+      ]
+    },
+    {
+      "name": "Elm St.",
+      "kind": "minor",
+      "coords": [
+        [-90.1929, 38.624447],
+        [-90.184855, 38.622173]
+      ]
+    },
+    {
+      "name": "Third St.",
+      "kind": "minor",
+      "coords": [
+        [-90.18602, 38.629654],
+        [-90.18586, 38.63235]
+      ]
+    },
+    {
+      "name": "Wash St.",
+      "kind": "minor",
+      "coords": [
+        [-90.18575, 38.633563],
+        [-90.181675, 38.632788]
+      ]
+    },
+    {
+      "name": "Poplar St.",
+      "kind": "minor",
+      "coords": [
+        [-90.20416, 38.62433],
+        [-90.19176, 38.62108]
+      ]
+    },
+    {
+      "name": "Poplar St.",
+      "kind": "minor",
+      "coords": [
+        [-90.19063, 38.62075],
+        [-90.18812, 38.62004]
+      ]
+    },
+    {
+      "name": "Gratiot St.",
+      "kind": "minor",
+      "coords": [
+        [-90.20359, 38.62137],
+        [-90.195, 38.6193]
+      ]
+    },
+    {
+      "name": "Sixth St.",
+      "kind": "minor",
+      "coords": [
+        [-90.18886, 38.63168],
+        [-90.18806, 38.63396]
+      ]
+    },
+    {
+      "name": "Seventh St.",
+      "kind": "minor",
+      "coords": [
+        [-90.18993, 38.63188],
+        [-90.18921, 38.6342]
+      ]
+    },
+    {
+      "name": "Eighth St.",
+      "kind": "minor",
+      "coords": [
+        [-90.19159, 38.63067],
+        [-90.19002, 38.63526]
+      ]
+    },
+    {
+      "name": "Ninth St.",
+      "kind": "minor",
+      "coords": [
+        [-90.19193, 38.63327],
+        [-90.19142, 38.63466]
+      ]
+    },
+    {
+      "name": "Eleventh St.",
+      "kind": "minor",
+      "coords": [
+        [-90.19266, 38.638],
+        [-90.19102, 38.64303]
+      ]
+    },
+    {
+      "name": "Twelfth St.",
+      "kind": "major",
+      "coords": [
+        [-90.19457, 38.63759],
+        [-90.192118, 38.6445]
+      ]
+    },
+    {
+      "name": "Ashley St.",
+      "kind": "minor",
+      "coords": [
+        [-90.186005, 38.636307],
+        [-90.181629, 38.635688]
+      ]
+    },
+    {
+      "name": "Columbia St.",
+      "kind": "minor",
+      "coords": [
+        [-90.185928, 38.639225],
+        [-90.181457, 38.638578]
+      ]
+    },
+    {
+      "name": "Levee",
+      "kind": "levee",
+      "ring": [
+        [-90.182789, 38.650428],
+        [-90.181504, 38.64596],
+        [-90.18074, 38.641722],
+        [-90.180076, 38.638914],
+        [-90.179999, 38.637635],
+        [-90.180878, 38.62986],
+        [-90.181501, 38.629069],
+        [-90.18208, 38.627285],
+        [-90.183289, 38.623673],
+        [-90.184709, 38.61917],
+        [-90.185647, 38.616238],
+        [-90.186678, 38.612405],
+        [-90.187645, 38.608496],
+        [-90.187128, 38.612429],
+        [-90.186636, 38.614944],
+        [-90.186084, 38.618198],
+        [-90.1846, 38.621903],
+        [-90.183422, 38.625561],
+        [-90.182627, 38.62827],
+        [-90.182371, 38.629167],
+        [-90.181497, 38.632734],
+        [-90.181042, 38.637737],
+        [-90.181414, 38.639929],
+        [-90.18228, 38.643585],
+        [-90.183173, 38.64721],
+        [-90.183778, 38.650555],
+        [-90.182789, 38.650428]
+      ]
+    }
+  ],
+  "water": [
+    [-90.182789, 38.650428],
+    [-90.181504, 38.64596],
+    [-90.18074, 38.641722],
+    [-90.180076, 38.638914],
+    [-90.179999, 38.637635],
+    [-90.180878, 38.62986],
+    [-90.181501, 38.629069],
+    [-90.18208, 38.627285],
+    [-90.183289, 38.623673],
+    [-90.184709, 38.61917],
+    [-90.185647, 38.616238],
+    [-90.186678, 38.612405],
+    [-90.187645, 38.608496],
+    [-90.177353, 38.607668],
+    [-90.177108, 38.613471],
+    [-90.176561, 38.620437],
+    [-90.176277, 38.628376],
+    [-90.175837, 38.635551],
+    [-90.175624, 38.639076],
+    [-90.175213, 38.642528],
+    [-90.174412, 38.649108],
+    [-90.182789, 38.650428]
+  ]
 }
