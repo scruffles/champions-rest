@@ -10,7 +10,9 @@
     "review": "node scripts/review.cjs",
     "package": "npm run build-search && vite build",
     "lint": "eslint .",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "test": "node --test scripts/lifemap/*.test.cjs src/components/lifemap/*.test.mjs",
+    "build-map": "node scripts/lifemap/build.cjs"
   },
   "repository": {
     "type": "git",
