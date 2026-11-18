@@ -31,3 +31,16 @@ test("labelText: 1875 names are upper case and abbreviated, like the period map"
   assert.equal(labelText("Fifth St.", "1875"), "FIFTH ST.");
   assert.equal(labelText("Market Street", "today"), "Market Street");
 });
+
+test("buildLayer draws land and lakes as areas and adds extra labels", () => {
+  const fc2 = {
+    features: [
+      { properties: { kind: "land" }, geometry: { type: "Polygon", coordinates: [[[0, 0], [0.5, 0], [0.5, 0.5], [0, 0]]] } },
+      { properties: { kind: "river", name: "Ohio" }, geometry: { type: "LineString", coordinates: [[0, 0.2], [0.4, 0.2]] } },
+    ],
+  };
+  const layer = buildLayer(fc2, frame, project, { era: "today", extraLabels: [{ text: "GULF", lon: 0.5, lat: 0.1, angle: 0, cls: "water" }] });
+  assert.match(layer.paths.land, /Z$/);
+  assert.equal(layer.paths.river, "M0 800L400 800");
+  assert.deepEqual(layer.labels, [{ text: "GULF", x: 500, y: 900, angle: 0, cls: "water" }]);
+});

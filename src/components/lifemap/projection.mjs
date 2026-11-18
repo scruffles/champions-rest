@@ -15,8 +15,10 @@ function makeFrame(id, west, south, east, north, width) {
 }
 
 // downtown: Cass Ave to Chouteau Ave, 18th St to the Illinois bank
+// america: Kansas to the Atlantic, the Gulf to Toronto
 export const FRAMES = {
   downtown: makeFrame("downtown", -90.2055, 38.6155, -90.172, 38.6435, 1800),
+  america: makeFrame("america", -98, 28.5, -66, 46, 1600),
 };
 
 const frameOf = (f) => (typeof f === "string" ? FRAMES[f] : f);

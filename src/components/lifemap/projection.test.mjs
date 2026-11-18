@@ -31,3 +31,10 @@ test("inFrame", () => {
   assert.equal(inFrame(D, -90.18761, 38.62985), true);
   assert.equal(inFrame(D, -90.2051, 38.60852), false);
 });
+
+test("america frame holds every city from Kansas City to Boston, New Orleans to Toronto", () => {
+  const A = FRAMES.america;
+  assert.equal(A.width, 1600);
+  assert.ok(A.height > 1080 && A.height < 1120, `height ${A.height}`);
+  for (const [lon, lat] of [[-94.5786, 39.0997], [-71.0589, 42.3601], [-90.0715, 29.9511], [-81.27, 29.86], [-79.3832, 43.6532]]) assert.equal(inFrame(A, lon, lat), true);
+});
