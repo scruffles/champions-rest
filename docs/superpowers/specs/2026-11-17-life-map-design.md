@@ -153,3 +153,40 @@ Update `CHANGELOG.md` (entry, Backlog, Status) when the user asks for a commit. 
 - Building outlines from the Whipple insurance maps.
 - An inset map of England.
 - Pictorial St. Louis building images on the place cards.
+
+---
+
+## Addendum (2026-11-17): America view and full-screen mode
+
+Approved by the user after the downtown page shipped. This replaces spec step 4. The citywide level (step 3) is still separate.
+
+### America view (`/map/america`)
+
+- **Tabs:** St. Louis | America above the map, as links styled like the site's segmented control. `?place=` works on both.
+- **Map data:** Natural Earth 1:50m (public domain), from the `nvkelso/natural-earth-vector` GeoJSON files. The layers are land, lakes, rivers and lake centrelines, state/province lines, and country borders.
+  - `scripts/lifemap/natural-earth.cjs` fetches them once (cached in `review/work/maps/ne/`), clips them to the frame plus a margin, and writes `mapdata/america.geojson` (committed).
+  - The existing build turns that into `src/components/lifemap/geo/america.json`.
+- **Frame:** `FRAMES.america` covers lon −98 to −66 and lat 28.5 to 46, 1600 units wide. It contains every "america" place: Kansas City to Boston, New Orleans and Anastasia Island to Toronto.
+- **Display:** no zoom. The map is fitted to its box at a fixed aspect ratio. Pins are positioned in percentages.
+- **Arcs:** from St. Louis to each place. They're solid for fights (`kind === "fight"` or the place has fights) and dashed for other trips.
+- **Labels:** city names are shown greedily, dropping any label too close to one already shown. The selected place always shows its full label. Hovering or focusing a pin shows its label.
+- **Places near St. Louis:** "america" places within 30 km of St. Louis (Chouteau Island, Venice, East St. Louis, Belleville) fold into a St. Louis marker. That marker is a virtual place, `st-louis`, whose card lists the grouped places as buttons and links to the St. Louis map. They get their own pins when the citywide level is built.
+- **Across the Atlantic:** Birmingham and London (`level: "atlantic"`) sit in an inset box of buttons that select them.
+- **Choosing the view:** selecting a place from the timeline opens the view that holds it: `downtown`/`city` → St. Louis, `america`/`atlantic` → America.
+- **Credit:** "Coastlines, rivers and borders: Natural Earth."
+- **Railroads:** stay in the backlog.
+
+### Full-screen mode
+
+- **Toggle:** a "Full screen" button (`aria-pressed`) in a bar above the map, next to the tabs. Esc exits, except while typing in a field.
+- **Remembered:** the choice is stored in `localStorage` (`lifemap-full`, read and written inside try/catch).
+- **Where it applies:** only when the window is at least 900 × 600 (`matchMedia`). Smaller screens always get the normal page, and the button is hidden there.
+- **While active,** `<html>` gets the class `lm-full`:
+  - the page doesn't scroll;
+  - the compact navbar is shown and usable. `Navbar.jsx` treats the class like "scrolled past", via `useHtmlClass` in `shared.jsx`.
+- **Layout:** the map page becomes a fixed layer below the 59 px compact bar, as a grid with three rows:
+  1. the view bar (tabs and Full screen);
+  2. the map and the card (the card scrolls inside itself);
+  3. the timeline.
+  
+  The page heading is hidden. The class is removed when the page unmounts.
