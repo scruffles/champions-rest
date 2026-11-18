@@ -1,0 +1,983 @@
+{
+  "about": "Draft gazetteer of places in Tom Allen's life, pulled from data/facts.js and data/fights.js (2026-11-17). Coordinates are modern WGS84. precision: 'block' = middle of the named block on today's street grid; 'intersection' = the corner today; 'area' = rough, needs a period map; 'city' = city centre only; null = not located yet. St. Louis east-west street numbers in the articles already follow the 100-per-block grid (417 Washington is 'between Fourth and Fifth' in 1870s articles, 619 Market 'between Sixth and Seventh' in the 1880s-1900s), so block-level positions on today's grid should hold. Fifth Street is today's Broadway. Map ids refer to maps.json. Corners come from OpenStreetMap street lines (2026-11-17). Market Street points between 4th and 7th are interpolated along that line; 9 North Ninth is extrapolated one block further, so check it on a period map.",
+  "places": [
+    {
+      "id": "birmingham",
+      "name": "Birmingham, England (birthplace)",
+      "kind": "residence",
+      "city": "Birmingham, England",
+      "lat": 52.4862,
+      "lon": -1.8904,
+      "precision": "city",
+      "from": "1839",
+      "to": "1867",
+      "facts": [
+        "001",
+        "051",
+        "052",
+        "053",
+        "964",
+        "501"
+      ],
+      "notes": "Birth year disputed (1839/1840/1841/1843). Lived there again about 1877-1882."
+    },
+    {
+      "id": "london",
+      "name": "London, England",
+      "kind": "residence",
+      "city": "London, England",
+      "lat": 51.5074,
+      "lon": -0.1278,
+      "precision": "city",
+      "from": "1877-09",
+      "to": "1879-11",
+      "facts": [
+        "472",
+        "476",
+        "488"
+      ],
+      "fights": [
+        "10",
+        "11"
+      ]
+    },
+    {
+      "id": "cleveland",
+      "name": "Cleveland, Ohio (first American home, saloon)",
+      "kind": "residence",
+      "city": "Cleveland, Ohio",
+      "lat": 41.4993,
+      "lon": -81.6944,
+      "precision": "city",
+      "from": "1867-07",
+      "to": "1869-01",
+      "facts": [
+        "006",
+        "084"
+      ]
+    },
+    {
+      "id": "stl-henrys-hall",
+      "name": "Prof. Henry's hall",
+      "kind": "venue",
+      "city": "St. Louis",
+      "address": "not given",
+      "lat": null,
+      "lon": null,
+      "precision": null,
+      "from": "1868-02-29",
+      "to": "1868-02-29",
+      "facts": [
+        "072"
+      ],
+      "notes": "First St. Louis appearance, with Bill Ryall (article 000). Location still to find, e.g. in an 1868 city directory."
+    },
+    {
+      "id": "stl-saloon-4th-washington-1868",
+      "name": "First St. Louis saloon, near Fourth and Washington",
+      "kind": "saloon",
+      "city": "St. Louis",
+      "address": "near the present Boatmen's Bank at Fourth Street and Washington Avenue (retrospective)",
+      "lat": 38.62973,
+      "lon": -90.18701,
+      "precision": "intersection",
+      "from": "1868",
+      "to": "1869",
+      "facts": [
+        "071",
+        "070"
+      ],
+      "maps": [
+        "whipple-1870s",
+        "compton-dry-1875"
+      ],
+      "notes": "Only a later retrospective; may be the 417 Washington saloon misdated.",
+      "today": "N 4th St at Washington Ave"
+    },
+    {
+      "id": "stl-mozart-hall",
+      "name": "Mozart Hall / Theatre Comique (old Mozart Hall)",
+      "kind": "venue",
+      "city": "St. Louis",
+      "address": "Broadway (then Fifth Street) and Biddle Street; 'corner of Fifth and ...' in 1870",
+      "lat": 38.63551,
+      "lon": -90.18616,
+      "precision": "intersection",
+      "from": "1868",
+      "to": "1874",
+      "facts": [
+        "067",
+        "199",
+        "200"
+      ],
+      "maps": [
+        "whipple-1870s",
+        "pitzman-1878",
+        "compton-dry-1875"
+      ],
+      "notes": "Belt presentation, 30 April 1870.",
+      "today": "N Broadway at Biddle St"
+    },
+    {
+      "id": "stl-saloon-fifth-1869",
+      "name": "Tom Allen's Concert Saloon",
+      "kind": "saloon",
+      "city": "St. Louis",
+      "address": "Fifth Street between O'Fallon and Biddle streets",
+      "lat": 38.63551,
+      "lon": -90.18616,
+      "precision": "area",
+      "from": "1869-03",
+      "to": "1870-01",
+      "facts": [
+        "008",
+        "098",
+        "121",
+        "145",
+        "147",
+        "163",
+        "170"
+      ],
+      "maps": [
+        "whipple-1870s",
+        "pitzman-1878",
+        "compton-dry-1875"
+      ],
+      "notes": "Fact 098 says his new saloon was on 'Fitch street' (March 1869, article 278). That is most likely OCR for Fifth Street, i.e. this saloon. Check the scan. The point is the Broadway (Fifth) and Biddle corner; the block toward O'Fallon still has to be confirmed on a period map.",
+      "today": "N Broadway between O'Fallon and Biddle"
+    },
+    {
+      "id": "stl-hennessys",
+      "name": "Hennessy's saloon (stakes, articles of agreement)",
+      "kind": "saloon-other",
+      "city": "St. Louis",
+      "address": "Fourth Street near Morgan",
+      "lat": 38.63113,
+      "lon": -90.18646,
+      "precision": "area",
+      "from": "1869-02",
+      "to": "1870-09",
+      "facts": [
+        "136",
+        "228"
+      ],
+      "maps": [
+        "whipple-1870s",
+        "pitzman-1878"
+      ],
+      "notes": "Morgan Street east of Tucker no longer exists under that name; place it from a period map.",
+      "today": "N 4th St, north of Washington Ave (approximate)"
+    },
+    {
+      "id": "stl-417-washington",
+      "name": "Champion's Rest / Free and Easy, 417 Washington Avenue",
+      "kind": "saloon",
+      "city": "St. Louis",
+      "address": "417 Washington Avenue, between Fourth and Fifth streets, 'by the tunnel'",
+      "lat": 38.62985,
+      "lon": -90.18761,
+      "precision": "block",
+      "from": "1870-03",
+      "to": "1876-04",
+      "facts": [
+        "192",
+        "009",
+        "017",
+        "253",
+        "274",
+        "296",
+        "310",
+        "320",
+        "323",
+        "325",
+        "345",
+        "348",
+        "362",
+        "363",
+        "365",
+        "010"
+      ],
+      "maps": [
+        "whipple-1870s",
+        "compton-dry-1875",
+        "pitzman-1878"
+      ],
+      "notes": "Concert hall opened 4 March 1871. Called Champion's Rest by 1874. Closed April 1876. The 'tunnel' is the Eads Bridge railroad tunnel under Washington Avenue (opened 1874). Point is the middle of the block; north or south side not yet known.",
+      "today": "Washington Ave between N Broadway and N 4th St"
+    },
+    {
+      "id": "stl-theatre-comique-pine",
+      "name": "Theatre Comique, Pine Street",
+      "kind": "venue",
+      "city": "St. Louis",
+      "address": "Pine Street",
+      "lat": null,
+      "lon": null,
+      "precision": "area",
+      "from": "1876-03",
+      "to": "1876-07",
+      "facts": [
+        "383"
+      ],
+      "maps": [
+        "compton-dry-1875",
+        "whipple-1870s"
+      ]
+    },
+    {
+      "id": "stl-kellys-9-n-ninth",
+      "name": "Tom Kelly's saloon, No. 9 North Ninth Street",
+      "kind": "saloon-other",
+      "city": "St. Louis",
+      "address": "9 North Ninth Street",
+      "lat": 38.6267,
+      "lon": -90.1944,
+      "precision": "block",
+      "from": "1876-09",
+      "to": "1876-09",
+      "facts": [
+        "454"
+      ],
+      "maps": [
+        "whipple-1870s",
+        "compton-dry-1875"
+      ],
+      "notes": "Just north of Market on Ninth.",
+      "today": "N 9th St just north of Market St"
+    },
+    {
+      "id": "stl-619-market",
+      "name": "Champion's Rest, 619 Market Street",
+      "kind": "saloon",
+      "city": "St. Louis",
+      "address": "619 Market Street, between Sixth and Seventh (once printed as 621)",
+      "lat": 38.62582,
+      "lon": -90.19168,
+      "precision": "block",
+      "from": "1883-03",
+      "to": "1903-04",
+      "facts": [
+        "541",
+        "552",
+        "565",
+        "569",
+        "586",
+        "596",
+        "612",
+        "614",
+        "641",
+        "649",
+        "689",
+        "690",
+        "696",
+        "713",
+        "719",
+        "730",
+        "738",
+        "747",
+        "749",
+        "760",
+        "761",
+        "768",
+        "492",
+        "493"
+      ],
+      "fights": [
+        "bill-richards-1883"
+      ],
+      "maps": [
+        "whipple-1895",
+        "rand-mcnally-1897",
+        "pitzman-1878"
+      ],
+      "notes": "Allen lived upstairs. Next door to Tom Kelly's and two doors from Jack Looney's (1883), a few doors east of Dan Daly's (1901). In July 1892 the block was said to be about to be torn down, but he was still there in 1903. Fact 011 ('opened a saloon on Market Street near Seventh' in 1870) is a retrospective and probably means this saloon.",
+      "today": "Market St between S 6th and S 7th St"
+    },
+    {
+      "id": "stl-daly-fight-1888",
+      "name": "Street fight with Dan Daly, Seventh and Market",
+      "kind": "fight",
+      "city": "St. Louis",
+      "address": "Seventh Street between Market and Chestnut streets",
+      "lat": 38.62637,
+      "lon": -90.19208,
+      "precision": "block",
+      "from": "1888-06-17",
+      "to": "1888-06-17",
+      "facts": [
+        "029",
+        "599",
+        "600"
+      ],
+      "fights": [
+        "dan-daly-1888"
+      ],
+      "maps": [
+        "whipple-1895"
+      ],
+      "today": "N 7th St between Market and Chestnut"
+    },
+    {
+      "id": "stl-masonic-hall",
+      "name": "Masonic Hall (umpired Bauer v. Muldoon)",
+      "kind": "venue",
+      "city": "St. Louis",
+      "lat": null,
+      "lon": null,
+      "precision": null,
+      "from": "1883-01-27",
+      "to": "1883-01-27",
+      "facts": [
+        "537"
+      ]
+    },
+    {
+      "id": "stl-sportsmans-park",
+      "name": "Sportsman's Park (refereed a sprint)",
+      "kind": "venue",
+      "city": "St. Louis",
+      "address": "Grand and Dodier",
+      "lat": 38.6567,
+      "lon": -90.21993,
+      "precision": "intersection",
+      "from": "1883-01-28",
+      "to": "1883-01-28",
+      "facts": [
+        "538"
+      ],
+      "maps": [
+        "pitzman-1878",
+        "rand-mcnally-1897"
+      ]
+    },
+    {
+      "id": "stl-olive-street-hotel",
+      "name": "Olive Street hotel",
+      "kind": "hotel",
+      "city": "St. Louis",
+      "lat": null,
+      "lon": null,
+      "precision": null,
+      "from": "1876-09-19",
+      "to": "1876-09-19",
+      "facts": [
+        "454"
+      ]
+    },
+    {
+      "id": "stl-geyer-property",
+      "name": "Property on Geyer Avenue (sold 1901)",
+      "kind": "property",
+      "city": "St. Louis",
+      "address": "south side of Geyer Avenue, between Ninth and Tenth streets",
+      "lat": 38.60852,
+      "lon": -90.2051,
+      "precision": "block",
+      "from": null,
+      "to": "1901-02",
+      "facts": [
+        "731"
+      ],
+      "maps": [
+        "whipple-1895",
+        "pitzman-1878"
+      ]
+    },
+    {
+      "id": "stl-baptist-hospital",
+      "name": "Baptist Hospital, where he died",
+      "kind": "death",
+      "city": "St. Louis",
+      "address": "Garrison and Franklin avenues (Franklin is now Dr. Martin Luther King Drive)",
+      "lat": null,
+      "lon": null,
+      "precision": "intersection",
+      "from": "1903-03-28",
+      "to": "1903-04-05",
+      "facts": [
+        "740",
+        "042",
+        "044"
+      ],
+      "maps": [
+        "rand-mcnally-1897"
+      ]
+    },
+    {
+      "id": "stl-grave",
+      "name": "Grave: Calvary or Bellefontaine Cemetery",
+      "kind": "burial",
+      "city": "St. Louis",
+      "lat": 38.6955,
+      "lon": -90.2335,
+      "precision": "area",
+      "from": "1903-04-08",
+      "to": null,
+      "facts": [
+        "754"
+      ],
+      "notes": "CONFLICT: article 208 (1903-04-11) says 'his lot in Calvary Cemetery'; article 209 (1903-04-12) says 'out in Bellefontaine Cemetery'. The two cemeteries are next to each other in north St. Louis. The point sits between them until the lot is confirmed (Find a Grave or cemetery records)."
+    },
+    {
+      "id": "stl-gravois-road",
+      "name": "Training on the Gravois road, about nine miles out",
+      "kind": "training",
+      "city": "St. Louis County",
+      "lat": null,
+      "lon": null,
+      "precision": "area",
+      "from": "1869-01",
+      "to": "1869-01",
+      "facts": [
+        "085"
+      ],
+      "maps": [
+        "pitzman-1878"
+      ]
+    },
+    {
+      "id": "stl-eight-mile-house",
+      "name": "Eight-Mile House (training camp)",
+      "kind": "training",
+      "city": "St. Louis County",
+      "lat": null,
+      "lon": null,
+      "precision": "area",
+      "from": "1873-10",
+      "to": "1873-10-26",
+      "facts": [
+        "289"
+      ],
+      "maps": [
+        "pitzman-1878"
+      ],
+      "notes": "Probably named for its distance from the courthouse along one of the county roads. Which road is still to be found."
+    },
+    {
+      "id": "stl-mount-olive-house",
+      "name": "Mount Olive House (quarters before the McCoole fight)",
+      "kind": "training",
+      "city": "St. Louis area",
+      "lat": null,
+      "lon": null,
+      "precision": null,
+      "from": "1873-09",
+      "to": "1873-09-23",
+      "facts": [
+        "969"
+      ]
+    },
+    {
+      "id": "stl-bissells-point",
+      "name": "Bissell's Point (boarded the Galatea)",
+      "kind": "travel",
+      "city": "St. Louis",
+      "lat": null,
+      "lon": null,
+      "precision": "area",
+      "from": "1869-02-23",
+      "to": "1869-02-23",
+      "facts": [
+        "096"
+      ],
+      "maps": [
+        "pitzman-1878",
+        "mrc-1880s"
+      ]
+    },
+    {
+      "id": "stl-foot-of-elm",
+      "name": "Foot of Elm Street levee (fight excursion steamer)",
+      "kind": "travel",
+      "city": "St. Louis",
+      "lat": 38.62236,
+      "lon": -90.18519,
+      "precision": "area",
+      "from": "1869-08-17",
+      "to": "1869-08-17",
+      "facts": [
+        "148"
+      ],
+      "maps": [
+        "compton-dry-1875",
+        "whipple-1870s"
+      ],
+      "today": "The riverfront at the south end of the Gateway Arch grounds (approximate)"
+    },
+    {
+      "id": "fight-rhodes-point-1869",
+      "name": "Fight site: Ben Reddish's farm near Rhodes' Point",
+      "kind": "fight",
+      "city": "40 to 59 miles from St. Louis",
+      "lat": null,
+      "lon": null,
+      "precision": null,
+      "from": "1869-01-12",
+      "to": "1869-01-12",
+      "fights": [
+        "002"
+      ],
+      "maps": [
+        "mrc-1880s"
+      ]
+    },
+    {
+      "id": "fight-carroll-island",
+      "name": "Fight site: Carroll Island (also printed Foil's Island), about a mile below Quarantine",
+      "kind": "fight",
+      "city": "Mississippi River, Illinois side",
+      "lat": null,
+      "lon": null,
+      "precision": "area",
+      "from": "1869-02-23",
+      "to": "1870-01-25",
+      "facts": [
+        "188",
+        "189",
+        "190"
+      ],
+      "fights": [
+        "gallagher-1869-02"
+      ],
+      "maps": [
+        "mrc-1880s"
+      ],
+      "notes": "The island may be gone or joined to the shore by now, so it needs a period river chart."
+    },
+    {
+      "id": "fight-fosters-island",
+      "name": "Fight site: Foster's Island",
+      "kind": "fight",
+      "city": "Mississippi River near St. Louis",
+      "lat": null,
+      "lon": null,
+      "precision": "area",
+      "from": "1869-06-15",
+      "to": "1869-08-17",
+      "fights": [
+        "003",
+        "004"
+      ],
+      "maps": [
+        "mrc-1880s"
+      ]
+    },
+    {
+      "id": "fight-chouteau-island",
+      "name": "Fight site: Chouteau Island, about 14 miles above St. Louis",
+      "kind": "fight",
+      "city": "Mississippi River, Illinois",
+      "lat": 38.71,
+      "lon": -90.17,
+      "precision": "area",
+      "from": "1869-08-17",
+      "to": "1873-09-23",
+      "facts": [
+        "149"
+      ],
+      "fights": [
+        "008"
+      ],
+      "maps": [
+        "mrc-1880s"
+      ],
+      "notes": "Gallagher fight 1869 and McCoole fight 1873. The island still exists but its outline has changed. Fight 004 (1869-08-17) is placed at Foster's Island in fights.js and at Chouteau Island in fact 149. Check which."
+    },
+    {
+      "id": "venice-il",
+      "name": "Venice, Illinois",
+      "kind": "travel",
+      "city": "Venice, Illinois",
+      "lat": 38.6723,
+      "lon": -90.1698,
+      "precision": "city",
+      "from": "1869-06-15",
+      "to": "1869-06-15",
+      "facts": [
+        "118"
+      ]
+    },
+    {
+      "id": "east-st-louis",
+      "name": "East St. Louis (Flannigan's Hall; Hogan fight site in one version)",
+      "kind": "venue",
+      "city": "East St. Louis, Illinois",
+      "lat": 38.6245,
+      "lon": -90.1509,
+      "precision": "city",
+      "from": "1873-10-28",
+      "to": "1883-03-29",
+      "facts": [
+        "545"
+      ],
+      "fights": [
+        "hogan-1873"
+      ]
+    },
+    {
+      "id": "belleville",
+      "name": "Belleville, Illinois (Turner Hall; quoits at West Belleville)",
+      "kind": "venue",
+      "city": "Belleville, Illinois",
+      "lat": 38.5201,
+      "lon": -89.984,
+      "precision": "city",
+      "from": "1883-03-02",
+      "to": "1883-04-08",
+      "facts": [
+        "544",
+        "547"
+      ]
+    },
+    {
+      "id": "union-mo",
+      "name": "Union, Franklin County (prize-fight hearing)",
+      "kind": "legal",
+      "city": "Union, Missouri",
+      "lat": 38.45,
+      "lon": -91.0085,
+      "precision": "city",
+      "from": "1888-04-18",
+      "to": "1888-04-18",
+      "facts": [
+        "595"
+      ]
+    },
+    {
+      "id": "troy-mo",
+      "name": "Troy, Lincoln County (trial)",
+      "kind": "legal",
+      "city": "Troy, Missouri",
+      "lat": 38.9795,
+      "lon": -90.9807,
+      "precision": "city",
+      "from": "1889-09-16",
+      "to": "1889-09-16",
+      "facts": [
+        "610"
+      ]
+    },
+    {
+      "id": "st-joseph-mo",
+      "name": "St. Joseph, Missouri (Brady's Hall)",
+      "kind": "venue",
+      "city": "St. Joseph, Missouri",
+      "lat": 39.7675,
+      "lon": -94.8467,
+      "precision": "city",
+      "from": "1869-08-31",
+      "to": "1869-08-31",
+      "facts": [
+        "155"
+      ]
+    },
+    {
+      "id": "kansas-city",
+      "name": "Kansas City and Westford (Mace-Coburn trip; Gallagher fight in Kansas)",
+      "kind": "fight",
+      "city": "Kansas City, Missouri",
+      "lat": 39.0997,
+      "lon": -94.5786,
+      "precision": "city",
+      "from": "1870-11-01",
+      "to": "1871-06-02",
+      "facts": [
+        "245"
+      ],
+      "fights": [
+        "007"
+      ]
+    },
+    {
+      "id": "springfield-il",
+      "name": "Springfield, Illinois (Lincoln Monument dedication)",
+      "kind": "travel",
+      "city": "Springfield, Illinois",
+      "lat": 39.7817,
+      "lon": -89.6501,
+      "precision": "city",
+      "from": "1874",
+      "to": "1874",
+      "facts": [
+        "312"
+      ]
+    },
+    {
+      "id": "cincinnati",
+      "name": "Cincinnati (Buckeye House, Mozart Hall, Gibson House, Vine Street)",
+      "kind": "training",
+      "city": "Cincinnati, Ohio",
+      "lat": 39.1031,
+      "lon": -84.512,
+      "precision": "city",
+      "from": "1869-05",
+      "to": "1876-09-11",
+      "facts": [
+        "107",
+        "118",
+        "164",
+        "165",
+        "167",
+        "423",
+        "443",
+        "450"
+      ],
+      "fights": [
+        "johnny-dyer-1876"
+      ]
+    },
+    {
+      "id": "carthage-oh",
+      "name": "Cedar Park, near Carthage (training for Goss)",
+      "kind": "training",
+      "city": "Carthage, Ohio (Cincinnati)",
+      "lat": 39.1912,
+      "lon": -84.4791,
+      "precision": "area",
+      "from": "1876-07",
+      "to": "1876-09",
+      "facts": [
+        "429",
+        "375"
+      ]
+    },
+    {
+      "id": "kentucky-goss-1876",
+      "name": "Goss fight, Kentucky; arrest and release at Covington",
+      "kind": "fight",
+      "city": "Covington, Kentucky",
+      "lat": 39.0837,
+      "lon": -84.5086,
+      "precision": "city",
+      "from": "1876-09-07",
+      "to": "1876-09-11",
+      "facts": [
+        "451"
+      ],
+      "fights": [
+        "009"
+      ],
+      "notes": "The fight site itself is only 'Kentucky' in fights.js."
+    },
+    {
+      "id": "louisville",
+      "name": "Louisville (Benson's Theatre)",
+      "kind": "venue",
+      "city": "Louisville, Kentucky",
+      "lat": 38.2527,
+      "lon": -85.7585,
+      "precision": "city",
+      "from": "1869-07-05",
+      "to": "1869-07-05",
+      "facts": [
+        "133",
+        "134"
+      ]
+    },
+    {
+      "id": "new-orleans",
+      "name": "New Orleans (Mace fight 1870; St. Charles Hotel, Olympic Club, Southern Hotel)",
+      "kind": "fight",
+      "city": "New Orleans, Louisiana",
+      "lat": 29.9511,
+      "lon": -90.0715,
+      "precision": "city",
+      "from": "1870-05-10",
+      "to": "1892-09-04",
+      "facts": [
+        "205",
+        "608",
+        "622",
+        "635",
+        "636",
+        "644"
+      ],
+      "fights": [
+        "005"
+      ],
+      "notes": "The 1870 Mace fight was held outside the city ('near New Orleans')."
+    },
+    {
+      "id": "pittsburgh",
+      "name": "Pittsburgh (training for Rooke, 1875)",
+      "kind": "training",
+      "city": "Pittsburgh, Pennsylvania",
+      "lat": 40.4406,
+      "lon": -79.9959,
+      "precision": "city",
+      "from": "1875-05",
+      "to": "1875-06-18",
+      "facts": [
+        "347"
+      ],
+      "fights": [
+        "rooke-1875"
+      ]
+    },
+    {
+      "id": "chicago",
+      "name": "Chicago (Adelphi 1876; Parson Davies' place 1882)",
+      "kind": "venue",
+      "city": "Chicago, Illinois",
+      "lat": 41.8781,
+      "lon": -87.6298,
+      "precision": "city",
+      "from": "1875-11-17",
+      "to": "1886-05",
+      "facts": [
+        "366",
+        "392",
+        "409",
+        "410",
+        "522",
+        "529",
+        "575"
+      ],
+      "fights": [
+        "elliott-1882"
+      ]
+    },
+    {
+      "id": "new-york",
+      "name": "New York (Hotel du Nord, Tammany Hall, Harry Hill's, Madison Square Garden)",
+      "kind": "venue",
+      "city": "New York, New York",
+      "lat": 40.7128,
+      "lon": -74.006,
+      "precision": "city",
+      "from": "1868",
+      "to": "1896-11",
+      "facts": [
+        "068",
+        "156",
+        "158",
+        "217",
+        "518",
+        "543",
+        "702"
+      ],
+      "fights": [
+        "sullivan-1882",
+        "john-dwyer-undated"
+      ]
+    },
+    {
+      "id": "boston",
+      "name": "Boston (arrival 1882, Hayward Place)",
+      "kind": "travel",
+      "city": "Boston, Massachusetts",
+      "lat": 42.3601,
+      "lon": -71.0589,
+      "precision": "city",
+      "from": "1882-10",
+      "to": "1882-11",
+      "facts": [
+        "016"
+      ]
+    },
+    {
+      "id": "detroit-peche-island",
+      "name": "Peche Island, Detroit River (seconded Elliott); Detroit 1872",
+      "kind": "fight",
+      "city": "Detroit River",
+      "lat": 42.3456,
+      "lon": -82.9256,
+      "precision": "area",
+      "from": "1868-11-12",
+      "to": "1872-09",
+      "facts": [
+        "077",
+        "255"
+      ]
+    },
+    {
+      "id": "acquia-creek",
+      "name": "Acquia Creek, Virginia (seconded Tom Kelly)",
+      "kind": "fight",
+      "city": "Aquia Creek, Virginia",
+      "lat": 38.4204,
+      "lon": -77.383,
+      "precision": "area",
+      "from": "1867",
+      "to": "1867",
+      "facts": [
+        "061"
+      ]
+    },
+    {
+      "id": "washington-dc",
+      "name": "Washington (Avenue Theatre benefit)",
+      "kind": "venue",
+      "city": "Washington, D.C.",
+      "lat": 38.8951,
+      "lon": -77.0364,
+      "precision": "city",
+      "from": "1876-06-10",
+      "to": "1876-06-10",
+      "facts": [
+        "427"
+      ]
+    },
+    {
+      "id": "toronto",
+      "name": "Toronto (in hiding after the Goss case)",
+      "kind": "residence",
+      "city": "Toronto, Canada",
+      "lat": 43.6532,
+      "lon": -79.3832,
+      "precision": "city",
+      "from": "1876-11",
+      "to": "1877-03",
+      "facts": [
+        "466",
+        "469",
+        "376"
+      ]
+    },
+    {
+      "id": "anastasia-island",
+      "name": "Mitchell's training camp, Anastasia Island, near St. Augustine; Jacksonville",
+      "kind": "training",
+      "city": "St. Augustine, Florida",
+      "lat": 29.86,
+      "lon": -81.27,
+      "precision": "area",
+      "from": "1893-12",
+      "to": "1894-01-27",
+      "facts": [
+        "666",
+        "671",
+        "675"
+      ]
+    },
+    {
+      "id": "corydon-in",
+      "name": "Corydon, Indiana (sister teaches school)",
+      "kind": "family",
+      "city": "Corydon, Indiana",
+      "lat": 38.212,
+      "lon": -86.1219,
+      "precision": "city",
+      "from": "1870-06",
+      "to": "1870-06",
+      "facts": [
+        "013"
+      ]
+    },
+    {
+      "id": "vincennes-in",
+      "name": "Vincennes, Indiana (where he married)",
+      "kind": "family",
+      "city": "Vincennes, Indiana",
+      "lat": 38.6773,
+      "lon": -87.5286,
+      "precision": "city",
+      "from": null,
+      "to": null,
+      "facts": [
+        "888"
+      ],
+      "notes": "Single source; conflicts with the wife living in England (fact 040)."
+    }
+  ]
+}

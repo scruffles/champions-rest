@@ -1,0 +1,104 @@
+{
+  "about": "Period maps to show under places.json, by id. 'overlay' says how each map can go on a web map: 'georeferenced' = someone has already lined it up with modern streets; 'iiif' = a free zoomable scan we can line up ourselves in Allmaps (which then serves XYZ tiles); 'picture' = cannot line up (perspective drawing), so link it from map pins instead. Researched 2026-11-16/17; the WashU and Rumsey sites blocked automated checks, so per-volume coverage and tile web addresses still need a browser check.",
+  "maps": [
+    {
+      "id": "whipple-1870s",
+      "title": "Oliver & Whipple / A. Whipple & Co. fire insurance maps of St. Louis",
+      "years": "1870-1876 volumes",
+      "use_for": "Building-by-building view of the 1868-1876 places: Fifth Street saloon, 417 Washington Avenue, Mozart Hall, Hennessy's, Theatre Comique.",
+      "holder": "Washington University in St. Louis, with the Missouri Historical Society (Whipple Volumes 1870-1898)",
+      "url": "https://data.library.wustl.edu/collection/Whipple%20Volumes%201870-1898?ln=en",
+      "example_record": "https://data.library.wustl.edu/record/108231",
+      "license": "Public domain / CC0 (1876 volume record)",
+      "overlay": "iiif",
+      "notes": "IIIF manifests offered on records. A 2023 WashU sprint lined up 200+ of these maps with modern streets; where the results are published is still to be found. Which volume covers which blocks is still to be checked."
+    },
+    {
+      "id": "whipple-1895",
+      "title": "A. Whipple & Co. insurance map of St. Louis",
+      "years": "1895 (with corrections)",
+      "use_for": "619 Market Street block, Seventh and Market (Daly fight), Geyer Avenue lot.",
+      "holder": "Washington University in St. Louis",
+      "url": "https://data.library.wustl.edu/collection/Whipple%20Volumes%201870-1898?ln=en",
+      "license": "Public domain",
+      "overlay": "iiif"
+    },
+    {
+      "id": "pitzman-1878",
+      "title": "Pitzman's New Atlas of the City and County of St. Louis",
+      "years": "1878",
+      "use_for": "Lot owners city-wide and county roads (Gravois road, Eight-Mile House, Sportsman's Park area).",
+      "holder": "St. Louis Genealogical Society (images from the State Historical Society of Missouri)",
+      "url": "https://stlgs.org/research-2/community/maps/pitzmans-1878-atlas-georeferenced",
+      "license": "Public domain page images",
+      "overlay": "georeferenced",
+      "notes": "Shown page by page on Google Maps with an owner-name index; some pages were still 'forthcoming' in 2024. No tile service published; the 1878 scans themselves could be lined up in Allmaps."
+    },
+    {
+      "id": "compton-dry-1875",
+      "title": "Compton & Dry, Pictorial St. Louis",
+      "years": "1875 (published 1876)",
+      "use_for": "Pictures of the actual buildings on Washington Avenue, Fifth Street and the levee.",
+      "holder": "Library of Congress; also David Rumsey Map Collection",
+      "url": "https://www.loc.gov/resource/g4164sm.gpm00001/?st=gallery",
+      "license": "Public domain",
+      "overlay": "picture",
+      "notes": "Perspective drawing, 110 plates. Link the right plate from each pin. Leaflet viewer of the whole thing: https://github.com/nielsenjared/pictorial-st-louis. LOC image number = plate + 4 for the early plates (plate 1 = ?sp=5); IIIF images download freely, e.g. https://tile.loc.gov/image-services/iiif/service:gmd:gmd416m:g4164m:g4164sm:gpm00001:pa00026m/full/3000,/0/default.jpg (plate 22). Downtown: plate 1 (levee south of the bridge), 2 (Eads Bridge), 21 (Court House, Theatre Comique, Lindell Hotel), 22 (Fourth at Christy and Morgan, Fourth National Bank; near Hennessy's)."
+    },
+    {
+      "id": "wilson-1875",
+      "title": "Wm. C. Wilson & Bro., Map of the City of St. Louis",
+      "years": "1875",
+      "use_for": "Whole-city street map of the 1870s; north is to the right on the sheet. Used in the life-map mockup as the downtown base map.",
+      "holder": "State Historical Society of Missouri (Maps collection, item 193)",
+      "url": "https://digital.shsmo.org/digital/collection/Maps/id/193",
+      "license": "Public domain",
+      "overlay": "iiif",
+      "notes": "IIIF: https://digital.shsmo.org/iiif/2/Maps:193 (8800x6728). Small scale (2 in. = 1 mile), so blocks are drawn but not buildings. A hand fit against four known addresses lines up with today's streets to within about a block."
+    },
+    {
+      "id": "studley-1870",
+      "title": "R. P. Studley, Map of St. Louis and Environs, 1870",
+      "years": "1870",
+      "use_for": "Regional view with the Mississippi islands (Cabaret, Chouteau and others) as they were when the fights were held.",
+      "holder": "State Historical Society of Missouri (Maps collection, item 196)",
+      "url": "https://digital.shsmo.org/digital/collection/Maps/id/196",
+      "license": "Public domain",
+      "overlay": "iiif",
+      "notes": "IIIF: https://digital.shsmo.org/iiif/2/Maps:196 (13800x10593)."
+    },
+    {
+      "id": "rand-mcnally-1897",
+      "title": "Rand, McNally & Co. map of St. Louis (Indexed Atlas of the World)",
+      "years": "1897 (copyright 1894)",
+      "use_for": "Whole-city base layer for the 1883-1903 years, including Garrison and Franklin (Baptist Hospital).",
+      "holder": "David Rumsey Map Collection",
+      "url": "https://davidrumsey.georeferencer.com/maps/ce760a47-28f0-5dd1-a891-174e29976940/",
+      "license": "CC BY-NC-SA (Rumsey standard)",
+      "overlay": "georeferenced",
+      "notes": "XYZ/WMTS tiles after a free sign-in."
+    },
+    {
+      "id": "mrc-1880s",
+      "title": "Mississippi River Commission, Survey of the Mississippi River (chart sheets)",
+      "years": "1881-1890s",
+      "use_for": "River islands used as fight grounds: Carroll/Foil's Island, Foster's Island, Chouteau Island, Bissell's Point, Quarantine.",
+      "holder": "University of Illinois Digital Library (also LOC; indexed in the Big Ten Academic Alliance (BTAA) Geoportal)",
+      "url": "https://digital.library.illinois.edu/items/908c1cd0-82d4-0134-1f08-0050569601ca-2",
+      "license": "Public domain",
+      "overlay": "iiif",
+      "notes": "Which chart sheet covers St. Louis to Alton is still to be found. Island outlines in the 1880s are closer to 1869-1873 than anything modern."
+    },
+    {
+      "id": "us-railroad-1880s",
+      "title": "Rand McNally / Colton railroad maps of the United States",
+      "years": "1882-1891",
+      "use_for": "National view: rail routes between St. Louis, Cincinnati, Chicago, New Orleans, Kansas City, Pittsburgh, New York.",
+      "holder": "David Rumsey Map Collection",
+      "url": "https://davidrumsey.georeferencer.com/maps/67b8fc14-0cf1-5f6c-9dd4-2ff9fb4638f1/",
+      "license": "CC BY-NC-SA (Rumsey standard)",
+      "overlay": "georeferenced",
+      "notes": "Some sheets in this series are not lined up yet; check each one."
+    }
+  ]
+}
