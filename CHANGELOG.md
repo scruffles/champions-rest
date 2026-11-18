@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-11-17
+
+### Added
+- Map page (`/map`): Tom Allen's downtown St. Louis places on our own drawing of the 1875 city, with a swipe comparison against a drawing of today's streets (OpenStreetMap data), clickable pins, place cards with facts and sources, zoom and pan, and a clickable timeline of where he lived
+- `data/places.js`: 40 located places (saloons, venues, fight sites, travels), generated from `review/places/places.json` by `scripts/lifemap/places.cjs`
+- Map build (`npm run build-map`, `scripts/lifemap/`): today's streets fetched from OpenStreetMap, turned into 1875 by hand edits (`mapdata/stl-1875-edits.json`) checked against the 1875 Wm. C. Wilson & Bro. map; the scan is only a tracing reference and isn't published
+- `npm test`: unit tests for the map scripts and helpers (Node's built-in test runner)
+
+### Changed
+- The article viewer's zoom gestures moved to `shared.jsx` so the map can use them too
+
 ## 2026-11-16
 
 ### Changed
@@ -168,7 +179,7 @@
 - **Timeline:** Tom Allen's life in order (fights, saloon openings, legal troubles, death), as its own page or a section
 - **People:** a page per notable figure (Jem Mace, Joe Goss, John L. Sullivan, Mike McCoole, etc.) with a mini-bio, their relationship to Allen through linked articles, and external links
 - **Champion's Rest saloon:** a page for the Market Street saloon (legal incidents, patrons, entertainment, closure)
-- **Map:** fight locations, saloons and other places from the articles, each linked to its articles; consider a historic St. Louis map overlay
+- **Map:** downtown St. Louis is done (`/map`). Still to do: the citywide zoom level (Sportsman's Park, the cemeteries, the river islands, traced from the Studley 1870 map); the America view (`/map/america`, arcs to every city he fought or travelled to); period railroads on the America view; tidy overlapping street and pin labels; shorter timeline labels for the narrow periods (Cleveland is cut off)
 - **Media:** photographs and drawings of Tom Allen with captions and links to their articles, or merge the missing ones into the existing media page
 
 ### Articles & Scans
