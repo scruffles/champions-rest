@@ -31,7 +31,7 @@ const routes = () => (
           <Route path="/" Component={Home} />
           <Route path="/biography" Component={Biography} />
           <Route path="/record" Component={Record} />
-          <Route path="/map" Component={LifeMap} />
+          <Route path="/map/:view?" Component={LifeMap} />
           <Route path="/articles" Component={Highlights} />
           <Route path="/articles/archive" Component={Archive} />
           <Route path="/articles/:id/:selection?" Component={ArticleDetail} />

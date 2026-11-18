@@ -25,7 +25,7 @@ const KIND = {
   burial: "Burial",
 };
 
-export default function PlaceCard({ place, onMap }) {
+export default function PlaceCard({ place, onMap, lookup, onSelect }) {
   if (!place) {
     return (
       <article className="lm-card">
@@ -60,6 +60,29 @@ export default function PlaceCard({ place, onMap }) {
       {place.today && <p className="lm-card-today">Today: {place.today}</p>}
       {place.precision === "area" && <p className="lm-card-note">The pin is approximate.</p>}
       {!onMap && <p className="lm-card-note">Not shown on this map.</p>}
+      {place.grouped?.length > 0 && (
+        <div className="lm-card-group">
+          <p className="lm-card-note">Close by, shown on this marker:</p>
+          <ul>
+            {place.grouped.map((id) => {
+              const g = lookup.get(id);
+              return (
+                g && (
+                  <li key={id}>
+                    <button type="button" className="btn-link" onClick={() => onSelect(id)}>
+                      {g.name}
+                    </button>{" "}
+                    <span className="muted">{placeYears(g)}</span>
+                  </li>
+                )
+              );
+            })}
+          </ul>
+          <Link to="/map" className="lm-card-open">
+            Open the St. Louis map →
+          </Link>
+        </div>
+      )}
       {placeFights.length > 0 && (
         <ul className="lm-card-fights">
           {placeFights.map((f) => (
@@ -88,10 +111,12 @@ export default function PlaceCard({ place, onMap }) {
         </ul>
       )}
       {place.notes && <p className="lm-card-notes">{place.notes}</p>}
-      <div className="lm-card-foot">
-        {placeFacts.length} facts from {articleCount} articles
-        {placeFacts.length > SHOWN_FACTS && ` · ${SHOWN_FACTS} shown`}
-      </div>
+      {placeFacts.length > 0 && (
+        <div className="lm-card-foot">
+          {placeFacts.length} facts from {articleCount} articles
+          {placeFacts.length > SHOWN_FACTS && ` · ${SHOWN_FACTS} shown`}
+        </div>
+      )}
     </article>
   );
 }
