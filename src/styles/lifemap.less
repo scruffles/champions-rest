@@ -801,3 +801,32 @@ html.lm-full {
   background: @ink;
   color: @paper;
 }
+
+// Zoom out / in as one joined control, like the St. Louis / America tabs.
+.lm-zoom {
+  display: inline-flex;
+  border: 1px solid @ink;
+  button {
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    font-size: 22px;
+    cursor: pointer;
+    & + button {
+      border-left: 1px solid @ink;
+    }
+    &:hover:not(:disabled) {
+      background: rgba(20, 18, 16, 0.06);
+    }
+    &:disabled {
+      color: @rule-light;
+      cursor: default;
+    }
+    &:focus-visible {
+      outline: 2px solid @red;
+      outline-offset: -2px;
+    }
+  }
+}

@@ -135,12 +135,14 @@ export default function StLouisMap({ places, selectedId, centreRequest = 0, onSe
               <span className="lm-switch-label">Compare with today</span>
             </button>
             <span className="grow" />
-            <button type="button" className="btn btn-square" aria-label="Zoom out" onClick={() => zoomTo(zoom / 1.4)} disabled={zoom <= MIN_ZOOM}>
-              −
-            </button>
-            <button type="button" className="btn btn-square" aria-label="Zoom in" onClick={() => zoomTo(zoom * 1.4)} disabled={zoom >= MAX_ZOOM}>
-              +
-            </button>
+            <div className="lm-zoom" role="group" aria-label="Zoom">
+              <button type="button" aria-label="Zoom out" onClick={() => zoomTo(zoom / 1.4)} disabled={zoom <= MIN_ZOOM}>
+                −
+              </button>
+              <button type="button" aria-label="Zoom in" onClick={() => zoomTo(zoom * 1.4)} disabled={zoom >= MAX_ZOOM}>
+                +
+              </button>
+            </div>
           </>,
           toolsEl,
         )}
