@@ -381,3 +381,145 @@
   font-style: italic;
   color: @muted;
 }
+
+.lm-card {
+  background: @panel;
+  border-top: 4px solid @red;
+  padding: 18px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  h2 {
+    font-size: 30px;
+  }
+}
+.lm-card-kicker {
+  font-size: 12px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: @red;
+  font-weight: 700;
+}
+.lm-card-addr {
+  margin: 0;
+  font-size: 15px;
+}
+.lm-card-today {
+  margin: 0;
+  font-size: 13px;
+  font-family: Inter, system-ui, sans-serif;
+  color: @today-blue;
+}
+.lm-card-note,
+.lm-card-notes {
+  margin: 0;
+  font-size: 13px;
+  font-style: italic;
+  color: @muted;
+}
+.lm-card-facts,
+.lm-card-fights {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 14px;
+  line-height: 1.35;
+}
+.lm-src {
+  font-size: 12px;
+  font-style: italic;
+  color: @red;
+}
+.lm-card-foot {
+  border-top: 1px solid @rule-light;
+  padding-top: 10px;
+  font-size: 13px;
+}
+
+.lm-timeline {
+  overflow-x: auto;
+}
+.lm-timeline-inner {
+  position: relative;
+  min-width: 900px;
+  height: 100px;
+}
+.lm-eras {
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 44px;
+}
+.lm-era {
+  position: absolute;
+  top: 0;
+  height: 44px;
+  padding: 0 5px;
+  border: 0;
+  border-right: 2px solid @paper;
+  overflow: hidden;
+  white-space: nowrap;
+  text-align: left;
+  font-size: 12.5px;
+  cursor: pointer;
+  background: #d4cab6;
+  &.lm-era-stl {
+    background: #c7bba2;
+  }
+  &.lm-era-main {
+    background: @red;
+    color: @paper;
+    font-weight: 700;
+  }
+  &.is-active,
+  &:focus-visible {
+    outline: 3px solid @ink;
+    outline-offset: -3px;
+  }
+}
+.lm-fights {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 52px;
+  height: 8px;
+}
+.lm-fight {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  margin-left: -4px;
+  background: @red;
+  transform: rotate(45deg);
+  &.lm-fight-key {
+    position: static;
+    display: inline-block;
+    margin: 0 6px 0 0;
+  }
+}
+.lm-axis {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 64px;
+  border-top: 1px solid @ink;
+  span {
+    position: absolute;
+    top: 4px;
+    transform: translateX(-50%);
+    font-size: 12px;
+    color: @muted;
+  }
+  .lm-death {
+    color: @ink;
+  }
+}
+.lm-legend {
+  position: absolute;
+  left: 0;
+  top: 84px;
+  font-size: 11px;
+  color: @muted;
+}
