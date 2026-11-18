@@ -7,7 +7,9 @@ import layer from "./geo/america.json";
 const FRAME = FRAMES.america;
 const W = FRAME.width;
 const H = FRAME.height;
-const LABEL_GAP = 70; // map units between city labels
+const LABEL_GAP = 120; // map units between city labels (the rest show on hover or focus)
+// Map labels stop at the first bracket, comma or semicolon; the card and aria-label carry the full name.
+const shortName = (name) => name.split(/\s*[(,;]/)[0];
 
 export default function AmericaMap({ places, home, selectedId, onSelect, isActive }) {
   // A place folded into the St. Louis marker highlights that marker.
@@ -66,7 +68,7 @@ export default function AmericaMap({ places, home, selectedId, onSelect, isActiv
               >
                 <span className="lm-pin-dot" aria-hidden="true" />
                 <span className="lm-pin-label" aria-hidden="true">
-                  {p.name.replace(/\s*\(.*$/, "")}
+                  {shortName(p.name)}
                   {years && <small>{years}</small>}
                 </span>
               </button>
@@ -77,8 +79,8 @@ export default function AmericaMap({ places, home, selectedId, onSelect, isActiv
           <div className="lm-atlantic">
             <div className="lm-atlantic-head">Across the Atlantic</div>
             {atlantic.map((p) => (
-              <button key={p.id} type="button" aria-pressed={p.id === selectedId} onClick={() => onSelect(p.id)}>
-                {p.name}
+              <button key={p.id} type="button" aria-label={p.name} aria-pressed={p.id === selectedId} onClick={() => onSelect(p.id)}>
+                {shortName(p.name)}
                 <small>{placeYears(p)}</small>
               </button>
             ))}
