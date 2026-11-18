@@ -15,13 +15,17 @@ export default function LifeMap() {
   const asked = params.get("place");
   const selectedId = BY_ID.has(asked) ? asked : DEFAULT_PLACE;
   const [eraId, setEraId] = React.useState(null);
+  const [centreRequest, setCentreRequest] = React.useState(0);
   const era = LIFE_ERAS.find((e) => e.id === eraId) || null;
 
   const select = React.useCallback((id) => setParams({ place: id }, { replace: true }), [setParams]);
   const onEra = (id) => {
     setEraId(id);
     const e = LIFE_ERAS.find((x) => x.id === id);
-    if (e) select(e.place);
+    if (e) {
+      select(e.place);
+      setCentreRequest((n) => n + 1);
+    }
   };
   const isActive = React.useCallback((p) => activeInEra(p, era), [era]);
   const place = BY_ID.get(selectedId);
@@ -34,7 +38,7 @@ export default function LifeMap() {
         <div className="deck">Where he kept saloon, sang and fought, drawn over the city as it was in 1875.</div>
       </div>
       <div className="lm-body">
-        <StLouisMap places={places} selectedId={selectedId} onSelect={select} isActive={isActive} />
+        <StLouisMap places={places} selectedId={selectedId} centreRequest={centreRequest} onSelect={select} isActive={isActive} />
         <aside>
           <PlaceCard place={place} onMap={place?.level === "downtown"} />
         </aside>

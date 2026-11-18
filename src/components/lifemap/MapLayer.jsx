@@ -5,7 +5,7 @@ import React from "react";
 const AREAS = ["water", "levee", "park"];
 const ROADS = ["pedestrian", "minor", "major", "motorway", "bridge"];
 
-export default function MapLayer({ layer, era, k }) {
+function MapLayer({ layer, era, k }) {
   const p = layer.paths;
   return (
     <g className={`lm-layer lm-${era}`}>
@@ -24,3 +24,5 @@ export default function MapLayer({ layer, era, k }) {
     </g>
   );
 }
+
+export default React.memo(MapLayer);

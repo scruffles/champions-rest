@@ -179,7 +179,7 @@
 - **Timeline:** Tom Allen's life in order (fights, saloon openings, legal troubles, death), as its own page or a section
 - **People:** a page per notable figure (Jem Mace, Joe Goss, John L. Sullivan, Mike McCoole, etc.) with a mini-bio, their relationship to Allen through linked articles, and external links
 - **Champion's Rest saloon:** a page for the Market Street saloon (legal incidents, patrons, entertainment, closure)
-- **Map:** downtown St. Louis is done (`/map`). Still to do: the citywide zoom level (Sportsman's Park, the cemeteries, the river islands, traced from the Studley 1870 map); the America view (`/map/america`, arcs to every city he fought or travelled to); period railroads on the America view; tidy overlapping street and pin labels; shorter timeline labels for the narrow periods (Cleveland is cut off)
+- **Map:** downtown St. Louis is done (`/map`). Still to do: the citywide zoom level (Sportsman's Park, the cemeteries, the river islands, traced from the Studley 1870 map); the America view (`/map/america`, arcs to every city he fought or travelled to); period railroads on the America view; tidy overlapping street and pin labels; shorter timeline labels for the narrow periods (Cleveland is cut off); keep the view centred when the window resizes; keyboard panning on the map frame; Home/End keys and a spoken value for the swipe handle; link fights on place cards to their Record entry
 - **Media:** photographs and drawings of Tom Allen with captions and links to their articles, or merge the missing ones into the existing media page
 
 ### Articles & Scans

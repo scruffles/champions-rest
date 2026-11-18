@@ -42,7 +42,10 @@ export default function PlaceCard({ place, onMap }) {
   const years = placeYears(place);
 
   return (
-    <article className="lm-card" aria-live="polite">
+    <article className="lm-card">
+      <p className="sr" aria-live="polite">
+        Selected: {place.name}
+      </p>
       <div className="lm-card-kicker">Selected place · {KIND[place.kind] || place.kind}</div>
       <h2>{place.name}</h2>
       <p className="lm-card-addr">

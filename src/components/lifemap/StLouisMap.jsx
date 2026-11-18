@@ -26,7 +26,7 @@ function Pin({ pin, k, selected, faded, onSelect }) {
   );
 }
 
-export default function StLouisMap({ places, selectedId, onSelect, isActive }) {
+export default function StLouisMap({ places, selectedId, centreRequest = 0, onSelect, isActive }) {
   const frameRef = React.useRef(null);
   const stageRef = React.useRef(null);
   const [zoom, setZoom] = React.useState(START_ZOOM);
@@ -57,16 +57,19 @@ export default function StLouisMap({ places, selectedId, onSelect, isActive }) {
     [places],
   );
 
-  // Centre the selected place: at once on first render, smoothly afterwards.
+  // Centre the selected place: at once on first render, smoothly afterwards. centreRequest lets the page
+  // ask again for the same place (a timeline period clicked twice, or a return from a place off this map).
   const centred = React.useRef(null);
+  const centreKey = `${selectedId}:${centreRequest}`;
   React.useLayoutEffect(() => {
-    const f = frameRef.current;
-    const pin = pins.find((p) => p.id === selectedId);
-    if (!k || !pin || centred.current === selectedId) return;
+    if (!k || centred.current === centreKey) return;
     const first = centred.current === null;
-    centred.current = selectedId;
+    centred.current = centreKey;
+    const pin = pins.find((p) => p.id === selectedId);
+    if (!pin) return;
+    const f = frameRef.current;
     f.scrollTo({ left: pin.x * k - f.clientWidth / 2, top: pin.y * k - f.clientHeight / 2, behavior: first ? "auto" : "smooth" });
-  }, [selectedId, k, pins]);
+  }, [centreKey, selectedId, k, pins]);
 
   // Drag to pan with a mouse; touch screens scroll natively.
   const drag = React.useRef(null);
@@ -91,8 +94,9 @@ export default function StLouisMap({ places, selectedId, onSelect, isActive }) {
 
   // Swipe handle: position is a fraction of the visible map width.
   const moveSplit = (clientX) => {
-    const r = stageRef.current.getBoundingClientRect();
-    setSplit(Math.min(0.98, Math.max(0.02, (clientX - r.left) / r.width)));
+    const stage = stageRef.current; // measure the padding box, as the line and the frame do
+    const left = stage.getBoundingClientRect().left + stage.clientLeft;
+    setSplit(Math.min(0.98, Math.max(0.02, (clientX - left) / stage.clientWidth)));
   };
   const onHandleDown = (e) => {
     e.currentTarget.setPointerCapture(e.pointerId);
@@ -113,7 +117,10 @@ export default function StLouisMap({ places, selectedId, onSelect, isActive }) {
   return (
     <div className="lm-map">
       <div className="lm-toolbar">
-        <button type="button" role="switch" aria-checked={compare} className="lm-switch" onClick={() => setCompare((c) => !c)}>
+        <button type="button" role="switch" aria-checked={compare} className="lm-switch" onClick={() => {
+            setView((v) => ({ ...v, sl: frameRef.current.scrollLeft }));
+            setCompare((c) => !c);
+          }}>
           <span className="lm-knob" aria-hidden="true" />
           <span className="lm-switch-label">Compare with today</span>
         </button>
@@ -131,6 +138,7 @@ export default function StLouisMap({ places, selectedId, onSelect, isActive }) {
           className="lm-frame"
           ref={frameRef}
           onScroll={(e) => {
+            if (!compare) return; // only the swipe clip needs the scroll position
             const sl = e.currentTarget.scrollLeft;
             setView((v) => ({ ...v, sl }));
           }}
