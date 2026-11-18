@@ -130,7 +130,10 @@ export default function StLouisMap({ places, selectedId, onSelect, isActive }) {
         <div
           className="lm-frame"
           ref={frameRef}
-          onScroll={(e) => setView((v) => ({ ...v, sl: e.currentTarget.scrollLeft }))}
+          onScroll={(e) => {
+            const sl = e.currentTarget.scrollLeft;
+            setView((v) => ({ ...v, sl }));
+          }}
           onPointerDown={onPointerDown}
           onPointerMove={onPointerMove}
           onPointerUp={onPointerUp}

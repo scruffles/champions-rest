@@ -8,6 +8,7 @@ import ArticleDetail from "./articles/ArticleDetail";
 import Biography from "./Biography";
 import Record from "./Record";
 import About from "./About";
+import LifeMap from "./lifemap/LifeMap";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -30,6 +31,7 @@ const routes = () => (
           <Route path="/" Component={Home} />
           <Route path="/biography" Component={Biography} />
           <Route path="/record" Component={Record} />
+          <Route path="/map" Component={LifeMap} />
           <Route path="/articles" Component={Highlights} />
           <Route path="/articles/archive" Component={Archive} />
           <Route path="/articles/:id/:selection?" Component={ArticleDetail} />
