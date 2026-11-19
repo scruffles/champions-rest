@@ -56,3 +56,30 @@ test("bankLine orients and orders ways and drops points that turn back in latitu
   assert.deepEqual(bankLine(ways, false), [[-90.172, 38.62], [-90.1725, 38.6201], [-90.171, 38.63], [-90.17, 38.64]]);
   assert.deepEqual(bankLine(ways, true), [[-90.17, 38.64], [-90.171, 38.63], [-90.1721, 38.6199]]);
 });
+
+test("joinRings joins ways into closed rings and drops open ones", () => {
+  const rings = require("./osm.cjs").joinRings([
+    [[0, 0], [1, 0]],
+    [[1, 1], [1, 0]], // reversed
+    [[1, 1], [0, 1], [0, 0]],
+    [[5, 5], [6, 6]], // never closes
+  ]);
+  assert.deepEqual(rings, [[[0, 0], [1, 0], [1, 1], [0, 1], [0, 0]]]);
+});
+
+test("landmarkFeatures draws the listed landmarks with labels, ponds and the Arch trail", () => {
+  const sq = (x) => [{ lon: x, lat: 0 }, { lon: x + 1, lat: 0 }, { lon: x + 1, lat: 1 }, { lon: x, lat: 1 }, { lon: x, lat: 0 }];
+  const fc = require("./osm.cjs").landmarkFeatures({
+    elements: [
+      { type: "relation", id: 2511955, tags: { name: "Busch Stadium" }, members: [{ role: "outer", geometry: sq(0) }, { role: "inner", geometry: sq(0.25).map((p) => ({ lon: p.lon * 0.5, lat: p.lat * 0.5 })) }] },
+      { type: "way", id: 42963069, tags: { natural: "water", water: "pond", name: "South Pond" }, geometry: sq(10) },
+      { type: "way", id: 1, tags: { natural: "water", water: "river" }, geometry: sq(20) },
+      { type: "way", id: 2, tags: { name: "Gateway Arch Trail", highway: "footway" }, geometry: [{ lon: 0, lat: 0 }, { lon: 1, lat: 1 }] },
+      { type: "way", id: 3, tags: { building: "yes", name: "Somewhere" }, geometry: sq(30) },
+    ],
+  });
+  assert.deepEqual(fc.map((f) => f.properties.kind), ["stadium", "pitch", "label", "pond", "path"]);
+  assert.equal(fc[0].geometry.coordinates.length, 2); // the stadium keeps the field as a hole
+  assert.deepEqual(fc[2].properties, { kind: "label", name: "Busch Stadium", cls: "landmark" });
+  assert.deepEqual(fc[2].geometry.coordinates, [0.4, 0.4]); // middle of the outline's points
+});

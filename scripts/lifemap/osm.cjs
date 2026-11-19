@@ -70,6 +70,66 @@ function bankLine(ways, northToSouth) {
 
 const BBOX = { s: 38.6155, w: -90.2055, n: 38.6435, e: -90.172 };
 
+// Landmarks drawn on today's map, by OSM element: kind, the name shown and where (default: the outline's
+// middle). The Arch's museum is underground; its glass entrance (the Visitor Center) stands for it.
+const LANDMARKS = {
+  relation12627717: { kind: "park", label: "Gateway Arch National Park", at: [-90.1838, 38.6262] },
+  relation12813920: { kind: "arch", label: "Gateway Arch", at: [-90.1843, 38.62465] },
+  way1265941497: { kind: "landmark", label: "Arch museum entrance", at: [-90.1866, 38.62535] },
+  way42341614: { kind: "landmark", label: "Old Courthouse", at: [-90.1894, 38.6262] },
+  relation2511955: { kind: "stadium", inner: "pitch", label: "Busch Stadium" },
+};
+
+// Ways ([[lon, lat]] each) -> closed rings, joining ways that share end points.
+function joinRings(ways) {
+  const same = (a, b) => a[0] === b[0] && a[1] === b[1];
+  const left = ways.filter((w) => w.length > 1).map((w) => [...w]);
+  const rings = [];
+  while (left.length) {
+    const ring = left.shift();
+    let grew = true;
+    while (!same(ring[0], ring.at(-1)) && grew) {
+      grew = false;
+      for (let i = 0; i < left.length; i++) {
+        const w = left[i];
+        if (same(w[0], ring.at(-1))) ring.push(...w.slice(1));
+        else if (same(w.at(-1), ring.at(-1))) ring.push(...[...w].reverse().slice(1));
+        else continue;
+        left.splice(i, 1);
+        grew = true;
+        break;
+      }
+    }
+    if (same(ring[0], ring.at(-1)) && ring.length > 3) rings.push(ring);
+  }
+  return rings;
+}
+
+const centre = (ring) => [ring.reduce((a, p) => a + p[0], 0) / ring.length, ring.reduce((a, p) => a + p[1], 0) / ring.length];
+
+// Landmark query result -> features: the LANDMARKS outlines (plus their labels as "label" points), ponds
+// and pools (closed natural=water ways), and the Gateway Arch Trail as "path" lines.
+function landmarkFeatures(osm) {
+  const features = [];
+  const geom = (g) => (g || []).filter(Boolean).map((p) => [p.lon, p.lat]);
+  for (const el of osm.elements || []) {
+    const t = el.tags || {};
+    const spec = LANDMARKS[el.type + el.id];
+    if (spec) {
+      const outer = el.type === "way" ? joinRings([geom(el.geometry)]) : joinRings(el.members.filter((m) => m.role === "outer").map((m) => geom(m.geometry)));
+      const inner = el.type === "way" ? [] : joinRings(el.members.filter((m) => m.role === "inner").map((m) => geom(m.geometry)));
+      for (const ring of outer) features.push({ type: "Feature", properties: { osm: el.id, kind: spec.kind, name: t.name || null }, geometry: { type: "Polygon", coordinates: [ring, ...inner] } });
+      if (spec.inner) for (const ring of inner) features.push({ type: "Feature", properties: { osm: el.id, kind: spec.inner, name: null }, geometry: { type: "Polygon", coordinates: [ring] } });
+      if (outer.length) features.push({ type: "Feature", properties: { kind: "label", name: spec.label, cls: "landmark" }, geometry: { type: "Point", coordinates: spec.at || centre(outer[0]) } });
+    } else if (el.type === "way" && t.natural === "water" && t.water !== "river") {
+      for (const ring of joinRings([geom(el.geometry)])) features.push({ type: "Feature", properties: { osm: el.id, kind: "pond", name: t.name || null }, geometry: { type: "Polygon", coordinates: [ring] } });
+    } else if (el.type === "way" && t.name === "Gateway Arch Trail") {
+      features.push({ type: "Feature", properties: { osm: el.id, kind: "path", name: null }, geometry: { type: "LineString", coordinates: geom(el.geometry) } });
+    }
+  }
+  return features;
+}
+
 function quarters(b) {
   const mLat = (b.s + b.n) / 2;
   const mLon = (b.w + b.e) / 2;
@@ -83,6 +143,8 @@ function quarters(b) {
 
 const bb = (b) => `${b.s},${b.w},${b.n},${b.e}`;
 const roadsQuery = (b) => `[out:json][timeout:90];(way["highway"](${bb(b)});way["railway"~"^(rail|light_rail)$"](${bb(b)});way["leisure"="park"](${bb(b)}););out geom;`;
+const landmarksQuery = (b) =>
+  `[out:json][timeout:120];(nwr["leisure"~"^(stadium|pitch|park)$"](${bb(b)});nwr["building"]["name"](${bb(b)});nwr["man_made"]["name"~"Arch"](${bb(b)});nwr["name"~"Gateway Arch|Courthouse|Busch Stadium"](${bb(b)});nwr["natural"="water"]["water"!="river"](${bb(b)}););out geom;`;
 const riverQuery = (b) => `[out:json][timeout:90];relation["natural"="water"]["water"="river"](${bb(b)});way(r)(${bb(b)});out geom(${bb(b)});`;
 
 async function overpass(query, file) {
@@ -120,11 +182,12 @@ async function main() {
   const meanLon = (w) => w.reduce((a, p) => a + p[0], 0) / w.length;
   const ring = ringFrom(bankLine(banks.filter((w) => meanLon(w) < -90.1805), true), bankLine(banks.filter((w) => meanLon(w) >= -90.1805), false));
   fc.features.unshift({ type: "Feature", properties: { kind: "water", name: "Mississippi River" }, geometry: { type: "Polygon", coordinates: [ring] } });
+  fc.features.push(...landmarkFeatures(await overpass(landmarksQuery(BBOX), path.join(RAW, "landmarks.json"))));
   fs.mkdirSync(path.join(ROOT, "mapdata"), { recursive: true });
   fs.writeFileSync(path.join(ROOT, "mapdata/stl-modern.geojson"), JSON.stringify(fc));
   const n = (k) => fc.features.filter((f) => f.properties.kind === k).length;
-  console.log(`mapdata/stl-modern.geojson: ${fc.features.length} features (major ${n("major")}, minor ${n("minor")}, motorway ${n("motorway")}, bridge ${n("bridge")}, park ${n("park")}, rail ${n("rail")}, river ring ${ring.length} pts)`);
+  console.log(`mapdata/stl-modern.geojson: ${fc.features.length} features (major ${n("major")}, minor ${n("minor")}, motorway ${n("motorway")}, bridge ${n("bridge")}, park ${n("park")}, rail ${n("rail")}, pond ${n("pond")}, landmarks ${n("label")}, river ring ${ring.length} pts)`);
 }
 
 if (require.main === module) main();
-module.exports = { normalize, riverPolygon, ringFrom, bankLine, kindOf, quarters };
+module.exports = { normalize, riverPolygon, ringFrom, bankLine, kindOf, quarters, joinRings, landmarkFeatures };

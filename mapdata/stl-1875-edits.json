@@ -59,7 +59,14 @@
     "motorway",
     "park",
     "pedestrian",
-    "rail"
+    "rail",
+    "pond",
+    "path",
+    "pitch",
+    "stadium",
+    "landmark",
+    "arch",
+    "label"
   ],
   "removeNames": [
     "Memorial Drive",

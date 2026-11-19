@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { HOME, distanceKm, viewOfPlace, nearHome, homePlace, isFightPlace, arcPath, visibleLabels, fitView } from "./views.mjs";
+import { HOME, distanceKm, viewOfPlace, nearHome, homePlace, isFightPlace, arcPath, visibleLabels, fitView, boxesOverlap, placeBoxes, fitStreetLabels } from "./views.mjs";
 
 const P = (id, level, lat, lon, extra = {}) => ({ id, level, lat, lon, kind: "travel", fights: [], ...extra });
 const places = [
@@ -59,4 +59,39 @@ test("fitView widens or heightens the core frame to fill the box, centred", () =
   assert.deepEqual(fitView(1600, 1000, 2000, 1000), { x: -200, y: 0, w: 2000, h: 1000 });
   assert.deepEqual(fitView(1600, 1000, 800, 800), { x: 0, y: -300, w: 1600, h: 1600 });
   assert.deepEqual(fitView(1600, 1000, 0, 0), { x: 0, y: 0, w: 1600, h: 1000 });
+});
+
+test("boxesOverlap handles rotated boxes", () => {
+  const a = { x: 0, y: 0, w: 100, h: 10 };
+  assert.equal(boxesOverlap(a, { x: 40, y: 0, w: 30, h: 10 }), true);
+  assert.equal(boxesOverlap(a, { x: 0, y: 20, w: 100, h: 10 }), false);
+  // A long label tilted 45° near the end of another: the bounding boxes meet but the labels don't.
+  assert.equal(boxesOverlap({ x: 0, y: 0, w: 100, h: 10, angle: 45 }, { x: 40, y: -40, w: 20, h: 10 }), false);
+  assert.equal(boxesOverlap({ x: 0, y: 0, w: 100, h: 10, angle: 45 }, { x: 30, y: 30, w: 20, h: 10 }), true);
+});
+
+test("placeBoxes keeps boxes in order, skipping overlaps and obstacles but not forced ones", () => {
+  const boxes = [
+    { id: "a", x: 0, y: 0, w: 50, h: 10 },
+    { id: "b", x: 20, y: 0, w: 50, h: 10 },
+    { id: "c", x: 0, y: 30, w: 50, h: 10 },
+    { id: "d", x: 0, y: 60, w: 50, h: 10 },
+    { id: "e", x: 10, y: 0, w: 10, h: 10, force: true },
+  ];
+  const obstacles = [
+    { id: "c", x: 0, y: 30, w: 8, h: 8 }, // c's own dot: ignored
+    { id: "x", x: 0, y: 60, w: 8, h: 8 }, // another pin's dot covers d
+  ];
+  assert.deepEqual([...placeBoxes(boxes, obstacles)], ["a", "c", "e"]);
+});
+
+test("fitStreetLabels puts major names first and drops minor names when zoomed out", () => {
+  const labels = [
+    { text: "Minor St.", x: 0, y: 0, angle: 0, cls: "minor" },
+    { text: "Major St.", x: 1, y: 0, angle: 0, cls: "major" },
+    { text: "Far St.", x: 0, y: 500, angle: 0, cls: "minor" },
+  ];
+  assert.deepEqual(fitStreetLabels(labels, 0.5).map((l) => l.text), ["Major St."]);
+  assert.deepEqual(fitStreetLabels(labels, 1).map((l) => l.text), ["Major St.", "Far St."]);
+  assert.deepEqual(fitStreetLabels(labels, 1, [{ x: 0, y: 500, w: 200, h: 200 }]).map((l) => l.text), ["Major St."]);
 });

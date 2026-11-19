@@ -44,3 +44,10 @@ test("buildLayer draws land and lakes as areas and adds extra labels", () => {
   assert.equal(layer.paths.river, "M0 800L400 800");
   assert.deepEqual(layer.labels, [{ text: "GULF", x: 500, y: 900, angle: 0, cls: "water" }]);
 });
+
+test("buildLayer turns label points into labels", () => {
+  const frame = { id: "t", w: 0, s: 0, e: 1, n: 1, width: 100, height: 100 };
+  const project = (_f, lon, lat) => [lon * 100, (1 - lat) * 100];
+  const fc = { features: [{ properties: { kind: "label", name: "Busch Stadium", cls: "landmark" }, geometry: { type: "Point", coordinates: [0.5, 0.25] } }] };
+  assert.deepEqual(buildLayer(fc, frame, project, { era: "today" }).labels, [{ text: "Busch Stadium", x: 50, y: 75, angle: 0, cls: "landmark" }]);
+});

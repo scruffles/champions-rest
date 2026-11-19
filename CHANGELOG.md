@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-11-18
+
+### Added
+- Map, today's layer: Gateway Arch National Park with its ponds and trails, the Arch, the Arch museum entrance, the Old Courthouse and Busch Stadium with its field, each labelled (OpenStreetMap)
+
+### Changed
+- Map: pin and street labels no longer overlap; where two would collide the less important one waits for hover or focus, and the selected place's label always shows
+- Map: timeline periods show their full name, short name or nothing, whichever fits, instead of cutting the name off (Cleveland)
+- Map: the St. Louis view keeps the same point in the middle when the window resizes or full screen turns on or off
+- Map: zoom, the compare switch and the swipe position survive a visit to the America tab
+
 ## 2026-11-17
 
 ### Added
@@ -181,13 +192,14 @@
 - **Timeline:** Tom Allen's life in order (fights, saloon openings, legal troubles, death), as its own page or a section
 - **People:** a page per notable figure (Jem Mace, Joe Goss, John L. Sullivan, Mike McCoole, etc.) with a mini-bio, their relationship to Allen through linked articles, and external links
 - **Champion's Rest saloon:** a page for the Market Street saloon (legal incidents, patrons, entertainment, closure)
-- **Map:** downtown St. Louis (`/map`), the America view (`/map/america`) and full-screen mode are done. Still to do: the citywide zoom level (Sportsman's Park, the cemeteries, the river islands, traced from the Studley 1870 map); period railroads on the America view; tidy overlapping street and pin labels; shorter timeline labels for the narrow periods (Cleveland is cut off); keep the view centred when the window resizes; keyboard panning on the map frame; Home/End keys and a spoken value for the swipe handle; link fights on place cards to their Record entry; the compact navbar wraps and cuts off search below about 1000px wide (shows in full-screen mode); keep zoom and the compare switch when switching tabs; redirect unknown `/map/<view>` URLs; lazy-load the map page so its outlines don't weigh on the first page load
+- **Map:** downtown St. Louis (`/map`), the America view (`/map/america`) and full-screen mode are done. Still to do: the citywide zoom level (Sportsman's Park, the cemeteries, the river islands, traced from the Studley 1870 map); period railroads on the America view; keyboard panning on the map frame; Home/End keys and a spoken value for the swipe handle; link fights on place cards to their Record entry; the compact navbar wraps and cuts off search below about 1000px wide (shows in full-screen mode); redirect unknown `/map/<view>` URLs; lazy-load the map page so its outlines don't weigh on the first page load
 - **Media:** photographs and drawings of Tom Allen with captions and links to their articles, or merge the missing ones into the existing media page
 
 ### Articles & Scans
 - Add newly found articles (review them, then extract and index their facts as described in `.claude/CLAUDE.md`)
 - Download better scans for the pages in `review/MISSING-PAGES.md` where it would help, most of all 974 ("Tom Allen Badly Beaten"), 931 and 769
 - Go through every full-page scan for photographs and drawings of Tom Allen (portraits, sketches), noting the page, article id and caption, for the Media page
+- **Picture archive:** gather every picture we have (portraits, sketches, photographs, period maps, scans) into one archive, clean up what we can (crop, straighten, remove stains and noise, keeping the original next to each cleaned copy), and record the source of each one (paper or collection, date, page, URL, article id, rights); the Media page draws from it
 
 ### Site & Infrastructure
 - Test the redesign in Safari and on iPhone (only desktop Chrome has been checked), including the new pinch zoom in the article viewer

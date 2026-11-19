@@ -6,8 +6,8 @@ const { simplify, toPath, polylineLength, labelAt, placeLabels } = require("./ge
 const { applyEdits } = require("./edits.cjs");
 
 const ROOT = path.join(__dirname, "../..");
-const KINDS = ["water", "park", "levee", "rail", "pedestrian", "minor", "major", "motorway", "bridge", "land", "lake", "river", "state", "border"];
-const AREAS = new Set(["water", "park", "levee", "land", "lake"]);
+const KINDS = ["water", "park", "levee", "pond", "path", "rail", "pedestrian", "minor", "major", "motorway", "bridge", "pitch", "stadium", "landmark", "arch", "land", "lake", "river", "state", "border"];
+const AREAS = new Set(["water", "park", "levee", "pond", "pitch", "stadium", "landmark", "arch", "land", "lake"]);
 const LABELLED = { major: 0, motorway: 1, minor: 2 };
 const TOL = 0.8; // map units (~1.3 m downtown)
 const MIN_LABEL_LEN = 120;
@@ -24,8 +24,14 @@ function labelText(name, era) {
 function buildLayer(fc, frame, project, { era, tol = TOL, extraLabels = [] }) {
   const parts = Object.fromEntries(KINDS.map((k) => [k, []]));
   const cands = [];
+  const points = []; // "label" features: names placed by hand (landmarks)
   for (const f of fc.features) {
     const { kind, name } = f.properties;
+    if (kind === "label") {
+      const [lon, lat] = f.geometry.coordinates;
+      points.push({ text: name, lon, lat, angle: f.properties.angle || 0, cls: f.properties.cls || "major" });
+      continue;
+    }
     if (!(kind in parts)) continue;
     const rings = f.geometry.type === "Polygon" ? f.geometry.coordinates : [f.geometry.coordinates];
     for (const ring of rings) {
@@ -40,7 +46,7 @@ function buildLayer(fc, frame, project, { era, tol = TOL, extraLabels = [] }) {
   }
   const r1 = (n) => Math.round(n * 10) / 10;
   const labels = placeLabels(cands, { minSpacing: 600 }).map(({ text, x, y, angle, cls }) => ({ text, x: r1(x), y: r1(y), angle, cls }));
-  for (const l of extraLabels) {
+  for (const l of [...points, ...extraLabels]) {
     const [x, y] = project(frame, l.lon, l.lat);
     labels.push({ text: l.text, x: r1(x), y: r1(y), angle: l.angle, cls: l.cls });
   }

@@ -52,3 +52,9 @@ export function americanFights(fights) {
     .map((f) => ({ ...f, year: toYear(f.date) }))
     .filter((f) => f.year != null && f.year >= 1868 && f.year < 1904 && !/England|Glasgow|London/.test(f.location || ""));
 }
+
+// The longest of a period's names that fits its bar: label, then short, else none. measure(text) -> px.
+export function fitEraLabel(era, avail, measure) {
+  for (const t of [era.label, era.short]) if (t && measure(t) <= avail) return t;
+  return "";
+}

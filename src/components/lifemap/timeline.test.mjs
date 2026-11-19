@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { LIFE_ERAS, toYear, placeSpan, activeInEra, placeYears, americanFights } from "./timeline.mjs";
+import { LIFE_ERAS, toYear, placeSpan, activeInEra, placeYears, americanFights, fitEraLabel } from "./timeline.mjs";
 
 const era = (id) => LIFE_ERAS.find((e) => e.id === id);
 
@@ -52,4 +52,13 @@ test("americanFights keeps fights that happened in America, 1868-1903", () => {
 
 test("eras are in order and don't overlap", () => {
   for (let i = 1; i < LIFE_ERAS.length; i++) assert.ok(LIFE_ERAS[i].from >= LIFE_ERAS[i - 1].to, LIFE_ERAS[i].id);
+});
+
+test("fitEraLabel picks the longest name that fits, or none", () => {
+  const era = { label: "Cleveland", short: "Clev." };
+  const measure = (t) => t.length * 7;
+  assert.equal(fitEraLabel(era, 100, measure), "Cleveland");
+  assert.equal(fitEraLabel(era, 40, measure), "Clev.");
+  assert.equal(fitEraLabel(era, 20, measure), "");
+  assert.equal(fitEraLabel({ label: "Toronto", short: "" }, 20, measure), "");
 });

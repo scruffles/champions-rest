@@ -68,3 +68,46 @@ export function fitView(w, h, boxW, boxH) {
   if (ar >= w / h) return { x: (w - h * ar) / 2, y: 0, w: h * ar, h };
   return { x: 0, y: (h - w / ar) / 2, w, h: w / ar };
 }
+
+// Label boxes: { x, y, w, h, angle } with (x, y) the centre and angle in degrees. Separating-axis test.
+export function boxesOverlap(a, b) {
+  const axes = (r) => {
+    const t = ((r.angle || 0) * Math.PI) / 180;
+    return [
+      [Math.cos(t), Math.sin(t)],
+      [-Math.sin(t), Math.cos(t)],
+    ];
+  };
+  const span = (r, [ax, ay]) => {
+    const [[ux, uy], [vx, vy]] = axes(r);
+    const c = r.x * ax + r.y * ay;
+    const e = Math.abs((r.w / 2) * (ux * ax + uy * ay)) + Math.abs((r.h / 2) * (vx * ax + vy * ay));
+    return [c - e, c + e];
+  };
+  for (const axis of [...axes(a), ...axes(b)]) {
+    const [a0, a1] = span(a, axis);
+    const [b0, b1] = span(b, axis);
+    if (a1 <= b0 || b1 <= a0) return false;
+  }
+  return true;
+}
+
+// Keeps each box, in order, that overlaps no box kept before it and no obstacle (an obstacle with the
+// box's own id doesn't count: a pin's own dot). force: true keeps a box regardless. Returns the kept ids.
+export function placeBoxes(boxes, obstacles = []) {
+  const kept = [];
+  for (const b of boxes) {
+    if (!b.force && (kept.some((k) => boxesOverlap(b, k)) || obstacles.some((o) => o.id !== b.id && boxesOverlap(b, o)))) continue;
+    kept.push(b);
+  }
+  return new Set(kept.map((b) => b.id));
+}
+
+// Street and water names at zoom k (screen px per map unit), in screen px. Minor names wait for k >= 0.9;
+// major names go first; a name that would cover a blocker (pin dots and labels) or another name is left out.
+export function fitStreetLabels(labels, k, blockers = [], { charEm = 0.6, fontPx = 11 } = {}) {
+  const cands = labels.filter((l) => l.cls === "major" || k >= 0.9).sort((a, b) => (a.cls !== "major") - (b.cls !== "major"));
+  const boxes = cands.map((l, i) => ({ id: `l${i}`, l, x: l.x * k, y: l.y * k, w: l.text.length * fontPx * charEm + 6, h: fontPx + 4, angle: l.angle }));
+  const shown = placeBoxes(boxes, blockers);
+  return boxes.filter((b) => shown.has(b.id)).map((b) => b.l);
+}

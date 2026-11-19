@@ -2,7 +2,7 @@ import React from "react";
 import { Link, useNavigate, useParams, useSearchParams } from "react-router-dom";
 import { places } from "../../../data/places";
 import { fights } from "../../../data/fights";
-import StLouisMap from "./StLouisMap";
+import StLouisMap, { START_ZOOM } from "./StLouisMap";
 import AmericaMap from "./AmericaMap";
 import PlaceCard from "./PlaceCard";
 import LifeTimeline from "./LifeTimeline";
@@ -37,6 +37,11 @@ export default function LifeMap() {
   const era = LIFE_ERAS.find((e) => e.id === eraId) || null;
   const full = useFullscreen();
   const [toolsEl, setToolsEl] = React.useState(null);
+  // The St. Louis map's zoom and compare switch, kept here so they survive a visit to the America tab.
+  const [zoom, setZoom] = React.useState(START_ZOOM);
+  const [compare, setCompare] = React.useState(false);
+  const [split, setSplit] = React.useState(0.5);
+  const stlSettings = { zoom, setZoom, compare, setCompare, split, setSplit };
 
   const go = React.useCallback(
     (id, toView) => navigate(`${PATH[toView]}?place=${encodeURIComponent(id)}`, { replace: toView === view }),
@@ -81,7 +86,7 @@ export default function LifeMap() {
       </div>
       <div className="lm-body">
         {view === "stl" ? (
-          <StLouisMap places={places} selectedId={selectedId} centreRequest={centreRequest} onSelect={select} isActive={isActive} toolsEl={toolsEl} />
+          <StLouisMap places={places} selectedId={selectedId} centreRequest={centreRequest} onSelect={select} isActive={isActive} toolsEl={toolsEl} settings={stlSettings} />
         ) : (
           <AmericaMap places={places} home={HOME_PLACE} selectedId={selectedId} onSelect={select} isActive={isActive} />
         )}
